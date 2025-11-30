@@ -1,0 +1,145 @@
+Dīpaṃkara: Satyadvayāvatāranāma
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dIpaMkara-satyadvayAvatAranAma.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Sonam Rabten: Satyadvayavataradigrantha catustayam. Sarnath : Central Institute of High Tibetan Studies (CIHTS), 2000, pp. 91-94.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Satyadvayāvatāranāma = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsa024_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Dipamkara [=Dipankara]: Satyadvayavataranama
+Based on the ed. by Sonam Rabten: Satyadvayavataradigrantha catustayam.
+Sarnath : Central Institute of High Tibetan Studies (CIHTS), 2000, pp. 91-94.
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sastra section, text no. 24
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+satyadvayāvatāranāma (sda)
+
+// namo mahākāruṇikāya //
+
+dve satye samupāśritya buddhānāṃ dharmadeśanā /
+lokasaṃvṛtisatyaṃ ca satyaṃ ca paramārthataḥ // sda_1 //
+
+saṃvṛttirmanyate dvedhā mithyā ca tathatā tathā /
+ādyā dvidhodacandraśca kusiddhāntavitarkaṇā // sda_2 //
+
+avicāraikaramyā ca vināśotpādadharmiṇī /
+arthakriyāsamarthā ca tathatāsaṃvṛtirmatā // sda_3 //
+
+eka evaparo hyarthaḥ paraiśca dvividho mataḥ /
+na kācid dharmatā siddhā kuto dvitryādikaṃ bhavet // sda_4 //
+
+anutpādanirodhādi deśanāvākyalakṣitam /
+paramārthābhinnaśīlatvān naiva dharmā na dharmatā // sda_5 //
+
+śūnyatāyāṃ vibhedastu kiñcinmātraṃ na vidyate /
+nirvikalpatayā bodhe śūnyatādṛṣṭirucyate // sda_6 //
+
+uktaṃ sūtre sugambhīre taddarśanamadarśanam /
+tatra draṣṭā na dṛśyaṃ cāpyanādinidhanaṃ śivam // sda_7 //
+
+nirvikalpaṃ nirālambaṃ bhāvābhāvavivarjitam /
+anāśrayāpratiṣṭhānam atulyaṃ nirgatāgatam // sda_8 //
+
+anirvācyamanābhāsaṃ nirvikāramasaṃskṛtam /
+yogigamyamidaṃ kleśajñeyāvaraṇavarjitam // sda_9 //
+
+pratyakṣamanumānañca taddvayaṃ bauddhasammatam /
+ubhābhyāṃ śūnyatā gamyetyarvāgdṛṅmohabhāṣitam // sda_10 //
+
+prasajyeddharmatājñānaṃ tīrthike śrāvake 'pi ca /
+vijñānināñca kiṃ vācyaṃ mādhyamike 'viruddhatā // sda_11 //
+
+tarhi sarve 'pi siddhāntā mānameyatayā samāḥ /
+sarvatarkaviruddhatvān mānameyāpi dharmatā // sda_12 //
+
+bāhulyena kathaṃ na syāt pratyakṣaṃ cānumā vṛthā /
+tīrthyavādanivṛtyarthaṃ vidvadbhiḥ kṛtayaḥ kṛtāḥ // sda_13 //
+
+savikalpāvikalpābhyāṃ jñānābhyāṃ nāvagamyate /
+āgame 'pi sphuṭaṃ vidvānācāryo bhavya āha ca // sda_14 //
+
+śūnyatāvagatā kena vyākṛtā yā tathāgataiḥ /
+nāgāntevāsicandro hi dharmatāsatyadarśakaḥ // sda_15 //
+
+tataḥ paramparāmnāyairdharmatāsatyagamyatā /
+dharmaskandhasahasrāṇi catvāryuktānyaśīti ca // sda_16 //
+
+dharmatāntargataṃ sarvam muktistu śūnyatābodhes tadarthā śeṣabhāvanā tathyasaṃvṛtimādhūya // sda_17 //
+
+śūnyatābhyasane sati saṃvṛtihetoḥpuṇyādeḥ /
+paralokācca vañcyate viviktārthamajānānaḥ // sda_18 //
+
+svalpaśrutisamāśritaḥ yo naraḥ puṇyakṛnnāsti /
+naṣṭaḥ kāpuruṣastu saḥ vināśayati durdṛṣṭā // sda_19 //
+
+śūnyatā mandamedhasam candrācārya uvācaivam /
+upāyabhūtaṃ vyavahārasatyamupeyabhūtaṃ paramārthasatyam // sda_20 //
+
+dvayorvibhedaṃ na hi veda yo sa vrajedapāyaṃ viparītabodhāt /
+vyavahāramanāgamya paramārtho na deśyate // sda_21 //
+
+tathyasaṃvṛtisopānamantareṇa vipaścitaḥ /
+tattvaprāsādaśikharārohaṇaṃ na hi yujyate // sda_22 //
+
+yathāyaṃ saṃvṛterbhāso yuktyā kiñcinna labhyate /
+paramārthastvalabdhatvam ādisaṃsthitadharmatā // sda_23 //
+
+hetupratyayajanyatvāt saṃvṛtirbhāsavanmatā /
+ayuktaṃ śodhitum cet kairjalacandrādivinirmitam // sda_24 //
+
+nānāpratyayajanyatvāt siddho bhāso 'khilastataḥ /
+pratyayānāṃ tu vicchedātsaṃvṛttyāpi na sambhavaḥ // sda_25 //
+
+evaṃ dṛṣṭerasaṃmohāj jāte caryāviśodhane /
+unmārge 'gamanaṃ kṛtvākaniṣṭhaṃ sthānamāpnuyāt // sda_26 //
+
+āyuṣyamalpaṃ bāhulāśca vidyā āyuḥpramāṇaṃ ca kiyanna vidmaḥ /
+svābhīṣṭameva pratilambhanīyaṃ haṃsairyathā kṣīramivāmbumadhyāt // sda_27 //
+
+arvāgdṛśā mohavaśena cāpi kṣamo na satyadvayanirṇaye 'pi /
+uktīrgurūṇāmiha sampratītya nyastaṃ dvayaṃ nāgamataṃ hi satyam // sda_28 //
+
+rājño 'nurodhena suvarṇadvīpe kṛte 'tra śrāddho yadi vā jano 'dya /
+gṛhṇātu samyak suparīkṣaṇena na śraddhayā naiva ca gauraveṇa // sda_29 //
+
+sauvarṇarājena guroḥphalena saṃpreṣito devamatirhi bhikṣuḥ /
+tasyāgrahāt satyadvayāvatāro yuktyā sudhībhistviha vīkṣaṇīyaḥ // sda_30 //
+
+ācāryadīpaṅkaraśrījñānaviracitaḥ satyadvayāvatāraḥ samāptaḥ /
+
+tenaiva paṇḍitena anuvādakena vīryasiṃhena cānūdya saṃśodhya ca nirṇītaḥ /

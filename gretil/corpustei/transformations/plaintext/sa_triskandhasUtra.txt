@@ -1,0 +1,68 @@
+Triskandhasūtra
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_triskandhasUtra.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - M.B. Shakya. Buddhist Himalaya X.1. Nepal: Nagarjuna Institute of Exact Methods, 2000, 1-6.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Triskandhasūtra = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsu039_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Triskandhasutra = TsSū
+Based on the edition by M.B. Shakya. Buddhist Himalaya X.1.
+Nepal: Nagarjuna Institute of Exact Methods, 2000, 1-6.
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sutra section, text no. 39
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+āryatriskandha sūtram
+
+tatreyaṃ(āpatti) deśanā -
+
+ahamevaṃnāmā buddhaṃ śaraṇaṃ gacchāmi / dharma śaraṇaṃ gacchāmi / saṃghaṃ śaraṇaṃ gacchāmi /
+
+namaḥ (bhagavate) śākyamunaye tathāgatāyārhate samyaksaṃbuddhāya / namo vajra(sāra)pramardine / namo ratnārciṣe / namo nāgeśvararājāya / namo vīrasenāya / namo vīranandine / namo ratnāgnaye / namo ratnacandraprabhāya / namo 'moghadarśine / namo ratnacandrāya / namo nirmalāya / namaḥ śūradattāya / namo brahmaṇe / namo brahmadattāya / namo varūṇāya / namo varuṇadevāya / namo bhadraśriye / namaścandanaśriye / namo 'nantaujase / namaḥ prabhāsaśriye / namo 'śokaśriye / namo nārāyaṇāya / namaḥ kusumaśriye / namo brahmajyotirvikrīḍitābhijñāya tathāgatāya / namaḥ padmajyotirvikrīḍitābhijñāya tathāgatāya / namo ghanaśriye / namaḥ smṛtiśriye / namaḥ suparikīrtitanāmadheyaśriye / nama indraketudhvajarājāya / namaḥ suvikrāntaśriye / namaḥ suvijitasaṃgrāmāya / namo vikrāntagāmine / namaḥ samantāvabhāsavyūhaśriye / namo ratnapadmavikrāmiṇe / namo ratnapadmasupratiṣṭhitaśailendrarājāya tathāgatāyārhate samyaksaṃbuddhāya /
+
+evaṃpramukhā yāvantaḥ daśadikṣu sarvalokadhātuṣu tathāgatāarhantaḥ samyaksaṃbuddhāstiṣṭhanti dhriyante yāpayanti, te māṃ samanvāharantu buddhā bhagavantaḥ / yanmayā asyāṃ jātau anyāsu vā jātiṣu anavarāgre jātisaṃsāre saṃsaratā pāpakaṃ karma kṛtaṃ syātkāritaṃ vā kriyamāṇaṃ vā anumoditaṃ bhavet, staupikaṃ vā sāṃghikaṃ vā dravyamapahṛtaṃ syāt, hāritaṃ vā hriyamāṇaṃ vā anumoditaṃ bhavet / pancānantaryāṇi kṛtāni syuḥ kāritāni vā kriyamāṇāni vā anumoditāni bhaveyuḥ / daśākuśalān karmapathān samādāya vartitaṃ syāt, pare vā samādāpitāḥ syurvartamānā vā anumoditā bhaveyuryena karmāvaraṇenāvṛto 'haṃ nirayaṃ vā gaccheyaṃ tiryagyoniṃ vā yamaviṣayaṃ vā gaccheyaṃ pratyantajanapadeṣu mleccheṣu vā pratyājāyeyaṃ dīrghāyuṣkeṣu deveṣūpapadyeyamindriyavikalatāṃ vādhigaccheyaṃmithyādṛṣṭiṃ vopagṛhṇīyāṃ buddhotpādaṃ vā virāgayeyam, tatsarvaṃkarmāvaraṇaṃ teṣāṃ buddhānāṃ bhagavatāṃ jñānabhūtānāṃ cakṣurbhūtānāṃ sākṣibhūtānāṃ pramāṇabhūtānāṃ jānatāṃ paśyatamagrataḥ pratideśayāmi, āviṣkaromi na praticchādayāmi, āyatyāṃ saṃvaramāpadye /
+
+samanvāharantu māṃ te buddhā bhagavanto yanmayā asyāṃ jātāvanyāsu vā jātiṣvanavarāgre vā jātisaṃsāre saṃsaratā dānaṃ dattaṃ bhavedantaśastiryagyonigatāyāpyālopaḥ, śīlaṃ vā rakṣitaṃ bhaved yacca me brahmacaryavāsakuśalamūlam, yacca me sattvaparipākakuśalamūlam, yacca me bodhicittakuśalam, yacca me 'nuttarajñānakuśalamūlam, tatsarvamaikadhyaṃ piṇḍayitvā tulayitvā abhisaṃkṣipya anuttarāyāṃ samyaksaṃbodhau uttarottarayā (gurugurūṇā) pariṇāmanayā, yathā pariṇāmitamatītairbuddhairbhagavabhdiryathā pariṇāmayiṣyantyanāgatā buddhā bhagavantaḥ, yathā pariṇāmayanti etarhi daśasu dikṣu pratyutpannā buddhā bhagavantaḥ tathā hamapi pariṇāmayāmi /
+
+sarva pāpaṃ pratideśayāmi / sarvaṃ puṇyamanumodayāmi / sarvān buddhānadhyeṣyāmi / bhavatu me jñānamanuttaram //
+
+ye cābhyatītāstathapi ca ye anāgatā ye cāpi tiṣṭhanti narottamā jināḥ / anantavarṇān guṇasāgaropamānupaimi sarvān śaraṇaṃ kṛtāñjaliḥ //
+
+// samāptam //
+
+(āryatriskandhamahāyānasūtraṃ samāptam)

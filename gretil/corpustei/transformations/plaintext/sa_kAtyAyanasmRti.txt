@@ -1,0 +1,2980 @@
+Kātyāyanasmṛti
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kAtyAyanasmRti.xml.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Akihiko Akamatsu
+## Contribution: Akihiko Akamatsu
+## Date of this version: 2020-01-06
+
+## Source: 
+   - Pandurang Vaman Kane (ed.): Kātyāyanasmṛtisāroddhāraḥ or Kātyāyanasmṛti on vyavahāra (law and procedure). Text (reconstructed), translation, notes and introduction. Bombay 1933.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Kātyāyanasmṛti = Kāty,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   Version 1 (completed on June 30, 1991); Revised on Feb.11, 1992.
+
+   The sandhi-analysis has been converted from BHELA-style encoding and resolves only vowel-sandhis.
+
+
+
+# Text
+
+
+kātyāyanasmṛtisāroddhāraḥ
+
+vinītaḥ śāstrasaṃpannaḥ kośaśauryasamanvitaḥ /
+brahmaṇyo dānaśīlaḥ syāt satyadharmaparo nṛpaḥ // Kāty_001
+
+stambhopatāpapaiśunyacāpalakrodhavarjitaḥ /
+pragalbhaḥ sannatodagraḥ saṃbhāṣī priyadarśanaḥ // Kāty_002
+
+vaśyendriyaṃ jitātmānaṃ dhṛtadaṇḍaṃ vikāriṣu /
+parīkṣyakāriṇaṃ dhīram atyantaṃ śrīr niṣevate // Kāty_003
+
+śauryavidyārthabāhulyāt prabhutvāc ca viśeṣataḥ /
+sadā cittaṃ narendrāṇāṃ moham āyāti kāraṇāt // Kāty_004
+
+tasmāc cittaṃ praboddhavyaṃ rājadharme sadā dvijaiḥ /
+pavitraṃ paramaṃ puṇyaṃ smṛtivākyaṃ na laṅghayet // Kāty_005
+
+vedadhvaniprabhāveṇa devāḥ svarganivāsinaḥ /
+te 'pi tatra pramodante tṛptās tu dvijapūjanāt // Kāty_006
+
+tasmād yatnena kartavyā dvijapūjā sadā nṛpaiḥ /
+tena bhūyo 'pi śakratvaṃ narendratvaṃ punaḥ punaḥ // Kāty_007
+
+surādhyakṣaś cyutaḥ svargān nṛparūpeṇa tiṣṭhati /
+kartavyaṃ tena tan nityaṃ yena tattvaṃ samāpnuyāt // Kāty_008
+
+ātmīye saṃsthitā dharme nṛpāḥ śakratvam āpnuyuḥ /
+avīcivāsino ye tu vyapetācāriṇaḥ sadā // Kāty_009
+
+gacchet samyagavijñāya vaśaṃ krodhasya yo nṛpaḥ /
+vaset sa narakaṃ ghore kalpārdhaṃ tu na saṃśayaḥ // Kāty_010
+
+etair eva guṇair yuktam amātyaṃ kāryacintakam /
+brāhmaṇaṃ tu prakurvīta nṛpabhaktaṃ kulodvaham // Kāty_011
+
+mantriṇo yatra sabhyāś ca vaidyāś ca priyavādinaḥ /
+rājyād dharmāt sukhāt tatra kṣipraṃ hīyeta pārthivaḥ // Kāty_012
+
+na tasya vacane kopam eteṣāṃ tu pravartayet /
+yasmād etaiḥ sadā vācyaṃ nyāyyaṃ supariniṣṭhitam // Kāty_013
+
+yatra karmāṇi nṛpatiḥ svayaṃ paśyati dharmataḥ /
+tatra sādhusamācārā nivaseyuḥ sukhaṃ prajāḥ // Kāty_014
+
+prajānāṃ rakṣaṇaṃ nityaṃ kaṇṭakānāṃ ca śodhanam /
+dvijānāṃ pūjanaṃ caiva etad arthaṃ kṛto nṛpaḥ // Kāty_015
+
+bhūsvāmī tu smṛto rājā nānyadravyasya sarvadā /
+tatphalasya hi ṣaḍbhāgaṃ prāpnuyān nānyathaiva tu // Kāty_016
+
+bhūtānāṃ tannivāsitvāt svāmitvaṃ tena kīrtitam /
+tatkriyā baliṣaḍbhāgaṃ śubhāśubhanimittajam // Kāty_017
+
+evaṃ pravartate yas tu lobhaṃ tyaktvā narādhipaḥ /
+tasya putrāḥ prajāyante rāṣṭraṃ kośaś ca vardhate // Kāty_018
+
+anyāyena hi yo rāṣṭrāt karaṃ daṇḍaṃ ca pārthivaḥ /
+sasyabhāgaṃ ca śulkaṃ cāpy ādadīta sa pāpabhāk // Kāty_019
+
+arthaśāstroktam utsṛjya dharmaśāstroktam āvrajet // Kāty_020
+
+duṣṭasyāpi narendrasya tadrāṣṭraṃ na vināśayet /
+na prajānumato yasmād anyāyeṣu pravartate // Kāty_021
+
+akleśenārthine yas tu rājā samyaṅ nivedayet /
+tat tārayaty anantaṃ syād dharmārthaṃ dānam īdṛśam // Kāty_022
+
+nyāyenākramya yallabdhaṃ ripuṃ nirjitya pārthivaiḥ /
+tac chuddhaṃ tatpradeyaṃ tan nānyathopahṛtaṃ kvacit // Kāty_023
+
+rājā purohitaṃ kuryād uditaṃ brāhmaṇaṃ hitam /
+kṛtādhyayanasaṃpannam alubdhaṃ satyavādinam // Kāty_024
+
+prayatnasādhye vicchinne dharmākhye nyāyavistare /
+sādhyamūlas tu yo vādo vyavahāraḥ sa ucyate // Kāty_025
+
+vi nānārthe 'va saṃdehe haraṇaṃ hāra ucyate /
+nānāsaṃdehaharaṇād vyavahāra iti smṛtaḥ // Kāty_026
+
+na rājā tu viśitvena dhanalobhena vā punaḥ /
+svayaṃ kāryāṇi kurvīta narāṇām avivādinām // Kāty_027
+
+utpādayati yo hiṃsāṃ deyaṃ vā na prayacchati /
+yācam ānaya dauḥśīlyād ākṛṣyo 'sau nṛpājñayā // Kāty_028
+
+dvipade sādhyabhedāt tu padāṣṭādaśatāṃ gate /
+aṣṭādaśa kriyābhedād bhinnāny aṣṭasahasraśaḥ // Kāty_029
+
+sādhyavādasya mūlaṃ syād vādinā yan niveditam /
+deyāpradānaṃ hiṃsā cety utthānadvayam ucyate // Kāty_030
+
+pūrvapakṣaś cottaraṃ ca pratyākalitam eva ca /
+kriyāpādaś ca tenāyaṃ catuṣpāt samudāhṛtaḥ // Kāty_031
+
+dharmaśāstrārthaśāstre tu skandhadvayam udāhṛtam /
+jayaś caivāvasāyaś ca dve phale samudāhṛte // Kāty_032
+
+śāstreṇa ninditaṃ tv arthamukhyo rājñā pracoditaḥ /
+āvedayati yaḥ pūrvaṃ stobhakaḥ sa udāhṛtaḥ // Kāty_033
+
+nṛpeṇaiva niyukto yaḥ padadoṣam avekṣitum /
+nṛpasya sūcayej jñātvā sūcakaḥ sa udāhṛtaḥ // Kāty_034
+
+doṣakārī tu kartṛtvaṃ dhanasvāmī svakaṃ dhanam /
+vivāde prāpnuyād yatra dharmeṇaiva sa nirṇayaḥ // Kāty_035
+
+smṛtiśāstraṃ tu yat kiṃcit prathitaṃ dharmasādhakaiḥ /
+kāryāṇāṃ nirṇayārthe tu vyavahāraḥ smṛto hi saḥ // Kāty_036
+
+yad yad ācaryate yena dharmyaṃ vādharmyam eva vā /
+deśasyācaraṇān nityaṃ caritraṃ tatprakīrtitam // Kāty_037
+
+nyāyaśāstrāvirodhena deśadṛṣṭes tathaiva ca /
+yaṃ dharmaṃ sthāpayed rājā nyāyyaṃ tadrājaśāsanam // Kāty_038
+
+yuktiyuktaṃ tu kāryaṃ syād divyaṃ yatra vivarjitam /
+dharmas tu vyavahāreṇa bādhyate tatra nānyathā // Kāty_039
+
+pratilomaprasūteṣu tathā durganivāsiṣu /
+viruddhaṃ niyataṃ prāhus taṃ dharmaṃ na vicālayet // Kāty_040
+
+nirṇayaṃ tu yadā kuryāt tena dharmeṇa pārthivaḥ /
+vyavahāraś caritreṇa tadā tenaiva bādhyate // Kāty_041
+
+viruddhaṃ nyāyato yat tu caritraṃ kalpyate nṛpaiḥ /
+evaṃ tatra nirasyeta caritraṃ tu nṛpājñayā // Kāty_042
+
+anena vidhinā yuktaṃ bādhakaṃ yad yad uttaram /
+anyathābādhanaṃ yatra tatra dharmo vihanyate // Kāty_043
+
+asvargyā lokanāśāya parānīkabhayāvahā /
+āyurbījaharī rājñāṃ sati vākye svayaṃ kṛtiḥ // Kāty_044
+
+tasmāc chāstrānusāreṇa rājā kāryāṇi sādhayet /
+vākyābhāve tu sarveṣāṃ deśadṛṣṭena sannayet // Kāty_045
+
+yasya deśasya yo dharmaḥ pravṛttaḥ sārvakālikaḥ /
+śrutismṛtyavirodhena deśadṛṣṭaḥ sa ucyate // Kāty_046
+
+deśapattanagoṣṭheṣu puragrāmeṣu vāsinām /
+teṣāṃ svasamayair dharmaśāstrato 'nyeṣu taiḥ saha // Kāty_047
+
+deśasyānumatenaiva vyavasthā yā nirūpitā /
+likhitā tu sadā dhāryā mudritā rājam udrayā // Kāty_048
+
+śāstravad yatnato rakṣyā tāṃ nirīkṣya vinirṇayet /
+naigamasthais tu yat kāryaṃ likhitaṃ yad vyavasthitam // Kāty_049
+
+tasmāt tat saṃpravarteta nānyathaiva pravartayet /
+pramāṇadeśadṛṣṭaṃ tu yad evam iti niścitam // Kāty_050
+
+aprvṛttaṃ kṛtaṃ yatra śrutismṛtyanumoditam /
+nānyathā tat punaḥ kāryaṃ nyāyāpetaṃ vivarjayet // Kāty_051
+
+dharmaśāstravicāreṇa mūlasāravivecanam /
+yatrādhikriyate sthāne dharmādhikaraṇaṃ hi tat // Kāty_052
+
+prātar utthāya nṛpatiḥ śaucaṃ kṛtvā samāhitaḥ /
+guruṃ jyotirvidaṃ vaidyān devān viprān purohitān // Kāty_053
+
+yathārham etān saṃpūjya supuṣpābharaṇāmbaraiḥ /
+abhivandya ca gurvādīn sumukhāṃ praviśet sabhām // Kāty_054
+
+vinītaveṣo nṛpatiḥ sabhāṃ gatvā samāhitaḥ /
+āsīnaḥ prāṅmukhaḥ sthitvā paśyet kāryāṇi kāryiṇām /
+saha traividyavṛddhaiś ca mantrajñaiś caiva mantribhiḥ // Kāty_055
+
+saprāḍvivākaḥ sāmātyaḥ sabrāhmaṇapurohitaḥ /
+sasabhyaḥ prekṣako rājā svarge tiṣṭhati dharmataḥ // Kāty_056
+
+saha sabhyaiḥ sthirair yuktaiḥ prājñair maulair dvijottamaiḥ /
+dharmaśāstrārthakuśalair arthaśāstraviśāradaiḥ // Kāty_057
+
+kulaśīlavayovṛttavittavadbhir amatsaraiḥ /
+vaṇigbhiḥ syāt katipayaiḥ kulabhūtair adhiṣṭhitam // Kāty_058
+
+śrotāro vaṇijas tatra kartavyā nyāyadarśinaḥ // Kāty_059
+
+sabhāsthāneṣu pūrvāhṇe kāryāṇāṃ nirṇayaṃ nṛpaḥ /
+kuryāc chāstrapraṇītena mārgeṇāmitrakarṣaṇaḥ // Kāty_060
+
+divasasyāṣṭamaṃ bhāgaṃ muktvā kālatrayaṃ tu yat /
+sa kālo vyavahārāṇāṃ śāstradṛṣṭaḥ paraḥ smṛtaḥ // Kāty_061
+
+ādyād ahno 'ṣṭabhāgād yad ūrdhvaṃ bhāgatrayaṃ bhavet /
+sa kālo vyavahārasya śāstre dṛṣṭo manīṣibhiḥ // Kāty_062
+
+yadā kuryān na nṛpatiḥ svayaṃ kāryavinirṇayam /
+tadā tatra niyuñjīta brāhmaṇaṃ śāstrapāragam // Kāty_063
+
+dakṣaṃ kulīnamadhyastham anudvegakaraṃ sthiram /
+paratra bhīruṃ dharmiṣṭham udyuktaṃ krodhavarjitam // Kāty_064
+
+akrūro madhuraḥ snigdhaḥ kṣamāyāto vicakṣaṇaḥ /
+utsāhavān alubdhaś ca vāde yojyo nṛpeṇa tu // Kāty_065
+
+ekaśāstram adhīyāno na vidyāt kāryaniścayam /
+tasmād bahvāgamaḥ kāryo vivādeṣūttamo nṛpaiḥ // Kāty_066
+
+brāhmaṇo yatra na syāt tu kṣatriyaṃ tatra yojayet /
+vaiśyaṃ vā dharmaśāstrajñaṃ śūdraṃ yatnena varjayet // Kāty_067
+
+ato 'nyair yat kṛtaṃ kāryam anyāyena kṛtaṃ tu tat /
+niyuktair api vijñeyaṃ daivād yady api śāstrataḥ // Kāty_068
+
+vyavahārāśritaṃ praśnaṃ pṛcchati prāṅ iti sthitiḥ /
+vivecayati yas tasmin prāḍvivākas tataḥ smṛtaḥ // Kāty_069
+
+anirṇīte tu yady arthe saṃbhāṣeta raho 'rthinā /
+prāḍvivāko 'tha daṇḍyaḥ syāt sabhyāś caiva viśeṣataḥ // Kāty_070
+
+alubdhā dhanavantaś ca dharmajñāḥ satyavādinaḥ /
+sarvaśāstrapravīṇāś ca sabhyāḥ kāryā dvijottamāḥ // Kāty_071
+
+nyāyaśāstram atikramya sabhyair yatra viniścitam /
+tatra dharmo hy adharmeṇa hato hanti na saṃśayaḥ // Kāty_072
+
+yatra dharmo hy adharmeṇa satyaṃ yatrānṛtena ca /
+hanyate prekṣamāṇānāṃ hatās tatra sabhāsadaḥ // Kāty_073
+
+adharmataḥ pravṛttaṃ tu nopekṣeran sabhāsadaḥ /
+upekṣamāṇāḥ sanṛpā narakaṃ yānty adhomukhāḥ // Kāty_074
+
+anyāyenāpi taṃ yāntaṃ ye 'nuyānti sabhāsadaḥ /
+te 'pi tadbhāginas tasmād bodhanīyaḥ sa tair nṛpaḥ // Kāty_075
+
+nyāyamārgād apetaṃ tu jñātvā cittaṃ mahīpateḥ /
+vaktavyaṃ tatpriyaṃ tatra na sabhyaḥ kilviṣī bhavet // Kāty_076
+
+sabhyenāvaśyavaktavyaṃ dharmārthasahitaṃ vacaḥ /
+śṛṇoti yadi no rājā syāt tu sabhyas tato 'naghaḥ // Kāty_077
+
+adharmāya yadā rājā niyuñjīta vivādinām /
+vijñāpya nṛpatiṃ sabhyas tadā kāryaṃ nivartayet // Kāty_078
+
+snehād ajñānato vāpi lobhād vā mohato 'pi vā /
+tatra sabhyo 'nyathāvādī daṇḍyo 'sabhyaḥ smṛto hi saḥ // Kāty_079
+
+kāryasya nirṇayaṃ samyag jñātvā sabhyas tato vadet /
+anyathā naiva vaktavyaṃ vaktā dviguṇadaṇḍabhāk // Kāty_080
+
+sabhyadoṣāt tu yan naṣṭaṃ deyaṃ sabhyena tat tadā /
+kāryaṃ tu kāryiṇām eva niścitaṃ na vicālayet // Kāty_081
+
+kulāni śreṇayaś caiva gaṇas tv adhikṛto nṛpaḥ /
+pratiṣṭhā vyavahārāṇāṃ gurvebhyas tūttarottaram // Kāty_082
+
+tapasvināṃ tu kāryāṇi traividyair eva kārayet /
+māyāyogavidāṃ caiva na svayaṃ kopakāraṇāt // Kāty_083
+
+samyagvijñānasaṃpanno nopadeśaṃ prakalpayet /
+utkṛṣṭajātiśīlānāṃ gurvācāryatapasvinām // Kāty_084
+
+gotrasthitis tu yā teṣāṃ kramād āyāti dharmataḥ /
+kuladharmaṃ tu taṃ prāhuḥ pālayet taṃ tathaiva tu // Kāty_085
+
+kāle kāryārthinaṃ pṛcchet praṇataṃ purataḥ sthitam /
+kiṃ kāryaṃ kā ca te pīḍā mā bhaiṣīr brūhi mānava // Kāty_086
+
+kena kasmin kadā kasmāt pṛcched evaṃ sabhāgataḥ /
+evaṃ pṛṣṭaḥ sa yad brūyāt tat sabhyair brāhmaṇaḥ sahaḥ // Kāty_087
+
+vimṛśya kāryaṃ nyāyyaṃ ced āhvānārtham ataḥ param /
+mudrāṃ vā nikṣipet tasmin puruṣaṃ vā samādiśet // Kāty_088
+
+samarpito 'rthinā yo 'nyaḥ paro dharmādhikāriṇi /
+prativādī sa vijñeyaḥ pratipannaś ca yaḥ svayam // Kāty_089
+
+adhikāro 'bhiyuktasya netarasyāsty asaṅgateḥ /
+itaro 'py abhiyuktena pratirodhikṛto mataḥ // Kāty_090
+
+arthinā saṃniyukto vā pratyarthiprahito 'pi vā /
+yo yasyārthe vivadate tayor jayaparājayau // Kāty_091
+
+dāsāḥ karmakarāḥ śiṣyā niyuktā bāndhavās tathā /
+vādino na ca daṇḍyāḥ syuḥ yas tv ato 'nyaḥ sa daṇḍabhāk // Kāty_092
+
+brahmahatyāsurāpānasteyagurvaṅganāgame /
+anyeṣu cātipāpeṣu prativādī na dīyate // Kāty_093
+
+manuṣyamāraṇe steye paradārābhimarśane /
+abhakṣyabhakṣaṇe caiva kanyāharaṇadūṣaṇe // Kāty_094
+
+pāruṣye kūṭakaraṇe nṛpadrohe tathaiva ca /
+prativādī na dātavyaḥ kartā tu vivadet svayam // Kāty_095
+
+dharmotsukān abhyudaye rogiṇo 'tha jaḍān api /
+asvasthamattonmattārtastriyo nāhvānayen nṛpaḥ // Kāty_096
+
+na hīnapakṣāṃ yuvatiṃ kule jātāṃ prasūtikām /
+sarvavarṇottamāṃ kanyāṃ tā jñātiprabhukāḥ smṛtāḥ // Kāty_097
+
+tadadhīnakuṭumbinyaḥ svairiṇyo gaṇikāś ca yāḥ /
+niṣkulā yāś ca patitās tāsām āhvānam iṣyate // Kāty_098
+
+saśastro 'nuttarīyo vā muktakeśaḥ sahāsanaḥ /
+vāmahas tena vā vādaṃ vadan daṇḍam avāpnuyāt // Kāty_099
+
+āhūtas tv avamanyeta yaḥ śakto rājaśāsanam /
+tasya kuryān nṛpo daṇḍaṃ vidhidṛṣṭena karmaṇā // Kāty_100
+
+hīne karmāṇi pañcāśanmadhyame dviśatāvaraḥ /
+gurukāryeṣu daṇḍaḥ syān nityaṃ pañcaśatāvaraḥ // Kāty_101
+
+kalpito yasya yo daṇḍas tv aparādhasya yatnataḥ /
+paṇānāṃ grahaṇaṃ tu syāt tanmūlyaṃ vātha rājani // Kāty_102
+
+utpādayati yo hiṃsāṃ deyaṃ vā na prayacchati /
+yācam ānāya dauḥśīlyād ākṛṣyo 'sau nṛpājñayā // Kāty_103
+
+āvedya tu nṛpe kāryam asaṃdigdhe pratiśrute /
+tadāsedhaṃ prayuñjīta yāvad āhvānadarśanam // Kāty_104
+
+āsedhayogya āsiddha utkrāman daṇḍam arhati // Kāty_105
+
+yas tv indriyanirodhena vyāhārocchvasanādibhiḥ /
+āsedhayed anāsedhyaṃ sa daṇḍyo na tv atikramī // Kāty_106
+
+vṛkṣaparvatam ārūḍhā hastyaśvarathanausthitāḥ /
+viṣamasthāś ca te sarve nāsedhyāḥ kāryasādhakaiḥ // Kāty_107
+
+vyādhyārtā vyasanasthāś ca yajamānās tathaiva ca /
+anuttīrṇāś ca nāsedhyā mattonmattajaḍās tathā // Kāty_108
+
+na karṣako bījakāle senākāle tu sainikaḥ /
+pratijñāya prayātaś ca kṛtakālaś ca nāntarā // Kāty_109
+
+udyuktaḥ karṣakaḥ sasye toyasyāgamane tathā /
+ārambhāt saṃgrahaṃ yāvat tatkālaṃ na vivādayet /
+āsedhayaṃs tv anāsedhyaṃ rajñā śāsya iti sthitiḥ // Kāty_110
+
+abhiyuktaś ca ruddhaś ca tiṣṭheyuś ca nṛpājñayā /
+na tasyānyena kartavyam abhiyuktaṃ vidur budhāḥ // Kāty_111
+
+ekāhadvyāhādyapekṣaṃ deśakālādyapekṣayā /
+dūtāya sādhite kārye tena bhaktaṃ pradāpayet // Kāty_112
+
+deśakālavayaḥśaktyādyapekṣaṃ bhojanaṃ smṛtam /
+ākārakasya sarvatra iti tattvavido viduḥ // Kāty_113
+
+na svāmī na ca vai śatruḥ svāminādhikṛtas tathā /
+niruddho daṇḍitaś caiva saṃśayasthāś ca na kvacit // Kāty_114
+
+naiva rikthī na riktaś ca na caivātyantavāsinaḥ /
+rājakāryaniyuktaś ca ye ca pravrajitā narāḥ // Kāty_115
+
+nāśakto dhanine dātuṃ daṇḍaṃ rājñe ca tatsamam /
+jīvan vāpi pitā yasya tathaivecchāpravartakaḥ /
+nāvijñāto grahītavyaḥ pratibhūtvakriyāṃ prati // Kāty_116
+
+atha cet pratibhūr nāsti vādayogyasya vādinaḥ /
+sa rakṣito dinasyānte dadyād dūtāya vetanam // Kāty_117
+
+dvijātiḥ pratibhūhīno rakṣyaḥ syād bāhyacāribhiḥ /
+śūdrādīn pratibhūhīnān bandhayen nigaḍena tu // Kāty_118
+
+atikrame 'payāte ca daṇḍayet taṃ paṇāṣṭakam /
+nityakarmāparodhas tu kāryaḥ sarvavarṇinām // Kāty_119
+
+grahītagrahaṇo nyāye na pravartyo mahībhṛtā /
+tasya vā tatsamarpyaṃ syāt sthāpayed vā parasya tat // Kāty_120
+
+tatrābhiyoktā prāg brūyād abhiyuktas tv anantaram /
+tayor ante sadasyāstu prāḍvivākas tataḥ param // Kāty_121
+
+yasya syād adhikā pīḍā kāryaṃ vāpy adhikaṃ bhavet /
+pūrvapakṣo bhavet tasya na yaḥ pūrvaṃ nivedayet // Kāty_122
+
+yasya vārthagatā pīḍā śārīrī vādhikā bhavet /
+tasyārthivādo dātavyo na yaḥ pūrvaṃ nivedayet // Kāty_123
+
+niveśya kālaṃ varṣaṃ ca māsaṃ pakṣaṃ tirthi tathā /
+velāṃ pradeśaṃ viṣayaṃ sthānaṃ jātyākṛtī vayaḥ // Kāty_124
+
+sādhyapramāṇaṃ dravyaṃ ca saṃkhyāṃ nāma tathātmanaḥ /
+rājñāṃ ca kramaśo nāma nivāsaṃ sādhyanāma ca // Kāty_125
+
+kramāt pitṝṇāṃ nāmāni pīḍāṃ cāhartṛdāyakau /
+kṣamāliṅgāni cānyāni pakṣaṃ saṃkīrtya kalpayet // Kāty_126
+
+deśaś caiva tathā sthānaṃ saṃniveśas tathaiva ca /
+jātiḥ saṃjñā nivāsaś ca pramāṇaṃ kṣetranāma ca // Kāty_127
+
+pitṛpaitāmahaṃ caiva pūrvarājānukīrtanam /
+sthāvareṣu vivādeṣu daśaitāni niveśayet // Kāty_128
+
+rāgādīnāṃ yad ekena kopitaḥ karaṇe vadet /
+tad om iti likhet sarvaṃ vādinaḥ phalakādiṣu // Kāty_129
+
+adhikān śodhayed arthān nyūnāṃś ca pratipūrayet /
+bhūmau niveśayet tāvad yāvat pakṣaḥ pratiṣṭhitaḥ // Kāty_130
+
+pūrvapakṣaṃ svabhāvoktaṃ prāḍvivāko 'bhilekhayet /
+pāṇḍulekhena phalake tataḥ patre viśodhitam // Kāty_131
+
+anyad uktaṃ likhed anyad yo 'rthipratyarthināṃ vacaḥ /
+cauravac chāsayet taṃ tu dhārmikaḥ pṛthivīpatiḥ // Kāty_132
+
+sollekhanaṃ vā labhate try ahaṃ saptāham eva vā /
+matir utpadyate yāvad vivāde vaktum icchataḥ // Kāty_133
+
+yasmāt kāryasamārambhāc cirāt tena viniścayaḥ /
+tasmāt na labhate kālam abhiyuktas tu kālabhāk // Kāty_134
+
+matir notsahate yatra vivāde kāryam icchatoḥ /
+dātavyas tatra kālaḥ syād arthipratyarthinor api // Kāty_135
+
+yaś ca rāṣṭraviruddhaś ca yaś ca rājñā vivarjitaḥ /
+anekapadasaṃkīrṇaḥ pūrvapakṣo na siddhyati // Kāty_136
+
+bahupratijñaṃ yat kāryaṃ vyavahāreṣu niścitam /
+kāmaṃ tad api gṛhṇīyād rājā tattvabubhutsayā // Kāty_137
+
+deśakālavihīnaś ca dravyasaṃkhyāvivarjitaḥ /
+sādhyapramāṇahīnaś ca pakṣo 'nādeya iṣyate // Kāty_138
+
+nyāyasthaṃ necchate kartum anyāyaṃ vā karoty ayam /
+na lekhayati yat tv evaṃ tasya pakṣo na sidhyati // Kāty_139
+
+aprasiddhaṃ nirābādhaṃ nirarthaṃ niṣprayojanam /
+asādhyaṃ vā viruddhaṃ vā pakṣābhāsaṃ vivarjayet // Kāty_140
+
+pratijñādoṣanirmuktaṃ sādhyaṃ satkāraṇānvitam /
+niścitaṃ lokasiddhaṃ ca pakṣaṃ pakṣavido viduḥ // Kāty_141
+
+svalpākṣaraḥ prabhūtārtho niḥsaṃdigdho nirākulaḥ /
+virodhikāraṇair mukto virodhipratiṣedhakaḥ // Kāty_142
+
+yadā tv evaṃ vidhaḥ pakṣaḥ kalpitaḥ pūrvavādinā /
+dadyāt tatpakṣasaṃbaddhaṃ prativādī tadottaram // Kāty_143
+
+śrāvyamāṇo 'rthinā yatra yo hy artho na vighātitaḥ /
+dānakāle 'thavā tūṣṇīṃ sthitaḥ so 'rtho 'numoditaḥ // Kāty_144
+
+śrutvā lekhyagataṃ tv arthaṃ pratyarthī kāraṇād yadi /
+kālaṃ vivāde yāceta tasya deyo na saṃśayaḥ // Kāty_145
+
+sadyo vaikāhapañcāhatryahaṃ vā gurulāghavāt /
+labhetāsau tripakṣaṃ vā saptāhaṃ vā ṛṇādiṣu // Kāty_146
+
+kālaṃ śaktiṃ viditvā tu kāryāṇāṃ ca balābalam /
+alpaṃ vā bahu vā kālaṃ dadyāt pratyarthine prabhuḥ // Kāty_147
+
+dinaṃ māsārdhamāsau vā ṛtuḥ saṃvatsaro 'pi vā /
+kriyāsthityanurūpas tu deyaṃ kālaḥ pareṇa tu // Kāty_148
+
+vyapaiti gauravaṃ yatra vināśas tyāga eva vā /
+kālaṃ tatra na kurvīta kāryam ātyayikaṃ hi tat // Kāty_149
+
+dhenāv anaḍuhi kṣetre strīṣu prajanane tathā /
+nyāse yācitake datte tathaiva krayavikraye // Kāty_150
+
+kanyāyā dūṣaṇe steye kalahe sāhase nidhau /
+upadhau kauṭasākṣye ca sadya eva vivādayet // Kāty_151
+
+sāhasasteyapāruṣyago'bhiśāpe tathātyaye /
+bhūmau vivādayet kṣipram akāle 'pi bṛhaspatiḥ // Kāty_152
+
+sadyaḥ kṛteṣu kāryeṣu sadya eva vivādayet /
+kālātīteṣu vā kālaṃ dadyāt pratyarthine prabhuḥ // Kāty_153
+
+sadyaḥ kṛte sadya eva māsātīte dinaṃ bhavet /
+ṣaḍābdike trirātraṃ syāt saptāhaṃ dvādaśābdike // Kāty_154
+
+viṃśatyabde daśāhaṃ tu māsārdhaṃ vā labheta saḥ /
+māsaṃ triṃśatsamātīte tripakṣaṃ parato bhavet // Kāty_155
+
+kālaṃ saṃvatsarād arvāk svayam eva yathepsitam /
+saṃvatsaraṃ jaḍonmattamanaske vyādhipīḍite // Kāty_156
+
+digantaraprapanne vā ajñātārthe ca vastuni /
+mūlaṃ vā sākṣiṇo vātha paradeśe sthitā yadā // Kāty_157
+
+tatra kālo bhavet puṃsām ā svadeśasamāgamāt /
+datte 'pi kāle deyaṃ syāt punaḥ kāryasya gauravāt // Kāty_158
+
+pūrvapakṣaśrutārthas tu pratyarthī tadanantaram /
+pūrvapakṣārthasaṃbandhaṃ pratipakṣaṃ nivedayet // Kāty_159
+
+ācāradravyadāneṣṭakṛtyopasthānanirṇaye /
+nopasthito yadā kaścic chalaṃ tatra na kārayet // Kāty_160
+
+daivarājakṛto doṣas tasmin kāle yadā bhavet /
+abādhatyāgamātreṇa na bhavet sa parājitaḥ // Kāty_161
+
+daivarājakṛtaṃ doṣaṃ sākṣibhiḥ pratipādayet /
+jaihmyena vartamānasya daṇḍo dāpyas tu taddhanam // Kāty_162
+
+abhiyukto 'bhiyoktāram abhiyuñjīta karhicit /
+anyatra daṇḍapāruṣyasteyasaṃgrahaṇātyayāt // Kāty_163
+
+yāvan yasmin samācāraḥ pāraṃparyakramāgataḥ /
+taṃ pratīkṣya yathānyāyam uttaraṃ dāpayen nṛpaḥ // Kāty_164
+
+satyaṃ mithyottaraṃ caiva pratyavaskandanaṃ tathā /
+pūrvanyāyavidhiś caivam uttaraṃ syāc caturvidham // Kāty_165
+
+śrutvā bhāṣārtham anyas tu yadā taṃ pratiṣedhati /
+arthataḥ śabdato vāpi mithyā tajjñeyam uttaraṃ // Kāty_166
+
+abhiyukto 'bhiyogasya yadi kuryāt tu nihnavam /
+mithyā tat tu vijānīyād uttaraṃ vyavahārataḥ // Kāty_167
+
+sādhyasya satyavacanaṃ pratipattir udāhṛtā // Kāty_168
+
+mithyaitan nābhijānāmi tadā tatra na saṃnidhiḥ /
+ajātaś cāsmi tatkāla iti mithyā caturvidham // Kāty_169
+
+yo 'rthinārthaḥ samuddiṣṭaḥ pratyarthī yadi taṃ tathā /
+prapadya kāraṇaṃ brūyād ādharyaṃ gurur abravīt // Kāty_170
+
+ācāreṇāvasanno 'pi punar lekhayate yadi /
+so 'bhidheyo jitaḥ pūrvaṃ prāṅnyāyas tu sa ucyate // Kāty_171
+
+vibhāvayāmi kulikaiḥ sākṣibhir likhitena vā /
+jitaś caiva mayāyaṃ prāk prāṅnyāyastriprakārakaḥ // Kāty_172
+
+aprasiddhaṃ viruddhaṃ yad atyalpam atibhūri ca /
+saṃdigdhāsaṃbhavāvyaktam anyārthaṃ cātidoṣavat // Kāty_173
+
+avyāpakaṃ vyastapadaṃ nigūḍhārthaṃ tathākulam /
+vyākhyāgamyam asāraṃ ca nottaraṃ śasyate budhaiḥ // Kāty_174
+
+yadvyastapadam avyāpi nigūḍhārthaṃ tathākulam /
+vyākhyāgamyam asāraṃ ca nottaraṃ svārthasiddhaye // Kāty_175
+
+cihnākārasahasraṃ tu samayaṃ cāvijānatā /
+bhāṣāntareṇa vā proktam aprasiddhaṃ tad uttaram // Kāty_176
+
+pratidattaṃ mayā bālye pratidattaṃ mayā na hi /
+yad evam āha vijñeyaṃ viruddhaṃ tad ihottaraṃ // Kāty_177
+
+jitaḥ purā mayāyaṃ ca tv arthe 'sminn iti bhāṣitum /
+purā mayāyam iti yat tad ūnaṃ cottaraṃ smṛtam // Kāty_178
+
+gṛhītam iti vācye tu kāryaṃ tena kṛtaṃ mayā /
+purā gṛhītaṃ yad dravyam iti yac cātibhūri tat // Kāty_179
+
+deyaṃ mayeti vaktavye mayādeyam itīdṛśam /
+saṃdigdham uttaraṃ jñeyaṃ vyavahāre budhais tadā // Kāty_180
+
+balābalena caitena sāhasaṃ sthāpitaṃ purā /
+anuktam etan manyante tad anyārtham itīritam // Kāty_181
+
+asmai dattaṃ mayā sārdhaṃ sahasram iti bhāṣite /
+pratidattaṃ tadardhaṃ yat tad ihāvyāpakaṃ smṛtam // Kāty_182
+
+pūrvavādī kriyāṃ yāvat samyaṅ naiva niveśayet /
+mayā gṛhītaṃ pūrvaṃ no tad vyastapadam ucyate // Kāty_183
+
+tatkiṃ tāmarasaṃ kaścid agṛhītaṃ pradāsyati /
+nigūḍhārthaṃ tu tat proktam uttaraṃ vyavahārataḥ // Kāty_184
+
+kiṃ tenaiva sadā deyaṃ mayā deyaṃ bhaved iti /
+etad akulam ity uktam uttaraṃ tadvido viduḥ // Kāty_185
+
+kākasya dantā no santi santītyādi yad uttaram /
+asāram iti tattvena samyaṅ nottaram iṣyate // Kāty_186
+
+prastutād alpam avyaktaṃ nyūnādhikam asaṅgatam /
+avyāpyasāraṃ saṃdigdhaṃ pratipakṣaṃ na laṅghayet // Kāty_187
+
+saṃdigdham anyatprakṛtād atyalpam atibhūri ca /
+pakṣaikadeśavyāpyeva tat tu naivottaraṃ bhavet // Kāty_188
+
+pakṣaikadeśe yat satyam ekadeśe ca kāraṇam /
+mithyā caivaikadeśe ca saṅkarāt tad anuttaram // Kāty_189
+
+na caikasmin vivāde tu kriyā syād vādinor dvayoḥ /
+na cārthasiddhir ubhayor na caikatra kriyādvayam // Kāty_190
+
+prapadya kāraṇaṃ pūrvam anyadgurutaraṃ yadi /
+prativākyagataṃ brūyāt sādhyate tad dhi netarat // Kāty_191
+
+yathārtham uttaraṃ dadyād ayacchantaṃ ca dāpayet /
+sāmabhedādibhir mārgair yāvat so 'rthaḥ samutthitaḥ // Kāty_192
+
+mohād vā yadi vā śāṭhyād yan noktaṃ pūrvavādinā /
+uttarāntargataṃ cāpi tadgrāhyam ubhayor api // Kāty_193
+
+upāyaiś codyamānas tu na dadyād uttaraṃ tu yaḥ /
+atikrānte saptarātre jito 'sau dātum arhati // Kāty_194
+
+śrāvayitvā yathākāryaṃ tyajed anyad vaded asau /
+anyapakṣāśrayas tena kṛto vādī sa hīyate // Kāty_195
+
+na mayābhihitaṃ kāryam abhiyujya paraṃ vadet /
+vibruvaṃś ca bhaved evaṃ hīnaṃ tam api nirdiśet // Kāty_196
+
+lekhayitvā tu yo vākyaṃṃ hīnaṃ vāpy adhikaṃ punaḥ /
+vaded vādī sa hīyeta nābhiyogaṃ tu so 'rhati // Kāty_197
+
+sabhyāś ca sākṣiṇaś caiva kriyā jñeyā manīṣibhiḥ /
+tāṃ kriyāṃ dveṣṭi yo mohāt kriyādveṣī sa ucyate // Kāty_198
+
+āhvānād anupasthānāt sadya eva prahīyate // Kāty_199
+
+brūhīt yukto 'pi na brūyāt sadyo bandhanam arhati /
+dvitīye 'hani durbuddher vidyāt tasya parājayam // Kāty_200
+
+vyājenaiva tu yatrāsau dīrghakālam abhīpsati /
+sāpadeśaṃ tu tad vidyād vādahānikaraṃ smṛtam // Kāty_201
+
+anyavādī paṇān pañca kriyādveṣī paṇān daśa /
+nopasthātā daśa dvau ca ṣoḍaśaiva niruttaraḥ /
+āhūtaprapalāyī ca paṇān grāhyas tu viṃśatim // Kāty_202
+
+trir āhūtam anāyāntam āhūtaprapalāyinam /
+pañcarātram atikrāntaṃ vinayet taṃ mahīpatiḥ // Kāty_203
+
+śrāvitavyavahārāṇām ekaṃ yatra prabhedayet /
+vādinaṃ lobhayec caiva hīnaṃ tam iti nirdiśet // Kāty_204
+
+bhayaṃ karoti bhedaṃ vā bhīṣaṇaṃ vā nirodhanam /
+etāni vādinor arthasya vyavahāre sa hīyate // Kāty_205
+
+doṣānurūpaṃ saṃgrāhyaḥ punarvādo na vidyate /
+ubhayor likhite vācye prārabdhe kāryaniścaye /
+ayuktaṃ tatra yo brūyāt tasmād arthāt sa hīyate // Kāty_206
+
+sākṣiṇo yas tu nirdiśya kāmato na vivādayet /
+sa vādī hīyate tasmāt triṃśadrātrāt pareṇa tu // Kāty_207
+
+palāyanānuttaratvād anyapakṣāśrayeṇa ca /
+hīnasya gṛhyate vādo na svavākyajitasya tu // Kāty_208
+
+yo hīnavākyena jitas tasyoddhāraṃ vidur budhāḥ /
+svavākyahīno yas tu syāt tasyoddhāro na vidyate // Kāty_209
+
+āvedya pragṛhītārthāḥ praśamaṃ yānti ye mithaḥ /
+sarve dviguṇadaṇḍyāḥ syuḥ vipralambhān nṛpasya te // Kāty_210
+
+kāraṇāt pūrvapakṣo 'pi hy uttaratvaṃ prapadyate /
+ataḥ kriyā tadā proktā pūrvapakṣaprasādhinī // Kāty_211
+
+śodhite likhite samyag iti nirdoṣa uttare /
+pratyarthino 'rthino vāpi kriyākaraṇam iṣyate // Kāty_212
+
+vādinā yad abhipretaṃ svayaṃ sādhayitum sphuṭam /
+tat sādhyaṃ sādhanaṃ yena tat sādhyaṃ sādhyate 'khilam // Kāty_213
+
+likhitaṃ sākṣiṇo bhuktiḥ pramāṇaṃ trividhaṃ viduḥ /
+leśoddeśas tu yuktiḥ syād divyānīha viṣādayaḥ // Kāty_214
+
+pūrvavāde 'pi likhite yathākṣaram aśeṣataḥ /
+arthī tṛtīyapāde tu kriyayā pratipādayet // Kāty_215
+
+kāryaṃ hi sādhyam ity uktaṃ sādhanaṃ tu kriyocyate /
+dvibhedā sā punarjñeyā daivikī mānuṣī tathā /
+mānuṣī likhyasākṣyādir vadhādir daivikī matā // Kāty_216
+
+saṃbhave sākṣiṇāṃ prājño daivikīṃ varjayet kriyāṃ /
+saṃbhave tu prayuñjāno daivikīṃ hīyate tataḥ // Kāty_217
+
+yady eko mānuṣīṃ brūyād anyo brūyāt tu daivikīm /
+mānuṣīṃ tatra gṛhṇīyān na tu daivīṃ kriyāṃ nṛpaḥ // Kāty_218
+
+yady ekadeśavyāptāpi kriyā vidyeta mānuṣī /
+sā grāhyā na tu pūrṇāpi daivikī vadatāṃ nṛṇām // Kāty_219
+
+pañcaprakāraṃ daivaṃ syān mānuṣaṃ trividhaṃ smṛtam // Kāty_220
+
+kriyāṃ balavatīṃ muktvā durbalāṃ yo 'valambate /
+sa jaye 'vadhṛte sabhyaiḥ punas tāṃ nāpnuyāt kriyām // Kāty_221
+
+sārabhūtaṃ padaṃ muktvā asārāṇi bahūny api /
+saṃsādhayet kriyā yā tu tāṃ jahyāt sāravarjitām /
+pakṣadvayaṃ sādhayed yā tāṃ jahyād dūrataḥ kriyām // Kāty_222
+
+kriyā na daivikī proktā vidyāmāneṣu sākṣiṣu /
+lekhye ca sati vādeṣu na divyaṃ na ca sākṣiṇaḥ // Kāty_223
+
+kālena hīyate lekhyaṃ dūṣitaṃ nyāyatas tathā /
+alekhyasākṣike daivīṃ vyavahāre vinirdiśet /
+daivasādhye pauruṣeyīṃ na lekhyaṃ vā prayojayet // Kāty_224
+
+pūgaśreṇigaṇādīnāṃ yā sthitiḥ parikīrtitā /
+tasyās tu sādhanaṃ lekhyaṃ na divyaṃ na ca sākṣiṇaḥ // Kāty_225
+
+dvāramārgakriyābhogajalavāhādike tathā /
+bhuktir eva hi gurvī syān na lekhyaṃ na ca sākṣiṇaḥ // Kāty_226
+
+dattādatte 'tha bhṛtyānāṃ svāminā nirṇaye sati /
+vikrayādānasaṃbandhe krītvā dhanam ayacchati // Kāty_227
+
+dyūte samāhvaye caiva vivāde samupasthite /
+sākṣiṇaḥ sādhanaṃ proktaṃ na divyaṃ na ca lekhyakam // Kāty_228
+
+prakrānte sāhase vāde pāruṣye daṇḍavācike /
+balodbhūteṣu kāryeṣu sākṣiṇo divyam eva vā // Kāty_229
+
+gūḍhasāhasikānāṃ tu prāptaṃ divyaiḥ parīkṣaṇam /
+yukticihneṅgitākāravākcakṣuśceṣṭitair nṛṇām // Kāty_230
+
+uttameṣu ca sarveṣu sāhaseṣu vicārayet /
+sadbhāvaṃ divyadṛṣṭena satsu sākṣiṣu vai bhṛguḥ // Kāty_231
+
+samatvaṃ sākṣiṇāṃ yatra divyais tatrāpi śodhayet /
+prāṇāntikavivādeṣu vidyāmāneṣu sākṣiṣu /
+divyam ālambate vādī na pṛcchet tatra sākṣiṇaḥ // Kāty_232
+
+ṛṇe lekhyaṃ sākṣiṇo vā yuktileśādayo 'pi vā /
+daivikī vā kriyā proktā prajānāṃ hitakāmyayā // Kāty_233
+
+codanā pratikālaṃ ca yuktileśas tathaiva ca /
+tṛtīyaḥ śapathaḥ proktaḥ tair ṛṇaṃ sādhayet kramāt // Kāty_234
+
+abhīkṣṇaṃ codyamāno 'pi pratihanyān na tadvacaḥ /
+triḥ catuḥ pañcakṛtvo vā parato 'rthaṃ samācaret // Kāty_235
+
+codanāpratighāte tu yuktileśaiḥ samanviyāt /
+deśakālārthasaṃbandhaparimāṇakriyādibhiḥ // Kāty_236
+
+yuktiṣv apy asamarthāsu śapathair eva niṇayet /
+arthakālabalāpekṣair agnyambusukṛtādibhiḥ // Kāty_237
+
+yatra syāt sopadhaṃ lekhyaṃ tadrājñaḥ śrāvitaṃ yadi /
+divyena śodhayet tatra rājā dharmāsanasthitaḥ // Kāty_238
+
+vākpāruṣye ca bhūmau ca divyaṃ na parikalpayet // Kāty_239
+
+sthāvareṣu vivādeṣu divyāni paridhārayet /
+sākṣibhir likhitenārthe bhuktyā caiva prasādhayet // Kāty_240
+
+pramāṇair hetunā vāpi divyenaiva tu niścayam /
+sarveṣv eva vivādeṣu sadā kuryān narādhipaḥ // Kāty_241
+
+likhitaṃ sākṣiṇo bhuktiḥ pramāṇaṃ trividhaṃ smṛtam /
+anumānaṃ vidur hetuṃ tarkaṃ caiva manīṣiṇaḥ // Kāty_242
+
+pūrvābhāve pareṇaiva nānyathaiva kadācana /
+pramāṇair vādinirdiṣṭair bhuktyā likhitasākṣibhiḥ // Kāty_243
+
+na kaścid abhiyoktāraṃ divyeṣu viniyojayet /
+abhiyuktāya dātavyaṃ divyaṃ divyaviśāradaiḥ // Kāty_244
+
+mithyoktau sa catuṣpāt syāt pratyavaskandane tathā /
+prāṅnyāye sa ca vijñeyo dvipāt saṃpratipattiṣu // Kāty_245
+
+parājayaś ca dvividhaḥ paroktaḥ svokta eva ca /
+paroktaḥ syād daśavidhaḥ svokta ekavidhaḥ smṛtaḥ // Kāty_246
+
+vivādāntarasaṃkrāntiḥ pūrvottaraviruddhatā /
+dūṣaṇaṃ svakriyotpatteḥ paravākyopapādanam // Kāty_247
+
+anirdeśaś ca deśasya nirdeśo 'deśakālayoḥ /
+sākṣiṇām upajāpaś ca vidveṣo vacanasya ca // Kāty_248
+
+lekhyaṃ tu dvividhaṃ proktaṃ svahastānyakṛtaṃ tathā /
+asākṣimatsākṣimac ca siddhir deśasthites tayoḥ // Kāty_249
+
+grāhakeṇa svahastena likhitaṃ sākṣivarajitam /
+svahastalekhyaṃ vijñeyaṃ pramāṇaṃ tatsmṛtaṃ budhaiḥ // Kāty_250
+
+utpattijātisaṃjñāṃ ca dhanasaṃkhyāṃ ca lekhayet /
+smaraty evaṃ prayuktasya naśyed arthas tv alekhitaḥ // Kāty_251
+
+lekhyaṃ tu sākṣimatkāryam aviluptākṣarakramam /
+deśācārasthitiyutaṃ samagraṃ sarvavastuṣu // Kāty_252
+
+varṇavākyakriyāyuktam asaṃdigdhaṃ sphuṭākṣaram /
+ahīnakramacihnaṃ ca lekhyaṃ tat siddhim āpnuyāt // Kāty_253
+
+cātruvidyapuraśreṇīgaṇapaurādikasthitiḥ /
+tatsidhyarthaṃ tu yal lekhyaṃ tad bhavet sthitipatrakam // Kāty_254
+
+abhiśāpe samuttīrṇe prāyaścitte kṛte janaiḥ /
+viśuddhipatrakaṃ jñeyaṃ tebhyaḥ sākṣisamanvitam // Kāty_255
+
+uttameṣu samasteṣu abhiśāpe samāgate /
+vṛttānuvādalekhyaṃ yat taj jñeyaṃ sandhipatrakam // Kāty_256
+
+sīmāvivāde nirṇīte sīmāpatraṃ vidhīyate // Kāty_257
+
+rājñaḥ svahastasaṃyuktaṃ samudrācihnitaṃ tathā /
+rājakīyaṃ smṛtaṃ lekhyaṃ sarveṣv artheṣu sākṣimat // Kāty_258
+
+arthipratyarthivākyāni pratijñā sākṣivāk tathā /
+nirṇayaś ca yathā tasya yathā cāvadhṛtaṃ svayam // Kāty_259
+
+etad yathākṣaraṃ lekhye yathāpūrvaṃ niveśayet /
+abhiyoktṛabhiyuktānāṃ vacanaṃ prāṅ niveśayet // Kāty_260
+
+sabhyānāṃ prāḍvivākasya kulānāṃ vā tataḥ param /
+niścayaṃ smṛtiśāstrasya mataṃ tatraiva lekhayet // Kāty_261
+
+siddhenārthena saṃyojyo vādī satkārapūrvakam /
+lekhyaṃ svahastasaṃyuktaṃ tasmai dadyāt tu pārthivaḥ // Kāty_262
+
+sabhāsadaś ca ye tatra smṛtiśāstravidaḥ sthitāḥ /
+yathālekhyavidhhau tadvat svahastaṃ tatra dāpayet // Kāty_263
+
+anena vidhinā lekhyaṃ paścātkāraṃ vidur budhāḥ /
+nirastā tu kriyā yatra pramāṇenaiva vādinā /
+paścātkāro bhavet tatra na sarvāsu vidhīyate // Kāty_264
+
+anyavādīādihīnebhya itareṣāṃ pradīyate /
+vṛttānuvādasaṃsiddhaṃ tac ca syāj jayapatrakam // Kāty_265
+
+rājājñayā samāhūya yathānyāyaṃ vicārayet /
+lekhyācāreṇa likhitaṃ sākṣyācāreṇa sākṣiṇaḥ // Kāty_266
+
+varṇavākyakriyāyuktam asaṃdigdhaṃ sphuṭākṣaram /
+ahīnakramacihnaṃ ca lekhyaṃ tatsiddhim āpnuyāt // Kāty_267
+
+deśācārayutaṃ varṣam āsapakṣādivṛddhimat /
+ṛṇisākṣilekhakānām hastāṅgam lekhyam ucyate // Kāty_268
+
+sthānabhraṣṭās tv apaṅktisthāḥ saṃdigdhā lakṣaṇacyutāḥ /
+yadā tu saṃsthitā varṇāḥ kūṭalekhyaṃ tadā bhavet // Kāty_269
+
+deśācāraviruddhaṃ yat saṃdigdhaṃ kramavarjitam /
+kṛtam asvāminā yac ca sādhyahīnaṃ ca duṣyati // Kāty_270
+
+mattenopādhibhītena tathonmattena pīḍitaiḥ /
+strībhir bālāsvatantraiś ca kṛtaṃ lekhyaṃ na sidhyati // Kāty_271
+
+khyāpitaṃ ced dvitīye 'hni na kaścid vinivartayet /
+tathā tat syāt pramāṇaṃ tu mattonmattakṛtād ṛte // Kāty_272
+
+sākṣidoṣād bhaved duṣṭaṃ patraṃ vai lekhakasya vā /
+dhanikasyopadhādoṣāt tathā dhāraṇikasya vā // Kāty_273
+
+duṣṭair duṣṭaṃ bhavel lekhyaṃ śuddhaṃ śuddhair vinirdiśet /
+tat patram upadhāduṣṭaiḥ sākṣilekhakakārakaiḥ // Kāty_274
+
+pramāṇasya hi ye doṣā vaktavyās te vivādinā /
+gūḍhās tu prakaṭāḥ sabhyaiḥ kāle śāstrapradarśanāt // Kāty_275
+
+sākṣilekhakakartāraḥ kūṭatāṃ yānti te yathā /
+tathā doṣāḥ prayoktavyā duṣṭair lekhyaṃ praduṣyāta // Kāty_276
+
+na lekhakena likhitaṃ na dṛṣṭaṃ sākṣibhis tathā /
+evaṃ pratyarthinokte tu kūṭalekhyaṃ prakīrtitam // Kāty_277
+
+nātathyena pramāṇaṃ tu doṣeṇaiva tu dūṣayet /
+mithyābhiyoge daṇḍyaḥ syāt sādhyārthāc cāpi hīyate // Kāty_278
+
+evaṃ duṣṭaṃ nṛpasthāne yasmiṃs tad dhi vicāryate /
+vimṛśya brāhmaṇaiḥ sārdhaṃ patradoṣān nirūpayet // Kāty_279
+
+yena te kūṭatāṃ yānti sākṣilekhakakārakāḥ /
+tena duṣṭaṃ bhavel lekhyaṃ śuddhaiḥ śuddhiṃ vinirdiśet // Kāty_280
+
+dhanikena svahastena likhitaṃ sākṣivarjitam /
+bhavet kūṭaṃ na cet kartā kṛtaṃ hīti vibhāvayet // Kāty_281
+
+dattaṃ lekhye svahastaṃ tu ṛṇiko yadi nihnate /
+patrasthaiḥ sākṣibhir vācyo lekhakasya matena vā // Kāty_282
+
+kṛtākṛtavivādeṣu sākṣibhiḥ patranirṇayaḥ /
+dūṣite patrake vādī tadārūḍhāṃs tu nirdiśet // Kāty_283
+
+trividhasyāpi lekhyasya bhrāntiḥ sañjāyate nṛṇām /
+ṛṇisākṣilekhakānāṃ hastoktyā sādhayet tataḥ // Kāty_284
+
+atha pañcatvam āpanno lekhakaḥ saha sākṣibhiḥ /
+tatsvahastādibhis teṣāṃ viśudhyet tu na saṃśayaḥ // Kāty_285
+
+ṛṇisvahastasaṃdehe jīvato vā mṛtasya vā /
+tatsvahastakṛtair anyaiḥ patrais tallekhyanirṇayaḥ // Kāty_286
+
+samudre 'pi lekhye mṛtāḥ sarve 'pi te sthitāḥ (?) /
+likhitaṃ tatpramāṇaṃ tu mṛteṣv api hi teṣu ca // Kāty_287
+
+pratyakṣam anumānena na kadācit prabādhyate /
+tasmāl lekhyasya duṣṭasya vacobhiḥ sākṣiṇāṃ bhavet // Kāty_288
+
+nirṇayaḥ svadhanārthaṃ hi patraṃ dūṣayati svayam /
+likhitaṃ likhitenaiva sākṣimatsākṣibhir haret // Kāty_289
+
+kūṭoktau sākṣiṇāṃ vākyāl lekhakasya ca patrakam /
+nayec chuddhiṃ na yaḥ kūṭaṃ sa dāpyo damam uttamam // Kāty_290
+
+āḍhyasya nikaṭasthasya yac chaktena na yācitam /
+śuddharṇaśaṅkayā tat tu lekhyaṃ durbalatām iyāt // Kāty_291
+
+lekhyaṃ triṃśatsamātītam adṛṣṭāśrāvitaṃ ca yat /
+na tat siddhim avāpnoti tiṣṭhatsv api hi sākṣiṣu // Kāty_292
+
+prayukte śāntalābhe tu likhitaṃ yo na darśayet /
+naiva yāceta ṛṇikaṃ na tat siddhim avāpnuyāt // Kāty_293
+
+paścāt kāranibaddhaṃ yat tad yatnena vicārayet /
+yadi syād yuktiyuktaṃ tu pramāṇaṃ likhitaṃ tadā // Kāty_294
+
+anyathā dūrataḥ kāryaṃ punar eva vinirṇayet /
+atathyaṃ tathyabhāvena sthāpitaṃ jñānavibhramāt /
+nivartyaṃ tatpramāṇaṃ syād yatnenāpi kṛtaṃ nṛpaiḥ // Kāty_295
+
+mudrāśuddhaṃ kriyāśuddhaṃ bhuktiśuddhaṃ sacihnakam /
+rājñaḥ svahastasaṃśuddhaṃ śuddhim āyāti śāsanam // Kāty_296
+
+nirdoṣaṃ prathitaṃ yat tu lekhyaṃ tat siddhim āpnuyāt // Kāty_297
+
+dṛṣṭe patre sphuṭān doṣān noktav ānṛṇiko yadi /
+tato viṃśativarṣāṇi sthitaṃ patraṃ sthiraṃ bhavet // Kāty_298
+
+śaktasya saṃnidhāv arthe yena lekhyena bhujyate /
+varṣāṇi viṃśatiṃ yāvat tat patraṃ doṣavarjitam // Kāty_299
+
+atha viṃśativarṣāṇi ādhir bhuktaḥ suniścitam /
+tena lekhyena tat siddhir lekhyadoṣavivarjitā // Kāty_300
+
+sīmāvivāde nirṇīte sīmāpatraṃ vidhīyate /
+tasya doṣāḥ pravaktavyā yāvad varṣāṇi viṃśatiḥ // Kāty_301
+
+ādhānasahitaṃ yatra ṛṇaṃ lekhye niveśitam /
+mṛtasākṣi pramāṇaṃ tu svalpabhogeṣu tadviduḥ // Kāty_302
+
+prāptaṃ vānena cet kiñcid dānaṃ cāpy anirūpitam /
+vināpi mudrayā lekhyaṃ pramāṇaṃ mṛtasākṣikam // Kāty_303
+
+yadi labdhaṃ bhavet kiñcit prajñaptir vā kṛtā bhavet /
+pramāṇam eva likhitaṃ mṛtā yady api sākṣiṇaḥ // Kāty_304
+
+darśitaṃ pratikālaṃ yad grāhitaṃ smāritaṃ tathā /
+lekhyaṃ sidhyati sarvatra mṛteṣv api ca sākṣiṣu // Kāty_305
+
+na divyaiḥ sākṣibhir vāpi hīyate likhitaṃ kvacit /
+lekhyadharmaḥ sadā śreṣṭho hy ato nānyena hīyate // Kāty_306
+
+tadyuktapratilekhyena tadviśiṣṭena vā sadā /
+lekhyakriyā nirasyeta nirasyānyena na kvacit // Kāty_307
+
+darpaṇasthaṃ yathā bimbam asatsad iva dṛśyate /
+tathā lekhyasya bimbāni kurvanti kuśalā janāḥ // Kāty_308
+
+dravyaṃ gṛhītvā yal lekhyaṃ parasmai saṃpradīyate /
+channam anyena cārūḍhaṃ saṃyataṃ cānyaveśmani // Kāty_309
+
+datte vṛtte 'tha vā dravye kvacillikhitapūrvake /
+eṣa eva vidhir jñeyo lekhyaśuddhivinirṇaye // Kāty_310
+
+sthāvare vikrayādhāne lekhyaṃ kūṭaṃ karoti yaḥ /
+sa samyagbhāvitaḥ kāryo jihvāpāṇyaṅghrivarjitaḥ // Kāty_311
+
+malair yad bheditaṃ dagdhaṃ chidritaṃ vītam eva vā /
+tad anyat kārayel lekhyaṃ svedenollikhitaṃ tathā // Kāty_312
+
+likhitaṃ sākṣiṇo bhuktiḥ pramāṇatrayam iṣyate /
+pramāṇeṣu smṛtā bhukteḥ sal lekhasamatā nṛṇām // Kāty_313
+
+rathyānirgamanadvārajalavāhādisaṃśaye /
+bhuktir eva tu gurvī syāt pramāṇeṣv iti niścayaḥ // Kāty_314
+
+anumānād guruḥ sakṣī sākṣibhyo likhitaṃ guru /
+avyāhatā tripuruṣī bhuktir ebhyo garīyasī // Kāty_315
+
+nopabhoge balaṃ kāryam āhartrā tatsutena vā /
+paśustrīpuruṣādīnām iti dharmo vyavasthitaḥ // Kāty_316
+
+bhuktis tu dvividhā proktā sāgamānāgamā tathā /
+tripuruṣī yā svatantrā sā ced alpā tu sāgamā // Kāty_317
+
+mukhyā paitāmahī bhuktiḥ paitṛkī cāpi saṃmatā /
+tribhir etair avicchinnā sthirā ṣaṣṭyābdikī matā // Kāty_318
+
+sāgamena tu bhuktena samyagbhuktaṃ yadā tu yat /
+āhartā labhate tat tu nāpahāryaṃ tu tat kvacit // Kāty_319
+
+pranaṣṭāgamalekhyena bhogārūḍhena vādinā /
+kālaḥ pramāṇaṃ dānaṃ ca kīrtanīyāni saṃsadi // Kāty_320
+
+smārtakāle kriyā bhūmeḥ sāgamā bhuktir iṣyate /
+asmārte 'nugamābhāvāt kramāt tripuruṣāgatā // Kāty_321
+
+ādau tu kāraṇaṃ madhye bhuktis tu sāgamā (?) /
+kāraṇaṃ bhuktir evaikā saṃtatā yā tripauruṣī // Kāty_322
+
+āhartā bhuktiyukto 'pi lekhyadoṣān viśodhayet /
+tatsuto bhuktidoṣāṃs tu lekhyadoṣāṃs tu nāpnuyāt // Kāty_323
+
+yenopāttaṃ hi yad dravyaṃ so 'bhiyuktas tad uddharet /
+cirakālopabhoge 'pi bhuktis tasyaiva neṣyate // Kāty_324
+
+cirantanam avijñātaṃ bhogaṃ lobhān na cālayet // Kāty_325
+
+pitrā bhuktaṃ tu yad dravyaṃ bhuktyācāreṇa dharmataḥ /
+tasmin prete na vācyo 'sau bhuktyā prāptaṃ hi tasya tat // Kāty_326
+
+tribhir eva tu yā bhuktā puruṣair bhū yathāvidhi /
+lekhyābhāve 'pi tāṃ tatra caturthaḥ samavāpnuyāt // Kāty_327
+
+yathā kṣīraṃ janayati dadhi kālād rasānvitam /
+dānahetus tathā kālād bhogas tripuruṣāgataḥ // Kāty_328
+
+bhuktir balavatī śāstre saṃtatā yā cirantanī /
+vicchinnāpi sā jñeyā yā tu pūrvaprasādhitā // Kāty_329
+
+na bhogaṃ kalpayet strīṣu devarājadhaneṣu ca /
+bālaśrotriyavit te ca mātṛtaḥ pitṛtaḥ kramāt // Kāty_330
+
+brahmacarī caret kaścid avrataṃ ṣaṭtriṃśadābdikam /
+arthārthī cānyaviṣaye dīrghakālaṃ vasen naraḥ // Kāty_331
+
+samāvṛtto 'vratī kuryāt svadhanānveṣaṇaṃ tataḥ /
+pañcāśadābdiko bhogas tad dhanasyāpahārakaḥ // Kāty_332
+
+pravivedaṃ dvādaśābdaḥ kālo vidyārthināṃ smṛtaḥ /
+śilpavidyārthināṃ caiva grahaṇāntaḥ prakīrtitaḥ // Kāty_333
+
+suhṛdbhir bandhubhiś caiṣāṃ yat svaṃ bhuktam apaśyatām /
+nṛpāparādhināṃ caiva na tat kālena hīyate // Kāty_334
+
+sanābhibhir bāndhavaiś ca yad bhuktaṃ svajanais tathā /
+bhogāt tatra na siddhiḥ syād bhogam anyatra kalpayet // Kāty_335
+
+arthinābhyarthito yas tu vighātaṃ na prayojayet /
+tricatuḥpañcakṛtvo vā paras tad ṛṇī bhavet // Kāty_336
+
+dānaṃ prajñāpanā bhedaḥ saṃpralobhakriyā ca yā /
+cittāpanayanaṃ caiva hetavo hi vibhāvakāḥ // Kāty_337
+
+eṣām anyatamo yatra vādinā bhāvito bhavet /
+mūlakriyā tu tatra syād bhāvite vādinihnave // Kāty_338
+
+na kālaharaṇaṃ kāryaṃ rājñā sākṣiprabhāṣaṇe /
+mahān doṣo bhavet kālād dharmavyāvṛttilakṣaṇaḥ // Kāty_339
+
+upasthitān parīkṣeta sākṣiṇo nṛpatiḥ svayam /
+sākṣibhir bhāṣitaṃ vākyaṃ sabhyaiḥ saha parīkṣayet // Kāty_340
+
+samyakkriyāparijñāne deyaḥ kālas tu sākṣiṇām /
+saṃdigdhaṃ yatra sākṣyaṃ syāt sadyaḥ spaṣṭaṃ vivādayet // Kāty_341
+
+sabhāntaḥ sākṣiṇaḥ sarvān arthipratyarthisaṃnidhau /
+prāṅvivāko niyuñjīta vidhinānena sāntvayan // Kāty_342
+
+yad dvayor anayor vettha kārye 'smiṃś ceṣṭitaṃ mithaḥ /
+tad brūta sarvaṃ satyena yuṣmākaṃ hy atra sākṣitā // Kāty_343
+
+devabrāhmanasānnidhye sākṣyaṃ pṛcched ṛtaṃ dvijān /
+udaṅmukhān prāṅmukhān vā pūrvāhṇe vai śuciḥ śucīn // Kāty_344
+
+āhūya sākṣiṇaḥ pṛcchen niyamya śapathair bhṛśam /
+samastān viditācārān vijñātārthān pṛthakpṛthak // Kāty_345
+
+arthipratyarthisāṃnidhyād anubhūtaṃ tu yad bhavet /
+tad grāhyaṃ sākṣiṇo vākyam anyathā na bṛhaspatiḥ // Kāty_346
+
+prakhyātakulaśīlāś ca lobhamohavivarjitāḥ /
+āptāḥ śuddhā viśiṣṭā ye teṣāṃ sākṣyam asaṃśayam // Kāty_347
+
+vibhāvyo vādinā yādṛk sadṛśair eva bhāvayet /
+notkṛṣṭaś cāvakṛṣṭas tu sākṣibhir bhāvayet sadā // Kāty_348
+
+liṅginaḥ śreṇipūgāś ca vaṇigvrātās tathāpare /
+samūhasthāś ca ye cānye vargās tān abravīd bhṛguḥ // Kāty_349
+
+dāsacāraṇamallānāṃ hastyaśvāyudhajīvinām /
+pratyekaikaṃ samūhānāṃ nāyakā vargiṇas tathā /
+teṣāṃ vādaḥ svavargeṣu vargiṇas teṣu sākṣiṇaḥ // Kāty_350
+
+strīṇāṃ sākṣyaṃ striyaḥ kuryur dvijānāṃ sadṛśā dvijāḥ /
+śūdrāś ca santaḥ śūdrāṇām antyānām antyayonayaḥ // Kāty_351
+
+aśakya āgamo yatra videśaprativāsinām /
+traividyaprahitaṃ tatra lekhyasākṣyaṃ pravādayet // Kāty_352
+
+abhyantaras tu nikṣepe sākṣyam eko 'pi vācyate /
+arthinā prahitaḥ sākṣī bhavaty eko 'pi dūtakaḥ // Kāty_353
+
+saṃskṛtaṃ yena yat paṇyaṃ tat tenaiva vibhāvayet /
+eka eva pramāṇaṃ sa vivāde tatra kīrtitaḥ // Kāty_354
+
+lekhakaḥ prāṅvivākaś ca sabhyāś caivānupūrvaśaḥ /
+nṛpe paśyati yat kāryaṃ sākṣiṇaḥ samudāhṛtāḥ // Kāty_355
+
+anye punar anirdiṣṭāḥ sākṣiṇaḥ samudāhṛtāḥ /
+grāmaś ca prāṅvivākaś ca rājā ca vyavahāriṇām // Kāty_356
+
+kāryeṣv abhyantaro yaś ca arthinā prahitaś ca yaḥ /
+kulyāḥ kulavivādeṣu bhaveyus te 'pi sākṣiṇaḥ // Kāty_357
+
+rikthabhāgavivāde tu saṃdehe samupasthite /
+kulyānāṃ vacanaṃ tatra pramāṇaṃ tadviparyaye // Kāty_358
+
+sākṣiṇāṃ likhitānāṃ tu nirdiṣṭānāṃ ca vādinā /
+teṣām eko 'nyathāvādī bhedāt sarve na sākṣiṇaḥ // Kāty_359
+
+anyena hi kṛtaḥ sākṣī naivānyastaṃ vivādayet /
+tadabhāve niyukto vā bāndhavo vā vivādayet // Kāty_360
+
+tadvṛttijīvino ye ca tatsevāhitakāriṇaḥ /
+tadbandhusuhṛdo bhṛtyā āptās te tu na sākṣiṇaḥ // Kāty_361
+
+mātṛṣvasṛsutāś caiva sodaryāsutamātulāḥ /
+ete sanābhayas tūktāḥ sākṣyaṃ teṣu na yojayet // Kāty_362
+
+kulyāḥ saṃbandhinaś caiva vivāhyo bhaginīpatiḥ /
+pitā bandhuḥ pitṛvyaś ca śvaśuro guravas tathā // Kāty_363
+
+nagaragrāmadeśeṣu niyuktā ye padeṣu ca /
+vallabhāś ca na pṛccheyur bhaktās te rājapūruṣāḥ // Kāty_364
+
+ṛṇādiṣu parīkṣeta sākṣiṇaḥ sthirakarmasu /
+sāhasātyayike caiva parīkṣā kutracit smṛtā // Kāty_365
+
+vyāghāteṣu nṛpājñāyāḥ saṃgrahe sāhaseṣu ca /
+steyapāruṣyayoś caiva na parīkṣeta sākṣiṇaḥ // Kāty_366
+
+antarveśmani rātrau ca bahirgrāmāc ca yad bhavet /
+eteṣv evābhiyogaś cen na parīkṣeta sākṣiṇaḥ // Kāty_367
+
+na sākṣyaṃ sākṣibhir vācyam apṛṣṭair arthinā sadā /
+na sākṣyaṃ teṣu vidyeta svayam ātmani yojayet // Kāty_368
+
+lekhyārūḍhaś cottaraś ca sākṣī mārgadvayānvitaḥ // Kāty_369
+
+atha svahastenārūḍhas tiṣṭhaṃś caikaḥ sa eva tu /
+na cet pratyabhijānīyāt tatsvahastaiḥ prasādhayet // Kāty_370
+
+arthinā svayam ānīto yo lekhye saṃniveśyate /
+sa sākṣī likhito nāma smāritaḥ patrakād ṛte // Kāty_371
+
+yas tu kāryaprasiddhyarthaṃ dṛṣṭvā kāryaṃ punaḥ punaḥ /
+smāryate hy arthinā sākṣī sa smārita ihocyate // Kāty_372
+
+prayojanārtham ānītaḥ prasaṅgād āgataś ca yaḥ /
+dvau sākṣiṇau tv alikhitau pūrvapakṣasya sādhakau // Kāty_373
+
+arthinā svārthasiddyarthaṃ pratyarthivacanaṃ sphuṭam /
+yaḥ śrāvitaḥ sthito gūḍho gūḍhasākṣī sa ucyate // Kāty_374
+
+sākṣiṇām api yaḥ sākṣyam uparyupari bhāṣate /
+śravaṇāc chrāvaṇād vāpi sa sākṣyuttarasaṃjñitaḥ // Kāty_375
+
+ullapyaṃ yasya viśrambhāt kāryaṃ vā viniveditam /
+gūḍhacārī sa vijñeyaḥ kāryam adhyagatas tathā // Kāty_376
+
+arthī yatra vipannaḥ syāt tatra sākṣī mṛtāntaraḥ /
+pratyarthī ca mṛto yatra tatrāpy evaṃ prakalpyate // Kāty_377
+
+lekhyadoṣās tu ye kecit sākṣiṇāṃ caiva ye smṛtāḥ /
+vādakāle tu vaktavyāḥ paścād uktān na dūṣayet // Kāty_378
+
+ukter arthe sākṣiṇo yas tu dūṣayet prāgdūṣitān /
+na ca tatkāraṇaṃ brūyāt prāpnuyāt pūrvasāhasam // Kāty_379
+
+nātathyena pramāṇaṃ tu doṣeṇaiva tu dūṣayet /
+mithyābhiyoge daṇḍyaḥ syāt sādhyārthāc cāpi hīyate // Kāty_380
+
+pratyarthinārthinā vāpi sākṣidūṣaṇasādhane /
+prastutārthopayogitvād vyavahārāntaraṃ na ca // Kāty_381
+
+sākṣidoṣāḥ pravaktavyāḥ saṃsadi prativādinā /
+patre vilikhya tān sarvān vācyaḥ pratyuttaraṃ tataḥ // Kāty_382
+
+pratipattau tu sākṣitvam arhanti na kadācana /
+ato 'nyathā bhāvanīyāḥ kriyayā prativādinā // Kāty_383
+
+abhāvayan dhanam dāpyaḥ pratyarthī sākṣiṇaḥ sphuṭam /
+bhāvitāḥ sākṣiṇaḥ sarve sākṣidharmanirākṛtāḥ // Kāty_384
+
+ākāro 'ṅgitaceṣṭābhis tasya bhāvaṃ vibhāvayet /
+prativādī bhaved dhīnaḥ so 'numānena lakṣyate // Kāty_385
+
+kampaḥ svedo 'tha vaikalyam oṣṭhaśoṣābhimarśane /
+bhūlekhanaṃ sthānahānis tiryagūrdhvanirīkṣaṇam /
+svarabhedaś ca duṣṭasya cihnāny āhur manīṣiṇaḥ // Kāty_386
+
+sabhāntaḥsthais tu vaktavyaṃ sākṣyaṃ nānyatra sākṣibhiḥ /
+sarvasākṣyeṣv ayaṃ dharmo hy anyatra sthāvareṣu tu // Kāty_387
+
+arthipratyarthisāṃnidhye sādhyārthasya ca saṃnidhau /
+pratyakṣaṃ deśayet sakṣyaṃ parokṣaṃ na kathaṃcana // Kāty_388
+
+arthasyopari vaktavyaṃ tayor api vinā kvacit /
+catuṣpadeṣv ayaṃ dharmo dvipadasthāvareṣu ca // Kāty_389
+
+taulyagaṇimameyānām abhāve 'pi vivādayet /
+kriyākāreṣu sarveṣu sākṣitvaṃ na tato 'nyathā // Kāty_390
+
+vadhe cet prāṇināṃ sākṣyaṃ vādayec chivasaṃnidhau /
+tadabhāve tu cihnasya nānyathaiva pravādayet // Kāty_391
+
+svabhāvoktaṃ vacas teṣāṃ grāhyaṃ yad doṣavarjitam /
+ukte tu sākṣiṇo rājñā na praṣṭavyāḥ punaḥ punaḥ // Kāty_392
+
+svabhāvenaiva yad brūyus tad grāhyaṃ vyāvahārikam /
+ato yad anyad vibrūyur dharmārthaṃ tad apārthakam // Kāty_393
+
+samavetais tu yad dṛṣṭaṃ vaktavyaṃ tat tathaiva tu /
+vibhinnaikaikakāryaṃ yad vaktavyaṃ tat pṛthak pṛthak // Kāty_394
+
+bhinnakāle tu yat kāryaṃ vijñātaṃ tatra sākṣibhiḥ /
+ekaikaṃ vādayet tatra bhinnakālaṃ tu tad bhṛguḥ // Kāty_395
+
+ṛṇādiṣu vivādeṣu sthiraprāyeṣu niścitam /
+ūne vāpy adhike vārthe prokte sādhyaṃ na sidhyati // Kāty_396
+
+sādhyārthāṃśe 'pi gadite sākṣibhiḥ sakalaṃ bhavet /
+strīsaṅge sāhase caurye yat sādhyaṃ parikalpitam // Kāty_397
+
+ūnādhikaṃ tu yatra syāt tat sākṣyaṃ tatra varjayet /
+sākṣī tatra na daṇḍyaḥ syād abruvan daṇḍam arhati // Kāty_398
+
+deśaṃ kālaṃ dhanaṃ saṃkhyāṃ rūpaṃ jātyākṛtī vayaḥ /
+visaṃvaded yatra sākṣye tad anuktaṃ vidur budhāḥ // Kāty_399
+
+nirdiṣṭeṣv arthajāteṣu sākṣī cet sākṣya āgate /
+na brūyād akṣarasamaṃ na tan nigaditaṃ bhavet // Kāty_400
+
+ūnam abhyadhikaṃ vārthaṃ vibrūyur yatra sākṣiṇaḥ /
+tad apy ayuktaṃ vijñeyam eṣa sākṣiviniścayaḥ // Kāty_401
+
+apṛṣṭaḥ sarvavacane pṛṣṭasyākathane tathā /
+sākṣiṇaḥ saṃniroddhavyā garhyā daṇḍyāś ca dharmataḥ // Kāty_402
+
+vākpāruṣye chale vāde dapyāḥ syur triśataṃ damam /
+ṛṇādivādeṣu dhanaṃ te syur dāpyā ṛṇaṃ tathā // Kāty_403
+
+yaḥ sākṣī naiva nirdiṣṭā nāhūto nāpi darśitaḥ /
+brūyān mithyeti tathyaṃ vā daṇḍyaḥ so 'pi narādhamaḥ // Kāty_404
+
+sākṣī sākṣyaṃ na ced brūyāt samadaṇḍaṃ vahed ṛṇam /
+ato 'nyeṣu vivādeṣu triśataṃ daṇḍam arhati // Kāty_405
+
+uktvānyathā bruvāṇāś ca daṇḍyāḥ syur vākchalānvitāḥ // Kāty_406
+
+yena kāryasya lobhena nirdiṣṭāḥ kūṭasākṣiṇaḥ /
+gṛhītvā tasya sarvasvaṃ kuryān nirviṣayaṃ tataḥ // Kāty_407
+
+yatra vai bhāvitaṃ kāryaṃ sākṣibhir vādinā bhavet /
+prativādī yadā tatra bhāvayet kāryam anyathā /
+bahubhiś ca kulīnair vā pūrvāḥ syuḥ kūṭasākṣiṇaḥ // Kāty_408
+
+yadā śuddhā kriyā nyāyāt tadā tadvākyaśodhanam /
+śuddhāc ca vākyād yaḥ śuddhaḥ sa śuddho 'rtha iti sthitiḥ // Kāty_409
+
+saptāhāt tu pratīyeta yatra sākṣy anṛtaṃ vadet /
+rogo 'gnir jñātimaraṇaṃ dvisaptāhāt trisapta vā /
+ṣaṭcatvāriṃśake vāpi dravyajātyādibhedataḥ // Kāty_410
+
+na kaścid abhiyoktāraṃ divyeṣu viniyojayet /
+abhiyuktāya dātavyaṃ divyaṃ divyaviśāradaiḥ // Kāty_411
+
+pārthivaiḥ śaṅkitānāṃ tu tulādīni niyojayet /
+ātmaśuddhividhāne ca na śiras tatra kalpayet // Kāty_412
+
+lokāpavādaduṣṭānāṃ śaṅkitānāṃ ca dasyubhiḥ /
+tulādīni niyojyāni na śiras tatra vai bhṛguḥ // Kāty_413
+
+na śaṅkāsu śiraḥ kośe kalpayet tu kadācana /
+aśirāṃsi ca divyāni rājabhṛtyeṣu dāpayet // Kāty_414
+
+śaṅkāviśvāsasaṃdhāne vibhāge rikthināṃ sadā /
+kriyāsamūhakartṛtve kośam eva pradāpayet // Kāty_415
+
+dattasyāpahnavo yatra pramāṇaṃ tatra kalpayet /
+steyasāhasayor divyaṃ svalpe 'py arthe pradāpayet // Kāty_416
+
+sarvadravyapramāṇaṃ tu jñātvā hema prakalpayet /
+hemapramāṇayuktaṃ tu tadā divyaṃ niyojayet // Kāty_417
+
+jñātvā saṃkhyāṃ suvarṇānāṃ śatanāśe viṣaṃ smṛtam /
+aśītes tu vināśe vai dadyāc caiva hutāśanam // Kāty_418
+
+ṣaṣṭyā nāśe jalaṃ deyaṃ catvāriṃśati vai ghaṭam /
+viṃśaddaśavināśe vai kośapānaṃ vidhīyate // Kāty_419
+
+pañcādhikasya vā nāśe tadardhārdhasya tandulāḥ /
+tadardhārdhasya nāśe tu spṛśet putrādimastakam // Kāty_420
+
+tadardhārdhasya nāśe tu laukikāś ca kriyāḥ smṛtāḥ /
+evaṃ vicārayan rājā dharmārthābhyāṃ na hīyate // Kāty_421
+
+rājanye 'gniṃ ghaṭaṃ vipre vaiśye toyaṃ niyojayet /
+sarveṣu sarvadivyaṃ vā viṣaṃ varṃjya dviyottame // Kāty_422
+
+gorakṣakān vāṇijakāṃs tathā kārukuśīlavān /
+preṣyān vārdhuṣikāṃś caiva grāhayec śūdravad dvijān // Kāty_423
+
+na lohaśilpinām agniṃ salilaṃ nāmbusevinām /
+mantrayogavidāṃ caiva viṣaṃ dadyāc ca na kvacit /
+taṇḍulair na niyuñjīta vratinaṃ mukharogiṇam // Kāty_424
+
+kuṣṭhināṃ varjayed agniṃ salilaṃ śvāsakāsinām /
+pittaśleṣmavatāṃ nityaṃ viṣaṃ tu parivarjayet // Kāty_425
+
+madyapastrīvyasanināṃ kitavānāṃ tathaiva ca /
+kośaḥ prājñair na dātavyo ye ca nāstikavṛttayaḥ // Kāty_426
+
+mātāpitṛdvijagurubālastrīrājaghātinām /
+mahāpātakayuktānāṃ nāstikānāṃ viśeṣataḥ // Kāty_427
+
+liṅgināṃ praśaṭhānāṃ tu mantrayogakriyāvidām /
+varṇasaṃkarajātānāṃ pāpābhyāsapravartinām // Kāty_428
+
+eteṣv evābhiyogeṣu nindyeṣv eva ca yatnataḥ /
+divyaṃ prakalpyen naiva rājā dharmaparāyaṇaḥ // Kāty_429
+
+etair eva niyuktānāṃ sādhūnāṃ divyam arhati /
+necchanti sādhavo yatra tatra śodhyāḥ svakair naraiḥ // Kāty_430
+
+mahāpātakayukteṣu nāstikeṣu viśeṣataḥ /
+na deyaṃ teṣu divyaṃ tu pāpābhyāsarateṣu ca // Kāty_431
+
+eṣu vādeṣu divyāni pratiṣiddhāni yatnataḥ /
+kārayet sajjanais tāni nābhiśastaṃ tyajen manuḥ // Kāty_432
+
+aspṛśyādhamadāsānāṃ mlecchānāṃ pāpakāriṇām /
+prātilomyapasūtānāṃ niścayo na tu rājani /
+tatprasiddhāni divyāni saṃśaye teṣu nirdiśet // Kāty_433
+
+indrasthāne 'bhiśastānāṃ mahāpātakināṃ nṛṇām /
+nṛpadrohe pravṛttānāṃ rājadvāre prayojayet // Kāty_434
+
+prātilomyaprasūtānāṃ divyaṃ deyaṃ catuṣpathe /
+ato 'nyeṣu sabhāmadhye divyaṃ deyaṃ vidur budhāḥ // Kāty_435
+
+kāladeśavirodhe tu yathāyuktaṃ prakalpayet /
+anyena hārayed divyaṃ vidhir eṣa viparyaye // Kāty_436
+
+adeśakāladattāni bahirvāsakṛtāni ca /
+vyabhicāraṃ sadārtheṣu kurvantīha na saṃśayaḥ // Kāty_437
+
+sādhayet tat punaḥ sādhyaṃ vyāghāte sādhanasya hi /
+dattāny api yathoktāni rājā divyāni varjayet /
+mūrkhair lubdhaiś ca duṣṭaiś ca punar deyāni tāni vai // Kāty_438
+
+tasmād yathoktavidhinā divyaṃ deyaṃ viśāradaiḥ /
+ayathoktaprayuktaṃ tu na śaktaṃ tasya sādhane // Kāty_439
+
+śikyac chede tulābhaṅge tathā vāpi guṇasya vā /
+śuddhes tu saṃśaye caiva parīkṣeta punar naram // Kāty_440
+
+praskhalaty abhiyuktaś cet sthānād anyatra dahyate /
+na dagdhaṃ tu vidur devās tasya bhūyo 'pi dāpayet // Kāty_441
+
+śarāṃs tv anāyasair agraiḥ prakurvīta viśuddhaye /
+veṇakāṇḍamayāṃś caiva kṣeptā ca sudṛḍhaṃ kṣipet // Kāty_442
+
+kṣipte tu majjanaṃ kāryaṃ gamanaṃ samakālikam /
+gamane tv āgamaḥ kāryaḥ pumān anyo jale viśet // Kāty_443
+
+śiromānaṃ tu dṛśyeta na karṇau nāpi nāsikā /
+apsu praveśane yasya śuddhaṃ tam api nirdiśet // Kāty_444
+
+nimajjyotplavate yas tu dṛṣṭaś cet prāṇibhir naraḥ /
+punas tatra nimajjet sa deśacihnavibhāvite // Kāty_445
+
+ajāśṛṅganibhaṃ śyāmaṃ supīnaṃ śṛṅgasaṃbhavam /
+bhaṅge ca śṛṅgaverābhaṃ khyātaṃ tacśṛṅgiṇāṃ viṣam // Kāty_446
+
+raktaṃ tadasitaṃ kuryāt kaṭinaṃ caiva tallakṣaṇāt /
+anena vidhinā jñeyaṃ divyaṃ divyaviśāradaiḥ // Kāty_447
+
+vatsanābhanibhaṃ pītaṃ varṇajñānena niścayaḥ /
+śuktiśaṅkhākṛtir bhaṅge vidyāt tadvatsanābhakam // Kāty_448
+
+madhukṣīrasamāyuktaṃ svacchaṃ kurvīta tatkṣaṇāt /
+bāhyam evaṃ samākhyātaṃ lakṣaṇaṃ dharmasādhakaiḥ // Kāty_449
+
+pūrvāhṇe śītale deśe viṣaṃ dadyāt tu dehinām /
+ghṛtena yojitaṃ ślakṣṇaṃ piṣṭaṃ triṃśadguṇena tu // Kāty_450
+
+viṣasya palaṣaḍbhāgād bhāgo viṃśatim astu yaḥ /
+tam aṣṭabhāgahīnaṃ śodhye deyaṃ ghṛtāplutam // Kāty_451
+
+svalpe 'parādhe devānāṃ snāpayitvāyudhodakam /
+pāyyo vikāre cāśuddho niyamyaḥ śucir anyathā // Kāty_452
+
+devatāsnānapānīyadivye taṇḍulabhakṣaṇe /
+śuddhaniṣṭhīvanāc śuddho niyamyo 'śucir anyathā // Kāty_453
+
+avaṣṭambhābhiyuktasya viśuddhasyāpi kośataḥ /
+sadaṇḍam abhiyogaṃ ca dāpayed abhiyojakam /
+divyena śuddhaṃ puruṣaṃ sat kuryād dhārmiko nṛpaḥ // Kāty_454
+
+śoṇitaṃ dṛśyate yatra hanuvālaṃ ca sīdati /
+gātraṃ ca kampate yasya tam aśuddhaṃ vinirdiśet // Kāty_455
+
+atha daivavisaṃvādāt trisaptāhāt tu dāpayet /
+abhiyuktaṃ tu yatnena tam arthaṃ daṇḍam eva ca // Kāty_456
+
+tasyaikasya na sarvasya janasya yadi tad bhavet /
+rogo 'gnir jñātimaraṇam ṛṇaṃ dāpyo damaṃ ca saḥ // Kāty_457
+
+kṣayātisāravisphoṭās tālvasthiparipīḍanam /
+netraruggalarogaś ca tathonmādaḥ prajāyate /
+śirorugbhujabhaṅgaś ca daivikā vyādhayo nṛṇām // Kāty_458
+
+śatārdhaṃ dāpayec śuddham aśuddho daṇḍabhāg bhavet // Kāty_459
+
+viṣe toye hutāśe ca tulākośe ca taṇḍule /
+taptamāṣakadivye ca kramād daṇḍaṃ prakalpayet // Kāty_460
+
+sahasraṃ ṣaṭśataṃ caiva tathā pañca śatāni ca /
+catustridvyekam evaṃ ca hīnaṃ hīneṣu kalpayet // Kāty_461
+
+yatropadiśyate karma kartur aṅgaṃ na tūcyate /
+dakṣiṇas tatra vijñeyaḥ karmaṇāṃ pāragaḥ karaḥ // Kāty_462
+
+ācaturdaśakād ahno yasya no rājadaivikam /
+vyasanaṃ jāyate ghoraṃ sa jñeyaḥ śapathe śuciḥ // Kāty_463
+
+unmattenaiva mattena tathā bhāvāntareṇa vā /
+yad dattaṃ yat kṛtaṃ vātha pramāṇaṃ naiva tad bhavet // Kāty_464
+
+asvatantrakṛtaṃ kāryaṃ tasya svāmī nivartayet /
+na bhartrā vivadetānyo bhītonmattakṛtād ṛte // Kāty_465
+
+pitāsvatantraḥ pitṛmān bhrātā bhātṛvya eva vā /
+kaniṣṭho vāvibhaktasvo dāsaḥ karmakaras tathā // Kāty_466
+
+na kṣetragṛhadāsānāṃ dānādhamanavikrayāḥ /
+asvatantrakṛtāḥ siddhiṃ prāpnuyur nānuvarṇitāḥ // Kāty_467
+
+pramāṇaṃ sarva evaite paṇyānāṃ krayavikraye /
+yadi saṃvyavahāraṃ te kurvanto 'py anumoditāḥ // Kāty_468
+
+kṣetrādīṇāṃ tathaiva syur bhrātā bhrātṛsutaḥ sutaḥ /
+nisṛṣṭāḥ kṛtyakaraṇe guruṇā yadi gacchatā // Kāty_469
+
+nisṛṣṭārthas tu yo yasmin tasminn arthe prabhus tu saḥ /
+tadbhartā tatkṛtaṃ kāryaṃ nānyathā kartum arhati // Kāty_470
+
+sutasya sutadārāṇāṃ vaśitvaṃ tv anuśāsane /
+vikraye caiva dāne ca vaśitvaṃ na sute pituḥ // Kāty_471
+
+śuddhis tu śāstratattvajñaiś cikitsā samudāhṛtā /
+prāyaścittaṃ ca daṇḍaṃ ca tābhyāṃ sā dvividhā smṛtā // Kāty_472
+
+anekārthābhiyoge 'pi yāvat saṃsādhayed dhanī /
+sākṣibhis tāvad evāsau labhate sādhitaṃ dhanam // Kāty_473
+
+sarvāpalāpaṃ yaḥ kṛtvā mitho 'lpam api saṃvadet /
+sarvam eva tu dāpyaḥ syād abhiyukto bṛhaspatiḥ // Kāty_474
+
+evaṃ dharmāsanasthena samenaiva vivādinā /
+kāryāṇāṃ nirṇayo dṛśyo brāhmaṇaiḥ saha nānyathā // Kāty_475
+
+vyavahārān svayaṃ dṛṣṭvā śrutvā vā prāṅvivākataḥ /
+jayapatraṃ tato dadyāt parijñānāya pārthivaḥ // Kāty_476
+
+rājā tu svāmine vipraṃ sāntvenaiva pradāpayet /
+deśācāreṇa cānyāṃs tu duṣṭān saṃpīḍya dāpayet // Kāty_477
+
+rikthinaṃ suhṛdaṃ vāpi cchalenaiva pradāpayet /
+vaṇijaḥ karṣakāṃś cāpi śilpinaś cābravīd bhṛguḥ // Kāty_478
+
+dhanadānāsahaṃ buddhvā svādhīnaṃ karma kārayet /
+aśaktau bandhanāgāraṃ praveśyo brāhmaṇād ṛte // Kāty_479
+
+karṣakān kṣatraviśśūdrān samīhānāṃs tu dāpayet // Kāty_480
+
+ācāryasya pitur mātur bāndhavānāṃ tathaiva ca /
+eteṣām aparādheṣu daṇḍo naiva vidhīyate // Kāty_481
+
+prāṇātyaye tu yatra syād akāryakaraṇaṃ kṛtam /
+daṇḍas tatra tu naiva syād eṣa dharmo bhṛgusmṛtaḥ // Kāty_482
+
+na jātu brāhmaṇaṃ hanyāt sarvapāpeṣv avasthitam /
+rāṣṭrāc cainaṃ bahiḥ kuryāt samagradhanam akṣatam // Kāty_483
+
+caturṇām api varṇānāṃ prāyaścittam akurvatām /
+śarīradhanasaṃyuktaṃ daṇḍaṃ dharmyaṃ prakalpayet // Kāty_484
+
+yena doṣeṇa śūdrasya daṇḍo bhavati dharmataḥ /
+tena cet kṣatraviprāṇāṃ dviguṇo dviguṇo bhavet // Kāty_485
+
+pravrajyāvasitaṃ śūdraṃ japahomaparāyaṇam /
+vadhena śāsayet pāpaṃ daṇḍyo vā dviguṇaṃ damam // Kāty_486
+
+sarveṣu cāparādheṣu puṃso yo 'rthadamaḥ smṛtaḥ /
+tadardhaṃ yoṣito dadyur vadhe puṃso 'ṅga kartanam // Kāty_487
+
+nāsvatantrāḥ striyo grāhyāḥ pumāṃs tatrāparādhyati /
+prabhuṇā śāsanīyās tā rājā tu puruṣaṃ nayet // Kāty_488
+
+proṣitasvāmikā nārī prāpitā yady api grahe /
+tāvat sā bandhane sthāpyā yāvat pratyāgataḥ prabhuḥ // Kāty_489
+
+kalpito yasya yo daṇḍas tv aparādhasya yatnataḥ /
+paṇānāṃ grahaṇaṃ tu syāt tanmūlyaṃ vātha rājani // Kāty_490
+
+māṣapādo dvipādo vā daṇḍo yatra pravartitaḥ /
+anirdiṣṭaṃ tu vijñeyaṃ māṣakaṃ tu prakalpayet // Kāty_491
+
+yatrokto māṣakair daṇḍo rājataṃ tatra nirdiśeta /
+kṛṣṇalaiś coktam eva syād uktadaṇḍaviniścayaḥ // Kāty_492
+
+māṣo viṃśatibhāgas tu jñeyaḥ kārṣāpaṇasya tu /
+kākaṇī tu caturbhāgā māṣakasya paṇasya ca // Kāty_493
+
+pañcanadyāḥ pradeśe tu saṃjñeyaṃ vyavahārikī /
+kārṣāpaṇoṇḍikā jñeyās tāś catasras tu dhānakaḥ /
+te dvādaśa suvarṇās tu dīnāraś citrakaḥ smṛtaḥ // Kāty_494
+
+asat sad iti yaḥ pakṣaḥ sabhyair evāvadhāryate /
+tīritaḥ so 'nuśiṣṭas tu sākṣivākyāt prakīrtitaḥ // Kāty_495
+
+kulādibhir niścite 'pi santoṣaṃ na gatas tu yaḥ /
+vicārya tat kṛtaṃ rājā kukṛtaṃ punar uddharet // Kāty_496
+
+na strībhyo dāsabālebhyaḥ prayacchet kvacid uddhṛtam /
+dātā na labhate tat tu tebhyo dadyāt tu yad vasu // Kāty_497
+
+ṛṇikena tu yā vṛddhir adhikā saṃprakalpitā /
+āpatkālakṛtā nityaṃ dātavyā kāritā tu sā /
+anyathā kāritā vṛddhir na dātavyā kathaṃcana // Kāty_498
+
+ekāntenaiva vṛddhiṃ tu śodhayed yatra carṇikam /
+pratikālaṃ dadāty eva śikhāvṛddhis tu sā smṛtā // Kāty_499
+
+gṛhāt toṣaḥ phalaṃ kṣetrād bhogalābhaḥ prakīrtitaḥ // Kāty_500
+
+ādhibhogas tv aśeṣo yo vṛddhis tu parikalpitaḥ /
+prayogo yatra caivaṃ syād ādhibhogaḥ sa ucyate // Kāty_501
+
+yo yācitakam ādāya tam adattvā diśaṃ vrajet /
+ūrdhvaṃ saṃvatsarāt tasya taddhanaṃ vṛddhim āpnuyāt // Kāty_502
+
+kṛtvoddhāram adattvā yo yācitas tu diśaṃ vrajet /
+ūrdhvaṃ māsatrayāt tasya taddhanaṃ vṛddhim āpnuyāt // Kāty_503
+
+svadeśe 'pi sthito yas tu na dadyād yācitaḥ kvacit /
+taṃ tato 'kāritāṃ vṛddhim anicchantaṃ ca dāpayet // Kāty_504
+
+prītidattaṃ na vardheta yāvan na pratiyācitam /
+yācyamānam adattaṃ ced vardhate pañcakaṃ śatam // Kāty_505
+
+nikṣiptaṃ vṛddhiśeṣaṃ ca krayavikrayam eva ca /
+yācyamānam adattaṃ ced vardhate pañcakaṃ śatam // Kāty_506
+
+paṇyaṃ gṛhītvā yo mūlyam adattvaiva diśaṃ vrajet /
+ṛtutrayasyāpariṣṭāt taddhanaṃ vṛddhim āpnuyāt // Kāty_507
+
+carmasasyāsavadyūte paṇyamūlye ca sarvadā /
+strīśulkeṣu na vṛddhiḥ syāt prātibhāvyāgateṣu ca // Kāty_508
+
+grāhyaṃ syād dviguṇaṃ dravyaṃ prayuktaṃ dhanināṃ sadā /
+labhate cen na dviguṇaṃ punar vṛddhiṃ prakalpayet // Kāty_509
+
+maṇimuktāpravālānāṃ suvarṇarajatasya ca /
+tiṣṭhati dviguṇā vṛddhiḥ phālakaiṭāvikasya ca // Kāty_510
+
+tailānāṃ caiva sarveṣāṃ madyānām atha sarpiṣām /
+vṛddhir aṣṭaguṇā jñeyā guḍasya lavaṇasya ca // Kāty_511
+
+kupyaṃ pañcaguṇaṃ bhūmis tathaivāṣṭaguṇā matā /
+sadya eveti vacanāt sadya eva pradīyate // Kāty_512
+
+ekāhe likhitaṃ yat tu tat tu kuryād ṛṇaṃ samam /
+grahaṇaṃ rakṣaṇaṃ lābham anyathā tu yathākramam // Kāty_513
+
+nānāṛṇasamavāye tu yad yat pūrvakṛtaṃ bhavet /
+tat tad evāgrato deyaṃ rājñaḥ syāc śrotriyād anu // Kāty_514
+
+yasya dravyeṇa yat paṇyaṃ sādhitaṃ yo vibhāvayet /
+tad dravyam ṛṇikenaiva dātavyaṃ tasya nānyathā // Kāty_515
+
+dravyaṃ gṛhītvā vṛddhyarthaṃ bhogayogyaṃ dadāti cet /
+jaṅgamaṃ sthāvaraṃ vāpi bhogyādhiḥ sa tu kathyate /
+mūlyaṃ tadādhikaṃ dattvā svakṣetrādikam āpnuyāt // Kāty_516
+
+ādhim ekaṃ dvayor yas tu kuryāt kā pratipad bhavet /
+tayoḥ pūrvakṛtaṃ grāhyaṃ tatkartā coradaṇḍabhāk // Kāty_517
+
+ādhānaṃ vikrayo dānaṃ lekhyasākṣyakṛtaṃ yadā /
+ekakriyāviruddhaṃ tu lekhyaṃ tatrāpahārakam // Kāty_518
+
+anirdiṣṭaṃ ca nirdiṣṭam ekatra ca vilekhitam /
+viśeṣalikhitaṃ jyāya iti kātyāyano 'bravīt // Kāty_519
+
+yo 'vidyamānaṃ prathamam anirdiṣṭasvarūpakam /
+ākāśabhūtam ādadhyād anirdiṣṭaṃ ca tad bhavet /
+yad yat tadāsya vidyeta tad ādiṣṭaṃ vinirdiśet // Kāty_520
+
+yas tu sarvasvam ādiśya prāk paścān nāmacihnitam /
+ādadhyāt tat kathaṃ na syāc cihnitaṃ balavattaram // Kāty_521
+
+maryādācihnitaṃ kṣetraṃ grāmaṃ vāpi yadā bhavet /
+grāmādayaś ca likhyante tadā siddhim avāpnuyāt // Kāty_522
+
+ādhīkṛtaṃ tu yat kiṃcid vinaṣṭaṃ daivarājataḥ /
+tatra ṛṇaṃ sodayaṃ dāpyo dhaninām adhamarṇakaḥ // Kāty_523
+
+na ced dhanikadoṣeṇa nipated vā mriyeta vā /
+ādhim anyaṃ sa dāpyaḥ syād ṛṇān mucyeta narṇikaḥ // Kāty_524
+
+akāmam ananujñātam adhiṃ yaḥ karma kārayet /
+bhoktā karmaphalaṃ dāpyo vṛddhiṃ vā labhate na saḥ // Kāty_525
+
+yas tv ādhiṃ karma kurvāṇaṃ vācā daṇḍena karmabhiḥ /
+pīḍayed bhatsayec caiva prāpnuyāt pūrvasāhasam // Kāty_526
+
+balādakāmaṃ yatrādhim anisṛṣṭaṃ praveśayet /
+prāpnuyāt sāhasaṃ pūrvam ādhātā cādhim āpnuyāt // Kāty_527
+
+ādhiṃ duṣṭena lekhyena bhuṅkte yam ṛṇikād dhanī /
+nṛpo damaṃ dāpayitvā ādhikekhyaṃ vināśayet // Kāty_528
+
+ādhātā yatra na syāt tu dhanī bandhaṃ nivedayet /
+rājñas tataḥ sa vikhyāto vikreya iti dhāraṇā /
+savṛddhikaṃ gṛhītvā tu śeṣaṃ rājan yathārpayet // Kāty_529
+
+dānopasthānavādeṣu viśvāsaśapathāya ca /
+lagnakaṃ kārayed evaṃ yathāyogaṃ viparyaye // Kāty_530
+
+darśanapratibhūryas taṃ deśe kāle na darśayet /
+nibandham āvahet tatra daivarājakṛtād ṛte // Kāty_531
+
+naṣṭasyānveṣaṇārthaṃ tu deyaṃ pakṣatrayaṃ param /
+yady asau darśayet tatra moktavyaḥ pratibhūr bhavet // Kāty_532
+
+kāle vyatīte pratibhūr yadi taṃ naiva darśayet /
+sa tam arthaṃ pradāpyaḥ syāt prete caivaṃ vidhīyate // Kāty_533
+
+gṛhītvā bandhakaṃ yatra darśane 'sya sthito bhavet /
+vinā pitrā dhanaṃ tasmād dāpyaḥ syāt tad ṛṇaṃ sutaḥ // Kāty_534
+
+yo yasya pratibhūs tiṣṭhed darśanāyeha mānavaḥ /
+adarśayan sa taṃ tasmai prayacchet svadhanād ṛṇam // Kāty_535
+
+ādyau tu vitathe dāpyau tatkālāveditaṃ dhanam /
+uttarau tu visaṃvāde tau vinā tatsutau tathā // Kāty_536
+
+ekacchāyāśrite sarvaṃ dadyāt tu proṣite sutaḥ /
+mṛte pitari pitṛaṃśaṃ pararṇaṃ na bṛhaspatiḥ // Kāty_537
+
+ekacchāyāpraviṣṭānāṃ dāpyo tas tatra dṛśyate /
+proṣite tatsutaḥ sarvaṃ pitraṃśaṃ tu mṛte sutaḥ // Kāty_538
+
+prātibhāvyaṃ tu yo dadyāt pīḍitaḥ pratibhāvitaḥ /
+tripakṣāt parataḥ so 'rthaṃ dviguṇaṃ labdhum arhati // Kāty_539
+
+yasyārthe yena yad dattaṃ vidhinābhyarthitena tu /
+sākṣibhir bhāvitenaiva pratibhūs tat samāpnuyāt // Kāty_540
+
+satyaṃkāravisaṃvāde dviguṇaṃ pratidāpayet /
+akurvatas tu tad dhāni satyaṃkāraprayojanam // Kāty_541
+
+kuṭumbārtham aśaktena gṛhītaṃ vyādhitena vā /
+upaplavanimitte ca vidyād āpatkṛte tu tat // Kāty_542
+
+kanyāvaivāhikaṃ caiva pretakārye ca yatkṛtam /
+etat sarvaṃ pradātavyaṃ kuṭumbena kṛtaṃ prabhoḥ // Kāty_543
+
+ṛṇaṃ putrakṛtaṃ pitrā na deyam iti dharmataḥ /
+deyaṃ pratiśrutaṃ yat syāt yac ca syād anumoditam // Kāty_544
+
+proṣitasyāmatenāpi kuṭumbārtham ṛṇaṃ kṛtam /
+dāsastrīmātṛśiṣyair vā dadyāt putreṇa vā bhṛguḥ // Kāty_545
+
+bhartrā putreṇa vā sārdhaṃ kevalenātmanā kṛtam /
+ṛṇam evaṃvidhaṃ deyaṃ nānyathā tatkṛtaṃ striyā // Kāty_546
+
+martukāmena yā bhartrā proktā deyam ṛṇaṃ tvayā /
+aprapannāpi sā dāpyā dhanaṃ yady āśritaṃ striyām // Kāty_547
+
+vidyamāneapi rogārte svadeśāt proṣite 'pi vā /
+viṃśāt saṃvatsarād deyaṃ ṛṇaṃ pitṛkṛtaṃ sutaiḥ // Kāty_548
+
+vyādhitonmattavṛddhānāṃ tathā dīrghapravāsinām /
+ṛṇam evaṃvidhaṃ putrāñ jīvatām api dāpayet // Kāty_549
+
+sāṃnidhye 'pi pituḥ putrair ṛṇaṃ deyaṃ vibhāvitam /
+jātyandhapatitonmattakṣayaśvitrādirogiṇaḥ // Kāty_550
+
+pitṝṇāṃ sūnubhir jātair dānenaivādhamād ṛṇāt /
+vimokṣas tu yatas tasmād icchanti pitaraḥ sutān // Kāty_551
+
+nāprāptavyavahāreṇa pitary uparate kvacit /
+kāle tu vidhinā deyaṃ vaseyur narake 'nyathā // Kāty_552
+
+aprāptavyavahāraś cet svatantro 'pīha narṇabhāk /
+svātantryaṃ hi smṛtaṃ jyeṣṭhe jyaiṣṭhe guṇavayaḥkṛtam // Kāty_553
+
+yad dṛṣṭaṃ dattaśeṣaṃ vā deyaṃ paitāmahaṃ tu tat /
+sadoṣaṃ vyāhataṃ pitrā naiva deyam ṛṇaṃ kvacit // Kāty_554
+
+pitrā dṛṣṭam ṛṇaṃ yat tu kramāyātaṃ pitāmahāt /
+nirdoṣaṃ noddhṛtaṃ putrair deyaṃ pautrais tu tadbhṛguḥ // Kāty_555
+
+paitāmahaṃ tu yat putrair na dattaṃ rogibhiḥ sthitaiḥ /
+tasmād evaṃvidhaṃ pautrair deyaṃ paitāmahaṃ samam // Kāty_556
+
+ṛṇaṃ tu dāpayet putraṃ yadi syān nirupadravaḥ /
+draviṇārhaś ca dhuryaś ca nānyathā dāpayet sutam // Kāty_557
+
+yad deyaṃ pitṛbhir nityaṃ tadabhāve tu taddhanāt /
+tad dhanaṃ putraputrair vā deyaṃ tatsvāmine tadā // Kāty_558
+
+pitrarṇe vidyamāne tu na ca putro dhanaṃ haret /
+deyaṃ taddhanike dravyaṃ mṛte gṛhṇaṃs tu dāpyate // Kāty_559
+
+putrābhāve tu dātavyam ṛṇaṃ pautreṇa yatnataḥ /
+caturthena na dātavyaṃ tasmāt tad vinirvartate // Kāty_560
+
+prātibhāvyāgataṃ pautrair dātavyaṃ na tu tatkvacit /
+putreṇāpi samaṃ deyam ṛṇaṃ sarvatra paitṛkam // Kāty_561
+
+rikthahartrā ṛṇaṃ deyaṃ tadabhāve ca yoṣitaḥ /
+putraiś ca tadabhāve 'nyai rikthabhāgbhir yathākramam // Kāty_562
+
+yāvan na paitṛkaṃ dravyaṃ vidyamānaṃ labhet sutaḥ /
+susamṛddo 'pi dāpyaḥ syāt tāvan naivādhamarṇikaḥ // Kāty_563
+
+likhitaṃ muktakaṃ vāpi deyaṃ yat tu pratiśrutam /
+parapūrvastriyai yat tu vidyāt kāmakṛtaṃ nṛṇām // Kāty_564
+
+yatra hiṃsāṃ samutpādya krodhād dravyaṃ vināśya vā /
+uktaṃ tuṣṭikaraṃ yat tu vidyād krodhakṛtaṃ tu tat // Kāty_565
+
+svasthenārtena vā deyaṃ bhāvitaṃ dharmakāraṇāt /
+adattvā tu mṛte dāpyas tatsuto nātra saṃśayaḥ // Kāty_566
+
+nirdhanair anapatyais tu yat kṛtaṃ śauṇḍikādibhiḥ /
+tatstrīṇām upabhoktā tu dadyāt tadṛṇam eva hi // Kāty_567
+
+śauṇḍikavyādhajanakagopanāvikayoṣitām /
+adhiṣṭhātā ṛṇaṃ dāpyas tāsāṃ bhartṛkriyāsu tat // Kāty_568
+
+na ca bhāryākṛtam ṛṇaṃ kathaṃcit patyur ābhavet /
+āpatkṛtād ṛte puṃsāṃ kuṭumbārthe hi vistaraḥ // Kāty_569
+
+anyatra rajakavyādhagopaśauṇḍikayoṣitām /
+teṣāṃ tu tatparā vṛttiḥ kuṭumbaṃ ca tadāśrayam // Kāty_570
+
+amatenaiva putrasya pradhanā yānyam āśrayet /
+putreṇaivāpahāryaṃ taddhanaṃ duhitṛbhir vinā // Kāty_571
+
+ṛṇārtham āharet tantuṃ na sukhārthaṃ kadācana /
+ayukte kāraṇe yasmāt pitarau tu na dāpayet // Kāty_572
+
+yā svaputraṃ tu jahyāt strī samartham api putriṇī /
+āhṛtya strīdhanaṃ tatra pitryarṇaṃ śodhayen manuḥ // Kāty_573
+
+bālaputrādhikārthā ca bhartāraṃ yānyam āśritā /
+āśritas tadṛṇaṃ dadyād bālaputrāvidhiḥ smṛtaḥ // Kāty_574
+
+dīrghapravāsinirbandhujaḍonmattārtaliṅginām /
+jīvatām api dātavyaṃ tatstrīdravyasamāśritaiḥ // Kāty_575
+
+vyasanābhiplute putre bālo vā yatna dṛśyate /
+dravyahṛd dāpyate tatra tasyābhāve purandhrihṛt // Kāty_576
+
+pūrvaṃ dadyād dhanagrāhaḥ putras tasmād anantaram /
+yoṣidgrāhaḥ sutābhāve putro vātyantanirdhanaḥ // Kāty_577
+
+deyaṃ bhāryākṛtam ṛṇaṃ bhartrā putreṇa mātṛkam /
+bhartur arthe kṛtaṃ yat syād abhidhāya gate diśam // Kāty_578
+
+deyaṃ putrakṛtaṃ tat syād yac ca syād anuvarṇitam /
+kṛtāsaṃvāditaṃ yac ca śrutvā caivānucoditam // Kāty_579
+
+dhāryo 'varuddhas tv ṛṇikaḥ prakāśaṃ janasaṃsadi /
+yāvan na dadyād deyaṃ ca deśācārasthitir yathā // Kāty_580
+
+viṇmūtraśaṅkā yasya syād dhāryamāṇasya dehinaḥ /
+pṛṣṭhato vānugantavyo nibaddhaṃ vā samutsṛjet // Kāty_581
+
+sa kṛtapratibhūś caiva moktavyaḥ syād dine dine /
+āhārakāle rātrau ca nibandhe pratibhūḥ sthitaḥ // Kāty_582
+
+yo darśanapratibhuvaṃ nādhigacchen na cāśrayet /
+sa cārake niroddhavyaḥ sthāpyo vāvedya rakṣiṇaḥ // Kāty_583
+
+na cārake niroddhavya āryaḥ prātyayikaḥ śuciḥ /
+so 'nibaddhaḥ pramoktavyo nibaddhaḥ śapathena vā // Kāty_584
+
+pīḍanenoparodhena sādhayed ṛṇikaṃ dhanī /
+karmaṇā vyavahāreṇa sāntvenādau vibhāvitaḥ // Kāty_585
+
+ādadītārtham evaṃ tu vyājenācaritena ca /
+karmaṇā kṣatraviśśūdrān samahīnāṃś ca dāpayet // Kāty_586
+
+rājānaṃ svāminaṃ vipraṃ sāntvenaiva pradāpayet /
+rikthinaṃ suhṛdaṃ vāpi cchalenaiva prasādhayet // Kāty_587
+
+vaṇijaḥ karṣakāś caiva śilpinaś cābravīd bhṛguḥ /
+deśācāreṇa dāpyāḥ syur duṣṭān saṃpīḍya dāpayet // Kāty_588
+
+pīḍayet tu dhanī yatra ṛṇikaṃ nyāyavādinam /
+tasmād arthāt sa hīyeta tatsamaṃ cāpnuyād damam // Kāty_589
+
+yadi hy ādāv anādiṣṭam aśubhaṃ karma kārayet /
+prāpnuyāt sāhasaṃ pūrvam ṛṇān mucyeta carṇikaḥ // Kāty_590
+
+uddhārādikam ādāya svāmine na dadāti yaḥ /
+sa tasya dāso bhṛtyaḥ strī paśur vā jāyate gṛhe // Kāty_591
+
+trayaproṣitanikṣiptabandhānvāhitayācitam /
+vaiśyavṛttyarpitaṃ caiva so 'rthas tūpanidhiḥ smṛtaḥ // Kāty_592
+
+nikṣiptaṃ yasya yat kiṃcit tatprayatnena pālayet /
+daivarājakṛtād anyo vināśas tasya kīrtyate // Kāty_593
+
+yasya doṣeṇa yat kiṃcid vināśyeta hriyeta vā /
+tad dravyaṃ sodayaṃ dāpyo daivarājakṛtād vinā // Kāty_594
+
+yācitānantaraṃ nāśe daivarājakṛte 'pi saḥ /
+grahītā pratidāpyaḥ syān mūlyamātraṃ na saṃśayaḥ // Kāty_595
+
+nyāsādikaṃ paradravyaṃ prabhakṣitam upekṣitam /
+ajñānanāśitaṃ caiva yena dāpyaḥ sa eva tat // Kāty_596
+
+bhakṣitaṃ sodayaṃ dāpyaḥ samaṃ dāpya upekṣitam /
+kiṃcin nyūnaṃ pradāpyaḥ syād dravyam ajñānanāśitam // Kāty_597
+
+arājadaivikenāpi nikṣiptaṃ yatra nāśitam /
+grahītuḥ saha bhāṇḍena dātur naṣṭaṃ tad ucyate // Kāty_598
+
+jñātvā dravyaviyogaṃ tu dātā yatra vinikṣipet /
+sarvopāyavināśe 'pi grahītā naiva dāpyate // Kāty_599
+
+grāhakasya hi yad doṣān naṣṭaṃ tu grāhakasya tat /
+tasmin naṣṭe hṛte vāpi grahītā mūlyam āharet // Kāty_600
+
+grāhyas tūpanidhiḥ kāle kālahīnaṃ tu varjayet /
+kālahīnaṃ dadaddaṇḍaṃ dviguṇaṃ ca pradāpyate // Kāty_601
+
+sarveṣūpanidhiṣv ete vidhayaḥ parikīrtitāḥ // Kāty_602
+
+yaiś ca saṃskriyate nyāso divasaiḥ pariniścitaiḥ /
+tadūrdhvaṃ sthāpayec śilpī dāpyo daivahate 'pi tat // Kāty_603
+
+nyāsadoṣād vināśaḥ syāc śilpinaṃ tan na dāpayet /
+dāpayec śilpidoṣāt tat saṃskārārthaṃ yad arpitam // Kāty_604
+
+svalpenāpi ca yat karma naṣṭaṃ ced bhṛtakasya tat /
+paryāptaṃ ditsatas tasya vinaśyet tad agṛhṇataḥ // Kāty_605
+
+yadi tat kāryam uddiśya kālaṃ pariniyamya vā /
+yācito 'rdhakṛte tasminn aprāpte na tu dāpyate // Kāty_606
+
+prāptakāle kṛte kārye na dadyād yācito 'pi san /
+tasmin naṣṭe vāpi grahītā mūlyam āharet // Kāty_607
+
+yācyamāno na dadyād vā dāpyas tat sodayaṃ bhavet // Kāty_608
+
+atha kāryavipattis tu tasyaiva svāmino bhavet /
+aprāpte vai sa kāle tu dāpyas tv ardhakṛte 'pi tat // Kāty_609
+
+yo yācitakam ādāya na dadyāt pratiyācitaḥ /
+sa nigṛhya balād dāpyo daṇḍyaś ca na dadāti yaḥ // Kāty_610
+
+anumārgeṇa kāryeṣu anyasmin vacanān mama /
+dadyās tvam iti yo dattaḥ sa ihānvādhir ucyate // Kāty_611
+
+asvāmivikrayaṃ dānam ādhiṃ ca vinivartayet // Kāty_612
+
+abhiyoktā dhanaṃ kuryāt prathamaṃ jñātibhiḥ svakam /
+paścād ātmaviśudhyarthaṃ krayaṃ ketā svabandhubhiḥ // Kāty_613
+
+nāṣṭikas tu prakurvīta tad dhanaṃ jñātṛbhiḥ svakam /
+adattatyaktavikrītaṃ kṛtvā svaṃ labhate dhanam // Kāty_614
+
+prakāśaṃ vā krayaṃ kuryān mūlaṃ vāpi samarpayet /
+mūlānayanakālas tu deyo yojanasaṃkhyayā // Kāty_615
+
+prakāśaṃ ca krayaṃ kuryāt sādhubhir jñātibhiḥ svakaiḥ /
+na tatrānyā kriyā proktā daivikī na ca mānuṣī // Kāty_616
+
+yadā mūlam upanyasya punar vādī krayaṃ vadet /
+āharen mūlam evāsau na krayeṇa prayojanam // Kāty_617
+
+asamāhāryamūlas tu krayam eva viśodhayet /
+viśodhite kraye rājñā na vaktavyaḥ sa kiṃcana // Kāty_618
+
+anupasthāpayan mūlaṃ krayaṃ vāpy aviśodhayan /
+yathābhiyogaṃ dhanine dhanaṃ dāpyo damaṃ ca saḥ // Kāty_619
+
+yadi svaṃ naiva kurute jñātibhir nāṣṭiko dhanam /
+prasaṅgavinivṛttyarthaṃ coravaddaṇḍam arhati // Kāty_620
+
+vaniṅvīthīparigataṃ vijñātaṃ rājapuruṣaiḥ /
+avijñātāśrayāt krītaṃ vikretā yatra vā mṛtaḥ // Kāty_621
+
+svāmī datvārdhamūlyaṃ tu pragṛhṇīta svaka dhanam /
+ardhaṃ dvayor apahṛtaṃ tatra syād vyavahārataḥ // Kāty_622
+
+avijñātakrayo doṣas tathā cāparipālanam /
+etad dvayaṃ samākhyātaṃ dravyahānikaraṃ buddhaiḥ // Kāty_623
+
+samavetās tu ye kecic śalpino vaṇijo 'pi vā /
+avibhajya pṛthagbhūtaiḥ prāptaṃ tatra phalaṃ samam // Kāty_624
+
+bhāṇḍapiṇḍavyayoddhārabhārasārārthavīkṣaṇam /
+kuryus te 'vyabhicāreṇa samayena vyavasthitāḥ // Kāty_625
+
+prayogaṃ kurvate ye tu hemadhānyarasādinā /
+samanyūnādhikair aṃśair lābhas teṣāṃ tathāvidhaḥ // Kāty_626
+
+bahūnāṃ saṃmato yas tu dadyād eko dhanaṃ naraḥ /
+ṛṇaṃ ca kārayed vāpi sarvair eva kṛtaṃ bhavet // Kāty_627
+
+jñātisaṃbandhisuhṛdām ṛṇaṃ deyaṃ sabandhakam /
+anyeṣāṃ lagnakopetaṃ lekhyasākṣiyutaṃ tathā // Kāty_628
+
+svecchādeyaṃ hiraṇyaṃ tu rasā dhānyaṃ ca sāvidhi /
+deśasthityā pradātavyaṃ grahītavyaṃ tathaiva ca // Kāty_629
+
+samavetais tu yad dattaṃ prārthanīyaṃ tathaiva tat /
+na ca yāceta yaḥ kaścil lābhāt sa parihīyate // Kāty_630
+
+corataḥ salilād agner dravyaṃ yas tu samāharet /
+tasyāṃśo daśamo deyaḥ sarvavādeṣv ayaṃ vidhiḥ // Kāty_631
+
+śikṣakābhijñakuśalā ācāryaś ceti śilpinaḥ /
+ekadvitricaturbhāgān hareyus te yathottaram // Kāty_632
+
+pararāṣṭrād dhanaṃ yat syāc cauraiḥ svāmyājñayāhṛtam /
+rājño daśāṃśam uddhṛtya vibhajeran yathāvidhi // Kāty_633
+
+corāṇāṃ mukhyabhūtas tu caturo 'ṃśāṃs tato haret /
+śūro 'ṃśāṃs trīn samartho dvau śoṣās tv ekaikam eva ca // Kāty_634
+
+teṣāṃ cet prasṛtānāṃ yo grahaṇaṃ samavāpnuyāt /
+tanmokṣaṇārthaṃ yad dattaṃ vaheyus te yathāṃśataḥ // Kāty_635
+
+nartakānām eṣa eva dharmaḥ sadbhir udāhṛtaḥ /
+tālajño labhate hy ardhaṃ gāyanās tu samāṃśinaḥ /
+pramukhā dvyaṃśam arhanti so 'yaṃ saṃbhūya kurvatām // Kāty_636
+
+vaṇijāṃ karṣakāṇāṃ ca corāṇāṃ śilpināṃ tathā /
+aniyamyāṃśakartṝṇāṃ sarveṣām eṣa nirṇayaḥ // Kāty_637
+
+vikrayaṃ caiva dānaṃ ca na neyāḥ syur anicchavaḥ /
+dārāḥ putrāś ca sarvasvam ātmanaiva tu yojayet // Kāty_638
+
+āpatkāle tu kartavyaṃ dānaṃ vikraya eva vā /
+anyathā na pravarteta iti śāstraviniścayaḥ // Kāty_639
+
+sarvasvagṛhavarjaṃ tu kuṭumbabharaṇādhikam /
+yad dravyaṃ tat svakaṃ deyam adeyaṃ syād ato 'nyathā // Kāty_640
+
+ataś ca sutadārāṇāṃ vaśitvaṃ tv anuśāsane /
+vikraye caiva dāne ca vaśitvaṃ na sute pituḥ // Kāty_641
+
+svecchayā yaḥ pratiśrutya brāhmaṇāya pratigraham /
+na dadyād ṛṇava dāpyaḥ prāpnuyāt pūrvasāhasam // Kāty_642
+
+pratiśrutasyādānena dattasyācchādanena ca /
+kalpakoṭiśataṃ martyas tiryagyonau ca jāyate // Kāty_643
+
+avijñātopalabdhyarthaṃ dānaṃ yatra nirūpitam /
+upalabdhikriyālabdhaṃ sā bhṛtiḥ parikīrtitā // Kāty_644
+
+bhayatrāṇāya rakṣārthaṃ tathā kāryaprasādhanāt /
+anena vidhinā labdhaṃ vidyāt pratyupakārataḥ // Kāty_645
+
+prāṇasaṃśayam āpannaṃ yo mām uttārayed itaḥ /
+sarvasvaṃ tasya dāsyāmīty ukte 'pi na tathā bhavet // Kāty_646
+
+kāmakrodhāsvatantrārtaklībonmattapramohitaiḥ /
+vyatyāsaparihāsāc ca yad dattaṃ tat punar haret // Kāty_647
+
+yā tu kāryasya siddhyartham utkocā syāt pratiśrutā /
+tasminn api pasiddhe 'rthe na deyā syāt kathaṃcana // Kāty_648
+
+atha prāg eva dattā syāt pratidāpyas tathā balāt /
+daṇḍaṃ caikādaśaguṇam āhur gārgīyamānavāḥ // Kāty_649
+
+stenasāhasikodvṛttapārajāyikaśaṃsanāt /
+darśanād vṛttanaṣṭasya tathāsatyapravartanāt // Kāty_650
+
+prāptam etais tu yat kiṃcit tad utkocākhyam ucyate /
+na dātā tatra daṇḍyaḥ syān madhyasthaś caiva doṣabhāk // Kāty_651
+
+niyukto yas tu kāryeṣu sa ced utkocam āpnuyāt /
+sa dāpyas taddhanaṃ kṛtsnaṃ damaś caikādaśādhikam // Kāty_652
+
+aniyuktas tu kāryārtham utkocaṃ yam avāpnuyāt /
+kṛtapratyupakārārthas tasya doṣo na vidyate // Kāty_653
+
+svasthenārtena vā dattaṃ śrāvritaṃ dharmakāraṇāt /
+adattvā tu mṛte dāpyas tatsuto nātra saṃśayaḥ // Kāty_654
+
+yogādhamanavikrītaṃ yogadānapatigraham /
+yasya vāpy upadhiṃ paśyet tat sarvaṃ vinivartayet // Kāty_655
+
+bhṛtāvaniścitāyāṃ tu daśabhāgam avāpnuyāt /
+lābhagovīryasasyānāṃ vaṇiggopakṛṣīvalāḥ // Kāty_656
+
+karmārambhaṃ tu yaḥ kṛtvā siddhaṃ naiva tu kārayet /
+balāt kārayitavyo 'sau akurvan daṇḍam arhati // Kāty_657
+
+vighnayan vāhako dāpyaḥ prasthāne dviguṇāṃ bhṛtim // Kāty_658
+
+na tu dāpyo hṛtaṃ corair dagdhamūḍhaṃ jalena vā // Kāty_659
+
+tyajet pathi sahāyaṃ yaḥ śrāntaṃ rogārtam eva vā /
+prāpnuyāt sāhasaṃ pūrvaṃ grāme tryaham apālayan // Kāty_660
+
+yadā tu pathi tadbhāṇḍam āsidhyeta hriyeta vā /
+yāvān adhvā gatas tena prāpnuyāt tāvatīṃ bhṛtim // Kāty_661
+
+hastyaśvagokharoṣṭrādīn gṛhītvā bhāṭakena yaḥ /
+nārpayet kṛtakṛtyārthaḥ sa tu dāpyaḥ sabhāṭakam // Kāty_662
+
+gṛhavāryāpaṇādīṇi gṛhītvā bhāṭakena yaḥ /
+svāmine nārpayed yāvat tāvad dāpyaḥ sabhāṭakam // Kāty_663
+
+kṣetrārāmavivīteṣu gṛheṣu paśuvāṭiṣu /
+grahaṇaṃ tatpraviṣṭānāṃ tāḍanaṃ vā bṛhaspatiḥ // Kāty_664
+
+adhamottamamadhyānāṃ paśūnāṃ caiva tāḍane /
+svāmī tu vivaded yatra daṇḍaṃ tatra prakalpayet // Kāty_665
+
+ajāteṣv eva sasyeṣu kuryād āvaraṇaṃ mahat /
+duḥkheneha nivāryante labdhasvādurasā mṛgāḥ // Kāty_666
+
+dāpayet paṇapādaṃ gāṃ dvau pādau mahiṣīṃ tathā /
+tathājāvikavatsānāṃ pādo daṇḍaḥ prakīrtitaḥ // Kāty_667
+
+samūhināṃ tu yo dharmas tena dharmeṇa te sadā /
+prakuryuḥ sarvakarmāṇi svadharmeṣu vyavasthitāḥ // Kāty_668
+
+avirodhena dharmasya nirgataṃ rājaśāsanam /
+tasyaivācaraṇaṃ pūrvaṃ kartavyaṃ tu nṛpājñayā // Kāty_669
+
+rājapravartitān dharmān yo naro nānupālayet /
+garhyaḥ sa pāpo daṇḍyaś ca lopayan rājaśāsanam // Kāty_670
+
+yuktiyuktaṃ ca yo hanyād vaktur yo 'navakāśadaḥ /
+ayuktaṃ caiva yo brūte sa dāpyaḥ pūrvasāhasam // Kāty_671
+
+sāhasī bhedakārī ca gaṇadravyavināśakaḥ /
+ucchedyāḥ sarva evaite vikhyāpyaivaṃ nṛpe bhṛguḥ // Kāty_672
+
+ekapātre ca vā paṅktyāṃ saṃbhoktā yasya yo bhavet /
+akurvaṃs tat tathā daṇḍyas tasya doṣam adarśayan // Kāty_673
+
+gaṇam uddiśya yat kiṃcit kṛtvarṇaṃ bhakṣitaṃ bhavet /
+ātmārthaṃ viniyuktaṃ vā deyaṃ tair eva tad bhavet // Kāty_674
+
+gaṇānāṃ śreṇivargāṇāṃ gatāḥ syur ye tu madhyatām /
+prāktanasya dhanarṇasya samāṃśāḥ sarva eva te // Kāty_675
+
+tathaiva bhojyavaibhājyadānadharmakriyāsu ca /
+samūhastho 'ṃśabhāgī syāt pragatas tv aṃśabhāṅ na tu // Kāty_676
+
+yat taiḥ prāptaṃ rakṣitaṃ vā gaṇārthe vā ṛṇaṃ kṛtam /
+rājaprasādalabdhaṃ ca sarveṣām eva tatsamam // Kāty_677
+
+nānāpaurasamūhas tu naigamaḥ parikīrtitaḥ /
+nānāyudhadharā vrātāḥ samavetāḥ prakīrtitāḥ // Kāty_678
+
+samūho vaṇijādīnāṃ pūgaḥ saṃparikīrtitaḥ /
+pravrajyāvasitā ye tu pāṣaṇḍāḥ parikīrtitāḥ // Kāty_679
+
+brāhmaṇānāṃ samūhas tu gaṇaḥ saṃparikīrtitaḥ /
+śilpopajīvino ye tu śilpinaḥ parikīrtitāḥ // Kāty_680
+
+ārhatasaugatānāṃ tu samūhaḥ saṅgha ucyate /
+cāṇḍālaśvapacādīnāṃ samūho gulma ucyate // Kāty_681
+
+gaṇapāṣaṇḍapūgāś ca vrātāś ca śreṇayas tathā /
+samūhasthāś ca ye cānye vargākhyās te bṛhaspatiḥ // Kāty_682
+
+krītvā prāptaṃ na gṛhṇīyād yo na dadyād adūṣitam /
+sa mūlyād daśamaṃ bhāgaṃ dattvā svadravyam āpnuyāt // Kāty_683
+
+aprāpte 'rthakriyākāle kṛte naiva pradāpayet /
+evaṃ dharmo daśāhāt tu parato 'nuśayo na tu // Kāty_684
+
+bhūmer daśāhe vikretur āyas tatkretur eva ca /
+dvādaśāhaḥ sapiṇḍānām api cālpam ataḥ param // Kāty_685
+
+krītvānuśayavān paṇyaṃ tyajed dohyādi yo naraḥ /
+aduṣṭam eva kāle tu sa mūlyād daśamaṃ vahet // Kāty_686
+
+krītvā gacchann anuśayaṃ krayī hastam upāgate /
+ṣaḍbhāgaṃ tatra mūlyasya dattvā krītaṃ tyajed budhaḥ // Kāty_687
+
+avijñātaṃ tu yat krītaṃ duṣṭaṃ paścād vibhāvitam /
+krītaṃ tat svāmine deyaṃ kāle ced anyathā na tu // Kāty_688
+
+nirdoṣaṃ darśayitvā tu yaḥ sadoṣaṃ prayacchati /
+mūlyaṃ tad dviguṇaṃ dāpyo vinayaṃ tāvad eva ca // Kāty_689
+
+upahanyeta vā paṇyaṃ dahyetāpahriyeta vā /
+vikretur eva so 'nartho vikrīyāsaṃprayacchataḥ // Kāty_690
+
+dīyamānaṃ na gṛhṇāti krīta paṇyaṃ ca yaḥ krayī /
+vikrītaṃ ca tad anyatra vikretā nāparādhruyāt // Kāty_691
+
+mattonmattena vikrītaṃ hīnamūlyaṃ bhayena vā /
+asvatantreṇa mugdhena tyājyaṃ tasya punar bhavet // Kāty_692
+
+tryahaṃ dohyaṃ parīkṣeta patrcāhad vāhyam eva tu (?) /
+muktāvajrapravālānāṃ saptāhaṃ syāt pravīkṣaṇam // Kāty_693
+
+dvipadām ardhamāsaṃ tu puṃsāṃ tad dviguṇaṃ striyāḥ /
+daśāhaṃ sarvabījānām ekāhaṃ lohavāsasām // Kāty_694
+
+ato 'rvākpaṇyadoṣas tu yadi saṃjāyate kvacit /
+vikretuḥ pratideyaṃ tat kretā mūlyam avāpnuyāt // Kāty_695
+
+paribhuktaṃ tu yad vāsaḥ kliṣṭarūpaṃ malīmasam /
+sadoṣam api tat krītaṃ viketur na bhavet punaḥ // Kāty_696
+
+sādhāraṇaṃ tu yat krītaṃ naiko dadyān narādhamaḥ /
+nādadyān na ca gṛhṇīyād vikrīyāc ca na caiva hi // Kāty_697
+
+krītvā mūlyena yat paṇyaṃ duṣkrītaṃ manyate krayī /
+vikretuḥ pratideyaṃ tat tasminn evāhnyavīkṣitam // Kāty_698
+
+dvitīye 'hni dadat kretā mūlyāt tryaṃśāṃśam āharet /
+dviguṇaṃ tṛtīye 'hni parataḥ kretur eva tat // Kāty_699
+
+dravyasvaṃ pañcadhā kṛtvā tribhāgo mūlyam ucyate /
+lābhaś caturtho bhāgaḥ syāt pañcamaḥ satyam ucyate // Kāty_700
+
+sandhiś ca parivṛttiś ca viṣamā vā tribhogataḥ /
+ājñayāpi krayaś cāpi daśābdaṃ vinivartayet // Kāty_701
+
+jñātyādīn ananujñāpya samīpasthānaninditān /
+krayavikrayadharmo 'pi bhūmer nāstīti nirṇayaḥ // Kāty_702
+
+svagrāme daśarātraṃ syād anyagrāme tripakṣakam /
+rāṣṭrāntareṣu ṣaṇmāsaṃ bhāṣābhede tu vatsaram // Kāty_703
+
+palāyite tu karade karapratibhuvā saha /
+karārthaṃ karadakṣetraṃ vikrīṇīyuḥ sabhāsadaḥ // Kāty_704
+
+samavetais tu sāmantair abhijñaiḥ pāpabhīrubhiḥ /
+kṣetrārāmagṛhādīnāṃ dvipadāṃ ca catuṣpadām // Kāty_705
+
+kalpitaṃ mūlyam ity āhur bhāgaṃ kṛtvā tad aṣṭadhā /
+ekabhāgātiriktaṃ vā hīnaṃ vānucitaṃ smṛtam // Kāty_706
+
+samāḥ śatam atīte 'pi sarvaṃ tad vinivartate /
+krayavikrayaṇe krayyaṃ yan mūlyaṃ dharmato 'rhati // Kāty_707
+
+tat turye pañcame ṣaṣṭe saptame 'ṃśe 'ṣṭame 'pi vā /
+hīno yadi vinirvṛtte krayavikrāyaṇe sati // Kāty_708
+
+hīnamūlyaṃ tu tat sarvaṃ kṛtam apy akṛtaṃ bhavet /
+uktād alpatare hīne kraye naiva praduṣyati // Kāty_709
+
+tenāpy aṃśena hīyeta mūlyataḥ krayavikraye /
+katam apy akṛtaṃ prāhur anye dharmavido janāḥ // Kāty_710
+
+ardhādhike krayaḥ sidhyed uktalābho daśādhikaḥ /
+avakrayas tribhāgena sadya eva rucikrayaḥ // Kāty_711
+
+mūlyāt svalpapradāne 'pi krayasiddhiḥ kṛtā bhavet /
+cakravṛddyāṃ pradātavyaṃ deyaṃ tat samayād ṛte // Kāty_712
+
+yas tu na grāhayec śilpaṃ karmāṇy anyāni kārayet /
+prāpnuyāt sāhasaṃ pūrvaṃ tasmāc śiṣyo nivartate // Kāty_713
+
+śikṣito 'pi śritaṃ kāmam antevāsī samācaret /
+tatra karma ca yat kuryād ācāryasyaiva tat phalam // Kāty_714
+
+svatantrasyātmano dānād dāsatvaṃ dāravad bhṛguḥ /
+triṣu varṇeṣu vijñeyaṃ dāsyaṃ viprasya na kvacit // Kāty_715
+
+varṇānām anulāmyena dāsyaṃ na pratilomataḥ /
+rājanyavaiśyaśūdrāṇāṃ tyajatāṃ hi svatantratām // Kāty_716
+
+samavarṇo 'pi vipraṃ tu dāsatvaṃ naiva kārayet /
+brāhmaṇasya hi dāsatvān nṛpatejo vihanyate // Kāty_717
+
+kṣatraviśśūdradharmas tu samavarṇe kadācana /
+kārayed dāsakarmāṇi brāhmaṇaṃ na bṛhaspatiḥ // Kāty_718
+
+śīlādhyayanasaṃpanne tadūnaṃ karma kāmataḥ /
+tatrāpi nāśubhaṃ kiṃcit prakurvīta dvijottamaḥ // Kāty_719
+
+viṇmūtronmārjanaṃ caiva nagnatvaparimardanam /
+prāyo dāsīsutāḥ kuryur gavādigrahaṇaṃ ca yat // Kāty_720
+
+pravrajyāvasitā yatra trayo varṇā dvijādayaḥ /
+nirvāsaṃ kārayed vipraṃ dāsatvaṃ kṣatraviḍ nṛpaḥ // Kāty_721
+
+śūdraṃ tu kārayed dāsaṃ krītam akrītam eva vā /
+dāsyāyaiva hi sṛṣṭaḥ sa svayam eva svayam bhuvā // Kāty_722
+
+svadāsīṃ yas tu saṃgacchet prasūtā ca bhavet tataḥ /
+avekṣya bījaṃ kāryā syān na dāsī sānvayā tu sā // Kāty_723
+
+dāsasya tu dhanaṃ yat syāt svāmī tasya prabhuḥ smṛtaḥ /
+prakāśaṃ vikrayād yat tu na svāmī dhanam arhati // Kāty_724
+
+dāsenoḍhā svadāsī yā sāpi dāsītvam āpnuyāt /
+yasmād bhartā prabhus tasyāḥ svāmyadhīnaḥ prabhur yataḥ // Kāty_725
+
+ādadyād brāhmaṇīṃ yas tu cikrīṇīta tathaiva ca /
+rājñā tad akṛtaṃ kāryaṃ daṇḍyā syuḥ sarva eva te // Kāty_726
+
+kāmāt tu saṃśritāṃ yas tu dāsīṃ kuryāt kulastriyam /
+saṃkrāmayeta vānyatra daṇḍyas tac cākṛtaṃ bhavet // Kāty_727
+
+bāladhātrīm adāsīṃ ca dāsīm iva bhunakti yaḥ /
+paricārakapatnīṃ vā prāpnuyāt pūrvasāhasam // Kāty_728
+
+vikrośamānāṃ yo bhaktāṃ dāsīṃ vikretum icchati /
+anāpadisthaḥ śaktaḥ san prāpnuyād dviśataṃ damam // Kāty_729
+
+tavāham iti cātmānaṃ yo 'svatantraḥ prayacchati /
+na sa taṃ prāpnuyāt kāmaṃ pūrvasvāmī labheta tam // Kāty_730
+
+pravrajyāvasito dāso moktavyaś ca na kenacit /
+anākālabhṛto dāsyān mucyate goyugaṃ dadat // Kāty_731
+
+ādhikyaṃ nyūnatā cāṃśe astināstitvam eva ca /
+abhogabhuktiḥ sīmā ca ṣaṭ bhūvād asya hetavaḥ // Kāty_732
+
+tasmin bhogaḥ prayoktavyaḥ sarvasākṣiṣu tiṣṭhati /
+lekhyārūḍhaś cetaraś ca sākṣī mārgadvayānvitaḥ // Kāty_733
+
+kṣetravāstutaḍāgeṣu kūpopavanasetuṣu /
+dvayor vivāde sāmantaḥ pratyayaḥ sarvavastuṣu // Kāty_734
+
+sāmantabhāve 'sāmantaiḥ kuryāt kṣetrādinirṇayam /
+grāmasīmāsu ca tathā tadvan nagaradeśayoḥ // Kāty_735
+
+grāmo grāmasya sāmantaḥ kṣetraṃ kṣetrasya kīrtitam /
+gṛhaṃ gṛhasya nirdiṣṭa samantāt parirabhya hi // Kāty_736
+
+teṣām abhāve sāmantamaulavṛddhoddhṛtādayaḥ /
+sthāvare ṣaṭprakāre 'pi nātra kāryā vicāraṇā // Kāty_737
+
+saṃsaktās tv atha sāmantās tat saṃsaktās tathottarāḥ /
+saṃsaktasaktasaṃsaktāḥ padmākārāḥ prakīrtitāḥ // Kāty_738
+
+svārthasiddhau praduṣṭeṣu sāmanteṣv arthagauravāt /
+tatsaṃsaktais tu kartavya uddhāro nātra saṃśayaḥ // Kāty_739
+
+saṃsaktasaktadoṣe tu tatsaṃsaktāḥ prakīrtitāḥ /
+kartavyā na praduṣṭās tu rājñā dharmaṃ vijānatā // Kāty_740
+
+nājñānena hi mucyante sāmantā nirṇayaṃ prati /
+ajñānoktau daṇḍayitvā punaḥ sīmāṃ vicārayet /
+kīrtite yadi bhedaḥ syād daṇḍyās tūttamasāhasam // Kāty_741
+
+tyaktvā duṣṭāṃs tu sāmantān anyān maulādibhiḥ saha /
+saṃmiśraya kārayet sīmām evaṃ dharmavido viduḥ // Kāty_742
+
+ye tatra pūrvaṃ sāmantāḥ paścād deśāntaraṃ gatāḥ /
+tanmūlatvāt tu te maulā ṛṣibhiḥ saṃprakīrtitāḥ // Kāty_743
+
+niṣpādyamānaṃ yair dṛṣṭaṃ tat kāryaṃ nṛguṇānvitaiḥ /
+vṛddhā vā yadi vāvṛddhās te vṛddhāḥ parikīrtitāḥ // Kāty_744
+
+upaśravaṇasaṃbhogakāryākhyānopacihnitāḥ /
+uddharanti tato yasmād uddhṛtās te tataḥ smṛtaḥ // Kāty_745
+
+sāmantāḥ sādhanaṃ pūrvam aniṣṭoktau guṇānvitāḥ /
+dviguṇās tūttarā jñeyā tato 'nye triguṇā matāḥ // Kāty_746
+
+eko yadvan nayet sīmām ubhayor īpsitaḥ kvacit /
+mastake kṣitim āropya raktavāsāḥ samāhitāḥ // Kāty_747
+
+bhayavarjitabhūpena sarvābhāve svayaṃkṛtā // Kāty_748
+
+kṣetrakūpataḍāgānāṃ kedārārāmayor api /
+gṛhaprāsādāvasathanṛpadevagṛheṣu ca // Kāty_749
+
+bahūnāṃ tu gṛhītānāṃ na sarve nirṇayaṃ yadi /
+kuryur bhayād vā lobhād vā dāpyās tūttamasāhasam // Kāty_750
+
+sīmācaṅkramaṇe kośe pādasparśe tathaiva ca /
+tripakṣapakṣasaptāhaṃ daivarājikam iṣyate // Kāty_751
+
+mekhalābhramaniṣkāsagavākṣān noparodhayet /
+praṇālīṃ gṛhavāstuṃ ca pīḍayan daṇḍabhāg bhavet // Kāty_752
+
+niveśasamayād ūrdhvaṃ naite yojyāḥ kadācana /
+dṛṣṭipātaṃ praṇālīṃ ca na kuryāt paraveśmamu // Kāty_753
+
+viṇmūtrodakavapraṃ ca vahniśvabhraniveśanam /
+aratnidvayam utsṛjya parakuḍyān niveśayet // Kāty_754
+
+sarve janāḥ sadā yena prayānti sa catuṣpathaḥ /
+aniruddho yathākālaṃ rājamārgaḥ sa ucyate // Kāty_755
+
+na tatra ropayet kiṃcin nopahanyāt tu kenacit /
+guruācāryanṛpādīnāṃ mārgādānāt tu daṇḍabhāk // Kāty_756
+
+yas tatra saṃkaraśvabhrān vṛkṣāropaṇam eva ca /
+kāmāt purīṣaṃ kuryāc ca tasya daṇḍas tu māṣakaḥ // Kāty_757
+
+taṭākodyānatīrthāni yo 'medhyena vināśayet /
+amedhyaṃ śodhayitvā tu daṇḍayet pūrvasāhasam // Kāty_758
+
+dūṣayet siddhatīrthāni sthāpitāni mahātmabhiḥ /
+puṇyāni pāvanīyāni prāpnuyāt pūrvasāhasam // Kāty_759
+
+sīmāmadhye tu jātānāṃ vṛkṣāṇāṃ kṣetrayor dvayoḥ /
+phalaṃ puṣpaṃ ca sāmānyaṃ kṣetrasvāmiṣu nirdiśet // Kāty_760
+
+anyakṣetre tu jātānāṃ śākhā yatrānyasaṃśritāḥ /
+svāminaṃ taṃ vijānīyād yasya kṣetreṣu saṃśritāḥ // Kāty_761
+
+asvāmyanumatenaiva saṃskāraṃ kurute tu yaḥ /
+gṛhodyānataṭākānāṃ saṃskartā labhate na tu // Kāty_762
+
+vyayaṃ svāmini cāyāte na nivedya nṛpe yadi /
+athāvedya prayuktas tu tadgataṃ labhate vyayam // Kāty_763
+
+aśaktito na dadyāc cet khilārtho yat kṛto vyayaḥ /
+tadaṣṭabhāgahīnaṃ tu karṣakaḥ phalam āpnuyāt /
+varṣāṇy aṣṭau sa bhoktā syāt parataḥ svāmine tu tat // Kāty_764
+
+aśaktapretanaṣṭeṣu kṣetrikeṣv anivāritaḥ /
+kṣetraṃ ced vikṛṣet kaścid aśnuvīta sa tatphalam // Kāty_765
+
+vikṛṣyamāṇe kṣetre ca kṣetrikaḥ punar āvrajet /
+śīlopacāraṃ tat sarvaṃ dattvā kṣetramavāpnuyāt // Kāty_766
+
+tadaṣṭabhāgāpacayād yāvat sapta gatāḥ samāḥ /
+samāpte 'ṣṭame varṣe bhuktakṣetraṃ labheta saḥ // Kāty_767
+
+huṅkāraḥ kāsanaṃ caiva loke yac ca vigarhitam /
+anukuryād anubrūyād vākpāruṣyaṃ tad ucyate // Kāty_768
+
+niṣṭhurāślīlatīvratvāt tad api trividhaṃ smṛtam /
+ākṣepo niṣṭhuraṃ jñeyam aślīlaṃ nyaṅgasaṃjñitam /
+patanīyair upākrośais tīvram āhur manīṣiṇaḥ // Kāty_769
+
+yat tv asatsaṃjñitair aṅgaiḥ paramākṣipati kvacit /
+abhūtair vātha bhūtair vā niṣṭhurā vāksmṛtā budhaiḥ // Kāty_770
+
+nyagbhāvakaraṇaṃ vācā krodhāt tu kurute yadā /
+vṛttadeśakulādīnām aślīlā sā budhaiḥ smṛtā // Kāty_771
+
+mahāpātakayoktrī ca rāgadveṣakarī ca yā /
+jātibhraṃśakārī vātha tīvrā sā prathitā tu vāk // Kāty_772
+
+yo 'guṇān kīrtayet krodhān niguṇo vā guṇajñatām /
+anyasaṃjñānuyogī vā vāgduṣṭaṃ taṃ naraṃ viduḥ // Kāty_773
+
+aduṣṭasyaiva yo doṣān kīrtayed doṣakāraṇāt /
+anyāpadeśavādī ca vāgduṣṭaṃ taṃ naraṃ viduḥ // Kāty_774
+
+mohāt pramādāt saṅgharṣāt prītyā coktaṃ mayeti yat /
+nāham evaṃ punar vakṣye daṇḍārdhaṃ tasya kalpayet // Kāty_775
+
+yatra syāt parihārārthaṃ patitas tena kīrtanam /
+vacanāt tatra na syāt tu doṣo yatra vibhāvayet // Kāty_776
+
+anyathā tulyadoṣaḥ syān mithyoktau tūttamaḥ smṛtaḥ /
+mahatā praṇidhānena vāgduṣṭaṃ sādhayen naram // Kāty_777
+
+atathyaṃ śrāvitaṃ rājā prayatnena vicārayet /
+anṛtākhyānaśīlānāṃ jihvācchedo viśodhanam // Kāty_778
+
+hetuādibhir na paśyec ced daṇḍapāruṣyakāraṇam /
+tatra sākṣikṛtaṃ caiva divyaṃ vā viniyojayet // Kāty_779
+
+ābhīṣaṇena daṇḍena prahared yas tu mānavaḥ /
+pūrvaṃ cāpīḍito vātha sa daṇḍyaḥ parikīrtitaḥ // Kāty_780
+
+karṇauṣṭhaghrāṇapādākṣijihvāśiśnakarasya ca /
+chedane cottamo daṇḍo bhedane madhyamo bhṛguḥ // Kāty_781
+
+manuṣyāṇāṃ paśūnāṃ ca duḥkhāya prahate sati /
+yathā yathā bhaved duḥkhaṃ daṇḍaṃ kuryāt tathā tathā // Kāty_782
+
+aspṛśyadhūrtadāsānāṃ mlecchānāṃ pāpakāriṇām /
+pratilomaprasūtānāṃ tāḍanaṃ nārthato damaḥ // Kāty_783
+
+chardimūtrapurīṣādyair āpādyaḥ sa caturguṇaḥ /
+ṣaḍguṇaḥ kāyamadhye syān mūrdhni tv aṣṭaguṇaḥ smṛtaḥ // Kāty_784
+
+udgūraṇe tu hastasya kāryo dvādaśako damaḥ /
+sa eva dviguṇaḥ proktaḥ pātaneṣu svajātiṣu // Kāty_785
+
+vākpāruṣye yathaivoktāḥ prātilomyānulomataḥ /
+tathaiva daṇḍapāruṣye pātyā daṇḍā yathākramam // Kāty_786
+
+dehendriyavināśe tu yathā daṇḍaṃ prakalpayet /
+tathā tuṣṭikaraṃ deyaṃ samutthānaṃ ca paṇḍitaiḥ /
+samutthānavyayaṃ cāsau dadyād āvraṇaropaṇāt // Kāty_787
+
+vāgdaṇḍas tāḍanaṃ caiva yeṣūktam aparādhiṣu /
+hṛtaṃ bhagnaṃ pradāpyās te śodhyaṃ niḥsvais tu karmaṇā // Kāty_788
+
+śrāntāṃs tṛṣārtān kṣudhitān akāle vāhayen naraḥ /
+kharagomahiṣoṣṭrādīn prāpnuyāt pūrvasāhasam // Kāty_789
+
+dvipaṇo dvādaśapaṇo vadhe tu mṛgapakṣiṇām /
+sarpamārjāranakulaśvasūkaravadhe nṛṇām // Kāty_790
+
+gokumārīdevapaśumukṣāṇaṃ vṛṣabhaṃ tathā /
+vāhayan sāhasaṃ pūrvaṃ prāpnuyād uttamaṃ vadhaḥ // Kāty_791
+
+pramāpaṇe prāṇabhṛtāṃ dadyāt tatpratirūpakam /
+tasyānurūpaṃ mūlyaṃ vā dadyād ity abravīn manuḥ // Kāty_792
+
+vanaspatīnāṃ sarveṣām upabhogo yathā yathā /
+tathā tathā damaḥ kāryo hiṃsāyām iti dhāraṇā // Kāty_793
+
+śiṣyaṃ krodhena hanyāc ced ācāryo latayā vinā /
+yenātyarthaṃ bhavet pīḍā vādaḥ syāc śiṣyataḥ pituḥ // Kāty_794
+
+sahasā yat kṛtaṃ karma tat sāhasam udāhṛtam // Kāty_795
+
+sānvayas tv apahāro yaḥ prasahya haraṇaṃ ca yat /
+sāhasaṃ ca bhaved evaṃ steyam uktaṃ vinihnavaḥ // Kāty_796
+
+vinā cihnais tu yat kāryaṃ sāhasākhyaṃ pravartate /
+śapathaiḥ sa viśodhyaḥ syāt sarvavādeṣv ayaṃ vidhiḥ // Kāty_797
+
+ekaṃ ced vahavo hanyuḥ saṃrabdhāḥ puruṣaṃ narāḥ /
+marmaghāto tu yas teṣāṃ sa ghātaka iti smṛtaḥ // Kāty_798
+
+vyāpādanena tatkārī vadhaṃ citram avāpnuyāt /
+vināśahetum āyāntaṃ hanyād evāvicārayan // Kāty_799
+
+udyatānāṃ tu pāpānāṃ hantur doṣo na vidyate /
+nivṛttās tu yad ārambhād grahaṇaṃ na vadhaḥ smṛtaḥ // Kāty_800
+
+ātatāyini cotkṛṣṭe tapaḥsvādhyāyajanmataḥ /
+vadhas tatra tu naiva syāt pāpe hīne vadho bhṛguḥ // Kāty_801
+
+udyatāsiviṣāgniś ca cāpodyatakaras tathā /
+ātharvaṇena hantā ca piśunaś caiva rājani // Kāty_802
+
+bhāryātikramakārī ca randhrānveṣaṇatatparaḥ /
+evam ādyān vijānīyāt sarvān evātatāyinaḥ // Kāty_803
+
+yaśovṛttaharān pāpān āhur dharmārthahārakān /
+anākṣāritapūrvo yas tv aparādhe pravartate /
+prāṇadravyāpahāre ca taṃ vidyād ātatāyinam // Kāty_804
+
+nakhināṃ śṛṇgiṇāṃ caiva daṃṣṭriṇāṃ cātatāyinām /
+hastyaśvānāṃ tathānyeṣāṃ vadhe hantā na doṣabhāk // Kāty_805
+
+garbhasya pātane steno brāhmaṇyāṃ śastrapātena /
+aduṣṭāṃ yoṣitaṃ hatvā hantvyo brāhmaṇo 'pi hi // Kāty_806
+
+kṣataṃ bhaṅgopamardau ca kuryād dravyeṣu yo naraḥ /
+prāpnuyāt sāhasaṃ pūrvaṃ dravyabhāksvāmyudāhṛtaḥ // Kāty_807
+
+hared bhindyād dahed vāpi devānāṃ pratimāṃ yadi /
+taggṛhaṃ caiva yo bhindyāt prāpnuyāt pūrvasāhasam // Kāty_808
+
+prākāraṃ bhedayed yas tu pātayec chātayet tathā /
+badhnīyād ambhaso mārgaṃ prāpnuyāt pūrvasāhasam // Kāty_809
+
+pracchannaṃ vā prakāśaṃ vā niśāyām atha vā divā /
+yat paradravyaharaṇaṃ steyaṃ tat parikīrtitam // Kāty_810
+
+anyahastāt paribhraṣṭam akāmād uddhṛtaṃ bhuvi /
+caureṇa vā parikṣiptaṃ loptraṃ yatnāt parīkṣayet // Kāty_811
+
+tulāmānapratimānapratirūpakalakṣitaiḥ /
+carann alakṣitair vāpi prāpnuyāt pūrvasāhasam // Kāty_812
+
+gṛhe tu muṣitaṃ rājā cauragrāhāṃs tu dāpayet /
+ārakṣakāṃś ca dikpālān yadi cauro na labhyate // Kāty_813
+
+grāmāntare hṛtaṃ dravyaṃ grāmādhyakṣaṃ pradāpayet /
+vivīte svāminā deyaṃ cauroddhartā vivītake // Kāty_814
+
+svadeśe yasya yat kiṃcid dhṛtaṃ deyaṃ nṛpeṇa tu /
+gṛhṇīyāt tat svayaṃ naṣṭaṃ prāptam anviṣya pārthivaḥ // Kāty_815
+
+caurair hṛtaṃ prayatnena svarūpaṃ pratipādayet /
+tadabhāve tu mūlyaṃ syād anyathā kilviṣī nṛpaḥ // Kāty_816
+
+labdhe 'pi caure yadi tu moṣas tasmān na labhyate /
+dadyāt tam atha vā cauraṃ dāpayet tu yatheṣṭataḥ // Kāty_817
+
+tasmiṃś ced dāpyamānānāṃ bhaved doṣe tu saṃśayaḥ /
+muṣitaḥ śapathaṃ dāpyo bandhubhir vā viśodhayet // Kāty_818
+
+yasmād apahṛtāl labdhaṃ dravyāt svalpaṃ tu svāminā /
+tac śeṣam āpnuyāt tasmāt pratyaye svāminā kṛte // Kāty_819
+
+svadeśaghātino ye syus tathā mārganirodhakāḥ /
+teṣāṃ sarvasvam ādāya rājā śūle niveśayet // Kāty_820
+
+acorād dāpitaṃ dravyaṃ caurānveṣaṇatatparaiḥ /
+upalabdhe labheraṃs te dviguṇaṃ tatra dāpayet // Kāty_821
+
+yena yena paradrohaṃ karoty aṅgena taskaraḥ /
+chindyād aṅgaṃ nṛpas tasya na karoti yathā punaḥ // Kāty_822-1
+
+trapuṣe vāruke dve tu pañcāmraṃ pañcadāḍimam /
+kharjūrabadarādīnāṃ muṣṭiṃ gṛhṇan na duṣyati // Kāty_822-2
+
+mānavāḥ sadya evāhuḥ sahoḍhānāṃ pravāsanam /
+gautamānām aniṣṭaṃ yat prāṇyucchedad vigarhitam // Kāty_823
+
+sahoḍham asahoḍhaṃ vā tattvāgamitasāhasam /
+pragṛhyāc chinnam āvedya sarvasvair viprayojayet // Kāty_824
+
+ayaḥsandānaguptās tu mandabhaktā balānvitāḥ /
+kuryuḥ karmāṇi nṛpater āmṛtyor iti kauśikaḥ // Kāty_825
+
+paradeśād dhṛtaṃ dravyaṃ vaideśyena yadā bhavet /
+gṛhītvā tasya taddravyam adaṇḍaṃ taṃ visarjayet // Kāty_826
+
+corāṇāṃ bhaktadā ye syus tathāgnyudakadāyakāḥ /
+kretāraś caiva bhāṇḍānāṃ pratigrāhiṇa eva ca /
+samadaṇḍāḥ smṛtā hy ete ye ca pracchādayanti tān // Kāty_827
+
+avidvān yājako vā syāt pravaktā cānavasthitaḥ /
+tau ubhau coradaṇḍena vinīya sthāpayet pathi // Kāty_828
+
+dūtopacārayuktaś ced avelāsthānasaṃsthitiḥ /
+kṇṭhakeśāṇ calagrāhaḥ karṇanāsākarādiṣu /
+ekasthānāsanāhārāḥ saṃgraho navadhā smṛtaḥ // Kāty_829
+
+strīṣu vṛttopabhogaḥ syāt prasahya puruṣo yadā /
+vadhe tatra pravarteta kāryātikramaṇaṃ hi tat // Kāty_830
+
+kāmārtā svairiṇī yā tu svayam eva prakāmayet /
+rājādeśena moktavyā vikhyāpya janasaṃnidhau // Kāty_831
+
+ārambhakṛtsahāyaś ca tathā mārgānudeśakaḥ /
+āśrayaḥ śastradātā ca bhaktadātā vikarmiṇām // Kāty_832
+
+yuddhopadeśakaś caiva tadvināśapradarśakaḥ /
+upekṣākāryayuktaś ca doṣavaktranumokakaḥ // Kāty_833
+
+aniṣeddhākṣamo yaḥ syāt sarve tatkāryakāriṇaḥ /
+yathāśaktyanurūpaṃ tu daṇḍam eṣāṃ prakalpayet // Kāty_834
+
+patyā cāpy aviyoginyā śuśrūṣyo 'gnir vinītayā /
+saubhāgyavad avvaidhavyakāmyayā bhartṛbhaktayā // Kāty_835
+
+matiśuśrūṣayaiva strī sarvān kāmān samaśnute /
+divaḥ punar ihāyātā sukhānāṃ śevadhir bhavet // Kāty_836
+
+mṛte bhartari yā sādhvī brahmacarye vyavasthitā /
+sārundhatīsamācārā brahmaloke mahīyate // Kāty_837
+
+sakalaṃ dravyajātaṃ yad bhāgair gṛhṇanti tat samaiḥ /
+pitaro bhrātaraś caiva vibhāgo dharmya ucyate // Kāty_838
+
+paitāmahaṃ samānaṃ syāt pituḥ putrasya cobhayoḥ /
+svayaṃ copārjite pitrā na putraḥ svāmyam arhati // Kāty_839
+
+paitāmahaṃ ca pitryaṃ ca yac cānyat svayam arjitam /
+dāyādānāṃ vibhāge tu sarvam etad vibhajyate // Kāty_840
+
+dṛśyamānaṃ vibhajyeta gṛhaṃ kṣetraṃ catuṣpadam /
+gūḍhadravyābhiśaṅkāyāṃ pratyayas tatra kīrtitaḥ // Kāty_841
+
+gṛhopaskaravāhyāś ca dohyābharaṇakarmiṇaḥ /
+dṛśyamānā vibhajyante kośaṃ gūḍhe 'bravīd bhṛguḥ // Kāty_842
+
+jīvadvibhāge tu pitā naikaṃ putraṃ viśeṣayet /
+nirbhājayen na caivaikam akasmāt kāraṇaṃ vinā // Kāty_843
+
+saṃprāptavyavahārāṇāṃ vibhāgaś ca vidhīyate /
+puṃsāṃ ca ṣoḍaśe varṣe jāyate vyavahāritā // Kāty_844
+
+aprāptavyavahārāṇāṃ ca dhanaṃ vyayavivarjitam /
+nyaseyur bandhumitreṣu proṣitānāṃ tathaiva ca // Kāty_845-1
+
+proṣitasya tu yo bhāgo rakṣeyuḥ sarva eva tam /
+bālaputre mṛte rikthaṃ rakṣyaṃ tat tantubandhubhiḥ /
+paugaṇḍāḥ paratas taṃ tu vibhajeran yathāṃśataḥ // Kāty_845-2
+
+bhrātrā pitṛvyamātṛbhyāṃ kuṭumbārtham ṛṇaṃ kṛtam /
+vibhāgakāle deyaṃ tadrikthibhiḥ sarvam eva tu // Kāty_846
+
+tad ṛṇaṃ dhanine deyaṃ nānyathaiva pradāpayet /
+bhāvitaṃ cet pramāṇena virodhāt parato yadā // Kāty_847
+
+dharmārthaṃ prītidattaṃ ca yad ṛṇaṃ syān niyojitam /
+tad dṛśyamānaṃ vibhajen na dānaṃ paitṛkād dhanāt // Kāty_848
+
+pitryaṃ pitryarṇasaṃśuddham ātmīyaṃ cātmanā kṛtam /
+ṛṇam evaṃvidhaṃ śodhyaṃ vibhāge bandhubhiḥ saha // Kāty_849
+
+ṛṇaṃ prītipradānaṃ ca dattvā śeṣaṃ vibhājayet // Kāty_850
+
+dvyaṃśaharo 'rdhaharo vā putravittārjanāt pitā /
+mātāpi pitari prete putratulyāṃśabhāginī // Kāty_851
+
+yathā yathā vibhāgāptaṃ dhanaṃ yāgārthatām iyāt /
+tathā tathā vidhātavyaṃ vidvadbhir bhāgagauravam // Kāty_852
+
+loke rikthavibhāge 'pi na kaścit prabhutām iyāt /
+bhoga eva tu kartavyo na dānaṃ na ca vikrayaḥ // Kāty_853
+
+vibhaktā avibhaktā vā dāyādāḥ sthāvare samāḥ /
+eko hy anīśaḥ sarvatra dānādhamanavikraye // Kāty_854
+
+avibhakte 'nuje prete tat sutaṃ rikthabhāginam /
+kurvīta jīvanaṃ yena labdhaṃ naiva pitāmahāt // Kāty_855
+
+labhetāṃśaṃ sa pitryaṃ tu pitṛvyāt tasya vā sutāt /
+sa evāṃśas tu sarveṣā bhrātṝṇāṃ nyāyato bhavet /
+labheta tat suto vāpi nivṛttiḥ parato bhavet // Kāty_856
+
+utpanne caurase putre caturthāṃśaharāḥ sutāḥ /
+savarṇā asavarṇās tu grāsācchādanabhājanāḥ // Kāty_857
+
+kanyakānāṃ tv adattānāṃ caturto bhāga iṣyate /
+putrāṇāṃ tu trayo bhāgāḥ sāmyaṃ tv alpadhane smṛtam // Kāty_858
+
+kṣetrikasya matenāpi phalam utpādayet tu yaḥ /
+tasyeha bhāginau tau tu na phalaṃ hi vinaikataḥ // Kāty_859
+
+klībaṃ vihāya patitaṃ yā punar labhate patim /
+tasyāṃ paunarbhavo jāto vyaktam utpādakasya saḥ // Kāty_860
+
+na mūtraṃ phenilaṃ yasya viṣṭhā cāpsu nimajjati /
+meḍhraś conmādaśukrābhyāṃ hīnaḥ klībaḥ sa ucyate // Kāty_861
+
+akramoḍhāsutaś caiva sagotrādyas tu jāyate /
+pravrajyāvasitaś caiva na rikthaṃ teṣu cārhati // Kāty_862
+
+akramoḍhāsutas tv ṛkthī savarṇaś ca yadā pituḥ /
+asavarṇaprasūtaś ca kramoḍhāyāṃ ca yo bhavet // Kāty_863
+
+pratilomaprasūtā yā tasyāḥ putro na rikthabhāk /
+grāsācchādanam atyantaṃ deyaṃ tadbandhubhir matam // Kāty_864
+
+bandhūnām apy abhāve tu pitṛdravyaṃ tad āpnuyāt /
+apitryaṃ draviṇaṃ prāptaṃ dāpanīyā na bāndhavāḥ // Kāty_865
+
+svaśaktyapahṛtaṃ naṣṭaṃ svayam āptaṃ ca yad bhavet /
+etat sarvaṃ pitā putrair vibhāge naiva dāpyate // Kāty_866
+
+parabhaktopayogena vidyā prāptān yatas tu yā /
+tayā prāptaṃ dhanaṃ yat tu vidyāprāptaṃ tad ucyate // Kāty_867
+
+upanyaste tu yal labdhaṃ vidyayā paṇapūrvakam /
+vidyādhanaṃ tu tad vidyād vibhāge na vibhajyate // Kāty_868
+
+śiṣyād ārtvijyataḥ praśnāt saṃdigdhapraśnanirṇayāt /
+svajñānaśaṃsanād vādāl labdhaṃ prādhyayanāc ca yat /
+vidyādhanaṃ tu tat prāhur vibhāge na vibhajyate // Kāty_869
+
+śilpiṣv api hi dharmo 'yaṃ mūlyāc yac cādhikaṃ bhavet // Kāty_870
+
+paraṃ nirasya yal labdhaṃ vidyāto dyūtapūrvakam /
+vidyādhanaṃ tu tad vidyān na vibhājyaṃ bṛhaspatiḥ // Kāty_871
+
+vidyāpratijñayā labdhaṃ śiṣyād āptaṃ ca yad bhavet /
+ṛtviṅnyāyena yal labdham etad vidyādhanaṃ bhṛguḥ // Kāty_872
+
+vidyābalakṛtaṃ caiva yājyataḥ śiṣyatas tathā /
+etad vidyādhanaṃ prāhuḥ sāmānyaṃ yad ato 'nyathā // Kāty_873
+
+kule vinītavidyānāṃ bhrātṝṇāṃ pitṛto 'pi vā /
+śauryaprāptaṃ tu yad vittaṃ vibhājyaṃ tad bṛhaspatiḥ // Kāty_874
+
+nāvidyānāṃ tu vaidyena deyaṃ vidyādhanāt kvacit /
+samavidyādhikānāṃ tu deyaṃ vaidyena tad dhanam // Kāty_875
+
+āruhya saṃśayaṃ yatra prasabhaṃ karma kurvate /
+tasmin karmaṇi tuṣṭena prasādaḥ svāminā kṛtaḥ /
+tatra labdhaṃ tu yat kiñcit dhanaṃ śauryeṇa tad bhavet // Kāty_876
+
+śauryaprāptaṃ vidyayā ca strīdhanaṃ caiva yat smṛtam /
+etat sarvaṃ vibhāge tu vibhājyaṃ naiva rikthibhiḥ // Kāty_877
+
+dhvajāhṛtaṃ bhaved yat tu vibhājyaṃ naiva tat smṛtam /
+saṃgrāmād āhṛtaṃ yat tu vidrāvya dviṣatāṃ valam /
+svāmyarthe jīvitaṃ tyaktvā tad dhvajāhṛtam ucyate // Kāty_878
+
+yal labdhaṃ dānakāle tu svajātyā kanyayā saha /
+kanyāgataṃ tu tad vittaṃ śuddhaṃ vṛddhikaraṃ smṛtam // Kāty_879
+
+vaivāhikaṃ tu tad vidyād bhāryayā yat sahāgatam /
+dhanam evaṃvidhaṃ sarvaṃ vijñeyaṃ dharmasādhakam // Kāty_880
+
+vivāhakāle yat kiṃcid varāyoddiśya dīyate /
+kanyāyās tad dhanaṃ sarvam avibhājyaṃ ca bandhubhiḥ // Kāty_881
+
+dhanaṃ patraniviṣṭaṃ tu dharmārthaṃ ca nirūpitam /
+udakaṃ caiva dāsaś ca nibandho yaḥ kramāgataḥ // Kāty_882
+
+dhṛtaṃ vastram alaṃkāro nānurūpaṃ tu yad bhavet /
+yathā kālopayogyāni tathā yojyāni bandhubhiḥ // Kāty_883
+
+gopracāraś ca rakṣā ca vastraṃ yac cāṅgayojitam /
+prayojyaṃ na vibhajyeta dharmārthaṃ ca bṛhaspatiḥ // Kāty_884-1
+
+deśasya jāteḥ saṅghasya dharmo grāmasya yo bhṛguḥ /
+uditaḥ syāt sa tenaiva dāyabhāgaṃ prakalpayet // Kāty_884-2
+
+pracchāditaṃ yadi dhanaṃ punar āsādya tat samam /
+bhajeran bhrātṛbhiḥ sārdham abhāve hi pituḥ sutāḥ // Kāty_885
+
+anyonyāpahṛtaṃ dravyaṃ durvibhaktaṃ ca yad bhavet /
+paścāt prāptaṃ vibhajyeta samabhāgena tad bhṛguḥ // Kāty_886
+
+vibhaktenaiva yat prāptaṃ dhanaṃ tasyaiva tad bhavet /
+hṛtaṃ naṣṭaṃ ca yal labdhaṃ prāg uktaṃ ca punar bhajet // Kāty_887
+
+bandhunāpahṛtaṃ dravyaṃ balān naiva pradāpayet /
+bandhūnām avibhaktānāṃ bhogaṃ naiva pradāpayet // Kāty_888
+
+kṣetraṃ sādhāraṇaṃ tyaktvā yo 'nyadeśaṃ samāśritaḥ /
+tad vaṃśyasyāgatasyāṃśaḥ pradātavyo na saṃśayaḥ // Kāty_889
+
+tṛtīyaḥ pañcamo vāpi saptamaś cāpi yo bhavet /
+janmanām aparijñāne labhetāṃśaṃ kramāgatam // Kāty_890
+
+yaṃ paraṃparayā maulāḥ sāmantāḥ svāminaṃ viduḥ /
+tad anvayasyāgatasya dātavyā gotajair mahī // Kāty_891
+
+vibhaktāḥ pitṛvittāc ced akatra prativāsinaḥ /
+vibhajeyuḥ punar dvyaṃśaṃ sa labhetodayo yataḥ // Kāty_892
+
+vaseyur daśa varṣāṇi pṛthagdharmāḥ pṛthakkriyāḥ /
+bhrātaras te 'pi vijñeyā vibhaktāḥ paitṛkād dhanāt // Kāty_893
+
+adhyagnyadhyāvāhanikaṃ dattaṃ ca prītitaḥ striyaiḥ /
+bhrātṛmātṛpitṛprāptaṃ ṣaḍvidhaṃ strīdhanaṃ smṛtam // Kāty_894
+
+vivāhakāle yat strībhyo dīyate hy agnisaṃnidhau /
+tad adhyagnikṛtaṃ sadbhiḥ strīdhanaṃ parikīrtitam // Kāty_895
+
+yat punar labhate nārī nīyamānā pitur gṛhāt /
+adhyāvahanikaṃ caiva strīdhanaṃ tad udāhṛtam // Kāty_896
+
+prītyā dattaṃ tu yat kiṃcit śvaśrvā vā śvaśureṇa vā /
+pādavandanikaṃ caiva prītidattaṃ tad ucyate // Kāty_897
+
+gṛhopaskaravāhyānāṃ dohyābharaṇakarmiṇām /
+mūlyaṃ labdhaṃ tu yat kiṃcic śulkaṃ tat parikīrtitam // Kāty_898
+
+vivāhāt parato yat tu labdhaṃ bhartṛkulāt striyā /
+anvādheyaṃ tad uktaṃ tu labhdaṃ bandhukulāt tathā // Kāty_899
+
+ūrdhvaṃ labdhaṃ tu yat kiṃcit saṃskārāt prītitaḥ striyā /
+bhartuḥ pitroḥ sakāśād vā anvādheyaṃ tu tad bhṛguḥ // Kāty_900
+
+ūḍhayā kanyayā vāpi bhartuḥ pitṛgṛhe 'pi vā /
+bhrātuḥ sakāśāt pitror vā labdhaṃ saudāyikaṃ smṛtam // Kāty_901
+
+pitṛmātṛpatibhrātṛjñātibhiḥ strīdhanaṃ striyai /
+yathāśaktyā dvisāhasrād dātavyaṃ sthāvarād ṛte // Kāty_902
+
+yat tu sopādhikaṃ dattaṃ yac ca yogavaśena vā /
+pitrā bhrātrātha vā patyā na tat strīdhanam iṣyate // Kāty_903
+
+prāptaṃ śilpais tu yad vittaṃ prītyā caiva yad anyataḥ /
+bhartuḥ svāmyaṃ tadā tatra śeṣaṃ tu strīdhanaṃ smṛtam // Kāty_904
+
+saudāyikaṃ dhanaṃ prāpya strīṇāṃ svātantryam iṣyate /
+yasmāt tadānṛśasyārthaṃ tair dattam upajīvanam // Kāty_905
+
+saudāyike sadā strīṇāṃ svātantryaṃ parikīrtitam /
+vikraye caiva dāne ca yatheṣṭaṃ sthāvareṣv api // Kāty_906
+
+bhartṛdāyaṃ mṛte patyau vinyaset strī yatheṣṭataḥ /
+vidyamāne tu saṃrakṣet kṣapayet tat kule 'nyathā // Kāty_907
+
+atha cet sa dvibhāryaḥ syān na ca tāṃ bhajate punaḥ /
+prītyā nisṛṣṭam api cet pratidāpyaḥ sa tadbalāt // Kāty_908
+
+grāsācchādanavāsānām ācchedo yatra yoṣitaḥ /
+tatra svam ādadīta strī vibhāgaṃ rikthināṃ tathā // Kāty_909
+
+likhitasyeti dharmo 'yaṃ prāpte bhartṛkule vaset /
+vyādhitā pretakāle tu gacched bandhujanaṃ tataḥ // Kāty_910
+
+na bhartā naiva ca suto na pitā bhrātaro na ca /
+ādāne vā visarge vā strīdhane prabhaviṣṇavaḥ // Kāty_911
+
+yadi hy ekataro 'py eṣāṃ strīdhanaṃ bhakṣayed balāt /
+savṛddhikaṃ pradāpyaḥ syād daṇḍaṃ caiva samāpnuyāt // Kāty_912
+
+tad eva yady anujñāpya bhakṣayet prītipūrvakam /
+mūlyam eva pradāpyaḥ syād yady asau dhanavān bhavet // Kāty_913
+
+vyādhitaṃ vyasanasthaṃ ca dhanikair vopapīḍitam /
+jñātvā nisṛṣṭaṃ yat prītyā dadyād ātmecchayā tu saḥ // Kāty_914
+
+jīvantyāḥ patiputrās tu devarāḥ pitṛbāndhavāḥ /
+anīśāḥ strīdhanasyoktā daṇḍyās tv apaharanti ye // Kāty_915
+
+bhartrā pratiśrutaṃ deyam ṛṇavat strīdhanaṃ sutaiḥ /
+tiṣṭhed bhartṛkule yā tu na sā pitṛkule vaset // Kāty_916
+
+bhaginyo bāndhavaiḥ sārdhaṃ vibhajeran sabhartṛkāḥ /
+strīdhanasyeti dharmo 'yaṃ vibhāgas tu prakalpitaḥ // Kāty_917
+
+duhitṝṇām abhāve tu rikthaṃ putreṣu tad bhavet /
+bandhudattaṃ tu bandhūnām abhāve bhrtṛgāmi tat // Kāty_918
+
+pitṛbhyāṃ caiva yad dattaṃ duhituḥ sthāvaraṃ dhanam /
+aprajāyām atātāyāṃ bhrātṛgāmi tu sarvadā // Kāty_919
+
+āsurādiṣu yal labdhaṃ strīdhanaṃ paitṛkaṃ striyā /
+abhāve tad apatyānāṃ mātāpitros tad iṣyate // Kāty_920
+
+aputrā śayanaṃ bhartuḥ pālayantī gurau sthitā /
+bhuñjītāmaraṇāt kṣāntā dāyādā ūrdhvam āpnuyuḥ // Kāty_921
+
+svaryāte svāmini strī tu grāsācchādanabhāginī /
+avibhakte dhanāṃśe tu prāpnoty āmaraṇāntikam // Kāty_922
+
+bhoktum arhati klṛptāṃśaṃ guruśuśrūṣaṇe ratā /
+na kuryād yadi śuśrūṣāṃ cailapiṇḍe niyojyet // Kāty_923
+
+mṛte bhartari bhartṛaṃśaṃ labheta kulapālikā /
+yāvaj jīvaṃ na hi svāmyaṃ dānādhamanavikraye // Kāty_924
+
+vratopavāsaniratā brahmacarye vyavasthitā /
+damadānaratā nityam aputrāpi divaṃ vrajet // Kāty_925
+
+patnī bhartur dhanaharī yā syād avyabhicāriṇī /
+tadabhāve tu duhitā yady anūḍhā bhavet tadā // Kāty_926
+
+aputrasyātha kulajā patnī duhitaro 'pi vā /
+tadabhāve pitā mātā bhrātā putrāś ca kīrtitāḥ // Kāty_927
+
+vibhakte saṃsthite dravyaṃ putrābhāve pitā haret /
+bhrātā vā jananī vātha mātā vā tat pituḥ kramāt /
+apacārakriyyayuktā nirlajjā vārthanāśikā // Kāty_928
+
+vyabhicāraratā yā ca strī dhanaṃ sā na cārhati // Kāty_929
+
+nārī khalv ananujñātā pitrā bhartrā sutena vā /
+viphalaṃ tad bhavet tasyā yat karoty aurdhvadehikam // Kāty_930
+
+adāyikaṃ rājagāmi yoṣidbhṛtyordhvadehikam /
+apāsya śrotriyadravyaṃ śrotriyebhyas tad arpayet // Kāty_931
+
+saṃsṛṣṭānāṃ tu saṃsṛṣṭāḥ pṛthaksthānāṃ pṛthaksthitāḥ /
+abhāve 'rthaharā jñeyā nirbījānyonyabhāginaḥ // Kāty_932
+
+dyūtaṃ naiva tu seveta krodhalobhavivardhakam /
+asādhujananaṃ krūraṃ narāṇāṃ dravyanāśanam // Kāty_933
+
+dhruvaṃ dyūtāt kalir yasmād viṣaṃ sarpamukhād iva /
+tasmād rājā nivarteta viṣaye vyasanaṃ hi tat // Kāty_934
+
+varteta cet prakāśaṃ tu dvārāvasthitatoraṇam /
+asaṃmohārtham āryāṇāṃ kārayet tat karapadam // Kāty_935
+
+sabhikaḥ kārayed dyūtaṃ deyaṃ dadyāt svayaṃ nṛpe /
+daśakaṃ tu śate vṛddhiṃ gṛhṇīyāc ca parājayāt // Kāty_936
+
+jetur dadyāt svakaṃ dravyaṃ jitād grāhyaṃ tripakṣakam /
+sadyo vā sabhikenaiva kitāvāt tu na saṃśayaḥ // Kāty_937
+
+ekarūpā dvirūpā vā dyūte yasyākṣadevinaḥ /
+dṛśyate ca jayas tasya yasmin rakṣā vyavasthitā // Kāty_938
+
+atha vā kitavo rājñe dattvā bhāgaṃ yathoditam /
+prakāśaṃ devanaṃ kuryād evaṃ doṣo na vidyate // Kāty_939
+
+prasahya dāpayed deyaṃ tasmin sthāne na cānyathā /
+jitaṃ vai sabhikas tatra sabhikapratyayā kriyā // Kāty_940
+
+anabhijño jito mocyo 'mocyo 'bhijño jito rahaḥ /
+sarvasve vijite 'bhijñe na sarvasvaṃ pradāpayet // Kāty_941
+
+vigrahe 'tha jaye lābhe karaṇe kūṭadevinām /
+pramāṇaṃ sabhikas tatra śuciś ca sabhiko yadi // Kāty_942
+
+mlecchaśvapākadhūrtānāṃ kitavānāṃ tapasminām /
+tatkṛtācāram etṝṇāṃ niścayo na tu rājani // Kāty_943
+
+pūrvoktād uktaśeṣaṃ syād adhikāracyutaṃ ca yat /
+āhṛtya paratantrārhtanibaddham asamañjasam // Kāty_944
+
+dṛṣṭāntatvena śāstrānte punar uktakriyāsthitam /
+anena vidhinā yac ca vākyaṃ tat syāt prakīrṇakam // Kāty_945
+
+rājadharmān svadharmāṃś ca saṃdigdhānāṃ ca bhāṣaṇam /
+pūrvoktād uktaśeṣaṃ ca sarvaṃ tat syāt prakīrṇakam // Kāty_946
+
+sadbhāgakaraśulkaṃ ca garte deyaṃ tathaiva ca /
+saṃgrāmacaurabhedī ca paradārābhimardanam // Kāty_947
+
+gobrāhmaṇajighāṃsā ca śasyavyāghātakṛt tathā /
+etān daśāparādhāṃs tu nṛpatiḥ svayam anviṣet // Kāty_948
+
+niṣkṛtīnām akaraṇam ājñāsedhavyatikramaḥ /
+varṇāśramavilopaś ca prarṇasaṅkaralopanam // Kāty_949
+
+nidhir niṣphalavittaṃ ca daridrasya dhanāgamaḥ /
+etāṃś cāraiḥ suviditān svayaṃ rājā nivārayet // Kāty_950
+
+anāmnā tāni kāryāṇi kriyāvādāṃś ca vādinām /
+prakṛtīnāṃ prakopaś ca saṅketaś ca parasparam // Kāty_951
+
+aśāstravihitaṃ yac ca prajāyāṃ saṃpravartate /
+upāyaiḥ sāmabhedād yair etāni śamaye nṛpaḥ // Kāty_952
+
+mitrādiṣu prayuñjīta vāgdaṇḍaṃ dhik tapasvini /
+yathoktaṃ tasya tat kuryād anuktaṃ sādhu kalpitam // Kāty_953
+
+pramāṇena tu kūṭena mudrayā vāpi kūṭayā /
+kāryaṃ tu sādhayed yo vai sa dāpyo damam uttamam // Kāty_954
+
+rājakrīḍāsu ye saktā rājavṛttyupajīvinaḥ /
+apriyasya ca yo vaktā vadhaṃ teṣāṃ pravartayet // Kāty_955
+
+pratirūpasya kartāraḥ prekṣakāḥ prakarāś ca ye /
+rājārthamoṣakāś caiva prāpnuyur vividhaṃ vadham // Kāty_956
+
+pravrajyāvasitaṃ śūdraṃ japahomaparaṃ tathā /
+vadhena śāsayet pāpaṃ daṇḍyo vā dviguṇaṃ damam // Kāty_957
+
+sacihnam api pāpaṃ tu pṛcchet pāpasya kāraṇam /
+tadā daṇḍaṃ prakalpeta doṣam āropya yatnataḥ // Kāty_958
+
+sadvṛttānām tu sarveṣām aparādho yadā bhavet /
+avaśenaiva daivāt tu tatra daṇḍaṃ na kalpayet // Kāty_959
+
+samyagdaṇḍapraṇetāro nṛpāḥ pūjyāḥ surair api /
+ārambhe pradhamaṃ dadyāt pravṛttau madhyamaḥ smṛtaḥ /
+yasya yo vihito daṇḍaḥ paryāptasya sa vai bhavet // Kāty_960
+
+rājāno mantriṇaś caiva viśeṣād evam āpnuyuḥ /
+aśāsanāt tu pāpānāṃ natānāṃ daṇḍadhāraṇāt // Kāty_961
+
+paratantrāś ca ye kecid dāsatvaṃ ye ca saṃsthitāḥ /
+anāthās te tu nirdiṣṭās teṣāṃ daṇḍas tu tāḍanam // Kāty_962
+
+tāḍanaṃ vandhanaṃ caiva tathaiva ca viḍambanam /
+eṣa daṇḍo hi dāsasya nārthadaṇḍo vidhīyate // Kāty_963
+
+suvarṇaśatam ekaṃ tu vadhārho daṇḍam arhati /
+aṅgacchede tad ardhaṃ tu vivāse pañcaviṃśatim // Kāty_964
+
+kulīnāryaviśiṣṭteṣu nikṛṣṭeṣv anusārataḥ /
+sarvasvaṃ vā nigṛhyaitān purāt śīghraṃ pravāsayet // Kāty_965
+
+nirdhanā bandhane sthāpyā vadhaṃ naiva pravartayet /
+sarveṣāṃ pāpayuktānāṃ viśeṣārthaś ca śāstrataḥ // Kāty_966
+
+vadhāṅgacchedārhavipro niḥsaṅge bandhane viśet /
+tad akarmaviyuto 'sau vṛttas tasya damo hi saḥ // Kāty_967
+
+kūṭasākṣy api nirvāsyo vikhyāpyo 'satpratigrahī /
+aṅgacchedī viyojyaḥ syāt svadharme bandhanena tu // Kāty_968
+
+etaiḥ samāparādhānāṃ tatrāpy evaṃ prakalpayet /
+bālavṛddhāturastrīṇāṃ na daṇḍas tāḍanaṃ damaḥ // Kāty_969
+
+strīdhanaṃ dāpayed daṇḍaṃ dhārmikaḥ pṛthivīpatiḥ /
+nirdhanā prāptadoṣā strī tāḍanaṃ daṇḍam arhati // Kāty_970
+
+anyāyopārjitaṃ nyastaṃ koṣe koṣaṃ niveśayet /
+kāryārthe kāryanāśaḥ syād buddhimān nopapātayet // Kāty_971
+
+dattvā dhanaṃ tad viprebhyaḥ sarvaṃ daṇḍasamutthitam /
+putre rājyaṃ samāsajya kurvīta prāyaṇaṃ vane // Kāty_972
+
+evaṃ caret sadā yukto rājā dharmeṣu pārthivaḥ /
+hiteṣu caiva lokasya sarvān bhṛtyān niyojayet // Kāty_973

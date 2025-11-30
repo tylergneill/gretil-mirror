@@ -1,0 +1,193 @@
+Asaṅga: Triśatikāyāḥ prajñāpāramitāyāḥ kārikāsaptatiḥ
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_asaGga-trizatikAyAH-prajJApAramitAyAH-kArikAsaptatiH.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Klaus Wille
+## Contribution: Klaus Wille
+## Date of this version: 2020-07-31
+
+## Source: 
+   - G. Tucci: Minor Buddhist Texts, part I. Roma 1956 (Serie Orientale Roma, 9), pp. 54-92.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Triśatikāyāḥ prajñāpāramitāyāḥ kārikāsaptatiḥ = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from atrisatu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Asanga: Trisatikayah prajnaparamitayah karikasaptatih
+Based on the edition by G. Tucci: Minor Buddhist Texts, part I. Roma 1956
+(Serie Orientale Roma, 9), pp. 54-92.
+Input by Klaus Wille (Göttingen)
+ITALICS for restored text
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+asaṅga: triśatikāyāḥ prajñāpāramitāyāḥ kārikāsaptatiḥ
+
+paramo 'nugraho jñeyaḥ śārīraḥ saparigrahaḥ /
+prāptāprāptāvihānau ca paramā syāt parīndanā // tśpk_1
+
+vipulaḥ paramo 'tyanto 'viparyastaś ca cetasi / upakārāśayaḥ sthānaṃ yāne 'smin guṇapūritaḥ // tśpk_2 
+dānaṃ pāramitāṣatkam āmiṣābhayadharmataḥ /
+ekadvayatrayeṇeha pratipat sā 'pratiṣṭhitā // tśpk_3
+ 
+ātmabhāve pratikṛtau vipāke cāpy asaktatā /
+apravṛttitadanyārthapravṛttiparivarjane // tśpk_4
+ 
+pragraho maṇḍale tredhā nimittāc cittavāraṇam /
+uttarottarasaṃdehajanmataś ca nivāraṇā // tśpk_5
+ 
+saṃskṛtatvena saṃkalpya saṃpat prāptau nivāryate /
+trailakṣaṇyānyathābhāvāt tadabhāvāt tathāgataḥ // tśpk_6
+ 
+sahetuphalagāmbhīryadeśanāsmin yugādhame /
+na niṣphalā yataḥ santi bodhisattvās trayānvitāḥ // tśpk_7
+ 
+śikṣayopāsānāt pūrvaṃ kuśalasyāvaropaṇāt /
+śīlavanto 'nyabuddheṣu guṇavantaś ca kīrtitāḥ // tśpk_8
+ 
+sapudgaleṣu dharmeṣu saṃjñāyā viprahāṇataḥ /
+prajñāvantaś ca saṃjñāyā aṣṭadhāṣṭārthabhedataḥ // tśpk_9
+ 
+pṛthagbhāvena saṃtatyā vṛtter ājīvitasthiteḥ /
+punaś ca gatilīnatvād ātmasaṃjñā caturvidhā // tśpk_10
+ 
+sarvābhāvād abhāvasya sadbhāvān nābhilāpyataḥ /
+abhilāpaprayogāc ca dharmasaṃjñā caturvidhā // tśpk_11
+ 
+adhimuktivaśāt teṣāṃ bhūtasaṃjñā prasādataḥ /
+yathārutāgrahāt saṃyagdeśitatvasya codgrahāt // tśpk_12
+ 
+phalato na mitā buddhaiḥ praṇidhijñānalakṣitāḥ /
+iābhasatkārakāmānāṃ tadvādavinivṛttaye // tśpk_13
+ 
+asthānād ānukūlyāc ca dharmeṣv adhigamasya hi /
+kolasyeva parityāgo dharme saṃdhis tato mataḥ // tśpk_14
+ 
+nairmāṇikena no buddho dharmo nāpi ca deśitaḥ /
+deśitas tu dvayāgrāhyo 'vācyo 'vākpathalakṣaṇāt // tśpk_15
+ grahaṇadeśaṇā cāsya nāpārthā puṇyasaṃgrahāt / puṇyaṃ bodhyanupastaṃbhād upastaṃbhād dvayasya ca // tśpk_16 
+svābhāvikāptihetutvāt tadanyasya ca janmanaḥ /
+kaivalyād buddhadharmāṇām agryatvaṃ puṇyasādhanam // tśpk_17
+ 
+agrāhyānabhilapyatvaṃ svaphalānām anudgrahāt /
+dvayāvaraṇanirmokṣāt subhūtāv araṇādvayaṃ // tśpk_18
+ 
+buddhadīpaṃkarāgrāhād vakyenādhigamasya hi /
+tataś cādhigame siddhā agrāhyānabhilāpyatā // tśpk_19
+ jñānaniṣyandavijñaptimātratvāt kṣetranodgrahaḥ / avigrahatvād agratvād avyūhaṃ vyūhatā matā // tśpk_20 
+sumeror iva rājatve saṃbhoge nāsti codgrahaḥ /
+sāsravatvena cābhāvāt saṃskṛtatvena cāsya hi // tśpk_21
+ 
+bahutvabhedakhyātyarthaṃ viśeṣasya ca siddhaye /
+paurvāparyeṇa puṇyasya punar dṛṣṭāntadeśanā // tśpk_22
+ 
+dvayasya pātrīkaraṇān niṣyandatvamahatvataḥ /
+asaṃkleśasya hetutvād dhīnābhibhavanād api // tśpk_23
+ 
+tatphalaśreṣṭhaduḥkhatvād durlabhārthottamārthataḥ /
+jñeyāpāramitatvāc ca parāsādhāraṇatvataḥ // tśpk_24
+ 
+gāḍhagaṃbhīrabhāvāc ca parasūtraviśiṣṭataḥ /
+mahāśuddhānvayatvāc ca puṇyāt puṇyaṃ viśiṣyate // tśpk_25
+ 
+sahiṣṇutā ca caryāyāṃ duṣkarāyāṃ śubhā yataḥ /
+tadguṇāparimāṇatvād agrārthena nirucyate // tśpk_26
+ 
+ātmavyāpādasaṃjñāyā abhāvād duḥkhatā na ca /
+sasukhā karuṇābhāvāc caryāduḥkhaphalā tataḥ // tśpk_27
+ cittātyāgābhinirhāre yatnaḥ kāryo dṛḍho yataḥ / kṣāntipāramitāprāptau tatprāyogika eva ca // tśpk_28 
+pratipattiś ca sattvārthā vijñeyā hetubhāvataḥ /
+sattvavastunimittāt tu vijñeyā parivarjitā // tśpk_29
+ 
+nāmaskandhāś ca tadvastu tatsaṃjñāpagamāj jine /
+tadabhāvo hi buddhānāṃ tattvadarśanayogataḥ // tśpk_30
+ 
+phalāpratiṣṭhito mārgas tatphalasyāpi kāraṇam /
+buddhānāṃ bhūtavāditvāt tac ca jñeyaṃ caturvidham // tśpk_31
+ 
+pratijñā hīnayānasya mahāyānasya deśanā /
+sarvavyākaraṇānāṃ ca na visaṃvādinī yataḥ // tśpk_32
+ 
+aprāpter ānukulyāc ca na satyā na mṛṣā matā /
+yathārutaniveśasya pratipakṣeṇa deśanā // tśpk_33
+ x x x x x x x x x x x x x .alābhatā / ajñānāt sapratiṣṭhena jñānād anyena lābhatā // tśpk_34 tamaḥprakāśam ajñānaṃ jñānam ālokavan matam / pratipakṣavipakṣasya lābhahānyāmukhatvataḥ // tśpk_35 yādṛśyā pratipattyā x x x x x x x x x / yat karmikā ca sā dharme pratipattis tad ucyate // tśpk_36 
+vyañjane trividhā dharmadharatve śrutavistare /
+arthasya parato 'dhyātmam āptau śravaṇacintanāt // tśpk_37
+ x x x x x x x x x x x x paripācane / vastukālamahatvena puṇyāt puṇyaṃ viśiṣyate // tśpk_38 agocaratvaṃ kaivalyaṃ mahātmāśritatā tathā / durlabhaśravatā caiva dhātupuṣṭir anuttarā // tśpk_39 x x x x x x x x x x x pātratāśraye / śodhanāvaraṇānāṃ ca kṣiprābhijñātvam eva ca // tśpk_40 vicitraiokasaṃpattivipākaḥ sumahānn api / karmāṇi etāni dharme pratipatter matāni x // tśpk_41 x x x x x x x x x bodhisattvakalpanā / cittāvaraṇam ākhyātaṃ yac cittam apratiṣṭhitaṃ // tśpk_42 
+paścādvyākaraṇān no ca caryā dīpaṃkare parā /
+bodhis tac caryayā tulyā na sa x x x x x x // tśpk_43
+ 
+x x x x x x x x na mṛṣā paridīpitā /
+dharmās tato buddhadharmāḥ sarve 'bhāvasvalakṣaṇāḥ // tśpk_44
+ dharmakāyena buddhas tu mataḥ saḥ puruṣopamaḥ / nirāvaraṇato x x x x x x x x x x x // tśpk_45 guṇamahātmyataś cāpi mahākāyaḥ sa eva hi / abhāvakāyabhāvāc ca akāyo 'sau nirucyate // tśpk_46 
+dharmadhātāv akuśalaḥ sattvanirvāpaṇe matiḥ /
+kṣetrāṇāṃ śodhane caiva x x x x x x x x // tśpk_47
+ sattvānāṃ bodhisattvānāṃ dharmān yaś ca nairātmakān / buddhyādhimucyate 'nārya āryo dhīmān sa kaṭhyate // tśpk_48 nopalambhe 'pi dharmāṇāṃ cakṣur na hi na vidyate / buddhānāṃ pañcadhā tac ca vitathārthasya darśanāt // tśpk_49 nānāvithatavijñapteḥ sṃṛtyupasthānavarjanāt / nirādhāraprabandho 'syā vitathāto nirucyate // tśpk_50 jñānasyādhārato jñeyā puṇye vitathatā na ca / tataḥ puṇyanimittaṃ hi punar dṛṣṭāntakīrtanam // tśpk_51 na dharmakāyaniṣpattir anuvyañjanam ucyate / na ca lakṣaṇasaṃpattis tad akāyatvato matā // tśpk_52 
+dharmakāyāvinirbhāgān na dvayaṃ na tathāgataḥ /
+saṃpattir ucyate bhūyo dvayaṃ nāsty astitā tataḥ // tśpk_53
+ x x x x x x x x x x x x x kalpitā / dharmakāyāvinirbhāgād deśanāpy asvalakṣaṇā // tśpk_54 
+deśyadaiśikagāṃbhīryaśraddhā na ca na santi hi /
+na sattvā nāpi cāsattvās te 'nāryārya x x x x // tśpk_55
+ x x x x x x x x jñeyā bodhir anuttarā / na vṛddhyā dharmadhātau hi śuddhisāmyāt svalakṣaṇāt // tśpk_56 
+upāyānuttaratvāc ca sāsravatvād adharmataḥ /
+śubhā na dharmā x x x x x x x x x x x // tśpk_57
+ naiva? cāvyākṛtatve 'pi deśanā 'prāptaye matā / dharmaratnaṃ tataś caikaṃ ratnād anyād viśiṣyate // tśpk_58 saṃkhyāprabhavajātīnāṃ saṃbandhasya viśeṣaṇe / x x x x x x x x x x x x x labhyate // tśpk_59 
+samatvād dharmadhātoś ca na sattvā mocitā jinaiḥ /
+sahanāmnā yataḥ skandhā dharmadhātvabahirgatāḥ // tśpk_60
+ 
+ātmagrāhasamo dosas ta x x x x x x x /
+x x x x x grāhe hi agrāhagrāhatā matā // tśpk_61
+ 
+na caiva rūpakāyena so 'numeyas tathāgataḥ /
+dharmakāyo yataś cakravartī mābhūt tathāgataḥ // tśpk_62
+ na ca lakṣaṇavaipākyapuṇy. x x x x x x / dharmakāyasya lābho hi upāyo yad vilakṣaṇaḥ // tśpk_63 
+rūpānuśravamātreṇa na buddhajñaḥ pṛthagjanaḥ /
+tathatādharmakāyo hi yato 'vijñānagocaraḥ // tśpk_64
+ 
+na ca puṇyas x x x x x x x x x x x x /
+kṣāntilābhe 'pi nocchedo nirmalasyāsya lābhataḥ // tśpk_65
+ 
+punaḥ puṇyanimittaṃ hi tasmād dṛṣṭāntadeśanā /
+tat puṇyasyāvipākatvān nodgrahaḥ saparigrahaḥ // tśpk_66
+ tan nirmāṇaphalaṃ teṣāṃ puṇya x x x x x x / anābhogena yat karma buddhāḥ kurvanti dikṣu ca // tśpk_67 
+gatyādayas tu nirmāṇair buddhās tv avicalāḥ sadā /
+dharmadhātau ca tatsthānaṃ naikatvānyatvato matam // tśpk_68
+ rajomaṣīkriyā dhātor dṛṣṭāntas tasya dyotakaḥ / maṣīkaraṇatā kleśakṣayasyeha nidarśanam // tśpk_69 
+asaṃcayatvāpiṇḍatvam anekatvanidarśanam /
+saṃhatasthānatā tasmin nānyatve ca nidarśanam // tśpk_70
+ vyavahāramātratāyā bālānām udgraho 'nyathā / dvayābhāvān na bodhyāptiḥ prahāṇād ātmadharmayoḥ // tśpk_71 tasmād dṛṣṭir adṛṣṭiś ca nairarthyābhūtakalpataḥ / sūkṣmam āvaraṇaṃ hy etat tathā jñānāt prahīyate // tśpk_72 
+jñānadvayasamādhānapraheyaṃ tac ca deśitam /
+nirmāṇaiḥ kaśaṇāt puṇyaṃ tad buddhānāṃ na nākṣayam // tśpk_73
+ nirmito 'smīti cātmānaṃ kāśayantas tathāgatāḥ / prakāśayanti nātmānaṃ tasmāt sā kāśanā satī // tśpk_74 
+saṃskāro na tathā nānyaṃ nirvāṇaṃ hi tathāgate /
+navadhā saṃbhūtasyeha saṃyagjñānaparīkṣaṇāt // tśpk_75
+ 
+dṛṣṭir nimittaṃ vijñānaṃ pratiṣṭhādehabhogatā /
+atītaṃ vartamānaṃ ca parīkṣyaṃ cāpy anāgatam // tśpk_76
+ lakṣaṇasyopabhogasya pravṛtteś ca parīkṣaṇāt / nirmalāṃ teṣu vaśitāṃ saṃskāreṣu samāpnute // tśpk_77
+
+triśatikāyāḥ prajñāpāramitāyāḥ kārikāsaptatiḥ samāptā // //
+
+kṛtir iyam āryāsaṅgapādānām iti // //

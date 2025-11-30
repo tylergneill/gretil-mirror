@@ -1,0 +1,257 @@
+Śūnyasamādhipāda: Tattvajñānasaṃsiddhi
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_zUnyasamAdhipAda-tattvajJAnasaMsiddhi.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Janardan Pandey: Tattvajñanasamsiddhih, with Marmakalikapanjika of Viryasrimitra. Sarnath, Varanasi : Rare Buddhist Texts Research Unit, 2000 (Rare Buddhist Text Series, 23).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Tattvajñānasaṃsiddhi = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from sunytjsu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Sunyasamadhipada: Tattvajnanasamsiddhi
+Based on the edition by Janardan Pandey: Tattvajñanasamsiddhih, with Marmakalikapanjika of Viryasrimitra.
+Sarnath, Varanasi : Rare Buddhist Texts Research Unit, 2000
+(Rare Buddhist Text Series, 23)
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sastra section
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+tatvajñānasaṃsiddhiḥ
+
+om namaḥ śrībhagavatyai vajravārāhyai //
+
+ānandāmbudhimaṇḍanādupagatā sambuddhalakṣmīrasau
+sarvākāraguṇānvitā jagadaghadhvāntaughavidhvaṃsinī /
+jyotirjñānanidherdhṛtiḥ smṛtinidheḥ śāntirmanīṣānidheḥ
+pāyādvajravirāsinī bhagavatī lokatrayaṃ durgateḥ // tjs_0.1 //
+
+śrīvajradevīpadapadmareṇu, rājiṃ namaskṛtya guroḥ padaṃ ca /
+śrīsambaraṃ saṃvṛtavodhicittaṃ, prajñākṛpādvaitapadaṃ praśastam // tjs_0.2 //
+
+vajradevīpadadvaṃdvavandanānandavarttinā /
+bhikṣuṇā jñānandreṇa candrevasuvaśarmaṇā // tjs_0.3 //
+
+sādhanaṃ vajravārāhyāḥ svārthaṃkiñjidvibhajyate /
+subhāṣitaprade nityaṃ matiḥ kalpanasotsukā // tjs_0.4 //
+
+tataḥśradvāpareṇedaṃ mandasvalpadhiyā mayā /
+karttavya na mama doṣo vīkṣaṇīyo mahājanaiḥ // tjs_0.5 //
+
+om namaḥ śrī vajravārāhyai
+
+udyātā talacakrato 'niladhutā vidyucchaṭābhāsvarā,
+dagdhālitritayā trilokamahitā pīyūṣadhārāplutā /
+buddhajñānarasāvilā vikaluṣā svānandasandohadā
+bhāvābhāvavicāraṇāvirahitā vārāhikā pātu vaḥ // tjs_1.1 //
+
+nirmāṇālidineśamaṇḍalagatā kādyādivarṇāvṛtā, 
+prajbālajvalanojvalāmṛtasavā sūkṣmājasūtropamā
+vidyābuddhakadamvakaṃ dahati yā cakratrayorbhedinī
+sānandā lalitordvagā sphuratu vo vārāhikā cetasi // tjs_1.2 //
+
+
+praṇipatya vajrapūrvāṃ vārāhīṃ vajrayoginīm /
+śirasā svasmṛtaye vakṣye 'haṃ tattvajñānasya saṃsiddhim // tjs_1.3 //
+
+vijanamano 'nukūlasthānaṃ nāthāṃkakaḥ praviśetsudhīḥ /
+tatra sukumāramāsanamupaviśya vibhāvayecchuddhiṃ // tjs_1.4 //
+
+tadanu ca ṣaṣṭhajinena tryakṣarajaptena vajradharahṛdayaṃ /
+saṃlikhyānāmikayā, lohitakusumārcitaṃ kuryāt // tjs_1.5 //
+
+tadanu paramādyapātre karakamalaṃ dakṣiṇetaraṃ kṣiptvā /
+vidadhīta savanaṃ yathopadeśaṃ śayasparśāt // tjs_1.6 //
+
+pravidhāya karanyāsaṃ bṛddhāṅguṣṭhāṅgulisamāyogāt /
+kurvītāṅganyāsaṃ ṣaḍbhirvīreśvarīmantraiḥ // tjs_1.7 //
+
+tadanu cakravajravaropari raṅgāruṇoyogajasamamamantraṃ /
+bhujagabhavaiḥ suviśiṣṭaiḥ sicayagatairavakirecchanakaiḥ // tjs_1.8 //
+
+tatra jinahṛdayacakraṃ śikhikoṭikaṃ samabhilikhya /
+tadgarbhe mantrālīṃ gāṅgeyaśalākayā vilikhet // tjs_1.9 //
+
+cakrasya vāhyabhāge pūrvottarapaścimārkidigdeśe /
+satsvastikānabhilikhetkrameṇa vāmahastena // tjs_1.10 //
+
+ākṛṣya vajradevīmpraviśya mantrākṣareṣu baddhvā paritoṣayet /
+suvidhānāt jaḥ huṃ vaṃ horiti paṭhitvā // tjs_1.11 //
+
+tadanu saparyā vividhāstasyā vidadhīta maṃtrarūpāyāḥ /
+bhakṣyairbhojyairlehyaiḥ peyaiścoṣyaiḥ sakāmaguṇaiḥ // tjs_1.12 //
+
+vividhairvalaiḥ samadanairupahāraiḥ pañcabhiratiparārdhyaiḥ /
+gītaivadyairnnṛtyaiḥ pradakṣiṇāpraṇatinutibhiśca // tjs_1.13 //
+
+pratidivasaṃ pratipakṣaṃ pratimāsaṃ vā tithau daśamyāṃ /
+kuryādyathoktapūjāvidhimasyāḥ siddhimākāṃkṣaṇaḥ // tjs_1.14 //
+
+atha kṛtavāhyārcanavidhirurukaruṇo nirmitāridhyāvje //
+vyasuhṛyoṣṇaguvimvāṃ dhyāyātpūrvoditāṃ devīm // tjs_2.1 //
+saṃdhyāsindūravarṇāṃ kharakaranikarāyāstasaptārkkakāntīṃ /
+karttrīṃ sarvārttihaṃtrīṃ sphuradamṛtaghṛṇīṃ vibhratīṃ savyadoṣṇā //
+
+vibhrāṇāṃ vāmadoṣṇā kamalamatisitaṃ raktapūrṇadhvajāḍhyāṃ /
+kālyā dambholikālyā parigataśirasaṃ muktamūrddhokhahastāṃ // tjs_2.2 //
+
+muṇḍālīmaṇḍitāṅgīṃ mukhagaladasṛjaṃ svādaguṃ muktanādāṃ,
+savye corddhaṃkirāsyāṃ varaśubhagamanāṃ krodhamūlānanāntāṃ /
+sānandāṃ sānurāgāṃ vividharasayutāmarddhaparyyaṅkanṛtyāṃ
+mudrāṣaṇmudritāṅgīṃ vyapagatavasanāṃ ṣoḍaśāvdāṃ varāṅgīm // tjs_2.3 //
+
+jñānākarṣādividhiḥ prāgiva kṛtvā vidhānavinmaṃntrī /
+svastikamalikābhimukhaṃ bhramantamekaṃ drūtaṃ dhyāyāt // tjs_2.4 //
+
+tadanu viyadvatī dhātau trikūṭagirigahvare bhramaccakraṃ /
+prāguktamiva dhyāyādraktaṃ jājyalyamānaṃ sat // tjs_2.5 //
+
+tatra sthiramivātivegānnirvātaniṣkampadīpamiva dīptaṃ /
+drāvayedurusukhacakraṃ śravadamṛtasārakṛtasavanam // tjs_2.6a //
+
+kāyatrayasvabhāvaṃ paramaṃ sahajātmakaṃ jagadvyāpinaṃ /
+sphuradamitaśāntasantatiṃ paśyetpaścātsukhaṃ paścāt // tjs_2.6b //
+
+pratidivasaṃ pratisandhyaṃ yathākṣaṇamvā vibhāvayedetat /
+yāvatsiddhinimittaṃ tāvadidamucyate vyaktam // tjs_2.7 //
+
+ayatnajaprītilayānubandhanāt yadā bhavedvyaktamidaṃ vibhāvitam //
+kaśācapeṭādiha naiva vedanā tadā bhavetsiddhiradūravarttinī // tjs_2.8 //
+pratāḍitānāṃ paṇavādikānāṃ paṭudhvanirnaśrutagocaraścet /
+yadāpyate bodhiranuttarāgrā svapne cirāddhyānavatāgrasiddhiḥ // tjs_2.9 //
+
+dṛṣṭvā siddhinimittaṃ pitṛvanagirikuñje vṛkṣamūlādau /
+nivasannutpannakramayogamajasraṃ sudhīḥ kuryāt // tjs_2.10 //
+
+siddhau vasudhādīnāṃ bhavatī layo hyuttarottarakramaśaḥ /
+khyāti tadā gaganābhaṃ prabhāsvaraṃ jñānamātraṃ sat // tjs_2.11 //
+
+jānīyāttaccihnaiścihnāni tu pañcadhā vidustajjñāḥ /
+ata eva tāni yogī samāhito lakṣayenmanasā // tjs_2.12 //
+
+prathamaṃ mṛgatṛṣṇābhaṃ dhūmākāraṃ dvitīyakaṃ cihnaṃ /
+khadyotavattṛtīyaṃ caturthaṃ dīpojvalaṃ spaṣṭaṃ // tjs_2.13 //
+
+vigatābhragaganasadṛśaṃ pañcamaṃ cihnaṃ prakāśamavikalpaṃ /
+evaṃ lavdhanimitto mudrāṃ mahatīmavāpnoti // tjs_2.14 //
+
+utthātukāmaḥ praṇipatya yoginīṃ nāthaṃ ca kasthaṃ samudīrya mūḥ kṛtiṃ /
+utthāya kṛtyaṃ vidadhīta tatvadhīstiṣṭhetsadā yogayugena yogavit // tjs_2.15 //
+iti tattvajñānasaṃsiddhau bhāvanāvidhiḥ // 2 //
+adhyeṣitaśca bahuśaḥ śiṣyaiḥ kṛtamaṇḍalaiḥ padāvjanataiḥ //
+mantrī tithau daśamyāṃ vidadhītānugrahanteṣāṃ // tjs_3.1 //
+saṃpūjya maṃtrarūpāṃ devīṃ cakrasthitāṃ vihitayomaḥ /
+ādāya maṃtrajaptaṃ paramādyaṃ niṣkramettasmāt // tjs_3.2 //
+
+atha vihitapañcamaṇḍalamūrddhasthāṃ tadantadakṣiṇaṃśiṣyaṃ /
+kusumasrajaṃ dadhānaṃ dhyātakenāthaṃ guruḥ paśyet // tjs_3.3a //
+
+tadanu ca yathoktaṃ devīcakraṃ prodyanmarīcikaṃ rayavat /
+dhyātvāntabāsigātre vajrabhṛttasya saṃdadyāt // tjs_3.3b //
+
+evaṃ syādāveśastatkalikā prakampanaṃ vāṣpaḥ /
+pāto jñānotpādaḥ svārūpañcāpi paripādyāḥ // tjs_3.4 //
+
+tadanu kathayetsamādhiṃ pūjāmaṃtraṃ ca vajrayoginyāḥ /
+śraddhānvitasya guṇino gurubuddhābhinnasadbhakteḥ // tjs_3.6 //
+
+kathayenna yogamenaṃ sadyaḥ pratyayakaraṃ susiddhaṃvā //
+śraddhāvirahitamanaso bhaktivihīnaśiṣyasya // tjs_3.7 //
+vidadhāti yastu pūjāṃ devīcakrasya maṃtrayuktasya /
+tasyāpayānti bhayānyaṣṭau pāpāni ca mahānti // tjs_3.8 //
+
+durbhagatā dāridryaṃ vyādhijarāduḥkhadaurmanasyāni /
+bhramakalikaluṣakleśāḥ pīḍā nānāvidhāścāpi // tjs_3.9 //
+
+yo japati cakramantraṃ dhyātvā hṛdaye nirodhavācāsau /
+prāpnotyaṣṭau siddhīḥ pañcābhijñāṃstathāṣṭaguṇāna // tjs_3.10 //
+dhyāyati yaḥ kiravaktrāṃ pratidavasaṃ yatnataścatuḥsaṃdhyaṃ hariharahiraṇyagarbhairjetumaśakyāṃ mṛtiṃ jayati // tjs_3.11 //
+vastrānnapānadhanadhānyaviśālabhūmiḥ prāsādadivyaśayanāsanasādhanāni /
+tasyodbhavanti dayitā vividhāśca vidyā, yo bhāvayatyaśanikolamukhīṃ sacakrāṃ // 12 //
+
+iti tatvajñānasaṃsiddhau sānuśaṃsā śiṣyānugrahavidhiḥ //
+
+maṃtroddhāramataḥ paramadhidhāsye vajrayoginīhṛdayaṃ /
+karṇātkarṇamupāgatamāsyādāsyaṃ tathākramataḥ // tjs_4.1 //
+
+pūrvoditamiva cakra saṃlikhyaṃ marudgaṇālayopetāṃ /
+tatra likhetparipāṭita ālikāliṃ tathaiva koṇaṃ // tjs_4.2 //
+
+jhādharagaṃ ḍādharasthaṃ hādharagavibhūṣitaṃ samāyuktaṃ /
+trikamādito vilikhyaṃ sadakṣaraṃ tatvaparidīpi // tjs_4.3 //
+
+bhorddhagataṃ chorddhasthitasametaṭorddhasthitaṃ tadanu lekhyaṃ /
+ḍādharayutaṃ ṣādhāragaṃ ṣorddhasthitayuktaśorddhagataṃ // tjs_4.4 //
+
+ñādharayutaḷtalasthaṃ ṭādharayutaporddhasaṃsthitaṃ /
+tadanu ṭhādharagānvitaphorddhagaṃ aivāmayutaṃ haṭāntasthaṃ // tjs_4.5 //
+
+casamadhyagataṃ ṭhasavyagasametaṃ bhādharasusaṃsthitaṃ /
+tadanu hathamadhyagataṃ tavāmayuktaṃ ṭhalamadhyaga paścāt // tjs_4.6 //
+
+sarvakarāntaphamadhyagaṃ tṛtīyavargādivāmagasametaṃ /
+ṇorddhayutaṃ lādharagaṃ chorddhasthaṃ bhatalagaṃ ṭhasavyayutaṃ // tjs_4.7 //
+
+torddhagayutaṃ ṣādharagaṃ thorddhadasaṃyuktaṃ ṇādharagaṃ paścāt /
+phādharagaṃ ṭhādharasaṃyuktaṃ phorddhasthaṃ ṇorddhayuktaṃ lādharagaṃ // tjs_4.8 //
+
+ḍādharaśūnyasametaṃ trivatalagaṃ corddhasthitaṃ ratalaṃ /
+thādharayutaṃ śādharagaṃ ñādharasamāyuktaṃ cāpi // tjs_4.9 //
+
+sayamadhyagaṃ jhavāmagasametamuktākṣarakṛto rahasyaḥ /
+maṃtroyamaśanīdevyā lekhyo japyo vibhāvyaśca // tjs_4.10 //
+
+cintāmaṇiḥ kalpakuṭhāgrakumbhaḥ śrīkāmadugdhenurapi praśastāḥ /
+te sādhyamānā dadatīha vittānyayantu saukhyaṃ sadhanaṃ dadāti // tjs_4.11 //
+
+iti tatvajñānasaṃsiddhau mantrauddhāravidhiḥ //
+
+yasminnayaṃ pātragatevyalikhya, pūjānimittaṃ vidhinā vidhijñaḥ /
+bālasya rakṣā vidhivadvidheyā, vaddhena dokaṇṭhaśikhāsuvāhau // 1 //
+
+dṛṣṭvāpayānti bhujagāḥ śiśukaṃ sarakṣaṃ, bhūtā grahā niśicarāḥ sapiśācasaṃghāḥ /
+anye ca bālakabharyārttikarāḥ subhīmāḥ siṃhaṃ yathā vanacarā valinambhayārttāḥ // 2 //
+
+saṃprāpya sadupadeśaṃ dṛṣṭvā saṃpratyayaṃ ca yogasya /
+siddhiriyaṃ samabhilekhi sphuradamalajñānasavaṃsatiḥ // 3 //
+
+tasmāttatsaṃprāptyai saṃsevyaṃ saguroḥ padāmburuhaṃ /
+sānnā pradānabidhinā kāyakleśaiḥ praṇāmaiśca // 4 //
+
+tatvajñānāgrasiddhirvahuhitajananī yā janasyeva loke
+satvānāṃ yanmayosītkuśalamakaluṣaṃ pūrvacadrāṃśuśubhraṃ /
+bhūyāsustena lokāḥ kalimalavikalā śuddhāsambodhibhājo
+labdhvā mudrāmudārāṃ bhavabhayaśamanīṃ sarvasatvārthakartrīṃ // 5 //
+
+samāptoyaṃ tatvajñānasaṃsiddhirnāma svādhiṣṭhānaśceti śubham sarvadā

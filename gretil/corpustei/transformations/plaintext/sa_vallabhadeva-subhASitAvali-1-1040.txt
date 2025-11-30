@@ -1,0 +1,4418 @@
+Vallabhadeva: Subhāṣitāvali 1-1040
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vallabhadeva-subhASitAvali-1-1040.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: n.n.
+## Contribution: n.n.
+## Date of this version: 2020-07-31
+
+## Source: 
+   - P. Peterson, Bombay 1886 (Bombay Sanskrit Series ; 31).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Subhāṣitāvali 1-1040 = Subhv,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from valsubhu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Vallabhadeva: Subhasitavali
+Verses 1-1040
+[of 3527 verses according to the edition by
+P. Peterson, Bombay 1886 (Bombay Sanskrit Series ; 31]
+Input by ...
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+tāṃ bhavānīṃ bhavānītakleśanāśaviśāradām /
+śāradāṃ śāradām bhodasitaṃsihāsanāṃ numaḥ // Subhv_0001
+
+anapekṣitaguruvacanā sarvāngranthīnvibhedayati samyak /
+prakaṭayati pararahasyaṃ vimarśaśaktirnijā jayati // Subhv_0002
+
+dikkālādyanavacchinnānantacinmātramūrtaye /
+svānubhūtyekamānāya namaḥ śāntāya tejase // Subhv_0003
+
+jagatsisṛkṣāpralayakriyāvidhau
+prayatnamunmeṣanimeṣavibhramam /
+vadanti yasyekṣaṇalolapakṣmaṇāṃ
+parāya tasmai parameṣṭhine namaḥ // Subhv_0004
+
+namastribhuvanotpattisthitisaṃhārahetave /
+viṣṇavepārasaṃsārapārottaraṇasetave // Subhv_0005
+
+surāsuraśiroratnakāntivicchuritāṅghraye /
+namastribhuvaneśāya haraye siṃharūpiṇe // Subhv_0006
+
+namastasmai varāhāya helayoddharate mahīm /
+khuramadhyagato yasya meruḥ khurakhurāyate // Subhv_0007
+
+namastuṅgaśiraścumbicandracāmaracārave /
+trailokyanagarārambhamūlastambhāya śaṃbhave // Subhv_0008
+
+abhipretārthasiddhyarthaṃ pūjito yaḥ surairapi /
+sarvavighnacchide tasmai gaṇādhipataye namaḥ // Subhv_0009
+
+nitambālasagāminyaḥ pīnonnatapayodharāḥ /
+manmathāya namastasmai yasyāyatanamaṅganāḥ // Subhv_0010
+
+anantamāmadheyāya sarvākaravidhāyine /
+samastamantravācyāya viśvaikapataye namaḥ // Subhv_0011
+
+oṃ namaḥ paramārthaikarūpāya paramātmane /
+svecchāvabhāsitāsatyabhedabhinnāya śaṃbhave // Subhv_0012
+
+kulaśailadalaṃ pūrṇasuvarṇagirikarṇikam /
+namodhitiṣṭhatenantanālaṃ kamalaviṣṭaram // Subhv_0013
+
+karṇikādiṣviva svarṇamarṇavādiṣvivodakam /
+bhediṣvabhedi yattasmai parasmai mahase namaḥ // Subhv_0014
+
+namo vāṅmanasātītamahimne parameṣṭhine /
+triguṇāṣṭaguṇānantaguṇannirguṇamūrtaye // Subhv_0015
+
+namaḥ śivāya niḥśeṣakleśapraśamaśāline /
+triguṇagranthidurbhedabhavabandhavibhedine // Subhv_0016
+
+samastalakṣaṇāyoga eva yasyopalakṣaṇam /
+tasmai namostu devāya kasmaicidapi śaṃbhave // Subhv_0017
+
+saṃsāraikanimittāya saṃsāraikavirodhine /
+namaḥ saṃsārarūpāya niḥsaṃsārāya śaṃbhave // Subhv_0018
+
+yathā tathāpi yaḥ pūjyo yatra tatrāpi yorcitaḥ /
+yopi vā sopi vā yosau devastasmai namostu te // Subhv_0019
+
+sadasattvena bhāvānāṃ yuktā yā dvitayī sthitiḥ /
+tāmullaṅghya tṛtīyasmai namaścitrāya śaṃbhave // Subhv_0020
+
+namaḥ svatantracicchaktimudritasvavibhūtaye /
+avyaktavyaktarūpāya kasmaicinmantramūrtaye // Subhv_0021
+
+āsannāya sudūrāya guptāya prakaṭātmane /
+sulabhāyātidurgāya namaścitrāya śaṃbhave // Subhv_0022
+
+carācarajagatsphārasphurattāmātradharmiṇe /
+durvijñeyarahasyāya yuktairapyātmane namaḥ // Subhv_0023
+
+viṣṇurvā tripurāntako bhavatu vā brahmā surendrothavā
+bhānurvā śaśalakṣaṇotha bhagavānbuddhotha siddhothavā /
+rāgadveṣaviṣārtimoharahitaḥ sattvānukampodyato
+yaḥ sarvaiḥ saha saṃskṛto guṇaguṇaistasmai namaḥ sarvadā // Subhv_0024
+
+ślokoyaṃ svāmidattasya tatsmṛtyai kāvyalakṣitaḥ /
+yokarotkavināmāṅkaṃ cakrapāṇiyayābhidham // Subhv_0025
+
+bhavabījāṅkurajaladā rāgādyāḥ kṣayamupāgatā yasya /
+brahmā vā viṣṇurvā haro jino vā namastasmai // Subhv_0026
+
+kastūrītilakaṃ lalāṭaphalake vakṣaḥsthale kaustubhaṃ
+nāsāgre navamauktikaṃ karatale veṇuṃ kare kaṅkaṇam /
+sarvāṅge haricandanaṃ suvimalaṃ kaṇṭhe ca muktāvalīṃ
+bibhratstrīpariveṣṭito vijayate gopālacūḍāmaṇiḥ // Subhv_0027
+
+aviratāmbujasaṃgatisaṃgaladbahalakesarasaṃvaliteva vaḥ /
+lalitavastuvidhānasukhollasattanuruhā tanurātmabhuvovatāt // Subhv_0028
+
+lakṣmīkapolasaṃkrāntakāntapattralatojjvalāḥ /
+dordrumāḥ pāntu vaḥ śaurerghanacchāyā mahāphalāḥ // Subhv_0029
+
+pātu vo medinīdolā balendudyutitaskarī /
+daṃṣṭrā mahāvarāhasya pātalagṛhadīpakā // Subhv_0030
+
+madamayamadamayaduragaṃ yamunāmavatīrya vīryaśālī yaḥ /
+mama ratimamaratiraskṛtiśamanapuraḥ sa kriyātkṛṣṇaḥ // Subhv_0031
+
+sa pātu vo yasya hatāvaśeṣās
+tattulyavarṇāñjanarañjiteṣu /
+vālaṇyayukteṣvapi vitrasanti
+daityāḥ svakāntānayanotpaleṣu // Subhv_0032
+
+caṇḍacāṇūradordaṇḍamaṇḍalīkhaṇḍamaṇḍitam /
+avyādvo bālaveṣasya viṣṇorgopatanorvapuḥ // Subhv_0033
+
+govardhanoddharaṇahṛṣṭasamastagopa-
+nānāstutiśravaṇalajjitamānasasya /
+smṛtvā varāhavapurindukalāprakāśa-
+daṃṣṭroddhṛtakṣiti hareravatu smitaṃ vaḥ // Subhv_0034
+
+manthakṣmādharaghūrṇitārṇavapayaḥ pūrāntarālollasal-
+lakṣmīkandalakomalāṅgadalanaprādurbhavatsaṃbhramāḥ /
+harṣotkaṇṭakitatvaco madhuripordevāsurākarṣaṇa-
+vyāpāroparamāya pāntu jagatīmābaddhavīpsā giraḥ // Subhv_0035
+
+pṛṣṭhabhrāmyadamandamandaragirigrāvāgrakaṇḍūyanān-
+nidrāloḥ kamaṭhākṛterbhagavataḥ śvāsānilāḥ pāntu vaḥ /
+yatsaṃskārakalānuvartanavaśādvelānibhenāmbhaso
+yātāyātamatandritaṃ jalanidhernādyāpi viśrāmyati // Subhv_0036
+
+kiṃcitkuñcitalocanasya pibataḥ paryāptamekaṃ stenaṃ
+sadyaḥprasrutadughavindumaparaṃ hastena saṃmārjataḥ /
+mātraikāṅgulilālitasya cibuke smerānanasyānanā-
+cchaureḥ kṣīrakaṇāvalīva patitā dantadyutiḥ pātu vaḥ // Subhv_0037
+
+kālindīpulinodareṣu musalī yāvadgataḥ krīḍituṃ
+tāvatkarburikāpayaḥ piba hare vardhiṣyate te śikhā /
+itthaṃ bālatayā pratāraṇaparāḥ śrutvā yaśodāgiraḥ
+pāyādvaḥ svaśikhāṃ spṛśanpramuditaḥ kṣīrerdhapīte hariḥ // Subhv_0038
+
+ānandena yaśodayā samadanaṃ gopāṅganābhiściraṃ
+sāśaṅkaṃ balavidviṣā sakusumaṃ siddhaiḥ pṛthivyākulam /
+serṣyaṃ gopakumārakaiḥ sakaruṇaṃ pauraiḥ suraiḥ sasmitaṃ
+yo dṛṣṭaḥ sa punātu vo madhuripuḥ protkṣipragovardhanaḥ // Subhv_0039
+
+kṛṣṇenāmba gatena rantumadhunā mṛdbhakṣitā svecchayā
+satyaṃ kṛṣṇa ka evamāha musalī mithyāmba paśyānanam /
+vyādehīti vikāsitetha vadane mātā samastaṃ jagad-
+dṛṣṭvā yasya jagāma vismayavaśaṃ pāyātsa vaḥ keśavaḥ // Subhv_0040
+
+kiṃ yuktaṃ bata māmananyamanasaṃ vakṣaḥsthalasthāyinīṃ
+bhaktāmapyavadhūya kartum adhunā kāntāsahasraṃ tava /
+ityuktvā phaṇabhṛtphaṇāmaṇigatāṃ svāmeva matvā tanuṃ
+nidrāchedakaraṃ hareravatu vo lakṣmyā vilakṣasmitam // Subhv_0041
+
+svaprāsāditadarśanāmanunayanprāneśvarīmādarā-
+daṃsesminpatitairapāṅgavalitairyadbodhitopyaśrubhiḥ /
+pratyāyyastvamato mayā nanu hare koyaṃ kramavyatyayaḥ
+pātu tvāṃ vrajayoṣitetyabhihitaṃ lajjākar śārṅgiṇaḥ // Subhv_0042
+
+bhaktiprahvavilokanapraṇayiṇī nīlotpalaspardhinī
+dhyānālambanatāṃ samādhiniratairnīte hitaprāptaye /
+lāvaṇyasya mahānidhī rasikatāṃ lakṣmīdṛśostanvatī
+yuṣmākaṃ kurutāṃ bhavārtiharaṇaṃ netre tanurvā hareḥ // Subhv_0043
+
+yena dhvastamanobhavena balijitkāyaḥ purāstrīkṛto
+yaścodvṛttabhujaṃgarahāravalayo gaṅgāṃ ca yodhārayat /
+yasyāhuḥ śaśimacchiro hara iti stutyaṃ ca nāmāmarāḥ
+pāpātsa svayamandhakakṣayakarastvāṃ sarvadomādhavaḥ // Subhv_0044
+
+kiṃcinnirmucyamāne gagana iva mukhe nāṭyanidrāpayodair-
+nyakkurvāṇe svabhāsā phaṇipatiśirasāṃ ratnadīpāṃśujālam /
+pāyāstāṃ vo muroreḥ śaśitapanamaye locane yadvibhāsā
+lakṣmyā kastasthamardhaṃ vikasati kamalasyārdhamabhyeti nidrām // Subhv_0045
+
+mallaiḥ śailendrakalpaḥ śiśurakhilajanaiḥ puṣpacāpoṅganābhir-
+gopaistu prākṛtātmā divi kuliśabhṛtā viśvakāyoprameyaḥ /
+kruddhaḥ kaṃsena kālo bhayacakitadṛśā yogibhirdhyeyamūrtir-
+dṛṣṭo raṅgāvatāre hariramarajanānandakṛtpātu yuṣmān // Subhv_0046
+
+bhindannarātihṛdayāni hareḥ punātu
+niḥśvāsavātamukharīkṛtakoṭaro vaḥ /
+saṃkrāntakukṣikuharāspadasaptasindhu-
+saṃghaṭṭaghorataraghoṣa ivāśu śaṅkhaḥ // Subhv_0047
+
+pāyātsa vaḥ kumudakundamṛṇālagauraḥ
+śaṅkho hareḥ karatalāmbarapūrṇacandraḥ /
+nādena yasya suraśatruvilāsinīnāṃ
+kāñcyo bhavanti śithilā jaghanasthalīṣu // Subhv_0048
+
+dṛṣṭasya yasya hariṇā raṇamūrdhni mūrtir-
+udbhūtaduḥsahamahaḥprasarā samantāt /
+tallocanasthitaravipratibimbagarbhe-
+vābhāti cakramaricakranudestu tadvaḥ // Subhv_0049
+
+udvṛttadaityapṛtanāpatikaṇṭhapīṭha-
+cchedocchaladbahalaśoṇitaśoṇadhāram /
+cakraṃ kriyādabhimatāni harerudāra-
+digdāhadāruṇanabhaḥśriyamudvahadvaḥ // Subhv_0050
+
+yasyodyadbāṇavāhudrumagahanavanacchedagoṣṭhīkuṭhāraṃ
+cakraṃ niṣkrāntatīvrānalabahalakaṇākīrṇadhāraṃ vicintya /
+jātagrāsāvasāyo divasakṛtisalanmāṃsalāṃśupravāhe
+muhyatyadyāpi rāhuḥ sa dahatu duritānyāśu daityāntako vaḥ // Subhv_0051
+
+daityāsthipañjaravidāraṇalabdharandhra-
+raktāmbunirjarasariddhanajātapaṅkāḥ /
+bālendukoṭikuṭilāḥ śukacañcubhāso
+rakṣantu siṃhavapuṣo nakharā harervaḥ // Subhv_0052
+
+ādityāḥ kiṃ daśaite pralayabhayakṛtaḥ svīkṛtākāśadeśāḥ
+kiṃ volkāmaṇḍalāni tribhuvanadahanāyodyatānīti bhītaiḥ /
+pāyāsurnārasiṃhaṃ vapuramaragaṇairbibhrataḥ śārṅgapāṇer-
+dṛṣṭvā dṛptāsurorastaladaraṇagaladraktaraktā nakhā vaḥ // Subhv_0053
+
+merūrukesaramudāradigantapattram-
+āmūlalambicalaśeṣaśarīranālam /
+yenoddhṛtaṃ kuvalayaṃ salilātsalīlam-
+uttaṃsakārthamiva pātu sa vo varāhaḥ // Subhv_0054
+
+na mṛdnīyānmṛdvī kathamiva mahī potranikaṣair-
+mukhāgnijvālābhiḥ kanakagirirīyānna vilayam /
+na śuṣyeyuḥ śvāsaiḥ salilanidhayaḥ sapta ca kathaṃ
+varāho vaḥ pāyāditi vipulacintāparikaraḥ // Subhv_0055
+
+svāmī sanbhuvanatrayasya vikṛtiṃ nītosi kiṃ yācñayā
+yadvā viśvasṛjā tvayaiva na kṛtaṃ taddīyatāṃ te kutaḥ /
+dānaṃ śreṣṭhatamāya tubhyamatulaṃ bandhāya no muktaye
+vijñapto balinā niruttaratayā hrīto hariḥ pātu vaḥ // Subhv_0056
+
+līne śrotraikadeśe nabhasi nayanayostejasi kvāpi yāte
+śvāsagrāsopayukte maruti jalanidhau pāyurandhrārdhapīte /
+potraprāntaikaromāntaravivaragatāṃ mṛgyataḥ śārṅgapāṇeḥ
+kroḍākārasya pṛthvīmakalitaviṣayaṃ vaibhavaṃ vaḥ punātu // Subhv_0057
+
+kvedānīṃ darpitāste ghanamadamadirāmodino digdhipendrā
+he mero mandarāndre malaya himagire sādhu vaḥ kṣmādharatvam /
+śeṣa ślāghyosi dīrghaiḥ pṛthubhuvanabharoccaṇḍaśauṇḍaiḥ śirobhiḥ
+śaṃsansotprāsamuccairiti dharaṇibhṛtaḥ pātu yuṣmānvarāhaḥ // Subhv_0058
+
+āvyādvo vāmano yasya kaustubhapratibimbitā /
+kautukālokinī jātā jāṭharīva jagattrayī // Subhv_0059
+
+ekasthaṃ jīviteśe tvayi sakalajagatsāramālokayāmaḥ
+śyāme cakṣustavāsminvapuṣi niviśate nālpapuṇyasya puṃsaḥ /
+kasyānyatrāmṛtesminratirativipulā dṛṣṭirevāmṛtaṃ te
+daityairityucyamāno munibhirapi hariḥ straiṇarūpovatādvaḥ // Subhv_0060
+
+bhrāmyanmahāgirinigharṣaṇalabdhapṛṣṭha-
+kaṇḍūyanakṣaṇasukhāyitagāḍhanidraḥ /
+suṣvāpa dīrghataraghargharaghoraghoṣaḥ
+śvāsābhibhūtajaladhiḥ kamaṭhaḥ sa vovyātu // Subhv_0061
+
+sa dhūrjaṭijaṭājūṭo jāyatāṃ vijayāya vaḥ /
+yasyaikapalitabhrāntiṃ karotpadyāpi jāhnavī // Subhv_0062
+
+sa pātu vo yasya jaṭākalāpe
+sthitaḥ śaśāṅkaḥ sphuṭahāragauraḥ /
+nīlotpalānāmiva nālapuñje
+nidrāyamāṇaḥ śaradīva haṃsaḥ // Subhv_0063
+
+diśyātsa śītakiraṇābharaṇaḥ śivaṃ vo
+yasyottamāṅgabhuvi visphuradūrmipakṣā /
+haṃsīva nirmalaśaśāṅkakalāmṛṇāla-
+kandārthinī surasarinnabhasaḥ papāta // Subhv_0064
+
+śreyāṃsi vo diśatu yasya sitābhraśubhrā
+vibhrājate surasaridvaramaulimālā /
+ūrdhvekṣaṇajvalanatāpavilīyamāna-
+candrāmṛtapravitatāmṛtavāhinīva // Subhv_0065
+
+cyutāmindorlekhāṃ ratikalahabhagnaṃ ca valayaṃ
+śanairekīkṛtya prahasitamukhī śailatanayā /
+avocadyaṃ paśyotyavatu sa śivaḥ sā ca girijā
+sa ca krīḍācandro daśanakiraṇāpūritatanuḥ // Subhv_0066
+
+eṣā te hara kā sugātri katamā mūrdhni sthitā kiṃ jaṭā
+haṃsaḥ kiṃ bhajate jaṭāṃ nahi śaśī candro jalaṃ sevate /
+mugdho bhūtiriyaṃ kutotra salilaṃ bhūtistaraṅgāyate
+evaṃ yo vinigūhate tripathagāṃ pāyātsa vaḥ śaṃkaraḥ // Subhv_0067
+
+āśleṣādharavimbacumbanasukhālāpasmitānyāsatāṃ
+dūre tāvadidaṃ mitho na sulabhaṃ jātaṃ mukhālokanam /
+itthaṃ vyarthakṛtaikadehaghaṭanopanyāsayorāvayoḥ
+keyaṃ premaviḍambanetyavatu vaḥ smerordhanārīśvaraḥ // Subhv_0068
+
+mātarjīva kimetadañjalipuṭe tātena gopāyyate
+vatsa svādu phalaṃ prayacchati na me gatvā gṛhāṇa svayam /
+mātraivaṃ prahite gṛhe vighaṭayatyākṛṣya saṃdhyāñjaliṃ
+śaṃbhorbhinnasamādhiruddharabhaso hāsodgamaḥ pātu vaḥ // Subhv_0069
+
+ekaṃ cantacchadasya sphurati japavaśādardhamanyatprakopād-
+ekaḥ pāṇiḥ praṇantuṃ śirasi kṛtapadaḥ kṣeptumanyastameva /
+ekaṃ dhyānānnimīlatyaparamaviṣahaṃ vīkṣituṃ cakṣuritthaṃ
+tulyānicchāpi vāmā tanuravatu sa vo yasya saṃdhyāvasāne // Subhv_0070
+
+śailarājatanayāstanayagmavyāpṛtāsyayugalasya gṛhasya /
+śeṣavakrakamalāni malaṃ vo dugdhapānavidhurāṇi harantu // Subhv_0071
+
+karajālamapūrvaceṣṭitaṃ vastadabhīṣṭapradamastu tigmabhāsaaḥ /
+kriyate bhavabandhanādvimuktiḥ praṇatānāmupasevitena yena // Subhv_0072
+
+yuṣmākamambaramaṇe prathame mayūkhās-
+te maṅgalaṃ vidadhatūdayarāgabhājaḥ /
+kurvanti ye divasajanmamahotsaveṣu
+sindūrapāṭalamukhīriva dikpuraṃdhrīḥ // Subhv_0073
+
+ābāhūdgatamaṇḍalāgrarucayaḥ saṃnaddhavakṣaḥsthalāḥ
+soṣmāṇo vraṇino vipakṣahṛdaypronmāthinaḥ karkaśāḥ /
+utsṛṣṭāmbaradṛṣṭavigrahabharā yasya smarāgresarā
+yodhā vāravadhūstanāśca na dadhuḥ kṣobhaṃ sa vovyājjinaḥ // Subhv_0074
+
+kiṃ syādbhāsvānna bhānoramṛtaghanarasasyandinaḥ santi pādāḥ
+kiṃ vā rākāśaśāṅko nahi tuhinaruciḥ kutracinniṣkalaṅkaḥ /
+sākṣāccintāmaṇiḥ kiṃ vipulaphalamaṇeḥ saukumāryaṃ kutastyaṃ
+saṃdehānmugdhadhībhiḥ prathamamiti muneḥ pātu dṛṣṭaṃ vapurvaḥ // Subhv_0075
+
+ciramāviṣkṛtaprītibhītayaḥ pāntu vo dviṣām /
+valayajyāravonmiśrāścaṇḍyāḥ kodaṇḍakṛṣṭayaḥ // Subhv_0076
+
+diśyānmahāsuraśiraḥsarasīpsitāni
+preṅkhannakhāvalimayūkhamṛṇālanālam /
+caṇḍyāścalaccaṭulanūpuracañcarīka-
+jhāṃkārahāri caraṇāmburuhadvayam vaḥ // Subhv_0077
+
+savrīḍā dayitānane sakaruṇā mātaṅgacarmāmbare
+satrāsā bhujage savismayarasā candremṛtasyandini /
+serṣyā jahnusutāvalokanavidhau dīnā kapālodare
+pārvatyā navasaṃgamapraṇayinī dṛṣṭiḥ śivāyastu vaḥ // Subhv_0078
+
+uttiṣṭhantyā ratānte bharamuragapatau pāṇinaikena kṛtvā
+dhṛtvā cānyena vāso vigalitakabarībhāramaṃsaṃ vahantyāḥ /
+bhūyastatkālakāntidviguṇitasurataprītinā śauriṇā vaḥ
+śayyāmāliṅgya nītaṃ vapuralasalasadbāhu lakṣmyāḥ punātu // Subhv_0079
+
+pāyādgajendravadanaḥ sa imāṃ trilokīṃ
+yasyodgatena gagane mahatā kareṇa /
+mūlāvalagnasitadantabisāṅkureṇa
+nālāyitaṃ tapanabimbasaroruhasya // Subhv_0080
+
+sānandaṃ nandihastāhatamurajaravāhvatakaumārabarhi-
+trāsānnāsāgrarandhraṃ viśati phaṇipatau bhogasaṃkocabhāji /
+gaṇḍoḍḍīnālimālāmukharitakakubhastāṇḍave śūlapāṇer-
+vaināyakyaściraṃ vo vadanavidhutayaḥ pāntu sītkāravatyaḥ // Subhv_0081
+
+dhanurmālā maurvī kvaṇadalikulaṃ lakṣyamabalā
+mano bhedyaṃ śabdaprabhṛtaya ime pañca viśikhāḥ /
+iyāñjetuṃ yasya tribhuvanamadehasya vibhavaḥ
+sa kāmaḥ kāmānvo diśatu dayitāpāṅgavasatiḥ // Subhv_0082
+
+brahmā dakṣaḥ kubero yamavaruṇamarudvahnicandrendrarudrāḥ
+śailā nadyaḥ samudrā grahagaṇamanujā daityagandharvanāgāḥ /
+dvīḥā nakṣatratārāravivasumunayo vyoma bhūraścinau ca
+saṃlīnā yasya sarve vapuṣi sa bhagavāpātu vo viśvarūpaḥ // Subhv_0083
+
+mugdhe muñca viṣādamatra balajitkampo gurustyajyatāṃ
+sadbhāvaṃ bhaja puṇḍarīkanayane mānyānimānmānaya /
+lakṣmīṃ bodhayataḥ svayaṃvaravidhau dhanvantarervākchalā-
+danyatra pratiṣedhamātmani vidhiṃ śṛṇvanhariḥ pātu vaḥ // Subhv_0084
+
+diśyātsukhaṃ naraharirbhuvanaikavīro
+yasyāhave ditisutoddalanodyatasya /
+krodhoddhataṃ mukhamavekṣitumakṣamatvaṃ
+jānebhavannijanakheṣvapi yannatāste // Subhv_0085
+
+svasti svāgatamarthyahaṃ vada vibho kiṃ dīyatāṃ medinī
+kā mātrā mama vikramatrayapadaṃ dattaṃ gṛhītāṃ mayā /
+mā dehītyuśanāḥ kuto harirayaṃ pātraṃ kimasmātparaṃ
+yo hītthaṃ balinārcito makhamukhe pāyātsa vo vāmanaḥ // Subhv_0086
+
+cakra brūhi vibho gade jaya hare kambo samājñāpaya
+bho bho nandaka jīva pannagariyo kiṃ nātha bhinno mayā /
+ko daityaḥ katamo hiraṇyakaśipuḥ satyaṃ bhavadbhyaḥ śape
+kenāstreṇa nakhairiti pravadato viṣṇormukhaṃ pātu vaḥ // Subhv_0087
+
+cintācakriṇi hanta cakriṇi bhiyā kubjāsanebjāsane
+naśyaddhāmani tigmadhāmani dhṛtāśaṅke śaśāṅke bhṛśam /
+bhraśyaccetasi ca pracetasi śucā tānte kṛtānte ca yo
+vyagrobhūtkaṭukālakūṭakavalīkārāya pāyātsa vaḥ // Subhv_0088
+
+nityaṃ narāvṛti nijānubhavaikamānam-
+ānandadhāma jagadaṅkurabījamekam /
+digdeśakālakalanādisamastahasta-
+mardāsahaṃ diśatu śarma mahanmaho vaḥ // Subhv_0089
+
+vyomnīva nīradabharaḥ sarasīva vīci-
+vyūhaḥ sahasramahasīva sudhāṃśudhām /
+yasminnidaṃ jagadudeti ca līyate ca
+tacchāmbhavaṃ bhavatu vaibhavamṛrddhaye vaḥ // Subhv_0090
+
+lokatrayasthitilayodayakelikāraḥ
+kāryeṇa yo hariharadruhiṇatvameti /
+devaḥ sa viśvajanavāṅmanasātivṛtti-
+śaktiḥ śivaṃ diśatu śaśvadanaśvaraṃ vaḥ // Subhv_0091
+
+sarvaḥ kilāyamavaśaḥ puruṣāṇukarma-
+kāyādikāraṇagaṇo yadanugraheṇa /
+viśva prapañcaracanācaturatvameti
+sa trāyatāṃ tribhuvanaikamaheśvaro vaḥ // Subhv_0092
+
+yaḥ kandukairiva puraṃdara padmasadma-
+padmāpatiprabhṛtibhiḥ prabhuraprameyaḥ /
+khelatyalaṅghyamahimā sa himādrikanyā-
+kāntaḥ kṛtāntadalano laghayatvadhaṃ vaḥ // Subhv_0093
+
+muktirhi nāma paramaḥ puruṣārtha ekas-
+tāmantarāyamavayanti yadantarajñāḥ /
+kiṃ bhūyasā bhavatu saiva sudhāmayūkha-
+lekhāśikhābharaṇabhaktirabhaṅgurā vaḥ // Subhv_0094
+
+śrīkaṇṭhasya sakṛttikārtabharaṇī mūrtiḥ sadārohiṇī
+jyeṣṭhā bhadrapadā punarvasuyutā citrā viśākhānvitā /
+diśyādakṣatahastamūlaghaṭitāṣāḍhā maghālaṅkṛtā
+śreyo vaiśravaṇānvitā bhagavato nakṣatrapālīva vaḥ // Subhv_0095
+
+trātā bhītibhṛtāṃ patiścidacitāṃ kleśaṃ sataṃ śaṃsatāṃ
+hantā bhaktimatāṃ satāṃ svasamatāṃ kartāpakartāsatām /
+devaḥ sevakabhuktimuktiracanābhūrbhūrbhuvaḥsvastrayī-
+nirmāṇasthitisaṃhṛtiprakaṭitakrīḍo mṛḍaḥ pātu vaḥ // Subhv_0096
+
+rājā rājārcitāṅghreranupacitakalo yasya cūḍāmaṇitvaṃ
+nāgā gāgātmajārdhaṃ na bhasitadhavalaṃ yadvapurbhūṣayanti /
+mā rāmārāgiṇī bhūnmatiriti yamināṃ yena vodāhi māraḥ
+sa ptāḥ saptāśvanunnāruṇakiraṇanibhāḥ pātu bibhrattrinetraḥ // Subhv_0097
+
+rādhāmohanamandiraṃ jagamiṣoścandrāvalīmandirād-
+rādho kṣemamiti priyasya vacanaṃ śrutvāha candrāvalī /
+kṣemaṃ kaṃsa tataḥ priyaḥ prakupitaḥ kaṃsaḥ kva dṛṣṭastvayā
+rādhā kveti tayoḥ prisannamanasorhāsodgamaḥ pātu vaḥ // Subhv_0098
+
+ākṛṣṭe yudhi kārmuke samavadadvāmaḥ karo dakṣiṇaṃ
+re re dakṣiṇahasta bhojanamahādānādi te kurvataḥ /
+paścādgantumayuktamityatha punaḥ sopyabravīdadravaṃ
+praṣṭuṃ rāghavamāśu rāvaṇaśirovṛndāni bhindāni kim // Subhv_0099
+
+dṛṣṭaḥ kvāpi sa keśavo vrajavadhūmādāya kāṃcidgataḥ
+sarvā eva hi vañcitāḥ khula vayaṃ sonveṣaṇīyo yadi /
+dve dve gacchata ityudīrya sahasā rādhāṃ gṛhītvā kare
+gopīveṣadharo nikuñjabhavanaṃ prāpto hariḥ pātu vaḥ // Subhv_0100
+
+mātastarṇakarakṣaṇāya yamunākacchaṃ na gacchāmyahaṃ
+kasmādvatsa pinaṣṭi pīvarakucadvandvena gopījanaḥ /
+bhrūbhaṅgairvinivāritopi bahuśo jalpanyaśodāgrato
+gopībhiḥ karapadmamudritamukhaḥ pāyātsa vaḥ keśavaḥ // Subhv_0101
+
+saṃdhyāṃ yatpraṇipatya lokapurato baddhāñjaliryācase
+dhatse yacca nadīṃ vilajja śirasā tannāma soḍhaṃ mayā /
+śrīryātāmṛtamanthane yadi hariṃ kasmādviṣaṃ bhakṣitaṃ
+mā strīlaṃpaṭa māṃ spṛśeti gadito gauryā haraḥ pātu vaḥ // Subhv_0102
+
+kastvaṃ śūlī mṛgaya bhiṣajaṃ nīlakaṇṭhaḥ priyehaṃ
+kekāmekāṃ vada paśupatirnaiva dṛśye viṣāṇe /
+mugdhe sthāṇuḥ sa carati kathaṃ jīviteśaḥ śivāyā
+gacchāṭavyāmiti hatavacāḥ pātu vaścandracūḍaḥ // Subhv_0103
+
+koyaṃ dvāri hariḥ prayāhyupavanaḥ śākhāmṛgasyātra kiṃ
+kṛṣṇohaṃ dayite bibhemi sutarāṃ kṛṣṇādahaṃ vānarāt /
+mugdhehaṃ madhusūdanaḥ piba latāṃ tāmeva tanmīvale
+itthaṃ nirvacanīkṛto dayitayā hrīto hariḥ pātu vaḥ // Subhv_0104
+
+nirlajja hare kimidaṃ pramadānugataḥ sadā paribhramasi /
+mugdhe tvatsaṃparkātpramado bhavatīti kiṃ citram // Subhv_0105
+
+śaṭha varṇayāmi bhavato nārīṇāmuparibhūyasī prītiḥ /
+pralapasi kimasaṃbaddhaṃ kasyāriṣu vidyate prema // Subhv_0106
+
+vyāmohayasi kimevaṃ rāmāsaktiṃ bravīmi bhavadīyām /
+jyeṣṭhe bhrātari rāme na kriyatāṃ kathamivāsaktiḥ // Subhv_0107
+
+kiṃ māmevaṃ bhramayasi śocāmi vyasanameva bhavadīyam /
+niṣkāraṇakupitāyāṃ tvayi kathaya kimalpakaṃ vyasanam // Subhv_0108
+
+vakravacanairamībhirgopavadhūmiti naruttarīkṛtya /
+maṇḍalitagurupayodharamupagūḍhaṃ pātu vaḥ śaureḥ // Subhv_0109
+
+ayi saṃprasīda pārvati śivopi tava pādayornipatitoham /
+śiva iti kathaṃ hi jalpasi sarudhiragajacarmasaṃvītaḥ // Subhv_0110
+
+śiva iti yadi tava gadite dviguṇo roṣo bhavāmyahaṃ sthāṇuḥ /
+sthānurasi satyametaccetasi bhavato na kiṃcidapi // Subhv_0111
+
+tyaja ruṣamavehi mānini māmīśvaramarcitaḥ tribhuvanasya /
+tryambaka yadīśvarastvaṃ nagnaḥ kiṃ dhūlidhūsaritaḥ // Subhv_0112
+
+saṃprati kimatra vakṣyasi paśupatireṣosmi pāṇḍurakapole /
+paśupatireva na gaṇayasi yuktāyuktāni yasmāttvam // Subhv_0113
+
+mugdhe bhramasi kimevaṃ satyamimaṃ māṃ bhavaṃ vijānīhi /
+satyaṃ bhavosi śaṭha he yenātivicitrarūposi // Subhv_0114
+
+paṇḍitabādastava yadi lokehaṃ tryambako vidita eṣaḥ /
+ambā hyekāpi na te prajalpasi tvaṃ kutastisraḥ // Subhv_0115
+
+vādo mahānihaiva hi tathā vijānīhyanaṅgadahanaṃ mām /
+dagdhamidamaṅgamaṅgaṃ tvayā mamaivedṛśaiścaritaiḥ // Subhv_0116
+
+saṃdhyāpraṇāmadoṣādyonunayati taṃ vijitya pārvatyā /
+āliṅgitaśca sarabhasamurasā vai haratu duritaṃ vaḥ // Subhv_0117
+
+bhava niḥsnehastvaṃ me na bhavāmyevaṃ yathā tvayā gaditam /
+niḥsnehatābhilāṣastava devi kutaḥ samutpannaḥ // Subhv_0118
+
+kusṛtibhiralametābhiḥ kimarthamuparisthitā nadīyaṃ te /
+kā narakapālamālā mamoparisthā gṛhāṇaitāḥ // Subhv_0119
+
+janamanurāgiṇamevaṃ saṃtāpayasi vyalīkakaraṇena /
+tava narakapālapaṅktibhiravaśyamevopari stheyam // Subhv_0120
+
+kiṃ kupitosi tyaja ruṣamapanayatāṃ vigrahaṃ mayā hi bhavān /
+saha vigraho bhavatyā na jātu vighāṭiṣyatesmākam // Subhv_0121
+
+gaṅgāvigrahakaluṣāmiti śivavacanairniruttarāṃ gaurīm /
+parihāsya yonuninye sa karotu śivaḥ śivaṃ bhavatām // Subhv_0122
+
+vijaye kuśalastryakṣo na krīḍitumahamanena saha śaktā /
+vijaye kuśalosmi na tu tryakṣokṣadvayamidaṃ pāṇau // Subhv_0123
+
+kiṃ me durodareṇa prayātu yadi gaṇapatirna tebhimataḥ /
+kaḥ pradveṣṭi vināyakamahilokaḥ kiṃ na jānāsi // Subhv_0124
+
+vasurahitena krīḍā bhavatā saha kīdṛśī na jihreṣi /
+kiṃ vasubhinnamatomūnsurāsurāneva paśya puraḥ // Subhv_0125
+
+candragrahaṇena vinā nāsmi rame kiṃ pravartayasyevam /
+devyai yadi rucitamidaṃ nandinnāhvayatāṃ rāhuḥ // Subhv_0126
+
+hā rāhau nikaṭasthe sitadaṃṣṭre bhayakṛti ratiḥ kasya /
+yadi necchasi tattyaktaḥ saṃpratyevaiṣa hārāhiḥ // Subhv_0127
+
+āropayasi mudhā kiṃ nāhamabhijñā tvadaṅkasya /
+divyaṃ varṣasahasraṃ sthitvaivaṃ yuktamabhidhātum // Subhv_0128
+
+itthaṃ paśupatipeśalapāśakalīlāprayuktavakrokteḥ /
+harṣavaśataralatārakamānanamavyādbhavānyā vaḥ // Subhv_0129
+
+aṅgulyā kaḥ kavāṭe praharati kuṭilo mādhavaḥ kiṃ vasanto
+no cakrī kiṃ kulālo nahi dharaṇidharaḥ kiṃ praṇīndro dvijihvaḥ /
+mugdhe ghorāhimāthī kimuta khagapatirno hariḥ kiṃ kapīndra
+itthaṃ lakṣmyā kṛtosau pratihatavacanaḥ pātulakṣmīdhavo vaḥ // Subhv_0130
+
+khedaḥ kiṃ khalu dayite na vetsi ravimaṇḍalaṃ jagadviditam /
+na krodhaḥ kartavyo jalacaramūrdhvaṃ na jātu paśyāmaḥ // Subhv_0131
+
+kopastyaktuṃ yogyo yasya pipāsā na saṃbhavati /
+saṃtyaja mānini mānaṃ kiṃ mānenādhunā mamānena // Subhv_0132
+
+kiṃ tena kila kāvyena mṛdyamānasya yasya tāḥ /
+udadheriva nāyānti rasāmṛtaparamparāḥ // Subhv_0133
+
+kiṃ kavestasya kāvyena kiṃ kāṇḍena dhanuṣmataḥ /
+parasya hṛdaye lagnaṃ na ghūrṇayati yacchiraḥ // Subhv_0134
+
+apragalbhapadanyāsā jananīrāgahetavaḥ /
+santyeke bahulālāpāḥ kavayo bālakā iva // Subhv_0135
+
+kiṃ tena kāvyamadhunā plāvitā rasanirjharaiḥ /
+jaḍātmānopi no yasya bhavantyaṅkuritān tarāḥ // Subhv_0136
+
+navortho jātiragrāmyā śleṣokliṣṭaḥ sphuto rasaḥ /
+vikaṭākṣarabandhaśca kṛtsnamekatra duṣkaram // Subhv_0137
+
+mukhamātreṇa kāvyasya karotyahṛdayo janaḥ /
+chāyāmachāmapi śyāmāṃ rāhustārāpateriva // Subhv_0138
+
+boddhāromatsaragrastā vibhavaḥ smayadūṣitāḥ /
+abodhopahatāścānye jīrnamaṅge subhāṣitam // Subhv_0139
+
+padadvayasya saṃdhānaṃ kartumapratibhāḥ khalāḥ /
+tathāpi parakāvyeṣu duṣkareṣvapyasaṃbhramāḥ // Subhv_0140
+
+kva doṣotra mayā labhya iti saṃcintya cetasā /
+khalaḥ kāvyeṣu sādhūnāṃ śravaṇāya pravartate // Subhv_0141
+
+upapattibhiramlānā nopadeśaiḥ kadarthitāḥ /
+svasaṃvedanasaṃvedyasārāḥ sahṛdayoktayaḥ // Subhv_0142
+
+keṣāṃcidvāci śukavatpareṣāṃ hṛdi mūkavat /
+kasyāpyā hṛdayādvaktre valgu valganti sūktayaḥ // Subhv_0143
+
+bahūni naraśīrṣāṇi lomaśāni bṛhanti ca /
+grīvāsu pratibaddhāni kiṃcitteṣu sakarṇakam // Subhv_0144
+
+sādhvīva bhāratī bhāti sūktisadvratacāriṇī /
+grāmyārthavastusaṃsparśabahiraṅgā mahākaveḥ // Subhv_0145
+
+te vandyāste mahātmānasteṣāṃ loke sthiraṃ yaśaḥ /
+yairnibaddhāni kāvyānī ye vā kāvyeṣu kīrtitāḥ // Subhv_0146
+
+prasannāḥ kāntihāriṇyo nānāśleṣavicakṣaṇāḥ /
+bhavanti kasyacitpuṇyairmukhe vāco gṛhe striyaḥ // Subhv_0147
+
+kavīnāṃ mahatāṃ sūktairgūḍhārthāntarasūcibhiḥ /
+vidhyamānaśrutermā bhūhurjanasya kathaṃ vyathā // Subhv_0148
+
+yāsyati sajjanahastaṃ ramayiṣyati taṃ bhavecca nirdoṣā /
+utpāditayāpi kavistāmyati kathayā duhitreva // Subhv_0149
+
+avasarapaṭhitaṃ sarvaṃ subhāṣitatvaṃ prayātpasūktamapi /
+kṣudhi kadaśanamapi nitarāṃ bhoktuḥ saṃpadyate svādu // Subhv_0150
+
+durjanahutāśataptaṃ kāvyasuvarṇaṃ viśuddhimupayāti /
+darśayitavyaṃ tasmānmatsarimanasaḥ prayatnena // Subhv_0151
+
+gaṇayanti nāpaśabdaṃ na vṛttabhaṅgaṃ kṣatiṃ na cārthasya /
+rasikatvenākulitā veśyāpatayaḥ kukavayaśca // Subhv_0152
+
+vipulahṛdayābhiyogye khidyati kāvye jaḍo na maurkhye sve /
+nindati kañcukameva prāyaḥ śuṣkastanā nārī // Subhv_0153
+
+khyātiṃ gamayati sujanaḥ sukavirvidadhāti kevalaṃ kāvyam /
+puṣṇāti kamalamambho lakṣmyā tu ravirniyojayati // Subhv_0154
+
+vyākhyātumeva kecitkuśalāḥ śāstraṃ prayoktumalamanye /
+upanāmayati karonnaṃ rasāṃstu jihbaiva jānāti // Subhv_0155
+
+jivita iva kaṇṭhagate sūkte duḥkhāsikā kavestāvat /
+nayanavikāsavidhāyī sacetanābhyāgamo yāvat // Subhv_0156
+
+pratīyamānaṃ punaranyadeva
+vastvasti vāṇīṣu mahākavīnām /
+yattatprasiddhāvayavātirikta-
+mābhāti lāvaṇyamivāṅganāsu // Subhv_0157
+
+kaverabhiprāyamaśabdagocaraṃ
+sphurantamārdreṣu padeṣu kevalam /
+vadadbhiraṅgaiḥ kṛtaromavikriyair-
+janasya tūṣṇīṃbhavatoyamañjaliḥ // Subhv_0158
+
+sahṛdayāḥ kavigumphanikāsu ye
+katipayāsta ime na viśṛṅkhalāḥ /
+rasamayīṣu latāsviva ṣaṭpadā
+hṛdayasārajuṣo na mukhaspṛśaḥ // Subhv_0159
+
+khyātā narādhipatayaḥ kavisaṃśrayeṇa
+rājāśrayeṇa ca gatāḥ kavayaḥ prasiddhim /
+rājñā samosti na kaveḥ paramopakārī
+rājño na cāsti kavinā sadṛśaḥ sahāyaḥ // Subhv_0160
+
+cetaḥprasādajananaḥ vibuddhottamānām-
+ānandi sarvarasayuktamatiprasannam /
+kāvyaṃ khalasya na karoti hṛdi pratiṣṭhāṃ
+pīyūṣapānamiva vaktravivarti rāhoḥ // Subhv_0161
+
+baddhā yadarpaṇarasena vimardapūrvam-
+arthānkathaṃ jhaṭiti tānprakṛtānna dadyuḥ /
+caurā ivātimṛdavo mahatāṃ kavīnām-
+arthāntarāṇyapi haṭhādvitaranti śabdāḥ // Subhv_0162
+
+tatkiṃ kāvyamanalpapītamadhuvatkuryānna yaddhṛdgataṃ
+mātsaryāvṛtacetasāṃ rasavaśādapyudgatiṃ lomasu /
+kampaṃ mūrdhni kapolayugmamaruṇaṃ bāṣpāvile locane
+adhyāropitavastukīrtanaparaṃ vācaḥ karālambanam // Subhv_0163
+
+ye tāvatsvaguṇopabṛṃhitadhiyasteṣāmaraṇyaṃ jagad-
+yepyete kṛtamatsarāḥ paraguṇaṃ svapnepi necchanti te /
+anyeṣāmanurāgiṇāṃ kvacidapi snigdhaṃ mano nirvṛtā-
+vitthaṃ yāntu tapovanāni mahatāṃ sūktāni manyedhunā // Subhv_0164
+
+yā sādhūniva sādhuvādamukharānmātsaryamūkānapi
+proccairno kurute satāṃ matimatāṃ dṛṣṭirna sā vāstavī /
+yā yātāḥ śrutigocaraṃ ca sahasā harṣollasatkaṃdharās-
+tiryañcopi na muktaśaṣpakavalāstāḥ kiṃ kavīnāṃ giraḥ // Subhv_0165
+
+svecchābhaṅgurabhāgyameghataḍitaḥ śakyā na roddhuṃ śriyaḥ
+prāṇānāṃ satataṃ prayāṇapaṭahaśraddhā na viśrāmyati /
+trāṇaṃ yetra yaśomaye vapuṣi vaḥ kurvanti kāvyāmṛtais-
+tānārādhyapade vidhatta sukavīnnirgarvamurvīśvarāḥ // Subhv_0166
+
+he rājānastyajata sukavipremabandhe virodhaṃ
+śuddhā kīrtiḥ sphurati bhavatāṃ nūnametatprasādāt /
+tuṣṭairbaddhaṃ tadalaghu raghusvāminaḥ saccaritraṃ
+ruṣṭairnītastribhuvanajayī hāsyamārgaṃ daśāsyaḥ // Subhv_0167
+
+namo namaḥ kāvyarasāya tasmai
+niṣiktamantaḥ pṛṣatāpi yasya /
+suvarṇatāṃ vaktramupaiti sādhor-
+durvarṇatāṃ yāti ca durjanasya // Subhv_0168
+
+ajñātapāṇḍityarahasyamudrā
+ye kāvyamārge dadhatebhimānam /
+te gāruḍīyānanadhītya mantrān-
+hālāhalāsvādanamārabhante // Subhv_0169
+
+sarasvatīmāturabhūcciraṃ na yaḥ
+kavitvapāṇḍityaghanastanaṃdhayaḥ /
+kathaṃ sa sarvāṅgamanāptasauṣṭhavo
+dināddinaṃ prauḍhiviśeṣamaśnute // Subhv_0170
+
+vitīrṇaśikṣā iva hṛtpadastha-
+sarasvatīvāhanarājahaṃsaiḥ /
+ye kṣīranīrapravibhāgadakṣā
+vivekinaste kavayo jayanti // Subhv_0171
+
+kāvyāmṛtaṃ durjanarāhunītaṃ
+prāpyaṃ bhavenno sumonajanasya /
+saccakramavyājavirājamānat-
+aikṣṇyaprakarṣaṃ yadi nāma na syāt // Subhv_0172
+
+vinā na sāhityavidāparatra
+guṇaḥ kathaṃcitprathate kavīnām /
+ālambate tatkṣaṇamambhasīva
+vistāramanyatra na tailabinduḥ // Subhv_0173
+
+atyarthavakratvamanarthakaṃ yā
+śūnyā tu sarvānyaguṇairvyanakti /
+aspṛśyatādūṣitayā tayā kiṃ
+tucchaśvapucchacchaṭayeva vācā // Subhv_0174
+
+nīcastanotvaśru nitāntakārṣṇyaṃ
+puṣṇātu sādharmyabhṛdañjanena /
+vinā tu jāyeta kathaṃ tadīya-
+kṣodena sārasvatadṛkprasādaḥ // Subhv_0175
+
+arthosticenna padaśuddhirathāsti sāpi
+no rītirasti yadi sā ghaṭanā kutastyā /
+sāpyasti cenna navavakragatistadetad-
+vyarthaṃ vinā rasamaho gahanaṃ kavitvam // Subhv_0176
+
+ślāghyaiva vakrimagatirghanadārḍhyabandhos-
+tasyāḥ kavipravarasūktidhanurlatāyāḥ /
+karṇāntikapraṇayabhāji guṇe yadīye
+cetāṃsi matsaravatāṃ jhaṭiti truṭanti // Subhv_0177
+
+yātāste rasasārasaṃgrahavidhiṃ niṣpīḍya niṣpīḍya ye
+vāktatvekṣulatāṃ purā katipaye tattvaspṛśaścakrire /
+jāyantedya yathāyathaṃ tu kavayaste tatra saṃtanvate
+yenuprāsakaṭhoracitrayamakaśleṣādiśalkoccayam // Subhv_0178
+
+paraślokānstokānanudivasamabhyasya nanu ye
+catuṣpādīṃ kuryurbahava iha te santi kavayaḥ /
+avicchinnodgacchajjaladhilaharīrītisuhṛdaḥ
+suhṛdyā vaiśadyaṃ dadhati kila keṣāmcana giraḥ // Subhv_0179
+
+hemno bhāraśatāni vā madamucāṃ vṛndāni vā dantināṃ
+śrīharṣeṇa samarpitāni guṇine bāṇāya kutrādya tat /
+yā bāṇena tu tasya sūktivisarairuṭṭaṅkitāḥ kīrtayas-
+tāḥ kalpapralayepi yānti na manāṅmanye parimlānatām // Subhv_0180
+
+dhanyāḥ śūcīni surabhīṇi guṇombhitāni
+vāgvīrudhaḥ svavadanopavanodgatāyāḥ /
+uccitya sūktikusumāni satāṃvivikta-
+varṇāni karṇapulineṣvavataṃsayanti // Subhv_0181
+
+tenantavāṅmayamahārṇavadṛṣṭapārāḥ
+sāṃyātrikā iva mahākavayo jayanti /
+yatsūktipelavalavaṅgalavairvaimi
+santaḥ sadaḥ suvadanānyadhivāsayanti // Subhv_0182
+
+trailokyabhūṣaṇamaṇirguṇivargabandhur-
+ekaścakāsti kavitā savitā dvitīyaḥ /
+śaṃsanti yasya mahimātiśayaṃ śirobhiḥ
+pādagrahaṃ vidadhataḥ pṛthivībhṛtopi // Subhv_0183
+
+śabdārthamātramapi ye na vidanti tepi
+yāṃ mūrchanāmiva mṛgāḥ śravaṇaiḥ pibantaḥ /
+saṃruddhasarvakaraṇaprasarā bhavanti
+citrasthitā iva kavīndragiraṃ numastām // Subhv_0184
+
+asthāne gamitā layaṃ hatadhiyāṃ vāgdevatā kalpate
+dhikkārāya parābhavāya mahate tāpāya pāpāya vā /
+sthāne tu vyayitā satāṃ prabhavati prakhyātaye bhūtaye
+cetonirvṛtaye paropakṛtaye prānte śivāvāptaye // Subhv_0185
+
+valmīkaprabhaveṇa rāmanṛpatirvyāsena dharmātmajo
+vyākhyātaḥ kila kālidāsakavinā śrīvikramāṅko nṛpaḥ /
+bhojaścittapabihlaṇaprabhṛtibhiḥ karṇopi vidyāpateḥ
+khyātiṃ yānti nireśvarāḥ kavivaraiḥ sphārairna bherīravaiḥ // Subhv_0186
+
+bhujataruvanacchāyāṃ yesāṃ niṣevya mahaujasāṃ
+jaladhiraśanā medinyāsīdasāvakutobhayā /
+smṛtimapi na te yānti kṣmāpā vinā yadanugrahaṃ
+prakṛtimahate kurmastasmai namaḥ kavikarmaṇe // Subhv_0187
+
+yepyāsannibhakumbhaśāyitapadā yepi śriyaṃ lebhire
+yeṣāmapyavasanpurā yuvatayo geheṣvahaścandrikāḥ /
+tāṃllokoyamavaiti lokatilakānsvapnepyajātāniva
+bhrātaḥ satkavikṛtya kiṃ stutiśatairandhaṃ jagattvāṃ vinā // Subhv_0188
+
+sphāreṇa saurabhabhareṇa kimeṇanābhes-
+taddhānasāramapi sāramasārameva /
+sraksaumanasyapi na puṣyati saumanasyaṃ
+prasyandate yadi madhudravamuktidevī // Subhv_0189
+
+prayacchati camatkṛtiṃ viracanāvidhau cetasaḥ
+sabhāsu paṭhito bhavatyasamasādhuvādāptaye /
+prathāmupagatastanotyatitarāmudāraṃ yaśo
+na puṣyati manorathaṃ kamiva kāvyacintāmaṇiḥ // Subhv_0190
+
+yaḥ satpadasthamiva kāvyamadhu prasannaṃ
+muṣṇanparasya tanute nijapadmamadhye /
+asthānadoṣajaniteva pipīlakālī
+kālī vibhāti likhitākṣarapaṅktirasya // Subhv_0191
+
+yaḥ syātkevalalakṣyalakṣaṇarato no tarkasaṃparkabhṛn-
+nālaṃkāravicāracārudhiṣaṇaḥ kāvyajñaśikṣojjhitaḥ /
+tasmāccedrasaśāli kāvyamudayedekāntataḥ sundaraṃ
+prāsādo dhavalastadā kṣitipateḥ kākasya kārṣṇyādbhavet // Subhv_0192
+
+svaprajñayā kuñcikayeva kaṃcit-
+sārasvataṃ vakrimabhaṅgibhājam /
+kavīśvaraḥ kopi padārthakośa-
+muddhāṭya viśvābharaṇaṃ karoti // Subhv_0193
+
+daivīrgiraḥ kepi kṛtārthayanti
+tāḥ kuṇṭhayantyeva punarvimūḍhāḥ /
+yā vipruṣaḥ śuktimukheṣu daivyas-
+tā eva muktā na tu cātakeṣu // Subhv_0194
+
+pariśramajñaṃ janamantareṇa
+maunavrataṃ bibhrati vāgminopi /
+vācaṃyamāḥ santi vinā vasantaḥ
+puṃskokilāḥ pañcamacañcavopi // Subhv_0195
+
+vyālāśca rāhuśca sudhāprasādāj-
+jihvāśironigrahamugramāpuḥ /
+itīva bhītāḥ piśunā bhavanti
+parāṅmukhāḥ kāvyarasāmṛteṣu // Subhv_0196
+
+sākūtaṃ nijasaṃvidekaviṣayaṃ tattvaṃ sacetā bruvan-
+nagre nūnamabodhamohitadhiyāṃ hāsyatvamāyāsyati /
+tadyuktaṃ viduṣo janasya jaḍavajjoṣaṃ nu nāmāsituṃ
+jātyandhaṃ pratirūpavarṇanavidhau koyaṃ vṛthaivodyamaḥ // Subhv_0197
+
+jayanti jitamatsarāḥ parahitārthamabhyudyatāḥ
+parābhyudayasusthitāḥ paravipattikhedākulāḥ /
+mahāpuruṣasatkathāśravaṇajātakautūhalāḥ
+samastaduritārṇavaprakaṭasetavaḥ sādhavaḥ // Subhv_0198
+
+paraparivāde mūkaḥ paranārīdarśanepi jātyandhaḥ /
+paṅguḥ paradhanaharaṇe sa jayati loke mahāpuruṣaḥ // Subhv_0199
+
+saṃpatsu mahatāṃ ceto bhavatyutpalakomalam /
+āpatsu ca mahāśailaśilāsaṃghātakarkaśam // Subhv_0200
+
+kusumastabakasyeva dvayī mṛttirmanasvinaḥ /
+mūrdhni vā sarvalokasya śīryate vana eva vā // Subhv_0201
+
+upakāreṇa dūyante na sahantenukampitām /
+āpatsvapi durārādhyā nityaduḥkhā manasvinaḥ // Subhv_0202
+
+jalasekena vardhante taravo nāśmasaṃcayāḥ /
+bhavyo hi dravyatāmeti kriyāṃ prāpya tathāvidhām // Subhv_0203
+
+avṛttibhayamantyānāṃ madhyānāṃ maraṇādbhayam /
+uttamānāṃ tu sattvānāmavamānātparaṃ bhayam // Subhv_0204
+
+tāpaṃ hanti sukhaṃ sūte jīvayatyujjvalaṃ yaśaḥ /
+amṛtasya prakāroyaṃ durlabhaḥ sādhusaṃgamaḥ // Subhv_0205
+
+rasāyanamayī śītā paramānandadāyinī /
+nānandayati kaṃ nāma sādhusaṃgaticandrikā // Subhv_0206
+
+sādhusaṅgatarorjātaṃ vivekakusumaṃ śubham /
+rakṣanti ye mahātmāno bhājanaṃ te phalaśriyaḥ // Subhv_0207
+
+śūnyamākīrṇatāmeti mṛtyurapyutsavāyate /
+āpatsaṃpadivābhāti vidvajjanasamāgame // Subhv_0208
+
+himamāpatsarojinyā mohanīhāramārutaḥ /
+jayatyeko jagatyasminsādhuḥ sādhusamāgamaḥ // Subhv_0209
+
+paraṃ vivardhanaṃ buddherajñānataruśātanam /
+samutsāraṇamādhīnāṃ viddhi sādhusamāgamam // Subhv_0210
+
+yaḥ snātaḥ śītasitayā sādhusaṃgatigaṅgayā /
+kiṃ tasya dānaiḥ kiṃ tīrthaiḥ kiṃ tapobhiḥ kimadhvaraiḥ // Subhv_0211
+
+hṛdayāni satāmeva kaṭhinānīti me matiḥ /
+khalavāgviśikhaistīkṣṇairbhidyante na manāgyataḥ // Subhv_0212
+
+āḥ kimarthamidaṃ cetaḥ satāmambhodhidurbharam /
+iti krudheva durvedhāḥ paraduḥkhairapūrayat // Subhv_0213
+
+kāco maṇirmaṇiḥ kāco yeṣāṃ tenye hi dehinaḥ /
+santi te sudhiyo yeṣāṃ kācaḥ kāco maṇirmaṇiḥ // Subhv_0214
+
+doṣānapi guṇīkartuṃ doṣīkartuṃ guṇānapi /
+śakto vādī na tattathyaṃ doṣā guṇā guṇāḥ // Subhv_0215
+
+guṇarāśimahābhāranirbharāpūritāntarāḥ /
+santo gauravamāyānti yadi tatra kimadbhutam // Subhv_0216
+
+svātmanyeva layaṃ yātu tādṛśo guṇināṃ guṇaḥ /
+svayaṃ prakhyāpyamānopi yastṛṇāya na manyate // Subhv_0217
+
+guṇavajjanasaṃparkādyāti svalpopi gauravam /
+puṣpamālānuṣaṅgeṇa tṛṇaṃ śirasi dhāryate // Subhv_0218
+
+suvṛttasyaikarūpasya paraprītyai dhṛtonnateḥ /
+sādhoḥ stanayugasyeva patanaṃ kasya tuṣṭaye // Subhv_0219
+
+udeti savitā rakto rakta evāstameti ca /
+saṃpatau ca vipatau ca mahatāmekarūpatā // Subhv_0220
+
+pātena kanduka ivotpatatyāryaḥ patannapi /
+tathā tvanāryaḥ patati mṛtpiṇḍapatanaṃ yathā // Subhv_0221
+
+pātitopi karāghātairutpatatyeva kandukaḥ /
+prāyeṇa hi suvṛttānāmasthāyinyo vipattayaḥ // Subhv_0222
+
+ghyutopyudgacchati punaḥ prajñāvānna tu mūḍhadhīḥ /
+kandukaḥ patanotthāyī na tu kāntākucadvayī // Subhv_0223
+
+apekṣante na ca snehaṃ na pātraṃ na daśāntaram /
+sadā lokahite yuktā ratnadīpā ivottamāḥ // Subhv_0224
+
+nirguṇeṣvapi sattveṣu dayāṃ kurvanti sādhavaḥ /
+nahi saṃharate jyotsnāṃ candraścaṇḍālaveśmani // Subhv_0225
+
+nālokaḥ kriyate sūrye bhūḥ pratīpaṃ na dhāryate /
+nahi pratyupakārāṇāmapekṣā satsu vidyate // Subhv_0226
+
+apakurvannapi prāyaḥ prāpnoti mahataḥ śubham /
+dahantamapyaurvamagniṃ saṃtarapayati vāridhiḥ // qsv0227-3 kasyāpi
+satpakṣā ṛjavaḥ śuddhāḥ saphalā guṇasevinaḥ dṛṣṭvāpi dṛśyate dṛśyaṃ śrutvāpi śrūyate punaḥ /
+satyaṃ na sādhuvṛttasya dṛśyate punaruktatā // Subhv_0227
+
+satpakṣā ṛjavaḥ śuddhāḥ saphalā guṇasevinaḥ /
+tulyairapi guṇaiścitraṃ santaḥ santaḥ śarāḥ śarāḥ // Subhv_0229
+
+lābhapraṇayino nīcā mānakāmā manasvinaḥ /
+madguḥ sarasi matsyārthī haṃsasyeṣṭā prasannatā // Subhv_0230
+
+paraduḥkhaṃ samākarṇya svabhāvasaralo janaḥ /
+upakārāsamarthatvātprāpnoti hṛdaye vyathām // Subhv_0231
+
+te vandyāste kṛtinaḥ ślāghyā teṣāṃ hi janmanotpattiḥ /
+yairujjhitātmakāryaiḥ suhṛdāmarthā hi sādhyante // Subhv_0232
+
+aśaṭhamalolamajihmaṃ tyāginamanurāgiṇaṃ viśeṣajñam /
+yadi nāśrayati naraṃ śrīḥ śrīreva hi vañcitā tatra // Subhv_0233
+
+ārogyaṃ vidvattā sajjanamaittrī mahākule janma /
+svādhīnatā ca puṃsāṃ mahadaiśvaryaṃ vināpyarthaiḥ // Subhv_0234
+
+svalpāpi sādhusaṃpadbhogyā mahatāṃ na pṛthvyapi khalaśrīḥ /
+sārasameva payastṛṣamapaharati na vāridherjātu // Subhv_0235
+
+na bhavati bhavati ca na ciraṃ bhavati ciraṃ celphalo visaṃvadati /
+manyuḥ satpuruṣāṇāṃ tulyaḥ snehena nīcānām // Subhv_0236
+
+doṣo guṇāya guṇināṃ mahadapi doṣāya doṣiṇāṃ sukṛtam /
+tṛṇamiva dugdhāya gavāṃ dugdhamiva viṣāya sarpāṇām // Subhv_0237
+
+viṣamagatā api na budhāḥ paribhavamiśrāṃ śriyaṃ hi vāñchanti /
+na pibanti bhaumamambhaḥ sarajasamiti cātakā ete // Subhv_0238
+
+yogyatayaiva vināśaṃ prāyonāryeṣu yānti guṇavantaḥ /
+sphuṭavacanā eva śukāḥ pañjarabandhaṃ niṣevante // Subhv_0239
+
+sakṛdapi dṛṣṭvā puruṣaṃ prājñāstulayanti sāraphalgutvam /
+hastatulayāpi nipuṇāḥ palaparimāṇaṃ vijānanti // Subhv_0240
+
+sujano na yāti vairaṃ parahitanirato vināśakālepi /
+chedepi candanataruḥ surabhayati mukhaṃ kuṭhārasya // Subhv_0241
+
+nirguṇamapyanuraktaṃ prāyo na samāśritaṃ jahati santaḥ /
+sahavṛddhikṣayabhājaṃ vahati śaśāṅkaḥ kalaṅkamapi // Subhv_0242
+
+antyāvasthopi budhaḥ svaguṇaṃ na jahāti jātiśuddhatayā /
+na śvetabhāvamujjhati śaṅkhaḥ śikhibhuktamuktopi // Subhv_0243
+
+doṣamapi guṇavati jane dṛṣṭvā guṇarāgiṇo na khidyante /
+prītyaiva śaśini patitaṃ paśyati lokaḥ kalaṅkamapi // Subhv_0244
+
+sāptapadīnaṃ sakhyaṃ bhavetprakṛtyā viśuddhacittānām /
+kimutānyonyaguṇakathāvisrambhanibaddhabhāvānām // Subhv_0245
+
+spṛhaṇīyāḥ kasya na te sumateḥ saralāśayā mahātmānaḥ /
+trayamapi yeṣāṃ sadṛśaṃ hṛdayaṃ vacanaṃ tathācāraḥ // Subhv_0246
+
+guṇinaḥ samīpavartī pūjyo lokasya guṇavihīnopi /
+vimalekṣaṇaprasaṅkādañjanamāpnoti kāṇākṣi // Subhv_0247
+
+sahasiddhamidaṃ mahatāṃ dhaneṣvanāsthā guṇeṣu kṛpaṇatvam /
+paraduḥkhe kātaratā mahacca dhairyaṃ svaduḥkheṣu // Subhv_0248
+
+atikupitā api sujanā yogena mṛdūbhavanti na tu nīcāḥ /
+hemnaḥ kaṭhinasyāpi dravaṇopāyosti na tṛṇānām // Subhv_0249
+
+upakṛtisāhasikatayā kṣatimapi gaṇayanti no guṇinaḥ /
+janayanti hi prakāśaṃ dīpaśikhāḥ svāṅgadāhena // Subhv_0250
+
+raktatvaṃ kamalānāṃ satpuruṣāṇāṃ paropakāritvam /
+asatāṃ ca nirdayatvaṃ svabhāvasiddhaṃ triṣu tritayam // Subhv_0251
+
+upakartumaprakāśaṃ kṣantuṃ nyūneṣvayācitaṃ dātum /
+abhisaṃdhātuṃ ca guṇaiḥ śateṣu kecidvijānanti // Subhv_0252
+
+guṇini guṇajño ramate nāguṇaśīlasya guṇini paritoṣaḥ /
+alireti vanātkamalaṃ na dardurastānnivāsopi // Subhv_0253
+
+ādau tu mandamandāni madhye samarasāni ca /
+ante snehāyamānāni saṃgatāni budhaiḥ saha // Subhv_0254
+
+iyamunnatasattvaśālināṃ
+mahatāṃ kāpi kaṭhoracittatā /
+upakṛtya bhavanti dūrataḥ
+parataḥ pratyupakāraśaṅkayā // Subhv_0255
+
+upakāriṇi vītamatsare vā
+sadayatvaṃ yadi tatra kotirekaḥ /
+ahite sahasāparāddhalabdhe
+saghṛṇaṃ yasya manaḥ satāṃ sa dhuryaḥ // Subhv_0256
+
+ādimadhyanidhaneṣu sauhṛdaṃ
+sajjane bhavati netare jane /
+chedatāḍananigharṣatāpanair-
+nānyabhāvamupayāti kāñcanam // Subhv_0257
+
+dīpāḥ sthitaṃ vastu vibhāvayanti
+kulapradīpāstu bhavanti kecit /
+ciravyatītānapi pūrvajānye
+prakāśayanti svaguṇaprakarṣāt // Subhv_0258
+
+tuṅgātmanāḥ tuṅgatarāḥ samarthā
+manorujaṃ dhvaṃsayituṃ na nīcāḥ /
+dhārādharā eva dharādharāṇāṃ
+nidāghadāvaughaharā na nadyaḥ // Subhv_0259
+
+guṇā guṇajñeṣu guṇībhavanti
+te nirguṇaṃ prāpya bhavanti doṣāḥ /
+susvādutoyaprabhavā hi nadyaḥ
+samudramāsādya bhavantyapeyāḥ // Subhv_0260
+
+tṛṇāni nonmūlayati prabhañjano
+mṛdūni nīcaiḥ praṇatāni sarvaśaḥ /
+samucchritāneva tarūnprabādhate
+mahānmahatsveva karoti vikriyām // Subhv_0261
+
+cirāya satsaṃgamaśuddhamānaso
+na yātyasatsaṃgatamātmavānnaraḥ /
+manoharendīvarakhaṇḍagocaro
+na jātu bhṛṅgaḥ kuṇape nilīyate // Subhv_0262
+
+api vibhavavihīnaḥ pracyuto vā svadeśān-
+nahi khalajanasevāṃ prārthayatyunnatātmā /
+tanu tṛṇamupabhuṅkte na kṣudhārtopi siṃhaḥ
+pibati rudhiramuṣṇaṃ prāyaśaḥ kuñjarāṇām // Subhv_0263
+
+vitte tyāgaḥ kṣamā śaktau duḥkhe dainyavihīnatā /
+nirdambhatā sadācāre svabhāvoyaṃ mahātmanām // Subhv_0264
+
+sukhalavadaśāharṣaklaivye khalaḥ khalu khelate
+skhalati bhajate leśakleśe viṣādaviṣūcikām /
+bhavati na satāṃ darpoddāmā na dainyamayī matir-
+durabhibhavatā gambhīrāṇāṃ sukheṣvasukheṣu ca // Subhv_0265
+
+svāmye peśalatā guṇe praṇayitā harṣe nirutsekatā
+mantre saṃvṛtatā śrute sumatitā vittodaye tyāgitā /
+sādhau sādaratā khale vimukhatā pāpe paraṃ bhīrutā
+duḥkhe kleśasahiṣṇutā ca mahatāṃ kalyāṇamākāṅkṣati // Subhv_0266
+
+vipadi dhairyamathābhyudaye kṣamā
+sadasi vākpaṭutā yudhi vikramaḥ /
+yaśasi cābhiratirvyasanaṃ śrute
+prakṛtisiddhamidaṃ hi mahātmanām // Subhv_0267
+
+idaṃ hi māhātmyaviśeṣasūcakaṃ
+vadanti cihnaṃ mahatāṃ manīṣiṇaḥ /
+mano yadeṣāṃ sukhaduḥkhasaṃbhave
+prayāti no harṣaviṣādavaśyatām // Subhv_0268
+
+subhāṣitaiḥ prītiranunnatiḥ śriyā
+parārthaniṣpattipaṭīyasī kriyā /
+guṇeṣvatṛptirguṇavatsu cādaro
+nigūḍhametaccaritaṃ mahātmanām // Subhv_0269
+
+satyaṃ guṇā guṇavatāṃ vidhivaiparītyād-
+yatnārjitā api kalau viphalā bhavanti /
+sāphalyamasti sutarāmidameva teṣāṃ
+yattāpayanti hṛdayāni punaḥ khalānām // Subhv_0270
+
+yadvañcanāhitamatirbahu cāṭugarbhaṃ
+kāryonmukhaḥ khalajanaḥ kṛtakaṃ bravīti /
+tatsādhavo na na vidanti vidanti kiṃ tu
+kartuṃ vṛthā praṇayamasya na pārayanti // Subhv_0271
+
+pāpaṃ samācarati vītaghṛṇo jaghanyaḥ
+prāpyāpadaṃ saghṛṇa eva tu madhyabuddhiḥ /
+prāṇātyayepi na tu sādhujanaḥ suvṛttaṃ
+velāṃ samudra iva laṅghayituṃ samarthaḥ // Subhv_0272
+
+śuddhiḥ sa eva kulajaśca sa eva dhīraḥ
+ślāghyo vipatsvapi na muñcati yaḥ svabhāvam /
+taptaṃ yathā dinakarasya marīcijālair-
+dehaṃ tyajedapi himaṃ na tu śītalatvam // Subhv_0273
+
+yāñcāpadaṃ maraṇaduḥkhamivānubhāvya
+dattena kiṃ khalu bhavatyatibhūyasāpi /
+kalpadrumānparihasanta iveha santaḥ
+saṃkalpitairatidadatyakadarthitaṃ yat // Subhv_0274
+
+te sādhavo bhuvanamaṇḍalamaulibhūtā
+ye sādhutāṃ nirupakāriṣu darśayanti /
+ātmaprayojanavaśīkṛtakhinnadehaḥ
+pūrvopakāriṣu khalopi hi sānukampaḥ // Subhv_0275
+
+nāntarvicintayati kiṃcidapi pratīpam-
+akopitopi sujanaḥ piśunena pāpam /
+arkadviṣopi hi mukhe patitāgrabhāgās-
+tārāpateramṛtameva karāḥ kiranti // Subhv_0276
+
+ākopitopi kulajo na vadatyavācyaṃ
+niṣpīḍito madhurameva vametkilekṣuḥ /
+nīco jano guṇaśatairapi sevyamāno
+hāseṣu tadvadati yatkalaheṣu vācyam // Subhv_0277
+
+nidantu nītinipuṇā athavā stuvantu
+lakṣmīḥ parāpatatu gacchatu vā yatheccham /
+adyaiva vā maraṇamastu yugāntare vā
+nyāyyātpathaḥ pracalayanti padaṃ na dhīrāḥ // Subhv_0278
+
+hetoḥ kutopyasadṛśāḥ sujanā garīyaḥ
+kāryaṃ nisargaguravaḥ sphuṭamārabhante /
+utthāya kiṃ kalaśatopi na sindhunātham-
+udvīcimālamapibadbhagavānagastyaḥ // Subhv_0279
+
+priyā nyāyyā vṛttirmalinamasubhaṅgepyasukaraṃ
+hyasanto nābhyarthyāḥ suhṛdapi na yācyokṛśadhanaḥ /
+vipadyuccaiḥ stheyaṃ padamanuvidheyaṃ ca mahatāṃ
+satāṃ kenoddiṣṭaṃ viṣamamasidhārāvratamidam // Subhv_0280
+
+pradānaṃ succhannaṃ gṛhamupagate saṃbhramavidhir-
+anutseko lakṣmyāpyanabhibhavanīyāḥ parakathāḥ /
+priyaṃ kṛtvā maunaṃ sadasi kathanaṃ cāpyupakṛteḥ
+śrutetyantāsaktiḥ puruṣamabhijātaṃ kathayati // Subhv_0281
+
+kasyādeśātkṣapayati tamaḥ saptasaptiḥ prajānāṃ
+chāyāhetoḥ pathi viṭapināmañjaliḥ kena baddhaḥ /
+abhyarthyante jalalavamucaḥ kena vā vṛṣṭihetor-
+jātyaivaite parahitavidhau sādhavo baddhakakṣyā // Subhv_0282
+
+svaphalanicayaḥ śākhābhaṅgaṃ karoti vanaspater-
+gamanamalasaṃ barhāṭopi karoti śikhaṇḍinaḥ /
+caturagamano yo jātyāśvaḥ sa gauriva vāhyate
+guṇavati jane prāyeṇaite guṇāḥ khalu vairiṇaḥ // Subhv_0283
+
+khyātiṃ yatra guṇā na yānti guṇinastatrādaraḥ syātkutaḥ
+kiṃ kuryādbahuśikṣitopi puruṣaḥ pāṣāṇabhūte jane /
+premārūḍhavilāsinīmadavaśavyāvṛttakaṇṭhasvanaḥ
+sītkāro hi manoharopi badhire kiṃ nāma kuryādguṇam // Subhv_0284
+
+kṣudrāḥ santi sahasraśaḥ svabharaṇavyāpāramātronmukhāḥ
+svārtho yasya parārtha eva sa pumānekaḥ satāmagraṇīḥ /
+duṣpūrodarapūraṇāya pibati srotaḥpatiṃ vāḍavo
+jīmūtastu nidāghatāpitajagatsaṃtāpavicchittaye // Subhv_0285
+
+namratvenonnamantaḥ paraguṇanutibhiḥ svānguṇānkhyāpayantaḥ
+puṣṇantaḥ svīyamarthaṃ satatakṛtamahārambhayatnāḥ parārthe /
+kṣāntyaivākṣeparūkṣākṣaramukharamukhādurmukhānduḥkhayantaḥ
+santaḥ sāścaryacaryā jagati bahumatāḥ kasya nābhyarthanīyāḥ // Subhv_0286
+
+sajjanā eva sādhūnāṃ prathayanti guṇotkaram /
+puṣpāṇāṃ saurabhaṃ prāyastanvate dikṣu mārutāḥ // Subhv_0287
+
+sādhureva pravīṇaḥ syātsadguṇāmṛtacarvaṇe /
+navacūtāṅkurāsvādakuśalaḥ kokilaḥ kila // Subhv_0288
+
+prāyaḥ santyupadeśārhā dhīmanto na jaḍāśayāḥ /
+tilāḥ kusumasaugandhyagrāhiṇo na yavāḥ kvacit // Subhv_0289
+
+manasvihṛdayaṃ dhatte raukṣyeṇaiva prasannatām /
+bhasmanā makuraḥ prāyaḥ prasādaṃ labhatetarām // Subhv_0290
+
+uttamaḥ kleśavikṣobhaṃ kṣamaḥ soḍhuṃ nahītaraḥ /
+maṇireva mahāśāṇagharṣaṇaṃ na tu mṛtkaṇaḥ // Subhv_0291
+
+jaḍe prabhavati prāyo duḥkhaṃ bibhrati sādhavaḥ /
+sitāṃśāvudite padmāḥ saṃkocātaṅkadhāriṇaḥ // Subhv_0292
+
+guṇānāmantaraṃ prāyastajjño jānāti netaraḥ /
+mālatīmallikāmodaṃ ghrāṇaṃ vetti na locanam // Subhv_0293
+
+svabhāvaṃ naiva muñcanti santaḥ saṃsargatosatām /
+na tyajanti rutaṃ mañju kākasaṃparkataḥ pikāḥ // Subhv_0294
+
+saṃpattau komalaṃ cittaṃ sādhorāpadi karkaśam /
+sukumāraṃ madhau pattraṃ taroḥ syātkaṭhinaṃ śucau // Subhv_0295
+
+svabhāvaṃ na jahātyantaḥ sādhurāpadgatopi san /
+karpūraḥ pāvakapluṣṭaḥ saurabhaṃ bhajatetarām // Subhv_0296
+
+apyāpatsamayaḥ sādhoḥ prayāti ślāghanīyatām /
+vidhorvidhuṃtudāskandavipatkālopi sundaraḥ // Subhv_0297
+
+dṛṣṭadurjanadaurātmyaḥ sajjane rajyate janaḥ /
+āruhya parvataṃ pānthaḥ nirvṛtimetyalam // Subhv_0298
+
+kṣaṇakṣayiṇi sāpāye bhoge rajyanti nottamāḥ /
+saṃtyajyāmbhojakiṃjalkaṃ haṃsāḥ prāśnanti śaivalam // Subhv_0299
+
+adhamaṃ bādhate bhūyo duḥkhāvego na tūttamam /
+pāṇipādaṃ rujatyāśu śītasparśo na cakṣuṣī // Subhv_0300
+
+guṇavānsucirasthāyī daivenāpi na sahyate /
+tiṣṭhatyekāṃ niśāṃ candraḥ śrīmānsaṃpūrṇamaṇḍalaḥ // Subhv_0301
+
+sarvatra guṇavāndeśe cakāsti prathatetarām /
+maṇirmūrdhni gale bāhau pādapīṭhepi śobhate // Subhv_0302
+
+uttamaṃ suciraṃ naiva vipadobhibhavantyalam /
+rāhugrasanasaṃbhūtā kṣaṇaṃ vicchāyatā vidhoḥ // Subhv_0303
+
+saṃtuṣyatyuttamaḥ stutyā dhanena mahatādhamaḥ /
+prasīdanti japairdevā balibhirbhūtavigrahāḥ // Subhv_0304
+
+na kadācitsatāṃ cetaḥ prasaratyaghakarmasu /
+jaleṣu drutamapyantaḥ sarpirāśyānatāṃ vrajet // Subhv_0305
+
+narāḥ saṃskārārhā jagati kila kecitsukṛtinaḥ
+samānāyāṃ jātāvapi vayasi satyāmapi dhiyi /
+ayaṃ dṛṣṭāntotra sphuṭaparicayādabhyasanataḥ
+śukaḥ ślokānvaktuṃ prabhavati na kākaḥ kvacidapi // Subhv_0306
+
+dhanamapi paradattaṃ duḥkamaucityabhājāṃ
+bhavati hṛdi tadevānandakārītareṣām /
+malayajarasabindurbādhate netramantar-
+janayati ca sa evāhlādamanyatra gātre // Subhv_0307
+
+sadvaṃśajasya paritāpanudaḥ suvṛtta-
+śuddhātmanaḥ sakalalokavibhūṣaṇasya /
+chidraṃ prajātamapi sādhujanasya daivān-
+muktāmaṇeriva guṇāya bhavatyavaśyam // Subhv_0308
+
+gehaṃ durgatabandhurbhirgurugṛhaṃ chātrairahaṃkāribhir-
+haṭṭaṃ pattanavañcakairmunijanaiḥ śāponmukhairāśramān /
+siṃhādyaiśca vanaṃ khalairnṛpasabhāṃ cauraurdigantānapi
+saṃkīrṇānyavalokya satyasaralaḥ sādhuḥ kva viśrāmyati // Subhv_0309
+
+sābhimānamasaṃbhāvyamaucityacyutamapriyam /
+duḥkhāvamānadīnaṃ vā na vadanti guṇonnatāḥ // Subhv_0310
+
+bhavati subhagatvamadhikaṃ vistāritaparaguṇasya sujanasya /
+vahati vikāsitakumudo dviguṇaruciṃ himakaroddyotaḥ // Subhv_0311
+
+guṇināmapi nijarūpapratipattiḥ parata eva saṃbhavati /
+svamahimadarśanamakṣṇormakuratale jāyate yasmāt // Subhv_0312
+
+kotibhāraḥ samarthānāṃ kiṃ dūraṃ vyavasāyinām /
+ko videśaḥ savidyānāṃ kaḥ paraḥ priyavādinām // Subhv_0313
+
+aśvaḥ śastraṃ śāstraṃ vīṇā vāṇī naraśca nārī ca /
+puruṣaviśeṣaṃ prāptā bhavanti yogyā ayogyāśca // Subhv_0314
+
+utsāhasaṃpannamadīrghasūtraṃ
+kriyāvidhijñaṃ vyasaneṣvasaktam /
+śūraṃ kṛtajñaṃ dṛḍhasauhṛdaṃ ca
+lakṣmīḥ svayaṃ vāñchati vāsahetoḥ // Subhv_0315
+
+kadarthitasyāpi mahāśayasya
+na śakyate sargaguṇaḥ pramārṣṭum /
+adhomukhasyāpi kṛtasya vahner-
+nādhaḥ śikhā yānti kadācideva // Subhv_0316
+
+nyāyaḥ khalaiḥ parihṛtaścalitaśca dharmaḥ
+kālaḥ kaliḥ kaluṣa eva paraṃ pravṛttaḥ /
+prāyeṇa durjanajanaḥ prabhāviṣṇureva
+niścakrikaḥ paribhavāspadameva sādhuḥ // Subhv_0317
+
+vrate vivādaṃ vimatiṃ viveke
+satyetiśaṅkāṃ vinaye vikāram /
+guṇevamānaṃ kuśale niṣedhaṃ
+dharme virodhaṃ na karoti sādhuḥ // Subhv_0318
+
+vandyaḥ sa puṃsaṃ tridaśābhinandyaḥ
+kāruṇyapuṇyopacayakriyābhiḥ /
+saṃsārasāratvamupaitai yasya
+paropakārābharaṇaṃ śarīram // Subhv_0319
+
+abhedenopāste kumudamudare vā sthitavato
+vipakṣādambhojādupagatavato vā madhulihaḥ /
+aparyāptaḥ kopi svaparaparicaryāparicaya-
+prabandhaḥ sādhūnāmayamanabhisaṃdhānamadhuraḥ // Subhv_0320
+
+yairvātūlo bhavati purataḥ kathyamānairjanānāṃ
+kāmapyantarvidadhati rujaṃ yepyanudgīryamāṇāḥ /
+tebhiprāyāḥ kimapi hṛdaye kaṇṭhalagnaḥ sphuranto
+yasyākhyeyāstamiha suhṛdaṃ puṇyavanto labhante // Subhv_0321
+
+udanvacchinnā bhūḥ sa ca nidhirapāṃ yojanaśataṃ
+sadā pānthaḥ pūṣā gaganaparimāṇaṃ kathayati /
+iti prāyo bhāvāḥ sphuradavadhimudrāmukulitāḥ
+satāṃ prajñonmeṣaḥ punarayamasīmā vijayate // Subhv_0322
+
+sāgasepi na kupyanti kṛpayā copakurvate /
+bodhaṃ svasyaiva necchanti te viśvoddharaṇakṣamāḥ // Subhv_0323
+
+pātraṃ pavitrayati naiva guṇānkṣiṇoti
+snehaṃ na saṃharati nāpi malaṃ prasūte /
+doṣāvasānaruciraścalatāṃ na dhatte
+satsaṃgamaḥ sukṛtasadmani kopi dīpaḥ // Subhv_0324
+
+aṇurapi maṇiḥ prāṇatrāṇakṣamo viṣabhakṣiṇāṃ
+śiśurapi ruṣā siṃhīsūnaḥ samāhvayate gajān /
+tanurapi taruskandhodbhūto dahatyanalo vanaṃ
+prakṛtimahatāṃ jātyaṃ tejo na mūrtimapekṣate // Subhv_0325
+
+namaḥ khalebhyaḥ ka ivāthavā na tā-
+nalaṃ namasyediha yo jijīviṣuḥ /
+vinaiva ye doṣamṛṣiprakāṇḍavan-
+nayanti śāpena rasātalaṃ narān // Subhv_0326
+
+viṣadharatopyativiṣamaḥ khala iti na mṛṣā vadanti vidvāṃsaḥ /
+yadayaṃ nakuladveṣī sakuladveṣī sadā piśunaḥ // Subhv_0327
+
+atimaline kartavye bhavati khalānāmatīva nipuṇā dhīḥ /
+timire hi kauśikānāṃ rūpaṃ pratipadyate dṛṣṭiḥ // Subhv_0328
+
+vidhvastaparaguṇānāṃ bhavati khalānāmatīva malinatvam /
+antaritaśaśirucāmapi salilamucāṃ malinimābhyadhikaḥ // Subhv_0329
+
+hasta iva bhūtimalino laṅghayati yathā yathā khalaḥ sūjanam /
+darpaṇamiva taṃ kurute tathā tathā nirmalacchāyam // Subhv_0330
+
+jīvanagrahaṇe namrā gṛhītvā punarutthitāḥ /
+kiṃ kaniṣṭhā uta jyeṣṭhā ghaṭīyantrasya durjanāḥ // Subhv_0331
+
+sadā khaṇḍanayogyāya tuṣapūrṇāśayāya ca /
+namostu bahubījāya khalāyolūkhalāya ca // Subhv_0332
+
+jihvādūṣitasatpātraḥ piṇḍārthī kalahotkaṭaḥ /
+tulyatāmaśucirnityaṃ bibharti piśunaḥ śunaḥ // Subhv_0333
+
+aho bata khalaḥ puṇyairmūrkhopyaśrutapaṇḍitaḥ /
+svaguṇodīraṇe śeṣaḥ paranindāsu vākpatiḥ // Subhv_0334
+
+khalaḥ sujanapaiśunye sarvatokṣi śiromukhaḥ /
+sarvataḥ śrutimāṃlloke sarvamāvṛtya tiṣṭhati // Subhv_0335
+
+satsādhuvāde mūrkhasya mātsaryagalarogiṇaḥ /
+jihvā kaṅkamukhenāpi kṛṣṭā naiva pravartate // Subhv_0336
+
+māyāmayaḥ prakṛtyaiva rāgadveṣamadākulaḥ /
+mahatāmapi mohāya saṃsāra iva durjanaḥ // Subhv_0337
+
+khacitramapi māyāvī racayatyeva līlayā /
+laghuśca mahatāṃ madhye tasmātkhala iti smṛtaḥ // Subhv_0338
+
+khalena dhanamattena nīcena prabhaviṣṇunā /
+piśunena padasthena hā praje kva gamiṣyasi // Subhv_0339
+
+kṛtaśatamasatsu naṣṭaṃ subhāṣitaśataṃ ca naṣṭamabudheṣu /
+vacanaśatamavacanakare buddhiśatamacetane naṣṭam // Subhv_0340
+
+naṣṭamapātre dānaṃ naṣṭaṃ hitamaphalabuddhyavajñāne /
+naṣṭo guṇoguṇajñe naṣṭaṃ dākṣiṇyamakṛtajñe // Subhv_0341
+
+dūrāducchritapāṇirārdranayanaḥ protsāritārdhāsano
+gāḍhāliṅganatatparaḥ priyakathāpraśneṣu saktottaraḥ /
+antargūḍhaviṣo bahirmadhumayaścātīva māyāmayaḥ
+ko nāmāyamapūrvanāṭakavidhiryaḥ śikṣito durjanaiḥ // Subhv_0342
+
+ye śramaṃ hartumīhante mahatāṃ cirasaṃbhṛtam /
+vandyāstesaralātmāno durjanāḥ sajjanā iva // Subhv_0343
+
+aho kuṭilabuddhīnāṃ durgrāhamasatāṃ manaḥ /
+anyadvacasi kaṇṭhenyadanyadoṣṭhapuṭe sthitam // Subhv_0344
+
+khaleṣu satsu niryātā vayamarjayituṃ guṇān /
+iyaṃ sā taskaragrāme ratnakrayaviḍambanā // Subhv_0345
+
+vardhete spardhayevobhau saṃpadā śataśākhayā /
+aṅkurovaskarodbhūtaḥ puruṣaścākulodbhavaḥ // Subhv_0346
+
+dahyamānāḥ sutīkṣṇena nīcāḥ parayaśogninā /
+aśaktāstatpadaṃ gantuṃ tato nindāṃ pracakrire // Subhv_0347
+
+yatsmṛtvaiva parāṃ yānti santaḥ saṃtāpasaṃtatim /
+tadasanto hasantopi helayaiva hi kurvate // Subhv_0348
+
+guṇadoṣāvaśāstrajñaḥ kathaṃ vibhajate janaḥ /
+kimandhasyādhikārosti rūpabhedopalabdhiṣu // Subhv_0349
+
+prāyaḥ prakāśatāṃ yāti malinaḥ sādhubādhayā /
+nāgrasiṣyata cedarkaṃ kojñāsyatsiṃhikāsutam // Subhv_0350
+
+prāyaḥ paropatāpāya durjanaḥ satatodyataḥ /
+avaśyakaraṇīyatvānna kāraṇamapekṣate // Subhv_0351
+
+stokenonnatimāyāti stokenāyātyadhogatim /
+aho susadṛśī vṛttistulākoṭeḥ khalasya ca // Subhv_0352
+
+aho prakṛtisādṛśyaṃ śleṣmaṇo durjanasya ca /
+madhuraiḥ kopamāyāti kaṭukairupaśāmyati // Subhv_0353
+
+yathā gajapatiḥ śrāntaśchāyārthī vṛkṣamāśritaḥ /
+viśramya taṃ drumaṃ hanti tathā nīcaḥ svamāśrayam // Subhv_0354
+
+durjanaḥ parihartavyo vidyayālaṃkṛtopi san /
+maṇinā bhūṣitaḥ sarpo bhavetkiṃ na bhayaṃkaraḥ // Subhv_0355
+
+cārutā paradārārthaṃ dhanaṃ lokopataptaye /
+prabhūtvaṃ sādhunāśāya khale khalatarā guṇāḥ // Subhv_0356
+
+paropaghātavijñānamātralābhopajīvinām /
+dāśānāmiva dhūrtānāṃ jālāya guṇasaṃgrahaḥ // Subhv_0357
+
+durjanenocyamānāni vacāṃsi madhurāṇyapi /
+akālakusumānīva trāsaṃ saṃjanayanti me // Subhv_0358
+
+na lajjate sajjanavarjanīyayā
+bhujaṃgavakrakriyayāpi durjanaḥ /
+dhiyaṃ kumāyāsamayābhicāriṇīṃ
+vidagdhatāmeva hi manyate khalaḥ // Subhv_0359
+
+vṛtiṃ svāṃ bahu manyate hṛdi śucaṃ dhattenukampoktibhir-
+vyaktaṃ nindati yogyatāṃ mitamatiḥ kurvanstutīrātmanaḥ /
+garhyopāyaniṣevaṇaṃ kathayati sthāsnuṃ vadanvyāpadaṃ
+śrutvā duḥkhamaruṃtudāṃ vitanute pīḍāṃ janaḥ prākṛtaḥ // Subhv_0360
+
+pākaścenna śubhasya medya tadasau prāgeva nādātkimu
+svārthaścenna mayāsya kiṃ na bhajate dīnānsvabandhūnayam /
+matto randhrudṛśosya bhīryadi na tallubdhaḥ kimeṣa tyajed-
+ityantaḥ puruṣodhaṃaḥ kalayati prāyaḥ kṛtopakriyaḥ // Subhv_0361
+
+sāścaryaṃ yudhi śauryamapratihataṃ tatkaṇḍitākhaṇḍalaṃ
+pāñcottānakaraḥ kṛta sabhagavāndānena lakṣmīpatiḥ /
+aiśvaryaṃ svakarāptasaptabhuvanaṃ labdhābdhipāraṃ yaśaḥ
+sarvaṃ durjanasaṃgamena sahasā spaṣṭaṃ vinaṣṭaṃ baleḥ // Subhv_0362
+
+śamayati yaśaḥ kleśaṃ sūte diśatyaśivāṃ gatiṃ
+janayati janodvegāyāsaṃ nayatyupahāsyatām /
+bhramayati matiṃ mānaṃ hanti kṣiṇoti ca jīvitaṃ
+kṣipati sakalaṃ kalyāṇānāṃ kulaṃ khalasaṃgamaḥ // Subhv_0363
+
+avinayabhuvāmajñānānāṃ śamāya bhavannapi
+prakṛtikuṭilādvidyābhyāsaḥ khalatvavivṛddhaye /
+phaṇibhayabhṛtāmastu cchedakṣamastamasāmasau
+viṣadharaphaṇāratnāloko bhayaṃ tu bhṛśāyate // Subhv_0364
+
+karoti pūjyamānopi lokavyasanadīkṣitaḥ /
+darśane darśane trāsaṃ gṛhāhiriva durjanaḥ // Subhv_0365
+
+satyadharmacyutātpuṃsaḥ kruddhādāśīviṣādiva /
+nāstikopi hyudvijate janaḥ kiṃ punarāstikaḥ // Subhv_0366
+
+yeṣāṃ prāṇivadhaḥ krīḍā narma marmacchido giraḥ /
+kāryaṃ paropatāpitvaṃ te mṛtyorapi mṛtyavaḥ // Subhv_0367
+
+aho bata mahatkaṣṭaṃ viparītamidaṃ jagat /
+yenāpatrpate sādhurasādhustena tuṣyati // Subhv_0368
+
+na tathecchantyakalyāṇāḥ pareṣāṃ vedituṃ guṇān /
+yathaiṣāṃ jñātumicchanti nairguṇyaṃ pāpacetasaḥ // Subhv_0369
+
+varjanīyo matimatāṃ durjanaḥ sakhyavairayoḥ /
+śvā bhavatyupaghāyāya laḍannapi daśannapi // Subhv_0370
+
+ato hāsyataraṃ loke kiṃcidanyanna vidyate /
+yatra durjana ityāha durjanaḥ sajjanaṃ janam // Subhv_0371
+
+apakāramasaṃprāpya tuṣyetsādhurasādhutaḥ /
+naiṣa lābho bhujaṃgena veṣṭito yanna daśyate // Subhv_0372
+
+labdhaḥ stabdhonṛjurmūrkhaḥ prabhurekāntadāruṇaḥ /
+bahūneṣa khalaḥ sādhūnmārayitvā mariṣyati // Subhv_0373
+
+kā khalena saha spardhā sajjanasyābhimāninaḥ /
+bhāṣaṇaṃ bhīṣaṇaṃ sādhudūṣaṇaṃ yasya bhūṣaṇam // Subhv_0374
+
+mukhenaikena vidhyanti pādamekasya kaṇṭakāḥ /
+dūrānmukhasahasreṇa sarvaprāṇaharāḥ khalāḥ // Subhv_0375
+
+nirmāya khalajihvāgraṃ sarvaprāṇaharaṃ nṛṇām /
+cakāra kiṃ vṛthā śastraviṣavahnīnprajāpatiḥ // Subhv_0376
+
+yathā paropakāreṣu nityaṃ jāgarti sajjanaḥ /
+tathā parāpakāreṣu jāgarti satataṃ khalaḥ // Subhv_0377
+
+bibheti piśunānnīcaḥ prakāśanapaṭīyasaḥ /
+na punarmūḍhahṛdayo nindanīyātsvakarmaṇaḥ // Subhv_0378
+
+vṛthājvalitakopāgneḥ paruṣākṣaravādinaḥ /
+durjanasyauṣadhaṃ nāsti kiṃcidanyadanuttarāt // Subhv_0379
+
+khalānāṃ kaṇṭakānāṃ ca dvidhaivāsti pratikriyā /
+upānanmukhabhaṅgo vā dūrato vāpi varjanam // Subhv_0380
+
+jīvannapi na tatkartuṃ śaknoti sujanastathā /
+durjano yanmṛtaḥ kuryātparebhyohitamuttaram // Subhv_0381
+
+yadyadiṣṭatamaṃ tattaddeyaṃ guṇavate kila /
+ata eva khalo doṣānsādhubhyaḥ saṃprayacchati // Subhv_0382
+
+rogoṇḍajoṅkurognirviṣamaśvataro ghuṇāḥ krimayaḥ /
+prakṛtikṛtaghnaśca naraḥ svāśrayamavināśya naidhante // Subhv_0383
+
+na vinā paravādena ramate durjano janaḥ /
+śvā hi sarvarasānbhuktvā vināmedhyaṃ na tṛpyati // Subhv_0384
+
+varamatyantaviphalaḥ sukhasevyo hi sajjanaḥ /
+na tu prāṇaharastīkṣṇaḥ śaravatsaphalaḥ khalaḥ // Subhv_0385
+
+svabhāvenaiva niśitaḥ kṛtapakṣagrahopi san /
+śaravadguṇanirmuktaḥ khalaḥ kasya na bhedakaḥ // Subhv_0386
+
+durjanaḥ sujanīkartuṃ yatnenāpi na śakyate /
+saṃskāreṇāpi laśunaṃ kaḥ sugandhīkariṣyati // Subhv_0387
+
+nīcaḥ samutthitovaśyamanavāpya parāśrayam /
+chidreṇa ratimāpnoti dṛṣṭāntotra kaṭībhavaḥ // Subhv_0388
+
+paravāde daśavadanaḥ pararandhranirīkṣaṇe sahasrākṣaḥ /
+sadvṛttavṛttiharaṇe bāhusahasrārjuno nīcaḥ // Subhv_0389
+
+durjanadūṣitamanasāṃ puṃsāṃ sujanepi nāsti viśvāsaḥ /
+bālaḥ pāyasadagdhodadhyapi phūtkṛtya bhakṣayati // Subhv_0390
+
+ādau lajjayati kṛtaṃ madhye paribhavati riktamavasāne /
+khalasaṃgatasya kathayata yadi susthitamasti kiṃcidapi // Subhv_0391
+
+paramarmadivyadarśiṣu jātyaivocitanigūḍhavaireṣu /
+kaḥ khalu khaleṣu śaṅkāṃ ślathayiṣyati dambhānirateṣu // Subhv_0392
+
+ajñaḥ sukhamārādhyaḥ sukhataramārādhyate viśeṣajñaḥ /
+jñānalavadurvidagdhaṃ brahmāpi naraṃ na rañjayati // Subhv_0393
+
+asthānābhiniveśī prāyo jaḍe eva bhavati no vidvān /
+bālādanyaḥ kombhasi jighṛkṣatīndoḥ sphurabimbam // Subhv_0394
+
+labdhodayopi hi khalaḥ prathamaṃ svajanaṃ nayati paritāpam /
+udgacchandavadahano janmabhuvaṃ dāru nirdahati // Subhv_0395
+
+alpaśrutalava eva prāyaḥ prakaṭayati vāgvibhavamuccaiḥ /
+sarvatra kunaṭa eva hi nāṭakamadhikaṃ viḍambayati // Subhv_0396
+
+prakhalā eva guṇāvatāmākramya dhuraṃ puraḥ prakarṣanti /
+tṛṇakāṣṭhameva jaladherupariplavate na ratnāni // Subhv_0397
+
+mahatāṃ yadeva mūrdhasu tadeva nīcāstṛṇāya manyante /
+liṅgaṃ praṇamanti budhāḥ kākaḥ punarāsanīkurate // Subhv_0398
+
+saha vasatāmapyasatāṃ jalaruhajalavadbhavatyasaṃśleṣaḥ /
+dūrepi satāṃ vasatāṃ prītiḥ kumudenduvadbhavati // Subhv_0399
+
+pariśuddhāmapi vṛttiṃ samāśrito durjanaḥ parānvyathate /
+pavanāśinopi bhujagāḥ paropatāpaṃ na muñcanti // Subhv_0400
+
+sādhayati yatprayojanamajñastattasya kākatālīyam /
+daivātkathamapyakṣaramutkirati ghuṇopi kāṣṭheṣu // Subhv_0401
+
+prāyaḥ khalaprakṛtayo nāparibhūtā hitāya kalpante /
+puṣpyatyadhikamaśoko gaṇikācaraṇaprahāreṇa // Subhv_0402
+
+paramarmaghaṭṭanādiṣu khalasya yatkauśalaṃ na tatkṛtye /
+yatsāmarthyamupahatau viṣasya tannopakārāya // Subhv_0403
+
+atisatkṛtāapi śaṭhāḥ sahabhuvamujjhanti jātu na prakṛtim /
+śirasā mahāśvareṇāpi nanu dhṛto vakra eva śaśī // Subhv_0404
+
+vāyuriva khalajanoyaṃ prāyaḥ pararūpameti saṃparkāt /
+santastu ravikarā iva sadasadyogepyasaṃśliṣṭāḥ // Subhv_0405
+
+prerayati paramanāryaḥ śakridaridropi jagadabhidrohe /
+tejayati khaṅgadhārāṃ svayamasamarthā śilā chettum // Subhv_0406
+
+dūrepi parasyāgasi paṭurjano nātmanaḥ samīpepi /
+svaṃ vraṇamakṣi na paśyati śaśini kalaṅkaṃ nirūpayati // Subhv_0407
+
+sādhuṣvevātitarāmaruṃtudāḥ svāṃ vivṛṇvate vṛttim /
+vyādhā nighnanti mṛgānmṛtamapi na tu siṃhamādadate // Subhv_0408
+
+avikāriṇamapi sajjanamaniśamanāryaḥ prabādhatetyartham /
+kamalinyā kimiha kṛtaṃ himasya yattāṃ sadā dahati // Subhv_0409
+
+svaguṇāniva paradoṣānvaktuṃ na satopi śakruvanti budhāḥ /
+svaguṇāniva paradoṣānasatopi khalāstu kathayanti // Subhv_0410
+
+kṛtvāpi yena lajjāmupaiti sādhuḥ paroditenāpi /
+tadakṛtvaiva khalajanaḥ svayamudgiratīti dhiglaghutām // Subhv_0411
+
+āptvāpyātmavināśaṃ gaṇayati na khalaḥ paravyasanakaṣṭam /
+prāyaḥ sahasranāśe samaramukhe nṛtyati kabandhaḥ // Subhv_0412
+
+prakṛtikhalatvādasatāṃ doṣa iva guṇopi bādhate lokān /
+viṣakusumānāṃ gandhaḥ surabhirapi manāṃsi mohayati // Subhv_0413
+
+labdhocchrāyo nīcaḥ prathamataraṃ svāminaṃ parābhavati /
+pathi dhūlirajo hyādāvutthāpakameva saṃvṛṇute // Subhv_0414
+
+mṛgamadakarpūrāgurucandanagandhādhivāsito laśunaḥ /
+na tyajati gandhamaśubhaṃ prakṛtimiva sahotthitāṃ nīcaḥ // Subhv_0415
+
+upakṛtamanena suhṛdayamiti durjaneṣvasti na kvacidapekṣā /
+hotrā saha svamāśrayamudvṛttognirdahatyeva // Subhv_0416
+
+upakṛtireva khalānāṃ doṣasya garīyaso bhavati hetuḥ /
+anukūlācaraṇena hi kupyanti vyādhayotyartham // Subhv_0417
+
+na paraṃ phalati hi kiṃcitkhala evānarthamāvahati yāvat /
+mārayati sapadi viṣatarurāśrayamāṇaṃ śramāpanude // Subhv_0418
+
+svārthanirapekṣa eva hi paropaghātosatāṃ vyasanameva /
+aśanāyodanyā vā viramati phaṇino na dandaśataḥ // Subhv_0419
+
+ekībhāvaṃ gatayorjalapayasormittracetasośvaiva /
+vyatirekakṛtau śaktirhaṃsānāṃ durjanānāṃ ca // Subhv_0420
+
+śalyamapi skhaladantaḥ soḍhuṃ śakyate hālahaladigdham /
+dhīrairna punarakāraṇakupitakhalālīkadurvacanam // Subhv_0421
+
+mṛgamīnasajjanānāṃ tṛṇajalasaṃtoṣavihitavṛttīnām /
+lubdhakadhīvarapiśunā niṣkāraṇavairiṇo jagati // Subhv_0422
+
+prārambhatotivipulaṃ bhṛśakṛśamante vibhedakṛnmalinam /
+mahiṣaviṣāṇamivānṛju puruṣaṃ bhayadaṃ khalaprema // Subhv_0423
+
+pātramapātrīkurute dahati guṇānsnehamāśu nāśayati /
+amale malaṃ prayacchati dīpajvāleva khalamaittrī // Subhv_0424
+
+samarpitāḥ kasya na tena doṣā
+haṭhādguṇā vā na hṛtāḥ khalena /
+tathāpi doṣairna viyujyatesau
+spṛṣṭopi naikena guṇena citram // Subhv_0425
+
+ārādhyamāno bahubhiḥ prakārair-
+nārādhyate nāma kimatra citram /
+ayaṃ tvapūrvaḥ pratibhāviśeṣo
+yatsevyamāno riputāmupaiti // Subhv_0426
+
+vidvānupālambhamavāpya doṣān-
+nivartatesau paritapyate ca /
+jñātastu doṣo mama sarvatheti
+pāpo janaḥ pāpataraṃ karoti // Subhv_0427
+
+evameva nahi jīvyate khalāt-
+tatra kā nṛpativallabhe kathā /
+pūrvameva hi suduḥsaho nalaḥ
+kiṃ punaḥ prabalavāyuneritaḥ // Subhv_0428
+
+amarairamṛtaṃ na pītamabdher-
+na ca hālāhalamulvaṇaṃ hareṇa /
+vidhinā nihitaṃ khalasya vāci
+dvayametadbahirekamantaranyat // Subhv_0429
+
+nimittamuddiśya hi yaḥ prakupyati
+dhruvaṃ sa tasyāpagase prasīdati /
+akāraṇadveṣi mano hi yasya vai
+kathaṃ parastaṃ paritoṣayiṣyati // Subhv_0430
+
+itaradeva bahirmukhamucyate
+hṛdi tu yatsphuratītaradeva tat /
+caritametadadhīravitārakaṃ
+dhuri payaḥpratibimbamivāsatām // Subhv_0431
+
+kva piśunasya gatiḥ pratihanyate
+daśati dṛṣṭamapi śrutamapyasau /
+atisuduṣkaramavyatiriktadṛk-
+chrutibhirapyatha dṛṣṭiviṣairidam // Subhv_0432
+
+gajaturagaśataiḥ prayāntu mūrkhā
+dhanarahitā vibudhāḥ prayāntu padbhyām /
+giriśikhiragatāpi kākapālī
+pulinagatairna sameti rājahaṃsaiḥ // Subhv_0433
+
+hrepayati priyavacanairādaramupadarśayankhalīkurute /
+utkarṣayaṃśca laghayati mūrkhasuhṛtsarvathā varjyaḥ // Subhv_0434
+
+prakaṭamapi na saṃvṛṇoti doṣaṃ
+guṇalavalampaṭa eṣa sādhuvargaḥ /
+atiparuṣaruṣaṃ vināpi doṣaiḥ
+piśunaśunāṃ ruṣatāṃ prayāti kālaḥ // Subhv_0435
+
+yadā vigṛhṇāti tadā hataṃ yaśaḥ
+karoti maittrīmatha dūṣitā guṇāḥ /
+sthitiṃ samīkṣyobhayathā parīkṣakaḥ
+karotyavajñopahataṃ pṛthagjanam // Subhv_0436
+
+iṣṭo vā sukṛtaśatopalālito vā
+śliṣṭo vā vyasanaśatābhirakṣito vā /
+dauḥśīlyājjanayati naiva jātvasādhur-
+visrambhaṃ bhujaga ivāṅkamadhyasuptaḥ // Subhv_0437
+
+rūkṣaṃ virauti parikupyati nirnimittaṃ
+sparśena dūṣayati vārayati praveśam /
+lajjākaraṃ daśati naiva ca tṛpyatīti
+kauleyakasya ca khalasya ca ko viśeṣaḥ // Subhv_0438
+
+pādāhatotha dṛḍhadaṇḍavighaṭṭito vā
+yaṃ daṃṣṭrayā daśati taṃ kila hanti sarpaḥ /
+kopyanya eva piśunodya bhujaṃgadharmā
+karṇe paraṃ spṛśati hantyaparaṃ samūlam // Subhv_0439
+
+yuktaṃ yayā kila nirantaralabdhavṛtter-
+asyābhimānatamasaḥ prasaraṃ niroddhum /
+vidvattayā jagati tāmavalambya kecit-
+tanvantyahaṃkṛtimaho śataśākhamāndhyam // Subhv_0440
+
+nanvāśrayasthitiriyaṃ tava kālakūṭa
+kenottarottaraviśiṣṭapadopadiṣṭā /
+prāgarṇavasya hṛdaye vṛṣalakṣmaṇotha
+kaṇṭhedhunā vasasi vāci punaḥ khalānām // Subhv_0441
+
+prāyaḥ svabhāvamalino mahatāṃ samīpe
+ṭiṣṭhankhalaḥ prakuruterthijanopaghātam /
+śītārditaiḥ sakalalokasukhāvahopi
+dhūme sthite nahi sukhena niṣevyatogniḥ // Subhv_0442
+
+dhūmaḥ payodharapadaṃ kathamapyavāpya
+varṣāmbubhiḥ śamayati jvalanasya tejaḥ /
+daivādavāpya kaluṣaprakṛtirmahattvaṃ
+prāyaḥ svabandhujanameva tiraskaroti // Subhv_0443
+
+ullāsitākhilakhalasya viśṛṅkhalasya
+prāgjātavismṛtanijādhamakarmavṛtteḥ /
+daivādavāptavibhavasya guṇadviṣosya
+nīcasya gocaragataiḥ sukhamāsyate kaiḥ // Subhv_0444
+
+nāścaryametadadhunā hatadaivayogā-
+durccaiḥsthitiryadadhamo na mahānubhāvaḥ /
+rathyākalaṅkaśatasaṃkarasaṃkulopi
+pṛṣṭhe bhavatyavakaro na punarnidhānam // Subhv_0445
+
+prasahya maṇimuddharenmakaravaktradaṃṣṭrāntarāt-
+samudramapi saṃtaretpracaladūrmimālākulam /
+bhujagamapi kopitaṃ śirasi puśpavaddhārayen-
+na tu pratiniviṣṭamūrkhajanacittamārādhayet // Subhv_0446
+
+labheta sikatāsu tailamapi yatnataḥ pīḍayan-
+pibecca mṛgatṛṣṇikāsu salilaṃ pipāsārditaḥ /
+kadācidapi paryaṭacchaśaviṣāṇamāsādayen-
+na tu pratiniviṣṭamūrkhajanacittamārādhayet // Subhv_0447
+
+araṇyaruditaṃ kṛtaṃ śavaśarīramudvartitaṃ
+sthalebjamavaropitaṃ suciramūṣare varṣitam /
+śvapucchamavanāmitaṃ badhirakarṇajāpaḥ kṛtaḥ
+kṛtāndhamukhamaṇḍanā yadabudho janaḥ secitaḥ // Subhv_0448
+
+vṛthā dugdhonaḍvānstanabharanatā gauriti ciraṃ
+pariṣvaktaḥ ṣaṇḍho yuvatirita lāvaṇyasahitā /
+kṛtā vaidūryāśā vikacakiraṇe kācaśakale
+mayā mūḍhena tvāṃ kṛpaṇamaguṇajñaṃ praṇamatā // Subhv_0449
+
+svapakṣacchedaṃ vā samucitaphalabhraṃśamathavā
+svamūrterbhaṅgaṃ vā patanamaśucau nāśamathavā /
+śaraḥ prāpnotyetānhṛdayapathasaṃsthopi dhanuṣa
+ṛjorvakrāśleṣādbhavati khalu suvyaktamaśubham // Subhv_0450
+
+guṇāṇāṃ sā śaktirvipadamanubadhnanti yadamī
+prasannastadvedhā mama yadi na tairyogamakarot /
+viṣaṇṇaṃ daurgatyāditi guṇinamālokya viguṇaḥ
+karoti sve gehe dhruvamatisamṛddhyotsavamasau // Subhv_0451
+
+avekṣya svātmānaṃ viguṇamaparānichhati tathā
+phalatyetanno cedvilapati na santīha guṇinaḥ /
+nimārṣṭuṃ śaptuṃ vā paribhavitumudyacchati tato-
+pyaho nīce ramyā saguṇavijigīṣā vidhiktā // Subhv_0452
+
+yadi paraguṇā na kṣamyante yatasva tadarjane
+nahi parayaśo nindāvyājairalaṃ parimārjitum /
+viramasi na cedicchādveṣaprasaktamanorathā
+dinakarakarānpāṇicchattrairnudacchramameṣyasi // Subhv_0453
+
+prakṛṣṭe saṃparke bhaṇibhujagayorjanmajanite
+maṇirnāherdoṣānbhajati na ca sarpo maṇiguṇān /
+asādhuḥ sādhurvā bhavati nanu jātyaiva puruṣo
+nasaṅgāddaurjanyaṃ na ca sujanatā kasyacidapi // Subhv_0454
+
+na viṣamamṛtīkartuṃ śakyaṃ prayatnaśatairapi
+tyajati kaṭutāṃ na svāṃ nimbaḥ sthitopi payohrade /
+guṇaparicitāmāryāṃ vāṇīṃ na jalpati durjanaś-
+ciramapi balādhmāte lohe kutaḥ kanakākṛtiḥ // Subhv_0455
+
+varamahimukhe krodhāviṣṭe karau viniveśitau
+viṣamapi varaṃ pītvā suptaṃ kṛtāntaniveśane /
+girivarataṭānmuktaścātmā varaṃ śatadhā kṛto
+na tu khalajanāvāptairarthaiḥ kṛtaṃ hitamātmanaḥ // Subhv_0456
+
+varṇasthaṃ gurulāghavaṃ na gaṇathatyāśaṅkate na kvacid-
+rūpaṃ naiva parīkṣate na puruṣaṃ vṛtteṣu vārtā kutaḥ /
+kaṣṭaṃ nāyaśaso vibheti mahato naivāpaśabdāntarān-
+mṛtyurmūrkhakaviḥ khalaḥ kunṛpatiścauraśca tulyakriyāḥ // Subhv_0457
+
+siṃho vyākaraṇasya karturaharatprāṇānpriyānpāṇiner-
+mīṃāṃsākṛtamunmamātha tarasā hastī muniṃ jaiminim /
+chandojñānanidhiṃ jaghāna makaro velātaṭe piṅgalam-
+ajñānāhatacetasāmatiruṣāṃ korthastiraścāṃ guṇaiḥ // Subhv_0458
+
+vandyānnindati duḥkhitānupahasatyābādhate bāndhavāñ-
+chūrāndveṣṭi dhanacyutānparibhavatyājñāpayatyāśritān /
+guhyāni prakaṭikaroti ghaṭayanyatnena vairāśayaṃ
+brūte śīghramavācyamujjhati guṇāngṛhṇāti doṣānkhalaḥ // Subhv_0459
+
+hasati lasati harṣāttīvraduḥkhe pareṣāṃ
+skhalati galati mohādātmanaḥ kleśaleśe /
+nadati vadati nindyaṃ mānināṃ kiṃ ca nīcaḥ
+paruṣavacanamalpaṃ śrāvito hantumeti // Subhv_0460
+
+yadi satsaṅganirato bhaviṣyasi bhaviṣyasi /
+athāsajjaganoṣṭhīṣu patiṣyasi patiṣyasi // Subhv_0461
+
+karṇe tatkathayanti dundubhiravai rāṣṭre yaduddhoṣitaṃ
+tannamrāṅgatayā vadanti karuṇaṃ yasmātrapāvānbhavet /
+ślāghante tadudīryate yadariṇāpyugraṃ na marmāntakṛ-
+dye kecinnanu śāvyamaugdhyanidhayaste bhūbhṛtāṃ rañjakāḥ // Subhv_0462
+
+bhaṇḍastāṇḍavamaṇḍape caṭukathāvīthīṣu kanthākavir-
+goṣṭhaśva svagṛhāṅgaṇe śikharibhūgarte khaṭākhuḥ sphuṭam /
+piṇḍīśūratayā viṭaśva paṭutāṃ bhūbhṛdgṛhe gāhate
+gacchanti hradakṛṣṭakacchapatulāṃ citraṃ tatonyatra te // Subhv_0463
+
+jāḍyaṃ hrīmati gaṇyate vratarucau dambhaḥ śucau kaitavaṃ
+śūre nirghṛṇatā ṛjau vimatitā dainyaṃ priyālāpini /
+tejasvinyavaliptatā mukharatā vaktaryaśaktiḥ sthire
+tatko nāma guṇo bhavedguṇavatāṃ yo durjanairnāṅkitaḥ // Subhv_0464
+
+ākhuḥ kailāsaśailaṃ tulayati karaṭastārkṣyamāṃsābhilāṣī
+babhrurlāṅgūlamūlaṃ calayati capalastakṣakāhiṃ jighāṃsuḥ /
+bhekaḥ pāraṃ yiyāaurbhujagamapi mahāghasmarasyāmburāśeḥ
+prāyeṇāsannapātaḥ smarati samucitaṃ karma na kṣudrakarmā // Subhv_0465
+
+aguṇakaṇo guṇorāśirdvayamiha daivātkhalamukhe patitam /
+prasarati tailamivaikaḥ salile ghṛtavajjaḍatvametyanyaḥ // Subhv_0466
+
+śaraṇaṃ kiṃ prapannāni viṣavanmārayanti kim /
+na tyajyante na bhujyante kṛpaṇena dhanāni yat // Subhv_0467
+
+kṛpaṇena samo dātā na bhūto na bhaviṣyati /
+aspṛśanneva vittāni yaḥ parebhyaḥ prayacchati // Subhv_0468
+
+yā vipattirdhanāpāye navā bhogivadānyayoḥ /
+prajñāpakarṣātprāgeva prāptā hi kṛpaṇena sā // Subhv_0469
+
+tyāgopabhogaśūnyena dhanena dhanino yadi /
+bhavāmaḥ kiṃ na tenaiva dhanena dhanino vayam // Subhv_0470
+
+gṛhamadhyanikhātena dhanena ramate yadi /
+sa tu tenānusāreṇa ramate kiṃ na meruṇā // Subhv_0471
+
+kiṃśuke kiṃ śukaḥ kuryātphalitepi bubhukṣitaḥ /
+adātari samṛddhepi kiṃ kuryurupajīvinaḥ // Subhv_0472
+
+dānopabhogabandhyā yā suhṛdhbiryā na bhujyate /
+puṃsāṃ yadi hi sā lakṣmīralakṣmīḥ katama bhavet // Subhv_0473
+
+atisaṃcayakart ṇāṃ vittamanyasya kāraṇām /
+anyaiḥ saṃcīyate yatnādanyaiśca madhu pīyate // Subhv_0474
+
+yaddadāsi viśiṣṭebhyo yadāśnāsi dine dine /
+tatte vittamahaṃ manye śeṣaṃ kasyāpi rakṣasi // Subhv_0475
+
+viḍambanaiva puṃsi śrīḥ parapraṇayapāṃsule /
+kāntiṃ kāmiha kurvīta kuṇau kaṭakakalpanā // Subhv_0476
+
+kṛtvopakāraṃ yastasmādvāñchati pratyupakriyām /
+dīnastṛṣṇāvidheyatvādvāntamapyupaleḍhi saḥ // Subhv_0477
+
+dānaṃ bhogo nāśastisro gatayo bhavanti vittasya /
+yo na dadāti na bhuṅkte tasya tṛtīyā gatirnāśaḥ // Subhv_0478
+
+dānaṃ bhogaṃ ca vinā dhanasattāmātrakeṇa ceddhaninaḥ /
+vayamapi kimiti na dhaninistiṣṭhati naḥ kāñcano meruḥ // Subhv_0479
+
+dhaninopyadānabhogā gaṇyante dhuri mahādaridrāṇām /
+hanti na yataḥ pipāsāmataḥ samudropi marureva // Subhv_0480
+
+abhyupayuktāḥ sadbhirgatāgatairaharahaḥ sunirviṇṇāḥ /
+kṛpaṇajanasaṃnikarṣaṃ saṃprāpyārthāḥ svapantīva // Subhv_0481
+
+upabhogakātarāṇāṃ puruṣāṇāmarthasaṃcayaparāṇām /
+kanyāratnamiva gṛhe tiṣṭhantyarthāḥ parasyārthe // Subhv_0482
+
+te mūrkhatarā loke yeṣāṃ dhanamasti nāsti ca tyāgaḥ /
+kevalamarjunarakṣaṇaviyogaduḥkhānyanubhavanti // Subhv_0483
+
+kṛpaṇasamṛddhīnāmapi bhoktāraḥ santi kecidatinipuṇāḥ /
+jalasaṃpadomburāśeryānti layaṃ śaśvadaurvāgnau // Subhv_0484
+
+prāptānapi na labhante bhogānbhoktuṃ svakarmabhiḥ kṛpaṇāḥ /
+mukharogaḥ kila bhavati drākṣāpāke balibhujāṃ hi // Subhv_0485
+
+na niryiyāsanti kadaryahastād-
+dhanāni pāṃsoriva tailaleśāḥ /
+daivātkadācidviniyoktureva
+nirgantumicchantyasubhiḥ sahaiva // Subhv_0486
+
+saṃcitaṃ kratuṣu nopayujyate
+yācitaṃ guṇavate na dīyatye /
+tatkadaryaparirakṣitaṃ dhanaṃ
+caurapārthivagṛheṣu gacchati // Subhv_0487
+
+varamamī taravo vanagocarāḥ
+śakunisārthaviluptaphalaśriyaḥ /
+na tu dhanāḍhyagṛhāḥ kṛpaṇāḥ phaṇa-
+nihitaratnabhujaṃgamavṛttayaḥ // Subhv_0488
+
+susaṃvṛtairjīvitavatsurakṣitair-
+nijepi dehe kṛtayantraṇasya ca /
+tavānumārgaṃ vrajato bhavāntare
+śaṭhairdhanaiḥ pañcapadī na pūritā // Subhv_0489
+
+aho dhanānāṃ mahatī vidagdhatā
+sukhoṣitānāṃ kṛpaṇasya veśmani /
+vrajanti na tyāgadaśāṃ na bhogyatāṃ
+parāṃ ca kāñcitprathayanti nirvṛtim // Subhv_0490
+
+na śāntāntastṛṣṇāṃ dhanalavaṇavārivyatikaraiḥ
+kṣatacchāyaḥ kāyaściravirasarūkṣāśanatayā /
+anidrā mandāgnirnṛpasalilacaurānalabhayāt-
+kadaryāṇāṃ kaṣṭaṃ sphuṭamadhanakaṣṭādapi param // Subhv_0491
+
+ekaikātiśayālavaḥ paraguṇajñānaikavaijñānikāḥ
+santyete dhanikāḥ kalāsu sakalāsvācāryacaryācaṇāḥ /
+apyete sumanogirāṃ niśamanādbibhyatyaho ślāghayā
+dhūte mūrdhani kuṇḍale kaṣaṇataḥ kṣīṇe bhavetāmiti // Subhv_0492
+
+prītiṃ na prakaṭīkaroti suhṛdi dravyavyayāśaṅkayā
+bhītaḥ pratyupakārakāraṇabhayānnākṛṣyate sevayā /
+mithyā jalpati vittamārgaṇabhayātstutyāpi na prīyate
+kīnāśo vibhavavyayavyatikaratrastaḥ kathaṃ prāṇiti // Subhv_0493
+
+matvā sāraṃ guṇānāṃ śirasi yadi śaśī sthāpito daivayogā-
+dīśena kṣīṇabimbaṃ sakalamupacayaṃ kiṃ na nītaḥ kṣaṇena /
+mithyaivaṃ khyāpayanto guṇini saralatāṃ lokabhaktyarthamuccair-
+āḍhyāḥ kurvanti vittavyayacakitadhiyo mānamarthena śūnyam // Subhv_0494
+
+brahmāṇḍamaṇḍalīmātraṃ kiṃ lobhāya manasvinaḥ /
+śapharīsphuritairnābdheḥ kṣubdhatā jātu jāyate // Subhv_0495
+
+nālpīyasi nibadhnanti padamuddāmacetasaḥ /
+yeṣāṃ bhuvanalābhepi niḥsīmāno manorathāḥ // Subhv_0496
+
+puṃsāmunnatacittānāṃ sukhāvahamidaṃ dvayam /
+sarvasaṅganivṛttirvā vibhūtirvā suvistarā // Subhv_0497
+
+ayaṃ bandhuḥ paro veti gaṇanā laghucetasām /
+puṃsāmudāracittānāṃ vasudhaiva kuṭumbakam // Subhv_0498
+
+jarāmaraṇadaurgatyavyādhayastāvadāsatām /
+janmaiva kiṃ na dhīrasya bhūyo bhūyastrapākaram // Subhv_0499
+
+parivartini saṃsāre mṛtaḥ ko vā na jāyate /
+sa jāto yena jātena yāti vaṃśaḥ samunnatim // Subhv_0500
+
+api nāma sa dṛśyeta puruṣātiśayo bhuvi /
+garvocchūnamukhā yena dhanino nāvalokitāḥ // Subhv_0501
+
+pṛthvī pṛthvī guṇā mānyāḥ santi bhūpā vivekinaḥ /
+parābhavāpadaṃ yānti kasmādunnatabuddhayaḥ // Subhv_0502
+
+adṛṣṭamukhabhaṅgasya yuktamandhasya yācitum /
+aho bata mahatkaṣṭaṃ cakṣuṣmānapi yācate // Subhv_0503
+
+dāridryānalasaṃtāpaḥ śāntaḥ saṃtoṣavāriṇā /
+yācakāśāvighātāntardāhaṃ ko nāma paśyatu // Subhv_0504
+
+paripūrṇaguṇābhogagarimodnāra eva saḥ /
+trijagatspṛhaṇīyesminna rucirdraviṇepi yat // Subhv_0505
+
+vidyayaiva mado yeṣāṃ kārpaṇyaṃ ca dhane sati /
+teṣāṃ daivābhiśaptānāṃ salilādagnirutthitaḥ // Subhv_0506
+
+kiṃ tayā kriyate lakṣmyā yā vadhūriva kevalā /
+yā na veśyeva sāmānyā pathikairapi bhujyate // Subhv_0507
+
+tyāgo guṇo vittavatāṃ vittaṃ tyāgavatāṃ guṇaḥ /
+parasparaviyuktau tu vittatyāgau viḍambanā // Subhv_0508
+
+kusumastabakasyeva dvayī vṛttirmanasvinaḥ /
+mūrdhni vā sarvalokasya śīryate vana eva vā // Subhv_0509
+
+nṛṇāṃ dhuri sa evaiko yaḥ kaścittyāgapāṇinā /
+nirmārṣṭi prārthanāpāṃsudhūsaraṃ mukhamarthinām // Subhv_0510
+
+ākāramātravijñānasaṃpāditamanorathāḥ /
+dhanyāste ye na śṛṇvanti dīnāḥ praṇayināṃ giraḥ // Subhv_0511
+
+buddhiryā sattvarahitā strītvaṃ tatkevalaṃ matam /
+sattvaṃ cānayasaṃpannaṃ tatpaśutvaṃ na pauruṣam // Subhv_0512
+
+kāmaṃ priyānapi prāṇānvimuñcanti manasvinaḥ /
+icchanti na tvamitrebhyo mahatīmapi satkriyām // Subhv_0513
+
+atyadbhutamimaṃ manye svabhāvamamanasvinaḥ /
+yadupakriyamāṇopi prīyate na vilīyate // Subhv_0514
+
+pratyupakurvatpūrvaṃ kṛtopakāramapi lajjayati cetaḥ /
+yastu vihitopakārādupakāraḥ sodhiko mṛtyoḥ // Subhv_0515
+
+pratyupakurvanbahvapi na bhavati pūrvopakāriṇā tulyaḥ /
+ekonukaroti kṛtaṃ niṣkāraṇameva kurutenyaḥ // Subhv_0516
+
+jīvañjīvayati hi yo jñātijanaṃ parijanaṃ ca suhṛdaśca /
+tasya saphalā gṛhaśrīrdhiganupajīvyāṃ dhanasamṛddhim // Subhv_0517
+
+yacchañjalamapi jalado vallabhatāmeti sarvalokasya /
+nityaṃ prasāritakaraḥ savitāmapi bhavatyacakṣuṣyaḥ // Subhv_0518
+
+nāptaṃ yatkenacidapi manorathā api yato nivartante /
+tadyapi na labhyatenyanmanasvinaḥ kimabhimānaphalam // Subhv_0519
+
+ghaṭanaṃ vighaṭanamathavā kāryāṇāṃ bhavati vidhiniyogena /
+ucitenucite karmaṇi vṛttinivṛttī mamāyatte // Subhv_0520
+
+kalpasthāyi na jīvitamaiścaryaṃ nāpyate ca yadabhimatam /
+lokastathāpyakāryaṃ kurute kāryaṃ kimuddiśya // Subhv_0521
+
+dhanabāhulyamahetuḥ kopi nisargeṇa muktakaraḥ /
+prāvṛṣi kasyāmbumucaḥ saṃpattiḥ kimadhikāmbunidheḥ // Subhv_0522
+
+utpāditā svayamiyaṃ yadi tattanūjā
+tātena vā yadi tadā bhaginī khalu śrīḥ /
+yadyanyasaṃgamavatī ca tadā parastrī
+tattyāgabaddhamanasaḥ sudhiyo bhavanti // Subhv_0523
+
+draviṇārjanajaḥ pariśramaḥ
+phalitopyasya janasya nīrasaḥ /
+draviṇārjanamātmatuṣṭaye
+paramāvarjayituṃ guṇārjanam // Subhv_0524
+
+yaḥ praśaṃsati naro naramanyaṃ
+devatāsu varadāsu satīṣu /
+mugdhadhīrdhanalavaspṛhayālus-
+taṃ nṛśaṃsamahamādyamavaimi // Subhv_0525
+
+yathā śarīraṃ kila jīvitena
+vinākṛtaṃ kāṣṭhamivāvabhāti /
+tathaiva lajjīvitamapyavaimi
+lokottareṇa sphuritena śūnyam // Subhv_0526
+
+santopi santaḥ kva kirantu tejaḥ
+kva nojjvalantu kva nu na prathantām /
+vidhāya ruddhā nanu vedhasaiva
+brahmāṇḍakośe ghaṭadīpakalpāḥ // Subhv_0527
+
+kadarthitasyāpi hi dhairyavṛtter-
+na śakyate sattvaguṇaḥ pramārṣṭum /
+adhomukhasyāpi kṛtasya vahner-
+nādhaḥ śikhā yānti kadācideva // Subhv_0528
+
+jātaśca nāma na vinaṅkṣyanti cetyayuktam-
+utpāda eva niyameva vināśahetuḥ /
+tulye ca nāma maraṇavyasanopatāpe
+mṛtyurvaraṃ parahitāvahitāśayasya // Subhv_0529
+
+iyatyapyetasminniravadhimahatyadhvani guṇās-
+ta evāmī dvitrā jaraṭhajaraṭhā yānti gaṇanām /
+aho grāmyo lokaḥ sa na paramamībhiḥ kṛtadhṛtiḥ
+smayastabdhoyāvatkalayati samagraṃ tṛṇamidam // Subhv_0530
+
+svacittaparicintayaiva paritāpamātmanyamī
+na bibhrati manāsvino yadamunā na tāvatkṣatiḥ /
+aharniśamihaiva ye paramanonuvṛttyā punar-
+vahanti vijigīṣutāṃ kimiva tenukampāspadam // Subhv_0531
+
+vipulahṛdayairanyaiḥ kaiścijjagajjanitaṃ purā
+vidhṛtamaparairdattaṃ cānyairvijitya tṛṇaṃ yathā /
+iha hi bhuvanānyanye dhīrāścaturdaśa bhuñjate
+katipayapurasvāmye puṃsāṃ ka eṣa madajvaraḥ // Subhv_0532
+
+abhuktāyāṃ yasyāṃ kṣaṇamapi na yātaṃ nṛpaśatair-
+bhuvastasyā lābhe ka iva bahumānaḥ kṣitibhujām /
+tadaṃśasyāpyaṃśe tadavayavaleśepi patayo
+viṣāde kartavye vidadhati jaḍāḥ pratyuta mudam // Subhv_0533
+
+pareṣāṃ cetāṃsi pratidivasamāyāsya bahudhā
+prasādaṃ kiṃ netuṃ viśāsi hṛdaya kleśakalilam /
+prasanne tvayyeva svayamuditacintāmaṇiguṇe
+viviktaḥ saṃkalpaḥ kimabhilaṣitaṃ puṣyati na te // Subhv_0534
+
+vināpyarthairdhīraḥ spṛśati bahumānonnatipadaṃ
+pariṣvaktopyarthaiḥ paribhavapadaṃ yāti kṛpaṇaḥ /
+svabhāvenodbhūtāṃ guṇasamudayāvāptivipulāṃ
+dyutiṃ saiṃhīṃ na śvā dhṛtakanakamālopi labhate // Subhv_0535
+
+bhujyante svagṛhasthitā iva sukhaṃ yasyāthibhiḥ saṃpadaḥ
+paṭvī yasya matistamaḥprahataye dvāveva tau prāṇitaḥ /
+yastvātmaṃbharirunnatepi vibhave hīnaśca vidvattayā
+tasyālekhyamaṇerivākṛtidhṛtaḥ sattāpyasattā nanu // Subhv_0536
+
+ādhārāya dharāvakāśavidhayepyākāśamālokane
+bhāsvānātmamahattvasādhanavidhāvanye guṇāḥ kecana /
+ityasminnupakārakāriṇi sadā varge paraṃ dustyaje
+dainyavrīḍakalaṅkamujjhatu kathaṃ ceto mahācetasām // Subhv_0537
+
+nityaṃ yā gurubhṛtyabandhusujanairna svecchayā bhujyate
+paśyanti spṛhayālavo na ripavo yāṃ vikramāsāditām /
+yasyāḥ sādhuparikṣayeṇa suhṛdāṃ nāśena vā saṃbhavo
+no saṃpadvipadeva sā guṇavatāṃ prītistayā kīdṛśī // Subhv_0538
+
+nyāyyaṃ mārgamanujjhataḥ sukṛtino daivādbhavantyāpado
+yāstāḥ santu balerivādipuruṣāyorvīṃ svayaṃ yacchataḥ /
+śakrasyeva jugupsitaiḥ subahubhirnindyairbhṛśaṃ karmabhir-
+devānāmupari prabhutvamapi me mā bhūttrapākāraṇam // Subhv_0539
+
+śayyā śādvalamāsanaṃ śuciśilā sadma dramāṇāmadhaḥ
+śītaṃ nirjharavāri pānamaśanaṃ kandāḥ sahāyā mṛgāḥ /
+ityprārthitasarvalabhyavibhave doṣoyameko vane
+duṣprāpārthini yatparārthaghaṭanāvandhyairvṛthā sthīyate // Subhv_0540
+
+alpīyasāmeva hi janmabhūmes-
+tyāgaḥ pramādo viduṣāṃ na sosti /
+sthānādapetā maṇayo vrajanti
+rājñāṃ śiraḥ kākamukhāni bhekāḥ // Subhv_0541
+
+śūrāśca kṛtavidyāśca rūpavatyaśca yoṣitaḥ /
+yatra yatra gamiṣyanti tatra tatra kṛtālayāḥ // Subhv_0542
+
+rudrodriṃ jaladhiṃ harirdiviṣado dūraṃ vihāyaḥ śritā
+bhogīndrāḥ prabalā api prathamataḥ pātālamūle sthitāḥ /
+līnā padmavane sarojanilayā manyerthisārthādbhiyā
+dīnoddhāraparāyaṇāḥ kaliyuge satpūruṣāḥ kevalam // Subhv_0543
+
+prārabhyate na khalu vighnabhayena nīcaiḥ
+prārabhya vighnavihatā viramanti madhyāḥ /
+vighnaiḥ sahasraguṇitairapi hanyamānāḥ
+prārabdhamuttamaguṇā na parityajanti // Subhv_0544
+
+prasaradbhiḥ karairyasya vikasanti na sadguṇāḥ /
+tasya doṣākarasyeyaṃ kathaṃ nityāsti pūrṇatā // Subhv_0545
+
+kṣīṇaḥ kṣīṇaḥ samīpatvaṃ pūrṇaḥ pūrṇotidūratām /
+upaiti mitrādyaccandro yuktaṃ yanmalinaḥ sadā // Subhv_0546
+
+kathaṃ na lajjitastādṛksavitā tejasāṃ nidhiḥ /
+brahmāṇḍakhaṇḍikāṃ prāpya kurvanpādaprasārikām // Subhv_0547
+
+raverevodayaḥ ślāghyaḥ konyeṣāmudayagrahaḥ /
+na tamāṃsi na tejāṃsi yasminnabhyudite sati // Subhv_0548
+
+kimanena na paryāptaṃ kāntatvaṃ śaśalakṣmaṇā /
+susaṃtaptāpi nalinī yadviśvāsamupāgamat // Subhv_0549
+
+karānprasārya raviṇā dakṣiṇāśāvilambinā /
+na kevalamanenātmā divasopi laghūkṛtaḥ // Subhv_0550
+
+vartate yena pātaṅgiḥ ṣaṇmāsāndvau ca vatsarau /
+rāśiḥ sa eva candrasya na yāti divasatrayam // Subhv_0551
+
+śirasā dhāryamāṇopi somaḥ somena śaṃbhunā /
+tathāpi kṛśatāṃ dhatte kaṣṭaḥ khalu parāśrayaḥ // qsv0552-3 pa. pājakasya
+patatu vāriṇi yātu digantaraṃ
+viśatu vahnimatho vrajatu kṣitim kathaṃ sa dantarahitaḥ sūryaḥ sūribhirucyate /
+yo mīnarāśiṃ bhuktvaiva meṣaṃ bhoktuṃ samudyataḥ // Subhv_0552
+
+patatu vāriṇi yātu digantaraṃ
+viśatu vahnimatho vrajatu kṣitim /
+ravirasāviyatāsya guṇeṣu kā
+sakalalokacamatkṛtiṣu kṣatiḥ // Subhv_0554
+
+tattāvadeva śaśinaḥ sphuritaṃ mahīyo
+yāvanno tīkṣṇarucimaṇḍalamabhyupaiti /
+abhyudyate sakaladhāmanidhau ca tasmin-
+nindoḥ sitābhraśakalasya ca ko viśeṣaḥ // Subhv_0555
+
+sadvṛttayaḥ sadasadarthavivekino ye
+te paśya kīdṛśamamuṃ samudāharanti /
+caurāsatīprabhṛtayo bruvate yadasya
+tadgṛhyate yadi kṛtaṃ tadahaskareṇa // Subhv_0556
+
+ekaiva sāmṛtamayī sutarāmanarghā
+kāpyastyasau śaśadharasya kalā yayaiva /
+āropito guṇavidā parameśvareṇa
+cūḍāmaṇau na gaṇitosya kalaṅkadoṣaḥ // Subhv_0557
+
+udyantyamūni subahūni mahāmahāṃsi
+candropyalaṃ bhuvanamaṇḍalamaṇḍanāya /
+sūryādṛte na tadudeti na cāstameti
+yenoditena dinamastamitena rātriḥ // Subhv_0558
+
+lokānandādviramati na yaḥ kṣīyamāṇopi bhūyaḥ
+svaḥsthe tasminkila dinamukhaṃ nūtanaṃ nābhaviṣyat /
+daivaṃ kīdṛkkathamapi yathā bhartumātmānameva
+vyagraḥ kālaṃ gamayati sakhe sopyayaṃ paśya candraḥ // Subhv_0559
+
+kṣīṇaścandro viśāti taraṇermaṇḍalaṃ māsi māsi
+labdhvā kāṃcitpunarapi kalāṃ dūradūrānuvartī /
+saṃpūrṇaścetkathamapi tathā spardhayodeti bhānor-
+no daurjanyādviramati jaḍo nāpi dainyādvyaraṃsīt // Subhv_0560
+
+pādanyāsaṃ kṣitidharagurormūrdhni kṛtvā sumeroḥ
+krāntaṃ yena kṣapitatamasā madhyamaṃ dhāma viṣṇoḥ /
+soyaṃ candraḥ patati gaganādalpaśeṣairmayūkhair-
+dūrāroho bhavati mahatāmapyupabhraṃśaniṣṭhaḥ // qsv0561-5 kalaśakasya
+pātaḥ pūṣṇo bhavati mahate nopatāpāya yasmāt-
+kālenāstaṃ ka iva na gatā yānti yāsyanti cānye kva tattejastādṛgjvalanamahaso nāśapiśunaṃ
+parābhūtiḥ kvāsau visadṛśatarādrāhuśirasaḥ /
+vidheryogādetatsamucitamidaṃ tu vyathayati
+trapāhīno mitrāttadapi gagane yadviharati // Subhv_0561
+
+pātaḥ pūṣṇo bhavati mahate nopatāpāya yasmāt-
+kālenāstaṃ ka iva na gatā yānti yāsyanti cānye /
+etāvattu vyathayati yadālokabāhyaistamobhis-
+tasminneva prakṛtimahati vyomni labdhovakāśaḥ // Subhv_0563
+
+ā sargātprativāsaraṃ rasaśatairyā bodhitā poṣitā
+kalpāntāvasaretha saiva pṛthivī svaireva dagdhā karaiḥ /
+kṛtvetthaṃ kimapi svakarma niyateḥ pūrvāparopaplutaṃ
+kaṣṭaṃ sopi dināntavītakiraṇastigmāṃśurastaṃ gataḥ // Subhv_0564
+
+yenonmathya tamāṃsi māṃsalaghanaspardhīni sarvaṃ jagac-
+cakṣuṣmatparamārthataḥ kṛtamidaṃ devena tigmatviṣā /
+tasminnastamite vivasvati kiyānkrūro jano durjano
+yadbadhnāti dhṛtiṃ śaśāṅkaśakalāloketha dīpethavā // Subhv_0565
+
+śocyastāvadumāpatiḥ prabhutayā yo mūrdhni gaṅgokṣite
+sacchidraṃ nṛśiraḥkapālamamalaṃ candraṃ ca dhatte samam /
+candraḥ śocyatarastataḥ paribhavepyevaṃvidhe yaḥ sati
+jyotsnāhāsavikāsapāṇḍuravapurmukhyāṃ mudaṃ puṣyati // Subhv_0566
+
+pūrṇaṃ vīcibhujaiḥ svavṛddhirabhasādinnduṃ samāliṅgati
+kṣīṇaṃ dūrata eva muñcati pitā bhūtvā jalānāṃ nidhiḥ /
+prakṣīṇasya tu yena tasya vasunā kṛtvā krameṇodayaṃ
+pūrṇatve ca davīyasi sthitamaho mitrāya tasmai namaḥ // Subhv_0567
+
+dhvāntena grathitairgrahakṣitipaterdevasya dūrasthiteḥ
+saccakrapramadāvahābhyuditatā kairnāma nākāṅkṣitā /
+etenābhyuditena saṃprati punaḥ kaṣṭaṃ tathā ceṣṭitaṃ
+lokastīkṣṇakaroyamityabhimukhaṃ nainaṃ yathā prekṣate // Subhv_0568
+
+dṛṣṭaiva yaṃ karasahasrahṛtāndhakāraṃ
+bhītyāpayāntyanudinaṃ śataśaḥ piśācāḥ /
+kṣīṇe vidhau harivilūnakaroti citraṃ
+gṛhṇāti taṃ dyumaṇimabhrapiśāca ekaḥ // Subhv_0569
+
+tamograstaṃ jagatsarvaṃ trātuṃ bhānuḥ sadodyataḥ /
+taṃ tu trātuṃ tamograstaṃ jagatyekopi na kṣamaḥ // Subhv_0570
+
+rātrau guṇanidheḥ padmātkumudaṃ yadanakṣaram /
+prāptā lakṣmīḥ sa mahimā rājño jaḍanidherdhruvam // Subhv_0571
+
+ābhāti candrarahitā na kadāpi rātriś-
+candropi rātrirahito gatakāntireva /
+kiṃ kāraṇaṃ yadanayoḥ pratimāsameko
+jāto nistaratayā parirambhayogaḥ // Subhv_0572
+
+gaganaśayanalīnāṃ rātrimutsṛjya candro
+vrajati dhavalapakṣe kṛṣṇapakṣe tu rātriḥ /
+apasarati yadīndorvyomatalpe prasuptāt-
+truṭati tadanayoḥ kiṃ tāvatā dampatitvam // Subhv_0573
+
+āśāḥ prakāśayati yastimirāṇi bhaṅktvā
+bodhaṃ dṛśāṃ diśati bhūriguṇeṣvabhīṣṭaḥ /
+khedāya yasya na paropakṛtiṣvaṭāṭyā
+dhīmānnamasyati na kastaminaṃ praśasyam // Subhv_0574
+
+vicārastathyo vā bhavatu vitatho vā kimaparaṃ
+tathāpyuccairdhāmno bhavati bahujalpo janaravaḥ /
+tulottīrṇasyāpi prathitamahimadhvastatamaso
+ravestādṛktejo na bhavati hi kanyāṃ gata iti // Subhv_0575
+
+uḍugaṇaparivāro nāyakopyoṣadhīnām-
+amṛtamayaśarīraḥ kāntiyuktopi candraḥ /
+bhavati vigataraśmirmaṇḍalaṃ prāpya bhānoḥ
+parasadananiviṣṭaḥ ko laghutvaṃ na yāti // Subhv_0576
+
+uccaḥ satphalado yathāyamahamapyetādṛgetāvatā
+spardhāṃ manda madoddhataḥ svajanakenārkeṇa mā mā kṛthāḥ /
+dūrādeva bhavādṛśosya mahasā dhvastāḥ samastāḥ svayaṃ
+naivecchatyayamatyayaṃ guṇisakhaḥ kasyāpi tejonidhiḥ // Subhv_0577
+
+tulyā sukhasthitiramuṣya mameti rājñi
+spardhāṃ nijepi janake janakelihetau /
+mā rājanandana kṛthāḥ sa hi sarvaloka-
+dhvāntāntakṛdgiriśahastapavitritātmā // Subhv_0578
+
+mātsaryeṇa jahadgrahānvisadṛśe dhūmadhvaje yogyatāṃ
+jñātvā svāṃ vidadhattviṣaṃ dinapatirhāsyapraśāntyunmukhaḥ /
+daivaṃ vetti na yaḥ śikhī sa parato nāmāstu tatsaṃbhavāḥ
+syurdīpā api yadvaśena jagatāṃ tigmāṃśuvismārakāḥ // Subhv_0579
+
+pādmā ye madanuvratā dadhati te klāntiṃ tuṣārāhatā
+yepyete divasā madekaśaraṇāḥ kārśyaṃ paraṃ yānti te /
+gacchannitthamasau samāśritajanaprītyeva dūrāṃ diśaṃ
+hemante bhagavānaharpatiraho loke gataḥ sevyatām // Subhv_0580
+
+nābhiṣeko na saṃskāraḥ siṃhasya kriyate vane /
+vikramārjitasattvasya svayameva mṛgendratā // Subhv_0581
+
+ekohamasahāyohaṃ kṛśohamaparicchadaḥ /
+svapnepyevaṃvidhā cintā mṛgendrasya na jāyate // Subhv_0582
+
+mattebhakumbhanirbhedakaṭhoranakharāśaniḥ /
+mṛgāririti nāmnaiva laghutvaṃ yāti kesarī // Subhv_0583
+
+patanti naiva mātaṅgakumbhapāṭanalampaṭāḥ /
+valgatsvapi kuraṅgeṣu mṛgārernakharāḥ kharāḥ // Subhv_0584
+
+kiṃ kirmaḥ ka upālabhyo yatredamasamañjasam /
+kākiṇyapi na siṃhasya mūlyaṃ koṭistu dantinaḥ // Subhv_0585
+
+līlādalitadhṛṣṭebhakumbhapīṭhasya nirbhayaiḥ /
+kathaṃ kesariṇaḥ krāntaṃ suptasyāpi mṛgaiḥ padam // Subhv_0586
+
+mattebhakumbhanirbhedarudhirāruṇapāṇinā /
+hariṇā hariṇaḥ spardhāṃ varākaḥ kurute katham // Subhv_0587
+
+tāvadgarjati mātaṅgo vane madabharālasaḥ /
+śirovilagnalāṅgūlo yāvannāyāti kesarī // Subhv_0588
+
+śauryadarpabalādhmātaśvasadgaṇḍāntaśobhinaḥ /
+saṭāmutpāṭya siṃhasya kiṃ narāḥ sukhamāsate // Subhv_0589
+
+kopodekatalāghātanipatanmattadantinaḥ /
+harerhariṇayuddhesya kiyānvyākṣepavistaraḥ // Subhv_0590
+
+yāvadasthiṣu saṃlagnāḥ karāḥ kesariṇaḥ kṣaṇam /
+yūthasya prāṇitaṃ tāvattadaraṇyanivāsinaḥ // Subhv_0591
+
+sagrvagarjadgajagaṇḍamaṇḍalī-
+vikhaṇḍanoḍḍāmaravikramakramaḥ /
+anantaviśrāntakuraṅgasaṃgara-
+prasaṅgamaṅgīkurute kathaṃ hariḥ // Subhv_0592
+
+siṃhaḥ śiśurapi nipatati madamalinakapolabhittiṣu gajeṣu /
+prakṛtiriyaṃ sattvavatāṃ na khalu vayastejaso hetuḥ // Subhv_0593
+
+ekākini vanavāsinyarājalakṣmaṇyanītiśāstrejñe /
+sattvocchrite mṛgapatau rājeti giraḥ pariṇamanti // Subhv_0594
+
+siṃhaḥ karoti vikramamalijhāṅkārāṅkite kare kariṇaḥ /
+na punarnakhamukhavilikhitabhūdharakuharasthite nakule // Subhv_0595
+
+samadakarikumbhadāraṇamadapaṅkacchuritakesarasaṭasya /
+siṃhasya ka iva vaktre karatalamādhātumutsahate // Subhv_0596
+
+niṣpragraheṣu karipotaśateṣu mohād-
+valgatsu bāliśatayā puratopyaṭatsu /
+mattebhakumbhadalanocitacittavṛtteḥ
+siṃhasya locananimīlanameva yuktam // Subhv_0597
+
+dṛṣṭvaiva roṣavaśaghūrṇitakesarāṃsa-
+māyāntamantakasamaṃ purato mṛgārim /
+māṃsaṃ cikhādiṣubhiretya patatripūgair-
+bhrāntaṃ madāndhagajayūthapamastakeṣu // Subhv_0598
+
+yaḥ kesarī kharanakhakrakacograpāṇi-
+nirdāritebhavarakumbhasamudbhavena /
+navyena śoṇitacayena nirastatṛṣṇo
+nityaṃ babhūva dhigahodya tṛṇena sorthī // Subhv_0599
+
+visraṃ vapuḥ paravadhapravaṇā ca buddhis-
+tiryaktayaiva kathitaḥ sadasadvivekaḥ /
+itthaṃ na kiṃcidapi sādhu mṛgādhipasya
+tejastu tatsphurati yena jagadvarākam // Subhv_0600
+
+siṃhostu śatrurathavādhipatirmṛgāṇāṃ
+śaṃsāspadaṃ tadapi na dvayameva manye /
+tasya sphuratkarajavajraśirobhighāta-
+helānipātitamataṅgajajaṅgamādreḥ // Subhv_0601
+
+preṅkhanmayūkhanakhapātaśikhānikhāta-
+vikhyātavāraṇagaṇasya harerguhāyām /
+kroṣṭā nikṛṣṭasaramāsutadṛṣṭinaṣṭa-
+dhārṣṭyo niviṣṭa iti kaṣṭamihādya dṛṣṭam // Subhv_0602
+
+mattebhakumbhadalanākulalolavalga-
+dantaḥ kvaṇatkarajavajraśikhābhighātaḥ /
+kiṃ kesarī jagati mānanidhistṛṇena
+prāṇātyayepi kurute svaśarīrayātrām // Subhv_0603
+
+viśvasya sthitaye dhanurdharatayā garjantamuccaiḥ pade
+meghaṃ dantimadāntadurlalitadhīrmā siṃha lālaṅghiṣīḥ /
+asmādvajravidāritakṣitibhṛto mā pāti varṣopalair-
+jhampālampaṭabhāvabhāvipatanāccintyoṅgabhaṅgaḥ svayam // Subhv_0604
+
+kharanakharanikhātottuṅgamātaṅgakumbha-
+sthalavigalitamuktālaṃkṛtakṣmātalasya /
+harati hariṇavṛndaṃ kiṃ harervairamājau
+militamapi samantādekakāryeṇa kṛtsnam // Subhv_0605
+
+anukṛtagaṇḍaśailamadamaṇḍitagaṇḍataṭa-
+bhramadalimaṇḍalīniviḍaguṃgumaghoṣajuṣaḥ /
+dalayati helayaiva harirugrakarānkariṇas-
+trijagati teja eva guru no vikṛtākṛtitā // Subhv_0606
+
+śailaśreṇiguhāgṛheṣu nivasañjīvannijāḍambarair-
+avyājorjitavikramo mṛgapatirvīrendra mā kupyatām /
+asmātkuñjarakumbhasaṃbhavavasāpānaikahevākino
+yallabdhaṃ vyasanākulena manasā svenaiva taccintyatām // Subhv_0607
+
+kaśmīrāngatukāmasya mīraśāhākhyabhūpateḥ /
+śāhābuddīnabhūmīndraḥ prāhiṇoditi lekhakam // Subhv_0608
+
+kimevamaviśāṅkitaḥ śiśukuraṅga lolakramaṃ
+parikramitumīhase virama naiva śūnyaṃ vanam /
+sthitotra gajayṅthanāthamathanocchalacchoṇita-
+cchaṭāpaṭalabhāsurotkaṭasaṭābharaḥ kesarī // Subhv_0609
+
+kaṭhoranakharāhatadviradakumbhapīṭhasthalī-
+luṭhadrudhirarañjitollalitakesaraḥ kesarī /
+gabhīraravakātarāturatarāturavyāhṛtaiḥ
+patanhariṇakaiḥ samaṃ samarabhūmikāṃ lajjate // Subhv_0610
+
+carata vṛṣabhā jālīmāṃsaṃ yathecchamabhīravaḥ
+pibata nalinīkaccheṣvacchaṃ punarmahiṣāḥ payaḥ /
+vahata kariṇo bhūyaḥ śobhāṃ madena kapolayor-
+asahanatayā dūrībhūto vidherta kesarī // Subhv_0611
+
+labdhā ḍambharamambare jaladharaṃ garjantamālokya yad-
+dūrāducchalitosi siṃha mahatāṃ tenaiva khinnaṃ manaḥ /
+yattvāsārabhayena saṃprati darīsāṃmukhyamālambase
+taddṛṣṭvaiva vayaṃ hriyā kimaparaṃ pātālamūlaṃ gatāḥ // Subhv_0612
+
+yasyānekamadāndhavāraṇaghaṭākumbhasthalībhedana-
+vyāpāraikavinodadurlalitayā kālogamallīlayā /
+udgarjajjalabhāravāmanaghanaspardhī sa evādhunā
+siṃhaḥ pañjarapātapuñjitatanurdhatte daśāmīdṛśīm // Subhv_0613
+
+kṣutkṣāmepi jarākṛśopi śithilaprāṇopi kaṣṭāṃ daśā-
+māpannopi vipannadhīdhṛtirapi prāṇeṣu naśyatsvapi /
+darpādhmātakarīndrakumbhadalanapreṅkhannakhāgrāśaniḥ
+kiṃ jīrṇaṃ tṛṇamatti mānamahatāmagresaraḥ kesarī // Subhv_0614
+
+nāsyocchrāyavatī tanurna daśanau no dīrghadīrghaḥ karaḥ
+satyaṃ vāraṇa naiṣa kesariśiśustvāḍambaraiḥ spardhate /
+tejobījamasahyamasya hṛdaye nyastaṃ purā vedhasā
+tādṛktvādṛśameva yena sutarāṃ bhojyaṃ paśuṃ manyate // Subhv_0615
+
+mādyanmātaṅgakumbhasthalabahalavasāvāsanāvisragandha-
+vyāsaṅgavyaktamuktāphalaśakalalasatkesarālīkarālaḥ /
+vyādhīvaidhavyavedhāḥ svabhujabalamadagrastatejasvidhāmā
+vibhyatsāraṅgasārthaḥ satatamasahanaḥ kesarī kena dṛṣṭaḥ // Subhv_0616
+
+kaḥ kaḥ kutra na ghurghurāyitaghurīghoro ghuretsūkaraḥ
+kaḥ kaḥ kaṃ kamalākaraṃ vikamalaṃ kartuṃ karī nodyataḥ /
+ke ke kāni vanānyaraṇyamahiṣā nonmūlayeyuryataḥ
+siṃhīsnehavilāsabaddhavasatiḥ pañcānano vartate // Subhv_0617
+
+ā bālyādapi yo vidāritamadonmattebhakumbhasthalī-
+sthālīmadhyakavoṣṇaraktarasavanmuktāpulākapriyaḥ /
+hastastasya kathaṃ prasarpatu puraḥ kṛcchrepyavasthāntare
+gartāvartavivartamānaśaśakaprāṇāpahāre hareḥ // Subhv_0618
+
+raktāktayannakharakoṭinibhādibhānāṃ
+yūthāḥ palāśavanatopi palāyya jagmuḥ /
+siṃhasya tasya jarato viṣamā daśā yad-
+gomāyavairavayavairapi nāsti vṛttiḥ // Subhv_0619
+
+parjanyaṃ prati garjataḥ pratinidhīnvindhyasya vātoddhatā-
+nambhodhīniva dhāvataḥ sarabhasaṃ hatvā raṇe vāraṇān /
+vṛkṣādvṛkṣamupeyuṣolpavapuṣaḥ śākhāmṛgasyopari
+kruddhaḥ sopi bhavānaho bata gataḥ pañcāsya hāsyāṃ daśām // Subhv_0620
+
+huṃkāraiḥ stanitānukāracaturairnyakkāramākārita-
+kṣauṇībhṛcchikharaśriyo gajaghaṭā nītvā madāṭopinīḥ /
+siṃhaḥ saṃhatabhāvato daśadiśaḥ kliśyatsu durvāśitair-
+gomāyuṣvapi viśvaviśvaviditaprauḍhiḥ kimudyacchate // Subhv_0621
+
+karikalabha vimuñca lolatāṃ
+cara vinayavratamānatānanaḥ /
+mṛgapatinakhakoṭibhaṅguro
+gururupari kṣamate na teṅkuśaḥ // Subhv_0622
+
+keliṃ kuruṣva paribhuṅkṣva saroruhāṇi
+gāhasya śailataṭanirjhariṇīpayāṃsi /
+bhāvānuraktakariṇīkaralālitāṅga
+mātaṅga muñca mṛgarājaraṇābhilāṣam // Subhv_0623
+
+ucchṛṅkhalena nirapekṣatayonmadena
+yenākulīkṛtamidaṃ kariṇā babhūva /
+dattvā padaṃ śirasi hastipakārbhakeṇa
+mandaḥ kathaṃ gamita eṣa vaśaṃ prasahya // Subhv_0624
+
+vindhyādrisānutarupuṣpapatatparāga-
+saṃpuñjapūjitakaraḥ kariyūthasevyaḥ /
+yobhūtsa eva nṛnideśakaraḥ karīndro
+jātaḥ kathaṃ kimathavā prabhuratra kālaḥ // Subhv_0625
+
+antaḥsamutthavirahānalatīvratāpa-
+saṃtāpitāṅga karipuṅgava muñca śokam /
+dhātrā svahastalikhitāni lalāṭapaṭṭe
+ko vākṣarāṇi parimārjayituṃ samarthaḥ // Subhv_0626
+
+bho bhoḥ karīndra divasāni kiyanti tāvad-
+asminmarau samativāhayakutracittvam /
+revājalairnijakareṇukaraprayuktair-
+bhūyaḥ śamaṃ gamayitāsi nidāghakāle // Subhv_0627
+
+asmiñjaḍe jagati ko nu bṛhatpramāṇa-
+karṇaḥ karī nanu bhavedduritasya pātram /
+ityāgataṃ tamapi yolinamunmamātha
+mātaṅga eva kimataḥ paramucyatesau // Subhv_0628
+
+na gṛhṇāti grāsaṃ navakamalakiṃjalkini jale
+na paṅkairāhlādaṃ vrajati bisabhaṅgārdhaśakalaiḥ /
+lalantīṃ premārdrāmapi viṣahate nānyakariṇīṃ
+smarandāvabhraṣṭāṃ hṛdayadayitāṃ vāraṇapatiḥ // Subhv_0629
+
+latāntānnādatte śaśiśakalaśītaṃ na ca jalaṃ
+bhramadbhṛṅgāsaṅgāḥ pariharati kāntāḥ kamalinīḥ /
+dadhadbhārākāraṃ karamapi karī jātaviraho
+vitanvannucchvāsānkṣaṇamapi vatānte na ramate // Subhv_0630
+
+nadīvaprānbhittvā kisalayavadutpāṭya ca tarūn-
+madonmattāñjitvā karacaraṇadantaiḥ pratigajān /
+jarāṃ prāpyānāryāṃ taruṇajanavidveṣajananīṃ
+sa evāyaṃ nāgaḥ sahati kalabhebhyaḥ paribhavam // Subhv_0631
+
+varamiyamaṅkuśakṣatiralakṣitamāpatitā
+vinayavidhitsayā śirasi te gajayūthapate /
+na punarapaścimā karajavajraśikhābhihatiḥ
+prasabhasamutthitasya niśitā vanakesariṇaḥ // Subhv_0632
+
+svādhīnāṃ pravihāya śailakaṭakaprānte kareṇa vane
+yatte nāgarikājane nipatitaṃ sadbhāvaśūnye manaḥ /
+tasyaitaddṛḍharajjubandhanavadhavyāpārakhedātmakaṃ
+he mattadvipu karmaṇaḥ pariṇataṃ rāgānurūpaṃ phalam // Subhv_0633
+
+kvākāro girisannibhaḥ kva ca gatirvegena līlā ca sā
+helākuḍmalitekṣaṇāḥ kva nu dṛśastadvā kva te bṛṃhitam /
+vaprāghātarasaḥ kva te kva ca karaḥ kaṣṭaṃ yadevaṃvidhaṃ
+tvāmāruhya śiśuḥ padā paravaśaṃ saṃcārayatyājñayā // Subhv_0634
+
+pādāghātavighūrṇitā vasumatī trāsālasāḥ pakṣiṇaḥ
+paṅkāṅkāni sarāṃsi gaṇḍakaṣaṇakṣodakṣatāḥ śākhinaḥ /
+prāpyedaṃ karipotakairvidhivaśācchārdūlaśūnyaṃ vanaṃ
+tattannāma kṛtaṃ viśṛṅkhalatayā vaktuṃ na yatpāryate // Subhv_0635
+
+puṇḍrekṣūnapi bhakṣayanghṛtabhṛto māṃsaudanādīnapi
+prāvṛṇvanvividhāḥ kuthā api vahannakṣatramālā api /
+karṇe cāmaramālikāmapi dadhaddantī tathāpi smara-
+nvaindhyīnāṃ ghanasallakīvanabhuvāmāste sadā duḥkhitaḥ // Subhv_0636
+
+nīvāraprasavāgramuṣṭikavalairyo vardhitaḥ śaiśavo
+pītaṃ yena sarojapattrapuṭake homāvaśeṣaṃ payam /
+taṃ dṛṣṭvā madamantharālivalayavyālupragaṇḍaṃ gajaṃ
+sotkaṇṭhaṃ sabhayaṃ ca paśyati muhurdūre sthitastāpasaḥ // Subhv_0637
+
+dante nyasya karaṃ pralambitaśirāḥ saṃmīlya netradvayaṃ
+kiṃ tvaṃ vāraṇa tapyase gaṇikayā ko nāma no vañcitaḥ /
+grāsaṃ śāntamanā gṛhāṇa satataṃ śokodhunā tyajyatāṃ
+ye mattā avivekinaścaladhiyaste prāpnuvantyāpadam // Subhv_0638
+
+patyuryatkavalāvaśeṣapatitagrāsena vṛttiḥ kṛtā
+pītaṃ yacca karāvagāhakaluṣaṃ tatpītaśeṣaṃ payaḥ /
+prāṇānpūrvataraṃ vihāya tadidaṃ prāptaṃ kariṇyā phalaṃ
+yadbandhārpaṇakātarasya kariṇaḥ kliṣṭaṃ na dṛṣṭaṃ mukham // Subhv_0639
+
+ghāsagrāsaṃ gṛhāṇa tyaja gajakalabha premabandhaṃ kariṇyāḥ
+pāśagranthivraṇānāmabhimatamadhunā dehi paṅkānulepam /
+dūrībhūtāstavaite śabaravaravadhūvibhramodbhrāntaramyā
+revākulopakaṇṭadrumakusumarajo dhūsarā vindhyapādāḥ // Subhv_0640
+
+lāṅgūlacālanamadhaścaraṇāvapātaṃ
+bhūmau nipatya vadanodaradarśanaṃ ca /
+śvā piṇḍadasya kurute gajapuṅgavastu
+dhīraṃ vilokayati cāṭuśataiśca bhuṅkte // Subhv_0641
+
+yadvindhyaḥ śikharī tadantarapi yatpīlupriyaḥ pippalaḥ
+sotkaṇṭhā rabhasāgamādabhipatadreṇuḥ kareṇuśca yat /
+tatkiṃ bhadratayā smaratyapi karī daivaṃ hi sarvaṃkaṣaṃ
+tanmṛtyorapi duḥsahaṃ tu yadayaṃ mando dhuri sthāpitaḥ // Subhv_0642
+
+madhyevindhyamudūrminārmadanadīvātūlavātāvalī-
+heloddhūlitamallikākisalayairyo vṛddhimabhyāgataḥ /
+soyaṃ daivavaśādvaśāvirahitaḥ śūtkārakārī karī
+nirmajjadvajarajjupāśavivaśaḥ kaṣṭaṃ kimāceṣṭām // Subhv_0643
+
+he gandhakuñjara mahāgirikuñjarāji-
+madyāpi mā smara salīlanimīlitākṣaḥ /
+muñcābhimānamadhunā bhaja vartamānaṃ
+vakraṃ vidherupari śāsanamaṅkuśaṃ ca // Subhv_0644
+
+svacchasvādujalā vihāya sarito hartuṃ tṛṣaṃ duḥsahāṃ
+mā matta dviradākṣi nikṣipa śaratkṛṣṭe taḍāgāmbuni /
+pītesminsakalepi gacchati na te śāntiṃ pipāsā jale
+grāmasyaikagateramuṣya niyataṃ syājjīvite saṃśayaḥ // Subhv_0645
+
+dūrvākuratṛṇāhārā dhanyāstāta vane mṛgāḥ /
+vibhavonmattacittānāṃ na paśyanti mukhāni yat // Subhv_0646
+
+amṛtā vigataprāṇā sāntaḥśalyākṛtavraṇā /
+abaddhā niścalevāste kūṭasaṃsthe mṛge mṛgī // Subhv_0647
+
+rajjvā diśaḥ pravitatāḥ salilaṃ viṣeṇa
+pāśairmahī hutabhujā jvalitā vanāntāḥ /
+vyādhāḥ padānyanusaranti gṛhītabāṇāḥ
+kaṃ deśamāśrayati yūthapatirmṛgāṇām // Subhv_0648
+
+drutataramito gaccha prāṇaiḥ kuraṅga viyujyase
+kimiti valitagrīvaṃ sthitvā muhurmuhurīkṣase /
+vidadhati hatavyādhānāṃ te manāgapi nārdratāṃ
+kaṭhinamanasāmeṣāmete vilocanavibhramāḥ // Subhv_0649
+
+sthalīnāṃ dagdhānāmupari mṛgatṛṣṇāmanusaraṃs-
+tṛṣārtaḥ sāraṅgo viramati na khinnepi manasi /
+ajānānastattvaṃ na sa mṛgayatenyatra sarasī-
+mabhūmau pratyāśā na ca phalati vighnaṃ ca kurute // Subhv_0650
+
+he sāraṅga tṛṇānyaśāna salilaiḥ prāṇānpuṣāṇāthavā
+yadvā syāḥ pavanāśanastadapi te sāviṣkṛti prāṇitam /
+yeneyaṃ bhavatocchvasatkuvalayaprastāracārudyutir-
+dṛṣṭirvittamadoddhatākṣiṇi mukhe mūrkhasya nāyāsitā // Subhv_0651
+
+alpīyaḥskhalanena yatra patanaṃ kṛcchreṇa yatronnatir-
+dvāre vetralatāvitānagahane kaṣṭaḥ praveśakramaḥ /
+he sāraṅga manoramā vanabhuvastyaktvā viśeṣārthinā
+kiṃ bhūbhṛtkaṭakasthitivyasaninā vyarthaṃ khurāḥ śātitāḥ // Subhv_0652
+
+naitāstā malaya kānanabhuvaḥ svacchasravannirjharās-
+tṛṣṇā yāsu nivartate tanubhṛtāmālokamātrādapi /
+rūkṣadhvāṅkṣaparigraho bharurayaṃ sphārībhavadbhrāntayas-
+tā etā mṛgatṛṣṇikā hariṇa he nedaṃ payo gamyatām // Subhv_0653
+
+tyaktaṃ janmavanaṃ tṛṇāṅkuravatī māteva muktā sthalī
+visrambhasthitihetavo na gaṇitā bandhūpamāḥ pādapāḥ /
+bālāpatyaviyogaduḥkhavidhurā nāpekṣitā sā mṛgī
+mārgantaḥ padavīṃ tathāpyakaruṇā vyādhā na muñcantyamī // Subhv_0654
+
+chittvā pāśamapāsya kūṭaracanāṃ bhaṅktvā balādvāgurāṃ
+paryastāgniśikhākalāpajaṭilānnirgatya dūraṃ vanāt /
+vyādhānāṃ śaragocarādapi javenotplutya dhāvanmṛgaḥ
+kūpāntaḥ patitaḥ karoti vidhure kiṃ vā vidhau pauruṣam // Subhv_0655
+
+svairī bhrāmyasi nātha kāmyasi paradvārāṇi nottāmyasi
+nādyānāmanimittakopakuṭilālāpaṃ mukhaṃ paśyasi /
+muñcasyekamapi kṣaṇaṃ prakaṭitapremāṃ ca na preyasīṃ
+he sāraṅga tavātisundaramidaṃ kenopadiṣṭaṃ vratam // Subhv_0656
+
+svacchandaṃ hariṇena yā viharatā daivātsamāsāditā
+bhaṅgaprasrutadugdhabindubisarā śālernavā mañjarī /
+niḥśvāsānaladagdhakomalatṛṇaprakhyāpitāntarvyathas-
+tāmeva prativāsaraṃ muniriva dhyāyanvane śuṣyati // Subhv_0657
+
+sāraṅgo na latāgṛheṣu ramate no paṃsule bhūtale
+no ramyāsu vanopakaṇṭhaharitacchāyāsu śītāsvapi /
+tāmevāyatalocanāmanudinaṃ dhyāyanmuhuḥ preyasīṃ
+śailendrodarakaṃdareṣu gatadhīḥ śṛṅgāriveṣaḥ sthitaḥ // Subhv_0658
+
+śṛṅgeṇāṅgaṃ mṛgāṇāṃ kaṣati paricayaprāptaye niḥspṛhāṇāṃ
+mandasvacchandacārī pariharati bhayādālayaṃ yūthapasya /
+dṛṣṭastiṣṭhatyalakṣyo jhagiti nipatitaistatkuraṅgīkaṭākṣaiḥ
+sāraṅgo duḥkhamāste vidhuravidhivaśādanyayūthapraviṣṭaḥ // Subhv_0659
+
+ādāya māṃsamakhilaṃ stanavarjamaṅgān-
+māṃ muñca vāgurika yāhi kuru prasādam /
+adyāpi ghāsakavalagrasanānabhijño
+manmārgavīkṣaṇaparastanayo madīyaḥ // Subhv_0660
+
+puro revā pāre giriratidurārohaśikharaḥ
+saraḥ savye vāme davadahanadāhavyatikaraḥ /
+dhanuṣpāṇiḥ paścācchabarahatako dhāvatitarāṃ
+na yātuṃ na sthātuṃ hariṇāśiśureṣa prabhavati // Subhv_0661
+
+kva krīḍati kva carati kva karoti vṛttiṃ
+vāri kva nāma pibati svapiti kva nāma /
+itthaṃ mṛgaṃ niraparādhamabādhamānaṃ
+vyādhonudhāvati vadhāya dhanurdadhānaḥ // Subhv_0662
+
+candraḥ sudhāṃśurayamatrisuto dvijeśaḥ
+puṇyairavāpi śaraṇāya mayeti toṣam /
+mugdhaiṇaśāva bhaja mā tyaja pāpamenaṃ
+mīnaṃ prabhujya sahasā kṛtameṣabhogam // Subhv_0663
+
+karabha yadi kadācitprabhramandaivayogān-
+madhukarakulatastvaṃ prāpayethā madhūni /
+virama virama tebhyaḥ santi śaṣpāṇyaraṇye
+prathamamukharasāste śoṣayantyeva paścāt // Subhv_0664
+
+vikacakumudaiḥ phullāmbhojaiḥ sarobhiralaṃkṛtāṃ
+marakatamaṇiśyāmāṃ śaṣpairvihāya vanasthalīm /
+smarati karabho yadvṛkṣāṇāṃ caranmarudhanvanāṃ
+paricayaratiḥ sā durvārā na sā guṇavairitā // Subhv_0665
+
+karabhadayite yattatpītaṃ sudurlabhamekadā
+madhu vanagataṃ tasyālābhe virauṣi kimutsukā /
+kuru paricitaiḥ pīloḥ pattrairdhṛtiṃ marugocare
+jagati sakale kasyāvāptiḥ sukhasya nirantarā // Subhv_0666
+
+karabhadayite yosau pīlustvayā madhulubdhayā
+vyapagatadhanacchāyastyakto na sādaramīkṣitaḥ /
+calakisalayaḥ sopīdānīṃ prarūḍhanavāṅkuraḥ
+karabhadayitāvṛndairanyaiḥ sukhaṃ paribhujyate // Subhv_0667
+
+karabha kimidaṃ dīrghocchvāsaiḥ kṣiṇoṣi śarīrakaṃ
+virama śaṭhe he kasyātyantaṃ sakhe sukhamāgatam /
+cara kisalayaṃ svasthaḥ pīlorvimuñca madhuspṛhāṃ
+punarapi bhavānkalyāṇānāṃ bhaviṣyati bhājanam // Subhv_0668
+
+karabha rabhasātkroṣṭuṃ vāñchasyaho śravaṇajvaraḥ
+śaraṇamathavānṛjvī dīrghā tavaiva śirodharā /
+pṛthugalabilāvṛttiśrāntoccariṣyati vāṅmukhā-
+diyati samaye ko jānīte bhaviṣyati kasya kim // Subhv_0669
+
+tathā saṃtuṣṭaḥ sañjalavṛṇaśamīpīlubadaraiś-
+caransvasthoraṇye karabhaśiśukaḥ śokarahitaḥ /
+kṛto madhvāsvādapravaṇahadayo mugdhavidhinā
+yathā nānyadbhuṅkte na pibati na śete na ramate // Subhv_0670
+
+yasyāsīnnavapīlupattrabadaragrāsopi saṃtuṣṭaye
+dīrghādhvanyanugamyate na padavī yasya svayūthyairapi /
+soyaṃ saṃprati yāti bālakarabhaḥ kṣīṇodyamaḥ kṣāmatāṃ
+manye nūnamanena daivahatakenāsvāditaṃ bhrāmaram // Subhv_0671
+
+pīlūnāṃ hi phalaṃ kaṣāyarahitaṃ romanthayitvā marau
+śākhāgraṃ yadakhādi cāru karabhīvaktrārpitaṃ premataḥ /
+tatsmṛtvā karabhena khedavidhuraṃ dīrghaṃ tathā kūjitaṃ
+prāṇānāmabhavattadeva sahasā prasthānatūryaṃ yathā // Subhv_0672
+
+kramelakaṃ nindati komalecchuḥ
+kramelakaḥ kaṇṭakalampaṭastam /
+prītau tayoriṣṭabhujoḥ samāyāṃ
+madhyasthatā naikataropahāsaḥ // Subhv_0673
+
+eka eva khago mānī vane vasati cātakaḥ /
+pipāsito vā mriyate yācate vā puraṃdaram // Subhv_0674
+
+ayi cakitamugdhacātaka marubhuvi dhāvasi mudhā kimudgrīvam /
+grīṣme davāgnivalitastāpicchoyaṃ na vidyutvān // Subhv_0675
+
+pipāsurapyeva jalaṃ śikhaṇḍī
+pratīkṣate prāṇasamāṃ pibantīm /
+nūnaṃ priyāsnehanibaddhadṛṣṭiḥ
+svalpaṃ payaḥ paśyati nimnagāsu // Subhv_0676
+
+atyunnativyasaninaḥ śirasodhunaiṣa
+svasyaiva cātakaśiśuḥ praṇayaṃ vidhattām /
+asyaitadicchati nahi pratatāsu dikṣu
+tāḥ svacchaśītamadhurāḥ kva nu nāma nāpaḥ // Subhv_0677
+
+kekāḥ kalā vanabhuvastilakāyamāno
+ramyaḥ kalāpamahimaiṣa śikhaṇḍinosya /
+durlakṣaṇaṃ nanu vihāyasi vāyasādi-
+kṣuṇṇepyayaṃ caṭakatulyagatirna jātaḥ // Subhv_0678
+
+nīlābjapuñjarajasāruṇitānvimucya
+svacchānsudhādhikarasānapi vārirāśīn /
+yaccātakaḥ pibati vāridharodabindūn-
+manye tadānatibhayācchirasobhimānī //
+divyāmbupānaniyamastava mohayetkaṃ
+doṣopi saṃvṛtimatāṃ bhajate guṇatvam bhūmisthamambu yadi cātaka pātumiccheḥ
+kaṇṭhavraṇaṃ prakaṭayestadayogyatāṃ ca //
+divyāmbupānaniyamastava mohayetkaṃ
+doṣopi saṃvṛtimatāṃ bhajate guṇatvam // Subhv_0679
+
+kiṃ naiva santi navatāmarasāvataṃsā
+haṃsāvalīvalayino jalasanniveśāḥ /
+kopi graho gururayaṃ bata cātakasya
+pauraṃdarīṃ yadabhivāñchati vāridhārām // Subhv_0681
+
+kiṃ dūreṇa payodharā upari kiṃ nānye raṭantaḥ śrutā
+nindyāḥ pāpatayā svakukṣiṣu gatāḥ kiṃ nāma pakṣāḥ kṣayam /
+ramyaṃ vā gagane na kiṃ viharaṇaṃ kiṃ tūgrakākāvalī-
+paryāyapratipattilāghavabhayādbhūmau sthitā barhiṇaḥ // Subhv_0682
+
+no tāṇḍavena nayanāmṛtanirjhareṇa
+kekāraveṇa na ca karṇarasāyanena /
+barheṇa cāpi suracāparucā tavāya-
+moturna tuṣyati śikhinvadhamantareṇa // Subhv_0683
+
+cātaka tāta kiyadbhavatā pātakamatulamakāri /
+navajaladādapi cañcupuṭe yattava na patati vāri // Subhv_0684
+
+jalakaṇavitaraṇarahitaḥ prakaṭitadhavalitaveṣaḥ /
+cātaka raṭasi vṛthā kiṃ jaladaḥ śārada eṣaḥ // Subhv_0685
+
+santi kūpāḥ sphuradrūpāḥ paritaḥ saritaḥ śubhāḥ /
+tathāpi cātakasyaikaḥ phalado jaladodayaḥ // Subhv_0686
+
+kekānibhāddhaṭayase paṭucāṭukāni
+cañcatkalāpamapi nṛtyasi rañjanāya /
+he cātaka prayatase jaladaṃ pratītthaṃ
+binduṃ jalasya labhase na ca lajjase ca // Subhv_0687
+
+vāhatvamīśvarasutasya vidhāya barhin-
+pramlāyitaḥ sa nijapakṣakalāpa eva /
+nārādhitaḥ sa bhavatā puruṣottamaḥ kiṃ
+yaste tṛṣaṃ praśamayetkacameghavarṣaiḥ // Subhv_0688
+
+vasatotiśayaprītyā mānasocitasaṃsthiteḥ /
+palvalāmbhasi haṃsasya haṃsataiva vikalpyate // Subhv_0689
+
+pibanti madhu padmebhyo bhṛṅgāḥ kesaradhūsarāḥ /
+haṃsāḥ śaivālamaśnanti dhigdaivamasamañjasam // Subhv_0690
+
+yadi nāma daivayogājjagadasarojaṃ kadācidapi jātam /
+avakaranikaraṃ vikirati tatkiṃ kṛkavākuriva haṃsaḥ // Subhv_0691
+
+kaṭu raṭati nikaṭarvatī vācāṭaṣṭiṭṭibhaḥ paṭuryatra /
+apasaraṇameva śaraṇaṃ maunaṃ vā tatra haṃsasya // Subhv_0692
+
+astu yadyapi sarvatra nīraṃ nīrajamaṇḍitam /
+ramate na marālasya mānasaṃ mānasaṃ vinā // Subhv_0693
+
+kṣudhitopi padmakhaṇḍe jahāti rajasāvṛtaṃ hi kiṃjalkam /
+guṇini kṛtapakṣapāto bisaṃ tu bahu manyate haṃsaḥ // Subhv_0694
+
+taralayasi dṛśaṃ kimutsukā-
+makulaṣamānasavāsalālite /
+avatara kalahaṃsi vāpikāṃ
+punarapi yāsyasi paṅkajālayam // Subhv_0695
+
+bhṛṅgāṅganājanamanoharahārigīta-
+rājīvareṇukraṇakīrṇapaśaṅgatoyām /
+ramyāṃ himācalanadīṃ pravihāya haṃsa
+he he hatāśa vada kāṃ diśamutsukosi // Subhv_0696
+
+he haṃsa melitapayaḥsalilaṃ vivektuṃ
+śaktasya saṃprati matiḥ kva nu tedya yātā /
+kāsāravāriṇi kalāṃ patitāṃ yadindo-
+rādātumicchasi bisāṅkuravāñchayā tvam // Subhv_0697
+
+śītāṃśuśekharaśiroruhasaṃśritāni
+puṇyāni pāvitajaganti manoramāṇi /
+bhrāntvā ciraṃ surasaritsalilāni daivāl-
+labdhāni hātumiha vāñchasi nāsi haṃsaḥ // Subhv_0698
+
+sthitvā ciraṃ nabhasi niścalatārakeṇa
+mātaṅgasaṅgakaluṣāṃ nalinīṃ nirīkṣya /
+utpannamanyuparighargharaniḥsvanena
+haṃsena sāśru parivṛtya gataṃ na līnam // Subhv_0699
+
+yenojjhitaṃ sahacarīvadanopanītaṃ
+ramyaṃ mṛṇālaśakalaṃ himaśaṅkhaśubhram /
+soyaṃ khago hatavidhe tava ceṣṭitena
+śevālanālalavalampaṭatāṃ vidhatte // Subhv_0700
+
+raṭasi kaṭu kimuccairvāyasa spardhayā me
+vihagahataka viṣṭhāraktavaktrāntarālaḥ /
+vitatadhavalapakṣākṣepavikṣobhitāmbhāḥ
+kamalavanavihārī sārasohaṃ na kākaḥ // Subhv_0701
+
+haṃsodhvagaḥ śramamapohayituṃ dinānte
+kāraṇḍakākabakabhāsavanaṃ praviṣṭaḥ /
+mūkoyamityupahasanti lunanti pakṣān-
+nīcāśrayo hi mahatāmavamānabhūmiḥ // Subhv_0702
+
+kva kaṭhinamaho pīloḥ pattraṃ mṛduḥ kva bisāṅkuraḥ
+kva kaṭu lavaṇaṃ kaupaṃ cāmbhaḥ kva tāmarasāsavaḥ /
+kva kusumarajo hṛdyaṃ rūkṣāḥ kva coṣarapāṃsavaḥ
+kva maruviṣayo dhvāṅkṣakṣetraṃ kva haṃsa bhavādṛśāḥ // Subhv_0703
+
+bho rājahaṃsa kimiti tvamihāgatosi
+yosau bakaḥ sa iha haṃsa iti pratītaḥ /
+tadgamyatāṃ tvaritameva tataḥ prabhāte
+yāvadvadanti baka eṣa na mūḍhalokāḥ // Subhv_0704
+
+aye vāpīhaṃsā nijavasatisaṃkocapiśunaṃ
+karudhvaṃ mā ceto viyati bahato vīkṣya vihagān /
+amī te sāraṅgā bhuvanamahanīyavratabhṛto
+nirīhāṇāmeṣāṃ tṛṇamiva bhavantyambunidhayaḥ // Subhv_0705
+
+tarau tīrodbhūte kvacidapi dalācchāditatanuḥ
+pataddhārāsārāṃ gamaya viṣamāṃ prāvṛṣamimām /
+nivṛttāyāṃ tvasyāṃ sarasi sarasotphullanaline
+sa eva tvaṃ haṃsaḥ punarapi vilāsāsta iha te // Subhv_0706
+
+gataṃ tadgāmbhīryaṃ jalamapi vṛtaṃ jālakaśataiḥ
+sakhe haṃsottiṣṭha prathamamamuto dagdhasarasaḥ /
+sa yāvatpaṅkāmbhaḥkaluṣitavapurbhūrivilapan-
+na kāko vācāṭaścaraṇayugalaṃ mūrdhni kurute // Subhv_0707
+
+spṛśati na bisaṃ cañcvā bhūyastayā saha khaṇḍitaṃ
+pibati na jalaṃ yāti svaptuṃ na śevalajālakam /
+kamalakalikābhaṅgakrīḍāṃ karoti na sārasaḥ
+kvaṇati karuṇaṃ śokagrastaḥ priyāvirahākulaḥ // Subhv_0708
+
+sarasi bahuśastārāchāyāṃ daśanparivañcataḥ
+kumuda viṭapānveṣī haṃso niśāsvavicakṣaṇaḥ /
+daśati na punastārāśaṅkī divāpi sitotpalaṃ
+kuhakacakito lokaḥ satyepyapāyamapekṣate // Subhv_0709
+
+muktābhāni payāṃsi bhaṅgavilasaddugdhā bisagranthayaḥ
+sphītāstāmarasāsavā viharaṇakrīḍāsahaṃ saikatam /
+santyeva pratideśamatraviṣame he haṃsa paṅkāṅkite
+dhṛṣṭoktruṣṭabake jaratsarasi te koyaṃ nivāsagrahaḥ // Subhv_0710
+
+āpūryeta punaḥ sphuracchapharikāsārormibhirvāribhir-
+bhūyopi pravibhajyamānanalinaṃ paśyema toyāśayam /
+ityāśāśatatantubaddhahṛdayo naktaṃdinaṃ dīnadhīḥ
+śuṣyatyātapaśoṣitasya sarasastīre jaratsārasaḥ // Subhv_0711
+
+tāvaddolitapaṅkajacyutarajaḥpiṅkāṅgarāgojjvalp
+yaḥ śṛṇvankalakūjitaṃ madhulihāṃ saṃjātaharṣotsavaḥ /
+kāntācañcupuṭāpavarjitabisagrāsagrahepyakṣamaḥ
+soyaṃ saṃprati haṃsako marugataḥ kaṣṭaṃ tṛṇaṃ vāñchati // Subhv_0712
+
+yāṃ smṛtvā sahasaiva mānasasarastyaktvā viśeṣārthinas-
+tāmevotsukacetasaḥ kamalinīṃ dṛṣṭvā bakādhyāsitām /
+līyante vigatābhimānalaghavastatraiva bhūyopi ye
+haṃsāste na bhavanti haṃsadhavalāḥ prāyo bakā eva te // Subhv_0713
+
+yāmāliṅgya bakā raṭanti kaṭukaṃ dīrghocchvasatkaṃdharā
+yasyāmaṃsataṭāvaghaṭṭitajalaṃ valgantyamī madgavaḥ /
+yā śaśvanmalinātmakairapi bakairnaktaṃdinaṃ sevyate
+sā haṃsena manasvinā kamalinī yuktaṃ yadi tyajyate // Subhv_0714
+
+rūpaṃ hāri manoharā sahacarī pānāya pādmaṃ madhu
+krīḍā cāpsu saroruheṣu vasatisteṣāṃ rajo maṇḍanam /
+vṛttiḥ sādhumatā bisena sahṛdaścārusvanāḥ ṣaṭpadāḥ
+sevādainyavimānanāvirahito haṃsaḥ sukhaṃ jīvati // Subhv_0715
+
+matsyā api hi jānanti kṣīranīravivecanam /
+prasiddhaṃ rājahaṃsānāṃ yaśaḥ puṇyairavāpyate // Subhv_0716
+
+kruddholūkanakhaprapātavigalatpakṣā api svāśrayaṃ
+ye nojjhanti purīṣapuṣṭavapuṣastekecidanye dvijāḥ // Subhv_0717
+
+ye tu svargataraṅgiṇībisalatāleśena saṃvardhitā
+gaṅgānīramapi tyajanti kaluṣaṃ te rājahaṃsāḥ kutaḥ //
+samudgirasi vācaḥ kiṃ puṃskokila sukomalāḥ /
+śvabhresmiñjaḍapāṣāṇagurunirghoṣabhairave // Subhv_0718
+
+kākaiḥ saha vivṛddhasya kokilasya kalā giraḥ /
+khalasaṅgepi naiṣṭhuryaṃ kalyāṇaprakṛteḥ kutaḥ //
+śrotrotsavaṃ tava kalaṃ kalakaṇṭha kotra
+nādaṃ śṛṇoti rativigrahasaṃdhidūtam /
+dāvāgnidagdhaghanapādapakoṭarānta-
+rāvirbhavatkaṭuravāsu vanasthalīṣu // Subhv_0720
+
+mūkīmūya tameva kokila madhuṃ bandhuṃ pratīkṣasva he
+helollāsitamālatīparimalāmodānukūlānilam /
+yatraitāstava sūktayaḥ saphalatāmāyāntyamī tūllasat-
+pāṃsūttambhabhṛto nidāghadivasāḥ saṃtāpasaṃdhāyinaḥ // Subhv_0721
+
+bhrātaḥ kokilakūjitairalamalaṃ nārghanti yasmādguṇās-
+tūṣṇīmāḥsva viśīrṇaparṇanicayacchannaḥ kvacitkoṭare /
+udyānadrumavāṭikākaṭuraṭatkākāvalīṃsakulaḥ
+kāloyaṃ śiśirasya saṃprati sakhe nāyaṃ vasantotsavaḥ // Subhv_0722
+
+kvacijjhillīnādaḥ kvacidatulakākolakalahaḥ
+kvacitkaṅkārāvaḥ kvacidapi kapīnāṃ kalakalaḥ /
+kvaciddhoraḥ pherudhvanirayamaho daivaghaṭanā
+kathaṃkāraṃ tāraṃ kvaṇatu cakitaḥ kokilayuvā // Subhv_0723
+
+... ... ... ... ... ... //
+ketakīkusumaṃ bhṛṅgaḥ pīḍyamānopi sevate /
+doṣāḥ kiṃ nāma kurvanti guṇāpahṛtacetasaḥ // Subhv_0724
+
+kṛtvāpi koṣapānaṃ bhramarayuvā purata eva kamalinyāḥ /
+abhilaṣati bakulakalikāṃ madhulihi maline kutaḥ satyam // Subhv_0725
+
+madanamavalokya niṣphalamanityatāmapi ca bandhujīvānām /
+gurumupagamya bhramaraḥ saṃprati jāto japāsaktaḥ // Subhv_0726
+
+bhramara bhramatā digantarāṇi
+kvacidāsāditamīkṣitaṃ śrutaṃ vā /
+vada satyamapāsya pakṣapātaṃ
+yadi jātīkusumānukāri puṣpam // Subhv_0727
+
+kamalaṃ bhavanaṃ rajoṅgarāgo
+madhu pānaṃ madhurāḥ priyāpralāpāḥ /
+śayanaṃ mṛdu kesaropadhānaṃ
+bhramarasyāmbhasi kā na rājalīlā // Subhv_0728
+
+patitamutpatitaṃ sthitamakriyaṃ
+sakaruṇaṃ kvaṇitaṃ gatamāgatam /
+kamalinīmalinā tuhināhatāṃ
+nahi tadasti vilokya na yatkṛtam // Subhv_0729
+
+kamalinīmalinī dayitaṃ vinā
+na sahate saha tena niṣevitām /
+tamadhunā madhunā nihitaṃ hṛdi
+smarati sā ratisāramaharniśam // Subhv_0730
+
+madaṃ na lipseta śilīmukho yadi
+dvipānna karṇāgranipātamāpnuyāt /
+paropasarpī sukhaleśalipsayā
+naro bhavatyeva parābhavāspadam // Subhv_0731
+
+madhukara bahuśastvayā nirastāḥ
+kusumalatāstṛṇāvatsupuṣpitāgrāḥ /
+phalamanubhava kaṇṭakāvṛtābhyas-
+tadidamapatrapa ketakīlatābhyaḥ // Subhv_0732
+
+pulleṣu yaḥ kamalinīkamalodareṣu
+cūteṣu yo vilasitaḥ kalikāntarasthaḥ /
+paśyādya tasya madhupasya śaradvyapāye
+kṛcchreṇa veṇuvivare divasāḥ prayānti // Subhv_0733
+
+puṣpāsavaṃ surabhi gandhirajoṅgarāgaḥ
+pītvā latāsu madhupaḥ kamale niṣaṇṇaḥ /
+baddhodhunā śaśikaraiḥ karuṇaṃ virauti
+saṃtoṣahīnamiha kaṃ na bhajantyanarthāḥ // Subhv_0734
+
+anyāsu tāvadupamardasahāsu bhṛṅga
+lolaṃ vinodaya manaḥ sumanolatāsu /
+nugdhānanāmarajasaṃ kalikāmakāle
+bālāṃ kadarthayasi kiṃ navamālikāyāḥ // Subhv_0735
+
+erāvaṇānanamadāmbukaṇāvapāta-
+saṃsaktatāmarasareṇupiśaṅgitāṅgaḥ /
+caṇḍānilāhatatuṣāraviśīrṇapakṣaḥ
+kṣīṇaḥ kṣitau madhukaro vivaśotra śete // Subhv_0736
+
+sotkaḥ paribhramasi kiṃ vyavapātidhairyaḥ
+kūjandvirepha karuṇaṃ kusumāsavārthī /
+anyāsu pādapalatāsu dhṛtiṃ badhāna
+bhagnā hi sā kusumitā sahakāravallī // Subhv_0737
+
+svāmodavāsitasamagradigantarālā
+raktā manoharamukhā sukumāramūrtiḥ /
+sevyā sarojakalikā tu yadaiva jātā
+nītastadaiva vidhinā madhuponyadeśam // Subhv_0738
+
+jātyujjvale madhurakomalavāgnilāsau
+dvau puṣkare madhukarau yugapatpraviṣṭau /
+ekastayormadhubharākulapūrṇadehaḥ
+kaṣṭe vidhau na rajasāpi yuto dvitīyaḥ // Subhv_0739
+
+madhukaragaṇaścūtaṃ tyaktvā gato navamālikāṃ
+punarapi gato raktāśokaṃ kadambataruṃ tataḥ /
+tadapi suciraṃ sthitvā tebhyaḥ prayāti saroruhaṃ
+paricitaguṇadveṣī loko navaṃ navamīhate // Subhv_0740
+
+likhitakamale saundaryeṇa prakāmahṛtātmanā
+kimiva na kṛtaṃ tatra bhrāntvā madhuspṛhayālinā /
+adhigatarasaḥ sobhūttasmānmanāgapi nālpadhīr-
+dhuri tu likhitastṛṣṇāndhānāṃ janena vivekinā // Subhv_0741
+
+bhramati bakule mandaṃ kunde na vindati nirvṛtiṃ
+prakṛtisurabhau raktāśoke na yāti viśokatām /
+surabhikusumāmodotkaṇṭhāpanītamanā vane
+vahati tanutāmaṅge bhṛṅgaḥ smarannavamālikām // Subhv_0742
+
+spṛśati śanakaiścumbannaṅgaiḥ karoti nipīḍanaṃ
+caraṇapatanaṃ mudrābhedaṃ vidhātumapīhate /
+samayamucitaṃ cittotsukyātpratīkṣitumakṣamo
+madhukarayuvā puṇyairlabdhvā navāṃ navamālikām // Subhv_0743
+
+himotsannāṃ dṛṣṭvā hatakamalanālāṃ kamalinīṃ
+dvirephāḥ saṃvṛttāḥ sapadi gajagaṇḍapraṇayinaḥ /
+aho dhigbhūtānāṃ prakṛtiriyamapratyayakarī
+na kaścitkṣīṇārthe prathamaguṇagandhaṃ gaṇayati // Subhv_0744
+
+kimāmodabhrāntyā bhramasi suciraṃ bhṛṅga nanu he
+na jānīṣe tattvaṃ pratapatitarāṃ grīṣmasamayaḥ /
+sthitaṃ śūnyaṃ puṣpaiḥ prakaṭaviṭapaṃ paśya vipinaṃ
+gataḥ gaurabhyāḍhyaḥ prakṛtisubhagaścaitravibhavaḥ // Subhv_0745
+
+kenāghrātamudāramasya kusumaṃ kaiścumbitaṃ kesaraṃ
+pītaḥ kena rasosya kena rajasā codvellitaṃ kena vā /
+he he mugdhamadhuvrata vraja javādanyāṃstarūnpuṣpitā-
+nuttāletra vṛthaiva pippalatarau kiṃ kiṃcidāsādyate // Subhv_0746
+
+pratyagrotra yathāsukhaṃ madhurasaḥ pātavya ityutsukas-
+tṛṣṇāvibhramavipralabdhahrdayastattvāvabodhaṃ vinā /
+nirviṇṇopyaphalaśramo na viramatyālekhyapadmākare
+durbuddhirvyasanī tathāpi madhupastṛṣṇāśayodbhrāmyati // Subhv_0747
+
+yasyāḥ saṃgamavāñchayā na gaṇitā vāpyo vinidrotpalā
+yāmāliṅgya samutsukena manasā yātaḥ parāṃ nirvṛtim /
+bhagnāṃ tāmavalokya candanalatāṃ bhṛṅgeṇa yajjīvyate
+dhairyaṃ nāma tadastu tasya na punaḥ snehānurūpaṃ kṛtam // Subhv_0748
+
+yenāmodini kesarasya mukule pītaṃ madhu svecchayā
+nītā yena niśā śaśāṅkadhavalā padmodare śārade /
+bhrāntaṃ yena madapravāhamaline guṇḍasthale dantināṃ
+soyaṃ bhṛṅgayuvā karīraviṭape badhnātu tuṣṭiṃ kutaḥ // Subhv_0749
+
+mā bhūnnāma sahāmunaiva nidhanaṃ daivātkathaṃcitpunas-
+tṛṣṇā vā hatajīvite yadi tadā kiṃ puṣpaśūnyaṃ jagat /
+yenaivonmathitaḥ sa eva dayitaḥ padmākaro nirdayaṃ
+dānāmbhaḥspṛhayānuyātyaliraho lolastameva dvipam // Subhv_0750
+
+sopūrvo rasanāviparyayavidhistatkarṇayoścāpalaṃ
+dṛṣṭiḥ sā madavismṛtasvaparadikkiṃ bhūyasoktena vā /
+sarvaṃ niścitavānasi bhramara he yadvāraṇodyāpyasā-
+vantaḥśūnyakaro niṣevyata iti bhrātaḥ ka eṣa grahaḥ // Subhv_0751
+
+re re bhṛṅga madāndhavāraṇacalatkarṇānilāndolana-
+kleśaklāntatano mudhaiva bhavatā duḥkhaṃ kimityāsyate /
+utkūjatsamadadvirephavalayapyāluptakośaśriyaḥ
+sāmodāḥ prakaṭāśayāḥ pratipadaṃ santyeva padmākarāḥ // Subhv_0752
+
+gandhāḍhyāṃ navamālikāṃ madhukarastyaktvā gato yūthikāṃ
+tāṃ tyaktvāpi gataḥ sa candanataruṃ tasmātsarojaṃ gataḥ /
+baddhastatra niśākareṇa suciraṃ krandatyasau mandadhīḥ
+saṃtoṣeṇa vinā parābhavaśataṃ prāpnoti lubdho janaḥ // Subhv_0753
+
+rātrirgamiṣyati bhaviṣyati suprabhātaṃ
+bhāsvānudeṣyati hasiṣyati padminī ca /
+evaṃ vicintayati koṣagate dvirephe
+hā hanta hanta nalinīṃ gaja unmamātha // Subhv_0754
+
+bhramanvanānte vanamañjarīṣu
+na ṣaṭpado gandhaphalīmajighrat /
+sā kiṃ na ramyā sa ca kiṃ na rantā
+balīyasī kevalamīśvarecchā // Subhv_0755
+
+aṅke vṛddhimupāgataṃ śiśutayā sarvāṅgamāliṅgitaṃ
+matsyaḥ śrīparirambhanirbharataravyākośakoṣonmukhaiḥ /
+āśāptaiḥ paripīyamānamaniśaṃ niḥspandamindindirair-
+dūrādeva nimeṣaśūnyanayanaḥ padmaṃ samudvīkṣate // Subhv_0756
+
+jīvato nigiranmatsyānmunivaddṛśyate bakaḥ /
+mṛnānapi na gṛdhrastu dhigākāramunīndratām // Subhv_0757
+
+nāleneva sthitvā pādenaikena kuñcitagrīvam /
+janayati kumudabhrāntiṃ vṛddhabako bālamatsyānām // Subhv_0758
+
+eṣa bakaḥ sahasaiva vipannaḥ
+śādyamaho kva nu tadgatamasya /
+sādhu kṛtāntaka kaścidapi tvāṃ
+vañcayitum na kutopi samarthaḥ // Subhv_0759
+
+nijakulocitaceṣṭitamātmano
+yadapahāya yiyāsasi haṃsatām /
+baka cara vratameva tathāpi te
+phalati tattadidaṃ yatatāṃ nṛṇām // Subhv_0760
+
+na kolilānāmiva mañcu kūjitaṃ
+na kabdhalāsyāni gatāni haṃsavat /
+na barhiṇānāmiva citrapakṣatā
+guṇastathāpyasti bake bakavratam // Subhv_0761
+
+tadvedagdhyaṃ samuditapayastoyatattvaṃ vivektu-
+mālāpāste sa ca mṛdupadanyāsahṛdyo vilāsaḥ /
+āstāṃ tāvadbaka yadi tathā vetsi kiṃcidicchlathāśaṃ
+tūṣṇīmevāsitumayi sakhe tvaṃ kathaṃ me na haṃsaḥ // Subhv_0762
+
+kastvaṃ lohitalocanāsyacaraṇo haṃsaḥ kuto mānasāt-
+kiṃ tatrāsti suvarṇapaṅkajavanānyambhaḥ sudhāsaṃnibham /
+muktāśuktirathāsti śaṅkhanicayo vaidūryarohāḥ kvacic-
+chambūkāḥ kimu santi neti ca bakairākarṇya hīhīkṛtam // Subhv_0763
+
+tulyavarṇacchadaḥ kṛṣṇaḥ kokilaiḥ saha saṃgataḥ /
+kena vijñāyate kākaḥ svayaṃ yadi na bhāṣate // Subhv_0764
+
+ātmarutādapi virutaṃ kurvāṇāḥ spardhayā saha mayūraiḥ /
+kiṃ jānanti varākāḥ kākāḥ kekāravānkartum // Subhv_0765
+
+kṛṣṇaṃ vapurvahatu cumbatu satphalāni
+ramyeṣu saṃcaratu cūtavanāntareṣu /
+puṃskokilasya caritāni karotu nāma
+kākaḥ kila dhvanividhau nanu kāka eva // Subhv_0766
+
+saṃprāpya kokilakulaiḥ kamanīyakāntiḥ
+kāntasvarairapi balātkhalu saṃnikarṣam /
+vaidhuryabhāji hatavedhasi kiṃ varākaḥ
+kākaḥ karotvanukṛtiṃ na yayau yadeṣām // Subhv_0767
+
+iyaṃ pallī bhillairanucitasamārambharasikaiḥ
+samantādākrāntā viṣaviṣamabāṇapraṇayibhiḥ /
+tarorasya skandhe gamaya samayaṃ kīra nibhṛtaṃ
+na vāṇī kalyāṇī tadihamukhamudraiva śaraṇam // Subhv_0768
+
+kaati mukhagṛhītaṃ bhuktaśeṣaṃ purīṣaṃ
+vilikhati caraṇāgrairdevatānāṃ śirāṃsi /
+vrajati ca hatamānaḥ sādhumūrdhasvaśaṅkaḥ
+kimiva na kurute khaṃ prāpya kāko varākaḥ // Subhv_0769
+
+daurbhāgyaṃ vacasāṃ tanormalinatā ceṣṭāsvaho cāpalaṃ
+śaṅkāyāstadupajñataiva viditā vṛttistvavācyaiva sā /
+itthaṃ dṛṣkṛtaśākhinaḥ phalamiva sphītaṃ tathāpyāturaḥ
+kākaḥ kokilalāñchanacchavirucā kaṣṭaṃ muhurmūrchati // Subhv_0770
+
+nṛtyantaḥ śikhino manoharamamī śravyaṃ paṭhantaḥ śukā
+vīkṣyante na ta eva khalviha ruṣā vāryanta evāthavā /
+pānthastrīgṛhamiṣṭalābhakathanāllabdhānvayenāmunā
+saṃpratyetadanargalaṃ balibhujā māyāvinā bhujyate // Subhv_0771
+
+re re dhvāṅkṣa virūkṣatāstu vacasaḥ kāṇākṣitā kṣamyate
+laulyaṃ nāma taveti kātra gaṇanā bhāṇḍyaṃ vibhūṣaiva te /
+sarvaṃ soḍhamidaṃ svabhāvavihitaṃ vahnerivauṣṇyaṃ hi te
+yattvevaṃ viguṇasya kāpi bhavato grīvā na tatsahyate // Subhv_0772
+
+kākaḥ kokilamunnamayya kurute cūte phalāsvādanaṃ
+bhuṅkte rājaśukaṃ nivārya kuraraḥ krīḍāparo dāḍimam /
+dhūko barhiṇamasya śākhiśikhare śete sajāniḥ sukhaṃ
+hā jātaṃ viparītamadya vipine śyene parokṣaṃ gate // Subhv_0773
+
+kiṃ kekīva śikhaṇḍamaṇḍitatanuḥ kiṃ kīravatpāṭhakaḥ
+kiṃ puṃskokilavatsvanena madhuraḥ kiṃ haṃsavatsadgatiḥ /
+kiṃ sāmānyaśakuntaśāvaka iva krīḍāvinodākaraḥ
+kākaḥ kena guṇena kāñcanamaye vyāpāritaḥ pañjare // Subhv_0774
+
+utpattirmarutāṃ prabhoryugadine prakhyāpyaviśvotsave
+puṇyāhaśrutiṣu prasiddhiradhikā pūrṇaṃ vayaḥ pauruṣam /
+kākutsthena samaṃ sapatnakalaho daivajñatā tādṛśī
+kākastena guṇena kāñcanamaye vyāpāritaḥ pañjare // Subhv_0775
+
+ādyaḥ praveśasamayaḥ sa kaleryugasya
+prāptastiraskṛtabahūdakahaṃsasārthaḥ /
+āhūye sādaratayā tapasontimohni
+kāṇo dvijaḥ pratigṛhaṃ bata yatra pūjyaḥ // Subhv_0776
+
+sūrydanyatra yaccandrepyarthasaṃsparśi tatkṛtam /
+khadyota iti kīṭasya nāma tuṣṭena kenacit // Subhv_0777
+
+ghanasaṃtamasamalīmasadaśadiśi niśi yadvirājasi tadanyat /
+kīṭamaṇe dinamadhunā tarāṇikarāntaritacārusitakiraṇam // Subhv_0778
+
+jarjaratṛṇāgramadahansarṣapakaṇamaprakāyannūnam /
+kīṭatvamātmatantraḥ khadyotaḥ khyāpayanbhāti // Subhv_0779
+
+bhrājiṣṇavo nabhasi bhūrihṛtāndhakāra-
+svalpaprabhāḥ svatanumātranibaddhabhāsaḥ /
+khadyotakāḥ prakaṭatīvraguruprabhāvās-
+tāvanna saptaturagaḥ samudeti yāvat // Subhv_0780
+
+yuṣmādṛśaḥ kṛpaṇakāḥ krimayopi yasyāṃ
+bhānti sma saṃtamasamayyagamanniśāsau /
+sūryāṃśudīpradaśadigdivasodhunāyaṃ
+bhātyatra nendurapi kīṭamaṇe kimu tvam // Subhv_0781
+
+induḥ prayāsyati vinaṅkṣyati tārakaśrīḥ
+sthāsyanti līḍhatimirā na maṇipradīpāḥ /
+andhaṃ samagramapi kīṭamaṇe bhaviṣya-
+dunmeṣameṣyati bhavāniti dūrametat // Subhv_0782
+
+sattvāntaḥ sphuritāya vā kṛtaguṇādyāropatucchāya vā
+tasmai kātaramohanāya mahaso leśāya mā svasti bhūt /
+yacchāyāsphuraṇāruṇena khacatā khadyotanāmnāmunā
+kīṭenāhitayāpi jaṅgamamaṇibhrāntyā viḍambyāmahe // Subhv_0783
+
+pratyagraiḥ parṇanicayaistaruryaireva śobhitaḥ /
+jahāti jīrṇāṃstāneva kiṃ vā citraṃ kujanmanaḥ // Subhv_0784
+
+yathāpallavapuṣpāḍhyā yathāpuṣpaphalarddhayaḥ /
+yathāphalarddhisvārohā hā mātaḥ kvāgamandrumāḥ // Subhv_0785
+
+sādhveva tadvidhāvasya vedhāḥ kliṣṭo na yanmudhā /
+svarūpānanurūpeṇa candanasya phalena kim // Subhv_0786
+
+mayā badaralubdhena vṛkṣāṇāmanabhijñayā
+vane kaṇṭakasādṛśyātkhadiraḥ paryupāsitaḥ // Subhv_0787
+
+mahātarurvā bhavati samūlo vā vinaśyati /
+nāṅkuraprakriyāmeti nyagrodhakaṇikāṅkuraḥ // Subhv_0788
+
+puṣpapattraphalacchāyāmūlavalkaladārubhiḥ /
+dhanyā mahīruhā yeṣāṃ vimukhā yānti nārthinaḥ // Subhv_0789
+
+patatyaṅgāravarṣe vā vāti vā pralayānile /
+tālaḥ stabdhatayārabdhastayaiva saha naśyati // Subhv_0790
+
+chāyāvanto gatavyālāḥ svārohāḥ phaladāyinaḥ /
+mārgadrumā mahāntaśca pareṣāmeva bhūtaye // Subhv_0791
+
+agatīnāṃ khalīkārādduḥkhaṃ naivopajāyate /
+bhavantyaśokāḥ prāyeṇa sāṅkurāḥ pādatāḍitāḥ // Subhv_0792
+
+yadyapi candanaviṭapī vidhinā phalakusumavarjito vihitaḥ /
+nijavapuṣaiva pareṣāṃ tathāpi saṃtāpamapaharati // Subhv_0793
+
+prāpte vasantamāse vṛddhiṃ prāpnoti sakalavanarājinaḥ /
+yanna karīre pattraṃ tatkiṃ doṣo vasantasya // Subhv_0794
+
+phalitaghanaviṭapavighaṭitapaṭudinakaramahasi lasati kalpatarau /
+chāyārthī kaḥ paśurapi bhavati jaradvīrudhāṃ praṇayī // Subhv_0795
+
+phalakusumakisalayojjvalaviṭapaśatāntaritataraṇikiraṇaughe /
+mārgatarau nikaṭasthe kaḥ pathikaḥ klāntimanubhavati // Subhv_0796
+
+dūrīkṛtasvārthalavā janasya
+samudyatā ye bhuvi tāpaśāntyai /
+drumāsta evāgatikā na vidmaḥ
+prajāpaterāśayaleśamatra // Subhv_0797
+
+candane viṣadharānsahāmahe
+vastu sundaramaguptimatkutaḥ /
+rakṣituṃ vada kimātmasauṣṭhavaṃ
+saṃcitāḥ khadira kaṇṭakāstvayā // Subhv_0798
+
+grathita eṣa mithaḥ kṛtaśṛṅkhalo-
+viṣadharairadhiruhya mahājaḍaḥ /
+malayajaḥ sumanobhiranāśrito
+yadata eva phalena na yujyate // Subhv_0799
+
+yatkiṃcanānucitamapyucitānubandhi
+kiṃ candanasya na kṛtaṃ kusumaṃ phalaṃ vā /
+lajjāmahe bhṛśamapakrama eva yātus-
+tasyāntikaṃ parigṛhītabṛhatkuṭhāraḥ // Subhv_0800
+
+he bālacampakataro taruṇīkapola-
+lāvaṇyacumbanasukhocitacārupuṣpa /
+kiṃ puṣpitena vijahīha vikāsahāsa-
+muddāmapāmaragaṇā marubhūmireṣā // Subhv_0801
+
+antaḥprataptamarusaikatadahyamāna-
+mūlasya campakataroḥ kva vikāsacintā /
+prāyo bhavatyanucitasthitideśabhājāṃ
+śreyaḥ svajīvaparipālanamātrameva // Subhv_0802
+
+daurjanyamātmani paraṃ prathitaṃ vidhātrā
+bhūrjadrumasya viphalatvasamarpaṇena /
+kiṃ carmabhirniśitaśastraśatāvakṛttair-
+āśāṃ na pūrayati sorthiparamparāṇām //
+kiṃ kaṇṭakaikarasikena phaladviṣā kiṃ
+vairasyasīmani kimu sthirakautukena /
+chāyāvilāsavimukhena satāṃ kimaṅga
+chātrā khalena khadiradruma eṣa sṛṣṭaḥ // Subhv_0803
+
+labdhaṃ cirādamṛtavatkimamṛtyave syād-
+dīrghaṃ rasāyanavadāyuruta pradadyāt /
+etatphalaṃ yadayamadhvagaśāpadagdhaḥ
+stabdhaḥ phalaṃ phalati varṣaśatena tālaḥ // Subhv_0805
+
+he vṛkṣa śobhita mahāphalabhāralakṣmyā
+kṣuttāpaśāntijanakaikajagatprasiddha /
+tvatto mayā kathamapīdamadho nirastam-
+ekaṃ phalaṃ śakunikhaṇḍitamalpamāptam // Subhv_0806
+
+atyantaśītalatayā subhagasvabhāva
+satyaṃ na kaścidapi te tarurasti tulyaḥ /
+chāyārthināmapi punarvikaṭadvijihva-
+saṅgena candana viṣadrumanirviśeṣaḥ // Subhv_0807
+
+kathamiyati vanānte kaścideko na tādṛg-
+varavanataruruccaiḥ puṣpavallīphalāḍhyaḥ /
+jagadasukhavidhāturdagdhadhāturniyogād-
+dhavakhadirapalāśāḥ kevalaṃ vṛddhibhājaḥ // Subhv_0808
+
+śākhāsaṃtatisaṃniruddhagaganābhogasya labdhvā taroś-
+chāyāṃ yasya bhavidbhireva śamitā gharmāpadonekaśaḥ /
+bhoḥ pānthā nanu dṛśyatāṃ vidhigatistasyaiva kālakṣaya-
+prakṣīṇasya taledya taptasikatāṅgāraivaḥ paraṃ dahyate // Subhv_0809
+
+citrairyasya patittribhirdaśadiśo bhrāntvā sametaiḥ sukhaṃ
+viśrāntaṃ śayitaṃ prabhuktamuṣitaṃ skandhe phalaiḥ praśrite /
+tasyaivonmathitasya duṣṭakariṇā mārgadrumasyādhunā
+kārīṣāya kaṣanti śoṣaparuṣāṃ gopālabālāstvacam // Subhv_0810
+
+saṃtoṣaḥ kimaśaktatā kimathavā tasminnasaṃbhāvanā
+śobhaivātha ca kānanisthitiriyaṃ pradveṣa evāthavā /
+āstāṃ khalvanurūpayā saphalayā puṣpaśriyā durvidhe
+saṃbandhonanurūpayāpi na kṛtaḥ kiṃ candanasya tvayā // Subhv_0811
+
+sanmūlaḥ prathinnatirghanalasacchāyaḥ sthitaḥ satpathe
+sevyaḥ sadbhiritīdamākalayatā tālodhvagenāśritaḥ /
+puṃsaḥ śaktiriyatyasau sa tu phaledadyāthavā śvothavā
+kāle kvāpyathavā kadācidathavā netyatra vedhāḥ prabhuḥ // Subhv_0812
+
+yajjātosi catuṣpathe ghanalasacchāyosi kiṃ chāyayā
+saṃyuktaḥ phalitosi kiṃ yadi phalaiḥ pūrṇosi kiṃ saṃnataḥ /
+he sadvṛkṣa sahasva saṃprati sakhe śākhāśikhākarṣaṇa-
+kṣobhāmoṭanabhañjanāni janataḥ svaireva duścoṣṭitaiḥ // Subhv_0813
+
+suskandhasya visārisaurabhaguṇākrāntākhilāśasya te
+tanvīcārupayodharāntarakṛtasparśasya gopyākṛteḥ /
+doṣaḥ kopi bhujaṃgasaṃgamakṛtaḥ prodgūta eṣodhunā
+yena tvāṃ parihṛtya candanataro yāntyadhvagā dūrataḥ // Subhv_0814
+
+chinnastaptasuhṛtsa candanataruryūyaṃ palāyyāgatā
+bhogābhyāsasukhāsikāḥ pratidinaṃ tā vismṛtāstatra vaḥ /
+daṃṣṭrākoṭiviṣolkayā pratikṛtaṃ tasya praharturna cet-
+kiṃ tenaiva saha svayaṃ na nidhanaṃ yātāḥstha bho bhoginaḥ // Subhv_0815
+
+tvanmūle puruṣāyuṣaṃ gatamidaṃ kālena saṃśaṣyatāṃ
+ksodīyāṃsamapi kṣaṇaṃ paramataḥ śaktiḥ kutaḥ prāṇitum /
+tatsvastyastu vivṛddhimehi mahatīmadyāpi kā nastvarā
+kalyāṇaiḥ phalitāsi tālaviṭapinputreṣu pautreṣu vā // Subhv_0816
+
+chāyāsyaiva ghanāsugandhirayamevāpannatāpacchidā-
+magresyaiva guṇagrahaḥ saguṇatā kiṃ candanasyocyatām /
+ā mūlātpunareṣu baddhavṛtibhirvyālaistathā dūṣito
+jāne yena varaṃ dhavotha khadiropyanyothavā na tvayam // Subhv_0817
+
+na ślāṣyāni phalāni pallavakṛtā chāyā na vāñchāpi sā
+no puṣpaṃ sumanoharaṃ na vihagāḥ śabdāmṛtasyandinaḥ /
+kākavrātapurīṣanirbharajaranmūrteraśuddhātmano
+niḥstabdhasya taroradhaḥ kathamaho sṛṣṭosi durvedhasā // Subhv_0818
+
+nāsya svāduphalaṃ na cāru kusumaṃ na snigdhaparṇā latā
+na cchāyā klamahāriṇī na ca kalakvāṇāstathā patriṇaḥ /
+eṣosau khadiradumaḥ kimathavā pānthena dṛṣṭastvayā
+tatkiṃ pāntha kaṭhorakaṇṭakamukhairgātrakṣatārthī bhavān // Subhv_0819
+
+snigdhāḥ pallavinaḥ prakāmaviṭapavyāviddhacaṇḍātapā
+namrāḥ svāduphalā samāśritajanakṣuttāpavicchedinaḥ /
+dagdhāste taravaḥ prayāntu pathikāsteṣveva mārgeṣvamī
+rūkṣāḥ kāṇṭakinaḥ sasarpavivarā bhūyaḥ prarūḍhā drumāḥ // Subhv_0820
+
+chāyā nātmana eva yā kathamasāvanyasya niṣpragrahā
+grīṣmoṣmāpadi śītalastalabhūvi spandonilādeḥ kutaḥ /
+vārtā varṣaśate gate kila phalaṃ bhāvīti vārtaiva sā
+drāghimṇā muṣitāḥ kiyacciramaho tālena bālā vayam // Subhv_0821
+
+kastvaṃ bhoḥ kathayāmi daivahatakaṃ māṃ viddhi śāhoṭakaṃ
+vairāgyādiva vakṣi sādhu viditaṃ kasmādidaṃ kathyate /
+vāmenātra vaṭastamadhvagajanaḥ sarvātmanā sevate
+na cchāyāpi paropakārakṛtaye mārgasthitasyāpi se // Subhv_0822
+
+āmodairmaruto mṛgāḥ kisalayairlambaistvacā tāpasāḥ
+puṣpaiḥ ṣaṭcaraṇāḥ phalaiḥ śakunayo gharmārditāśchāyayā /
+skandhairgandhagajāśca viśramarujāḥ śaśvadvibhaktāstvayā
+prāptastvaṃ druma bodhisattvapadavīṃ satyaṃ kujātāḥ pare // Subhv_0823
+
+bhrāmyadbhṛṅgabharāvanamrakusumacyotanmadhūdgandhiṣu
+cchāyāvatsu taleṣu pānthanivahā viśramya geheṣviva /
+nityaṃ nirjharavārivāritatṛṣastṛpyanti yeṣāṃ phalais-
+te nandantu phalantu yāntu ca parāmatyunnatiṃ pādapāḥ // Subhv_0824
+
+he he maṇḍitamārga mārgaviṭapiñjīvyāḥ samāḥ śāśvatīr-
+adyāpyāvṛṇu diktaṭāni viṭapaiḥ sālaiścucumbāmbaram /
+mūle viśramaṇāśayaiva luṭhitā yanna tvayā kevalaṃ
+gharmārteḥ parimocitāḥ phalaśatairyāvadvayaṃ tarpitāḥ // Subhv_0825
+
+vṛddhiryasya tarormanorathaśatairāśāvatā prārthitā
+jātosau sarasaḥ pravāsiphaladaḥ sarvāśritāpāśrayaḥ /
+nānādeśasamāgatairaviditairākrāntamanyaiḥ khagais-
+taṃ labdhāvasaropi vṛddhaśakunirdūre sthito vīkṣate // Subhv_0826
+
+dāvāgniploṣaduḥkhaṃ kharapavanajalakleśamarkācca tāpaṃ
+mātaṅgākarṣaṇāni vyasanamapi guru prāptavantopi vajrāt /
+dārucchāyāphalāni tvacamapi kusumaṃ mañjarīḥ pallavānvā
+nārthibhyo vārayanti pratidivasamaho sādhu vṛttaṃ tarūṇām // Subhv_0827
+
+haṃsāḥ padmavanāśayā balibhujo gṛdhrāśca māṃsāśayā
+pānthāḥ svāduphalāśayā madhulihaḥ saurabhyagandhāśayā /
+dūrānniṣphalaraktapuṣpanicayairniḥsāra rathyonnate
+re re śalmalipādapa pratidinaṃ ke na tvayā vañcitāḥ // Subhv_0828
+
+bhrātarbhīmamarubhramśramaśamavyāpārapāraṃgamaṃ
+matvā candanapādapaṃ pathika mā viśrāntaye śiśriyaḥ /
+etasyāntikavartibhirghanaviṣajvālāvalībīṣaṇair-
+āśvāsya smṛtiśeṣatāṃ viṣadharairnīṃtaḥ kiyantodhvagāḥ // Subhv_0829
+
+uccairyo madhupānalubdhamanasāṃ bhṛṅgāṅganānāṃ gaṇair-
+udgīto racitālayaḥ khagakulairdeśāntarādāgataiḥ /
+āsīdyaśva niṣevitodhvagaśatairgrīṣmoṣmatānticchide
+soyaṃ saṃprati durmadena dalitaśchāyātarurdantinā // Subhv_0830
+
+bhuktaṃ svāduphalaṃ kṛtaṃ ca śayanaṃ śākhāgrajaiḥ pallavais-
+tvacchāyāpariśītalaṃ ca salilaṃ pītaṃ vinītaḥ klamaḥ /
+viśrāntaṃ suciraṃ tatopi manasā prāptā parā nirvṛtis-
+tvaṃ sanmārgatarurvayaṃ ca pathikā bhūyāspunaḥ saṃgamaḥ // Subhv_0831
+
+astyeva bhūbhṛtāṃ mūrdhni divi vā dyotatembudaḥ /
+marudbhirbhujyamānopi sa kimeti rasātalam // Subhv_0832
+
+ambudaḥ kṛtapado nabhastale
+toyapūraparipūritodadhiḥ /
+goṣpadasya bharaṇepyaśaktimān-
+ityasatyamabhidīyate katham // Subhv_0833
+
+etadatra pathikaikajīvitaṃ
+paśya śuṣyati kathaṃ mahatsaraḥ /
+dhiṅmudhāmbudhara ruddhasadgatir-
+vardhitā kimiha haṭṭavāhinī // Subhv_0834
+
+svārthānapekṣaṃ janatāpaśāntyai
+nityoditāḥ santi payomucomī /
+vivarṣiṇastānavagṛhṇate ye
+santyeva te kepi mahānubhāvāḥ // Subhv_0835
+
+kva dṛṣṭamandhena balāhakena
+ghrātuṃ gavā yanna tṛṇaṃ nighṛṣṭam /
+mahātarurbandhurivādhvagānā-
+māyātvavaśyāyakaṇairdaridraḥ // Subhv_0836
+
+uttuṅgaśailaśikharāśrayaṇena kecid-
+uddāmavīcivalitāḥ sarito bhavanti /
+anye punarjalakaṇāstṛṇaloṣṭapātā-
+dambhomucāṃ payasi na kṣayamānpuvanti // Subhv_0837
+
+yatroṣitosi cirakālamakiṃcanaḥ san-
+narṇaḥpratigrahadhanagrahaṇādhamarṇaḥ /
+nirlajja garjasi samudrataṭepi tatra
+dhṛṣṭodhamastava samo ghana naiva dṛṣṭaḥ // Subhv_0838
+
+āsyaṃ nirasya rasitaiḥ suciraṃ vihasya
+gātrāntareṣu ghana varṣasi cātakasya /
+taccañcukoṭikuṭilāyatakaṃdharasya
+prāṇātyayosya bhavataḥ parihāsamātram // Subhv_0839
+
+ākramyoccaiḥ śirasi vasatirbhūbhṛtāmunnatānāṃ
+toyādānāṃ tadapi jaladherlokasaṃtāpaśāntyai /
+dīrghā chāyā prakṛtimahati vyomni cābhogabandho
+he he megha spṛhayati na te kaḥ kiletthaṃ vratāya // Subhv_0840
+
+ākramyoccaiḥ śirasi vasatirbhūbhṛtāmunnatānāṃ
+toyādānaṃ tadapi jaladherlokasaṃtāpaśāntyai /
+dīrghā chāyā prakṛtimahati vyomni cābhogabandho
+he he megha spṛhayati na te kaḥ kiletthaṃ vratāya // Subhv_0841
+
+sādhūtpātaghanaugha sādhu sudhiyāṃ dheyaṃ dharāyāmidaṃ
+konyaḥ kartumalaṃ tavaiva ghaṭate karmedṛśaṃ duṣkaram /
+sarvasyaupayikāni yāni katicitkṣetrāṇi tatrāśaniḥ
+sarvānaupayikeṣu dagdhasikatāraṇyeṣvapāṃ vṛṣṭayaḥ // Subhv_0842
+
+bhekaiḥ koṭaraśāyibhirmṛtamiva kṣmāntargataṃ kacchapaiḥ
+pāṭhīnaiḥ pṛthupaṅkakūṭaluṭhitairyasminmuhurmūrchitam /
+tasmiñchuṣkasarasyakālajaladenāgatya tacceṣṭitaṃ
+yenā kaṇṭhanimagnavanyakariṇāṃ yūthaiḥ payaḥ pīyate // Subhv_0843
+
+yadbhūbhṛto laghuguṇairapi baddhamūlam-
+āpāditāni sahasaiva tṛṇaiḥ śirāṃsi /
+ambhomucaḥ pracuravarṣaviśṛṅkhalasya
+tacceṣṭitaṃ duravadhāragaterjalasya // Subhv_0844
+
+kṛchrāddatte viralaviralānvāribindūnpravṛddho
+garjatyekaḥ sarabhasataraṃ paśya tanmātralābhāt /
+nṛtyatyanyopyatulamahimaślāghyabhūmirna jāne
+madhyādābhyāṃ vipulahṛdayaścātakaḥ kiṃ nu meghaḥ // Subhv_0845
+
+gatāste jīmūtāḥ sphuradalikulaśyāmavapuṣaḥ
+śriyā yeṣāṃ loke sthalajalavibhāgopyapahṛtaḥ /
+vṛthā tṛṣṇāndhaḥ kiṃ bhramasi vidhuraścātakaśiśo
+śarajjīmūtoyaṃ kuta iha payobindurapi te // Subhv_0846
+
+paśyāmaḥ kimayaṃ viceṣṭata iti svalpābhrasiddhikriyair-
+darpāddūramupekṣitena balavatkarmeritairmantribhiḥ /
+labdhātmaprasareṇa rakṣitumathāśakyena muktvāśaniṃ
+sphītastāvadaho ghanena ripuṇā dagdho girigrāmakaḥ // Subhv_0847
+
+garjitvā bahu saṃnirudhya gaganaṃ pracchādya diṅmaṇḍalaṃ
+saṃpādyoddalitendranīlaśakalaśyāmābhirāmaṃ vapuḥ /
+prāpte vāridharāgamepi salilaṃ tattyaktamambhomucā
+cañcūśrātakapotakasya sakalā siktā na yena svayam // Subhv_0848
+
+atrotpātaghanena mantrivikale śūnyāmbaravyāpinā
+dhṛṣṭasvaprakṛtikriyāsamucite grāme tathā jṛmbhitam /
+rathyākardamavāhināmatiśucisvacchātmanāmantaraṃ
+nāpyajñāyi janairyathaughapayasāṃ strotojalānāmapi // Subhv_0849
+
+re meghāḥ svaśarīradānaguru kiṃ bauddhaṃ yaśo na śrutaṃ
+yaṣmābhiḥ kimu pārijātacaritaṃ nākarṇitaṃ vā kvacit /
+yenaitatsukhalabhyamambu dadatāṃ yuṣmākamudgarjatāṃ
+no lajjāpyabhijāyatetirabhasādvyomnyuddhataṃ dhāvatām // Subhv_0850
+
+sthāne varṣati naiva garjati vṛthā klāntiṃ haratyañjasā
+kṣetrāṇāṃ paritāpajarjararucāṃ kṣemaṃkaraḥ kṣmātale /
+yadyadbhadrakasāndratāṃ hṛdi dadhātyanyatkarotyullasa-
+nsanmeghoyamamoghadarśanaghanasnigdhacchavirvardhatām // Subhv_0851
+
+no garjatyamburāśistrijagadadhipatiprārthitārthapradāna-
+vyāpārsphītakīrtiḥ sphuradanlaśikhānargharatnaikapūrṇaḥ /
+tattoyastokamātravyapahṛtavikṛtiḥ prākṛtoyaṃ prakṛtyā
+śūnye kṣiptvāmbu garjatyagaṇitanidhano vārivāhaḥ sagarvam // Subhv_0852
+
+na pālayati maryādāṃ velākhyāmambudhistathā /
+tṛṣyatāṃ nopakartavyamitīmāmaparāṃ yathā // Subhv_0853
+
+gavādīnāṃ payonyedyuḥ sadyo vā dadhi jāyate /
+kṣīrodadhestu nādyāpi mahatāṃ vikṛtiḥ kutaḥ // Subhv_0854
+
+yadyapi svacchabhāvena darśayatyudadhirmaṇīn /
+tathāpi jānudaghnoyamiti cetasi mā kṛthāḥ // Subhv_0855
+
+yasyāmbukaṇikāpyāsye na patatyarthīnāṃ kvacit /
+kaṣṭamambhonidhiḥ sopi nadīna iti kathyate // Subhv_0856
+
+yātu nāśaṃ samudrasya mahimā sa bhuvi śrutaḥ /
+vāḍavaḥ kṣutpipāsārto yenaikopi na tarpitaḥ // Subhv_0857
+
+amṛtarasavisaraavitaraṇamaraṇottāritasure sati payodhau /
+kasya sphuranti hṛdaye grīṣmataḍākā bhuvi varākāḥ // Subhv_0858
+
+yadayaṃ śaśiśekharo haro
+harirapyeṣa yadīśitā śriyaḥ /
+amarā api yatsurā amī
+tadimāstasya vibhūtivipruṣaḥ // Subhv_0859
+
+kṣārataiva hi guṇastathāsti te
+yena na vrajati kaścidantikam /
+bhīṣaṇākṛti bibharṣi yādasāṃ
+cakramarṇava kimarthamagrataḥ // Subhv_0860
+
+apāsya lakṣmīharaṇotthavairitā-
+macintayitvā ca tadadrimanthanam /
+dadau nivāsaṃ haraye mahodadhir-
+vimatsarā dhīradhiyāṃ hi vṛttayaḥ // Subhv_0861
+
+jitendubhāso nayatāṃ maṇinadhas-
+tṛṇāni mūrdhnā bibhṛtāṃ jaleśvaraḥ /
+prabhorna kaścitprabhurasti tattvato
+ratnāni ratnāni tṛṇaṃ tṛṇaṃ punaḥ // Subhv_0862
+
+grīṣmaṃ dviṣantu jaladāgamarthayantāṃ
+te saṃkaṭaprakṛtayaḥ kṛpaṇāstaḍāgāḥ /
+abdhestu mugdhaśapharīcaṭulācalendra-
+niṣkampakukṣipayaso dvayamapyacintyam // Subhv_0863
+
+grāvāṇo maṇayo harirjalacaro lakṣmīḥ payomānuṣī
+muktaughaḥ sikatā pravālalatikāḥ śevālamambhaḥ sudhā /
+tīre kalpamahīruhāḥ kimaparaṃ nāmāpi ratnākaro
+dūrātkarṇarasāyanaṃ nikaṭatastṛṣnāpi no śāmyati // Subhv_0864
+
+āstāṃ klamāpaharaṇaṃ jaladherjalena
+dūre davāgniparidīpitamānasānām /
+etāvadastu yadi toyakaṇairna jihvā
+dandahyate dviguṇatāṃ ca na yāti tṛṣṇā // Subhv_0865
+
+ratnānyamūni makarālaya māvamaṃsthāḥ
+kallolavellitadṛṣatparuṣaprahāraiḥ /
+kiṃ kaustubhena vihito bhavato na nāma
+yāñcāprasāritakaraḥ puruṣottamopi // Subhv_0866
+
+lajjāmahe vayamaho bhṛśamapyaneke
+sāṃyātrikāḥ salilarāśimamī viśānti /
+skandhādhiropitatadīyataṭopakaṇṭha-
+kauleyakāmbudṛtayo yadudīrṇatṛṣṇāḥ // Subhv_0867
+
+ā strīśiśuprathitayaiṣa pipāsitebhyaḥ
+saṃrakṣyatembudhirapeyatayaiva dūrāt /
+dṛṣṭvā karālamakarālikarālitābhiḥ
+kiṃ bhāyayasyaparamūrmiparamparābhiḥ // Subhv_0868
+
+dhigdhigdhigambudhimamī nirapatrapasya
+yasyādhvagā marubhuvīva nitāntatāntāḥ /
+tṛḍdāhaśuṣkagalanirgatadīrghajihvā
+dīnā vivartitadṛśonutaṭaṃ prayānti // Subhv_0869
+
+nirmathyate yadi surāsurasainyasaṃghair-
+āpūryate yadi jalairjaladāpagābhiḥ /
+pepīyate ca vaḍavāmukhavahninā cen-
+na kṣubhyati sma jaladhirna tanutvameti // Subhv_0870
+
+mainākādibhiradribhirmaghavataḥ saṃtrasya yatrāsyate
+caṇḍārcirbhagavānudeti ca yato yatrāstamabhyeti ca /
+śete kvāpi nilīya yasya jagatāṃ kukṣyekadeśe patir-
+gāmbhīryaśriyamasya kastulayituṃ vārāṃ nidherarhati // Subhv_0871
+
+upakṛtavatā śrīratnābhyāṃ hareḥ śaśilekhayā
+manasijaripoḥ pīyūṣeṇāpyaśeṣadivaukasām /
+kathamitarathāḥ tena stheyaṃ yaśobharamantharaṃ
+yadi na mathanāyāsaṃ dhīraḥ saheta payonidhiḥ // Subhv_0872
+
+viṣamabhimukhaṃ muktaṃ raudraṃ diśo daśa saṃśritāḥ
+śaśitarumaṇiprāyaiḥ prāyaḥ pralobhanamāhitam /
+kimiva na kṛtaṃ nanthārambhe śaṭhena payodhinā
+tadapi nipuṇairnāsya kṣāntaṃ surairamṛtaṃ vinā // Subhv_0873
+
+yadiha bhavato gāmbhīryeṇa prayāti mahattayā-
+pyanucitaguṇārambhaḥ kālaḥ kimetadanantaram /
+ayi jalanidhe kiṃ kallolairalabdhasamāptibhir-
+virama saritāmetattoyaṃ na testi manāgapi // Subhv_0874
+
+samāśrityotsaṅgaṃ vipṛtavadanasyāsya vasataḥ
+kṣaṇenaikasyāntarjvalitavapuṣo yatkṣaṇamapi /
+na tṛṣṇāmaurvāgnerapanayati puṣṭepi vibhave
+nṛśaṃsasyāmbhodhervrajatu vilayaṃ sosya mahimā // Subhv_0875
+
+aho bata saritpateridamanāryarūpaṃ paraṃ
+yadujjvalarucīnmaṇīnsuciracarcitāsthāguṇān /
+jaḍairanupayogibhiḥ parata etya labdhāspadaiḥ
+kṣipatyaniśamūrjitairjhagiti tanmayatvaṃ gataḥ // Subhv_0876
+
+ihaikaścūḍālobhyajani kalaśādyasya sakalaiḥ
+pipāsorambhobhiśculukamapi no bhartumaśakaḥ /
+svamāhātmyaślāghāgurugahanagarjābhirabhitaḥ
+kuṣitvā kliśnāsi śrutikuharamabdhe kimiti naḥ // Subhv_0877
+
+rūkṣaṃ kṣāramapeyamatra salilaṃ labdhvā paraṃ tapyate
+vyālagrāhabhiyāvagāhanamapi svasthena nāsādyate /
+tatkiṃ pāntha payodhināmani marau tṛṣṇāvimūḍho bhavān-
+antarnihnutināśitāmalamaṇivrāte mudhā dhāvasi // Subhv_0878
+
+sarvāsāṃ trijagatyapāmiyamasāvādhāratā tāvakī
+prollāsoyamasau tavāmbunilaye seyaṃ mahāsattvatā /
+sevitvā bahubhaṅgabhīṣaṇatanuṃ tvāmeva velācala-
+grāvasrotasi pāpa tāpakalaho yatkvāpi nirvāpyate // Subhv_0879
+
+kallolairvikiratvasau girivarānvelāvilāsotthitaiḥ
+śabdairvā badhirīkarotu kakubho dhattāṃ ca vistīrṇatām /
+pānthānāṃ ravitāpataptavapuṣāṃ tṛṣṇātirekacchidaḥ
+kiṃ sāmyaṃ pratanoḥ karotu sarasopyabdhiḥ kṛtāḍamabaraḥ // Subhv_0880
+
+dataṃ yena sudhānidhānamasamaṃ sattvādhikenārthine
+śrīvāsopi mahāmaṇirvidhurasau kalpadrumo gaustathā /
+śāpātkṣārajalastathāpi jaladhiḥ prāptāyaśā ityaho
+lokoyaṃ tṛṇavadguṇaṃ vigaṇayandoṣagrahaikāgradhīḥ // Subhv_0881
+
+hā kaṣṭaṃ taṭavāsinopi viphalaprāgbhāramālokya mām-
+anyatraiva vipāsavaḥ pratidinaṃ gacchantyamī jantavaḥ /
+itthaṃ vyarthajalātibhāravahanaprodbhūtakhedādiva
+svāṃ mūrtiṃ vaḍavānale jalanidhirmanye juhotyanvaham // Subhv_0882
+
+maryādāparipālanena mahatāṃ kṣauṇībhṛtāṃ rakṣaṇād-
+viśrāntyā madhusūdanasya suciraṃ yatkiṃcidāsāditam /
+gāmbhīryocitamātmano jaladhinā manthavyathāsaṃbhramād-
+deveṣvarpayatāmṛtaṃ drutamaho sarvaṃ tadutpuṃsitam // Subhv_0883
+
+āścaryaṃ vaḍavānalaḥ sa bhagavānāścaryamambhonidhir-
+yatkarmātiśayaṃ vicintya manasaḥ kampaḥ samutpadyate /
+ekasyāśrayaghasmarasya pibatastṛptirna jātā jalair-
+anyasyāpi mahātmano na vapuṣaḥ svalpopi jātaḥ śramaḥ // Subhv_0884
+
+nodvegaṃ yadi yāsi yadyavahitaḥ karṇaṃ dadāsi kṣaṇaṃ
+tvāṃ pṛcchāmi yadambudhe kimapi tanniścitya dehyuttaram /
+nairāśyānuśayātimātraniśitaṃ niḥśvasya yaddṛśyase
+tṛṣyadbhiḥ pathikaiḥ kiyattadadhikaṃ syādaurvadāhādataḥ // Subhv_0885
+
+itaḥ svapiti keśavaḥ kulamitastadīyadviṣām-
+itaśca śaraṇārthināṃ śikhariṇāṃ guṇāḥ śerate /
+itaśca vaḍavānalaḥ saha samastasaṃvartakair-
+aho vitatamūrjitaṃ bharasahaṃ ca sindhorvapuḥ // Subhv_0886
+
+vaikuṇṭhāyaśriyamabhinavaṃ śītabhānuṃ bhavāya
+prādāduccaiḥśravasamapi vā vajriṇe tatkva gaṇyam /
+tṛṣṇārtāya svamapi munaye yaddadāti sma dehaṃ
+konyastasmādbhavati bhuvaneṣvambudherbodhisattvaḥ // Subhv_0887
+
+ratnojjvalāḥ pravikirallaṃharīḥ samīrair-
+abdhiḥ kriyeta yadi ruddhataṭābhimukhyaḥ /
+doṣorthinaḥ sa khalu bhāgyaviparyayāṇāṃ
+dāturmanāgapi na tasya tu dātṛtāyāḥ // Subhv_0888
+
+antarye satataṃ luṭhantyagaṇitāstāneva pāthodharai-
+rāttānāpatatastaraṅgavalayairāliṅgya gṛhṇannasau /
+vyaktaṃ mauktikaratnatāṃ jalakaṇānsaṃprāpayatyambudhiḥ
+prāyonyena kṛtādaro laghurapi prāptorcyate svāmibhiḥ // Subhv_0889
+
+svastyastu vidrumalatāsumanomaṇibhyaḥ
+kalyāṇinī bhavatu mauktikaśuktipaṅktiḥ /
+prāptaṃ mayā sakalameva phalaṃ payodher-
+yaddāruṇairjalacarairna vidāritosmi // Subhv_0890
+
+ādāya vāri paritaḥ saritāṃ mukhebhyaḥ
+kiṃ tāvadarjitamanena durarṇavena /
+kṣārīkṛtaṃ ca vaḍavādahane hutaṃ ca
+pātālakukṣikuhare viniveśitaṃ ca // Subhv_0891
+
+kālaprāptaṃ mahāratnaṃ yo na gṛhṇātyabuddhimān /
+anyahastagataṃ dṛṣṭvā paścātsa paritapyate // Subhv_0892
+
+bhidyatenupraviśyāntaryo yathārucyupādhinā /
+viśuddhiḥ kīdṛśī tasya jaḍasya sphaṭikāśmanaḥ // Subhv_0893
+
+sphaṭikasya guṇo yosau sa evāyāti doṣatām /
+dhatte svacchatayā chāyāṃ yastāṃ malavatāmapi // Subhv_0894
+
+yena pāṣāṇakhaṇḍasya mūlyamalpaṃ vasuṃdharā /
+anastamitasārasya tejasastadvijṛmbhitam // Subhv_0895
+
+śuṣkatanutṛṇalavāgraṃ gṛhṇāti dhanāśayānyadīyaṃ yaḥ /
+mūḍhāstṛṇamaṇimapi taṃ niyuñjate pādarakṣāyai // Subhv_0896
+
+sadvaṃśajaḥ sādhuguṇaḥ suvṛttaḥ
+saṃtāpabhittulyaguṇopagūḍhaḥ /
+kānto dṛśaḥ paśya tathāpi hāraḥ
+kṣipto bahistuṅgakucadvayena // Subhv_0897
+
+kanakabhūṣaṇasaṃgrahaṇocito
+yadi maṇistrapuṇi pratibadhyate /
+na sa virauti na cāpi hi śobhate
+bhavati yojayiturvacanīyatā // Subhv_0898
+
+marakatasya varaṃ malinātmatā
+tyajati jātu nijāṃ prakṛtiṃ na yaḥ /
+amalatāṃ sphaṭikasya dhigañjasā
+bhajati rūpamupāntagatasya yaḥ // Subhv_0899
+
+asminsakhe nanu maṇitvamahāsubhikṣe
+cintāmaṇe tvamupalo bhava mā maṇirbhūḥ /
+adyedṛśā hi maṇayaḥ prabhavanti loke
+yeṣāṃ tṛṇagrahaṇakauśalameva bhūṣā // Subhv_0900
+
+bhūmau patannapi rajaḥ paridhūsaropi
+jātyandhadurjanajanairavadhīritopi /
+trailokyavandanamahāmahimānamantaś-
+cintāmaṇirnahi jahāti kadācideva // Subhv_0901
+
+cintāmaṇe bhuvi na kenacidīśvareṇa
+mūrdhnā dhṛtosi yadi mā sma tato viṣīdaḥ /
+nāstyeva hi tvadadhiropaṇapuṇyabījaṃ
+saubhāgyayogyamiha kasyaciduttamāṅgam // Subhv_0902
+
+cintāmaṇestṛṇamaṇeśca kṛtaṃ vidhātrā
+kenobhayorapi maṇitvamadaḥ samānam /
+naikorthitāni dadadarthijanāya khinno
+gṛhṇañjarattṛṇalavaṃ na tu lajjitonyaḥ // Subhv_0903
+
+manorathaśatairvṛto bhuvananāthacūḍocitas-
+tṛṇairalamadhaḥ kṛtaḥ kṛtapadaḥ kvacidgrāvasu /
+vrajatyapi sacetasāṃ viṣayamīdṛśāṃ yo dṛśo
+luṭhatyacalakaṃdare vidhura eṣa cintāmaṇiḥ // Subhv_0904
+
+parāmṛṣati saspṛhaṃ muhurapelavaṃ vīkṣate
+mahatkimapi ratnamityasamasaṃmadaṃ gūhate /
+kutopi parilepavacchavimavāpya kācopale
+vahatyatikadarthanāṃ bata varākakaḥ pāmaraḥ // Subhv_0905
+
+kiraṇanikarairāśācakraṃ ciraṃ paripūrayan-
+kimiha gahena bhrātarvyarthaṃ samullasito bhavān /
+ka iha bhavato vettyatyantaṃ nisargamahārghatāṃ
+marakatamaṇe dagdhagrāme hatādarapāmare // Subhv_0906
+
+dūre kasyacideṣa kopyakṛtadhīrnaivāsya vettyantaraṃ
+mānī kopi na yācate mṛgayate kopyalpamalpāśayaḥ /
+itthaṃ prārthitadānadurvyasanino naudāryarekhojjvalā
+jātā naipuṇadustareṣu nikaṣā sthāneṣu cintāmaṇeḥ // Subhv_0907
+
+ye gṛhṇanti haṭhāttṛṇāni maṇayo ye vāpyayaḥpiṇḍikāṃ
+te dṛṣṭāḥ pratidhāma dagdhamaṇayo vicchinnasaṃkhyāściram /
+no jāne kimabhāvataḥ kimathavā daivādiha śrūyate
+nāmāpyatra na tādṛśasya tu maṇe ratnāni gṛhṇāti yaḥ // Subhv_0908
+
+yanmuktāmaṇayombudherudarataḥ kṣiptā mahāvīcibhiḥ
+paryanteṣu luṭhanti nirmalarucā spaṣṭāṭṭahāsā iva /
+tattasyaiva parikṣayājjalanidherdvīpāntarālambināṃ
+ratnānāṃ tu parigrahavyasaninaḥ santyeva sāṃyātrikāḥ // Subhv_0909
+
+māṇikyoyaṃ mahārghaḥ kṣititalamahito dīptimānuccajanmā
+dṛṣṭvainaṃ nūnamārādvyapasaratitarāṃ kāpi daurgatyanītiḥ /
+itthaṃ bhrāntiprapañcairvipadapahṛtaye kenacitsthāpitaḥ sa-
+nnante dṛṣṭaḥ sa eva vraṇaśataparuṣaḥ kopi pāṣāṇakhaṇḍaḥ // Subhv_0910
+
+yāmaḥ svasti tavāstu rohaṇagire mattaḥ sthitipracyutā
+vartiṣyanta ime kathaṃ kathamiti svapnepi maivaṃ kṛthāḥ /
+śrīmaṃste maṇayo vayaṃ yadi bhavallabdhapratiṣṭhāstadā
+te śṛṅgāraparāyaṇāḥ kṣitibhujo maulau kariṣyanti naḥ // Subhv_0911
+
+uccairuccaratu ciraṃ cīrī vartmani taruṃ samāruhya /
+digvyāpini śabdaguṇe śaṅkhaḥ saṃbhāvanābhūmiḥ // Subhv_0912
+
+śaṅkhosthiśeṣaḥ sphuṭito mṛto yad-
+ucchvāsitenocchvasate nu satyam /
+kiṃ tūccaratyeva na sosya śabdaḥ
+śravyo na yo yo na sadarthaśaṃsī // Subhv_0913
+
+prāṇānvihāya dhavalatvaguṇocitāni
+prāptāni yajjagativaktraviśeṣayogāt /
+śaṅkhairmahāvibhavaśabdavijṛmbhitāni
+tajjīvitaṃ sahṛdayāḥ prabhavanti yeṣām // Subhv_0914
+
+dhīraḥ śrotrasukhāvahopi sadṛśaḥ satyaṃ paraṃ maṅgalaṃ
+kvāpi grāmasurāṅgaṇe sa tu lasansaṃdhyāsu śaṅkhadhvaniḥ /
+mādyanmedurasārameyasaralagrīvāgradīrghībhavan-
+nādo nāma kṛtānukāramuditagrāmyāṭṭahāsāhataḥ // Subhv_0915
+
+ratnākarājjanibhuvopyapacāyamānaḥ
+śuṣkāsthiśeṣatanutāmapi lambamānaḥ /
+śvāsaiḥ saphūtkṛtibhirapyupahanyamānaḥ
+śuddhāśayo vadati maṅgalameva śaṅkhaḥ // Subhv_0916
+
+śaṅkhāḥ santi sahasraśo jalanidhervīcicchaṭāghaṭṭitāḥ
+paryanteṣu luṭhanti ye dalaśataiḥ kalmāṣitakṣmātalāḥ /
+ekaḥ kopi sa pāñcajanya udabhūdāścaryabhūtaḥ satāṃ
+yaḥ saṃvartabharakṣamairmadhuripoḥ śvāsānilaiḥ pūryate // Subhv_0917
+
+sarvāśāparipūri huṃkṛtamado janmāpi dugdhodadher-
+govindānanacumbi sunadarataraṃ pūrṇendubimbādvapuḥ /
+śrīreṣā sahajā guṇāḥ kimaparaṃ bhaṇyanta ete hi yat-
+kauṭilyaṃ hṛdi pāñcajanya bhavatastenātilajjāmahe // Subhv_0918
+
+varamaśrīkataivāstu netaraśrīsamānatā /
+iti kairavakodbhede kamalaṃ mukulāyate // Subhv_0919
+
+lakṣmīsaṃparkarūpoyaṃ doṣaḥ padmasya niścitam /
+yadayaṃ guṇasaṃdohadhāmanīndau parāṅmukhaḥ // Subhv_0920
+
+antaśchidrāṇi bhūyāṃsi kaṇṭakā bahavo bahiḥ /
+kathaṃ kamalanālasya mā bhūvanbhaṅgurā guṇāḥ // Subhv_0921
+
+kiṃ dīrghadīrgheṣu guṇeṣu padma
+siteṣvavacchādanakāraṇaṃ te /
+astyeva tānpaśyati cedanāryā
+trasteva lakṣmīrna padaṃ vidhatte // Subhv_0922
+
+sthalakuśeśaya saṃcinu kaṇṭakān-
+prathaya paṅkakulodbhavatāṃ mudā /
+api badhāna dhṛtiṃ jalasaṃgame
+vrajasi yena parāspadatāṃ śriyaḥ // Subhv_0923
+
+akṣeṣviyaṃ vyasanitā hṛdaye yadete
+rāgo ghano madhumadotkaṭamānanaṃ ca /
+padmastathāpi paramāspadameva lakṣmyās-
+taddainyameva kila durbhagatā yadebhiḥ // Subhv_0924
+
+padmādayo bahuguṇā api yanniśāsu
+nāśaṃ na yānti viraheṇa divākarasya /
+tatpaṅkasaṃkarajalāśayajanmajāḍya-
+jyāyovijṛmbhitamidaṃ trijagatpratītam // Subhv_0925
+
+lakṣmīṃ viśeṣaya kuśeśaya kauśalāṅkāṃ
+jṛmbhā jahīhi calatāṃ ca vimuñca kiṃcit /
+āśāgatānyalikulāni mudaṃ nayeha
+mittre vidhau sati vidhatsa yatheṣṭametat // Subhv_0926
+
+nityaṃ tathā śṛṇu kuśeśaya madvacāṃsi
+snehena yāni bhavataḥ kathayāmi kiṃcit /
+kāntyānayā vimalayā bhramarairguṇairvā
+kiṃ yāsi ramyatamatāmuta kaṇṭakarddheḥ // Subhv_0927
+
+saṃkocamehi bisapuṣpa jahīhi śobhāṃ
+doṣākaroyamadhunā samudeti paśya /
+vakrātmani prabhavati kramaśo vicintya
+pracchannatā guṇavatāṃ svayameva yogyā // Subhv_0928
+
+truṭyadguṇopi bahukaṇṭakatāṃ gatopi
+randhrānvitopi hatakardamasaṃbhavopi /
+bhṛṅgopabhogyavibhavopi tathāpi padmo
+mitrodaye vikasanaṃ labhate sadaiva // Subhv_0929
+
+kāmaṃ bhavantu madhulampaṭaṣaṭpadaugha-
+saṃghaṭṭaghuṃghumaghanadhvanayobjakhaṇḍāḥ /
+gāyannatiśrutisukhaṃ vidhireva yatra
+bhṛṅgaḥ sa kopi dharaṇidharanābhipadmaḥ // Subhv_0930
+
+tāpāpahe sahṛdaye rucire prabuddhe
+mitrānurāganirate dhṛtasadguṇaughe /
+svāṅgapradānaparitoṣitaṣaṭpadesmin-
+yuktaṃ taveha kamale kamale sthitiryat // Subhv_0931
+
+na paṅkādudbhūtirna jaḍasahavāsavyasanitā
+vapurdigdhaṃ kāntyā sthalanalina ratnadyutimuṣā /
+vyadhāsyaddurvedhā hṛdayalaghimānaṃ yadi na te
+tvamevaikaṃ lakṣmyāḥ paramamabhaviṣyaḥ padamiha // Subhv_0932
+
+utpannā bahavastaleṣu sarasāmambhoruhāṇāṃ cayā
+ye yāminyadhipānukāriramaṇīvaktropamānaṃ gatāḥ /
+nābhau bhaumariporajāyata mahāpadmaḥ sa kopyekako
+yastrailokyasamudbhavaprabhaviturjanmāvanitvaṃ gataḥ // Subhv_0933
+
+puṣyenyatrāvakāśo nipuṇamapahṛtaḥ saurabhālobhanābhiḥ
+svābhogentaḥpraveśopyaśithilaniviḍaḥ kośabhāvānna dattaḥ /
+nītvā nairāśyamitthaṃ galitagatirasau mugdhabuddhiḥ pradoṣe
+padmena śrīmatāpi prasabhamubhayato bhraṃśitaḥ paśya bhṛṅgaḥ // Subhv_0934
+
+bhrātaḥ paṅkaja saṃkocaḥ kaṃcitkālaṃ viṣahyatām /
+saiva prabhāte śobhā te bhāte dinakare bhavet // Subhv_0935
+
+adhogatiṃ ca saṃprāpya bisāḥ paṅkakalaṅkitāḥ /
+guṇino nirguṇairdāśaiḥ kṛṣṭāḥ svāṅkuradarśitāḥ // Subhv_0936
+
+tadaṅkurāṇi padmāni guṇairyuktāni mānibhiḥ /
+śirasā dhāryamāṇāni mīlitāni jaḍātmanā // Subhv_0937
+
+marau nāstyeva salilaṃ kṛchrādyadyapi labhyate /
+tatkaṭu stokamuṣṇaṃ ca na karoti vitṛṣṇatām // Subhv_0938
+
+caṭulacātakacañcupuṭātpata-
+ñjalakaṇopi maroratigocaraḥ /
+sa punaradya ghanāgamabandhunā
+jaladhareṇa jalairaparaḥ kṛtaḥ // Subhv_0939
+
+kiṃ pāntha nirmathanasiddhyupayogivastu-
+saṃbhāraśālini marau sugṛhītanāmni /
+saṃdṛśyatetiviparītamidaṃ hi tatra
+kūposti tatra ca jalaṃ yadayatnalabhyam // Subhv_0940
+
+asminmarau kimaparaṃ vacasāmavācyaṃ
+mā muñca pāntha muhurāśritavatsalo bhūḥ /
+etattvayā jalalavāmiṣalālasena
+dṛṣṭaṃ jvalatparikaraṃ sikatāvitānam // Subhv_0941
+
+satpādapānvipulapallavapuṣpabhāra-
+saṃpatparītavapuṣaḥ phalabhāranabhrān /
+yo muñjuśiñjitaśakuntaśatāśritoru-
+śākhānmarau mṛgayate na tatosti mugdhaḥ // Subhv_0942
+
+jalatarutṛṇaśūnyaḥ śrāmyatāmadhvagānāṃ
+kimapi kila batāhaṃ nopakartuṃ samarthaḥ /
+iti na paramabhīkṣṇaṃ nānuśete na yāvac-
+chaṭhamaruranṛtāmbhaḥprāptaye tānprayuṅkte // Subhv_0943
+
+gatamatijavādbhrāntaṃ bhrāntaṃ samutkaṣitā ca bhūś-
+cirataramatho niḥśvasyātho sadainyamavasthitam /
+kimiva na kṛtaṃ pānthenetthaṃ tathāpi śaṭho maruḥ
+prakṛtivirasaḥ kaṣṭaṃ yāto manāgapi nārdratām // Subhv_0944
+
+itaḥ kākānīkaṃ pratibhayamitaḥ kauśikakṛtā-
+ditomī gṛdhrādyāḥ kulamidamitaḥ kaṅkavayasām /
+śmaśānasthānesminnakhilaguṇavandhye hatatarāv-
+api dvitrāḥ kecinna khalu kalavācaḥ śakunayaḥ // Subhv_0945
+
+kimasi vimatiḥ kiṃ vobmādī kṣaṇādabhilakṣyase
+punarapi punaḥ prekṣāpūrvā na kācana te kriyā /
+svayamajalakāṃ jānānopi praviśya marusthalīṃ
+śiśiramadhuraṃ vāri prāptuṃ yadadhvaga vāñchasi // Subhv_0946
+
+parārthe yaḥ pīḍāmanubhavati bhaṅgepi madhuro
+yadīyaḥ sarveṣāmiha khalu vikāropyabhimataḥ /
+na saṃprāpto vṛddhiṃ yadi sa bhṛśamakṣetrapatitaḥ
+kimikṣordoṣosau na punaraguṇāyā marubhavaḥ // Subhv_0947
+
+tāpaḥ svātmani saṃśritadrumalatādoṣodhvagairvarjanaṃ
+satyaṃ tīvratayā tṛṣastava maro kosāvanarthodayaḥ /
+nanvarthaḥ sumahānayaṃ jalalavasvāmyasmayodgarjinaḥ
+saṃnahyanti yatastavopakṛtaye dhārādharāḥ prākṛtāḥ // Subhv_0948
+
+evaṃ codvidhinā kṛtosyupakṛtau kasyāṃcidapyakṣamaḥ
+kāmaṃ mopakṛthāstatastava maro vācyaṃ na dhīro bhava /
+kiṃ tvārānmṛgatṛṣṇayopajanayannambhomucāṃ vañcanāṃ
+premṇā karṣasi tarṣamūrchitadhiyopyanyānataḥ śocyase // Subhv_0949
+
+āmrāḥ kiṃ phalabhāranabhraśiraso ramyāḥ kimūṣmacchidaḥ
+sacchāyāḥ kadalīdrumāḥ surabhayaḥ kiṃ puṣpitāścampakāḥ /
+etāstā niravagrahograkarabhollīḍhāvarūḍhāḥ punaḥ
+śamyo bhrāmyasi mūḍha nirmaruti kiṃ mithyaiva martuṃ marau // Subhv_0950
+
+jalāntarāṇi śvabhreṣu tiṣṭhantu kvāpi yāntu vā /
+surasindhupravāhasya sṛtau ratnākarovadhiḥ // Subhv_0951
+
+kvāntaḥ śūnyo naḍaḥ kvekṣustathāpi sudṛśākṛtī /
+vivekaśūnyamanasāṃ vipralambhāya nirmitau // Subhv_0952
+
+nāsya bhāragrahe śaktirna ca vāhaguṇaḥ kṛṣau /
+devāgārabalīvardastathāpyaśnāti śobhanam // Subhv_0953
+
+nakraḥ svasthānamāsādya gajendramapi karṣati /
+sa eva pracyutaḥ sthānācchunāpi paribhūyate // Subhv_0954
+
+varamunnatalāṅgūlātsaṭādhūnanabhīṣaṇāt /
+siṃhātpādaprahāropi na sṛgālādhirohaṇam // Subhv_0955
+
+gandhaikasāro viphalaḥ sevyaścandanapādapaḥ /
+bhujaṃgāḥ pavanāhārāḥ sevakāḥ sadṛśo vidhiḥ // Subhv_0956
+
+kva gato mṛgo na jīvatyanudinamaśnaṃstṛṇāni vividhāni /
+svayamāhatagajabhoktuḥ siṃhasya tu durlabhā vṛttiḥ // Subhv_0957
+
+vakramaśayyāsaṃsthitamantaḥkoṭaramanekadurgranthi /
+praguṇīkartuṃ śakto durdāru na viśvakarmāpi // Subhv_0958
+
+na tadanukṛtaṃ manāgapi na vā jalaṃ sucirasevitaiḥ śītam /
+andhīkṛte kudīpaiḥ pratyuta dhūmena me nayane // Subhv_0959
+
+utsannamāpaṇamamuṃ drakṣyāmo nirmalaiḥ kadā nayanaiḥ /
+cintāmaṇikācakaṇau viparītaguṇāguṇau yatra // Subhv_0960
+
+ujjvalacampakamukulāśaṅkitayā yaḥ pradīpakaṃ spṛśati /
+kajjalakalaṅkadāhaṃ muktvānyattasya kiṃ ghaṭatām // Subhv_0961
+
+śikharī citaśikharaśikhaḥ sphuradaurvaśikhākadambakombunidhiḥ /
+kasyāpi laṅghanīyau na tu nagarāvakaranikaroyam // Subhv_0962
+
+phaṇamaṇibhāsuraguratarasamarthabahumastake śeṣe /
+kaḥ kṣitibharamudvoḍhuṃ prārthayate kṛpaṇakaṇikīṭān // Subhv_0963
+
+yatnādapi kaḥ paśyecchikhināmāhāraniḥsaraṇamārgam /
+yadi jaladaninadamuditāsta eva mūḍhā na nṛtyeyuḥ // Subhv_0964
+
+śaradi samagraniśākarakaraśatahatatimirasaṃcayā rajanī /
+jaladāntaritārkāmapi divasacchāyāṃ na pūrayati // Subhv_0965
+
+mṛdusubhagaparikararucopyanucitamidamekameva madanasya /
+yadanena kṛtaḥ ketau makaro daṃṣṭrākarālamukhaḥ // Subhv_0966
+
+hemakāra sudhiyo namostu te
+dustareṣu bahuśaḥ parīkṣitum /
+kāñcanābharaṇamaśmanā samaṃ
+yattvayaitadadhuropyate tulām // Subhv_0967
+
+vṛtte eva sa ghaṭondhakūpa yas-
+tvatprasādamapanetumakṣamaḥ /
+mudritaṃ tvadhamaceṣṭitaṃ tvayā
+tanmukhāmbukaṇikāḥ pratīcchatā // Subhv_0968
+
+śatapadī sati pādaśate kṣamā
+yadi na goṣpadamapyativartitum /
+kimiyatā dvipadasya hanūmato
+jaladhivikramaṇe vivadāmahe // Subhv_0969
+
+na guruvaṃśaparigrahaśauṇḍatā
+na ca mahāguṇasaṃgrahaṇādaraḥ /
+phalavidhānakathāpi na mārgaṇe
+kimiha lubdhakabāla gṛhedhunā // Subhv_0970
+
+tṛṇamaṇermanujasya ca tadvataḥ
+kimubhayorvipulāśayatocyate /
+tanu tṛṇāgralavāvayavairyayor-
+avasite grahaṇa pratipādane // Subhv_0971
+
+bhrātaḥ suvarṇamayarūpakatāracitrā-
+laṃkārayatnaghaṭanāsu suvarṇakāra /
+dūrīkuru śramamihādya suvarṇapātre
+durvarṇayojayiturasti mahārghalābhaḥ // Subhv_0972
+
+tanutṛṇāgradhṛtena hṛtaściraṃ
+ka iha yena na mauktikaśaṅkayā /
+sa jalabindurato viparītadṛg-
+jagadidaṃ vayamatra sacetanāḥ // Subhv_0973
+
+re dandaśūka tadayuktamapīśvarastvāṃ
+vāllabhyato nayati nūpuradhāma satyam /
+āvarjitālikulasatkṛtimūrchitāni
+kiṃ śiñjitāni bhavataḥ kṣama eṣa kartum // Subhv_0974
+
+suvarṇakāra śravaṇocitāni
+vastūni vikretumihāgatosi /
+adyāpi nāśrāvi yadatra pallyāṃ
+pallīpatirnūnamaviddhakarṇaḥ // Subhv_0975
+
+tānunnatānkṣitibhṛto nanu rūpayāmaḥ
+pakṣakṣayavyatikare mathitaṃ tadojaḥ /
+yuktaṃ kimaurvaśikhinaḥ parikopitasya
+tejasvinopyudadhinirmathanaṃ visoḍhum // Subhv_0976
+
+citraṃ kiyadyadayamambudhirambudaugha-
+sindhupravāhaparipūrṇatayā mahīyān /
+tvaṃ tvarthināmupakaroṣi yadalpakūpa
+niṣpīḍya kukṣikuharaṃ hi mahattvametat // Subhv_0977
+
+dhigvāḍavaṃ dahanamarthitayā vipakṣa-
+mabhyeti yaḥ svajaṭharapratipūraṇāya /
+dhigvārirāśimapi yastu tathāvidhasya
+śatrorjalairapi na pūrayabhilāṣam // Subhv_0978
+
+śāvānkulāyakagatānparipātukāmā
+nadyāḥ pragṛhya laghu pakṣapuṭena toyam /
+dāvānalaṃ kila siṣeca muhuḥ kopotī
+snigdho jano na khalu cintayate svapīḍām // Subhv_0979
+
+kākaḥ svabhāvacapalaḥ pariśuddhavṛttir-
+labdhvā baliṃ svajanamāhvayate parāṃśca /
+carmāsthimāṃsavati hastikalevarepi
+śvā dveṣṭi hanti ca parānkṛpaṇasvabhāvaḥ // Subhv_0980
+
+ādāyi vāri yata eva jahāti bhūyas-
+tatraiva yaḥ sa jaladaḥ prathamo jaḍānām /
+vāntaṃ pratīpsati tadeva tadeva yastu
+strotaḥ patiḥ sa nirapatrapasārthavāhaḥ // Subhv_0981
+
+budhyāmahe na bahudhāpi vikalpamānāḥ
+kairnāmabhirvyapadiśāma mahāmatīṃstān /
+yeṣāmaśeṣabhuvanābharaṇasya hemnas-
+tattvaṃ vivektumupalāḥ paramaṃ pramāṇam // Subhv_0982
+
+na mlānitānyakhiladhāmavatāṃ mukhāni
+nāstaṃ tamo na ca kṛto bhuvanopakāraḥ /
+sūryātmajohamiti kena guṇena lokān-
+pratyāpayiṣyasi śane śapathaṃ vinā tvam // Subhv_0983
+
+saṃrakṣituṃ kṛṣimakāri kṛṣīvalena
+paśyātmanaḥ pratikṛtistṛṇapūruṣoyam /
+stabdhasya niṣkriyatayāstabhiyosya nūna-
+matsyanti gomṛgaganāḥ punareva sasyam // Subhv_0984
+
+kasyānimeṣavitate nayane divauko-
+lokādṛte jagati te api vai gṛhītvā /
+piṇḍe prasāritamukhena time kimetad-
+dṛṣṭaṃ na bāliśa viśadbaḍiśaṃ tvayāntaḥ // Subhv_0985
+
+ā janmanaḥ kuśalamaṇvapi te kujanman-
+pāṃso tvayā yadi kṛtaṃ vada tattvametat /
+utthāpitosyanalasārathinā yadarthaṃ
+duṣṭena tatkuru kalaṅkaya viśvametat // Subhv_0986
+
+puṃstvādapi pravicaledyapi yadyadhopi
+yāyādyapi praṇayanena mahānapi syāt /
+abhyuddharettadapi viśvamitīdṛśīyaṃ
+kenāpi dikprakaṭitā puruṣottamena // Subhv_0987
+
+svalpāśayaḥ svakulaśilpavikalpameva
+yaḥ kalpayanskhalati kācavaṇikpiśācaḥ /
+grastaḥ sa kaustubhamaṇīndrasapatnaratna-
+niryatnagumphapaṭuvaikaṭikerṣyayāntaḥ // Subhv_0988
+
+devī kva durgatiharā bhaginī bhavānī
+devo haraḥ kva bhaginīpatirārtabandhuḥ /
+ambhonidhau kva śaraṇāgatavṛttidainyaṃ
+maināka nākathayitavyamidaṃ tvayā naḥ // Subhv_0989
+
+tuṅgātmatāstaśikharasya vṛthaiva bhānor-
+nālambinī bhavati yāstamaye prapitsoḥ /
+ślāghyaḥ sa tāmarasanālaguṇopi daitya-
+bhītyā yametya marutāṃ patirālalambe // Subhv_0990
+
+gṛhaṃ śmaśānaṃ gajacarma cāmbaraṃ
+vilepanaṃ bhasma vṛṣaśca vāhanam /
+kubera he vittapate na lajjase
+priyasya te sakhyuriyaṃ daridratā // Subhv_0991
+
+naikatra śaktiviratiḥ kvacidasti sarva
+bhāvāḥ svabhāvapariniṣṭhitatāratamyāḥ /
+ākalpamaurvadahanena nipīyamāna-
+mambhodhimekaculakena papāvagastyaḥ // Subhv_0992
+
+viṣṇurbibharti bhagavānakhilāṃ dharitrīṃ
+taṃ pannagastamapi tatsahitaṃ payodhiḥ /
+kumbhodbhavastamapibatkhalu helayaiva
+satyaṃ na kaścidavadhirmahatāṃ mahimnaḥ // Subhv_0993
+
+āropitaḥ pṛthunitambataṭe taruṇyā
+kaṇṭhe ca bāhulatayā niviḍaṃ gṛhītaḥ /
+utuṅgapīnakucanirbharapīḍitoyaṃ
+kumbhaḥ karīṣadahanasya phalāni bhuṅkte // Subhv_0994
+
+ābaddhakṛtrimasaṭāvalitāṃsabhitti-
+rāropyate mṛgapateḥ padavīṃ yadi śvā /
+mattebhakumbhataṭapāṭanalampaṭasya
+nādaṃ kariṣyati kathaṃ hariṇādhipasya // Subhv_0995
+
+mukhamapi pariśiṣṭaṃ yasya tejaḥprasūtiṃ
+kharakiraṇamathenduṃ grāsapātrīkaroti /
+yadi kila vapurasya prābhaviṣyatsamagraṃ
+kimiva kimiva rāhurnākariṣyattadānīm // Subhv_0996
+
+yatpuṣpapallavaphalāhitasāmyamohair-
+na jñāyate śuka tava sthitirasthitirvā /
+taddāḍimaṃ tyajasi naiva phalāśayā tvam-
+arthāturo na gaṇayatyapakarṣadoṣam // Subhv_0997
+
+varamiha ravitāpaiḥ kiṃ na śīrṇāsi gulme
+kimu davadahanairvā sarvadāhaṃ na dagdhā /
+yadahṛdayajanaughairvṛntaparṇānabhijñair-
+itarakusumamadhye mālati prombhitāsi // Subhv_0998
+
+kimidamucitaṃ śuddheḥ spaṣṭaṃ sapakṣasamunnateḥ
+phalapariṇateryuktaṃ prāptuṃ guṇapraṇayasya te /
+kṣaṇamupagataḥ karṇopāntaṃ parasya puraḥ sthitān-
+viśikha nipatankrūraṃ dūrānnṛśaṃsa nihaṃsi yat // Subhv_0999
+
+sa hemālaṃkāraḥ kṣitipatanalagnena rajasā
+tathā dainyaṃ nīto narapatiśiraḥślāghyavibhavaḥ /
+yathā loṣṭabhrāntivyavahitavivekavyatikaro
+vilokyainaṃ lokaḥ pariharati pādakṣatibhayāt // Subhv_1000
+
+āhūteṣu vihaṃgameṣu maśako nāyānpurovāryate
+madhye vā dhuri vā vasaṃstṛṇamaṇirdhatte maṇīnāṃ rucam /
+khadyotopi na kampate pracalituṃ madhyepi tejasvināṃ
+dhiksāmānyamacetanaṃ prabhumivānāmṛṣṭatattvāntaram // Subhv_1001
+
+evaṃ cetsarasasvabhāvaparatā jāḍyaṃ kimetādṛśaṃ
+yadyastyeva nisargataḥ saralatā kiṃ granthimattedṛśī /
+mūlaṃ cecchuvi paṅkajaśrutiriyaṃ kasmādguṇā yadyamī
+kiṃ chidrāṇi sakhe mṛṇāla bhavatastattvaṃ na manyāmahe // Subhv_1002
+
+tvaṃ bhogī yadi kuṇḍalī yadi bhavāṃstvaṃ cedbhujaṃgaḥ sakhe
+dhatse cenmukuṭaṃ saratnamuraga svastyastu te kiṃ tataḥ /
+asthāne yadi kañcukaṃ tyajasi tannāsmākamatra spṛhā
+kiṃ tu krūraviṣolkayā dahasi yadbhrātaḥ ka eṣa grahaḥ // Subhv_1003
+
+maulau sanmaṇayo gṛhaṃ giriguhā tyāgaḥ kilātmatvaco
+niryatnopanataiśca vṛttiranilairekatra caryedṛśī /
+anyatrānṛju vartma vāgvitasanā dṛṣṭau viṣaṃ dṛśyate
+yādṛktāmanu dīpako jvalati kiṃ bhoginsakhe kinvidam // Subhv_1004
+
+bhūyāṃsyasya mukhāni nāma viditaivāste mahāsattvatā
+kadrvāḥ prākprasavoyamatra kupite cintyaṃ yathedaṃ jagat /
+trailokyādbhutamīdṛśaṃ tu caritaṃ śoṣasya yenāsya sā
+pronmṛjyeva nivartitā viṣadharajñānepi durvarṇikā // Subhv_1005
+
+kiṃ tena hemagiriṇā rajatādriṇā vā
+yasyāśrayeṇa taravastaravasta eva /
+manyāmahe malayameva yadāśritāni
+śāhoṭanimbakuṭajānyapi candanāni // Subhv_1006
+
+yāndigdhvaiva kṛtā viṣeṇa kusṛtiryeṣāṃ kiyadgaṇyate
+lokaṃ hantumanāgasaṃ dvirasanā randhreṣu ye jāgrati /
+vyālāstepi dadhatyamī sadasatormūḍhā maṇīnmūrdhabhir-
+naucityādguṇaśālināṃ kvacidapi bhraṃśostyalaṃ cintayā // Subhv_1007
+
+tatpratyastratayā dhṛto na tu kṛtaḥ samyaksvatantro bhayāt-
+svasthastānpratighātayediti yathākāmaṃ na saṃpoṣitaḥ /
+saṃśuṣyanvṛṣadaṃśa eṣa kurutāṃ mūkaḥ sthitopyatra kiṃ
+gehe kiṃ bahunādhunā gṛhapateścaurāścarantyākhavaḥ // Subhv_1008
+
+svātmīyānna dadāsi cetphaṇamaṇīnmā dāḥ parārthaṃ parair-
+yatkiṃcinnihitaṃ ruṇatsi kimidaṃ nidhyādi duṣṭāśayā /
+etattāvadalaṃ bhavantamaparaṃ pṛcchāmi kasmādahe
+phūtkārairviṣavahnivegagurubhirdandahyasemuṃ janam // Subhv_1009
+
+niḥsārāḥ sutarāṃ laghuprakṛtayo yogyā na kārye kvacic-
+chuṣyantodya jarattṛṇādyavayavāḥ prāptāḥ svatantreṣu ye /
+antaḥsāraparāṅmukheṇa dhigaho te mārutenāmunā
+paśyātyantacalena vartma mahatāmākāśamāropitāḥ // Subhv_1010
+
+ye jātyā laghavaḥ sadaiva gaṇanāṃ yātā na ye kutracit-
+padbhyāmeva vimarditāḥ pratidinaṃ bhūmau nilīnāściram /
+utkṣiptāścapalāśayena marutā paśyāntarikṣe sakhe
+tuṅgānāmupari sthitaṃ kṣitibhṛtāṃ kurvantyamī pāṃsavaḥ // Subhv_1011
+
+anīrṣyāḥ śrotāro mama vacasi cedvacmi tadahaṃ
+svapakṣādbhetavyaṃ bahu na tu vipakṣātprabhavataḥ /
+tamasyākrāntāśe kiyadapi hi tejovayavinaḥ
+svaśaktyā bhāsante divasakṛti satyeva na punaḥ // Subhv_1012
+
+sāṃmukhyaṃ vastujātaṃ nayati nanu cidīśasya yaddarśanāḍhyaṃ
+netradvandvaṃ kilaitadvimalamiti tatonyāṅgasaṅgaṃ vihāya /
+ghrāṇaṃ vaṃśābhirāmaṃ parimalanirataṃ cakṣuṣormadhyabhāge
+nityaṃ līnaṃ na cāsminmṛgasi nayanayoḥ śvāsamāmuñca khinne // Subhv_1013
+
+etattasya mukhātkiyatkamalinīpattre kaṇaṃ pāthaso
+yanmuktāphalamityamaṃsta sa jaḍaḥ śṛṇvanyadasmādapi /
+aṅgulyagralaghukriyāpravilayinyādīyamāne śanais-
+tatroḍḍīya gate hahetyanudinaṃ nidrāti nāntaḥśucā // Subhv_1014
+
+āstetraiva sarasyaho bata kiyānsaṃtoṣapakṣagraho
+haṃsasyāsya manāṅna dhāvati matiḥ śrīdhāmni padme kvacit /
+suptodyāpi vibudhyate na taditastāvatpratīkṣāmahe
+velāmityuṣasi priyā madhulihaḥ soḍhuṃ tu eva kṣamāḥ // Subhv_1015
+
+vātāhāratayā jagadviṣadharairāśvāsya niḥśeṣitaṃ
+te grastāḥ punarabhratoyakaṇikātīvravratairbarhibhiḥ /
+tepi krūracamūrucarmavasanairnītāḥ kṣayaṃ lubdhakair-
+dambhasya sphuritaṃ vidannapi jano jālmo guṇānīhate // Subhv_1016
+
+nāmāpyanyatarornimīlitamabhūttattāvadunmīlitaṃ
+prasthāne skhalataḥ svavartmani vidheranyairgṛhītaḥ karaḥ /
+lokaścāyamadṛṣṭadarśanadaśādṛgvaiśasāduddhṛto
+yuktaṃ kāṣṭhika lūnavānyadasitāmāmrālimākālikīm // Subhv_1017
+
+ūḍhā yena mahādhuraḥ suviṣame mārge sadaikākinā
+soḍho yena kadācideva na nije goṣṭhenyaśauṇḍadhvaniḥ /
+āsīdyaśca gavāṃ gaṇasya tilakastasyaiva saṃpratyaho
+dhikkaṣṭaṃ dhavalasya jātajaraso goḥ paṇyamuddhoṣyate // Subhv_1018
+
+bhekena kvaṇatā saroṣaparuṣaṃ yatkṛṣṇasarpānane
+dātuṃ karṇacapeṭamujjhitabhiyā hastaḥ samullāsitaḥ /
+yaccādhomukhamakṣiṇī pidadhatā nāgena tatra sthitaṃ
+tatsarvaṃ viṣamantriṇo bhagavataḥ kasyāpi līlāyitam // Subhv_1019
+
+nityaṃ tīrthe nivāsaḥ prakṛtiratitarāṃ snigdhamugdhasvabhāvā
+vṛttirdaivāddhi vaktre gagananipatitairnirmalairvārileśaiḥ /
+itthaṃ sarvaṃ vilokya prakaṭamiha time mugdhalokena loke
+sādhutvaṃ darśitaṃ te bahirabahiramī kaṇṭakāḥ kena dṛṣṭāḥ // Subhv_1020
+
+mṛtyorāsyamivātataṃ dhanuramī cāśīviṣābhāḥ śarāḥ
+śikṣā sāpi jitārjunā pratibhayaṃ sarvāṅganimnā gatiḥ /
+antaḥ krauryamaho śaṭhasya madhuraṃ hā hāri geyaṃ mukhe
+vyādhasyāsya yathā bhaviṣyati tathā manye vanaṃ nirmṛgam // Subhv_1021
+
+dhigvyomno mahimānametu dalaśaḥ proccaistadīyaṃ padaṃ
+nindyāṃ daivagatiṃ prayātvabhavanistasyāstu śūnyasya vā /
+yenotkṣiptakarasya naṣṭamahasaḥ śrāntasya saṃtāpino
+mitrasyāpi nirāśrayasya na kṛtaṃ dhṛtyai karālambanam // Subhv_1022
+
+digdāhaikarate vanāntakara te jvālā na me rocate
+dugdhaṃ svāśrayamudyatasya bhavato necchanti vṛddhiṃ janāḥ /
+mūlānyasya mahībhṛto dalayituṃ durvedhasā nirmitaḥ
+ko vā na tvayi śaṅkate khala jagatkhedāvahe dāva he // Subhv_1023
+
+kṣutkṣāmeṇa kathaṃ kathaṃcidaniśaṃ gātraṃ kṛśaṃ bibhratā
+bhrāntaṃ yena gṛhe gṛhe gṛhavatāmucchiṣṭapiṇḍārthinā /
+asthnaḥ khaṇḍamavāpya daivapatitaṃ śūnyāṃ trilokīmimāṃ
+manvāno dhigaho sa eva saramāputrodya siṃhāyate // Subhv_1024
+
+śuṣkasnāyuvasāvasekamalinaṃ nirmāṃsamapyasthi goḥ
+śvā labdhā paritoṣameti na tu tattasya kṣudhaḥ śāntaye /
+siṃho jambukamaṅkamāgatamapi tyaktvā nihanti dvipaṃ
+sarvaḥ kṛchragatopi vāñchati janaḥ sattvānurūpaṃ phalam // Subhv_1025
+
+kāluṣyaṃ payasāṃ vilokya śanakairuḍḍīya haṃsā gatā
+dhārājarjarakesarāsphuṭarucaḥ padmā nimignā jale /
+sā sarvartusukhāvatārapadavī channā tṛṇairnūtanaiḥ
+kaṣṭaṃ tādṛgapi svabhāvavimalaṃ vṛdchyaiva naṣṭaṃ saraḥ // Subhv_1026
+
+ye saṃtoṣasukhaprabuddhamanasasteṣāmabhinno mṛdo
+yepyete dhanalobhasaṃkuladhiyasteṣāṃ tu dūre nṛṇām /
+itthaṃ kasya kṛte kṛtaḥ sa vidhinā tādṛkpadaṃ saṃpadāṃ
+svātmanyeva samāptahemamahimā merurna me rocate // Subhv_1027
+
+dravyāṇāmadharottaravyatikaro bhagnāśayānāmadho
+bījānāṃ nayanaṃ svayaṃ ca nijavacchidrakriyānveṣaṇam /
+vyūhābandhavidhāyibhirgatabhayairmugdhaprasuptārbhakaṃ
+śūnyaṃ prāpya nivāsamākhubhiraho kiṃ kiṃ na yadyatkṛtam // Subhv_1028
+
+anyonyasya layaṃ bhayādiva mahābhūteṣu yāteṣvalaṃ
+kalpānte parameka eva sa taruḥ skandhoccayairjṛmbhate /
+vinyasya trijaganti kukṣikuhare devena yasyāsyate
+śākhāgre śiśuneva sevitajalakrīḍāvilāsālasam //trivikramasya Subhv_1029
+
+trailokyopakṛtiprasaktamanaso devasya śaṃbhoḥ priyā
+jātā śailakule varairabhimatairānandayantī surān /
+mlecchānāmapi vāñchitārpaṇaparā svasyāspadasyāmbikā
+vindhyasyonnatimātanoti na nijāṃ daivasya kīdṛgbalam //bhā. amṛtadattasya Subhv_1030
+
+kiṃ tvaṃ hālika mūḍhadhīrhataphalaṃ mā mā kṛthā lāṅgalaṃ
+kṣetraṃ naiva bhavatyadhaḥ kaṭhinatā naivātra dṛṣṭā tvayā /
+ullekhopi na jāyatetra virama kleśaḥ phalaṃ kevalaṃ
+nirbījā bahavo gatāśca satataṃ dṛṣṭāḥ śrutā vā na kim //kasyāpi Subhv_1031
+
+koyaṃ bhrāntiprakārastava pavana ghanāvaskarasthānajātaṃ
+tejasvivrātasevye nabhasi nayasi yatpāṃsupūraṃ pratiṣṭhām /
+yasminnutthāpyamāne jananayanapathopadravastāvadāstāṃ
+kenopāyena sahyo vapuṣi malinatādoṣa eṣa tvayaiva //bhā. amṛtadattasya Subhv_1032
+
+jātaḥ kūrmaḥ sa ekaḥ pṛthubhuvanabharāyārpitaṃ yena pṛṣṭhaṃ
+ślāghyaṃ janma dhruvasya bhramati niyamitaṃ yatra tejasvicakram /
+saṃjātavyarthapakṣāḥ parahitakaraṇe nopariṣṭānna cādho
+brahmāṇḍodumbarāntarmaśakavadapare jantavo jātanaṣṭāḥ //kasyāpi Subhv_1033
+
+kaṭu raṭasi kimevaṃ karṇayoḥ kuñjarāre-
+raviditanijabuddhe kiṃ na vijñātamasti /
+śiratarakaradaṃṣṭrāṭaṅkanirbhinnakumbhaṃ
+maśaka galakarandhre hastiyūthaṃ mamajja //kasyāpi Subhv_1034
+
+udrarjankuṭilastaṭāśrayatarupronmūlanoḍḍāmaro
+mā garvīḥ saritaḥ pravāha jaladhiṃ prakṣobhayāmīti bhoḥ /
+svāṃ sattāṃ yadi vāñchasi bhrama maruṣvevāḥsva tatraiva vā
+dūre vāḍavavahniratra tu mahāsattvairviśanpīyase // Subhv_1035
+
+sthairyaṃ tuṅgaśirā jagatsthitikṛte velāmahībhṛcchrito
+dūrātpreraṇayā kalāvata imaṃ krāntuṃ jalānāṃ pate /
+mithyā vāñchasi kiṃ tatastava paraṃ syādratnasattvakṣayo
+nūnaṃ ghaṭṭanamāpya pādatalagastvasyaiva cānte luṭheḥ // Subhv_1036
+
+āndolayasyavirataṃ gaganārkamaṅke
+tārāgaṇaṃ ca śaśinaṃ ca tathetarāṇi /
+tejāṃsi bhāsurataḍitprabhṛtīni sādho
+citraṃ tathāpi na jahāsi yadāndhyamantaḥ // Subhv_1037
+
+ayaṃ sa bhuvanatrayaprathitasaṃyamaḥ śaṃkaro
+bibharti vapuṣādhunā virahakātaraḥ kāminīm /
+anena kila nirjitā vayamiti priyāyāḥ karaṃ
+kareṇa paripīḍayañjayati jātahāsaḥ smaraḥ // Subhv_1038
+
+bhrūśārṅgākṛṣṭamuktāḥ kuvalayamadhupavyomalakṣmīmuṣo ye
+kṣīvā ye kṛṣṇaśārā narahṛdayabhidastārakakrūraśalyāḥ /
+te dīrghāpāṅgapuṅkhāḥ smitaviṣaviṣamāḥ pakṣmalāḥ strīkaṭākṣāḥ
+pāyāsurvotivīryāstribhuvanajayinaḥ pañcabāṇasya bāṇāḥ // Subhv_1039
+
+gaccha gacchasi cetkānta panthānaḥ santu te śivāḥ /
+mamāpi janma tatraiva bhūyādyatra gato bhavān // Subhv_1040

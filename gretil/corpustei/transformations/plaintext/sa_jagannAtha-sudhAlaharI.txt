@@ -1,0 +1,137 @@
+Jagannātha: Sudhālaharī
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_jagannAtha-sudhAlaharI.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Dhaval Patel
+## Contribution: Dhaval Patel
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Pdt. Durgaprasad and Kasinath Pandurang Parab, Kavyamala [old, cumulative series], vol. 1, 1886 (3rd ed., 1929), pp. 16-22.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Sudhālaharī = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from jagsudhu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Jagannatha: Sudhalahari
+Based on the ed. by Pdt. Durgaprasad and Kasinath Pandurang Parab,
+Kavyamala [old, cumulative series], vol. 1, 1886 (3rd ed., 1929), pp. 16-22.
+Input by Dhaval Patel
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+paṇḍitarājaśrījagannāthaviracitā sudhālaharī /
+
+ullāsaḥ phullapaṅkeruhapaṭalatanmattapuṣpaṃdhayānāṃ nistāraḥ śokadāvānalavikalahṛdāṃ kokasīmantinīnām /
+utpātastāmasānāmupahatamahasāṃ cakṣuṣāṃ pakṣapātaḥ saṃghātaḥ ko 'pi dhāmnāmayamudayagiriprāntataḥ prādurāsīt // jsudh_1 //
+
+padmadrohoddhurāṇāṃ dhavalitaharitāmaindavīnāṃ dyutīnāṃ darpaṃ drāgdrāvayanto vidaladaruṇimodrekadedīpyamānāḥ /
+dūrādevāndhakārāndhitadharaṇaitaladyotane baddhadīkṣāste dainyadhvaṃsadakṣā mudamudayadinodveladusrā diśantu // jsudh_2 //
+
+trātāmīvārtalakṣāḥ pratidinavihitānekagīrvāṇarakṣā bhaktānāṃ kalpavṛkṣāḥ sphuradanalagatasvarṇabhāsāṃ sadṛkṣāḥ /
+lokakṣemāttadīkṣā nalinapariṣadāṃ dattasaubhāgyalākṣā durvṛttadhvaṃsadakṣā mama ravikiraṇāḥ santvaghānāṃ vipakṣāḥ // jsudh_3 //
+
+prāleyānāṃ karālāḥ kavalitajagatīmaṇḍaladhvāntajālāḥ strātasvarlokapālā vidaladaruṇimakṣiptabālapravālāḥ /
+viśliṣyatkokabālājvaraharaṇabhavatkīrtijālairjaṭālā vyomavyāptau viśālāstvayi dadhatu śivaṃ bhāsvato bhānumālāḥ // jsudh_4 //
+
+nirbhidye kṣmāruhāṇāmatighanamudaraṃ yeṣu gotrāṃ gateṣu drādhiṣṭhasvarṇadaṇḍabhramabhṛtamanasaḥ saṃnidhitsanti pādān /
+yaiḥ saṃbhinne dalāgrapracalahimakaṇe dāḍimībījabuddhyā cañcūcāñcalyamañcanti ca śukaśiśavasteṃ 'śavaḥ pāntu bhānoḥ // jsudh_5 //
+
+ahni krīḍocitānāṃ sarasiruhalasanmandirāṇāṃ prabhāte prodghāṭya drākkapāṭānyatha kumudagṛhānmudrayanto vimuktān /
+siñcantaḥ kiṃ ca bhūmītalamakhilamapi kṣuṇṇakāśmīranīraiḥ pāyāsuḥ śrīsaparyāviracanapaṭavaḥ padmabandhoḥ karā naḥ // jsudh_6 //
+
+ālepā hiṅgulānāmiva dharaṇibhujāmacchasaudhāgramauliṣvagreṣu kṣmāruhāṇāmabhinavavidalatpallavollāsalīlāḥ /
+prauḍhaprāleyapuñjopari citasvadirāṅgārabhārā ivārātpārāvārātprayānto dinakarakiraṇā maṅgalaṃ naḥ kṛṣīran // jsudh_7 //
+
+kīlālaiḥ kuṅkumānāṃ nikhilamapi jagajjālametanniṣiktaṃ muktāśconmattabhṛṅgāvidalitakamalakroḍakārāgṛhebhyaḥ /
+utsṛṣṭaṃ gosahasraṃ bahalakalakalaḥ śrūyate ca dvijānāṃ bhāgyairvṛndārakāṇāṃ harihayaharitā sūyate putraratnam // jsudh_8 //
+
+yā sūte savabhūteṣvanudinamudaye cetanāyā vilāsānyāntī sāyaṃ nikāyaṃ jalanidhijaṭharaṃ saṃjarīharti sadyaḥ /
+atyarthaṃ vardhayantī maṇigaṇasuṣamāsaṃpadaṃ ratnasānoḥ sā no bhānoḥ prabhā no nayanasaraṇito dūrato jātu yātu // jsudh_9 //
+
+nīhārairnīrajānāṃ nibiḍatamatamorāśibhirlocanānāṃ śrautasmārtakriyāṇāmapi khalu niśayā nāśamālakṣya dūrāt /
+sadyaḥ sindhoḥ sakāśādadhikatarajavenāgatā vāsavāśāmāśāpāśānaśeṣānapaharatutarāṃ tīkṣṇabhānoḥ prabhā naḥ // jsudh_10 //
+
+śīte śokaṃ śaśāṅke kṛśatamarucitāmāśunāśaṃ niśāyāṃ dhikkāraṃ dhvāntavarge kumudapariṣadi prodgamaṃ dīnatāyāḥ /
+pāṇḍityaṃ puṇḍarīkeṣvanudinamadhikāṃ kāntimāśāsu tanvannanvañcatyanvahaṃ dyāmuṣasi karuṇayā viśvavandyo vivasvān // jsudh_11 //
+
+svāpaṃ svāpākulānāṃ gadamatha gadināmandhakāraṃ trilokyāḥ pāpaṃ pāpāvilānāṃ sapadi pariharannāgato vāsavāśām /
+nityaprasthānalīlākupitakamalinīnarmanirmāṇakarmā viśvārtitrāṇadharmā gaganamaṇirasau pātu śarmāniśaṃ vaḥ // jsudh_12 //
+
+antarnīraṃ nadīnāmanudinamudaye bimbitā ye samantādgīrvāṇādrerudañcanmaṇigaṇajaṭilāṃ medinīṃ darśayanti /
+vipraprotkṣiptasaṃdhyāñjalijalakaṇikājālamākāśamadhye māṇikyavrātayanto mama mihirakarā māndyamunmūlayantu // jsudh_13 //
+
+pratyagroḍhāḥ pragalbhā yuvatipariṣadaḥ proṣitaprāṇanāthā yasminnastādrimauleruparimaṇimayacchatralīlāṃ dadhāne /
+satrāsaṃ saprasādaṃ pariṇatakaruṇaṃ locanānyutkṣipanti sthemānaṃ sa priyāṇāṃ ghaṭayatu bhagavānpadminīvallabho vaḥ // jsudh_14 //
+
+antardyāvāpṛthivyoradhirajani bhṛtānandhakārānudārānvidrāvya drāktadīyairiva jayadaruṇaṃ śoṇitairyadvidhate /
+sāyaṃ prātaśca saṃdhyāñjalimavanisurāḥ saṃprayacchanti yasmai tasmai kasmaicidetanmama paramahaṃse devatāyai namo 'stu // jsudh_15 //
+
+trāṇaṃ traiviṣṭapānāṃ taraṇamatha payastomatāmyattanūnāṃ nadyantānāmatarkyaṃ triguṇamayatayā yattrayāṇāṃ turīyam /
+tattādṛktundilāyāstaruṇataratamaḥsaṃtaterantakṛttvāṃ tejastrailokyatāmrīkaraṇacaturima trāyatāṃ tīkṣṇabhānoḥ // jsudh_16 //
+
+gīrvāṇagrāmaṇībhirgaganatalagatairgīrbhirudgīthagābhirgandharvaiścāpi gītā guṇagaṇagāramodgārigāthāsahasraiḥ /
+gāhaṃ gāhaṃ gṛhālīragatikagadināṃ gandhayanto gadārtiṃ glānigrāmaṃ grasantāṃ graharuciguravo gopatergovilāsāḥ // jsudh_17 //
+
+jīvāturjāḍyajālādhikajanitarujāṃ taptajāmbūnadābhaṃ jaṅghālaṃ jāṅghikānāṃ jaladhijaṭharato jṛmbhamāṇaṃ jagatyām /
+jīvādhānaṃ janānāṃ janakamatha ruco jīvajaivātṛkāderjyotirjājvalyamānaṃ jalajahitakṛto jāyatāṃ vo jayāya // jsudh_18 //
+
+prātarnirgatya gobhiḥ saha ruciviṣaye saṃcarantyo 'hni tābhiḥ sākaṃ sāyaṃ nikāyaṃ prati punarapi yāḥ saṃprayātuṃ tvarante /
+yāsāṃ divyaprabhāvastrijagadaghavanaśreṇidāhaikadāvaḥ kṣemaṃ tanvantu tā vaḥ śivamayavapuṣo vāsareśasya gāvaḥ // jsudh_19 //
+
+vṛndairvṛndārakāṇāṃ danutanujanuṣāṃ rakṣasāṃ ca kṣapānte gandharvāṇāṃ dhurīṇaiḥ praṇatamahivaraiḥ kiṃnarairyannaraiśca /
+vidyāṃ hṛdyāṃ nijebhyo vitaradavirataṃ dīptibhirdīpayaddyāmadyādādyāmavidyāmidamudayagirerudyadarkasya bimbam // jsudh_20 //
+
+ā pāthojāsanāyuḥ kṣaṇalavaghaṭikādyātmakaṃ kālacakraṃ prāhuḥ pūrve purāṇāgamaviṣayavido yasya līlāvilāsam /
+bhāvānāṃ ṣaḍvikārānatha khalu gatibhiryaśca nityaṃ prasūte sa prātaḥ pauruhūte parilasati harinmaṇḍale caṇḍabhānuḥ // jsudh_21 //
+
+aṅgāni brāhmaṇānāmuṣasi himabharāsaṅgato bhaṅgurāṇi vyālakṣya drākprapātā ripujanitaruṣevāruṇā vāsavāśām /
+dharmadhvaṃsoddhurāṇāmakhilamapi kulaṃ jakṣataḥ śobhitakṣmā yakṣmāṇaṃ me harantu tvaritamaghabhido bhānavaścaṇḍabhānoḥ // jsudh_22 //
+
+viśrāntiṃ brāhmaṇānāṃ sukhamatiśayitaṃ kāmināṃ sthāyilīlāmambhojānāṃ prabodhaṃ kumudapariṣadāṃ yaścikīrṣandayārdraḥ /
+niryātyantaḥsamudraṃ sakalamapi nṛṇāṃ bhāramādhāya vahnāvahnāyāhnāmadhīśaḥ sa bhavatu bhavatāṃ bhūyase maṅgalāya // jsudh_23 //
+
+drāgāhatya prabhāte rajanihimavataḥ kaumudīḥ kautukena prodyatprauḍhānukampāḥ punarapi khalu ye sāyamujjīvayanti /
+āruṇye pallavānāmatha gurucaraṇāḥ śakragopāvalīnāṃ te yuṣmadbhāvalīnāṃ dinakarakiraṇāḥ klāntimunmūlayantu // jsudh_24 //
+
+drāgadvaitaṃ vitanvaṃstribhuvanamabhitaḥ kauṅkumīnāṃ dyutīnāṃ nyakkurvanmāndyamudrāmatha rajanirujāṃ kokasīmantinīnām /
+tandrāndhānāndhyasindhoriha vitatatarairuddadhānaṃ karāgraiḥ svāntadhvāntaṃ dhunītāmudayagiriśiraścumbi mārtaṇḍabimbam // jsudh_25 //
+
+śuddhaṃ brahmālavālaṃ prakṛtiśabalitaṃ yasya mūlaṃ karāstaddrādhiṣṭasvarṇaśākhā vikasadaruṇimā pallavānāṃ vilāsaḥ /
+nīlaṃ vyomālimālā surasaphalabharo dharmakāmārthamokṣāḥ sa śrīmānvāñchitārthaṃ vitaratu satataṃ sūryakalpadrumo vaḥ // jsudh_26 //
+
+nīhāraṃ nimnagābhyo nikhilanayanato nīrajebhyaśca nidrāṃ nīḍebhyo nīḍajānāṃ nikaramuṣasi ye nityamudvāsayanti /
+sāyaṃ teṣveva teṣāṃ punarapi ghṛṇayā kalpayante ca vāsaṃ te vaḥ santu prayāsaṃ ghṛṇighanaghṛṇayo hantumābaddhakakṣāḥ // jsudh_27 //
+
+saṃhṛtya drāgbahiḥsthaṃ timirakulamathābhyantaraṃ hartukāmā randhrālībhirgṛhāṇāmudaramanudinaṃ ye viśaṅkaṃ viśanti /
+bhānoste 'mī hṛṣīkāṇyakhilatanubhṛtāṃ harṣayanto hitehā hṛdrogaṃ saṃharantāṃ himamahimahṛto hemahṛdyāḥ karā naḥ // jsudh_28 //
+
+brahmāṇḍaṃ maṇḍayanto viyati valayino maṇḍalairaṇḍajānāṃ pākhaṇḍāndaṇḍayanto danutanujanuṣāṃ śobhitākhaṇḍālāśāḥ /
+ye khaṇḍānpauṇḍarīkānvidalayitumathoddaṇḍapāṇḍityabhājaste caṇḍāṃśoracaṇḍāstvaritamiha karāḥ pāṇḍutāṃ khaṇḍayantu // jsudh_29 //
+
+ūrdhvaṃ pāpāvalibhyaḥ sthita iti jagade yasya vedairudākhyā ninyuḥ ke 'pyāsanārthaṃ khalu sahacaratāṃ netrayoḥ puṇḍarīkam /
+oṣṭhāvṛksāma yasya drutakanakanibhaśmaśrukeśākhilāṅgaḥ so 'yaṃ sarvāntarātmā tava diśatutarāṃ vāsareśaḥ śivāni // jsudh_30 //
+
+iti paṇḍitarājaśrījagannāthaviracitā sudhālaharī samāptā /

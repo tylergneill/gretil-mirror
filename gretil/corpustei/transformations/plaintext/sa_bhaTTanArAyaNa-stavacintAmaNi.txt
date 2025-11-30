@@ -1,0 +1,774 @@
+Bhaṭṭanārāyaṇa: Stavacintāmaṇi
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhaTTanArAyaNa-stavacintAmaNi.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Harunaga Isaacson
+## Contribution: Harunaga Isaacson
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Mukunda Rama Shastri: The StavaChintamani of Bhatta Narayana with commentary by Kshemaraja. Srinagar 1918 (Kashmir Series of Texts and Studies X).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Stavacintāmaṇi = BhStc,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bhnstcbu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Bhatta Narayana: Stavacintamani
+Based on the edition by Mukunda Rama Shastri:
+The StavaChintamani of Bhatta Narayana
+with commentary by Kshemaraja.
+Srinagar 1918 (Kashmir Series of Texts and Studies ; X)
+Input by Harunaga Isaacson
+(October 2002)
+Note that this etext has not been proofread!
+TEXT WITH PADA MARKERS
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+sugirā cittahāriṇyā paśyantyā dṛśyamānayā 
+jayaty ullāsitānandamahimā parameśvaraḥ // BhStc_1
+
+yaḥ sphītaḥ śrīdayābodhaparamānandasampadā 
+vidyoddyotitamāhātmyaḥ sa jayaty aparājitaḥ // BhStc_2
+
+prasaradbindunādāya śuddhāmṛtamayātmane 
+namo 'nantaprakāśāya śaṃkarakṣīrasindhave // BhStc_3
+
+dviṣmas tvāṃ tvāṃ stumas tubhyaṃ mantrayāmo 'mbikāpate 
+ativāllabhyataḥ sādhu viśvaṅ no dhṛtavān asi // BhStc_4
+
+saṃhṛtasparśayogāya sampūrṇāmṛtasūtaye 
+viyanmāyāsvarūpāya vibhave śambhave namaḥ // BhStc_5
+
+bhinneṣv api na bhinnaṃ yac chinneṣv achinnam eva ca 
+namāmaḥ sarvasāmānyaṃ rūpaṃ tat pārameśvaram // BhStc_6
+
+praṇavordhvārdhamātrāto 'py aṇave mahate punaḥ 
+brahmāṇḍād api nairguṇyaguṇāya sthāṇave namaḥ // BhStc_7
+
+brahmāṇḍagarbhiṇīṃ vyomavyāpinaḥ sarvatogateḥ 
+parameśvarahaṃsasya śaktiṃ haṃsīm iva stumaḥ // BhStc_8
+
+nirupādānasambhāram abhittāv eva tanvate 
+jagaccitraṃ namas tasmai kalāślāghyāya śūline // BhStc_9
+
+māyājalodarāt samyag uddhṛtya vimalīkṛtam 
+śivajñānaṃ svato dugdhaṃ dehy ehi harahaṃsa naḥ // BhStc_10
+
+ṣaṭpramāṇīparicchedabhedayoge 'py abhedine 
+paramārthaikabhāvāya baliṃ yāmo bhavāya te // BhStc_11
+
+api paśyema gambhīrāṃ pareṇa jyotiṣābhitaḥ 
+unmṛṣṭatamasaṃ ramyām antarbhava bhavadguhām // BhStc_12
+
+namas tebhyo 'pi ye somakalākalitaśekharam 
+nāthaṃ svapne 'pi paśyanti paramānandadāyinam // BhStc_13
+
+bhagavan bhava bhāvatkaṃ bhāvaṃ bhāvayituṃ ruciḥ 
+punarbhavabhayocchedadakṣā kasmai na rocate // BhStc_14
+
+yāvajjīvaṃ jagannātha kartavyam idam astu naḥ 
+tvatprasādāt tvadekāgramanaskatvena yā sthitiḥ // BhStc_15
+
+śākhāsahasravistīrṇavedāgamamayātmane 
+namo 'nantaphalotpādakalpavṛkṣāya śambhave // BhStc_16
+
+vāṅmanaḥkāyakarmāṇi viniyojya tvayi prabho 
+tvanmayībhūya nirdvandvāḥ kaccit syāmāpi karhicit // BhStc_17
+
+jagatāṃ sargasaṃhāratattaddhitaniyuktiṣu 
+ananyāpekṣasāmarthyaśālini śūline namaḥ // BhStc_18
+
+vyatītaguṇayogasya mukhyadhyeyasya dhūrjaṭeḥ 
+nāmāpi dhyāyatāṃ dhyānaiḥ kim anyālambanaiḥ phalam // BhStc_19
+
+namo namaḥ śivāyeti mantrasāmarthyam āśritāḥ 
+ślāghyās te śāmbhavīṃ bhūtim upabhoktuṃ ya udyatāḥ // BhStc_20
+
+kaḥ panthā yena na prāpyaḥ kā ca vāṅ nocyase yayā 
+kiṃ dhyānaṃ yena na dhyeyaḥ kiṃ vā kiṃ nāsi yat prabho // BhStc_21
+
+arcito 'yam ayaṃ dhyāta eṣa toṣita ity ayam 
+rasaḥ srotaḥsahasreṇa tvayi me bhava vardhatām // BhStc_22
+
+namo niḥśeṣadhīpatrimālālayamayātmane 
+nāthāya sthāṇave tubhyaṃ nāgayajñopavītine // BhStc_23
+
+ajñānatimirasyaikam auṣadhaṃ saṃsmṛtis tava 
+bhava tattatpradānena prasādaḥ kriyatāṃ mayi // BhStc_24
+
+nama īśāya niḥśeṣapuruṣārthaprasādhakaḥ 
+praṇantavyaḥ praṇāmo 'pi yadīya iha dhīmatām // BhStc_25
+
+magnair bhīme bhavāmbhodhau nilaye duḥkhayādasām 
+bhakticintāmaṇiṃ śārvaṃ tataḥ prāpya na kiṃ jitam // BhStc_26
+
+nirāvaraṇanirdvandvaniścalajñānasampadām 
+jñeyo 'si kila ke 'py ete ye tvāṃ jānanti dhūrjaṭe // BhStc_27
+
+nirguṇo 'pi guṇajñānāṃ jñeya eko jayaty ajaḥ 
+niṣkāmo 'pi prakṛtyā yaḥ kāmanānāṃ paraṃ phalam // BhStc_28
+
+śrīratnāmṛtalābhāya kliṣṭaṃ yatra na kaiḥ suraiḥ 
+tat kṣīrodadam aiśvaryaṃ tavaiva sahajaṃ vibho // BhStc_29
+
+namo bhaktyā nṛṇāṃ muktyai bhavate bhava te 'vate 
+smṛtyā nutyā ca dadate śambhave śaṃ bhave 'bhave // BhStc_30
+
+sarvajñaḥ sarvakṛt sarvam asīti jñānaśālinām 
+vedyaṃ kiṃ karma vā nātha nānantyāya tvayārpyate // BhStc_31
+
+icchāyā eva yasyeyat phalaṃ lokatrayātmakam 
+tasya te nātha kāryāṇāṃ ko vetti kiyatī gatiḥ // BhStc_32
+
+brahmādayo 'pi tad yasya karmasopānamālayā 
+upary upari dhāvanti labdhuṃ dhāma namāmi tam // BhStc_33
+
+ayaṃ brahmā mahendro 'yaṃ sūryācandramasāv imau 
+iti śaktilatā yasya puṣpitā pātv asau bhavaḥ // BhStc_34
+
+bhramo na labhyate yasya bhrāntāntaḥkaraṇair api 
+dūragair api yasyānto durgam astaṃ stumo mṛḍam // BhStc_35
+
+namaḥ stutau smṛtau dhyāne darśane sparśane tathā 
+prāptau cānandavṛndāya dayitāya kapardine // BhStc_36
+
+kiṃ smayeneti matvāpi manasā parameśvara 
+smayena tvanmayo 'smīti māmi nātmani kiṃ mudā // BhStc_37
+
+cintayitvāpi kartavyakoṭīś cittasya cāpalāt 
+viśrāmyan bhava bhāvatkacittānande rame bhṛśam // BhStc_38
+
+sūkṣmo 'pi cet trilokīyaṃ kalāmātraṃ kathaṃ tava 
+sthūlo 'tha kiṃ sudarśo na brahmādibhir api prabho // BhStc_39
+
+vācya eṣāṃ tvam eveti nābhaviṣyad idaṃ yadi 
+kaḥ kleśaṃ deva vāgjāleṣv akariṣyat sudhīs tadā // BhStc_40
+
+krameṇa karmaṇā kena kayā vā prajñayā prabho 
+dṛśyo 'sīty upadeśena prasādaḥ kriyatāṃ mama // BhStc_41
+
+namo nirupakāryāya trailokyaikopakāriṇe 
+sarvasya spṛhaṇīyāya niḥspṛhāya kapardine // BhStc_42
+
+aho kṣetrajñatā seyaṃ kāryāya mahate satām 
+yayānantaphalāṃ bhaktiṃ vapanti tvayy amī prabho // BhStc_43
+
+mahatīyam aho māyā tava māyin yayāvṛtaḥ 
+tvaddhyānanidhilābhe 'pi mugdho lokaḥ ślathāyate // BhStc_44
+
+ārambhe bhava sarvatra karma vā karaṇādi vā 
+viśvam astu svatantras tu kartā tatraikako bhavān // BhStc_45
+
+triguṇatriparispandadvandvagrastaṃ jagattrayam 
+uddhartuṃ bhavato 'nyasya kasya śaktiḥ kṛpāthavā // BhStc_46
+
+doṣo 'pideva ko doṣas tvām āptuṃ yaḥ samāsthitaḥ 
+guṇo 'pi ca guṇaḥ ko nu tvāṃ nāptuṃ yaḥ samāsthitaḥ // BhStc_47
+
+rāgo 'py astu jagannātha mama tvayy eva yaḥ sthitaḥ 
+lobhāyāpi namas tasmai tvallābhālambanāya me // BhStc_47
+
+aho mahad idaṃ karma deva tvadbhāvanātmakam 
+ābrahmakrimi yasmin no muktaye 'dhikriyeta kaḥ // BhStc_48
+
+ārambhaḥ sarvakāryāṇāṃ paryantaḥ sarvakarmaṇām 
+tadantarvṛttayaś citrās tavaiveśo dhiyaḥ pathi // BhStc_49
+
+yāvad uttaram āsvādasahasraguṇavistaraḥ 
+tvadbhaktirasapīyūṣān nātha nānyatra dṛśyate // BhStc_50
+
+upasaṃhṛtakāmāya kāmāyatim atanvate 
+avataṃsitasomāya somāya svāmine namaḥ // BhStc_51
+
+kim aśaktaḥ karomīti sarvatrānadhyavasyataḥ 
+sarvānugrāhikā śaktiḥ śāṃkarī śaraṇaṃ mama // BhStc_52
+
+guṇātītasya nirdiṣṭaniḥśeṣātiśayātmanaḥ 
+labhyate bhava kutrāṃśe paraḥ pratinidhis tava // BhStc_53
+
+nirdvandve nirupādhau ca tvayy ātmani sati prabho 
+vayaṃ vañcyāmahe 'dyāpi māyayāmeyayā tava // BhStc_54
+
+aṇimādiguṇāvāptiḥ sadaiśvaryaṃ bhavakṣayaḥ 
+amī bhava bhavadbhaktikalpapādapapallavāḥ // BhStc_55
+
+yā yā dik tatra na kvāsi sarvaḥ kālo bhavanmayaḥ 
+iti labdho 'pi karhi tvaṃ lapsyase nātha kathyatām // BhStc_56
+
+namaḥ prasannasadvṛttamānasaikanivāsine 
+bhūribhūtisitāṅgāya mahāhaṃsāya śambhave // BhStc_57
+
+hṛtoddhatatamastāntiḥ pluṣṭāśeṣabhavendhanā 
+tvadbodhadīpikā me 'stu nātha tvadbhaktidīpikā // BhStc_58
+
+visṛṣṭānekasadbījagarbhaṃ trailokyanāṭakam 
+prastāvya hara saṃhartuṃ tvattaḥ ko 'nyaḥ kaviḥ kṣamaḥ // BhStc_59
+
+namaḥ sadasatāṃ kartum asattvaṃ sattvam eva vā 
+svatantrāyāsvatantrāya vyayaiśvaryaikaśāline // BhStc_60
+
+trailokye 'py atra yo yāvān ānandaḥ kaścid īkṣyate 
+sa bindur yasya taṃ vande devam ānandasāgaram // BhStc_61
+
+aho brahmādayo dhanyā ye vimuktānyasaṃkatham 
+namo namaḥ śivāyeti japanty āhlādavihvalāḥ // BhStc_62
+
+niṣkāmāyāpi kāmānām anantānāṃ vidhāyine 
+anāditve 'pi viśvasya bhoktre bhava namo 'stu te // BhStc_63
+
+stumas tribhuvanārambhamūlaprakṛtim īśvaram 
+lipseran nopakāraṃ ke yataḥ sampūrṇadharmaṇaḥ // BhStc_64
+
+mahatsv apy arthakṛcchreṣu mohaughamalinīkṛtāḥ 
+smṛte yasmin prasīdanti matayas taṃ śivaṃ stumaḥ // BhStc_65
+
+prabho bhavata eveha prabhuśaktir abhaṅgurā 
+yadicchayā pratāyete trailokyasya layodayau // BhStc_66
+
+kukarmāpi yam uddiśya devaṃ syāt sukṛtaṃ param 
+sukṛtasyāpi saukṛtyaṃ yato 'nyatra na so 'si bhoḥ // BhStc_67
+
+eṣa muṣṭyā gṛhīto 'si dṛṣṭa eṣa kva yāsi naḥ 
+iti bhaktirasādhmātā dhanyā dhāvanti dhūrjaṭim // BhStc_68
+
+stumas tvām ṛgyajuḥsāmnāṃ śukrataḥ parataḥ param 
+yasya vedātmikājñeyam aho gambhīrasundarī // BhStc_69
+
+vidhir ādis tathānto 'si viśvasya parameśvara 
+dharmagrāmaḥ pravṛtto yas tvatto na sa kuto bhavet // BhStc_70
+
+namas te bhavasambhrāntabhrāntim udbhāvya bhindate 
+jñānānandaṃ ca nirdvandvaṃ deva vṛtvā vivṛṇvate // BhStc_71
+
+yasyāḥ prāpyeta paryantaviśeṣaḥ kair manorathaiḥ 
+māyām ekanimeṣeṇa muṣṇaṃs tāṃ pātu naḥ śivaḥ // BhStc_72
+
+vairāgyasya gatiṃ gurvīṃ jñānasya paramāṃ śriyam 
+naiḥspṛhyasya parāṃ koṭiṃ bibhratāṃ tvaṃ prabho prabhuḥ // BhStc_73
+
+brahmaṇo 'pi bhavān brahma kasya neśas tvam īśituḥ 
+jagatkalyāṇakalyāṇaṃ kiyat tvam iti vetti kaḥ // BhStc_74
+
+kim anyair bandhubhiḥ kiṃ ca suhṛdbhiḥ svāmibhis tathā 
+sarvasthāne mameśa tvaṃ ya uddhartā bhavārṇavāt // BhStc_75
+
+jayanti mohamāyādimalasaṃkṣālanakṣamāḥ 
+śaivayogabalākṛṣṭā divyapīyūṣavipruṣaḥ // BhStc_76
+
+gāyatryā gīyate yasya dhiyāṃ tejaḥ pracodakam 
+codayed api kaccin naḥ sa dhiyaḥ satpathe prabhuḥ // BhStc_77
+
+aṣṭamūrte kim ekasyām api mūrtau na naḥ sthitim 
+śāśvatīṃ kuruṣe yad vā tuṣṭaḥ sarvaṃ kariṣyasi // BhStc_78
+
+vastutattvaṃ padārthānāṃ prāyeṇārthakriyākaram 
+bhavatas tv īśa nāmāpi mokṣaparyantasiddhidam // BhStc_79
+
+muhur muhur jagaccitrasy-ānyānyāṃ sthitim ūhitum 
+śaktir yā te tayā nātha ko manasvī na vismitaḥ // BhStc_80
+
+duṣkaraṃ sukarīkartuṃ duḥkhaṃ sukhayituṃ tathā 
+ekavīrā smṛtir yasya taṃ smarāmaḥ smaradviṣam // BhStc_81
+
+jayanti gītayo yāsāṃ sa geyaḥ parameśvaraḥ 
+yannāmnāpi mahātmānaḥ kīryante pulakāṅkuraiḥ // BhStc_82
+
+bhavān iva bhavān eva bhaved yadi paraṃ bhava 
+svaśaktivyūhasaṃvyūḍhatrailokyārambhasaṃhṛtiḥ // BhStc_83
+
+mantro 'si mantraṇīyo 'si mantrī tvattaḥ kuto 'paraḥ 
+sa mahyaṃ dehi taṃ mantraṃ tvanmantraḥ syāṃ yathā prabho // BhStc_84
+
+bhārūpaḥ satyasaṃkalpas tvam ātmā yasya so 'py aham 
+saṃsārīti kim īśaiṣa svapnaḥ so 'pi kutas tvayi // BhStc_85
+
+tad abhaṅgi tad agrāmyaṃ tad ekam upapattimat 
+tvayi karmaphalanyāsakṛtām aiśvaryam īśa yat // BhStc_86
+
+kṣamaḥ kāṃ nāpadaṃ hantuṃ kāṃ dātuṃ sampadaṃ na vā 
+yo 'sau sa dayito 'smākaṃ devadevo vṛṣadhvajaḥ // BhStc_87
+
+māyāmayamalāndhasya divyasya jñānacakṣuṣaḥ 
+nirmalīkaraṇe nātha tvadbhaktiḥ paramāñjanam // BhStc_88
+
+nirbhayaṃ yad yad ānandamayam ekaṃ yad avyayam 
+padaṃ dehy ehi me deva tūrṇaṃ tat kiṃ pratīkṣase // BhStc_89
+
+aho nisargagambhīro ghoraḥ saṃsārasāgaraḥ 
+aho tattaraṇopāyaḥ paraḥ ko 'pi maheśvaraḥ // BhStc_90
+
+namaḥ kṛtakṛtāntānta tubhyaṃ madanamardine 
+mastakanyastagaṅgāya yathāyuktārthakāriṇe // BhStc_91
+
+aiśvaryajñānavairāgyadharmebhyo 'py upari sthitim 
+nātha prārthayamānānāṃ tvad ṛte kā parā gatiḥ // BhStc_92
+
+tvayy anicchati kaḥ śambho śaktaḥ kubjayituṃ tṛṇam 
+tvadicchānugṛhītas tu vahed brāhmīṃ dhuraṃ na kaḥ // BhStc_93
+
+harapraṇatimāṇikyamukuṭotkaṭamastakāḥ 
+nameyuḥ kaṃ paraṃ kaṃ vā namayeyur na dhīdhanāḥ // BhStc_94
+
+sarvavibhramanirmokaniṣkampam amṛtahradam 
+bhavajjñānāmbudher madhyam adhyāsīyāpi dhūrjaṭe // BhStc_95
+
+citraṃ yac citradṛṣṭo 'pi manorathagato 'pi vā 
+paramārthaphalaṃ nātha paripūrṇaṃ prayacchasi // BhStc_96
+
+ko guṇair adhikas tvattas tvattaḥ ko nirguṇo 'dhikaḥ 
+iti nātha numaḥ kiṃ tvāṃ kiṃ nindāmo na manmahe // BhStc_97
+
+kīrtane 'py amṛtaughasya yatprasatteḥ phalaṃ tava 
+tat pātum api ko 'nyo 'laṃ kim u dātuṃ jagatpate // BhStc_98
+
+niḥśeṣaprārthanīyārthasārthasiddhinidhānataḥ 
+tvattas tvadbhaktim evāptuṃ prārthaye nātha sarvathā // BhStc_99
+
+namas trailokyanāthāya tubhyaṃ bhava bhavajjuṣām 
+trilokīnāthatādānanirvināyakaśaktaye // BhStc_100
+
+niḥśeṣakleśahānasya hetuḥ ka iti saṃśaye 
+svāmin so 'sīti niścitya kas tvāṃ na śaraṇaṃ gataḥ // BhStc_101
+
+bhuktvā bhogān bhavabhrāntiṃ hitvā lapsye paraṃ padam 
+ity āśaṃseha śobheta śambhau bhaktimataḥ param // BhStc_102
+
+nātha svapne 'pi yat kuryāṃ brūyāṃ vā sādhv asādhu vā 
+tvadadhīnatvadarpeṇa sarvatrātrāsmi nirvṛtaḥ // BhStc_103
+
+jyotiṣām api yaj jyotis tatra tvaddhāmni dhāvataḥ 
+cittasyeśa tamaḥsparśo manye vandhyātmajānujaḥ // BhStc_104
+
+manye nyastapadaḥ so 'pi kṣemye mokṣasya vartmani 
+manorathaḥ sthito yasya seviṣye śivam ity ayam // BhStc_105
+
+sthityutpattilayair lokatrayasyopakriyāsv iha 
+ekaiveśa bhavacchaktiḥ svatantraṃ tantram īkṣase // BhStc_106
+
+trilokyām iha kas trātas tritāpyā nopatāpitaḥ 
+tasmai namo 'stu te yas tvaṃ tannirvāṇāmṛtahradaḥ // BhStc_107
+
+kṛtrimāpi bhavadbhaktir akṛtrimaphalodayā 
+niśchadmā ced bhaved eṣā kiṃphaleti tvayocyatām // BhStc_108
+
+tac cakṣur īkṣyase yena sā gatir gamyase yayā 
+phalaṃ tad aja jātaṃ yat tvatkathākalpapādapāt // BhStc_109
+
+śreyasā śreya evaitad upari tvayi yā sthitiḥ 
+tadantarāyahṛtaye tvam īśa śaraṇaṃ mama // BhStc_110
+
+aho svādutamaḥ śarvasevāśaṃsāsudhārasaḥ 
+kutra kālakalāmātre na yo navanavāyate // BhStc_111
+
+muhur muhur aviśrāntas trailokyaṃ kalpanāśataiḥ 
+kalpayann api ko 'py eko nirvikalpo jayaty ajaḥ // BhStc_112
+
+malatailāktasaṃsāravāsanāvartidāhinā 
+jñānadīpena deva tvāṃ kadā nu syām upasthitaḥ // BhStc_113
+
+nimeṣam api yady ekaṃ kṣīṇadoṣe kariṣyasi 
+padaṃ citte tadā śambho kiṃ na sampādayiṣyasi // BhStc_114
+
+dhanyo 'smi kṛtakṛtyo 'smi mahān asmīti bhāvanā 
+bhavet sālambanā tasya yas tvadālambanaḥ prabho // BhStc_115
+
+śubhāśubhasya sarvasya svayaṃ kartā bhavān api 
+bhavadbhaktis tu jananī śubhasyaiveśa kevalam // BhStc_116
+
+prasanne manasi svāmin kiṃ tvaṃ niviśase kim u 
+tvatpraveśāt prasīdet tad iti dolāyate janaḥ // BhStc_117
+
+niścayaḥ punar eṣo 'tra tvadadhiṣṭhānam eva hi 
+prasādo manasaḥ svāmin sā siddhis tat paraṃ padam // BhStc_118
+
+vacaś cetaś ca kāryaṃ ca śarīraṃ mama yat prabho 
+tvatprasādena tad bhūyād bhavadbhāvaikabhūṣaṇam // BhStc_119
+
+stavacintāmaṇiṃ bhūrimanorathaphalapradam 
+bhaktilakṣmyālayaṃ śambho bhaṭṭanārāyaṇo vyadhāt // BhStc_120
+
+sugirā cittahāriṇyā paśyantyā dṛśyamānayā |
+jayati+ullāsitānandamahimā parameśvaraḥ || BhStc_1-paus
+
+yas+sphītas+śrīdayābodhaparamānandasampadā |
+vidyoddyotitamāhātmyas+sa jayati+aparājitaḥ || BhStc_2-paus
+
+prasaradbindunādāya śuddhāmṛtamayātmane |
+namas+anantaprakāśāya śaṃkarakṣīrasindhave || BhStc_3-paus
+
+dviṣmas+tvām+tvām+stumas+tubhyam+mantrayāmas+ambikāpate |
+ativāllabhyatas+sādhu viśvak+no dhṛtavān+asi || BhStc_4-paus
+
+saṃhṛtasparśayogāya sampūrṇāmṛtasūtaye |
+viyanmāyāsvarūpāya vibhave śambhave namaḥ || BhStc_5-paus
+
+bhinneṣu+api na bhinnam+yat+chinneṣu+achinnam+eva ca |
+namāmas+sarvasāmānyam+rūpam+tat+pārameśvaram || BhStc_6-paus
+
+praṇavordhvārdhamātrātas+api+aṇave mahate punaḥ |
+brahmāṇḍāt+api nairguṇyaguṇāya sthāṇave namaḥ || BhStc_7-paus
+
+brahmāṇḍagarbhiṇīm+vyomavyāpinas+sarvatogateḥ |
+parameśvarahaṃsasya śaktim+haṃsīm+iva stumaḥ || BhStc_8-paus
+
+nirupādānasambhāram+abhittau+eva tanvate |
+jagaccitram+namas+tasmai kalāślāghyāya śūline || BhStc_9-paus
+
+māyājalodarāt+samyak+uddhṛtya vimalīkṛtam |
+śivajñānam+svatas+dugdham+dehi+ehi harahaṃsa naḥ || BhStc_10-paus
+
+ṣaṭpramāṇīparicchedabhedayoge+api+abhedine |
+paramārthaikabhāvāya balim+yāmas+bhavāya te || BhStc_11-paus
+
+api paśyema gambhīrām+pareṇa jyotiṣā+abhitaḥ |
+unmṛṣṭatamasam+ramyām+antarbhava bhavadguhām || BhStc_12-paus
+
+namas+tebhyas+api ye somakalākalitaśekharam |
+nātham+svapne+api paśyanti paramānandadāyinam || BhStc_13-paus
+
+bhagavan+bhava bhāvatkam+bhāvam+bhāvayitum+ruciḥ |
+punarbhavabhayocchedadakṣā kasmai na rocate || BhStc_14-paus
+
+yāvajjīvam+jagannātha kartavyam+idam+astu naḥ |
+tvatprasādāt+tvadekāgramanaskatvena yā sthitiḥ || BhStc_15-paus
+
+śākhāsahasravistīrṇavedāgamamayātmane |
+namas+anantaphalotpādakalpavṛkṣāya śambhave || BhStc_16-paus
+
+vāṅmanaḥkāyakarmāṇi viniyojya tvayi prabho |
+tvanmayībhūya nirdvandvās+kaccit+syāma+api karhicit || BhStc_17-paus
+
+jagatām+sargasaṃhāratattaddhitaniyuktiṣu |
+ananyāpekṣasāmarthyaśālini śūline namaḥ || BhStc_18-paus
+
+vyatītaguṇayogasya mukhyadhyeyasya dhūrjaṭeḥ |
+nāma+api dhyāyatām+dhyānais+kim+anyālambanais+phalam || BhStc_19-paus
+
+namas+namas+śivāya+iti mantrasāmarthyam+āśritāḥ |
+ślāghyās+te śāmbhavīm+bhūtim+upabhoktum+ye+udyatāḥ || BhStc_20-paus
+
+kas+panthās+yena na prāpyas+kā ca vāk+na+ucyase yayā |
+kim+dhyānam+yena na dhyeyas+kim+vā kim+na+asi yat+prabho || BhStc_21-paus
+
+arcitas+ayam+ayam+dhyātas+eṣa toṣitas+iti+ayam |
+rasas+srotaḥsahasreṇa tvayi me bhava vardhatām || BhStc_22-paus
+
+namas+niḥśeṣadhīpatrimālālayamayātmane |
+nāthāya sthāṇave tubhyam+nāgayajñopavītine || BhStc_23-paus
+
+ajñānatimirasya+ekam+auṣadham+saṃsmṛtis+tava |
+bhava tattatpradānena prasādas+kriyatām+mayi || BhStc_24-paus
+
+namas+īśāya niḥśeṣapuruṣārthaprasādhakaḥ |
+praṇantavyas+praṇāmas+api yadīyas+iha dhīmatām || BhStc_25-paus
+
+magnais+bhīme bhavāmbhodhau nilaye duḥkhayādasām |
+bhakticintāmaṇim+śārvam+tatas+prāpya na kim+jitam || BhStc_26-paus
+
+nirāvaraṇanirdvandvaniścalajñānasampadām |
+jñeyas+asi kila ke+api+ete ye tvām+jānanti dhūrjaṭe || BhStc_27-paus
+
+nirguṇas+api guṇajñānām+jñeyas+ekas+jayati+ajaḥ |
+niṣkāmas+api prakṛtyā yas+kāmanānām+param+phalam || BhStc_28-paus
+
+śrīratnāmṛtalābhāya kliṣṭam+yatra na kais+suraiḥ |
+tat+kṣīrodadam+aiśvaryam+tava+eva sahajam+vibho || BhStc_29-paus
+
+namas+bhaktyā nṛṇām+muktyai bhavate bhava te+avate |
+smṛtyā nutyā ca dadate śambhave śam+bhave+abhave || BhStc_30-paus
+
+sarvajñas+sarvakṛt+sarvam+asi+iti jñānaśālinām |
+vedyam+kim+karma vā nātha na+ānantyāya tvayā+arpyate || BhStc_31-paus
+
+icchāyās+eva yasya+iyat+phalam+lokatrayātmakam |
+tasya te nātha kāryāṇām+kas+vetti kiyatī gatiḥ || BhStc_32-paus
+
+brahmādayas+api tat+yasya karmasopānamālayā |
+upari+upari dhāvanti labdhum+dhāma namāmi tam || BhStc_33-paus
+
+ayam+brahmā mahendras+ayam+sūryācandramasau+imau |
+iti śaktilatā yasya puṣpitā pātu+asau bhavaḥ || BhStc_34-paus
+
+bhramas+na labhyate yasya bhrāntāntaḥkaraṇais+api |
+dūragais+api yasya+antas+durgam+astam+stumas+mṛḍam || BhStc_35-paus
+
+namas+stutau smṛtau dhyāne darśane sparśane tathā |
+prāptau ca+ānandavṛndāya dayitāya kapardine || BhStc_36-paus
+
+kim+smayena+iti matvā+api manasā parameśvara |
+smayena tvanmayas+asmi+iti māmi na+ātmani kim+mudā || BhStc_37-paus
+
+cintayitvā+api kartavyakoṭīs+cittasya cāpalāt |
+viśrāmyan+bhava bhāvatkacittānande rame bhṛśam || BhStc_38-paus
+
+sūkṣmas+api cet+trilokī+iyam+kalāmātram+katham+tava |
+sthūlas+atha kim+sudarśas+na brahmādibhis+api prabho || BhStc_39-paus
+
+vācyas+eṣām+tvam+eva+iti na+abhaviṣyat+idam+yadi |
+kas+kleśam+deva vāgjāleṣu+akariṣyat+sudhīs+tadā || BhStc_40-paus
+
+krameṇa karmaṇā kena kayā vā prajñayā prabho |
+dṛśyas+asi+iti+upadeśena prasādas+kriyatām+mama || BhStc_41-paus
+
+namas+nirupakāryāya trailokyaikopakāriṇe |
+sarvasya spṛhaṇīyāya niḥspṛhāya kapardine || BhStc_42-paus
+
+aho kṣetrajñatā sā+iyam+kāryāya mahate satām |
+yayā+anantaphalām+bhaktim+vapanti tvayi+amī prabho || BhStc_43-paus
+
+mahatī+iyam+aho māyā tava māyin+yayā+āvṛtaḥ |
+tvaddhyānanidhilābhe+api mugdhas+lokas+ślathāyate || BhStc_44-paus
+
+ārambhe bhava sarvatra karma vā karaṇādi vā |
+viśvam+astu svatantras+tu kartā tatra+ekakas+bhavān || BhStc_45-paus
+
+triguṇatriparispandadvandvagrastam+jagattrayam |
+uddhartum+bhavatas+anyasya kasya śaktis+kṛpā+athavā || BhStc_46-paus
+
+doṣas+apideva kas+doṣas+tvām+āptum+yas+samāsthitaḥ |
+guṇas+api ca guṇas+kas+nu tvām+na+āptum+yas+samāsthitaḥ || BhStc_47-paus
+
+rāgas+api+astu jagannātha mama tvayi+eva yas+sthitaḥ |
+lobhāya+api namas+tasmai tvallābhālambanāya me || BhStc_47-paus
+
+aho mahat+idam+karma deva tvadbhāvanātmakam |
+ābrahmakrimi yasmin+no muktaye+adhikriyeta kaḥ || BhStc_48-paus
+
+ārambhas+sarvakāryāṇām+paryantas+sarvakarmaṇām |
+tadantarvṛttayas+citrās+tava+eva+īśas+dhiyas+pathi || BhStc_49-paus
+
+yāvat+uttaram+āsvādasahasraguṇavistaraḥ |
+tvadbhaktirasapīyūṣāt+nātha na+anyatra dṛśyate || BhStc_50-paus
+
+upasaṃhṛtakāmāya kāmāyatim+atanvate |
+avataṃsitasomāya somāya svāmine namaḥ || BhStc_51-paus
+
+kim+aśaktas+karomi+iti sarvatra+anadhyavasyataḥ |
+sarvānugrāhikā śaktis+śāṃkarī śaraṇam+mama || BhStc_52-paus
+
+guṇātītasya nirdiṣṭaniḥśeṣātiśayātmanaḥ |
+labhyate bhava kutra+aṃśe paras+pratinidhis+tava || BhStc_53-paus
+
+nirdvandve nirupādhau ca tvayi+ātmani sati prabho |
+vayam+vañcyāmahe+adya+api māyayā+ameyayā tava || BhStc_54-paus
+
+aṇimādiguṇāvāptis+sadā+aiśvaryam+bhavakṣayaḥ |
+amī bhava bhavadbhaktikalpapādapapallavāḥ || BhStc_55-paus
+
+yā yā dik+tatra na kva+asi sarvas+kālas+bhavanmayaḥ |
+iti labdhas+api karhi tvam+lapsyase nātha kathyatām || BhStc_56-paus
+
+namas+prasannasadvṛttamānasaikanivāsine |
+bhūribhūtisitāṅgāya mahāhaṃsāya śambhave || BhStc_57-paus
+
+hṛtoddhatatamastāntis+pluṣṭāśeṣabhavendhanā |
+tvadbodhadīpikā me+astu nātha tvadbhaktidīpikā || BhStc_58-paus
+
+visṛṣṭānekasadbījagarbham+trailokyanāṭakam |
+prastāvya hara saṃhartum+tvattas+kas+anyas+kavis+kṣamaḥ || BhStc_59-paus
+
+namas+sadasatām+kartum+asattvam+sattvam+eva vā |
+svatantrāya+asvatantrāya vyayaiśvaryaikaśāline || BhStc_60-paus
+
+trailokye+api+atra yas+yāvān+ānandas+kaścit+īkṣyate |
+sa bindus+yasya tam+vande devam+ānandasāgaram || BhStc_61-paus
+
+aho brahmādayas+dhanyās+ye vimuktānyasaṃkatham |
+namas+namas+śivāya+iti japanti+āhlādavihvalāḥ || BhStc_62-paus
+
+niṣkāmāya+api kāmānām+anantānām+vidhāyine |
+anāditve+api viśvasya bhoktre bhava namas+astu te || BhStc_63-paus
+
+stumas+tribhuvanārambhamūlaprakṛtim+īśvaram |
+lipseran+na+upakāram+ke yatas+sampūrṇadharmaṇaḥ || BhStc_64-paus
+
+mahatsu+api+arthakṛcchreṣu mohaughamalinīkṛtāḥ |
+smṛte yasmin+prasīdanti matayas+tam+śivam+stumaḥ || BhStc_65-paus
+
+prabho bhavatas+eva+iha prabhuśaktis+abhaṅgurā |
+yadicchayā pratāyete trailokyasya layodayau || BhStc_66-paus
+
+kukarmā+api yam+uddiśya devam+syāt+sukṛtam+param |
+sukṛtasya+api saukṛtyam+yatas+anyatra na sas+asi bhoḥ || BhStc_67-paus
+
+eṣa muṣṭyā gṛhītas+asi dṛṣṭas+eṣa kva yāsi naḥ |
+iti bhaktirasādhmātās+dhanyās+dhāvanti dhūrjaṭim || BhStc_68-paus
+
+stumas+tvām+ṛgyajuḥsāmnām+śukratas+paratas+param |
+yasya vedātmikājñeyam+aho gambhīrasundarī || BhStc_69-paus
+
+vidhis+ādis+tathā+antas+asi viśvasya parameśvara |
+dharmagrāmas+pravṛttas+yas+tvattas+na sa kutas+bhavet || BhStc_70-paus
+
+namas+te bhavasambhrāntabhrāntim+udbhāvya bhindate |
+jñānānandam+ca nirdvandvam+deva vṛtvā vivṛṇvate || BhStc_71-paus
+
+yasyās+prāpyeta paryantaviśeṣas+kais+manorathaiḥ |
+māyām+ekanimeṣeṇa muṣṇan+tām+pātu nas+śivaḥ || BhStc_72-paus
+
+vairāgyasya gatim+gurvīm+jñānasya paramām+śriyam |
+naiḥspṛhyasya parām+koṭim+bibhratām+tvam+prabho prabhuḥ || BhStc_73-paus
+
+brahmaṇas+api bhavān+brahma kasya na+īśas+tvam+īśituḥ |
+jagatkalyāṇakalyāṇam+kiyat+tvam+iti vetti kaḥ || BhStc_74-paus
+
+kim+anyais+bandhubhis+kim+ca suhṛdbhis+svāmibhis+tathā |
+sarvasthāne mama+īśa tvam+yas+uddhartā bhavārṇavāt || BhStc_75-paus
+
+jayanti mohamāyādimalasaṃkṣālanakṣamāḥ |
+śaivayogabalākṛṣṭās+divyapīyūṣavipruṣaḥ || BhStc_76-paus
+
+gāyatryā gīyate yasya dhiyām+tejas+pracodakam |
+codayet+api kaccit+nas+sa dhiyas+satpathe prabhuḥ || BhStc_77-paus
+
+aṣṭamūrte kim+ekasyām+api mūrtau na nas+sthitim |
+śāśvatīm+kuruṣe yat+vā tuṣṭas+sarvam+kariṣyasi || BhStc_78-paus
+
+vastutattvam+padārthānām+prāyeṇa+arthakriyākaram |
+bhavatas+tu+īśa nāma+api mokṣaparyantasiddhidam || BhStc_79-paus
+
+muhus+muhus+jagaccitrasya+anyānyām+sthitim+ūhitum |
+śaktis+yā te tayā nātha kas+manasvī na vismitaḥ || BhStc_80-paus
+
+duṣkaram+sukarīkartum+duḥkham+sukhayitum+tathā |
+ekavīrā smṛtis+yasya tam+smarāmas+smaradviṣam || BhStc_81-paus
+
+jayanti gītayas+yāsām+sa geyas+parameśvaraḥ |
+yannāmnā+api mahātmānas+kīryante pulakāṅkuraiḥ || BhStc_82-paus
+
+bhavān+iva bhavān+eva bhavet+yadi param+bhava |
+svaśaktivyūhasaṃvyūḍhatrailokyārambhasaṃhṛtiḥ || BhStc_83-paus
+
+mantras+asi mantraṇīyas+asi mantrī tvattas+kutas+aparaḥ |
+sa mahyam+dehi tam+mantram+tvanmantras+syām+yathā prabho || BhStc_84-paus
+
+bhārūpas+satyasaṃkalpas+tvam+ātmā yasya sas+api+aham |
+saṃsārī+iti kim+īśa+eṣa svapnas+sas+api kutas+tvayi || BhStc_85-paus
+
+tat+abhaṅgi tat+agrāmyam+tat+ekam+upapattimat |
+tvayi karmaphalanyāsakṛtām+aiśvaryam+īśa yat || BhStc_86-paus
+
+kṣamas+kām+na+āpadam+hantum+kām+dātum+sampadam+na vā |
+yas+asau sa dayitas+asmākam+devadevas+vṛṣadhvajaḥ || BhStc_87-paus
+
+māyāmayamalāndhasya divyasya jñānacakṣuṣaḥ |
+nirmalīkaraṇe nātha tvadbhaktis+paramāñjanam || BhStc_88-paus
+
+nirbhayam+yat+yat+ānandamayam+ekam+yat+avyayam |
+padam+dehi+ehi me deva tūrṇam+tat+kim+pratīkṣase || BhStc_89-paus
+
+aho nisargagambhīras+ghoras+saṃsārasāgaraḥ |
+aho tattaraṇopāyas+paras+kas+api maheśvaraḥ || BhStc_90-paus
+
+namas+kṛtakṛtāntānta tubhyam+madanamardine |
+mastakanyastagaṅgāya yathāyuktārthakāriṇe || BhStc_91-paus
+
+aiśvaryajñānavairāgyadharmebhyas+api+upari sthitim |
+nātha prārthayamānānām+tvat+ṛte kā parā gatiḥ || BhStc_92-paus
+
+tvayi+anicchati kas+śambho śaktas+kubjayitum+tṛṇam |
+tvadicchānugṛhītas+tu vahet+brāhmīm+dhuram+na kaḥ || BhStc_93-paus
+
+harapraṇatimāṇikyamukuṭotkaṭamastakāḥ |
+nameyus+kam+param+kam+vā namayeyus+na dhīdhanāḥ || BhStc_94-paus
+
+sarvavibhramanirmokaniṣkampam+amṛtahradam |
+bhavajjñānāmbudhes+madhyam+adhyāsīya+api dhūrjaṭe || BhStc_95-paus
+
+citram+yat+citradṛṣṭas+api manorathagatas+api vā |
+paramārthaphalam+nātha paripūrṇam+prayacchasi || BhStc_96-paus
+
+kas+guṇais+adhikas+tvattas+tvattas+kas+nirguṇas+adhikaḥ |
+iti nātha numas+kim+tvām+kim+nindāmas+na manmahe || BhStc_97-paus
+
+kīrtane+api+amṛtaughasya yatprasattes+phalam+tava |
+tat+pātum+api kas+anyas+alam+kim+u dātum+jagatpate || BhStc_98-paus
+
+niḥśeṣaprārthanīyārthasārthasiddhinidhānataḥ |
+tvattas+tvadbhaktim+eva+āptum+prārthaye nātha sarvathā || BhStc_99-paus
+
+namas+trailokyanāthāya tubhyam+bhava bhavajjuṣām |
+trilokīnāthatādānanirvināyakaśaktaye || BhStc_100-paus
+
+niḥśeṣakleśahānasya hetus+kas+iti saṃśaye |
+svāmin+sas+asi+iti niścitya kas+tvām+na śaraṇam+gataḥ || BhStc_101-paus
+
+bhuktvā bhogān+bhavabhrāntim+hitvā lapsye param+padam |
+iti+āśaṃsā+iha śobheta śambhau bhaktimatas+param || BhStc_102-paus
+
+nātha svapne+api yat+kuryām+brūyām+vā sādhu+asādhu vā |
+tvadadhīnatvadarpeṇa sarvatra+atra+asmi nirvṛtaḥ || BhStc_103-paus
+
+jyotiṣām+api yat+jyotis+tatra tvaddhāmni dhāvataḥ |
+cittasya+īśa tamaḥsparśas+manye vandhyātmajānujaḥ || BhStc_104-paus
+
+manye nyastapadas+sas+api kṣemye mokṣasya vartmani |
+manorathas+sthitas+yasya seviṣye śivam+iti+ayam || BhStc_105-paus
+
+sthityutpattilayais+lokatrayasya+upakriyāsu+iha |
+ekā+eva+īśa bhavacchaktis+svatantram+tantram+īkṣase || BhStc_106-paus
+
+trilokyām+iha kas+trātas+tritāpyā na+upatāpitaḥ |
+tasmai namas+astu te yas+tvam+tannirvāṇāmṛtahradaḥ || BhStc_107-paus
+
+kṛtrimā+api bhavadbhaktis+akṛtrimaphalodayā |
+niśchadmā cet+bhavet+eṣā kiṃphalā+iti tvayā+ucyatām || BhStc_108-paus
+
+tat+cakṣus+īkṣyase yena sā gatis+gamyase yayā |
+phalam+tat+aja jātam+yat+tvatkathākalpapādapāt || BhStc_109-paus
+
+śreyasā śreyas+eva+etat+upari tvayi yā sthitiḥ |
+tadantarāyahṛtaye tvam+īśa śaraṇam+mama || BhStc_110-paus
+
+aho svādutamas+śarvasevāśaṃsāsudhārasaḥ |
+kutra kālakalāmātre na yas+navanavāyate || BhStc_111-paus
+
+muhus+muhus+aviśrāntas+trailokyam+kalpanāśataiḥ |
+kalpayan+api kas+api+ekas+nirvikalpas+jayati+ajaḥ || BhStc_112-paus
+
+malatailāktasaṃsāravāsanāvartidāhinā |
+jñānadīpena deva tvām+kadā nu syām+upasthitaḥ || BhStc_113-paus
+
+nimeṣam+api yadi+ekam+kṣīṇadoṣe kariṣyasi |
+padam+citte tadā śambho kim+na sampādayiṣyasi || BhStc_114-paus
+
+dhanyas+asmi kṛtakṛtyas+asmi mahān+asmi+iti bhāvanā |
+bhavet+sālambanā tasya yas+tvadālambanas+prabho || BhStc_115-paus
+
+śubhāśubhasya sarvasya svayam+kartā bhavān+api |
+bhavadbhaktis+tu jananī śubhasya+eva+īśa kevalam || BhStc_116-paus
+
+prasanne manasi svāmin+kim+tvam+niviśase kim+u |
+tvatpraveśāt+prasīdet+tat+iti dolāyate janaḥ || BhStc_117-paus
+
+niścayas+punar+eṣas+atra tvadadhiṣṭhānam+eva hi |
+prasādas+manasas+svāmin+sā siddhis+tat+param+padam || BhStc_118-paus
+
+vacas+cetas+ca kāryam+ca śarīram+mama yat+prabho |
+tvatprasādena tat+bhūyāt+bhavadbhāvaikabhūṣaṇam || BhStc_119-paus
+
+stavacintāmaṇim+bhūrimanorathaphalapradam |
+bhaktilakṣmyālayam+śambhos+bhaṭṭanārāyaṇas+vyadhāt || BhStc_120-paus

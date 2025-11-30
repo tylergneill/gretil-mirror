@@ -1,0 +1,3075 @@
+Yājñavalkyasmṛti
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_yAjJavalkyasmRti.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Muneo Tokunaga
+## Contribution: Muneo Tokunaga
+## Date of this version: 2020-01-23
+
+## Source: 
+   - Narayan Ram Acharya (ed.): Yajnavalkyasmrti of Yogisvara Yajnavalkya. With the commentary Mitaksara of Vijñanesvara, Notes, Variant readings, etc. Bombay 1949.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Yājñavalkyasmṛti = YajñS,
+   - the number of the adhyāya in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   The sandhi-analysis has been converted from BHELA-style encoding and resolves only vowel-sandhis.
+
+
+
+# Text
+
+
+ācārādhyāya
+
+yogīśvaraṃ yājñavalkyaṃ saṃpūjya munayo 'bruvan /
+varṇāśrametarāṇāṃ no brūhi dharmān aśeṣataḥ // YajñS_1.1
+
+mithilāsthaḥ sa yogīndraḥ kṣaṇaṃ dhyātvābravīn munīn /
+yasmin deśe mṛgaḥ kṛṣṇas tasmin dharmān nibodhata // YajñS_1.2
+
+purāṇanyāyamīmāṃsādharmaśāstrāṅgamiśritāḥ /
+vedāḥ sthānāni vidyānāṃ dharmasya ca caturdaśa // YajñS_1.3
+
+manvatriviṣṇuhārītayājñavalkyośano 'ṅgirāḥ /
+yamāpastambasaṃvartāḥ kātyāyanabṛhaspatī // YajñS_1.4
+
+parāśaravyāsaśaṅkhalikhitā dakṣagautamau /
+śātātapo vasiṣṭhaś ca dharmaśāstraprayojakāḥ // YajñS_1.5
+
+deśe kāla upāyena dravyaṃ śraddhāsamanvitam /
+pātre pradīyate yat tat sakalaṃ dharmalakṣaṇam // YajñS_1.6
+
+śrutiḥ smṛtiḥ sadācāraḥ svasya ca priyam ātmanaḥ /
+samyaksaṃkalpajaḥ kāmo dharmamūlam idaṃ smṛtam // YajñS_1.7
+
+ijyācāradamāhiṃsādānasvādhyāyakarmaṇām /
+ayaṃ tu paramo dharmo yad yogenātmadarśanam // YajñS_1.8
+
+catvāro vedadharmajñāḥ parṣat traividyam eva vā /
+sā brūte yaṃ sa dharmaḥ syād eko vādhyātmavittamaḥ // YajñS_1.9
+
+brahmakṣatriyaviṭśūdrā varṇās tv ādyās trayo dvijāḥ /
+niṣekādyāḥ śmaśānāntās teṣāṃ vai mantrataḥ kriyāḥ // YajñS_1.10
+
+garbhādhānam ṛtau puṃsaḥ savanaṃ spandanāt purā /
+ṣaṣṭhe 'ṣṭame vā sīmanto māsy ete jātakarma ca // YajñS_1.11
+
+ahany ekādaśe nāma caturthe māsi niṣkramaḥ /
+ṣaṣṭhe 'nnaprāśanaṃ māsi cūḍā kāryā yathākulam // YajñS_1.12
+
+evam enaḥ śamaṃ yāti bījagarbhasamudbhavam /
+tūṣṇīm etāḥ kriyāḥ strīṇāṃ vivāhas tu samantrakaḥ // YajñS_1.13
+
+garbhāṣṭame 'ṣṭame vābde brāhmaṇasyopanāyanam /
+rājñām ekādaśe saike viśām eke yathākulam // YajñS_1.14
+
+upanīya guruḥ śiṣyaṃ mahāvyāhṛtipūrvakam /
+vedam adhyāpayed enaṃ śaucācārāṃś ca śikṣayet // YajñS_1.15
+
+divāsaṃdhyāsu karṇasthabrahmasūtrodaṅmukhaḥ /
+kuryān mūtrapurīṣe ca rātrau ced dakṣiṇāmukhaḥ // YajñS_1.16
+
+gṛhītaśiśnaś cotthāya mṛdbhir abhyuddhṛtair jalaiḥ /
+gandhalepakṣayakaraṃ śaucaṃ kuryād atandritaḥ // YajñS_1.17
+
+antarjānu śucau deśa upaviṣṭa udaṅmukhaḥ /
+prāg vā brāhmeṇa tīrthena dvijo nityam upaspṛśet // YajñS_1.18
+
+kaniṣṭhādeśinyaṅguṣṭhamūlāny agraṃ karasya ca /
+prajāpatipitṛbrahmadevatīrthāny anukramāt // YajñS_1.19
+
+triḥ prāśyāpo dvir unmṛjya khāny adbhiḥ samupaspṛśet /
+adbhis tu prakṛtisthābhir hīnābhiḥ phenabudbudaiḥ // YajñS_1.20
+
+hṛtkaṇṭhatālugābhis tu yathāsaṃkhyaṃ dvijātayaḥ /
+śudhyeran strī ca śūdraś ca sakṛt spṛṣṭābhir antataḥ // YajñS_1.21
+
+snānam abdaivatair mantrair mārjanaṃ prāṇasaṃyamaḥ /
+sūryasya cāpy upasthānaṃ gāyatryāḥ pratyahaṃ japaḥ // YajñS_1.22
+
+gāyatrīṃ śirasā sārdhaṃ japed vyāhṛtipūrvikām /
+pratipraṇavasaṃyuktāṃ trir ayaṃ prāṇasaṃyamaḥ // YajñS_1.23
+
+prāṇān āyamya saṃprokṣya tṛcenābdaivatena tu /
+japann āsīta sāvitrīṃ pratyag ātārakodayāt // YajñS_1.24
+
+saṃdhyāṃ prāk prātar evaṃ hi tiṣṭhed āsūryadarśanāt /
+agnikāryaṃ tataḥ kuryāt saṃdhyayor ubhayor api // YajñS_1.25
+
+tato 'bhivādayed vṛddhān asāv aham iti bruvan /
+guruṃ caivāpy upāsīta svādhyāyārthaṃ samāhitaḥ // YajñS_1.26
+
+āhūtaś cāpy adhīyīta labdhaṃ cāsmai nivedayet /
+hitaṃ tasyācaren nityaṃ manovākkāyakarmabhiḥ // YajñS_1.27
+
+kṛtajñādrohimedhāviśucikalyānasūyakāḥ /
+adhyāpyā dharmataḥ sādhu śaktāptajñānavittadāḥ // YajñS_1.28
+
+daṇḍājinopavītāni mekhalāṃ caiva dhārayet /
+brāhmaṇeṣu cared bhaikṣam anindyeṣv ātmavṛttaye // YajñS_1.29
+
+ādimadhyāvasāneṣu bhavacchabdopalakṣitā /
+brāhmaṇakṣatriyaviśāṃ bhaikṣacaryā yathākramam // YajñS_1.30
+
+kṛtāgnikāryo bhuñjīta vāgyato gurvanujñayā /
+āpośānakriyāpūrvaṃ satkṛtyānnam akutsayan // YajñS_1.31
+
+brahmacarye sthito naikam annam adyād anāpadi /
+brāhmaṇaḥ kāmam aśnīyāc chrāddhe vratam apīḍayan // YajñS_1.32
+
+madhumāṃsāñjanocchiṣṭaśuktastrīprāṇihiṃsanam /
+bhāskarālokanāślīlaparivādādi varjayet // YajñS_1.33
+
+sa gurur yaḥ kriyāḥ kṛtvā vedam asmai prayacchati /
+upanīya dadad vedam ācāryaḥ sa udāhṛtaḥ // YajñS_1.34
+
+ekadeśam upādhyāya ṛtvig yajñakṛd ucyate /
+ete mānyā yathāpūrvam ebhyo mātā garīyasī // YajñS_1.35
+
+prativedaṃ brahmacaryaṃ dvādaśābdāni pañca vā /
+grahaṇāntikam ity eke keśāntaś caiva ṣoḍaśe // YajñS_1.36
+
+āṣoḍaśād ādvāviṃśāc caturviṃśāc ca vatsarāt /
+brahmakṣatraviśāṃ kālaupanāyanikaḥ paraḥ // YajñS_1.37
+
+ata ūrdhvaṃ patanty ete sarvadharmabahiṣkṛtāḥ /
+sāvitrīpatitā vrātyā vrātyastomād ṛte kratoḥ // YajñS_1.38
+
+mātur yad agre jāyante dvitīyaṃ mauñjibandhanāt /
+brāhmaṇakṣatriyaviśas tasmād ete dvijāḥ smṛtāḥ // YajñS_1.39
+
+yajñānāṃ tapasāṃ caiva śubhānāṃ caiva karmaṇām /
+veda eva dvijātīnāṃ niḥśreyasakaraḥ paraḥ // YajñS_1.40
+
+madhunā payasā caiva sa devāṃs tarpayed dvijaḥ /
+pitṝn madhughṛtābhyāṃ ca ṛco 'dhīte ca yo 'nvaham // YajñS_1.41
+
+yajūṃṣi śaktito 'dhīte yo 'nvahaṃ sa ghṛtāmṛtaiḥ /
+prīṇāti devān ājyena madhunā ca pitṝṃs tathā // YajñS_1.42
+
+sa tu somaghṛtair devāṃs tarpayed yo 'nvahaṃ paṭhet /
+sāmāni tṛptiṃ kuryāc ca pitṝṇāṃ madhusarpiṣā // YajñS_1.43
+
+medasā tarpayed devān atharvāṅgirasaḥ paṭhan /
+pitṝṃś ca madhusarpirbhyām anvahaṃ śaktito dvijaḥ // YajñS_1.44
+
+vākovākyaṃ purāṇaṃ ca nārāśaṃsīś ca gāthikāḥ /
+itihāsāṃs tathā vidyāḥ śaktyādhīte hi yo 'nvaham // YajñS_1.45
+
+māṃsakṣīraudanamadhutarpaṇaṃ sa divaukasām /
+karoti tṛptiṃ kuryāc ca pitṝṇāṃ madhusarpiṣā // YajñS_1.46
+
+te tṛptās tarpayanty enaṃ sarvakāmaphalaiḥ śubhaiḥ /
+yaṃ yaṃ kratum adhīte ca tasya tasyāpnuyāt phalam // YajñS_1.47
+
+trir vittapūrṇapṛthivīdānasya phalam aśnute /
+tapasaś ca parasyeha nityaṃ svādhyāyavān dvijaḥ // YajñS_1.48
+
+naiṣṭhiko brahmacārī tu vased ācāryasaṃnidhau /
+tadabhāve 'sya tanaye patnyāṃ vaiśvānare 'pi vā // YajñS_1.49
+
+anena vidhinā dehaṃ sādayan vijitendriyaḥ /
+brahmalokam avāpnoti na cehājāyate punaḥ // YajñS_1.50
+
+gurave tu varaṃ dattvā snāyād vā tadanujñayā /
+vedaṃ vratāni vā pāraṃ nītvā hy ubhayam eva vā // YajñS_1.51
+
+aviplutabrahmacaryo lakṣaṇyāṃ striyam udvahet /
+ananyapūrvikāṃ kāntām asapiṇḍāṃ yavīyasīm // YajñS_1.52
+
+arogiṇīṃ bhrātṛmatīm asamānārṣagotrajān /
+pañcamāt saptamād ūrdhvaṃ mātṛtaḥ pitṛtas tathā // YajñS_1.53
+
+daśapūruṣavikhyātāc chrotriyāṇāṃ mahākulāt /
+sphītād api na saṃcārirogadoṣasamanvitāt // YajñS_1.54
+
+etair eva guṇair yuktaḥ savarṇaḥ śrotriyo varaḥ /
+yatnāt parīkṣitaḥ puṃstve yuvā dhīmān janapriyaḥ // YajñS_1.55
+
+yad ucyate dvijātīnāṃ śūdrād dāropasaṃgrahaḥ /
+naitan mama mataṃ yasmāt tatrāyaṃ jāyate svayam // YajñS_1.56
+
+tisro varṇānupūrvyeṇa dve tathaikā yathākramam /
+brāhmaṇakṣatriyaviśāṃ bhāryā svā śūdrajanmanaḥ // YajñS_1.57
+
+brāhmo vivāha āhūya dīyate śaktyalaṃkṛtā /
+tajjaḥ punāty ubhayataḥ puruṣān ekaviṃśatim // YajñS_1.58
+
+yajñastha ṛtvije daiva ādāyārṣas tu godvayam /
+caturdaśa prathamajaḥ punāty uttarajaś ca ṣaṭ // YajñS_1.59
+
+ity uktvā caratāṃ dharmaṃ saha yā dīyate 'rthine /
+sa kāyaḥ pāvayet tajjaḥ ṣaṭ ṣaḍvaṃśyān sahātmanā // YajñS_1.60
+
+āsuro draviṇādānād gāndharvaḥ samayān mithaḥ /
+rākṣaso yuddhaharaṇāt paiśācaḥ kanyakāchalāt // YajñS_1.61
+
+pāṇir grāhyaḥ savarṇāsu gṛhṇīyāt kṣatriyā śaram /
+vaiśyā pratodam ādadyād vedane tv agrajanmanaḥ // YajñS_1.62
+
+pitā pitāmaho bhrātā sakulyo jananī tathā /
+kanyāpradaḥ pūrvanāśe prakṛtisthaḥ paraḥ paraḥ // YajñS_1.63
+
+aprayacchan samāpnoti bhrūṇahatyām ṛtāv ṛtau /
+gamyaṃ tv abhāve dātṝṇāṃ kanyā kuryāt svayaṃvaram // YajñS_1.64
+
+sakṛt pradīyate kanyā haraṃs tāṃ coradaṇḍabhāk /
+dattām api haret pūrvāc chreyāṃś ced vara āvrajet // YajñS_1.65
+
+anākhyāya dadad doṣaṃ daṇḍya uttamasāhasam /
+aduṣṭāṃ tu tyajan daṇḍyo dūṣayaṃs tu mṛṣā śatam // YajñS_1.66
+
+akṣatā ca kṣatā caiva punarbhūḥ saṃskṛtā punaḥ /
+svairiṇī yā patiṃ hitvā savarṇaṃ kāmataḥ śrayet // YajñS_1.67
+
+aputrāṃ gurvanujñāto devaraḥ putrakāmyayā /
+sapiṇḍo vā sagotro vā ghṛtābhyakta ṛtāv iyāt // YajñS_1.68
+
+āgarbhasaṃbhavād gacchet patitas tv anyathā bhavet /
+anena vidhinā jātaḥ kṣetrajo 'sya bhavet sutaḥ // YajñS_1.69
+
+hṛtādhikārāṃ malināṃ piṇḍamātropajīvinām /
+paribhūtām adhaḥśayyāṃ vāsayed vyabhicāriṇīm // YajñS_1.70
+
+somaḥ śaucaṃ dadāv āsāṃ gandharvaś ca śubhāṃ giram /
+pāvakaḥ sarvamedhyatvaṃ medhyā vai yoṣito hy ataḥ // YajñS_1.71
+
+vyabhicārād ṛtau śuddhir garbhe tyāgo vidhīyate /
+garbhabhartṛvadhādau ca tathā mahati pātake // YajñS_1.72
+
+surāpī vyādhitā dhūrtā vandhyārthaghny apriyaṃvadā /
+strīprasūś cādhivettavyā puruṣadveṣiṇī tathā // YajñS_1.73
+
+adhivinnā tu bhartavyā mahad eno 'nyathā bhavet /
+yatrānukūlyaṃ daṃpatyos trivargas tatra vardhate // YajñS_1.74
+
+mṛte jīvati vā patyau yā nānyam upagacchati /
+seha kīrtim avāpnoti modate comayā saha // YajñS_1.75
+
+ājñāsaṃpādinīṃ dakṣāṃ vīrasūṃ priyavādinīm /
+tyajan dāpyas tṛtīyāṃśam adravyo bharaṇaṃ striyāḥ // YajñS_1.76
+
+strībhir bhartṛvacaḥ kāryam eṣa dharmaḥ paraḥ striyāḥ /
+āśuddheḥ saṃpratīkṣyo hi mahāpātakadūṣitaḥ // YajñS_1.77
+
+lokānantyaṃ divaḥ prāptiḥ putrapautraprapautrakaiḥ /
+yasmāt tasmāt striyaḥ sevyāḥ kartavyāś ca surakṣitāḥ // YajñS_1.78
+
+ṣoḍaśartuniśāḥ strīṇāṃ tasmin yugmāsu saṃviśet /
+brahmacāry eva parvāṇy ādyāś catasras tu varjayet // YajñS_1.79
+
+evaṃ gacchan striyaṃ kṣāmāṃ maghāṃ mūlaṃ ca varjayet /
+sustha indau sakṛt putraṃ lakṣaṇyaṃ janayet pumān // YajñS_1.80
+
+yathākāmī bhaved vāpi strīṇāṃ varam anusmaran /
+svadāranirataś caiva striyo rakṣyā yataḥ smṛtāḥ // YajñS_1.81
+
+bhartṛbhrātṛpitṛjñātiśvaśrūśvaśuradevaraiḥ /
+bandhubhiś ca striyaḥ pūjyā bhūṣaṇācchādanāśanaiḥ // YajñS_1.82
+
+saṃyatopaskarā dakṣā hṛṣṭā vyayaparāṅmukhī /
+kuryāc chvaśurayoḥ pādavandanaṃ bhartṛtatparā // YajñS_1.83
+
+krīḍāṃ śarīrasaṃskāraṃ samājotsavadarśanam /
+hāsyaṃ paragṛhe yānaṃ tyajet proṣitabhartṛkā // YajñS_1.84
+
+rakṣet kanyāṃ pitā vinnāṃ patiḥ putrās tu vārdhake /
+abhāve jñātayas teṣāṃ na svātantryaṃ kvacit striyāḥ // YajñS_1.85
+
+pitṛmātṛsutabhrātṛśvaśrūśvaśuramātulaiḥ /
+hīnā na syād vinā bhartrā garhaṇīyānyathā bhavet // YajñS_1.86
+
+patipriyahite yuktā svācārā vijitendriyā /
+seha kīrtim avāpnoti pretya cānuttamāṃ gatim // YajñS_1.87
+
+satyām anyāṃ savarṇāyāṃ dharmakāryaṃ na kārayet /
+savarṇāsu vidhau dharmye jyeṣṭhayā na vinetarā // YajñS_1.88
+
+dāhayitvāgnihotreṇa striyaṃ vṛttavatīṃ patiḥ /
+āhared vidhivad dārān agnīṃś caivāvilambayan // YajñS_1.89
+
+savarṇebhyaḥ savarṇāsu jāyante hi sajātayaḥ /
+anindyeṣu vivāheṣu putrāḥ saṃtānavardhanāḥ // YajñS_1.90
+
+viprān mūrdhāvasikto hi kṣatriyāyāṃ viśaḥ striyām /
+ambaṣṭhaḥ śūdryāṃ niṣādo jātaḥ pāraśavo 'pi vā // YajñS_1.91
+
+vaiśyāśūdryos tu rājanyān māhiṣyograu sutau smṛtau /
+vaiśyāt tu karaṇaḥ śūdryāṃ vinnāsv eṣa vidhiḥ smṛtaḥ // YajñS_1.92
+
+brāhmaṇyāṃ kṣatriyāt sūto vaiśyād vaidehakas tathā /
+śūdrāj jātas tu caṇḍālaḥ sarvadharmabahiṣkṛtaḥ // YajñS_1.93
+
+kṣatriyā māgadhaṃ vaiśyāc chūdrāt kṣattāram eva ca /
+śūdrād āyogavaṃ vaiśyā janayāmāsa vai sutam // YajñS_1.94
+
+māhiṣyeṇa karaṇyāṃ tu rathakāraḥ prajāyate /
+asatsantas tu vijñeyāḥ pratilomānulomajāḥ // YajñS_1.95
+
+jātyutkarṣo yuge jñeyaḥ saptame pañcame 'pi vā /
+vyatyaye karmaṇāṃ sāmyaṃ pūrvavac cādharottaram // YajñS_1.96
+
+karma smārtaṃ vivāhāgnau kurvīta pratyahaṃ gṛhī /
+dāyakālāhṛte vāpi śrautaṃ vaitānikāgniṣu // YajñS_1.97
+
+śarīracintāṃ nirvartya kṛtaśaucavidhir dvijaḥ /
+prātaḥsaṃdhyām upāsīta dantadhāvanapūrvakam // YajñS_1.98
+
+hutvāgnīn sūryadaivatyān japen mantrān samāhitaḥ /
+vedārthān adhigacchec ca śāstrāṇi vividhāni ca // YajñS_1.99
+
+upeyād īśvaraṃ caiva yogakṣemārthasiddhaye /
+snātvā devān pitṝṃś caiva tarpayed arcayet tathā // YajñS_1.100
+
+vedātharvapurāṇāni setihāsāni śaktitaḥ /
+japayajñaprasiddhyarthaṃ vidyāṃ cādhyātmikīṃ japet // YajñS_1.101
+
+balikarmasvadhāhomasvādhyāyātithisatkriyāḥ /
+bhūtapitramarabrahmamanuṣyāṇāṃ mahāmakhāḥ // YajñS_1.102
+
+devebhyaś ca hutād annāc cheṣād bhūtabaliṃ haret /
+annaṃ bhūmau śvacāṇḍālavāyasebhyaś ca nikṣipet // YajñS_1.103
+
+annaṃ pitṛmanuṣyebhyo deyam apy anvahaṃ jalam /
+svādhyāyaṃ satataṃ kuryān na paced annam ātmane // YajñS_1.104
+
+bālasvavāsinīvṛddhagarbhiṇyāturakanyakāḥ /
+saṃbhojyātithibhṛtyāṃś ca daṃpatyoḥ śeṣabhojanam // YajñS_1.105
+
+āpośanenopariṣṭād adhastād aśnatā tathā /
+anagnam amṛtaṃ caiva kāryam annaṃ dvijanmanā // YajñS_1.106
+
+atithitvena varṇānāṃ deyaṃ śaktyānupūrvaśaḥ /
+apraṇodyo 'tithiḥ sāyam api vāgbhūtṛṇodakaiḥ // YajñS_1.107
+
+satkṛtya bhikṣave bhikṣā dātavyā savratāya ca /
+bhojayec cāgatān kāle sakhisaṃbandhibāndhavān // YajñS_1.108
+
+mahokṣaṃ vā mahājaṃ vā śrotriyāyopakalpayet /
+satkriyānvāsanaṃ svādu bhojanaṃ sūnṛtaṃ vacaḥ // YajñS_1.109
+
+pratisaṃvatsaraṃ tv arghyāḥ snātakācāryapārthivāḥ /
+priyo vivāhyaś ca tathā yajñaṃ praty ṛtvijaḥ punaḥ // YajñS_1.110
+
+adhvanīno 'tithir jñeyaḥ śrotriyo vedapāragaḥ /
+mānyāv etau gṛhasthasya brahmalokam abhīpsataḥ // YajñS_1.111
+
+parapākarucir na syād anindyāmantraṇād ṛte /
+vākpāṇipādacāpalyaṃ varjayec cātibhojanam // YajñS_1.112
+
+atithiṃ śrotriyaṃ tṛptam āsīmantam anuvrajet /
+ahaḥśeṣaṃ sahāsīta śiṣṭair iṣṭaiś ca bandhubhiḥ // YajñS_1.113
+
+upāsya paścimāṃ saṃdhyāṃ hutvāgnīṃs tān upāsya ca /
+bhṛtyaiḥ parivṛto bhuktvā nātitṛptyātha saṃviśet // YajñS_1.114
+
+brāhme muhūrte cotthāya cintayed ātmano hitam /
+dharmārthakāmān sve kāle yathāśakti na hāpayet // YajñS_1.115
+
+vidyākarmavayobandhuvittair mānyā yathākramam /
+etaiḥ prabhūtaiḥ śūdro 'pi vārdhake mānam arhati // YajñS_1.116
+
+vṛddhabhārinṛpasnātastrīrogivaracakriṇām /
+panthā deyo nṛpas teṣāṃ mānyaḥ snātaś ca bhūpateḥ // YajñS_1.117
+
+ijyādhyayanadānāni vaiśyasya kṣatriyasya ca /
+pratigraho 'dhiko vipre yājanādhyāpane tathā // YajñS_1.118
+
+pradhānaṃ kṣatriye karma prajānāṃ paripālanam /
+kusīdakṛṣivāṇijyapāśupālyaṃ viśaḥ smṛtam // YajñS_1.119
+
+śūdrasya dvijaśuśrūṣā tayājīvan vaṇig bhavet /
+śilpair vā vividhair jīved dvijātihitam ācaran // YajñS_1.120
+
+bhāryāratiḥ śucir bhṛtyabhartā śrāddhakriyārataḥ /
+namaskāreṇa mantreṇa pañcayajñān na hāpayet // YajñS_1.121
+
+ahiṃsā satyam asteyaṃ śaucam indriyanigrahaḥ /
+dānaṃ damo dayā kṣāntiḥ sarveṣāṃ dharmasādhanam // YajñS_1.122
+
+vayobuddhyarthavāgveṣaśrutābhijanakarmaṇām /
+ācaret sadṛśīṃ vṛttim ajihmām aśaṭhāṃ tathā // YajñS_1.123
+
+traivārṣikādhikānno yaḥ sa hi somaṃ pibed dvijaḥ /
+prāksaumikīḥ kriyāḥ kuryād yasyānnaṃ vārṣikaṃ bhavet // YajñS_1.124
+
+pratisaṃvatsaraṃ somaḥ paśuḥ pratyayanaṃ tathā /
+kartavyāgrayaṇeṣṭiś ca cāturmāsyāni caiva hi // YajñS_1.125
+
+eṣām asaṃbhave kuryād iṣṭiṃ vaiśvānarīṃ dvijaḥ /
+hīnakalpaṃ na kurvīta sati dravye phalapradam // YajñS_1.126
+
+cāṇḍālo jāyate yajñakaraṇāc chūdrabhikṣitāt /
+yajñārthaṃ labdham adadad bhāsaḥ kāko 'pi vā bhavet // YajñS_1.127
+
+kuśūlakumbhīdhānyo vā tryāhiko 'śvastano 'pi vā /
+jīved vāpi śiloñchena śreyān eṣāṃ paraḥ paraḥ // YajñS_1.128
+
+na svādhyāyavirodhyartham īheta na yatas tataḥ /
+na viruddhaprasaṅgena saṃtoṣī ca bhavet sadā // YajñS_1.129
+
+rājāntevāsiyājyebhyaḥ sīdann icched dhanaṃ kṣudhā /
+dambhihaitukapākhaṇḍibakavṛttīṃś ca varjayet // YajñS_1.130
+
+śuklāmbaradharo nīcakeśaśmaśrunakhaḥ śuciḥ /
+na bhāryādarśane 'śnīyān naikavāsā na saṃsthitaḥ // YajñS_1.131
+
+na saṃśayaṃ prapadyeta nākasmād apriyaṃ vadet /
+nāhitaṃ nānṛtaṃ caiva na stenaḥ syān na vārdhuṣī // YajñS_1.132
+
+dākṣāyaṇī brahmasūtrī veṇumān sakamaṇḍaluḥ /
+kuryāt pradakṣiṇaṃ devamṛdgovipravanaspatīn // YajñS_1.133
+
+na tu mehen nadīchāyāvartmagoṣṭhāmbubhasmasu /
+na pratyagnyarkagosomasaṃdhyāmbustrīdvijanmanaḥ // YajñS_1.134
+
+nekṣetārkaṃ na nagnāṃ strīṃ na ca saṃsṛṣṭamaithunām /
+na ca mūtraṃ purīṣaṃ vā nāśucī rāhutārakāḥ // YajñS_1.135
+
+ayaṃ me vajra ity evaṃ sarvaṃ mantram udīrayet /
+varṣaty aprāvṛto gacchet svapet pratyakśirā na ca // YajñS_1.136
+
+ṣṭhīvanāsṛkśakṛnmūtraretāṃsy apsu na nikṣipet /
+pādau pratāpayen nāgnau na cainam abhilaṅghayet // YajñS_1.137
+
+jalaṃ piben nāñjalinā na śayānaṃ prabodhayet /
+nākṣaiḥ krīḍen na dharmaghnair vyādhitair vā na saṃviśet // YajñS_1.138
+
+viruddhaṃ varjayet karma pretadhūmaṃ nadītaram /
+keśabhasmatuṣāṅgārakapāleṣu ca saṃsthitim // YajñS_1.139
+
+nācakṣīta dhayantīṃ gāṃ nādvāreṇa viśet kvacit /
+na rājñaḥ pratigṛhṇīyāl lubdhasyocchāstravartinaḥ // YajñS_1.140
+
+pratigrahe sūnicakridhvajiveśyānarādhipāḥ /
+duṣṭā daśaguṇaṃ pūrvāt pūrvād ete yathākramam // YajñS_1.141
+
+adhyāyānām upākarma śrāvaṇyāṃ śravaṇena vā /
+hastenauṣadhibhāve vā pañcamyāṃ śrāvaṇasya tu // YajñS_1.142
+
+pauṣamāsasya rohiṇyām aṣṭakāyām athāpi vā /
+jalānte chandasāṃ kuryād utsargaṃ vidhivad bahiḥ // YajñS_1.143
+
+tryahaṃ preteṣv anadhyāyaḥ śiṣyartviggurubandhuṣu /
+upākarmaṇi cotsarge svaśākhāśrotriye tathā // YajñS_1.144
+
+saṃdhyāgarjitanirghātabhūkaṃpolkānipātane /
+samāpya vedaṃ dyuniśam āraṇyakam adhītya ca // YajñS_1.145
+
+pañcadaśyāṃ caturdaśyām aṣṭamyāṃ rāhusūtake /
+ṛtusaṃdhiṣu bhuktvā vā śrāddhikaṃ pratigṛhya ca // YajñS_1.146
+
+paśumaṇḍūkanakulaśvāhimārjāramūṣakaiḥ /
+kṛte 'nantare tv ahorātraṃ śakrapāte tathocchraye // YajñS_1.147
+
+śvakroṣṭṛgardabholūkasāmabāṇārtaniḥsvane /
+amedhyaśavaśūdrāntyaśmaśānapatitāntike // YajñS_1.148
+
+deśe 'śucāv ātmani ca vidyutstanitasaṃplave /
+bhuktvārdrapāṇir ambho 'ntar ardharātre 'timārute // YajñS_1.149
+
+pāṃsupravarṣe digdāhe saṃdhyānīhārabhītiṣu /
+dhāvataḥ pūtigandhe ca śiṣṭe ca gṛham āgate // YajñS_1.150
+
+kharoṣṭrayānahastyaśvanauvṛkṣeriṇarohaṇe /
+saptatriṃśadanadhyāyān etāṃs tātkālikān viduḥ // YajñS_1.151
+
+devartviksnātakācāryarājñāṃ chāyāṃ parastriyāḥ /
+nākrāmed raktaviṇmūtraṣṭhīvanodvartanādi ca // YajñS_1.152
+
+viprāhikṣatriyātmāno nāvajñeyāḥ kadācana /
+āmṛtyoḥ śriyam ākāṅkṣen na kaṃcin marmaṇi spṛśet // YajñS_1.153
+
+dūrād ucchiṣṭaviṇmūtrapādāmbhāṃsi samutsṛjet /
+śrutismṛtyuditaṃ samyaṅ nityam ācāram ācaret // YajñS_1.154
+
+gobrāhmaṇānalānnāni noccchiṣṭo na padā spṛśet /
+na nindātāḍane kuryāt putraṃ śiṣyaṃ ca tāḍayet // YajñS_1.155
+
+karmaṇā manasā vācā yatnād dharmaṃ samācaret /
+asvargyaṃ lokavidviṣṭaṃ dharmyam apy ācaren na tu // YajñS_1.156
+
+mātṛpitratithibhrātṛjāmisaṃbandhimātulaiḥ /
+vṛddhabālāturācāryavaidyasaṃśritabāndhavaiḥ // YajñS_1.157
+
+ṛtvikpurohitāpatyabhāryādāsasanābhibhiḥ /
+vivādaṃ varjayitvā tu sarvāṃl lokāñ jayed gṛhī // YajñS_1.158
+
+pañca piṇḍān anuddhṛtya na snāyāt paravāriṣu /
+snāyān nadīdevakhātahradaprasravaṇeṣu ca // YajñS_1.159
+
+paraśayyāsanodyānagṛhayānāni varjayet /
+adattāny agnihīnasya nānnam adyād anāpadi // YajñS_1.160
+
+kadaryabaddhacaurāṇāṃ klībaraṅgāvatāriṇām /
+vaiṇābhiśastavārdhuṣyagaṇikāgaṇadīkṣiṇām // YajñS_1.161
+
+cikitsakāturakruddhapuṃścalīmattavidviṣām /
+krūrograpatitavrātyadāmbhikocchiṣṭabhojinām // YajñS_1.162
+
+avīrāstrīsvarṇakārastrījitagrāmayājinām /
+śastravikrayikarmāratantuvāyaśvavṛttinām // YajñS_1.163
+
+nṛśaṃsarājarajakakṛtaghnavadhajīvinām /
+cailadhāvasurājīvasahopapativeśmanām // YajñS_1.164
+
+piśunānṛtinoś caiva tathā cākrikabandinām /
+eṣām annaṃ na bhoktavyaṃ somavikrayiṇas tathā // YajñS_1.165
+
+śūdreṣu dāsagopālakulamitrārdhasīriṇaḥ /
+bhojyānnāḥ nāpitaś caiva yaś cātmānaṃ nivedayet // YajñS_1.166
+
+anarcitaṃ vṛthāmāṃsaṃ keśakīṭasamanvitam /
+śuktaṃ paryuṣitocchiṣṭaṃ śvaspṛṣṭaṃ patitekṣitam // YajñS_1.167
+
+udakyāspṛṣṭasaṃghuṣṭaṃ paryāyānnaṃ ca varjayet /
+goghrātaṃ śakunocchiṣṭaṃ padā spṛṣṭaṃ ca kāmataḥ // YajñS_1.168
+
+annaṃ paryuṣitaṃ bhojyaṃ snehāktaṃ cirasaṃsthitam /
+asnehā api godhūmayavagorasavikriyāḥ // YajñS_1.169
+
+saṃdhinyanirdaśāvatsāgopayaḥ parivarjayet /
+auṣṭram aikaśaphaṃ straiṇam āraṇyakam athāvikam // YajñS_1.170
+
+devatārthaṃ haviḥ śigruṃ lohitān vraścanāṃs tathā /
+anupākṛtamāṃsāni viḍjāni kavakāni ca // YajñS_1.171
+
+kravyādapakṣidātyūhaśukapratudaṭiṭṭibhān /
+sārasaikaśaphān haṃsān sarvāṃś ca grāmavāsinaḥ // YajñS_1.172
+
+koyaṣṭiplavacakrāhvabalākābakaviṣkirān /
+vṛthākṛsarasamyāvapāyasāpūpaśaṣkulīḥ // YajñS_1.173
+
+kalaviṅkaṃ sakākolaṃ kuraraṃ rajjudālakam /
+jālapādān khañjarīṭān ajñātāṃś ca mṛgadvijān // YajñS_1.174
+
+cāṣāṃś ca raktapādāṃś ca saunaṃ vallūram eva ca /
+matsyāṃś ca kāmato jagdhvā sopavāsas tryahaṃ vaset // YajñS_1.175
+
+palāṇḍuṃ viḍvarāhaṃ ca chatrākaṃ grāmakukkuṭam /
+laśunaṃ gṛñjanaṃ caiva jagdhvā cāndrāyaṇaṃ caret // YajñS_1.176
+
+bhakṣyāḥ pañcanakhāḥ sedhāgodhākacchapaśallakāḥ /
+śaśaś ca matsyeṣv api hi siṃhatuṇḍakarohitāḥ // YajñS_1.177
+
+tathā pāṭhīnarājīvasaśalkāś ca dvijātibhiḥ /
+ataḥ śṛṇudhvaṃ māṃsasya vidhiṃ bhakṣaṇavarjane // YajñS_1.178
+
+prāṇātyaye tathā śrāddhe prokṣite dvijakāmyayā /
+devān pitṝn samabhyarcya khādan māṃsaṃ na doṣabhāk // YajñS_1.179
+
+vaset sa narake ghore dināni paśuromabhiḥ /
+sammitāni durācāro yo hanty avidhinā paśūn // YajñS_1.180
+
+sarvān kāmān avāpnoti hayamedhaphalaṃ tathā /
+gṛhe 'pi nivasan vipro munir māṃsavivarjanāt // YajñS_1.181
+
+sauvarṇarājatābjānām ūrdhvapātragrahāśmanām /
+śākarajjumūlaphalavāsovidalacarmaṇām // YajñS_1.182
+
+pātrāṇāṃ camasānāṃ ca vāriṇā śuddhir iṣyate /
+carusruksruvasasnehapātrāṇy uṣṇena vāriṇā // YajñS_1.183
+
+sphyaśūrpājinadhānyānāṃ musalolūkhalānasām /
+prokṣaṇaṃ saṃhatānāṃ ca bahūnāṃ dhānyavāsasām // YajñS_1.184
+
+takṣaṇaṃ dāruśṛṅgāsthnāṃ govālaiḥ phalasaṃbhuvām /
+mārjanaṃ yajñapātrāṇāṃ pāṇinā yajñakarmaṇi // YajñS_1.185
+
+soṣarodakagomūtraiḥ śudhyaty āvikakauśikam /
+saśrīphalair aṃśupaṭṭaṃ sāriṣṭaiḥ kutapaṃ tathā // YajñS_1.186
+
+sagaurasarṣapaiḥ kṣaumaṃ punaḥpākān mahīmayam /
+kāruhastaḥ śuciḥ paṇyaṃ bhaikṣaṃ yoṣinmukhaṃ tathā // YajñS_1.187
+
+bhūśuddhir mārjanād dāhāt kālād gokramaṇāt tathā /
+sekād ullekhanāl lepād gṛhaṃ mārjanalepanāt // YajñS_1.188
+
+goghrāte 'nne tathā keśamakṣikākīṭadūṣite /
+salilaṃ bhasma mṛd vāpi prakṣeptavyaṃ viśuddhaye // YajñS_1.189
+
+trapusīsakatāmrāṇāṃ kṣārāmlodakavāribhiḥ /
+bhasmādbhiḥ kāṃsyalohānāṃ śuddhiḥ plāvo dravasya ca // YajñS_1.190
+
+amedhyāktasya mṛttoyaiḥ śuddhir gandhādikarṣaṇāt /
+vākśastam ambunirṇiktam ajñātaṃ ca sadā śuci // YajñS_1.191
+
+śuci gotṛptikṛt toyaṃ prakṛtisthaṃ mahīgatam /
+tathā māṃsaṃ śvacaṇḍālakravyādādinipātitam // YajñS_1.192
+
+raśmir agnī rajaśchāyā gaur aśvo vasudhānilaḥ /
+vipruṣo makṣikāḥ sparśe vatsaḥ prasnavane śuciḥ // YajñS_1.193
+
+ajāśvayor mukhaṃ medhyaṃ na gor na narajā malāḥ /
+panthānaś ca viśudhyanti somasūryāṃśumārutaiḥ // YajñS_1.194
+
+mukhajā vipruṣo medhyās tathācamanabindavaḥ /
+śmaśru cāsyagataṃ dantasaktaṃ tyaktvā tataḥ śuciḥ // YajñS_1.195
+
+snātvā pītvā kṣute supte bhuktvā rathyopasarpaṇe /
+ācāntaḥ punar ācāmed vāso viparidhāya ca // YajñS_1.196
+
+rathyākardamatoyāni spṛṣṭāny antyaśvavāyasaiḥ /
+mārutenaiva śudhyanti pakveṣṭakacitāni ca // YajñS_1.197
+
+tapas taptvāsṛjad brahmā brāhmaṇān vedaguptaye /
+tṛptyarthaṃ pitṛdevānāṃ dharmasaṃrakṣaṇāya ca // YajñS_1.198
+
+sarvasya prabhavo viprāḥ śrutādhyayanaśīlinaḥ /
+tebhyaḥ kriyāparāḥ śreṣṭhās tebhyo 'py adhyātmavittamāḥ // YajñS_1.199
+
+na vidyayā kevalayā tapasā vāpi pātratā /
+yatra vṛttam ime cobhe tad dhi pātraṃ prakīrtitam // YajñS_1.200
+
+gobhūtilahiraṇyādi pātre dātavyam arcitam /
+nāpātre viduṣā kiṃcid ātmanaḥ śreya icchatā // YajñS_1.201
+
+vidyātapobhyāṃ hīnena na tu grāhyaḥ pratigrahaḥ /
+gṛhṇan pradātāram adho nayaty ātmānam eva ca // YajñS_1.202
+
+dātavyaṃ pratyahaṃ pātre nimitteṣu viśeṣataḥ /
+yācitenāpi dātavyaṃ śraddhāpūtaṃ svaśaktitaḥ // YajñS_1.203
+
+hemaśṛṅgī śaphai raupyaiḥ suśīlā vastrasaṃyutā /
+sakāṃsyapātrā dātavyā kṣīriṇī gauḥ sadakṣiṇā // YajñS_1.204
+
+dātāsyāḥ svargam āpnoti vatsarān romasammitān /
+kapilā cet tārayati bhūyaś cāsaptamaṃ kulam // YajñS_1.205
+
+savatsāromatulyāni yugāny ubhayatomukhīm /
+dātāsyāḥ svargam āpnoti pūrveṇa vidhinā dadat // YajñS_1.206
+
+yāvad vatsasya pādau dvau mukhaṃ yonyāṃ ca dṛśyate /
+tāvad gauḥ pṛthivī jñeyā yāvad garbhaṃ na muñcati // YajñS_1.207
+
+yathākathaṃcid dattvā gāṃ dhenuṃ vādhenum eva vā /
+arogām aparikliṣṭāṃ dātā svarge mahīyate // YajñS_1.208
+
+śrāntasaṃvāhanaṃ rogiparicaryā surārcanam /
+pādaśaucaṃ dvijocchiṣṭamārjanaṃ gopradānavat // YajñS_1.209
+
+bhūdīpāṃś cānnavastrāmbhastilasarpiḥpratiśrayān /
+naiveśikaṃ svarṇadhuryaṃ dattvā svarge mahīyate // YajñS_1.210
+
+gṛhadhānyābhayopānacchatramālyānulepanam /
+yānaṃ vṛkṣaṃ priyaṃ śayyāṃ dattvātyantaṃ sukhī bhavet // YajñS_1.211
+
+sarvadharmamayaṃ brahma pradānebhyo 'dhikaṃ yataḥ /
+tad dadat samavāpnoti brahmalokam avicyutam // YajñS_1.212
+
+pratigrahasamartho 'pi nādatte yaḥ pratigraham /
+ye lokā dānaśīlānāṃ sa tān āpnoti puṣkalān // YajñS_1.213
+
+kuśāḥ śākaṃ payo matsyā gandhāḥ puṣpaṃ dadhi kṣitiḥ /
+māṃsaṃ śayyāsanaṃ dhānāḥ pratyākheyaṃ na vāri ca // YajñS_1.214
+
+ayācitāhṛtaṃ grāhyam api duṣkṛtakarmaṇaḥ /
+anyatra kulaṭāṣaṇḍhapatitebhyas tathā dviṣaḥ // YajñS_1.215
+
+devātithiarcanakṛte gurubhṛtyārtham eva vā /
+sarvataḥ pratigṛhṇīyād ātmavṛttyartham eva ca // YajñS_1.216
+
+amāvāsyāṣṭakā vṛddhiḥ kṛṣṇapakṣo 'yanadvayam /
+dravyaṃ brāhmaṇasaṃpattir viṣuvat sūryasaṃkramaḥ // YajñS_1.217
+
+vyatīpāto gajacchāyā grahaṇaṃ candrasūryayoḥ /
+śrāddhaṃ prati ruciś caite śrāddhakālāḥ prakīrtitāḥ // YajñS_1.218
+
+agryaḥ sarveṣu vedeṣu śrotriyo brahmavid yuvā /
+vedārthavij jyeṣṭhasāmā trimadhus trisuparṇakaḥ // YajñS_1.219
+
+svasrīyartvijjāmātṛyājyaśvaśuramātulāḥ /
+triṇāciketadauhitraśiṣyasaṃbandhibāndhavāḥ // YajñS_1.220
+
+karmaniṣṭhās taponiṣṭhāḥ pañcāgnir brahmacāriṇaḥ /
+pitṛmātṛparāś caiva brāhmaṇāḥ śrāddhasaṃpadaḥ // YajñS_1.221
+
+rogī hīnātiriktāṅgaḥ kāṇaḥ paunarbhavas tathā /
+avakīrṇī kuṇḍagolau kunakhī śyāvadantakaḥ // YajñS_1.222
+
+bhṛtakādhyāpakaḥ klībaḥ kanyādūṣy abhiśastakaḥ /
+mitradhruk piśunaḥ somavikrayī parivindakaḥ // YajñS_1.223
+
+mātāpitṛgurutyāgī kuṇḍāśī vṛṣalātmajaḥ /
+parapūrvāpatiḥ stenaḥ karmaduṣṭāś ca ninditāḥ // YajñS_1.224
+
+nimantrayeta pūrvedyur brāhmaṇān ātmavān śuciḥ /
+taiś cāpi saṃyatair bhāvyaṃ manovākkāyakarmabhiḥ // YajñS_1.225
+
+aparāhṇe samabhyarcya svāgatenāgatāṃs tu tān /
+pavitrapāṇir ācāntān āsaneṣūpaveśayet // YajñS_1.226
+
+yugmān daive yathāśakti pitrye 'yugmāṃs tathaiva ca /
+paristṛte śucau deśe dakṣiṇāpravaṇe tathā // YajñS_1.227
+
+dvau daive prāk trayaḥ pitrya udag ekaikam eva vā /
+mātāmahānām apy evaṃ tantraṃ vā vaiśvadevikam // YajñS_1.228
+
+pāṇiprakṣālanaṃ dattvā viṣṭarārthaṃ kuśān api /
+āvāhayed anujñāto viśve devāsa ity ṛcā // YajñS_1.229
+
+yavair anvavakīryātha bhājane sapavitrake /
+śaṃ no devyā payaḥ kṣiptvā yavo 'sīti yavāṃs tathā // YajñS_1.230
+
+yā divyā iti mantreṇa hasteṣv arghyaṃ vinikṣipet /
+dattvā udakaṃ gandhamālyaṃ dhūpadānaṃ sadīpakam // YajñS_1.231
+
+tathācchādanadānaṃ ca karaśaucārtham ambu ca /
+apasavyaṃ tataḥ kṛtvā pitṝṇām apradakṣiṇam // YajñS_1.232
+
+dviguṇāṃs tu kuśān dattvā hy uṣantas tvety ṛcā pitṝn /
+āvāhya tadanujñāto japed āyantu nas tataḥ // YajñS_1.233
+
+apahatā iti tilān vikīrya ca samantataḥ /
+yavārthās tu tilaiḥ kāryāḥ kuryād arghyādi pūrvavat // YajñS_1.234
+
+dattvā arghyaṃ saṃsravāṃs teṣāṃ pātre kṛtvā vidhānataḥ /
+pitṛbhyaḥ sthānam asīti nyubjaṃ pātraṃ karoty adhaḥ // YajñS_1.235
+
+agnau kariṣyann ādāya pṛcchaty annaṃ ghṛtaplutam /
+kuruṣvety abhyanujñāto hutvāgnau pitṛyajñavat // YajñS_1.236
+
+hutaśeṣaṃ pradadyāt tu bhājaneṣu samāhitaḥ /
+yathālābhopapanneṣu raupyeṣu ca viśeṣataḥ // YajñS_1.237
+
+dattvānnaṃ pṛthivīpātram iti pātrābhimantraṇam /
+kṛtvedaṃ viṣṇur ity anne dvijāṅguṣṭhaṃ niveśayet // YajñS_1.238
+
+savyāhṛtikāṃ gāyatrīṃ madhu vātā iti tryṛcam /
+japtvā yathāsukhaṃ vācyaṃ bhuñjīraṃs te 'pi vāgyatāḥ // YajñS_1.239
+
+annam iṣtaṃ haviṣyaṃ ca dadyād akrodhano 'tvaraḥ /
+ātṛptes tu pavitrāṇi japtvā pūrvajapaṃ tathā // YajñS_1.240
+
+annam ādāya tṛptāḥ stha śeṣaṃ caivānumānya ca /
+tad annaṃ vikired bhūmau dadyāc cāpaḥ sakṛt sakṛt // YajñS_1.241
+
+sarvam annam upādāya satilaṃ dakṣiṇāmukhaḥ /
+ucchiṣṭasaṃnidhau piṇḍān dadyād vai pitṛyajñavat // YajñS_1.242
+
+mātāmahānām apy evaṃ dadyād ācamanaṃ tataḥ /
+svastivācyaṃ tataḥ kuryād akṣayyodakam eva ca // YajñS_1.243
+
+dattvā tu dakṣiṇāṃ śaktyā svadhākāram udāharet /
+vācyatām ity anujñātaḥ prakṛtebhyaḥ svadhocyatām // YajñS_1.244
+
+brūyur astu svadhety ukte bhūmau siñcet tato jalam /
+viśve devāś ca prīyantāṃ vipraiś cokta idaṃ japet // YajñS_1.245
+
+dātāro no 'bhivardhantāṃ vedāḥ saṃtatir eva ca /
+śraddhā ca no mā vyagamad bahu deyaṃ ca no 'stv iti // YajñS_1.246
+
+ity uktvoktvā priyā vācaḥ praṇipatya visarjayet /
+vāje vāja iti prītaḥ pitṛpūrvaṃ visarjanam // YajñS_1.247
+
+yasmiṃs tu saṃsravāḥ pūrvam arghyapātre niveśitāḥ /
+pitṛpātraṃ taduttānaṃ kṛtvā viprān visarjayet // YajñS_1.248
+
+pradakṣiṇam anuvrajya bhuñjīta pitṛsevitam /
+brahmacārī bhavet tāṃ tu rajanīṃ brāhmaṇaiḥ saha // YajñS_1.249
+
+evaṃ pradakṣiṇāvṛtko vṛddhau nāndīmukhān pitṝn /
+yajeta dadhi karkandhumiśrān piṇḍān yavaiḥ kriyāḥ // YajñS_1.250
+
+ekoddiṣṭaṃ devahīnam ekārghyaikapavitrakam /
+āvāhanāgnaukaraṇarahitaṃ hy apasavyavat // YajñS_1.251
+
+upatiṣṭhatām akṣayyasthāne vipravisarjane /
+abhiramyatām iti vaded brūyus te 'bhiratāḥ sma ha // YajñS_1.252
+
+gandhodakatilair yuktaṃ kuryāt pātracatuṣṭayam /
+arghyārthaṃ pitṛpātreṣu pretapātraṃ prasecayet // YajñS_1.253
+
+ye samānā iti dvābhyāṃ śeṣaṃ pūrvavad ācaret /
+etat sapiṇḍīkaraṇam ekoddiṣṭaṃ striyā api // YajñS_1.254
+
+arvāksapiṇḍīkaraṇaṃ yasya saṃvatsarād bhavet /
+tasyāpy annaṃ sodakumbhaṃ dadyāt saṃvatsaraṃ dvije // YajñS_1.255
+
+mṛte 'hani prakartavyaṃ pratimāsaṃ tu vatsaram /
+pratisaṃvatsaraṃ caivam ādyam ekādaśe 'hani // YajñS_1.256
+
+piṇḍāṃs tu go'javiprebhyo dadyād agnau jale 'pi vā /
+prakṣipet satsu vipreṣu dvijocchiṣṭaṃ na mārjayet // YajñS_1.257
+
+haviṣyānnena vai māsaṃ pāyasena tu vatsaram /
+mātsyahāriṇakaurabhaśākunacchāgapārṣataiḥ // YajñS_1.258
+
+aiṇarauravavārāhaśāśair māṃsair yathākramam /
+māsavṛddhyābhitṛpyanti dattair iha pitāmahāḥ // YajñS_1.259
+
+khaḍdāmiṣaṃ mahāśalkaṃ madhu munyannam eva vā /
+lauhāmiṣaṃ mahāśākaṃ māṃsaṃ vārdhrīṇasasya ca // YajñS_1.260
+
+yad dadāti gayāsthaś ca sarvam ānantyam aśnute /
+tathā varṣātrayodaśyāṃ maghāsu ca viśeṣataḥ // YajñS_1.261
+
+kanyāṃ kanyāvedinaś ca paśūn vai satsutān api /
+dyūtaṃ kṛṣiṃ vāṇijyāṃ ca dviśaphaikaśaphāṃs tathā // YajñS_1.262
+
+brahmavarcasvinaḥ putrān svarṇarūpye sakupyake /
+jñātiśraiṣṭhyaṃ sarvakāmān āpnoti śrāddhadaḥ sadā // YajñS_1.263
+
+pratipatprabhṛtiṣv ekāṃ varjayitvā caturdaśīm /
+śastreṇa tu hatā ye vai tebhyas tatra pradīyate // YajñS_1.264
+
+svargaṃ hy apatyam ojaś ca śauryaṃ kṣetraṃ balaṃ tathā /
+putraṃ śraiṣṭhyaṃ ca saubhāgyaṃ samṛddhiṃ mukhyatāṃ śubham // YajñS_1.265
+
+pravṛttacakratāṃ caiva vāṇijyaprabhṛtīn api /
+arogitvaṃ yaśo vītaśokatāṃ paramāṃ gatim // YajñS_1.266
+
+dhanaṃ vedān bhiṣaksiddhiṃ kupyaṃ gā apy ajāvikam /
+aśvān āyuś ca vidhivad yaḥ śrāddhaṃ saṃprayacchati // YajñS_1.267
+
+kṛttikādibharaṇyantaṃ sa kāmān āpnuyād imān /
+āstikaḥ śraddadhānaś ca vyapetamadamatsaraḥ // YajñS_1.268
+
+vasurudrāditisutāḥ pitaraḥ śrāddhadevatāḥ /
+prīṇayanti manuṣyāṇāṃ pitṝn śrāddhena tarpitāḥ // YajñS_1.269
+
+āyuḥ prajāṃ dhanaṃ vidyāṃ svargaṃ mokṣaṃ sukhāni ca /
+prayacchanti tathā rājyaṃ prītā nṝṇāṃ pitāmahāḥ // YajñS_1.270
+
+vināyakaḥ karmavighnasiddhyarthaṃ viniyojitaḥ /
+gaṇānām ādhipatye ca rudreṇa brahmaṇā tathā // YajñS_1.271
+
+tenopasṛṣṭo yas tasya lakṣaṇāni nibodhata /
+svapne 'vagāhate 'tyarthaṃ jalaṃ muṇḍāṃś ca paśyati // YajñS_1.272
+
+kāṣāyavāsasaś caiva kravyādāṃś cādhirohati /
+antyajair gardabhair uṣṭraiḥ sahaikatrāvatiṣṭhate // YajñS_1.273
+
+vrajann api tathātmānaṃ manyate 'nugataṃ paraiḥ /
+vimanā viphalārambhaḥ saṃsīdaty animittataḥ // YajñS_1.274
+
+tenopasṛṣṭo labhate na rājyaṃ rājanandanaḥ /
+kumārī ca na bhartāram apatyaṃ garbham aṅganā // YajñS_1.275
+
+ācāryatvaṃ śrotriyaś ca na śiṣyo 'dhyayanaṃ tathā /
+vaṇiglābhaṃ na cāpnoti kṛṣiṃ cāpi kṛṣīvalaḥ // YajñS_1.276
+
+snapanaṃ tasya kartavyaṃ puṇye 'hni vidhipūrvakam /
+gaurasarṣapakalkena sājyenotsāditasya ca // YajñS_1.277
+
+sarvāuṣadhaiḥ sarvagandhair viliptaśirasas tathā /
+bhadrāsanopaviṣṭasya svastivācyā dvijāḥ śubhāḥ // YajñS_1.278
+
+aśvasthānād gajasthānād valmīkāt saṃgamād hradāt /
+mṛttikāṃ rocanāṃ gandhān gugguluṃ cāpsu nikṣipet // YajñS_1.279
+
+yā āhṛtā hy ekavarṇaiś caturbhiḥ kalaśair hradāt /
+carmaṇy ānaḍuhe rakte sthāpyaṃ bhadrāsanaṃ tataḥ // YajñS_1.280
+
+sahasrākṣaṃ śatadhāram ṛṣibhiḥ pāvanaṃ kṛtam /
+tena tvām abhiṣiñcāmi pāvamānyaḥ punantu te // YajñS_1.281
+
+bhagaṃ te varuṇo rājā bhagaṃ sūryo bṛhaspatiḥ /
+bhagam indraś ca vāyuś ca bhagaṃ saptarṣayo daduḥ // YajñS_1.282
+
+yat te keśeṣu daurbhāgyaṃ sīmante yac ca mūrdhani /
+lalāṭe karṇayor akṣṇor āpas tad ghnantu sarvadā // YajñS_1.283
+
+snātasya sārṣapaṃ tailaṃ sruveṇaudumbareṇa tu /
+juhuyān mūrdhani kuśān savyena parigṛhya ca // YajñS_1.284
+
+mitaś ca sammitaś caiva tathā śālakaṭaṅkaṭau /
+kūśmāṇḍo rājaputraś cety ante svāhāsamanvitaiḥ // YajñS_1.285
+
+nāmabhir balimantraiś ca namaskārasamanvitaiḥ /
+dadyāc catuṣpathe śūrpe kuśān āstīrya sarvataḥ // YajñS_1.286
+
+kṛtākṛtāṃs taṇḍulāṃś ca palalaudanam eva ca /
+matsyān pakvāṃs tathaivāmān māṃsam etāvad eva tu // YajñS_1.287
+
+puṣpaṃ citraṃ sugandhaṃ ca surāṃ ca trividhām api /
+mūlakaṃ pūrikāpūpāṃs tathaivoṇḍerakasrajaḥ // YajñS_1.288
+
+dadhy annaṃ pāyasaṃ caiva guḍapiṣṭaṃ samodakam /
+etān sarvān samāhṛtya bhūmau kṛtvā tataḥ śiraḥ // YajñS_1.289
+
+vināyakasya jananīm upatiṣṭhet tato 'mbikām /
+dūrvāsarṣapapuṣpāṇāṃ dattvārghyaṃ pūrṇam añjalim // YajñS_1.290
+
+rūpaṃ dehi yaśo dehi bhagaṃ bhavati dehi me /
+putrān dehi dhanaṃ dehi sarvakāmāṃś ca dehi me // YajñS_1.291
+
+tataḥ śuklāmbaradharaḥ śuklamālyānulepanaḥ /
+brāhmaṇān bhojayed dadyād vastrayugmaṃ guror api // YajñS_1.292
+
+evaṃ vināyakaṃ pūjya grahāṃś caiva vidhānataḥ /
+karmaṇāṃ phalam āpnoti śriyaṃ cāpnoty anuttamām // YajñS_1.293
+
+ādityasya sadā pūjāṃ tilakaṃ svāminas tathā /
+mahāgaṇapateś caiva kurvan siddhim avāpnuyāt // YajñS_1.294
+
+śrīkāmaḥ śāntikāmo vā grahayajñaṃ samācaret /
+vṛṣṭyāyuḥpuṣṭikāmo vā tathaivābhicarann api // YajñS_1.295
+
+sūryaḥ somo mahīputraḥ somaputro bṛhaspatiḥ /
+śukraḥ śanaiścaro rāhuḥ ketuś ceti grahāḥ smṛtāḥ // YajñS_1.296
+
+tāmrakāt sphaṭikād raktacandanāt svarṇakād ubhau /
+rājatād ayasaḥ sīsāt kāṃsyāt kāryā grahāḥ kramāt // YajñS_1.297
+
+svavarṇair vā paṭe lekhyā gandhair maṇḍalakeṣu vā /
+yathāvarṇaṃ pradeyāni vāsāṃsi kusumāni ca // YajñS_1.298
+
+gandhāś ca balayaś caiva dhūpo deyaś ca gugguluḥ /
+kartavyā mantravantaś ca caravaḥ pratidaivatam // YajñS_1.299
+
+ākṛṣṇena imaṃ devā agnir mūrdhā divaḥ kakut /
+udbudhyasveti ca ṛco yathāsaṃkhyaṃ prakīrtitāḥ // YajñS_1.300
+
+bṛhaspate 'ti yad aryas tathaivānnāt parisrutaḥ /
+śaṃ no devīs tathā kāṇḍāt ketuṃ kṛṇvann imāṃs tathā // YajñS_1.301
+
+arkaḥ palāśaḥ khadira apāmārgo 'tha pippalaḥ /
+udumbaraḥ śamī dūrvā kuśāś ca samidhaḥ kramāt // YajñS_1.302
+
+ekaikasya tv aṣṭaśatam aṣṭāviṃśatir eva vā /
+hotavyā madhusarpirbhyāṃ dadhnā kṣīreṇa vā yutāḥ // YajñS_1.303
+
+guḍaudanaṃ pāyasaṃ ca haviṣyaṃ kṣīraṣāṣṭikam /
+dadhyodanaṃ haviś cūrṇaṃ māṃsaṃ citrānnam eva ca // YajñS_1.304
+
+dadyād grahakramād evaṃ dvijebhyo bhojanaṃ budhaḥ /
+śaktito vā yathālābhaṃ satkṛtya vidhipūrvakam // YajñS_1.305
+
+dhenuḥ śaṅkhas tathānaḍvān hema vāso hayaḥ kramāt /
+kṛṣṇā gaur āyasaṃ chāga etā vai dakṣiṇāḥ smṛtāḥ // YajñS_1.306
+
+yaś ca yasya yadā duḥsthaḥ sa taṃ yatnena pūjayet /
+brahmaṇaiṣāṃ varo dattaḥ pūjitāḥ pūjayiṣyatha // YajñS_1.307
+
+grahādhīnā narendrāṇām ucchrāyāḥ patanāni ca /
+bhāvābhāvau ca jagatas tasmāt pūjyatamā grahāḥ // YajñS_1.308
+
+grahāṇām idam ātithyaṃ kuryāt saṃvatsarād api /
+ārogyabalasaṃpanno jīvet sa śaradaḥ śatam // YajñS_1.308A
+
+mahotsāhaḥ sthūlalakṣaḥ kṛtajño vṛddhasevakaḥ /
+vinītaḥ sattvasaṃpannaḥ kulīnaḥ satyavāk śuciḥ // YajñS_1.309
+
+adīrghasūtraḥ smṛtimān akṣudro 'paruṣas tathā /
+dhārmiko 'vyasanaś caiva prājñaḥ śūro rahasyavit // YajñS_1.310
+
+svarandhragoptānvīkṣikyāṃ daṇḍanītyāṃ tathaiva ca /
+vinītas tv atha vārtāyāṃ trayyāṃ caiva narādhipaḥ // YajñS_1.311
+
+sa mantriṇaḥ prakurvīta prājñān maulān sthirān śucīn /
+taiḥ sārdhaṃ cintayed rājyaṃ vipreṇātha tataḥ svayam // YajñS_1.312
+
+purohitaṃ prakurvīta daivajñam uditoditam /
+daṇḍanītyāṃ ca kuśalam atharvāṅgirase tathā // YajñS_1.313
+
+śrautasmārtakriyāhetor vṛṇuyād eva ca rtvijaḥ /
+yajñāṃś caiva prakurvīta vidhivad bhūridakṣiṇān // YajñS_1.314
+
+bhogāṃś ca dadyād viprebhyo vasūni vividhāni ca /
+akṣayo 'yaṃ nidhī rājñāṃ yad vipreṣūpapāditam // YajñS_1.315
+
+askannam avyathaṃ caiva prāyaścittair adūṣitam /
+agneḥ sakāśād viprāgnau hutaṃ śreṣṭham ihocyate // YajñS_1.316
+
+alabdham īhed dharmeṇa labdhaṃ yatnena pālayet /
+pālitaṃ vardhayen nītyā vṛddhaṃ pātreṣu nikṣipet // YajñS_1.317
+
+dattvā bhūmiṃ nibandhaṃ vā kṛtvā lekhyaṃ tu kārayet /
+āgāmibhadranṛpatiparijñānāya pārthivaḥ // YajñS_1.318
+
+paṭe vā tāmrapaṭṭe vā svamudroparicihnitam /
+abhilekhyātmano vaṃśyān ātmānaṃ ca mahīpatiḥ // YajñS_1.319
+
+pratigrahaparīmāṇaṃ dānacchedopavarṇanam /
+svahastakālasaṃpannaṃ śāsanaṃ kārayet sthiram // YajñS_1.320
+
+ramyaṃ paśavyam ājīvyaṃ jāṅgalaṃ deśam āvaset /
+tatra durgāṇi kurvīta janakośātmaguptaye // YajñS_1.321
+
+tatra tatra ca niṣṇātān adhyakṣān kuśalān śucīn /
+prakuryād āyakarmāntavyayakarmasu codyatān // YajñS_1.322
+
+nātaḥ parataro dharmo nṛpāṇāṃ yad raṇārjitam /
+viprebhyo dīyate dravyaṃ prajābhyaś cābhayaṃ sadā // YajñS_1.323
+
+ya āhaveṣu vadhyante bhūmyartham aparāṅmukhāḥ /
+akūṭair āyudhair yānti te svargaṃ yogino yathā // YajñS_1.324
+
+padāni kratutulyāni bhagneṣv avinivartinām /
+rājā sukṛtam ādatte hatānāṃ vipalāyinām // YajñS_1.325
+
+tavāhaṃvādinaṃ klībaṃ nirhetiṃ parasaṃgatam /
+na hanyād vinivṛttaṃ ca yuddhaprekṣaṇakādikam // YajñS_1.326
+
+kṛtarakṣaḥ samutthāya paśyed āyavyayau svayam /
+vyavahārāṃs tato dṛṣṭvā snātvā bhuñjīta kāmataḥ // YajñS_1.327
+
+hiraṇyaṃ vyāpṛtānītaṃ bhāṇḍāgāreṣu nikṣipet /
+paśyec cārāṃs tato dūtān preṣayen mantrisaṃgataḥ // YajñS_1.328
+
+tataḥ svairavihārī syān mantribhir vā samāgataḥ /
+balānāṃ darśanaṃ kṛtvā senānyā saha cintayet // YajñS_1.329
+
+saṃdhyām upāsya śṛṇuyāc cārāṇāṃ gūḍhabhāṣitam /
+gītanṛtyaiś ca bhuñjīta paṭhet svādhyāyam eva ca // YajñS_1.330
+
+saṃviśet tūryaghoṣeṇa  tathaiva ca /
+śāstrāṇi cintayed buddhyā sarvakartavyatās tathā // YajñS_1.331
+
+preṣayec ca tataś cārān sveṣv anyeṣu ca sādarān /
+ṛtvikpurohitācāryair āśīrbhir abhinanditaḥ // YajñS_1.332
+
+dṛṣṭvā jyotirvido vaidyān dadyād gāṃ kāñcanaṃ mahīm /
+naiveśikāni ca tataḥ śrotriyebhyo gṛhāṇi ca // YajñS_1.333
+
+brāhmaṇeṣu kṣamī snigdheṣv ajihmaḥ krodhano 'riṣu /
+syād rājā bhṛtyavargeṣu prajāsu ca yathā pitā // YajñS_1.334
+
+puṇyāt ṣaḍbhāgam ādatte nyāyena paripālayan /
+sarvadānādhikaṃ yasmāt prajānāṃ paripālanam // YajñS_1.335
+
+cāṭataskaradurvṛttamahāsāhasikādibhiḥ /
+pīḍyamānāḥ prajā rakṣet kāyasthaiś ca viśeṣataḥ // YajñS_1.336
+
+arakṣyamāṇāḥ kurvanti yatkiṃcit kilbiṣaṃ prajāḥ /
+tasmāt tu nṛpater ardhaṃ yasmād gṛhṇāty asau karān // YajñS_1.337
+
+ye rāṣṭrādhikṛtās teṣāṃ cārair jñātvā viceṣṭitam /
+sādhūn sammānayed rājā viparītāṃś ca ghātayet // YajñS_1.338
+
+utkocajīvino dravyahīnān kṛtvā vivāsayet /
+saddānamānasatkārān śrotriyān vāsayet sadā // YajñS_1.339
+
+anyāyena nṛpo rāṣṭrāt svakośaṃ yo 'bhivardhayet /
+so 'cirād vigataśrīko nāśam eti sabāndhavaḥ // YajñS_1.340
+
+prajāpīḍanasaṃtāpāt samudbhūto hutāśanaḥ /
+rājñaḥ kulaṃ śriyaṃ prāṇāṃś cādagdhvā na nivartate // YajñS_1.341
+
+ya eva nṛpater dharmaḥ svarāṣṭraparipālane /
+tam eva kṛtsnam āpnoti pararāṣṭraṃ vaśaṃ nayan // YajñS_1.342
+
+yasmin deśe ya ācāro vyavahāraḥ kulasthitiḥ /
+tathaiva paripālyo 'sau yadā vaśam upāgataḥ // YajñS_1.343
+
+mantramūlaṃ yato rājyaṃ tasmān mantraṃ surakṣitam /
+kuryād yathāsya na viduḥ karmaṇām āphalodayāt // YajñS_1.344
+
+arir mitram udāsīno 'nantaras tatparaḥ paraḥ /
+kramaśo maṇḍalaṃ cintyaṃ sāmādibhir upakramaiḥ // YajñS_1.345
+
+upāyāḥ sāma dānaṃ ca bhedo daṇḍas tathaiva ca /
+samyakprayuktāḥ sidhyeyur daṇḍas tv agatikā gatiḥ // YajñS_1.346
+
+saṃdhiṃ ca vigrahaṃ yānam āsanaṃ saṃśrayaṃ tathā /
+dvaidhībhāvaṃ guṇān etān yathāvat parikalpayet // YajñS_1.347
+
+yadā sasyaguṇopetaṃ pararāṣṭraṃ tadā vrajet /
+paraś ca hīna ātmā ca hṛṣṭavāhanapūruṣaḥ // YajñS_1.348
+
+daive puruṣakāre ca karmasiddhir vyavasthitā /
+tatra daivam abhivyaktaṃ pauruṣaṃ paurvadehikam // YajñS_1.349
+
+kecid daivāt svabhāvād vā kālāt puruṣakārataḥ /
+saṃyoge kecid icchanti phalaṃ kuśalabuddhayaḥ // YajñS_1.350
+
+yathā hy ekena cakreṇa rathasya na gatir bhavet /
+evaṃ puruṣakāreṇa vinā daivaṃ na sidhyati // YajñS_1.351
+
+hiraṇyabhūmilābhebhyo mitralabdhir varā yataḥ /
+ato yateta tatprāptyai rakṣet satyaṃ samāhitaḥ // YajñS_1.352
+
+svāmy amātyā jano durgaṃ kośo daṇḍas tathaiva ca /
+mitrāṇy etāḥ prakṛtayo rājyaṃ saptāṅgam ucyate // YajñS_1.353
+
+tad avāpya nṛpo daṇḍaṃ durvṛtteṣu nipātayet /
+dharmo hi daṇḍarūpeṇa brahmaṇā nirmitaḥ purā // YajñS_1.354
+
+sa netuṃ nyāyato 'śakyo lubdhenākṛtabuddhinā /
+satyasaṃdhena śucinā susahāyena dhīmatā // YajñS_1.355
+
+yathāśāstraṃ prayuktaḥ san sadevāsuramānavam /
+jagad ānandayet sarvam anyathā tat prakopayet // YajñS_1.356
+
+adharmadaṇḍanaṃ svargakīrtilokavināśanam /
+samyak tu daṇḍanaṃ rājñaḥ svargakīrtijayāvaham // YajñS_1.357
+
+api bhrātā suto 'rghyo vā śvaśuro mātulo 'pi vā /
+nādaṇḍyo nāma rājño 'sti dharmād vicalitaḥ svakāt // YajñS_1.358
+
+yo daṇḍyān daṇḍayed rājā samyag vadhyāṃś ca ghātayet /
+iṣṭaṃ syāt kratubhis tena samāptavaradakṣiṇaiḥ // YajñS_1.359
+
+iti saṃcintya nṛpatiḥ kratutulyaphalaṃ pṛthak /
+vyavahārān svayaṃ paśyet sabhyaiḥ parivṛto 'nvaham // YajñS_1.360
+
+kulāni jātīḥ śreṇīś ca gaṇān jānapadān api /
+svadharmāc calitān rājā vinīya sthāpayet pathi // YajñS_1.361
+
+jālasūryamarīcisthaṃ trasareṇū rajaḥ smṛtam /
+te 'ṣṭau likṣā tu tās tisro rājasarṣapa ucyate // YajñS_1.362
+
+gauras tu te trayaḥ ṣaṭ te yavo madhyas tu te trayaḥ /
+kṛṣṇalaḥ pañca te māṣas te suvarṇas tu ṣoḍaśa // YajñS_1.363
+
+palaṃ suvarṇāś catvāraḥ pañca vāpi prakīrtitam /
+dve kṛṣṇale rūpyamāṣo dharaṇaṃ ṣoḍaśaiva te // YajñS_1.364
+
+śatamānaṃ tu daśabhir dharaṇaiḥ palam eva tu /
+niṣkaṃ suvarṇāś catvāraḥ kārṣikas tāmrikaḥ paṇaḥ // YajñS_1.365
+
+sāśītipaṇasāhasro daṇḍa uttamasāhasaḥ /
+tadardhaṃ madhyamaḥ proktas tadardham adhamaḥ smṛtaḥ // YajñS_1.366
+
+dhigdaṇḍas tv atha vāgdaṇḍo dhanadaṇḍo vadhas tathā /
+yojyā vyastāḥ samastā vā hy aparādhavaśād ime // YajñS_1.367
+
+jñātvāparādhaṃ deśaṃ ca kālaṃ balam athāpi vā /
+vayaḥ karma ca vittaṃ ca daṇḍaṃ daṇḍyeṣu pātayet // YajñS_1.368
+
+
+ii. vyavahārādhyāya
+
+vyavahārān nṛpaḥ paśyed vidvadbhir brāhmaṇaiḥ saha /
+dharmaśāstrānusāreṇa krodhalobhavivarjitaḥ // YajñS_2.1
+
+śrutādhyayanasaṃpannā dharmajñāḥ satyavādinaḥ /
+rājñā sabhāsadaḥ kāryā ripau mitre ca ye samāḥ // YajñS_2.2
+
+apaśyatā kāryavaśād vyavahārān nṛpeṇa tu /
+sabhyaiḥ saha niyoktavyo brāhmaṇaḥ sarvadharmavit // YajñS_2.3
+
+rāgāl lobhād bhayād vāpi smṛtyapetādikāriṇaḥ /
+sabhyāḥ pṛthak pṛthag daṇḍyā vivādād dviguṇaṃ damam // YajñS_2.4
+
+smṛtyācāravyapetena mārgeṇādharṣitaḥ paraiḥ /
+āvedayati ced rājñe vyavahārapadaṃ hi tat // YajñS_2.5
+
+pratyarthino 'grato lekhyaṃ yathāveditam arthinā /
+samāmāsatadardhāharnāmajātyādicihnitam // YajñS_2.6
+
+śrutārthasyottaraṃ lekhyaṃ pūrvāvedakasaṃnidhau /
+tato 'rthī lekhayet sadyaḥ pratijñātārthasādhanam // YajñS_2.7
+
+tatsiddhau siddhim āpnoti viparītam ato 'nyathā /
+catuṣpād vyavahāro 'yaṃ vivādeṣūpadarśitaḥ // YajñS_2.8
+
+abhiyogam anistīrya nainaṃ pratyabhiyojayet /
+abhiyuktaṃ ca nānyena noktaṃ viprakṛtiṃ nayet // YajñS_2.9
+
+kuryāt pratyabhiyogaṃ ca kalahe sāhaseṣu ca /
+ubhayoḥ pratibhūr grāhyaḥ samarthaḥ kāryanirṇaye // YajñS_2.10
+
+nihnave bhāvito dadyād dhanaṃ rājñe ca tatsamam /
+mithyābhiyogī dviguṇam abhiyogād dhanaṃ vahet // YajñS_2.11
+
+sāhasasteyapāruṣyago'bhiśāpātyaye striyām /
+vivādayet sadya eva kālo 'nyatrecchayā smṛtaḥ // YajñS_2.12
+
+deśād deśāntaraṃ yāti sṛkkiṇī parileḍhi ca /
+lalāṭaṃ svidyate cāsya mukhaṃ vaivarṇyam eti ca // YajñS_2.13
+
+pariśuṣyatskhaladvākyo viruddhaṃ bahu bhāṣite /
+vākcakṣuḥ pūjayati no tathauṣṭhau nirbhujaty api // YajñS_2.14
+
+svabhāvād vikṛtiṃ gacchen manovākkāyakarmabhiḥ /
+abhiyoge 'tha sākṣye vā duṣṭaḥ sa parikīrtitaḥ // YajñS_2.15
+
+saṃdigdhārthaṃ svatantro yaḥ sādhayed yaś ca niṣpatet /
+na cāhūto vadet kiṃcid dhīno daṇḍyaś ca sa smṛtaḥ // YajñS_2.16
+
+sākṣiṣūbhayataḥ satsu sākṣiṇaḥ pūrvavādinaḥ /
+pūrvapakṣe 'dharībhūte bhavanty uttaravādinaḥ // YajñS_2.17
+
+sapaṇaś ced vivādaḥ syāt tatra hīnaṃ tu dāpayet /
+daṇḍaṃ ca svapaṇaṃ caiva dhanine dhanam eva ca // YajñS_2.18
+
+chalaṃ nirasya bhūtena vyavahārān nayen nṛpaḥ /
+bhūtam apy anupanyastaṃ hīyate vyavahārataḥ // YajñS_2.19
+
+nihnute likhitaṃ naikam ekadeśe vibhāvitaḥ /
+dāpyaḥ sarvaṃ nṛpeṇārthaṃ na grāhyas tv aniveditaḥ // YajñS_2.20
+
+smṛtyor virodhe nyāyas tu balavān vyavahārataḥ /
+arthaśāstrāt tu balavad dharmaśāstram iti sthitiḥ // YajñS_2.21
+
+pramāṇaṃ likhitaṃ bhuktiḥ sākṣiṇaś ceti kīrtitam /
+eṣām anyatamābhāve divyānyatamam ucyate // YajñS_2.22
+
+sarveṣv arthavivādeṣu balavaty uttarākriyā /
+ādhau pratigrahe krīte pūrvā tu balavattarā // YajñS_2.23
+
+paśyato 'bruvato bhūmer hānir viṃśativārṣikī /
+pareṇa bhujyamānāyā dhanasya daśavārṣikī // YajñS_2.24
+
+ādhisīmopanikṣepajaḍabāladhanair vinā /
+tathopanidhirājastrīśrotriyāṇāṃ dhanair api // YajñS_2.25
+
+ādhyādīnāṃ vihartāraṃ dhanine dāpayed dhanam /
+daṇḍaṃ ca tatsamaṃ rājñe śaktyapekṣam athāpi vā // YajñS_2.26
+
+āgamo 'bhyadhiko bhogād vinā pūrvakramāgatāt /
+āgame 'pi balaṃ naiva bhuktiḥ stokāpi yatra no // YajñS_2.27
+
+āgamas tu kṛto yena so 'bhiyuktas tam uddharet /
+na tatsutas tatsuto vā bhuktis tatra garīyasī // YajñS_2.28
+
+yo 'bhiyuktaḥ paretaḥ syāt tasya rikthī tam uddharet /
+na tatra kāraṇaṃ bhuktir āgamena vinākṛtā // YajñS_2.29
+
+nṛpeṇādhikṛtāḥ pūgāḥ śreṇayo 'tha kulāni ca /
+pūrvaṃ pūrvaṃ guru jñeyaṃ vyavahāravidhau nṛṇām // YajñS_2.30
+
+balopādhivinirvṛttān vyavahārān nivartayet /
+strīnaktamantarāgārabahiḥśatrukṛtāṃs tathā // YajñS_2.31
+
+mattonmattārtavyasanibālabhītādiyojitaḥ /
+asaṃbaddhakṛtaś caiva vyavahāro na sidhyati // YajñS_2.32
+
+pranaṣṭādhigataṃ deyaṃ nṛpeṇa dhanine dhanam /
+vibhāvayen na cel liṅgais tatsamaṃ daṇḍam arhati // YajñS_2.33
+
+rājā labdhvā nidhiṃ dadyād dvijebhyo 'rdhaṃ dvijaḥ punaḥ /
+vidvān aśeṣam ādadyāt sa sarvasya prabhur yataḥ // YajñS_2.34
+
+itareṇa nidhau labdhe rājā ṣaṣṭhāṃśam āharet /
+aniveditavijñāto dāpyas taṃ daṇḍam eva ca // YajñS_2.35
+
+deyaṃ caurahṛtaṃ dravyaṃ rājñā jānapadāya tu /
+adadad dhi samāpnoti kilbiṣaṃ yasya tasya tat // YajñS_2.36
+
+aśītibhāgo vṛddhiḥ syān māsi māsi sabandhake /
+varṇakramāc chataṃ dvitricatuṣpañcakam anyathā // YajñS_2.37
+
+kāntāragās tu daśakaṃ sāmudrā viṃśakaṃ śatam /
+dadyur vā svakṛtāṃ vṛddhiṃ sarve sarvāsu jātiṣu // YajñS_2.38
+
+saṃtatis tu paśustrīṇāṃ rasasyāṣṭaguṇā parā /
+vastradhānyahiraṇyānāṃ catustridviguṇā parā // YajñS_2.39
+
+prapannaṃ sādhayann arthaṃ na vācyo nṛpater bhavet /
+sādhyamāno nṛpaṃ gacchan daṇḍyo dāpyaś ca taddhanam // YajñS_2.40
+
+gṛhītānukramād dāpyo dhaninām adhamarṇikaḥ /
+dattvā tu brāhmaṇāyaiva nṛpates tadanantaram // YajñS_2.41
+
+rājñādhamarṇiko dāpyaḥ sādhitād daśakaṃ śatam /
+pañcakaṃ ca śataṃ dāpyaḥ prāptārtho hy uttamarṇikaḥ // YajñS_2.42
+
+hīnajātiṃ parikṣīṇam ṛṇārthaṃ karma kārayet /
+brāhmaṇas tu parikṣīṇaḥ śanair dāpyo yathodayam // YajñS_2.43
+
+dīyamānaṃ na gṛhṇāti prayuktaṃ yaḥ svakaṃ dhanam /
+madhyasthasthāpitaṃ cet syād vardhate na tataḥ param // YajñS_2.44
+
+avibhaktaiḥ kuṭumbārthe yad ṛṇaṃ tu kṛtaṃ bhavet /
+dadyus tad rikthinaḥ prete proṣite vā kuṭumbini // YajñS_2.45
+
+na yoṣitpatiputrābhyāṃ na putreṇa kṛtaṃ pitā /
+dadyād ṛte kuṭumbārthān na patiḥ strīkṛtaṃ tathā // YajñS_2.46
+
+surākāmadyūtakṛtaṃ daṇḍaśulkāvaśiṣṭakam /
+vṛthādānaṃ tathaiveha putro dadyān na paitṛkam // YajñS_2.47
+
+gopaśauṇḍikaśailūṣarajakavyādhayoṣitām /
+ṛṇaṃ dadyāt patis teṣāṃ yasmād vṛttis tadāśrayā // YajñS_2.48
+
+pratipannaṃ striyā deyaṃ patyā vā saha yat kṛtam /
+svayaṃkṛtaṃ vā yad ṛṇaṃ nānyat strī dātum arhati // YajñS_2.49
+
+pitari proṣite prete vyasanābhiplute 'pi vā /
+putrapautrair ṛṇaṃ deyaṃ nihnave sākṣibhāvitam // YajñS_2.50
+
+rikthagrāha ṛṇaṃ dāpyo yoṣidgrāhas tathaiva ca /
+putro 'nanyāśritadravyaḥ putrahīnasya rikthinaḥ // YajñS_2.51
+
+bhrātṝṇām atha daṃpatyoḥ pituḥ putrasya caiva hi /
+prātibhāvyam ṛṇaṃ sākṣyam avibhakte na tu smṛtam // YajñS_2.52
+
+darśane pratyaye dāne prātibhāvyaṃ vidhīyate /
+ādyau tu vitathe dāpyāv itarasya sutā api // YajñS_2.53
+
+darśanapratibhūr yatra mṛtaḥ prātyayiko 'pi vā /
+na tatputrā ṛṇaṃ dadyur dadyur dānāya yaḥ sthitaḥ // YajñS_2.54
+
+bahavaḥ syur yadi svāṃśair dadyuḥ pratibhuvo dhanam /
+ekacchāyāśriteṣv eṣu dhanikasya yathāruci // YajñS_2.55
+
+pratibhūr dāpito yat tu prakāśaṃ dhanino dhanam /
+dviguṇaṃ pratidātavyam ṛṇikais tasya tad bhavet // YajñS_2.56
+
+saṃtatiḥ strīpaśuṣv eva dhānyaṃ triguṇam eva ca /
+vastraṃ caturguṇaṃ proktaṃ rasaś cāṣṭaguṇas tathā // YajñS_2.57
+
+ādhiḥ praṇaśyed dviguṇe dhane yadi na mokṣyate /
+kāle kālakṛto naśyet phalabhogyo na naśyati // YajñS_2.58
+
+gopyādhibhoge no vṛddhiḥ sopakāre ca hāpite /
+naṣṭo deyo vinaṣṭaś ca daivarājakṛtād ṛte // YajñS_2.59
+
+ādheḥ svīkaraṇāt siddhī rakṣyamāṇo 'py asāratām /
+yātaś ced anya ādheyo dhanabhāg vā dhanī bhavet // YajñS_2.60
+
+caritrabandhakakṛtaṃ sa vṛddhyā dāpayed dhanam /
+satyaṃkārakṛtaṃ dravyaṃ dviguṇaṃ pratidāpayet // YajñS_2.61
+
+upasthitasya moktavya ādhiḥ steno 'nyathā bhavet /
+prayojake 'sati dhanaṃ kule nyasyādhim āpnuyāt // YajñS_2.62
+
+tatkālakṛtamūlyo vā tatra tiṣṭhed avṛddhikaḥ /
+vinā dhāraṇakād vāpi vikrīṇīta sasākṣikam // YajñS_2.63
+
+yadā tu dviguṇībhūtam ṛṇam ādhau tadā khalu /
+mocya ādhis tadutpanne praviṣṭe dviguṇe dhane // YajñS_2.64
+
+vāsanastham anākhyāya haste 'nyasya yad arpyate /
+dravyaṃ tad aupanidhikaṃ pratideyaṃ tathaiva tat // YajñS_2.65
+
+na dāpyo 'pahṛtaṃ taṃ tu rājadaivikataskaraiḥ /
+bhreṣaś cen mārgite 'adatte dāpyo daṇḍaṃ ca tatsamam // YajñS_2.66
+
+ājīvan svecchayā daṇḍyo dāpyas taṃ cāpi sodayam /
+yācitānvāhitanyāsanikṣepādiṣv ayaṃ vidhiḥ // YajñS_2.67
+
+tapasvino dānaśīlāḥ kulīnāḥ satyavādinaḥ /
+dharmapradhānā ṛjavaḥ putravanto dhanānvitāḥ // YajñS_2.68
+
+tryavarāḥ sākṣiṇo jñeyāḥ śrautasmārtakriyāparāḥ /
+yathājāti yathāvarṇaṃ sarve sarveṣu vā smṛtāḥ // YajñS_2.69
+
+strībālavṛddhakitavamattonmattābhiśastakāḥ /
+raṅgāvatāripākhaṇḍikūṭakṛdvikalendriyāḥ // YajñS_2.70
+
+patitāptārthasaṃbandhisahāyariputaskarāḥ /
+sāhasī dṛṣṭadoṣaś ca nirdhūtādyās tv asākṣiṇaḥ // YajñS_2.71
+
+ubhayānumataḥ sākṣī bhavaty eko 'pi dharmavit /
+sarvaḥ sākṣī saṃgrahaṇe cauryapāruṣyasāhase // YajñS_2.72
+
+sākṣiṇaḥ śrāvayed vādiprativādisamīpagān /
+ye pātakakṛtāṃ lokā mahāpātakināṃ tathā // YajñS_2.73
+
+agnidānāṃ ca ye lokā ye ca strībālaghātinām /
+sa tān sarvān avāpnoti yaḥ sākṣyam anṛtaṃ vadet // YajñS_2.74
+
+sukṛtaṃ yat tvayā kiṃcij janmāntaraśataiḥ kṛtam /
+tat sarvaṃ tasya jānīhi yaṃ parājayase mṛṣā // YajñS_2.75
+
+abruvan hi naraḥ sākṣyam ṛṇaṃ sadaśabandhakam /
+rājñā sarvaṃ pradāpyaḥ syāt ṣaṭcatvāriṃśake 'hani // YajñS_2.76
+
+na dadāti hi yaḥ sākṣyaṃ jānann api narādhamaḥ /
+sa kūṭasākṣiṇāṃ pāpais tulyo daṇḍena caiva hi // YajñS_2.77
+
+dvaidhe bahūnāṃ vacanaṃ sameṣu guṇināṃ tathā /
+guṇidvaidhe tu vacanaṃ grāhyaṃ ye guṇavattamāḥ // YajñS_2.78
+
+yasyocuḥ sākṣiṇaḥ satyāṃ pratijñāṃ sa jayī bhavet /
+anyathā vādino yasya dhruvas tasya parājayaḥ // YajñS_2.79
+
+ukte 'pi sākṣibhiḥ sākṣye yady anye guṇavattamāḥ /
+dviguṇā vānyathā brūyuḥ kūṭāḥ syuḥ pūrvasākṣiṇaḥ // YajñS_2.80
+
+pṛthak pṛthag daṇḍanīyāḥ kūṭakṛt sākṣiṇas tathā /
+vivādād dviguṇaṃ daṇḍaṃ vivāsyo brāhmaṇaḥ smṛtaḥ // YajñS_2.81
+
+yaḥ sākṣyaṃ śrāvito 'nyebhyo nihnute tat tamovṛtaḥ /
+sa dāpyo 'ṣṭaguṇaṃ daṇḍaṃ brāhmaṇaṃ tu vivāsayet // YajñS_2.82
+
+varṇināṃ hi vadho yatra tatra sākṣy anṛtaṃ vadet /
+tatpāvanāya nirvāpyaś caruḥ sārasvato dvijaiḥ // YajñS_2.83
+
+yaḥ kaścid artho niṣṇātaḥ svarucyā tu parasparam /
+lekhyaṃ tu sākṣimat kāryaṃ tasmin dhanikapūrvakam // YajñS_2.84
+
+samāmāsatadardhāharnāmajātisvagotrakaiḥ /
+sabrahmacārikātmīyapitṛnāmādicihnitam // YajñS_2.85
+
+samāpte 'rthe ṛṇī nāma svahastena niveśayet /
+mataṃ me 'mukaputrasya yad atropari lekhitam // YajñS_2.86
+
+sākṣiṇaś ca svahastena pitṛnāmakapūrvakam /
+atrāham amukaḥ sākṣī likheyur iti te samāḥ // YajñS_2.87
+
+ubhayābhyarthitenaitan mayā hy amukasūnunā /
+likhitaṃ hy amukeneti lekhako 'nte tato likhet // YajñS_2.88
+
+vināpi sākṣibhir lekhyaṃ svahastalikhitaṃ tu yat /
+tat pramāṇaṃ smṛtaṃ lekhyaṃ balopadhikṛtād ṛte // YajñS_2.89
+
+ṛṇaṃ lekhyakṛtaṃ deyaṃ puruṣais tribhir eva tu /
+ādhis tu bhujyate tāvad yāvat tan na pradīyate // YajñS_2.90
+
+deśāntarasthe durlekhye naṣṭonmṛṣṭe hṛte tathā /
+bhinne dagdhe 'thavā chinne lekhyam anyat tu kārayet // YajñS_2.91
+
+saṃdigdhalekhyaśuddhiḥ syāt svahastalikhitādibhiḥ /
+yuktiprāptikriyācihnasaṃbandhāgamahetubhiḥ // YajñS_2.92
+
+lekhyasya pṛṣṭhe 'bhilikhed dattvā dattvā rṇiko dhanam /
+dhanī vopagataṃ dadyāt svahastaparicihnitam // YajñS_2.93
+
+dattvā rṇaṃ pāṭayel lekhyaṃ śuddhyai vānyat tu kārayet /
+sākṣimac ca bhaved yad vā tad dātavyaṃ sasākṣikam // YajñS_2.94
+
+tulāgnyāpo viṣaṃ kośo divyānīha viśuddhaye /
+mahābhiyogeṣv etāni śīrṣakasthe 'bhiyoktari // YajñS_2.95
+
+rucyā vānyataraḥ kuryād itaro vartayec chiraḥ /
+vināpi śīrṣakāt kuryān nṛpadrohe 'tha pātake // YajñS_2.96
+
+sacailaṃ snātam āhūya sūryodaya upoṣitam /
+kārayet sarvadivyāni nṛpabrāhmaṇasaṃnidhau // YajñS_2.97
+
+tulā strībālavṛddhāndhapaṅgubrāhmaṇarogiṇām /
+agnir jalaṃ vā śūdrasya yavāḥ sapta viṣasya vā // YajñS_2.98
+
+nāsahasrād dharet phālaṃ na viṣaṃ na tulāṃ tathā /
+nṛpārtheṣv abhiśāpe ca vaheyuḥ śucayaḥ sadā // YajñS_2.99
+
+tulādhāraṇavidvadbhir abhiyuktas tulāśritaḥ /
+pratimānasamībhūto rekhāṃ kṛtvāvatāritaḥ // YajñS_2.100
+
+tvaṃ tule satyadhāmāsi purā devair vinirmitā /
+tat satyaṃ vada kalyāṇi saṃśayān māṃ vimocaya // YajñS_2.101
+
+yady asmi pāpakṛn mātas tato māṃ tvam adho naya /
+śuddhaś ced gamayordhvaṃ māṃ tulām ity abhimantrayet // YajñS_2.102
+
+karau vimṛditavrīher lakṣayitvā tato nyaset /
+saptāśvatthasya patrāṇi tāvat sūtreṇa veṣṭayet // YajñS_2.103
+
+tvam agne sarvabhūtānām antaś carasi pāvaka /
+sākṣivat puṇyapāpebhyo brūhi satyaṃ kave mama // YajñS_2.104
+
+tasyety uktavato lauhaṃ pañcāśat palikaṃ samam /
+agnivarṇaṃ nyaset piṇḍaṃ hastayor ubhayor api // YajñS_2.105
+
+sa tam ādāya saptaiva maṇḍalāni śanair vrajet /
+ṣoḍaśāṅgulakaṃ jñeyaṃ maṇḍalaṃ tāvad antaram // YajñS_2.106
+
+muktvāgniṃ mṛditavrīhir adagdhaḥ śuddhim āpnuyāt /
+antarā patite piṇḍe saṃdehe vā punar haret // YajñS_2.107
+
+satyena mābhirakṣa tvaṃ varuṇety abhiśāpya kam /
+nābhidaghnodakasthasya gṛhītvorū jalaṃ vaśet // YajñS_2.108
+
+samakālam iṣuṃ muktam ānīyānyo javī naraḥ /
+gate tasmin nimagnāṅgaṃ paśyec cec chuddhim āpnuyāt // YajñS_2.109
+
+tvaṃ viṣa brahmaṇaḥ putraḥ satyadharme vyavasthitaḥ /
+trāyasvāsmād abhīśāpāt satyena bhava me 'mṛtam // YajñS_2.110
+
+evam uktvā viṣaṃ śārṅgaṃ bhakṣayed dhimaśailajam /
+yasya vegair vinā jīryec chuddhiṃ tasya vinirdiśet // YajñS_2.111
+
+devān ugrān samabhyarcya tatsnānodakam āharet /
+saṃsrāvya pāyayet tasmāj jalaṃ tu prasṛtitrayam // YajñS_2.112
+
+arvāk caturdaśād ahno yasya no rājadaivikam /
+vyasanaṃ jāyate ghoraṃ sa śuddhaḥ syān na saṃśayaḥ // YajñS_2.113
+
+vibhāgaṃ cet pitā kuryād icchayā vibhajet sutān /
+jyeṣṭhaṃ vā śreṣṭhabhāgena sarve vā syuḥ samāṃśinaḥ // YajñS_2.114
+
+yadi kuryāt samān aṃśān patnyaḥ kāryāḥ samāṃśikāḥ /
+na dattaṃ strīdhanaṃ yāsāṃ bhartrā vā śvaśureṇa vā // YajñS_2.115
+
+śaktasyānīhamānasya kiṃcid dattvā pṛthak kriyā /
+nyūnādhikavibhaktānāṃ dharmyaḥ pitṛkṛtaḥ smṛtaḥ // YajñS_2.116
+
+vibhajeran sutāḥ pitror ūrdhvaṃ riktham ṛṇaṃ samam /
+mātur duhitaraḥ śeṣam ṛṇāt tābhya ṛte 'nvayaḥ // YajñS_2.117
+
+pitṛdravyāvirodhena yad anyat svayam arjitam /
+maitramaudvāhikaṃ caiva dāyādānāṃ na tad bhavet // YajñS_2.118
+
+kramād abhyāgataṃ dravyaṃ hṛtam apy uddharet tu yaḥ /
+dāyādebhyo na tad dadyād vidyayā labdham eva ca // YajñS_2.119
+
+sāmānyārthasamutthāne vibhāgas tu samaḥ smṛtaḥ /
+anekapitṛkāṇāṃ tu pitṛto bhāgakalpanā // YajñS_2.120
+
+bhūr yā pitāmahopāttā nibandho dravyam eva vā /
+tatra syāt sadṛśaṃ svāmyaṃ pituḥ putrasya caiva hi // YajñS_2.121
+
+vibhakteṣu suto jātaḥ savarṇāyāṃ vibhāgabhāk /
+dṛśyād vā tad vibhāgaḥ syād āyavyayaviśodhitāt // YajñS_2.122
+
+pitṛbhyāṃ yasya tad dattaṃ tat tasyaiva dhanaṃ bhavet /
+pitur ūrdhvaṃ vibhajatāṃ mātāpy aṃśaṃ samaṃ haret // YajñS_2.123
+
+asaṃskṛtās tu saṃskāryā bhrātṛbhiḥ pūrvasaṃskṛtaiḥ /
+bhaginyaś ca nijād aṃśād dattvāṃśaṃ tu turīyakam // YajñS_2.124
+
+catustridvyekabhāgāḥ syur varṇaśo brāhmaṇātmajāḥ /
+kṣatrajās tridvyekabhāgā viḍjās tu dvyekabhāginaḥ // YajñS_2.125
+
+anyonyāpahṛtaṃ dravyaṃ vibhakte yat tu dṛśyate /
+tat punas te samair aṃśair vibhajerann iti sthitiḥ // YajñS_2.126
+
+aputreṇa parakṣetre niyogotpāditaḥ sutaḥ /
+ubhayor apy asau rikthī piṇḍadātā ca dharmataḥ // YajñS_2.127
+
+auraso dharmapatnījas tatsamaḥ putrikāsutaḥ /
+kṣetrajaḥ kṣetrajātas tu sagotreṇetareṇa vā // YajñS_2.128
+
+gṛhe pracchanna utpanno gūḍhajas tu sutaḥ smṛtaḥ /
+kānīnaḥ kanyakājāto mātāmahasuto mataḥ // YajñS_2.129
+
+akṣatāyāṃ kṣatāyāṃ vā jātaḥ paunarbhavaḥ sutaḥ /
+dadyān mātā pitā vā yaṃ sa putro dattako bhavet // YajñS_2.130
+
+krītaś ca tābhyāṃ vikrītaḥ kṛtrimaḥ syāt svayaṃkṛtaḥ /
+dattvātmā tu svayaṃdatto garbhe vinnaḥ sahoḍhajaḥ // YajñS_2.131
+
+utsṛṣṭo gṛhyate yas tu so 'paviddho bhavet sutaḥ /
+piṇḍado 'ṃśaharaś caiṣāṃ pūrvābhāve paraḥ paraḥ // YajñS_2.132
+
+sajātīyeṣv ayaṃ proktas tanayeṣu mayā vidhiḥ /
+jāto 'pi dāsyāṃ śūdreṇa kāmato 'ṃśaharo bhavet // YajñS_2.133
+
+mṛte pitari kuryus taṃ bhrātaras tv ardhabhāgikam /
+abhrātṛko haret sarvaṃ duhitṝṇāṃ sutād ṛte // YajñS_2.134
+
+patnī duhitaraś caiva pitarau bhrātaras tathā /
+tatsutā gotrajā bandhuśiṣyasabrahmacāriṇaḥ // YajñS_2.135
+
+eṣām abhāve pūrvasya dhanabhāg uttarottaraḥ /
+svaryātasya hy aputrasya sarvavarṇeṣv ayaṃ vidhiḥ // YajñS_2.136
+
+vānaprasthayatibrahmacāriṇāṃ rikthabhāginaḥ /
+krameṇācāryasacchiṣyadharmabhrātrekatīrthinaḥ // YajñS_2.137
+
+saṃsṛṣṭinas tu saṃsṛṣṭī sodarasya tu sodaraḥ /
+dadyād apaharec cāṃśaṃ jātasya ca mṛtasya ca // YajñS_2.138
+
+anyodaryas tu saṃsṛṣṭī nānyodaryo dhanaṃ haret /
+asaṃsṛṣṭy api vādadyāt saṃsṛṣṭo nānyamātṛjaḥ // YajñS_2.139
+
+klībo 'tha patitas tajjaḥ paṅgur unmattako jaḍaḥ /
+andho 'cikitsyarogādyā bhartavyāḥ syur niraṃśakāḥ // YajñS_2.140
+
+aurasāḥ kṣetrajās tv eṣāṃ nirdoṣā bhāgahāriṇaḥ /
+sutāś caiṣāṃ prabhartavyā yāvad vai bhartṛsātkṛtāḥ // YajñS_2.141
+
+aputrā yoṣitaś caiṣāṃ bhartavyāḥ sādhuvṛttayaḥ /
+nirvāsyā vyabhicāriṇyaḥ pratikūlās tathaiva ca // YajñS_2.142
+
+pitṛmātṛpatibhrātṛdattam adhyagnyupāgatam /
+ādhivedanikādyaṃ ca strīdhanaṃ parikīrtitam // YajñS_2.143
+
+bandhudattaṃ tathā śulkam anvādheyakam eva ca /
+atītāyām aprajasi bāndhavās tad avāpnuyuḥ // YajñS_2.144
+
+aprajastrīdhanaṃ bhartur brāhmādiṣu caturṣv api /
+duhitṝṇāṃ prasūtā cec cheṣeṣu pitṛgāmi tat // YajñS_2.145
+
+dattvā kanyāṃ haran daṇḍyo vyayaṃ dadyāc ca sodayam /
+mṛtāyāṃ dattam ādadyāt pariśodhyobhayavyayam // YajñS_2.146
+
+durbhikṣe dharmakārye ca vyādhau saṃpratirodhake /
+gṛhītaṃ strīdhanaṃ bhartā na striyai dātum arhati // YajñS_2.147
+
+adhivinnastriyai dadyād ādhivedanikaṃ samam /
+na dattaṃ strīdhanaṃ yasyai datte tv ardhaṃ prakalpayet // YajñS_2.148
+
+vibhāganihnave jñātibandhusākṣyabhilekhitaiḥ /
+vibhāgabhāvanā jñeyā gṛhakṣetraiś ca yautakaiḥ // YajñS_2.149
+
+sīṃno vivāde kṣetrasya sāmantāḥ sthavirādayaḥ /
+gopāḥ sīmākṛṣāṇā ye sarve ca vanagocarāḥ // YajñS_2.150
+
+nayeyur ete sīmānaṃ sthalāṅgāratuṣadrumaiḥ /
+setuvalmīkaniṃnāsthicaityādyair upalakṣitām // YajñS_2.151
+
+sāmantā vā samagrāmāś catvāro 'ṣṭau daśāpi vā /
+raktasragvasanāḥ sīmāṃ nayeyuḥ kṣitidhāriṇaḥ // YajñS_2.152
+
+anṛte tu pṛthag daṇḍyā rājñā madhyamasāhasam /
+abhāve jñātṛcihnānāṃ rājā sīṃnaḥ pravartitā // YajñS_2.153
+
+ārāmāyatanagrāmanipānodyānaveśmasu /
+eṣa eva vidhir jñeyo varṣāmbupravahādiṣu // YajñS_2.154
+
+maryādāyāḥ prabhede ca sīmātikramaṇe tathā /
+kṣetrasya haraṇe daṇḍā adhamottamamadhyamāḥ // YajñS_2.155
+
+na niṣedhyo 'lpabādhas tu setuḥ kalyāṇakārakaḥ /
+parabhūmiṃ haran kūpaḥ svalpakṣetrobahūdakaḥ // YajñS_2.156
+
+svāmine yo 'nivedyaiva kṣetre setuṃ pravartayet /
+utpanne svāmino bhogas tadabhāve mahīpateḥ // YajñS_2.157
+
+phālāhatam api kṣetraṃ na kuryād yo na kārayet /
+sa pradāpyaḥ kṛṣṭaphalaṃ kṣetram anyena kārayet // YajñS_2.158
+
+māṣān aṣṭau tu mahiṣī sasyaghātasya kāriṇī /
+daṇḍanīyā tadardhaṃ tu gaus tadardham ajāvikam // YajñS_2.159
+
+bhakṣayitvopaviṣṭānāṃ yathoktād dviguṇo damaḥ /
+samam eṣāṃ vivīte 'pi kharoṣṭraṃ mahiṣīsamam // YajñS_2.160
+
+yāvat sasyaṃ vinaśyet tu tāvat syāt kṣetriṇaḥ phalam /
+gopas tāḍyaś ca gomī tu pūrvoktaṃ daṇḍam arhati // YajñS_2.161
+
+pathi grāmavivītānte kṣetre doṣo na vidyate /
+akāmataḥ kāmacāre cauravad daṇḍam arhati // YajñS_2.162
+
+mahokṣotsṛṣṭapaśavaḥ sūtikāgantukādayaḥ /
+pālo yeṣāṃ na te mocyā daivarājapariplutāḥ // YajñS_2.163
+
+yathārpitān paśūn gopaḥ sāyaṃ pratyarpayet tathā /
+pramādamṛtanaṣṭāṃś ca pradāpyaḥ kṛtavetanaḥ // YajñS_2.164
+
+pāladoṣavināśe tu pāle daṇḍo vidhīyate /
+ardhatrayodaśapaṇaḥ svāmino dravyam eva ca // YajñS_2.165
+
+grāmyecchayā gopracāro bhūmirājavaśena vā /
+dvijas tṛṇaidhaḥpuṣpāṇi sarvataḥ sarvadā haret // YajñS_2.166
+
+dhanuḥśataṃ parīṇāho grāme kṣetrāntaraṃ bhavet /
+dve śate kharvaṭasya syān nagarasya catuḥśatam // YajñS_2.167
+
+svaṃ labhetānyavikrītaṃ kretur doṣo 'prakāśite /
+hīnād raho hīnamūlye velāhīne ca taskaraḥ // YajñS_2.168
+
+naṣṭāpahṛtam āsādya hartāraṃ grāhayen naram /
+deśakālātipattau ca gṛhītvā svayam arpayet // YajñS_2.169
+
+vikretur darśanāc chuddhiḥ svāmī dravyaṃ nṛpo damam /
+kretā mūlyam avāpnoti tasmād yas tasya vikrayī // YajñS_2.170
+
+āgamenopabhogena naṣṭaṃ bhāvyam ato 'nyathā /
+pañcabandho damas tasya rājñe tenāvibhāvite // YajñS_2.171
+
+hṛtaṃ pranaṣṭaṃ yo dravyaṃ parahastād avāpnuyāt /
+anivedya nṛpe daṇḍyaḥ sa tu ṣaṇṇavatiṃ paṇān // YajñS_2.172
+
+śaulkikaiḥ sthānapālair vā naṣṭāpahṛtam āhṛtam /
+arvāk saṃvatsarāt svāmī hareta parato nṛpaḥ // YajñS_2.173
+
+paṇān ekaśaphe dadyāc caturaḥ pañca mānuṣe /
+mahiṣoṣṭragavāṃ dvau dvau pādaṃ pādam ajāvike // YajñS_2.174
+
+svaṃ kuṭumbāvirodhena deyaṃ dārasutād ṛte /
+nānvaye sati sarvasvaṃ yac cānyasmai pratiśrutam // YajñS_2.175
+
+pratigrahaḥ prakāśaḥ syāt sthāvarasya viśeṣataḥ /
+deyaṃ pratiśrutaṃ caiva dattvā nāpaharet punaḥ // YajñS_2.176
+
+daśaikapañcasaptāhamāsatryahārdhamāsikam /
+bījāyovāhyaratnastrīdohyapuṃsāṃ parīkṣaṇam // YajñS_2.177
+
+agnau suvarṇam akṣīṇaṃ rajate dvipalaṃ śate /
+aṣṭau trapuṇi sīse ca tāmre pañca daśāyasi // YajñS_2.178
+
+śate daśapalā vṛddhir aurṇe kārpāsasautrike /
+madhye pañcapalā vṛddhiḥ sūkṣme tu tripalā matā // YajñS_2.179
+
+kārmike romabaddhe ca triṃśadbhāgaḥ kṣayo mataḥ /
+na kṣayo na ca vṛddhiś ca kauśeye vālkaleṣu ca // YajñS_2.180
+
+deśaṃ kālaṃ ca bhogaṃ ca jñātvā naṣṭe balābalam /
+dravyāṇāṃ kuśalā brūyur yat tad dāpyam asaṃśayam // YajñS_2.181
+
+balāddāsīkṛtaś caurair vikrītaś cāpi mucyate /
+svāmiprāṇaprado bhaktatyāgāt tan niṣkrayād api // YajñS_2.182
+
+pravrajyāvasito rājño dāsa āmaraṇāntikam /
+varṇānām ānulomyena dāsyaṃ na pratilomataḥ // YajñS_2.183
+
+kṛtaśilpo 'pi nivaset kṛtakālaṃ guror gṛhe /
+antevāsī guruprāptabhojanas tatphalapradaḥ // YajñS_2.184
+
+rājā kṛtvā pure sthānaṃ brāhmaṇān nyasya tatra tu /
+traividyaṃ vṛttimad brūyāt svadharmaḥ pālyatām iti // YajñS_2.185
+
+nijadharmāvirodhena yas tu samayiko bhavet /
+so 'pi yatnena saṃrakṣyo dharmo rājakṛtaś ca yaḥ // YajñS_2.186
+
+gaṇadravyaṃ hared yas tu saṃvidaṃ laṅghayec ca yaḥ /
+sarvasvaharaṇaṃ kṛtvā taṃ rāṣṭrād vipravāsayet // YajñS_2.187
+
+kartavyaṃ vacanaṃ sarvaiḥ samūhahitavādinām /
+yas tatra viparītaḥ syāt sa dāpyaḥ prathamaṃ damam // YajñS_2.188
+
+samūhakārya āyātān kṛtakāryān visarjayet /
+sa dānamānasatkāraiḥ pūjayitvā mahīpatiḥ // YajñS_2.189
+
+samūhakāryaprahito yal labheta tad arpayet /
+ekādaśaguṇaṃ dāpyo yady asau nārpayet svayam // YajñS_2.190
+
+dharmajñāḥ śucayo 'lubdhā bhaveyuḥ kāryacintakāḥ /
+kartavyaṃ vacanaṃ teṣāṃ samūhahitavādinām // YajñS_2.191
+
+śreṇinaigamapākhaṇḍagaṇānām apy ayaṃ vidhiḥ /
+bhedaṃ caiṣāṃ nṛpo rakṣet pūrvavṛttiṃ ca pālayet // YajñS_2.192
+
+gṛhītavetanaḥ karma tyajan dviguṇam āvahet /
+agṛhīte samaṃ dāpyo bhṛtyai rakṣya upaskaraḥ // YajñS_2.193
+
+dāpyas tu daśamaṃ bhāgaṃ vāṇijyapaśusasyataḥ /
+aniścitya bhṛtiṃ yas tu kārayet sa mahīkṣitā // YajñS_2.194
+
+deśaṃ kālaṃ ca yo 'tīyāl lābhaṃ kuryāc ca yo 'nyathā /
+tatra syāt svāminaś chando 'dhikaṃ deyaṃ kṛte 'dhike // YajñS_2.195
+
+yo yāvat kurute karma tāvat tasya tu vetanam /
+ubhayor apy asādhyaṃ cet sādhye kuryād yathāśrutam // YajñS_2.196
+
+arājadaivikaṃ naṣṭaṃ bhāṇḍaṃ dāpyas tu vāhakaḥ /
+prasthānavighnakṛc caiva pradāpyo dviguṇāṃ bhṛtim // YajñS_2.197
+
+prakrānte saptamaṃ bhāgaṃ caturthaṃ pathi saṃtyajan /
+bhṛtim ardhapathe sarvāṃ pradāpyas tyājako 'pi ca // YajñS_2.198
+
+glahe śatikavṛddhes tu sabhikaḥ pañcakaṃ śatam /
+gṛhṇīyād dhūrtakitavād itarād daśakaṃ śatam // YajñS_2.199
+
+sa samyakpālito dadyād rājñe bhāgaṃ yathākṛtam /
+jitam udgrāhayej jetre dadyāt satyaṃ vacaḥ kṣamī // YajñS_2.200
+
+prāpte nṛpatinā bhāge prasiddhe dhūrtamaṇḍale /
+jitaṃ sasabhike sthāne dāpayed anyathā na tu // YajñS_2.201
+
+draṣṭāro vyavahārāṇāṃ sākṣiṇaś ca ta eva hi /
+rājñā sacihnaṃ nirvāsyāḥ kūṭākṣopadhidevinaḥ // YajñS_2.202
+
+dyūtam ekamukhaṃ kāryaṃ taskarajñānakāraṇāt /
+eṣa eva vidhir jñeyaḥ prāṇidyūte samāhvaye // YajñS_2.203
+
+satyāsatyānyathāstotrair nyūnāṅgendriyarogiṇām /
+kṣepaṃ karoti ced daṇḍyaḥ paṇān ardhatrayodaśān // YajñS_2.204
+
+abhigantāsmi bhaginīṃ mātaraṃ vā taveti ha /
+śapantaṃ dāpayed rājā pañcaviṃśatikaṃ damam // YajñS_2.205
+
+ardho 'dharmeṣu dviguṇaḥ parastrīṣūttameṣu ca /
+daṇḍapraṇayanaṃ kāryaṃ varṇajātyuttarādharaiḥ // YajñS_2.206
+
+prātilomyāpavādeṣu dviguṇatriguṇā damāḥ /
+varṇānām ānulomyena tasmād ardhārdhahānitaḥ // YajñS_2.207
+
+bāhugrīvānetrasakthivināśe vācike damaḥ /
+satyas tadardhikaḥ pādanāsākarṇakarādiṣu // YajñS_2.208
+
+aśaktas tu vadann evaṃ daṇḍanīyaḥ paṇān daśa /
+tathā śaktaḥ pratibhuvaṃ dāpyaḥ kṣemāya tasya tu // YajñS_2.209
+
+patanīyakṛte kṣepe daṇḍo madhyamasāhasaḥ /
+upapātakayukte tu dāpyaḥ prathamasāhasam // YajñS_2.210
+
+traividyanṛpadevānāṃ kṣepa uttamasāhasaḥ /
+madhyamo jātipūgānāṃ prathamo grāmadeśayoḥ // YajñS_2.211
+
+asākṣikahate cihnair yuktibhiś cāgamena ca /
+draṣṭavyo vyavahāras tu kūṭacihnakṛto bhayāt // YajñS_2.212
+
+bhasmapaṅkarajaḥsparśe daṇḍo daśapaṇaḥ smṛtaḥ /
+amedhyapārṣṇiniṣṭhyūtasparśane dviguṇas tataḥ // YajñS_2.213
+
+sameṣv evaṃ parastrīṣu dviguṇas tūttameṣu ca /
+hīneṣv ardhadamo mohamadādibhiradaṇḍanam // YajñS_2.214
+
+viprapīḍākaraṃ chedyam aṅgam abrāhmaṇasya tu /
+udgūrṇe prathamo daṇḍaḥ saṃsparśe tu tadardhikaḥ // YajñS_2.215
+
+udgūrṇe hastapāde tu daśaviṃśatikau damau /
+parasparaṃ tu sarveṣāṃ śastre madhyamasāhasaḥ // YajñS_2.216
+
+pādakeśāṃśukakarolluñcaneṣu paṇān daśa /
+pīḍākarṣāṃśukāveṣṭapādādhyāse śataṃ damaḥ // YajñS_2.217
+
+śoṇitena vinā duḥkhaṃ kurvan kāṣṭhādibhir naraḥ /
+dvātriṃśataṃ paṇān daṇḍyo dviguṇaṃ darśane 'sṛjaḥ // YajñS_2.218
+
+karapādadato bhaṅge chedane karṇanāsayoḥ /
+madhyo daṇḍo vraṇodbhede mṛtakalpahate tathā // YajñS_2.219
+
+ceṣṭābhojanavāgrodhe netrādipratibhedane /
+kandharābāhusakthnāṃ ca bhaṅge madhyamasāhasaḥ // YajñS_2.220
+
+ekaṃ ghnatāṃ bahūnāṃ ca yathoktād dviguṇo damaḥ /
+kalahāpahṛtaṃ deyaṃ daṇḍaś ca dviguṇas tataḥ // YajñS_2.221
+
+duḥkham utpādayed yas tu sa samutthānajaṃ vyayam /
+dāpyo daṇḍaṃ ca yo yasmin kalahe samudāhṛtaḥ // YajñS_2.222
+
+abhighāte tathā chede bhede kuḍyāvapātane /
+paṇān dāpyaḥ pañca daśa viṃśatiṃ tad vyayaṃ tathā // YajñS_2.223
+
+duḥkhotpādi gṛhe dravyaṃ kṣipan prāṇaharaṃ tathā /
+ṣoḍaśādyaḥ paṇān dāpyo dvitīyo madhyamaṃ damam // YajñS_2.224
+
+duḥkhe ca śoṇitotpāde śākhāṅgacchedane tathā /
+daṇḍaḥ kṣudrapaśūnāṃ tu dvipaṇaprabhṛtiḥ kramāt // YajñS_2.225
+
+liṅgasya chedane mṛtyau madhyamo mūlyam eva ca /
+mahāpaśūnām eteṣu sthāneṣu dviguṇo damaḥ // YajñS_2.226
+
+prarohiśākhināṃ śākhāskandhasarvavidāraṇe /
+upajīvyadrumāṇāṃ ca viṃśater dviguṇo damaḥ // YajñS_2.227
+
+caityaśmaśānasīmāsu puṇyasthāne surālaye /
+jātadrumāṇāṃ dviguṇo damo vṛkṣe ca viśrute // YajñS_2.228
+
+gulmagucchakṣupalatāpratānauṣadhivīrudhām /
+pūrvasmṛtād ardhadaṇḍaḥ sthāneṣūkteṣu kartane // YajñS_2.229
+
+sāmānyadravyaprasabhaharaṇāt sāhasaṃ smṛtam /
+tanmūlyād dviguṇo daṇḍo nihnave tu caturguṇaḥ // YajñS_2.230
+
+yaḥ sāhasaṃ kārayati sa dāpyo dviguṇaṃ damam /
+yaś caivam uktvāhaṃ dātā kārayet sa caturguṇam // YajñS_2.231
+
+arghyākṣepātikramakṛd bhrātṛbhāryāprahārakaḥ /
+saṃdiṣṭasyāpradātā ca samudragṛhabhedakṛt // YajñS_2.232
+
+sāmantakulikādīnām apakārasya kārakaḥ /
+pañcāśatpaṇiko daṇḍa eṣām iti viniścayaḥ // YajñS_2.233
+
+svacchandavidhavāgāmī vikruṣṭe 'nabhidhāvakaḥ /
+akāraṇe ca vikroṣṭā caṇḍālaś cottamān spṛśet // YajñS_2.234
+
+śūdrapravrajitānāṃ ca daive pitrye ca bhojakaḥ /
+ayuktaṃ śapathaṃ kurvann ayogyo yogyakarmakṛt // YajñS_2.235
+
+vṛṣakṣudrapaśūnāṃ ca puṃstvasya pratighātakṛt /
+sādhāraṇasyāpalāpī dāsīgarbhavināśakṛt // YajñS_2.236
+
+pitṛputrasvasṛbhātṛdaṃpatyācāryaśiṣyakāḥ /
+eṣām apatitānyonyatyāgī ca śatadaṇḍabhāk // YajñS_2.237
+
+vasānastrīn paṇān daṇḍyo nejakas tu parāṃśukam /
+vikrayāvakrayādhānay āciteṣu paṇān daśa // YajñS_2.238
+
+pitāputravirodhe tu sākṣiṇāṃ tripaṇo damaḥ /
+antare ca tayor yaḥ syāt tasyāpy aṣṭaguṇo damaḥ // YajñS_2.239
+
+tulāśāsanamānānāṃ kūṭakṛnnāṇakasya ca /
+ebhiś ca vyavahartā yaḥ sa dāpyo damam uttamam // YajñS_2.240
+
+akūṭaṃ kūṭakaṃ brūte kūṭaṃ yaś cāpy akūṭakam /
+sa nāṇakaparīkṣī tu dāpya uttamasāhasam // YajñS_2.241
+
+bhiṣaṅ mithyācaran daṇḍyas tiryakṣu prathamaṃ damam /
+mānuṣe madhyamaṃ rājapuruṣeṣūttamaṃ damam // YajñS_2.242
+
+abandhyaṃ yaś ca badhnāti baddhaṃ yaś ca pramuñcati /
+aprāptavyavahāraṃ ca sa dāpyo damam uttamam // YajñS_2.243
+
+mānena tulayā vāpi yo 'ṃśam aṣṭamakaṃ haret /
+daṇḍaṃ sa dāpyo dviśataṃ vṛddhau hānau ca kalpitam // YajñS_2.244
+
+bheṣajasnehalavaṇagandhadhānyaguḍādiṣu /
+paṇyeṣu prakṣipan hīnaṃ paṇān dāpyas tu ṣoḍaśa // YajñS_2.245
+
+mṛccarmamaṇisūtrāyaḥkāṣṭhavalkalavāsasām /
+ajātau jātikaraṇe vikreyāṣṭaguṇo damaḥ // YajñS_2.246
+
+samudgaparivartaṃ ca sārabhāṇḍaṃ ca kṛtrimam /
+ādhānaṃ vikrayaṃ vāpi nayato daṇḍakalpanā // YajñS_2.247
+
+bhinne paṇe ca pañcāśatpaṇe tu śatam ucyate /
+dvipaṇe dviśato daṇḍo mūlyavṛddhau ca vṛddhimān // YajñS_2.248
+
+saṃbhūya kurvatām arghaṃ saṃbādhaṃ kāruśilpinām /
+arghasya hrāsaṃ vṛddhiṃ vā jānato dama uttamaḥ // YajñS_2.249
+
+saṃbhūya vaṇijāṃ paṇyam anargheṇoparundhatām /
+vikrīṇatāṃ vā vihito daṇḍa uttamasāhasaḥ // YajñS_2.250
+
+rājani sthāpyate yo 'rghaḥ pratyahaṃ tena vikrayaḥ /
+krayo vā niḥsravas tasmād vaṇijāṃ lābhakṛt smṛtaḥ // YajñS_2.251
+
+svadeśapaṇye tu śataṃ vaṇig gṛhṇīta pañcakam /
+daśakaṃ pāradeśye tu yaḥ sadyaḥ krayavikrayī // YajñS_2.252
+
+paṇyasyopari saṃsthāpya vyayaṃ paṇyasamudbhavam /
+argho 'nugrahakṛt kāryaḥ kretur vikretur eva ca // YajñS_2.253
+
+gṛhītamūlyaṃ yaḥ paṇyaṃ kretur naiva prayacchati /
+sodayaṃ tasya dāpyo 'sau diglābhaṃ vā digāgate // YajñS_2.254
+
+vikrītam api vikreyaṃ pūrvakretary agṛhṇati /
+hāniś cet kretṛdoṣeṇa kretur eva hi sā bhavet // YajñS_2.255
+
+rājadaivopaghātena paṇye doṣam upāgate /
+hānir vikretur evāsau yācitasyāprayacchataḥ // YajñS_2.256
+
+anyahaste ca vikrīya duṣṭaṃ vāduṣṭavad yadi /
+vikrīṇīte damas tatra mūlyāt tu dviguṇo bhavet // YajñS_2.257
+
+kṣayaṃ vṛddhiṃ ca vaṇijā paṇyānām avijānatā /
+krītvā nānuśayaḥ kāryaḥ kurvan ṣaḍbhāgadaṇḍabhāk // YajñS_2.258
+
+samavāyena vaṇijāṃ lābhārthaṃ karma kurvatām /
+lābhālābhau yathādravyaṃ yathā vā saṃvidā kṛtau // YajñS_2.259
+
+pratiṣiddham anādiṣṭaṃ pramādād yac ca nāśitam /
+sa tad dadyād viplavāc ca rakṣitād daśamāṃśabhāk // YajñS_2.260
+
+arghaprakṣepaṇād viṃśaṃ bhāgaṃ śulkaṃ nṛpo haret /
+vyāsiddhaṃ rājayogyaṃ ca vikrītaṃ rājagāmi tat // YajñS_2.261
+
+mithyā vadan parīmāṇaṃ śulkasthānād apāsaran /
+dāpyas tv aṣṭaguṇaṃ yaś ca savyājakrayavikrayī // YajñS_2.262
+
+tarikaḥ sthalajaṃ śulkaṃ gṛhṇan dāpyaḥ paṇān daśa /
+brāhmaṇaprātiveśyānām etad evānimantraṇe // YajñS_2.263
+
+deśāntaragate prete dravyaṃ dāyādabāndhavāḥ /
+jñātayo vā hareyus tadāgatās tair vinā nṛpaḥ // YajñS_2.264
+
+jihmaṃ tyajeyur nirlābham aśakto 'nyena kārayet /
+anena vidhir ākhyāta ṛtvikkarṣakakarmiṇām // YajñS_2.265
+
+grāhakair gṛhyate cauro loptreṇātha padena vā /
+pūrvakarmāparādhī ca tathā cāśuddhavāsakaḥ // YajñS_2.266
+
+anye 'pi śaṅkayā grāhyā jātināmādinihnavaiḥ /
+dyūtastrīpānasaktāś ca śuṣkabhinnamukhasvarāḥ // YajñS_2.267
+
+paradravyagṛhāṇāṃ ca pṛcchakā gūḍhacāriṇaḥ /
+nirāyā vyayavantaś ca vinaṣṭadravyavikrayāḥ // YajñS_2.268
+
+gṛhītaḥ śaṅkayā caurye nātmānaṃ ced viśodhayet /
+dāpayitvā hṛtaṃ dravyaṃ cauradaṇḍena daṇḍayet // YajñS_2.269
+
+cauraṃ pradāpyāpahṛtaṃ ghātayed vividhair vadhaiḥ /
+sacihnaṃ brāhmaṇaṃ kṛtvā svarāṣṭrād vipravāsayet // YajñS_2.270
+
+ghātite 'pahṛte doṣo grāmabhartur anirgate /
+vivītabhartus tu pathi cauroddhartur avītake // YajñS_2.271
+
+svasīṃni dadyād grāmas tu padaṃ vā yatra gacchati /
+pañcagrāmī bahiḥ krośād daśagrāmy atha vā punaḥ // YajñS_2.272
+
+bandigrāhāṃs tathā vājikuñjarāṇāṃ ca hāriṇaḥ /
+prasahyaghātinaś caiva śūlān āropayen narān // YajñS_2.273
+
+utkṣepakagranthibhedau karasaṃdaṃśahīnakau /
+kāryau dvitīyāparādhe karapādaikahīnakau // YajñS_2.274
+
+kṣudramadhyamahādravyaharaṇe sārato damaḥ /
+deśakālavayaḥśakti saṃcintyaṃ daṇḍakarmaṇi // YajñS_2.275
+
+bhaktāvakāśāgnyudakamantropakaraṇavyayān /
+dattvā caurasya vā hantur jānato dama uttamaḥ // YajñS_2.276
+
+śastrāvapāte garbhasya pātane cottamo damaḥ /
+uttamo vādhamo vāpi puruṣastrīpramāpaṇe // YajñS_2.277
+
+vipraduṣṭāṃ striyaṃ caiva puruṣaghnīm agarbhiṇīm /
+setubhedakarīṃ cāpsu śilāṃ baddhvā praveśayet // YajñS_2.278
+
+viṣāgnidāṃ patigurunijāpatyapramāpaṇīm /
+vikarṇakaranāsauṣṭhīṃ kṛtvā gobhiḥ pramāpayet // YajñS_2.279
+
+avijñātahatasyāśu kalahaṃ sutabāndhavāḥ /
+praṣṭavyā yoṣitaś cāsya parapuṃsi ratāḥ pṛthak // YajñS_2.280
+
+strīdravyavṛttikāmo vā kena vāyaṃ gataḥ saha /
+mṛtyudeśasamāsannaṃ pṛcched vāpi janaṃ śanaiḥ // YajñS_2.281
+
+kṣetraveśmavanagrāmavivītakhaladāhakāḥ /
+rājapatnyabhigāmī ca dagdhavyās tu kaṭāgninā // YajñS_2.282
+
+pumān saṃgrahaṇe grāhyaḥ keśākeśi parastriyā /
+sadyo vā kāmajaiś cihnaiḥ pratipattau dvayos tathā // YajñS_2.283
+
+nīvīstanaprāvaraṇasakthikeśāvamarśanam /
+adeśakālasaṃbhāṣaṃ sahaikāsanam eva ca // YajñS_2.284
+
+strī niṣedhe śataṃ dadyād dviśataṃ tu damaṃ pumān /
+pratiṣedhe tayor daṇḍo yathā saṃgrahaṇe tathā // YajñS_2.285
+
+sajātāv uttamo daṇḍa ānulomye tu madhyamaḥ /
+prātilomye vadhaḥ puṃso nāryāḥ karṇādikartanam // YajñS_2.286
+
+alaṃkṛtāṃ haran kanyām uttamaṃ hy anyathādhamam /
+daṇḍaṃ dadyāt savarṇāsu prātilomye vadhaḥ smṛtaḥ // YajñS_2.287
+
+sakāmāsv anulomāsu na doṣas tv anyathā damaḥ /
+dūṣaṇe tu karaccheda uttamāyāṃ vadhas tathā // YajñS_2.288
+
+śataṃ strīdūṣaṇe dadyād dve tu mithyābhiśaṃsane /
+paśūn gacchan śataṃ dāpyo hīnāṃ strīṃ gāṃ ca madhyamam // YajñS_2.289
+
+avaruddhāsu dāsīsu bhujiṣyāsu tathaiva ca /
+gamyāsv api pumān dāpyaḥ pañcāśat paṇikaṃ damam // YajñS_2.290
+
+prasahya dāsyabhigame daṇḍo daśapaṇaḥ smṛtaḥ /
+bahūnāṃ yady akāmāsau caturviṃśatikaḥ pṛthak // YajñS_2.291
+
+gṛhītavetanā veśyā necchantī dviguṇaṃ vahet /
+agṛhīte samaṃ dāpyaḥ pumān apy evam eva hi // YajñS_2.292
+
+ayonau gacchato yoṣāṃ puruṣaṃ vābhimehataḥ /
+caturviṃśatiko daṇḍas tathā pravrajitāgame // YajñS_2.293
+
+antyābhigamane tv aṅkyaḥ kubandhena pravāsayet /
+śūdras tathāntya eva syād antyasyāryāgame vadhaḥ // YajñS_2.294
+
+ūnaṃ vābhyadhikaṃ vāpi likhed yo rājaśāsanam /
+pāradārikacauraṃ vā muñcato daṇḍa uttamaḥ // YajñS_2.295
+
+abhakṣyeṇa dvijaṃ dūṣyo daṇḍya uttamasāhasam /
+madhyamaṃ kṣatriyaṃ vaiśyaṃ prathamaṃ śūdram ardhikam // YajñS_2.296
+
+kūṭasvarṇavyavahārī vimāṃsasya ca vikrayī /
+tryaṅgahīnas tu kartavyo dāpyaś cottamasāhasam // YajñS_2.297
+
+catuṣpādakṛto doṣo nāpehīti prajalpataḥ /
+kāṣṭhaloṣṭeṣupāṣāṇabāhuyugyakṛtas tathā // YajñS_2.298
+
+chinnanasyena yānena tathā bhagnayugādinā /
+paścāc caivāpasaratā hiṃsane svāmy adoṣabhāk // YajñS_2.299
+
+śakto 'py amokṣayan svāmī daṃṣṭriṇāṃ śṛṅgiṇāṃ tathā /
+prathamaṃ sāhasaṃ dadyād vikruṣṭe dviguṇaṃ tathā // YajñS_2.300
+
+jāraṃ caurety abhivadan dāpyaḥ pañcaśataṃ damam /
+upajīvya dhanaṃ muñcaṃs tad evāṣṭaguṇīkṛtam // YajñS_2.301
+
+rājño 'niṣṭapravaktāraṃ tasyaivākrośakāriṇam /
+tanmantrasya ca bhettāraṃ chittvā jihvāṃ pravāsayet // YajñS_2.302
+
+mṛtāṅgalagnavikretur guros tāḍayitus tathā /
+rājayānāsanāroḍhur daṇḍa uttamasāhasaḥ // YajñS_2.303
+
+dvinetrabhedino rājadviṣṭādeśakṛtas tathā /
+vipratvena ca śūdrasya jīvato 'ṣṭaśato damaḥ // YajñS_2.304
+
+durdṛṣṭāṃs tu punar dṛṣṭvā vyavahārān nṛpeṇa tu /
+sabhyāḥ sajayino daṇḍyā vivādād dviguṇaṃ damam // YajñS_2.305
+
+yo manyetājito 'smīti nyāyenāpi parājitaḥ /
+tam āyāntaṃ punar jitvā dāpayed dviguṇaṃ damam // YajñS_2.306
+
+rājñānyāyena yo daṇḍo gṛhīto varuṇāya tam /
+nivedya dadyād viprebhyaḥ svayaṃ triṃśadguṇīkṛtam // YajñS_2.307
+
+
+iii. prāyaścittā1dhyāyah
+
+ūnadvivarṣaṃ nikhanen na kuryād udakaṃ tataḥ /
+āśmaśānād anuvrajya itaro jñātibhir vṛtaḥ // YajñS_3.1
+
+yamasūktaṃ tathā gāthā japadbhir laukikāgninā /
+sa dagdhavya upetaś ced āhitāgnyāvṛtārthavat // YajñS_3.2
+
+saptamād daśamād vāpi jñātayo 'bhyupayanty apaḥ /
+apa naḥ śośucad agham anena pitṛdiṅmukhāḥ // YajñS_3.3
+
+evaṃ mātāmahācāryapretānām udakakriyā /
+kāmodakaṃ sakhiprattāsvasrīyaśvaśurartvijām // YajñS_3.4
+
+sakṛt prasiñcanty udakaṃ nāmagotreṇa vāgyatāḥ /
+na brahmacāriṇaḥ kuryur udakaṃ patitās tathā // YajñS_3.5
+
+pākhaṇḍyanāśritāḥ stenā bhartṛghnyaḥ kāmagādikāḥ /
+surāpya ātmatyāginyo nāśaucodakabhājanāḥ // YajñS_3.6
+
+kṛtodakān samuttīrṇān mṛduśādvalasaṃsthitān /
+snātān apavadeyus tān itihāsaiḥ purātanaiḥ // YajñS_3.7
+
+mānuṣye kadalīstambhaniḥsāre sāramārgaṇam /
+karoti yaḥ sa sammūḍho jalabudbudasaṃnibhe // YajñS_3.8
+
+pañcadhā saṃbhṛtaḥ kāyo yadi pañcatvam āgataḥ /
+karmabhiḥ svaśarīrotthais tatra kā paridevanā // YajñS_3.9
+
+gantrī vasumatī nāśam udadhir daivatāni ca /
+phenaprakhyaḥ kathaṃ nāśaṃ martyaloko na yāsyati // YajñS_3.10
+
+śleṣmāśru bāndhavair muktaṃ preto bhuṅkte yato 'vaśaḥ /
+ato na roditavyaṃ hi kriyāḥ kāryāḥ svaśaktitaḥ // YajñS_3.11
+
+iti saṃśrutya gaccheyur gṛhaṃ bālapuraḥsarāḥ /
+vidaśya nimbapatrāṇi niyatā dvāri veśmanaḥ // YajñS_3.12
+
+ācamyāgnyādi salilaṃ gomayaṃ gaurasarṣapān /
+praviśeyuḥ samālabhya kṛtvāśmani padaṃ śanaiḥ // YajñS_3.13
+
+praveśanādikaṃ karma pretasaṃsparśinām api /
+icchatāṃ tatkṣaṇāc chuddhiḥ pareṣāṃ snānasaṃyamān // YajñS_3.14
+
+ācāryapitṛupādhyāyān nirhṛtyāpi vratī vratī /
+saṃkaṭānnaṃ ca nāśnīyān na ca taiḥ saha saṃvaset // YajñS_3.15
+
+krītalabdhāśanā bhūmau svapeyus te pṛthak kṣitau /
+piṇḍayajñāvṛtā deyaṃ pretāyānnaṃ dinatrayam // YajñS_3.16
+
+jalam ekāham ākāśe sthāpyaṃ kṣīraṃ ca mṛnmaye /
+vaitānāupāsanāḥ kāryāḥ kriyāś ca śruticodanāt // YajñS_3.17
+
+trirātraṃ daśarātraṃ vā śāvam āśaucam iṣyate /
+ūnadvivarṣa ubhayoḥ sūtakaṃ mātur eva hi // YajñS_3.18
+
+pitros tu sūtakaṃ mātus tad asṛgdarśanād dhruvam /
+tad ahar na praduṣyeta pūrveṣāṃ janmakāraṇāt // YajñS_3.19
+
+antarā janmamaraṇe śeṣāhobhir viśudhyati /
+garbhasrāve māsatulyā niśāḥ śuddhes tu kāraṇam // YajñS_3.20
+
+hatānāṃ nṛpagoviprair anvakṣaṃ cātmaghātinām /
+proṣite kālaśeṣaḥ syāt pūrṇe dattvodakaṃ śuciḥ // YajñS_3.21
+
+kṣatrasya dvādaśāhāni viśaḥ pañcadaśaiva tu /
+triṃśaddināni śūdrasya tadardhaṃ nyāyavartinaḥ // YajñS_3.22
+
+ādantajanmanaḥ sadyā acūḍān naiśikī smṛtā /
+trirātram āvratādeśād daśarātram ataḥ param // YajñS_3.23
+
+ahas tv adattakanyāsu bāleṣu ca viśodhanam /
+gurvantevāsyanūcānam ātulaśrotriyeṣu ca // YajñS_3.24
+
+anauraseṣu putreṣu bhāryāsv anyagatāsu ca /
+nivāsarājani prete tad ahaḥ śuddhikāraṇam // YajñS_3.25
+
+brāhmaṇenānugantavyo na śūdro na dvijaḥ kvacit /
+anugamyāmbhasi snātvā spṛṣṭvāgniṃ ghṛtabhuk śuciḥ // YajñS_3.26
+
+mahīpatīnāṃ nāśaucaṃ hatānāṃ vidyutā tathā /
+gobrāhmaṇārthaṃ saṃgrāme yasya cecchati bhūmipaḥ // YajñS_3.27
+
+ṛtvijāṃ dīkṣitānāṃ ca yajñiyaṃ karma kurvatām /
+satrivratibrahmacāridātṛbrahmavidāṃ tathā // YajñS_3.28
+
+dāne vivāhe yajñe ca saṃgrāme deśaviplave /
+āpadyapi hi kaṣṭāyāṃ sadyaḥ śaucaṃ vidhīyate // YajñS_3.29
+
+udakyāśucibhiḥ snāyāt saṃspṛṣṭas tair upaspṛśet /
+abliṅgāni japec caiva gāyatrīṃ manasā sakṛt // YajñS_3.30
+
+kālo 'gniḥ karma mṛd vāyur mano jñānaṃ tapo jalam /
+paścāt tāpo nirāhāraḥ sarve 'mī śuddhihetavaḥ // YajñS_3.31
+
+akāryakāriṇāṃ dānaṃ vego nadyāś ca śuddhikṛt /
+śodhyasya mṛc ca toyaṃ ca saṃnyāso vai dvijanmanām // YajñS_3.32
+
+tapo vedavidāṃ kṣāntir viduṣāṃ varṣmaṇo jalam /
+japaḥ pracchannapānānāṃ manasaḥ satyam ucyate // YajñS_3.33
+
+bhūtātmanas tapovidye buddher jñānaṃ viśodhanam /
+kṣetrajñasyeśvarajñānād viśuddhiḥ paramā matā // YajñS_3.34
+
+kṣātreṇa karmaṇā jīved viśāṃ vāpy āpadi dvijaḥ /
+nistīrya tām athātmānaṃ pāvayitvā nyaset pathi // YajñS_3.35
+
+phalopalakṣaumasomamanuṣyāpūpavīrudhaḥ /
+tilaudanarasakṣārān dadhi kṣīraṃ ghṛtaṃ jalam // YajñS_3.36
+
+śastrāsavamadhūcchiṣṭaṃ madhu lākṣā ca barhiṣaḥ /
+mṛccarmapuṣpakutapakeśatakraviṣakṣitiḥ // YajñS_3.37
+
+kauśeyanīlalavaṇamāṃsaikaśaphasīsakān /
+śakārdrauṣadhipiṇyākapaśugandhāṃs tathaiva ca // YajñS_3.38
+
+vaiśyavṛttyāpi jīvan no vikrīṇīta kadācana /
+dharmārthaṃ vikrayaṃ neyās tilā dhānyena tatsamāḥ // YajñS_3.39
+
+lākṣālavaṇamāṃsāni patanīyāni vikraye /
+pāyo dadhi ca madyaṃ ca hīnavarṇakarāṇi tu // YajñS_3.40
+
+āpadgataḥ saṃpragṛhṇan bhuñjāno vā yatas tataḥ /
+na lipyetainasā vipro jvalanārkasamo hi saḥ // YajñS_3.41
+
+kṛṣiḥ śilpaṃ bhṛtir vidyā kusīdaṃ śakaṭaṃ giriḥ /
+sevānūpaṃ nṛpo bhaikṣam āpattau jīvanāni tu // YajñS_3.42
+
+bubhukṣitas tryahaṃ sthitvā dhānyam abrāhmaṇād haret /
+pratigṛhya tad ākhyeyam abhiyuktena dharmataḥ // YajñS_3.43
+
+tasya vṛttaṃ kulaṃ śīlaṃ śrutam adhyayanaṃ tapaḥ /
+jñātvā rājā kuṭumbaṃ ca dharmyāṃ vṛttiṃ prakalpayet // YajñS_3.44
+
+sutavinyastapatnīkas tayā vānugato vanam /
+vānaprastho brahmacārī sāgniḥ sopāsano vrajet // YajñS_3.45
+
+aphālakṛṣtenāgnīṃś ca pitṝn devātithīn api /
+bhṛtyāṃś ca tarpayet śmaśrujaṭālomabhṛd ātmavān // YajñS_3.46
+
+ahno māsasya ṣaṇṇāṃ vā tathā saṃvatsarasya vā /
+arthasya saṃcayaṃ kuryāt kṛtam āśvayuje tyajet // YajñS_3.47
+
+dāntas triṣavaṇasnāyī nivṛttaś ca pratigrahāt /
+svādhyāyavān dānaśīlaḥ sarvasattvahite rataḥ // YajñS_3.48
+
+dantolūkhalikaḥ kālapakvāśī vāśmakuṭṭakaḥ /
+śrautraṃ smārtaṃ phalasnehaiḥ karma kuryāt tathā kriyāḥ // YajñS_3.49
+
+cāndrāyaṇair nayet kālaṃ kṛcchrair vā vartayet sadā /
+pakṣe gate vāpy aśnīyān māse vāhani vā gate // YajñS_3.50
+
+svapyād bhūmau śucī rātrau divā saṃprapadair nayet /
+sthānāsanavihārair vā yogābhyāsena vā tathā // YajñS_3.51
+
+grīṣme pañcāgnimadhyastho varṣāsu sthaṇḍileśayaḥ /
+ārdravāsās tu hemante śaktyā vāpi tapaś caret // YajñS_3.52
+
+yaḥ kaṇṭakair vitudati candanair yaś ca liṃpati /
+akruddho 'parituṣṭaś ca samastasya ca tasya ca // YajñS_3.53
+
+agnīn vāpy ātmasātkṛtvā vṛkṣāvāso mitāśanaḥ /
+vānaprasthagṛheṣv eva yātrārthaṃ bhaikṣam ācaret // YajñS_3.54
+
+grāmād āhṛtya vā grāsān aṣṭau bhuñjīta vāgyataḥ /
+vāyubhakṣaḥ prāgudīcīṃ gacched vāvarṣmasaṃkṣayāt // YajñS_3.55
+
+vanād gṛhād vā kṛtveṣṭiṃ sārvavedasadakṣiṇām /
+prājāpatyāṃ tadante tān agnīn āropya cātmani // YajñS_3.56
+
+adhītavedo japakṛt putravān annado 'gnimān /
+śaktyā ca yajñakṛn mokṣe manaḥ kuryāt tu nānyathā // YajñS_3.57
+
+sarvabhūtahitaḥ śāntas tridaṇḍī sakamaṇḍaluḥ /
+ekārāmaḥ parivrajya bhikṣārthī grāmam āśrayet // YajñS_3.58
+
+apramattaś cared bhaikṣaṃ sāyāhne 'nabhilakṣitaḥ /
+rahite bhikṣukair grāme yātrāmātram alolupaḥ // YajñS_3.59
+
+yatipātrāṇi mṛdveṇudārvalābumayāni ca /
+salilaṃ śuddhir eteṣāṃ govālaiś cāvagharṣaṇam // YajñS_3.60
+
+saṃnirudhyendriyagrāmaṃ rāgadveṣau prahāya ca /
+bhayaṃ hitvā ca bhūtānām amṛtībhavati dvijaḥ // YajñS_3.61
+
+kartavyāśayaśuddhis tu bhikṣukeṇa viśeṣataḥ /
+jñānotpattinimittatvāt svātantryakaraṇāya ca // YajñS_3.62
+
+avekṣyā garbhavāsāś ca karmajā gatayas tathā /
+ādhayo vyādhayaḥ kleśā jarā rūpaviparyayaḥ // YajñS_3.63
+
+bhavo jātisahasreṣu priyāpriyaviparyayaḥ /
+dhyānayogena saṃpaśyet sūkṣma ātmātmani sthitaḥ // YajñS_3.64
+
+nāśramaḥ kāraṇaṃ dharme kriyamāṇo bhaved hi saḥ /
+ato yad ātmano 'pathyaṃ pareṣāṃ na tad ācaret // YajñS_3.65
+
+satyam asteyam akrodho hrīḥ śaucaṃ dhīr dhṛtir damaḥ /
+saṃyatendriyatā vidyā dharmaḥ sarva udāhṛtaḥ // YajñS_3.66
+
+niḥsaranti yathā lohapiṇḍāt taptāt sphuliṅgakāḥ /
+sakāśād ātmanas tadvad ātmānaḥ prabhavanti hi // YajñS_3.67
+
+tatrātmā hi svayaṃ kiṃcit karma kiṃcit svabhāvataḥ /
+karoti kiṃcid abhyāsād dharmādharmobhayātmakam // YajñS_3.68
+
+nimittam akṣaraḥ kartā boddhā guṇī vaśī /
+ajaḥ śarīragrahaṇāt sa jāta iti kīrtyate // YajñS_3.69
+
+sargādau sa yathākāśaṃ vāyuṃ jyotir jalaṃ mahīm /
+sṛjaty ekottaraguṇāṃs tathādatte bhavann api // YajñS_3.70
+
+āhutyāpyāyate sūryaḥ sūryād vṛṣṭir athauṣadhiḥ /
+tad annaṃ rasarūpeṇa śukratvam adhigacchati // YajñS_3.71
+
+strīpuṃsayos tu saṃyoge viśuddhe śukraśoṇite /
+pañcadhātūn svayaṃ ṣaṣṭha ādatte yugapat prabhuḥ // YajñS_3.72
+
+indriyāṇi manaḥ prāṇo jñānam āyuḥ sukhaṃ dhṛtiḥ /
+dhāraṇā preraṇaṃ duḥkham icchāhaṃkāra eva ca // YajñS_3.73
+
+prayatna ākṛtir varṇaḥ svaradveṣau bhavābhavau /
+tasyaitad ātmajaṃ sarvam anāder ādim icchataḥ // YajñS_3.74
+
+prathame māsi saṃkledabhūto dhātuvimūrcchitaḥ /
+māsy arbudaṃ dvitīye tu tṛtīye 'ṅgendriyair yutaḥ // YajñS_3.75
+
+ākāśāl lāghavaṃ saukṣmyaṃ śabdaṃ śrotraṃ balādikam /
+vāyoś ca sparśanaṃ ceṣṭāṃ vyūhanaṃ raukṣyam eva ca // YajñS_3.76
+
+pittāt tu darśanaṃ paktim auṣṇyaṃ rūpaṃ prakāśitām /
+rasāt tu rasanaṃ śaityaṃ snehaṃ kledaṃ samārdavam // YajñS_3.77
+
+bhūmer gandhaṃ tathā ghrāṇaṃ gauravaṃ mūrtim eva ca /
+ātmā gṛhṇāty ajaḥ sarvaṃ tṛtīye spandate tataḥ // YajñS_3.78
+
+dauhṛdasyāpradānena garbho doṣam avāpnuyāt /
+vairūpyaṃ maraṇaṃ vāpi tasmāt kāryaṃ priyaṃ striyāḥ // YajñS_3.79
+
+sthairyaṃ caturthe tv aṅgānāṃ pañcame śoṇitodbhavaḥ /
+ṣaṣṭhe balasya varṇasya nakharomṇāṃ ca saṃbhavaḥ // YajñS_3.80
+
+manaścaitanyayukto 'sau nāḍīsnāyuśirāyutaḥ /
+saptame cāṣṭame caiva tvaṅmāṃsasmṛtimān api // YajñS_3.81
+
+punar dhātrīṃ punar gharmam ojas tasya pradhāvati /
+aṣṭame māsy ato garbho jātaḥ prāṇair viyujyate // YajñS_3.82
+
+navame daśame vāpi prabalaiḥ sūtimārutaiḥ /
+niḥsāryate bāṇa iva yantracchidreṇa sajvaraḥ // YajñS_3.83
+
+tasya ṣoḍhā śarīrāṇi śaṭ tvaco dhārayanti ca /
+saḍaṅgāni tathāsthnāṃ ca saha ṣaṣṭyā śatatrayam // YajñS_3.84
+
+sthālaiḥ saha catuḥṣaṣṭir dantā vai viṃśatir nakhāḥ /
+pāṇipādaśalākāś ca teṣāṃ sthānacatuṣṭayam // YajñS_3.85
+
+ṣaṣṭyaṅgulīnāṃ dve pārṣṇyor gulpheṣu ca catuṣṭayam /
+catvāryaratnikāsthīni jaṅghayos tāvad eva tu // YajñS_3.86
+
+dve dve jānukapoloruphalakāṃsasamudbhave /
+akṣatālūṣake śroṇīphalake ca vinirdiśet // YajñS_3.87
+
+bhagāsthy ekaṃ tathā pṛṣṭhe catvāriṃśac ca pañca ca /
+grīvā pañcadaśāsthiḥ syāj jatrv ekaikaṃ tathā hanuḥ // YajñS_3.88
+
+tanmūle dve lalāṭākṣigaṇḍe nāsā ghanāsthikā /
+pārśvakāḥ sthālakaiḥ sārdham arbudaiś ca dvisaptatiḥ // YajñS_3.89
+
+dvau śaṅkhakau kapālāni catvāri śirasas tathā /
+uraḥ saptadaśāsthīni puruṣasyāsthisaṃgrahaḥ // YajñS_3.90
+
+gandharūparasasparśaśabdāś ca viṣayāḥ smṛtāḥ /
+nāsikā locane jihvā tvak śrotraṃ ca indriyāṇi ca // YajñS_3.91
+
+hastau pāyur upasthaṃ ca jihvā pādau ca pañca vai /
+karmendriyāṇi jānīyān manaś caivobhayātmakam // YajñS_3.92
+
+nābhir ojo gudaṃ śukraṃ śoṇitaṃ śaṅkhakau tathā /
+mūrdhāṃsakaṇṭhahṛdayaṃ prāṇasyāyatanāni tu // YajñS_3.93
+
+vapā vasāvahananaṃ nābhiḥ kloma yakṛt plihā /
+kṣudrāntraṃ vṛkkakau bastiḥ purīṣādhānam eva ca // YajñS_3.94
+
+āmāśayo 'tha hṛdayaṃ sthūlāntraṃ guda eva ca /
+udaraṃ ca gudau koṣṭhyau vistāro 'yam udāhṛtaḥ // YajñS_3.95
+
+kanīnike cākṣikūṭe śaṣkulī karṇapatrakau /
+karṇau śaṅkhau bhruvau dantaveṣṭāv oṣṭhau kakundare // YajñS_3.96
+
+vaṅkṣaṇau vṛṣaṇau vṛkkau śleṣmasaṃghātajau stanau /
+upajihvāsphijau bāhū jaṅghoruṣu ca piṇḍikā // YajñS_3.97
+
+tālūdaraṃ bastiśīrṣaṃ cibuke galaśuṇḍike /
+avaṭaś caivam etāni sthānāny atra śarīrake // YajñS_3.98
+
+akṣikarṇacatuṣkaṃ ca paddhastahṛdayāni ca /
+nava chidrāṇi tāny eva prāṇasyāyatanāni tu // YajñS_3.99
+
+śirāḥ śatāni saptaiva nava snāyuśatāni ca /
+dhamanīnāṃ śate dve tu pañca peśīśatāni ca // YajñS_3.100
+
+ekonatriṃśallakṣāṇi tathā nava śatāni ca /
+ṣaṭpañcāśac ca jānīta śirā dhamanisaṃjñitāḥ // YajñS_3.101
+
+trayo lakṣās tu vijñeyāḥ śmaśrukeśāḥ śarīriṇām /
+saptottaraṃ marmaśataṃ dve ca saṃdhiśate tathā // YajñS_3.102
+
+romṇāṃ koṭyas tu pañcāśac catasraḥ koṭya eva ca /
+saptaṣaṣṭis tathā lakṣāḥ sārdhāḥ svedāyanaiḥ saha // YajñS_3.103
+
+vāyavīyair vigaṇyante vibhaktāḥ paramāṇavaḥ /
+yady apy eko 'nuvetty eṣāṃ bhāvanāṃ caiva saṃsthitim // YajñS_3.104
+
+rasasya nava vijñeyā jalasyāñjalayo daśa /
+saptaiva tu purīṣasya raktasyāṣṭau prakīrtitāḥ // YajñS_3.105
+
+ṣaṭ śleṣmā pañca pittaṃ tu catvāro mūtram eva ca /
+vasā trayo dvau tu medo majjaikordhvam tu mastake // YajñS_3.106
+
+śleṣmaujasas tāvad eva retasas tāvad eva tu /
+ity etad asthiraṃ varṣma yasya mokṣāya kṛty asau // YajñS_3.107
+
+dvāsaptatisahasrāṇi hṛdayād abhiniḥsṛtāḥ /
+hitāhitā nāma nāḍyas tāsāṃ madhye śaśiprabham // YajñS_3.108
+
+maṇḍalaṃ tasya madhyastha ātmā dīpa ivācalaḥ /
+sa jñeyas taṃ viditveha punar ājāyate na tu // YajñS_3.109
+
+jñeyaṃ cāraṇyakam ahaṃ yad ādityād avāptavān /
+yogaśāstraṃ ca matproktaṃ jñeyaṃ yogam abhīpsatā // YajñS_3.110
+
+ananyaviṣayaṃ kṛtvā manobuddhismṛtīndriyam /
+dhyeya ātmā sthito yo 'sau hṛdaye dīpavat prabhuḥ // YajñS_3.111
+
+yathāvidhānena paṭhan sāmagāyam avicyutam /
+sāvadhānas tad abhyāsāt paraṃ brahmādhigacchati // YajñS_3.112
+
+aparāntakam ullopyaṃ madrakaṃ prakarīṃ tathā /
+auveṇakaṃ sarobindum uttaraṃ gītakāni ca // YajñS_3.113
+
+ṛggāthā pāṇikā dakṣavihitā brahmagītikā /
+geyam etat tadabhyāsakaraṇān mokṣasaṃjñitam // YajñS_3.114
+
+vīṇāvādanatattvajñaḥ śrutijātiviśāradaḥ /
+tālajñaś cāprayāsena mokṣamārgaṃ niyacchati // YajñS_3.115
+
+gītajño yadi yogena nāpnoti paramaṃ padam /
+rudrasyānucaro bhūtvā tenaiva saha modate // YajñS_3.116
+
+anādir ātmā kathitas tasyādis tu śarīrakam /
+ātmanas tu jagat sarvaṃ jagataś cātmasaṃbhavaḥ // YajñS_3.117
+
+katham etad vimuhyāmaḥ sadevāsuramānavam /
+jagadudbhūtam ātmā ca kathaṃ tasmin vadasva naḥ // YajñS_3.118
+
+mohajālam apāsyeha puruṣo dṛśyate hi yaḥ /
+sahasrakarapannetraḥ sūryavarcāḥ sahasrakaḥ // YajñS_3.119
+
+sa ātmā caiva yajñaś ca viśvarūpaḥ prajāpatiḥ /
+virājaḥ so 'nnarūpeṇa yajñatvam upagacchati // YajñS_3.120
+
+yo dravyadevatātyāgasaṃbhūto rasa uttamaḥ /
+devān saṃtarpya sa raso yajamānaṃ phalena ca // YajñS_3.121
+
+saṃyojya vāyunā somaṃ nīyate raśmibhis tataḥ /
+ṛgyajuḥ sāmavihitaṃ sauraṃ dhāmopanīyate // YajñS_3.122
+
+khamaṇḍalād asau sūryaḥ sṛjaty amṛtam uttamam /
+yaj janma sarvabhūtānām aśanānaśanātmanām // YajñS_3.123
+
+tasmād annāt punar yajñaḥ punar annaṃ punaḥ kratuḥ /
+evam etad anādyantaṃ cakraṃ saṃparivartate // YajñS_3.124
+
+anādir ātmā saṃbhūtir vidyate nāntarātmanaḥ /
+samavāyī tu puruṣo mohecchādveṣakarmajaḥ // YajñS_3.125
+
+sahasrātmā mayā yo va ādideva udāhṛtaḥ /
+mukhabāhūrupajjāḥ syus tasya varṇā yathākramam // YajñS_3.126
+
+pṛthivī pādatas tasya śiraso dyaur ajāyata /
+nastaḥ prāṇā diśaḥ śrotrāt sparśād vāyur mukhāc chikhī // YajñS_3.127
+
+manasaś candramā jātaś cakṣuṣaś ca divākaraḥ /
+jaghanād antarikṣaṃ ca jagac ca sacarācaram // YajñS_3.128
+
+yady evaṃ sa kathaṃ brahman pāpayoniṣu jāyate /
+īśvaraḥ sa kathaṃ bhāvair aniṣṭaiḥ saṃprayujyate // YajñS_3.129
+
+karaṇair anvitasyāpi pūrvaṃ jñānaṃ kathaṃ ca na /
+vetti sarvagatāṃ kasmāt sarvago 'pi na vedanām // YajñS_3.130
+
+antyapakṣisthāvaratāṃ manovākkāyakarmajaiḥ /
+doṣaiḥ prayāti jīvo 'yaṃ bhavaṃ yoniśateṣu ca // YajñS_3.131
+
+anantāś ca yathā bhāvāḥ śarīreṣu śarīriṇām /
+rūpāṇyapi tathaiveha sarvayoniṣu dehinām // YajñS_3.132
+
+vipākaḥ karmaṇāṃ pretya keṣāṃcid iha jāyate /
+iha vāmutra vaikeṣāṃ bhāvas tatra prayojanam // YajñS_3.133
+
+paradravyāṇy abhidhyāyaṃs tathāniṣṭāni cintayan /
+vitathābhiniveśī ca jāyate 'nyāsu yoniṣu // YajñS_3.134
+
+puruṣo 'nṛtavādī ca piśunaḥ paruṣas tathā /
+anibaddhapralāpī ca mṛgapakṣiṣu jāyate // YajñS_3.135
+
+adattādānanirataḥ paradāropasevakaḥ /
+hiṃsakaś cāvidhānena sthāvareṣv abhijāyate // YajñS_3.136
+
+ātmajñaḥ śaucavān dāntas tapasvī vijitendriyaḥ /
+dharmakṛd vedavidyāvit sāttviko devayonitām // YajñS_3.137
+
+asatkāryarato 'dhīra ārambhī viṣayī ca yaḥ /
+sa rājaso manuṣyeṣu mṛto janmādhigacchati // YajñS_3.138
+
+nidrāluḥ krūrakṛl lubdho nāstiko yācakas tathā /
+pramādavān bhinnavṛtto bhavet tiryakṣu tāmasaḥ // YajñS_3.139
+
+rajasā tamasā caivaṃ samāviṣṭo bhramann iha /
+bhāvair aniṣṭaiḥ saṃyuktaḥ saṃsāraṃ pratipadyate // YajñS_3.140
+
+malino hi yathā ādarśo rūpālokasya na kṣamaḥ /
+tathāvipakvakaraṇa ātmajñānasya na kṣamaḥ // YajñS_3.141
+
+kaṭver vārau yathāpakve madhuraḥ san raso 'pi na /
+prāpyate hy ātmani tathā nāpakvakaraṇe jñatā // YajñS_3.142
+
+sarvāśrayāṃ nije dehe dehī vindati vedanām /
+yogī muktaś ca sarvāsāṃ yo na cāpnoti vedanām // YajñS_3.143
+
+ākāśam ekaṃ hi yathā ghaṭādiṣu pṛthag bhavet /
+tathātmā eko hy anekaś ca jalādhāreṣv ivāṃśumān // YajñS_3.144
+
+brahmakhānilatejāṃsi jalaṃ bhūś ceti dhātavaḥ /
+ime lokā eṣa cātmā tasmāc ca sacarācaram // YajñS_3.145
+
+mṛddaṇḍacakrasaṃyogāt kumbhakāro yathā ghaṭam /
+karoti tṛṇamṛtkāṣṭhair gṛhaṃ vā gṛhakārakaḥ // YajñS_3.146
+
+hemamātram upādāya rūpaṃ vā hemakārakaḥ /
+nijalālāsamāyogāt kośaṃ vā kośakārakaḥ // YajñS_3.147
+
+kāraṇāny evam ādāya tāsu tāsv iha yoniṣu /
+sṛjaty ātmānam ātmā ca saṃbhūya karaṇāni ca // YajñS_3.148
+
+mahābhūtāni satyāni yathātmāpi tathaiva hi /
+ko 'nyathaikena netreṇa dṛṣṭam anyena paśyati // YajñS_3.149
+
+vācaṃ vā ko vijānāti punaḥ saṃśrutya saṃśrutām /
+atītārthasmṛtiḥ kasya ko vā svapnasya kārakaḥ // YajñS_3.150
+
+jātirūpavayovṛttavidyādibhir ahaṃkṛtaḥ /
+śabdādiviṣayodyogaṃ karmaṇā manasā girā // YajñS_3.151
+
+sa saṃdigdhamatiḥ karmaphalam asti na veti vā /
+viplutaḥ siddham ātmānam asiddho 'pi hi manyate // YajñS_3.152
+
+mama dārāḥ sutāmātyā aham eṣām iti sthitiḥ /
+hitāhiteṣu bhāveṣu viparītamatiḥ sadā // YajñS_3.153
+
+jñeyajñe prakṛtau caiva vikāre cāviśeṣavān /
+anāśakānalāghātajalaprapatanodyamī // YajñS_3.154
+
+evaṃvṛtto 'vinītātmā vitathābhiniveśavān /
+karmaṇā dveṣamohābhyām icchayā caiva badhyate // YajñS_3.155
+
+ācāryopāsanaṃ vedaśāstrārtheṣu vivekitā /
+tatkarmaṇām anuṣṭhānaṃ saṅgaḥ sadbhir giraḥ śubhāḥ // YajñS_3.156
+
+stryālokālambhavigamaḥ sarvabhūtātmadarśanam /
+tyāgaḥ parigrahāṇāṃ ca jīrṇakāṣāyadhāraṇam // YajñS_3.157
+
+viṣayendriyasaṃrodhas tandrālasyavivarjanam /
+śarīraparisaṃkhyānaṃ pravṛttiṣv aghadarśanam // YajñS_3.158
+
+nīrajastamasā sattvaśuddhir niḥspṛhatā śamaḥ /
+etair upāyaiḥ saṃśuddhaḥ sattvayogy amṛtī bhavet // YajñS_3.159
+
+tattvasmṛter upasthānāt sattvayogāt parikṣayāt /
+karmaṇāṃ saṃnikarṣāc ca satāṃ yogaḥ pravartate // YajñS_3.160
+
+śarīrasaṃkṣaye yasya manaḥ sattvastham īśvaram /
+aviplutamatiḥ samyak sa jātisaṃsmaratām iyāt // YajñS_3.161
+
+yathā hi bharato varṇair varṇayaty ātmanas tanum /
+nānārūpāṇi kurvāṇas tathātmā karmajās tanūḥ // YajñS_3.162
+
+kālakarmātmabījānāṃ doṣair mātus tathaiva ca /
+garbhasya vaikṛtaṃ dṛṣṭam aṅgahīnādi janmanaḥ // YajñS_3.163
+
+ahaṃkāreṇa manasā gatyā karmaphalena ca /
+śarīreṇa ca nātmāyaṃ muktapūrvaḥ kathaṃcana // YajñS_3.164
+
+vartyādhārasnehayogād yathā dīpasya saṃsthitiḥ /
+vikriyāpi ca dṛṣṭaivam akāle prāṇasaṃkṣayaḥ // YajñS_3.165
+
+anantā raśmayas tasya dīpavad yaḥ sthito hṛdi /
+sitāsitāḥ karburūpāḥ kapilā nīlalohitāḥ // YajñS_3.166
+
+ūrdhvam ekaḥ sthitas teṣāṃ yo bhittvā sūryamaṇḍalam /
+brahmalokam atikramya tena yāti parāṃ gatim // YajñS_3.167
+
+yad asyānyad raśmiśatam ūrdhvam eva vyavasthitam /
+tena devaśarīrāṇi sadhāmāni prapadyate // YajñS_3.168
+
+ye 'nekarūpāś cādhastād raśmayo 'sya mṛduprabhāḥ /
+iha karmopabhogāya taiḥ saṃsarati so 'vaśaḥ // YajñS_3.169
+
+vedaiḥ śāstraiḥ savijñānair janmanā maraṇena ca /
+ārtyā gatyā tathāgatyā satyena hy anṛtena ca // YajñS_3.170
+
+śreyasā sukhaduḥkhābhyāṃ karmabhiś ca śubhāśubhaiḥ /
+nimittaśākunajñānagrahasaṃyogajaiḥ phalaiḥ // YajñS_3.171
+
+tārānakṣatrasaṃcārair jāgaraiḥ svapnajair api /
+ākāśapavanajyotirjalabhūtimirais tathā // YajñS_3.172
+
+manvantarair yugaprāptyā mantrauṣadhiphalair api /
+vittātmānaṃ vedyamānaṃ kāraṇaṃ jagatas tathā // YajñS_3.173
+
+ahaṃkāraḥ smṛtir medhā dveṣo buddhiḥ sukhaṃ dhṛtiḥ /
+indriyāntarasaṃcāra icchā dhāraṇajīvite // YajñS_3.174
+
+svargaḥ svapnaś ca bhāvānāṃ preraṇaṃ manaso gatiḥ /
+nimeṣaś cetanā yatna ādānaṃ pāñcabhautikam // YajñS_3.175
+
+yata etāni dṛśyante liṅgāni paramātmanaḥ /
+tasmād asti paro dehād ātmā sarvaga īśvaraḥ // YajñS_3.176
+
+buddhīndriyāṇi sārthāni manaḥ karmendriyāṇi ca /
+ahaṃkāraś ca buddhiś ca pṛthivyādīni caiva hi // YajñS_3.177
+
+avyaktam ātmā kṣetrajñaḥ kṣetrasyāsya nigadyate /
+īśravaḥ sarvabhūtasthaḥ sann asan sad asac ca yaḥ // YajñS_3.178
+
+buddher utpattir avyaktāt tato 'haṃkārasaṃbhavaḥ /
+tanmātrādīny ahaṃkārād ekottaraguṇāni ca // YajñS_3.179
+
+śabdaḥ sparśaś ca rūpaṃ ca raso gandhaś ca tadguṇāḥ /
+yo yasmān niḥsṛtaś caiṣāṃ sa tasminn eva līyate // YajñS_3.180
+
+yathātmānaṃ sṛjaty ātmā tathā vaḥ kathito mayā /
+vipākāt triprakārāṇāṃ karmaṇām īśvaro 'pi san // YajñS_3.181
+
+sattvaṃ rajas tamaś caiva guṇās tasyaiva kīrtitāḥ /
+rajastamobhyām āviṣṭaś cakravad bhrāmyate hy asau // YajñS_3.182
+
+anādir ādimāṃś caiva sa eva puruṣaḥ paraḥ /
+liṅgendriyagrāhyarūpaḥ savikāra udāhṛtaḥ // YajñS_3.183
+
+pitṛyāno 'javīthyāś ca yad agastyasya cāntaram /
+tenāgnihotriṇo yānti svargakāmā divaṃ prati // YajñS_3.184
+
+ye ca dānaparāḥ samyag aṣṭābhiś ca guṇair yutāḥ /
+te 'pi tenaiva mārgeṇa satyavrataparāyaṇāḥ // YajñS_3.185
+
+tatrāṣṭāśītisāhasramunayo gṛhamedhinaḥ /
+punarāvartino bījabhūtā dharmapravartakāḥ // YajñS_3.186
+
+saptarṣināgavīthyantar devalokaṃ samāśritāḥ /
+tāvanta eva munayaḥ sarvārambhavivarjitāḥ // YajñS_3.187
+
+tapasā brahmacaryeṇa saṅgatyāgena medhayā /
+tatra gatvāvatiṣṭhante yāvad ābhūtasaṃplavam // YajñS_3.188
+
+yato vedāḥ purāṇāni vidyopaniṣadas tathā /
+ślokā sūtrāṇi bhāṣyāṇi yac ca kiṃcana vāṅmayam // YajñS_3.189
+
+vedānuvacanaṃ yajño brahmacaryaṃ tapo damaḥ /
+śraddhopavāsaḥ svātantryam ātmano jñānahetavaḥ // YajñS_3.190
+
+sa hy āśramair vijijñāsyaḥ samastair evam eva tu /
+draṣṭavyas tv atha mantavyaḥ śrotavyaś ca dvijātibhiḥ // YajñS_3.191
+
+ya enam evaṃ vindanti ya vāraṇyakam āśritāḥ /
+upāsate dvijāḥ satyaṃ śraddhayā parayā yutāḥ // YajñS_3.192
+
+kramāt te saṃbhavanty arcir ahaḥ śuklaṃ tathottaram /
+ayanaṃ devalokaṃ ca savitāraṃ savaidyutam // YajñS_3.193
+
+tatas tān puruṣo 'bhyetya mānaso brahmalaukikān /
+karoti punarāvṛttis teṣām iha na vidyate // YajñS_3.194
+
+yajñena tapasā dānair ye hi svargajito narāḥ /
+dhūmaṃ niśāṃ kṛṣṇapakṣaṃ dakṣiṇāyanam eva ca // YajñS_3.195
+
+pitṛlokaṃ candramasaṃ vāyuṃ vṛṣṭiṃ jalaṃ mahīm /
+kramāt te saṃbhavantīha punar eva vrajanti ca // YajñS_3.196
+
+etad yo na vijānāti mārgadvitayam ātmavān /
+dandaśūkaḥ pataṅgo vā bhavet kīṭo 'tha vā kṛmiḥ // YajñS_3.197
+
+ūrusthottānacaraṇaḥ savye nyasyottaraṃ karam /
+uttānaṃ kiṃcid unnāmya mukhaṃ viṣṭabhya corasā // YajñS_3.198
+
+nimīlitākṣaḥ sattvastho dantair dantān asaṃspṛśan /
+tālusthācalajihvaś ca saṃvṛtāsyaḥ suniścalaḥ // YajñS_3.199
+
+saṃnirudhyendriyagrāmaṃ nātinīcocchritāsanaḥ /
+dviguṇaṃ triguṇaṃ vāpi prāṇāyāmam upakramet // YajñS_3.200
+
+tato dhyeyaḥ sthito yo 'sau hṛdaye dīpavat prabhuḥ /
+dhārayet tatra cātmānaṃ dhāraṇāṃ dhārayan budhaḥ // YajñS_3.201
+
+antardhānaṃ smṛtiḥ kāntir dṛṣṭiḥ śrotrajñatā tathā /
+nijaṃ śarīram utsṛjya parakāyapraveśanam // YajñS_3.202
+
+arthānāṃ chandataḥ sṛṣṭir yogasiddher hi lakṣaṇam /
+siddhe yoge tyajan deham amṛtatvāya kalpate // YajñS_3.203
+
+atha vāpy abhyasan vedaṃ nyastakarmā vane vasan /
+ayācitāśī mitabhuk parāṃ siddhim avāpnuyāt // YajñS_3.204
+
+nyāyāgatadhanas tattvajñānaniṣṭho 'tithipriyaḥ /
+śrādhakṛt satyavādī ca gṛhastho 'pi hi mucyate // YajñS_3.205
+
+mahāpātakajān ghorān narakān prāpya dāruṇān /
+karmakṣayāt prajāyante mahāpātakinas tv iha // YajñS_3.206
+
+mṛgāśvasūkaroṣṭrāṇāṃ brahmahā yonim ṛcchati /
+kharapulkasavenānāṃ surāpo nātra saṃśayaḥ // YajñS_3.207
+
+kṛmikīṭapataṅgatvaṃ svarṇahārī samāpnuyāt /
+tṛṇagulmalatātvaṃ ca kramaśo gurutalpagaḥ // YajñS_3.208
+
+brahmahā kṣayarogī syāt surāpaḥ śyāvadantakaḥ /
+hemahārī tu kunakhī duścarmā gurutalpagaḥ // YajñS_3.209
+
+yo yena saṃvasaty eṣāṃ sa talliṅgo 'bhijāyate /
+annahartāmayāvī syān mūko vāgapahārakaḥ // YajñS_3.210
+
+dhānyamiśro 'tiriktāñgaḥ piśunaḥ pūtināsikaḥ /
+tailahṛt tailapāyī syāt pūtivaktras tu sūcakaḥ // YajñS_3.211
+
+parasya yoṣitaṃ hṛtvā brahmasvam apahṛtya ca /
+araṇye nirjale deśe bhavati brahmarākṣasaḥ // YajñS_3.212
+
+hīnajātau prajāyeta pararatnāpahārakaḥ /
+patraśākaṃ śikhī hatvā gandhān chucchundarī śubhān // YajñS_3.213
+
+mūṣako dhānyahārī syād yānam uṣṭraḥ kapiḥ phalam /
+jalaṃ plavaḥ payaḥ kāko gṛhakārī hy upaskaram // YajñS_3.214
+
+madhu daṃśaḥ palaṃ gṛdhro gāṃ godhāgniṃ bakas tathā /
+śvitrī vastraṃ śvā rasaṃ tu cīrī lavaṇahārakaḥ // YajñS_3.215
+
+pradarśanārtham etat tu mayoktaṃ steyakarmaṇi /
+dravyaprakārā hi yathā tathaiva prāṇijātayaḥ // YajñS_3.216
+
+yathākarma phalaṃ prāpya tiryaktvaṃ kālaparyayāt /
+jāyante lakṣaṇabhraṣṭā daridrāḥ puruṣādhamāḥ // YajñS_3.217
+
+tato niṣkalmaṣībhūtāḥ kule mahati bhoginaḥ /
+jāyante vidyayopetā dhanadhānyasamanvitāḥ // YajñS_3.218
+
+vihitasyānanuṣṭhānān ninditasya ca sevanāt /
+anigrahāc cendriyāṇāṃ naraḥ patanam ṛcchati // YajñS_3.219
+
+tasmāt teneha kartavyaṃ prāyaścittaṃ viśuddhaye /
+evam asyāntarātmā ca lokaś caiva prasīdati // YajñS_3.220
+
+prāyaścittam akurvāṇāḥ pāpeṣu niratā narāḥ /
+apaścāttāpinaḥ kaṣṭān narakān yānti dāruṇān // YajñS_3.221
+
+tāmisraṃ lohaśaṅkuṃ ca mahānirayaśālmalī /
+rauravaṃ kuḍmalaṃ pūtimṛttikaṃ kālasūtrakam // YajñS_3.222
+
+saṃghātaṃ lohitodaṃ ca saviṣaṃ saṃprapātanam /
+mahānarakakākolaṃ saṃjīvanamahāpatham // YajñS_3.223
+
+avīcim andhatāmisraṃ kumbhīpākaṃ tathaiva ca /
+asipatravanaṃ caiva tāpanaṃ caikaviṃśakam // YajñS_3.224
+
+mahāpātakajair ghorair upapātakajais tathā /
+anvitā yānty acaritaprāyaścittā narādhamāḥ // YajñS_3.225
+
+prāyaścittair apaity eno yad ajñānakṛtaṃ bhavet /
+kāmato vyavahāryas tu vacanād iha jāyate // YajñS_3.226
+
+brahmahā madyapaḥ stenas tathaiva gurutalpagaḥ /
+ete mahāpātakino yaś ca taiḥ saha saṃvaset // YajñS_3.227
+
+gurūṇām adhyadhikṣepo vedanindā suhṛdvadhaḥ /
+brahmahatyāsamaṃ jñeyam adhītasya ca nāśanam // YajñS_3.228
+
+niṣiddhabhakṣaṇaṃ jaihmyam utkarṣe ca vaco 'nṛtam /
+rajasvalāmukhāsvādaḥ surāpānasamāni tu // YajñS_3.229
+
+aśvaratnamanuṣyastrībhūdhenuharaṇaṃ tathā /
+nikṣepasya ca sarvaṃ hi suvarṇasteyasammitam // YajñS_3.230
+
+sakhibhāryākumārīṣu svayoniṣv antyajāsu ca /
+sagotrāsu sutantrīṣu gurutalpasamaṃ smṛtam // YajñS_3.231
+
+pituḥ svasāraṃ mātuś ca matulānīṃ snuṣām api /
+mātuḥ sapatnīṃ bhaginīm ācāryatanayāṃ tathā // YajñS_3.232
+
+ācāryapatnīṃ svasutāṃ gacchaṃs tu gurutalpagaḥ /
+liṅgaṃ chittvā vadhas tasya sakāmāyāḥ striyā api // YajñS_3.233
+
+govadho vrātyatā steyam ṛṇānāṃ cānapākriyā /
+anāhitāgnitāpaṇyavikrayaḥ paridevanam // YajñS_3.234
+
+bhṛtād adhyayanādānaṃ bhṛtakādhyāpanaṃ tathā /
+pāradāryaṃ pārivittyaṃ vārdhuṣyaṃ lavaṇakriyā // YajñS_3.235
+
+strīśūdraviṭkṣatravadho ninditārthopajīvanam /
+nāstikyaṃ vratalopaś ca sutānāṃ caiva vikrayaḥ // YajñS_3.236
+
+dhānyakupyapaśusteyam ayājyānāṃ ca yājanam /
+pitṛmātṛsutatyāgas taḍāgārāmavikrayaḥ // YajñS_3.237
+
+kanyāsaṃdūṣaṇaṃ caiva parivindakayājanam /
+kanyāpradānaṃ tasyaiva kauṭilyaṃ vratalopanam // YajñS_3.238
+
+ātmano 'rthe kriyārambho madyapastrīniṣevaṇam /
+svādhyāyāgnisutatyāgo bāndhavatyāga eva ca // YajñS_3.239
+
+indhanārthaṃ drumachedaḥ strīhiṃsāuṣadhajīvanam /
+hiṃsrayantravidhānaṃ ca vyasanāny ātmavikrayaḥ // YajñS_3.240
+
+śūdrapreṣyaṃ hīnasakhyaṃ hīnayoniniṣevaṇam /
+tathaivānāśrame vāsaḥ parānnaparipuṣṭatā // YajñS_3.241
+
+asacchāstrādhigamanam ākareṣv adhikāritā /
+bhāryāyā vikrayaś caiṣām ekaikam upapātakam // YajñS_3.242
+
+śiraḥkapālī dhvajavān bhikṣāśī karma vedayan /
+brahmahā dvādaśābdāni mitabhuk śuddhim āpnuyāt // YajñS_3.243
+
+brāhmaṇasya paritrāṇād gavāṃ dvādaśakasya ca /
+tathāśvamedhāvabhṛthasnānād vā śuddhim āpnuyāt // YajñS_3.244
+
+dīrghatīvrāmayagrastaṃ brāhmaṇaṃ gām athāpi vā /
+dṛṣṭvā pathi nirātaṅkaṃ kṛtvā tu brahmahā śuciḥ // YajñS_3.245
+
+ānīya viprasarvasvaṃ hṛtaṃ ghātita eva vā /
+tannimittaṃ kṣataḥ śastrair jīvann api viśudhyati // YajñS_3.246
+
+lomabhyaḥ svāhety evaṃ hi lomaprabhṛti vai tanum /
+majjāntāṃ juhuyād vāpi mantrair ebhir yathākramam // YajñS_3.247
+
+saṃgrāme vā hato lakṣyabhūtaḥ śuddhim avāpnuyāt /
+mṛtakalpaḥ prahārārto jīvann api viśudhyati // YajñS_3.248
+
+araṇye niyato japtvā trir vai vedasya saṃhitām /
+śudhyeta vā mitāśitvāt pratisrotaḥ sarasvatīm // YajñS_3.249
+
+pātre dhanaṃ vā paryāptaṃ dattvā śuddhim avāpnuyāt /
+ādātuś ca viśuddhyartham iṣṭair vaiśvānarī smṛtā // YajñS_3.250
+
+yāgasthakṣatraviḍghātī cared brahmahaṇi vratam /
+garbhahā ca yathāvarṇaṃ tathātreyīniṣūdakaḥ // YajñS_3.251
+
+cared vratam ahatvāpi ghātārthaṃ cet samāgataḥ /
+dviguṇaṃ savanasthe tu brāhmaṇe vratam ādiśet // YajñS_3.252
+
+surāmbughṛtagomūtrapayasām agnisaṃnibham /
+surāpo 'nyatamaṃ pītvā maraṇāc chuddhim ṛcchati // YajñS_3.253
+
+vālavāsā jaṭī vāpi brahmahatyāvrataṃ caret /
+piṇyākaṃ vā kaṇān vāpi bhakṣayet trisamā niśi // YajñS_3.254
+
+ajñānāt tu surāṃ pītvā reto viṇmūtram eva ca /
+punaḥ saṃskāram arhanti trayo varṇā dvijātayaḥ // YajñS_3.255
+
+patilokaṃ na sā yāti brāhmaṇī yā surāṃ pibet /
+ihaiva sā śunī gṛdhrī sūkarī copajāyate // YajñS_3.256
+
+brāhmaṇasvarṇahārī tu rājñe musalam arpayet /
+svakarma vyākhyāyaṃs tena hato mukto 'pi vāśuciḥ // YajñS_3.257
+
+anivedya nṛpe śudhyet surāpavratam ācaran /
+ātmatulyaṃ suvarṇaṃ vā dadyād vā vipratuṣṭikṛt // YajñS_3.258
+
+tapte 'yaḥśayane sārdham āyasyā yoṣitā svapet /
+gṛhītvotkṛttya vṛṣaṇau nairṛtyāṃ cotsṛjet tanum // YajñS_3.259
+
+prājāpatyaṃ caret kṛcchraṃ samā vā gurutalpagaḥ /
+cāndrāyaṇaṃ vā trīn māsān abhyased vedasaṃhitām // YajñS_3.260
+
+ebhis tu saṃvased yo vai vatsaraṃ so 'pi tatsamaḥ /
+kanyāṃ samudvahed eṣāṃ sopavāsām akiṃcanām // YajñS_3.261
+
+cāndrāyaṇaṃ caret sarvān avakṛṣṭān nihatya tu /
+śūdro 'dhikārahīnopi kālenānena śudhyati // YajñS_3.262
+
+pañcagavyaṃ pibed goghno māsam āsīta saṃyataḥ /
+goṣṭheśayo go'nugāmī gopradānena śudhyati // YajñS_3.263
+
+kṛcchraṃ caivātikṛcchraṃ ca cared vāpi samāhitaḥ /
+dadyāt trirātraṃ copoṣya vṛṣabhaikādaśās tu gāḥ // YajñS_3.264
+
+upapātakaśuddhiḥ syād evaṃ cāndrāyaṇena vā /
+payasā vāpi māsena parākeṇātha vā punaḥ // YajñS_3.265
+
+ṛṣabhaikasahasrā gā dadyāt kṣatravadhe pumān /
+brahmahatyāvrataṃ vāpi vatsaratritayaṃ caret // YajñS_3.266
+
+vaiśyahābdaṃ cared etad dadyād vaikaśataṃ gavām /
+ṣaṇmāsāc chūdrahāpy etad dhenur dadyād daśātha vā // YajñS_3.267
+
+durvṛttabrahmaviṭkṣatraśūdrayoṣāḥ pramāpya tu /
+dṛtiṃ dhanur bastam aviṃ kramād dadyād viśuddhaye // YajñS_3.268
+
+apraduṣṭāṃ striyaṃ hatvā śūdrahatyāvrataṃ caret /
+asthimatāṃ sahasraṃ tu tathānasthimatām anaḥ // YajñS_3.269
+
+mārjāragodhānakulamaṇḍūkāṃś ca patatriṇaḥ /
+hatvā tryahaṃ pibet kṣīraṃ kṛcchraṃ vā pādikaṃ caret // YajñS_3.270
+
+gaje nīlavṛṣāḥ pañca śuke vatso dvihāyanaḥ /
+kharājameṣeṣu vṛṣo deyaḥ krauñce trihāyanaḥ // YajñS_3.271
+
+haṃsaśyenakapikravyāj jalasthalaśikhaṇḍinaḥ /
+bhāsaṃ ca hatvā dadyād gām akravyādas tu vatsikām // YajñS_3.272
+
+urageṣv āyaso daṇḍaḥ paṇḍake trapu sīsakam /
+kole ghṛtaghaṭo deya uṣṭre guñjā haye 'ṃśukam // YajñS_3.273
+
+tittirau tu tiladroṇaṃ gajādīnām aśaknuvan /
+dānaṃ dātuṃ caret kṛcchram ekaikasya viśuddhaye // YajñS_3.274
+
+phalapuṣpānnarasajasattvaghāte ghṛtāśanam /
+kiṃcit sāsthivadhe deyaṃ prāṇāyāmas tv anasthike // YajñS_3.275
+
+vṛkṣagulmalatāvīrucchedane japyam ṛkśatam /
+syād oṣadhivṛthāchede kṣīrāśī go'nugo dinam // YajñS_3.276
+
+puṃścalīvānarakharair daṣṭaśvoṣṭrādivāyasaiḥ /
+prāṇāyāmaṃ jale kṛtvā ghṛtaṃ prāśya viśudhyati // YajñS_3.277
+
+yan me 'dya reta ityābhyāṃ skannaṃ reto 'bhimantrayet /
+stanāntaraṃ bhruvor madhyaṃ tenānāmikayā spṛśet // YajñS_3.278
+
+mayi teja iti chāyāṃ svāṃ dṛṣṭvāmbugatāṃ japet /
+sāvitrīm aśucau dṛṣṭe cāpalye cānṛte 'pi ca // YajñS_3.279
+
+avakīrṇī bhaved gatvā brahmacārī tu yoṣitam /
+gardabhaṃ paśum ālabhya nairṛtaṃ sa viśudhyati // YajñS_3.280
+
+bhaikṣāgnikārye tyaktvā tu saptarātram anāturaḥ /
+kāmāvakīrṇa ity ābhyāṃ juhuyād āhutidvayam // YajñS_3.281
+
+upasthānaṃ tataḥ kuryāt saṃ mā siṃcantv anena tu /
+madhumāṃsāśane kāryaḥ kṛcchraḥ śeṣavratāni ca // YajñS_3.282
+
+pratikūlaṃ guroḥ kṛtvā prasādyaiva viśudhyati /
+kṛcchratrayaṃ guruḥ kuryān mriyate prahito yadi // YajñS_3.283
+
+kriyamāṇopakāre tu mṛte vipre na pātakam /
+vipāke govṛṣāṇāṃ tu bheṣajāgnikriyāsu ca // YajñS_3.2831
+
+mithyābhiśaṃsino doṣo dviḥ samo bhūtavādinaḥ /
+mithyābhiśastadoṣaṃ ca samādatte mṛṣā vadan // YajñS_3.284
+
+mahāpāpopapāpābhyāṃ yo 'bhiśaṃsen mṛṣā param /
+abbhakṣo māsam āsīta sa jāpī niyatendriyaḥ // YajñS_3.285
+
+abhiśasto mṛṣā kṛcchraṃ cared āgneyam eva vā /
+nirvapet tu puroḍāśaṃ vāyavyaṃ paśum eva vā // YajñS_3.286
+
+aniyukto bhrātṛjāyāṃ gacchaṃś cāndrāyaṇaṃ caret /
+trirātrānte ghṛtaṃ prāśya gatvodakyāṃ viśudhyati // YajñS_3.287
+
+trīn kṛcchrān ācared vrātyayājako 'bhicarann api /
+vedaplāvī yavāśy abdaṃ tyaktvā ca śaraṇāgatam // YajñS_3.288
+
+goṣṭhe vasan brahmacārī māsam ekaṃ payovratam /
+gāyatrījapyanirataḥ śudhyate 'satpratigrahāt // YajñS_3.289
+
+prāṇāyāmī jale snātvā kharayānoṣṭrayānagaḥ /
+nagnaḥ snātvā ca bhuktvā ca gatvā caiva divā striyam // YajñS_3.290
+
+guruṃ huṃkṛtya tvaṃkṛtya vipraṃ nirjitya vādataḥ /
+baddhvā vā vāsasā kṣipraṃ prasādyopavased dinam // YajñS_3.291
+
+vipradaṇḍodyame kṛcchras tv atikṛcchro nipātane /
+kṛcchrātikṛcchro 'sṛkpāte kṛcchro 'bhyantaraśoṇite // YajñS_3.292
+
+deśaṃ kālaṃ vayaḥ śaktiṃ pāpaṃ cāvekṣya yatnataḥ /
+prāyaścittaṃ prakalpyaṃ syād yatra coktā na niṣkṛtiḥ // YajñS_3.293
+
+dāṣīkumbhaṃ bahirgrāmān ninayeran svabāndhavāḥ /
+patitasya bahiḥ kuryuḥ sarvakāryeṣu caiva tam // YajñS_3.294
+
+caritavrata āyāte ninayeran navaṃ ghaṭam /
+jugupseran na cāpy enaṃ saṃvaseyuś ca sarvaśaḥ // YajñS_3.295
+
+patitānām eṣa eva vidhiḥ strīṇāṃ prakīrtitaḥ /
+vāso gṛhāntake deyam annaṃ vāsaḥ sarakṣaṇam // YajñS_3.296
+
+nīcābhigamanaṃ garbhapātanaṃ bhartṛhiṃsanam /
+viśeṣapatanīyāni strīmām etāny api dhruvam // YajñS_3.297
+
+śaraṇāgatabālastrīhiṃsakān saṃvasen na tu /
+cīrṇavratān api sataḥ kṛtaghnasahitān imān // YajñS_3.298
+
+ghaṭe 'pavarjite jñātimadhyastho yavasaṃ gavām /
+sa dadyāt prathamaṃ gobhiḥ satkṛtasya hi satkriyā // YajñS_3.299
+
+vikhyātadoṣaḥ kurvīta parṣado 'numataṃ vratam /
+anabhikhyātadoṣas tu rahasyaṃ vratam ācaret // YajñS_3.300
+
+trirātropoṣito japtvā brahmahā tv aghamarṣaṇam /
+antarjale viśudhyeta dattvā gāṃ ca payasvinām // YajñS_3.301
+
+lomabhyaḥ svāhety atha vā divasaṃ mārutāśanaḥ /
+jale sthitvābhijuhuyāc catvāriṃśadghṛtāhutīḥ // YajñS_3.302
+
+trirātropoṣito hutvā kūṣmāṇḍībhir ghṛtaṃ śuciḥ /
+brāhmaṇasvarṇahārī tu rudrajāpī jale sthitaḥ // YajñS_3.303
+
+sahasraśīrṣājāpī tu mucyate gurutalpagaḥ /
+gaur deyā karmaṇo 'syānte pṛthag ebhiḥ payasvinī // YajñS_3.304
+
+prāṇāyāmaśataṃ kāryaṃ sarvapāpāpanuttaye /
+upapātakajātānām anādiṣṭasya caiva hi // YajñS_3.305
+
+oṃkārābhiṣṭutaṃ somasalilaṃ pāvanaṃ pibet /
+kṛtvā hi retoviṇmūtraprāśanaṃ tu dvijottamaḥ // YajñS_3.306
+
+niśāyāṃ vā divā vāpi yad ajñānakṛtaṃ bhavet /
+traikālyasaṃdhyākaraṇāt tat sarvaṃ vipraṇaśyati // YajñS_3.307
+
+śukriyāraṇyakajapo gāyatryāś ca viśeṣataḥ /
+sarvapāpaharā hy ete rudraikādaśinī tathā // YajñS_3.308
+
+yatra yatra ca saṃkīrṇam ātmānaṃ manyate dvijaḥ /
+tatra tatra tilair homo gāyatryā vācanaṃ tathā // YajñS_3.309
+
+vedābhyāsarataṃ kṣāntaṃ pañcayajñakriyāparam /
+na spṛśantīha pāpāni mahāpātakajāny api // YajñS_3.310
+
+vāyubhakṣo divā tiṣṭhan rātriṃ nītvāpsu sūryadṛk /
+japtvā sahasraṃ gāyatryāḥ śudhyed brahmavadhād ṛte // YajñS_3.311
+
+brahmacaryaṃ dayā kṣāntir dānaṃ satyam akalkatā /
+ahiṃsā steyamādhurye damaś ceti yamāḥ smṛtāḥ // YajñS_3.312
+
+snānaṃ maunopavāsejyāsvādhyāyopasthanigrahāḥ /
+niyamā guruśuśrūṣā śaucākrodhāpramādatā // YajñS_3.313
+
+gomūtraṃ gomayaṃ kṣīraṃ dadhi sarpiḥ kuśodakam /
+jagdhvā pare 'hny upavaset kṛcchraṃ sāntapanaṃ caret // YajñS_3.314
+
+pṛthaksāntapanadravyaiḥ ṣaḍahaḥ sopavāsakaḥ /
+saptāhena tu kṛcchro 'yaṃ mahāsāntapanaḥ smṛtaḥ // YajñS_3.315
+
+parṇodumbararājīvabilvapatrakuśodakaiḥ /
+pratyekaṃ pratyahaṃ pītaiḥ parṇakṛcchra udāhṛtaḥ // YajñS_3.316
+
+taptakṣīraghṛtāmbūnām ekaikaṃ pratyahaṃ pibet /
+ekarātropavāsaś ca taptakṛcchra udāhṛtaḥ // YajñS_3.317
+
+ekabhaktena naktena tathaivāyācitena ca /
+upavāsena caivāyaṃ pādakṛcchraḥ prakīrtitaḥ // YajñS_3.318
+
+yathākathaṃcit triguṇaḥ prājāpatyo 'yam ucyate /
+ayam evātikṛcchraḥ syāt pāṇipūrānnabhojanaḥ // YajñS_3.319
+
+kṛcchrātikṛcchraḥ payasā divasānekaviṃśatim /
+dvādaśāhopavāsena parākaḥ parikīrtitaḥ // YajñS_3.320
+
+piṇyākācāmatakrāmbusaktūnāṃ prativāsaram /
+ekarātropavāsaś ca kṛcchraḥ saumyo 'yam ucyate // YajñS_3.321
+
+eṣāṃ trirātram abhyāsād ekaikasya yathākramam /
+tulāpuruṣa ity eṣa jñeyaḥ pañcadaśāhikaḥ // YajñS_3.322
+
+tithivṛddhyā caret piṇḍān śukle śikhyaṇḍasammitān /
+ekaikaṃ hrāsayet kṛṣne piṇḍaṃ cāndrāyaṇaṃ caran // YajñS_3.323
+
+yathākathaṃcit piṇḍānāṃ catvāriṃśac chatadvayam /
+māsenaivopabhuñjīta cāndrāyaṇam athāparam // YajñS_3.324
+
+kuryāt triṣavaṇasnāyī kṛcchraṃ cāndrāyaṇaṃ tathā /
+pavitrāṇi japet piṇḍān gāyatryā cābhimantrayet // YajñS_3.325
+
+anādiṣṭeṣu pāpeṣu śuddhiś cāndrāyaṇena ca /
+dharmārthaṃ yaś cared etac candrasyaiti salokatām // YajñS_3.326
+
+kṛcchrakṛd dharmakāmas tu mahatīṃ śriyam āpnuyāt /
+yathā gurukratuphalaṃ prāpnoti susamāhitaḥ // YajñS_3.327
+
+śrutvaitān ṛṣayo dharmān yājñavalkyena bhāṣitān /
+idam ūcur mahātmānaṃ yogīndram amitaujasam // YajñS_3.328
+
+ya idaṃ dhārayiṣyanti dharmaśāstram atandritāḥ /
+iha loke yaśaḥ prāpya te yāsyanti triviṣṭapam // YajñS_3.329
+
+vidyārthī prāpnuyād vidyāṃ dhanakāmo dhanaṃ tathā /
+āyuṣkāmas tathaivāyuḥ śrīkāmo mahatīṃ śriyam // YajñS_3.330
+
+ślokatrayam api hy asmād yaḥ śrāddhe śrāvayiṣyati /
+pitṝṇāṃ tasya tṛptiḥ syād akṣayyā nātra saṃśayaḥ // YajñS_3.331
+
+brāhmaṇaḥ pātratāṃ yāti kṣatriyo vijayī bhavet /
+vaiśyaś ca dhānyadhanavān asya śāstrasya dhāraṇāt // YajñS_3.332
+
+ya idaṃ śrāvayed vidvān dvijān parvasu parvasu /
+aśvamedhaphalaṃ tasya tad bhavān anumanyatām // YajñS_3.333
+
+śrutvaitad yājñavaklyo 'pi prītātmā munibhāṣitam /
+evam astv iti hovāca namaskṛtya svayaṃbhuve // YajñS_3.334

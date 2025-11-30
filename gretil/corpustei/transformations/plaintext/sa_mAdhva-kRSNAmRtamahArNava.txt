@@ -1,0 +1,572 @@
+Mādhva Ānandatīrtha: Kṛṣṇāmṛtamahārṇava
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mAdhva-kRSNAmRtamahArNava.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Thomas K. Gugler
+## Contribution: Thomas K. Gugler
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Sri Anandatirtha Bhagavatpada, Sarvamulagranthah-Prasthanatrayi (ed. by Govindacarya), Vol. 5, Udupi : Akhila Bharata Madhva Maha Mandala, 1974, pp. 77-102 (cf. Thomas K. Gugler: Ozeanisches Gefühl der Unsterblichkeit : Der Krishnamritamaharnava des Madhva, Münster 2009, Leipziger Studien zu Kultur und Geschichte Süd- und Zentralasiens, 3).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Kṛṣṇāmṛtamahārṇava = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from mdhvkmou.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Madhva (Anandatirtha): Krsnamrtamaharnava
+Based on the ed.: Sri Anandatirtha Bhagavatpada,
+Sarvamulagranthah-Prasthanatrayi (ed. by Govindacarya),
+Vol. 5, Udupi : Akhila Bharata Madhva Maha Mandala, 1974, pp. 77-102
+(cf. Thomas K. Gugler: Ozeanisches Gefühl der Unsterblichkeit : Der Krishnamritamaharnava
+des Madhva, Münster 2009, Leipziger Studien zu Kultur und Geschichte Süd- und Zentralasiens, 3)
+Input by Thomas K. Gugler (ZMO Berlin)
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+kṛṣṇāmṛtamahārṇavaḥ
+
+oṃ.
+
+arcitaḥ saṃsmṛto dhyātaḥ kīrtitaḥ kathitaḥ śrutaḥ yo dadāty amṛtatvaṃ hi sa māṃ rakṣatu keśavaḥ. // mkm_1 //
+
+tāpatrayeṇa saṃtaptaṃ yad etad akhilaṃ jagat vakṣyāmi śāntaye hy asya kṛṣṇāmṛtamahārṇavam. // mkm_2 //
+
+te narāḥ paśavo loke kiṃ teṣāṃ jīvane phalam yair na labdhā harer dīkṣā nārcito vā janārdanaḥ. // mkm_3 //
+
+saṃsāre 'smin mahāghore janmarogabhayākule ayam eko mahābhāgaḥ pūjyate yad adhokṣajaḥ. // mkm_4 //
+
+sa nāma sukṛtī loke kulaṃ tena hy alaṃkṛtam ādhāraḥ sarvabhūtānāṃ yena viṣṇuḥ prasāditaḥ. // mkm_5 //
+
+yajñānāṃ tapasāṃ caiva śubhānāṃ caiva karmaṇāṃ tadviśiṣṭaphalaṃ nṛṇāṃ sadaivārādhanaṃ hareḥ. // mkm_6 //
+
+kalau kalimaladhvaṃsisarvapāpaharaṃ harim ye 'rcayanti narā nityaṃ te 'pi vandyā yathā hariḥ. // mkm_7 //
+
+nāsti śreyaskaraṃ nṛṇāṃ viṣṇor ārādhanān mune yuge 'smiṃs tāmase loke satataṃ pūjyate nṛbhiḥ. // mkm_8 //
+
+arcite sarvadeveśe śaṅkacakragadādhare arcitāḥ sarvadevāḥ syur yataḥ sarvagato hariḥ. // mkm_9 //
+
+svarcite sarvalokeśe surāsuranamaskṛte keśave kaṃsakeśighne na yāti narakaṃ naraḥ. // mkm_10 //
+
+sakṛd abhyarcya govindaṃ bilvapatreṇa mānavaḥ muktibhāgī nirātaṅkī viṣṇuloke ciraṃ vaset. // mkm_11 //
+
+sakṛd abhyarcito yena heḷayā 'pi namaskṛtaḥ sa yāti paramaṃ sthānaṃ yat surair api durlabham. // mkm_12 //
+
+nāradaḥ:
+samastalokanāthasya devadevasya śārṅgiṇaḥ
+sākṣād bhagavato viṣṇoḥ pūjanaṃ janmanaḥ phalam. // mkm_13 //
+
+pulastyaḥ:
+bhaktyā dūrvāṅkuraiḥ pumbhiḥ pūjitaḥ puruṣottamaḥ
+harir dadāti hi phalaṃ sarvayajñaiś ca durlabham. // mkm_14 //
+
+vidhinā devadeveśaḥ śaṅkhacakradharo hariḥ phalaṃ dadāti sulabhaṃ salilenāpi pūjitaḥ. // mkm_15 //
+
+narake pacyamānas tu yamena paribhāṣitaḥ kiṃ tvayā nārcito devaḥ keśavaḥ kleśanāśanaḥ. // mkm_16 //
+
+dharmaḥ:
+narasiṃho hṛṣīkeśaḥ puṇḍarīkanibhekṣaṇaḥ
+smaraṇān muktido nṛṇāṃ sa tvayā kiṃ na pūjitaḥ. // mkm_17 //
+
+dravyāṇām apy abhāve tu salilenāpi pūjitaḥ yo dadāti svakaṃ sthānaṃ sa tvayā kiṃ na pūjitaḥ. // mkm_18 //
+
+garbhasthitāmṛtā vā 'pi muṣitāste sudūṣitāḥ na prāptā yair harer dīkṣā sarvaduḥkhavimocanī. // mkm_19 //
+
+mārkaṇḍeyaḥ:
+sakṛd abhyarcito yena devadevo janārdanaḥ
+yat kṛtaṃ tatkṛtaṃ tena samprāptaṃ paramaṃ padam. // mkm_20 //
+
+dharmārthakāmamokṣāṇāṃ nānyopāyas tu vidyate satyaṃ bravīmi deveśa hṛṣīkeśārcanāhate. // mkm_21 //
+
+tasya yajñavarāhasya viṣṇor amitatejasaḥ praṇāmaṃ ye 'pi kurvanti teṣām api namo namaḥ. // mkm_22 //
+
+marīciḥ:
+anārādhitagovindair naraiḥ sthānaṃ nṛpātmaja
+na hi samprāpyate śreṣṭhaṃ tasmād ārādhayācyutam. // mkm_23 //
+
+atriḥ:
+paraḥ parāṇāṃ puruṣas tuṣṭo yasya janārdanaḥ
+sa cā 'pnoty akṣayaṃ sthānam etat satyaṃ mayoditam. // mkm_24 //
+
+aṅgirāḥ:
+yasyāntaḥ sarvam evedam acyutasyākhyayātmanaḥ
+tam ārādhaya govindaṃ sthānam agryaṃ yadīcchasi. // mkm_25 //
+
+pulahaḥ:
+paraṃ brahma paraṃ dhāma yo 'sau brahma sanātanam
+tam ārādhya hariṃ yāti muktim apy atidurlabhām. // mkm_26 //
+
+aindram indraḥ paraṃ sthānaṃ yam ārādhya jagatpatim prāpa yajñapatiṃ viṣṇuṃ tam ārādhaya suvrata. // mkm_27 //
+
+prāpnoty ārādhite viṣṇau manasā yad yad icchati trailokyāntargataṃ sthānaṃ kimu lokottarottarān. // mkm_28 //
+
+ye smaranti sadā viṣṇuṃ śaṅkhacakragadādharam sarvapāpavinirmuktāḥ paraṃ brahma viśanti te. // mkm_29 //
+
+tato 'niruddhaṃ deveśaṃ pradyumnaṃ ca tataḥ param tataḥ saṃkarṣaṇaṃ devaṃ vāsudevaṃ parāt param. // mkm_30 //
+
+vāsudevāt paraṃ nāsti iti vedāntaniścayaḥ vāsudevaṃ praviṣṭānāṃ punar āvartanaṃ kutaḥ. // mkm_31 //
+
+ātreyaḥ:
+yo yān icchen naraḥ kāmān nārī vā varavarṇinī
+tān samāpnoti vipulān samārādhya janārdhanam. // mkm_32 //
+
+pulaha sagte:
+
+brahmā:
+bāhubhyāṃ sāgaraṃ tartuṃ ka iccheta pumān bhuvi
+vāsudevam anārādhya ko mokṣaṃ gantum icchati. // mkm_33 //
+
+śaṃkaraḥ:
+kṛte pāpe 'nutāpo vai yasya puṃsaḥ prajāyate
+prāyaścittaṃ tu tasyoktaṃ harisaṃsmaraṇaṃ param. // mkm_34 //
+
+na hy apuṇyavatāṃ loke mūḍhānāṃ kuṭilātmanāṃ bhaktir bhavati govinde smaraṇaṃ kīrtanaṃ tathā. // mkm_35 //
+
+tadaiva puruṣo mukto janmaduḥkhajarādibhiḥ jitendriyo viśuddhātmā yadaiva smarate harim. // mkm_36 //
+
+prāpte kaliyuge ghore dharmajñānavivarjite na kaścit smarate devaṃ kṛṣṇaṃ kalimalāpaham. // mkm_37 //
+
+na kalau devadevasya janmaduḥkhāpahāriṇaḥ karoti martyo mūḍhātmā smaraṇaṃ kīrtanaṃ hareḥ. // mkm_38 //
+
+ye smaranti sadā viṣṇuṃ viśuddhenāntarātmanā te prayānti bhavaṃ tyaktvā viṣṇulokam anāmayam. // mkm_39 //
+
+garbhajanmajarārogaduḥkha saṃsārabandhanaiḥ na bādhyate naro nityaṃ vāsudevam anusmaran. // mkm_40 //
+
+yamamārgāṃ mahāghoraṃ narakāṇi yamaṃ tathā svapne 'pi ca na paśyeta yaḥ smared garuḍadhvajam. // mkm_41 //
+
+hṛdi rūpaṃ mukhe nāma naivedyam udare hareḥ pādodakaṃ ca nirmālyaṃ mastake yasya so 'cyutaḥ. // mkm_42 //
+
+govindasmaraṇaṃ puṃsāṃ pāparāśimahācalam asaṃśayaṃ dahaty āśu tūlarāśim ivānalaḥ. // mkm_43 //
+
+agastyaḥ:
+smaraṇād eva kṛṣṇasya pāpasaṅghātapañjaram
+śatadhā bhedam āyāti girir vajrahato tathā. // mkm_44 //
+
+kṛṣṇe ratāḥ kṛṣṇam anusmarantaḥ tad bhāvitās tad gatamānasāś ca. te bhinnadehāḥ praviśanti viṣṇuṃ havir yathā mantrahutaṃ hutāśe. // mkm_45 //
+
+sā hānis tan mahat chidraṃ sā cāndhajaḍamūkatā yan muhūrtaṃ kṣaṇaṃ vā 'pi vāsudevo na cintyate. // mkm_46 //
+
+nārāyaṇo nāma naro narāṇāṃ prasaṃhya coraḥ kathitaḥ pṛthivyām anekajanmārjitapāpasañcayaṃ dahaty aśeṣaṃ smṛtamātrayaiva. // mkm_47 //
+
+yasya saṃsmaraṇād eva vāsudevasya śārṅgiṇaḥ koṭijanmārjitaṃ pāpaṃ takṣaṇād eva naśyati. // mkm_48 //
+
+kiṃ tasya bahubhis tīrthaiḥ kiṃ tapobhiḥ kim adhvaraiḥ yo nityaṃ dhyāyate devaṃ nārāyaṇam ananyadhīḥ. // mkm_49 //
+
+ye mānavā vigatarāgaparāvarajñā nārāyaṇaṃ suraguruṃ satataṃ smaranti dhyānena tena hatakilbiṣacetanāste mātuḥ payodhararasaṃ na punaḥ pibanti. // mkm_50 //
+
+he citta cintaya sveha vāsudevam aharniśam nūnaṃ yaś cintitaḥ puṃsāṃ hanti saṃsārabandhanam. // mkm_51 //
+
+āloḍya sarvaśāstrāṇi vicārya ca punaḥ punaḥ idam ekaṃ suniṣpannaṃ dhyeyo nārāyaṇaḥ sadā. // mkm_52 //
+
+smṛte sakalakalyāṇabhājanaṃ yatra jāyate puruṣas tam ajaṃ nityaṃ vrajāmi śaraṇaṃ harim. // mkm_53 //
+
+vedeṣu yajñeṣu tapasu caiva dāneṣu tīrtheṣu vrateṣu caiva iṣṭeṣu pūrteṣu ca yat pradiṣṭaṃ puṇyaṃ smṛte tat khalu vāsudeve. // mkm_54 //
+
+aurvaḥ:
+ārādhayaiva naro viṣṇuṃ manaso yad yad icchati
+phalaṃ prāpnoty avikalaṃ bhūri svalpam athāpi vā. // mkm_55 //
+
+yan nāmakīrtanaṃ bhaktyā vilāyanam anuttamam maitreyāśeṣapāpānāṃ dhātūnām iva pāvakaḥ. // mkm_56 //
+
+kalikalmaṣam atyugraṃ narakārtipradaṃ nṛṇām prayāti vilayaṃ sadyaḥ sakṛt saṃkīrtite 'cyute. // mkm_57 //
+
+anāyāsena cā 'yānti muktiṃ keśavam āsritāḥ tadvighātāya jāyante śakrādyāḥ paripanthinaḥ. // mkm_58 //
+
+catussāgaram āsādya jambūdvīpottame kvacit na pumān keśavād anyaḥ sarvapāpacikitsakaḥ. // mkm_59 //
+
+yad abhyarcya hariṃ bhaktyā kṛte varṣaśatair api phalaṃ prāpnoty avikalaṃ kalau saṃkīrtya keśavam. // mkm_60 //
+
+kṣīyate tu yadā dharmaḥ prāpte ghore kalau yuge tadā na kīrtayet kaścin muktidaṃ devam acyutam. // mkm_61 //
+
+avaśenāpi yannāmni kīrtite sarvapātakaiḥ pumān vimucyate sadyaḥ siṃhatrastamṛgair iva. // mkm_62 //
+
+nārāyaṇeti mantro 'sti vāg asti vaśavartinī tathā 'pi narake ghore majjantīty etad adbhutam. // mkm_63 //
+
+ārtā viṣaṇṇāḥ śithilāś ca bhītā ghoreṣu ca vyādhiṣu vartamānāḥ saṃkīrtya nārāyaṅaśabdamātraṃ vimuktaduḥkhāḥ sukhino bhavanti. // mkm_64 //
+
+kauśikaḥ:
+sakṛd uccāritaṃ yais tu kṛṣṇeti na viśanti te
+garbhāgāraṃ gṛhaṃ mātur yamalokaṃ ca dussaham. // mkm_65 //
+
+kva nākapṛṣṭhagamanaṃ punarāvṛttilakṣaṇam kva japo vāsudeveti muktibījam anuttamam. // mkm_66 //
+
+buddhyā buddhvā vadasvainaṃ harir ity akṣaradvayam smaraṇād eva kṛṣṇasya na punarjāyate kvacit. // mkm_67 //
+
+he jihve mama nisnehe hariṃ kiṃ nuna bhāṣase hariṃ vadasva kalyāṇi saṃsārodadhinaur hariḥ. // mkm_68 //
+
+asāre khalu saṃsāre sārāt sārataro hariḥ puṇyahīnā na vindanti sāraṅgāś ca yathā jalam. // mkm_69 //
+
+kurukṣetreṇa kiṃ tasya kiṃ kāśyā puṣkareṇa vā jihvāgre vartate tasya harir ity akṣaradvayam. // mkm_70 //
+
+brahmovāca:
+asāre khalu saṃsāre sāram ekaṃ nirūpitam
+samastalokanāthasya sāram ārādhanaṃ hareḥ. // mkm_71 //
+
+sā jihvā yā hariṃ stauti tac cittaṃ yat tadarpaṇam tāv eva kevalau ślāghyau yau tatpūjākarau karau. // mkm_72 //
+
+yas tu viṣṇuparo nityaṃ dṛḍhabhaktir jitendriyaḥ svagṛhe 'pi vasan yāti tad viṣṇoḥ paramaṃ padam. // mkm_73 //
+
+śaṅkaraḥ:
+sādhu sādhu mahābhāga sādhu dānavanāśan
+yan māṃ pṛcchasi dharmajña keśavārādhanaṃ prati. // mkm_74 //
+
+nimiṣaṃ nimiṣārdhaṃ vā muhūrtam api bhārgava nādagdhāśeṣapāpānāṃ bhakti bhavati keśave. // mkm_75 //
+
+kiṃ tena manasā kāryaṃ yan na tiṣṭhati keśave mano muktiphalāvāptyau kāraṇaṃ saprayojanam. // mkm_76 //
+
+rogo nāma na sā jihvā yayā na stūyate hariḥ gartau nāma na tau karṇau yābhyāṃ tat karma na śrutam. // mkm_77 //
+
+nūnaṃ tat kaṇṭhaśālūkam athavā 'py upajihvikā rogo nāma na sā jihvā yā na vakti harer guṇān. // mkm_78 //
+
+bhārabhūtaiḥ kāryam ebhiḥ kiṃ tasya nṛpaśor dvija
+caraṇau tau tu saphalau keśavālayagāminau
+te ca netre mahābhāga yābhyāṃ sandṛśyate hariḥ. // mkm_79 //
+
+kiṃ tasya caraṇaiḥ kāryaṃ vṛthāsañcaraṇair dvija yair hi na vrajate jantuḥ keśavālayadarśane. // mkm_80 //
+
+vedavedāṅgaviduṣāṃ munīnāṃ bhāvitātmanām ṛṣitvam api dharmajña vijñeyaṃ tatprasādajam. // mkm_81 //
+
+vicitraratnaparyaṅke mahābhogena bhoginaḥ ramante nākanārībhiḥ keśavasmaraṇāt phalam. // mkm_82 //
+
+aśvamedhasahasrāṇāṃ yaḥ sahasraṃ samācaret nāsau tat phalam āpnoti tadbhaktair yad avāpyate. // mkm_83 //
+
+re re manuṣyāḥ puruṣottamasya karau na kasmān mukulīkurudhve kriyājuṣāṃ ko bhavatāṃ prayāsaḥ phalaṃ hi yat padam acyutasya. // mkm_84 //
+
+viṣṇor vimānaṃ yaḥ kuryāt sakṛd bhaktyā pradakṣiṇam aśvamedhasahasrasya phalam āpnoti mānavaḥ. // mkm_85 //
+
+pradakṣiṇaṃ tu yaḥ kuryād haribhaktyā samanvitaḥ haṃsayuktivimānena viṣṇulokaṃ sa gacchati. // mkm_86 //
+
+tīrthakoṭisahasrāṇi vratakoṭiśatāni ca nārāyaṇapraṇāmasya kalāṃ nārhanti ṣoḍaśīm. // mkm_87 //
+
+urasā śirasā dṛṣṭyā manasā vacasā tathā padbhyāṃ karābhyāṃ jānubhyāṃ praṇāmo 'ṣṭāṅga īritaḥ. // mkm_88 //
+
+śāṭhyenāpi namaskāraṃ kurvataḥ śārṅgapāṇaye śātajanmārjitaṃ pāpaṃ naśyaty eva na saṃśayaḥ. // mkm_89 //
+
+saṃsārārṇavam agrānāṃ narāṇāṃ pāpakarmaṇām nānyo dharttā jagannāthaṃ muktvā nārāyaṇaṃ param. // mkm_90 //
+
+reṇukuṇṭhigātrasya kaṇā yāvanti bhārata tāvad varṣasahasrāṇi viṣṇuloke mahīyate. // mkm_91 //
+
+pāvanaṃ viṣṇunaivedyaṃ subhojyam ṛṣibhiḥ smṛtam anyadevasya naivedyaṃ bhuktvā cāndrāyaṇaṃ caret. // mkm_92 //
+
+koṭyaindavasahasrais tu māsopoṣaṇakoṭibhiḥ yat phalaṃ labhyate pumbhir viṣṇor naivedya bhakṣaṇāt. // mkm_93 //
+
+trirātraphaladā nadyo yāḥ kāścid asamudragāḥ samudragās tu pakṣasya māsasya saritāṃ patiḥ. // mkm_94 //
+
+ṣaṇmāsaphaladā godā vatsarasya tu jāhnavī viṣṇupādodakasyaite kalāṃ nārhanti ṣoḍasīm. // mkm_95 //
+
+gaṇgāprayāgagayapuṣkaranaimiśāni saṃsevitāni bahuśaḥ kurujāṅgalāni kālena tīrthasalilāni punanti pāpaṃ pādodakaṃ bhagavataḥ prapunāti sadyaḥ. // mkm_96 //
+
+yāni kāni ca tīrthāni brahmāṇḍāntargatāni vai viṣṇupādodakasyaite kalāṃ nārhanti ṣoḍaśīm. // mkm_97 //
+
+snānaṃ pādodakaṃ viṣṇoḥ piban śirasi dhārayan sarva pāpavinirmukto vaiṣṇavīṃ siddhim āpnuyāt. // mkm_98 //
+
+yathā pādodakaṃ puṇyaṃ nirmālyaṃ cānulepanam naivedyaṃ dhūpaśeṣaṃ ca ārārttiś ca tathā hareḥ. // mkm_99 //
+
+tulasyās tu rajojuṣṭaṃ naivedyasya ca bhakṣaṇam nirmālyaṃ śirasā dhāryaṃ mahāpātakanāśanam. // mkm_100 //
+
+bhaktyā vā yadi vā 'bhaktyā cakrāṅkitaśilām prati darśanaṃ sparśanaṃ vā 'pi sarvapāpapraṇāśanam. // mkm_101 //
+
+sāḷagrāmodbhavo devo devo dvāravatībhavaḥ ubhayoḥ snānatoyena brahmahatyāṃ vyapohati. // mkm_102 //
+
+mlecchadeśe 'śucau vā 'pi cakrāṅko yatra tiṣṭhati yojanāni tathā trīṇi mama kṣetraṃ vasundhare. // mkm_103 //
+
+śālagrāmodbhavo devo śailaṃ cakrāṅkamaṇḍitam yatrāpi nīyate tatra vāraṇasyā śatādhikam. // mkm_104 //
+
+sāḷagrāmodbhavo devo devo dvāravatībhavaḥ ubhayoḥ saṃgamo yatra tatra muktir na saṃśayaḥ. // mkm_105 //
+
+hariṇā muktidānīha muktisthānāni sarvaśaḥ sa yasya sarvabhāveṣu tasya taiḥ kiṃ prayojanam. // mkm_106 //
+
+harir yāti harir yāti dasyuvyājena yo vadet so 'pi sadgatim āpnoti gatiṃ sukṛtino yathā. // mkm_107 //
+
+vāsudevaṃ parityajya yo 'nyaṃ devam upāsate tyaktvā 'mṛtaṃ sa mūḍhātmā bhuṅkte hālāhalaṃ viṣam. // mkm_108 //
+
+tyaktvāmṛtaṃ yathā kaścid anyapānaṃ piben naraḥ tathā hariṃ parityajya cānyaṃ devam upāsate. // mkm_109 //
+
+svadharmaṃ tu parityajya paradharmaṃ yathā caret tathā hariṃ parityajya cānyaṃ devam upāsate. // mkm_110 //
+
+gāṃ ca tyaktvā vimūḍhātmā gardabhīṃ vandate yathā tathā hariṃ parityajya cānyaṃ devam upāsate. // mkm_111 //
+
+vāsudevaṃ parityajya yo 'nyaṃ devam upāsate tṛṣito jāhnavītīre kūpaṃ khanati durmatiḥ. // mkm_112 //
+
+yathā gaṅgodakaṃ tyaktvā pibet kūpodakaṃ naraḥ tathā hariṃ parityajya yo 'nyaṃ devam upāsate. // mkm_113 //
+
+svamātaraṃ parityajya śvapākīṃ vandate tathā tathā hariṃ parityajya yo 'nyaṃ devam upāsate. // mkm_114 //
+
+yāvat svastham idaṃ piṇḍaṃ nirujaṃ karaṇānvitam tāvat kuruṣvā 'tmahitaṃ paścāt tāpena tapyase. // mkm_115 //
+
+yāvat svāsthyaṃ śarīreṣu karaṇeṣu ca pāṭavam tāvad arcaya govindam āyuśyaṃ sārthakaṃ kuru. // mkm_116 //
+
+smaryatāṃ tu hṛṣīkeśo hṛṣīkeṣu dṛḍheṣu ca adṛḍheṣu hṛṣīkeṣu hṛṣīkeśaṃ smaranti ke. // mkm_117 //
+
+yāvac cintayate jantur viṣayān viṣasannibhān tāvac cet smarate viṣṇuṃ ko na mucyeta bandhanāt. // mkm_118 //
+
+yāvat pralapate jantur viṣayān viṣasannibhān tāvac cet smarate viṣṇuṃ ko na mucyeta bandhanāt. // mkm_119 //
+
+sūta uvāca:
+jñātvā viprās tithiṃ samyag daivajñaiḥ samudīritām
+kartavya upavāsaś ca anyathā narakaṃ vrajet. // mkm_120 //
+
+kṣaye vā 'py athavā vṛddhau samprāpte vā dinakṣaye upoṣyā dvādaśī puṇyā pūrvaviddhāṃ parityajet. // mkm_121 //
+
+pūrvaviddhāṃ prakurvāṇo naro dharmān nikṛntati saṃtates tu vināśāya sampado haraṇāya ca. // mkm_122 //
+
+kalāvedhe tu viprendrā daśamyaikādaśīṃ tyajet surāyā bindunā spṛṣṭaṃ gaṅgāmbha iva santyajet. // mkm_123 //
+
+śvadṛtau pañcagavyaṃ ca daśamyā dūṣitāṃ tyajet ekādaśīṃ dvijaśreṣṭhāḥ pakṣayor ubhayor api. // mkm_124 //
+
+tasmād viprā na viddhā hi kartavyaikādasī kvacit viddhā hanti purāpuṇyaṃ śrāddhaṃ ca vṛṣalīpatiḥ. // mkm_125 //
+
+japtaṃ dattaṃ hutaṃ snātaṃ tathā pūjā kṛtā hareḥ tat sarvaṃ vilayaṃ yāti tamaḥ sūryodaye yathā. // mkm_126 //
+
+ekādaśyāṃ yadā brahman dinakṣayatithir bhavet upoṣyā dvādaśī tatra trayodaśyāṃ tu pāraṇam. // mkm_127 //
+
+pratipatprabhṛtayaḥ sarvā udayād udayād raveḥ sampūrṇā iti vijñeyā harivāsaravarjitāḥ. // mkm_128 //
+
+aruṇodayakāle tu daśamī yadi dṛśyate pāpamūlaṃ tadā jñeyam ekādaśyupavāsanam. // mkm_129 //
+
+aruṇodayakāle tu daśamī yadi dṛśyate na tatraikādaśī kāryā dharmakāmārthanāśinī. // mkm_130 //
+
+catastro ghaṭikāḥ prātar aruṇodaya ucyate yatīnāṃ snānakālo 'yaṃ gaṅgāmbhaḥsadṛśaḥ smṛtaḥ. // mkm_131 //
+
+udayāt prāg yadā viprā muhūrtadvayasaṃyutā sampūrṇaikādaśī nāma tatraivopavased vratī. // mkm_132 //
+
+udayāt prāk trighaṭikā vyāpiny ekādaśī yadā sandigdhaikādaśī nāma varjyā dharmārthanāśinī. // mkm_133 //
+
+putrapautravivṛddhyarthaṃ dvādaśyām upavāsayet tatra kratuśataṃ puṇyaṃ trayodaśyāṃ tu pāraṇaṃ. // mkm_134 //
+
+udayāt prāg dvighaṭikāvyāpinyekādaśī yadā saṅkīrṇaikādaśī nāma varjyā dharmārthakāṅkṣibhiḥ. // mkm_135 //
+
+putrarājyavivṛddhyarthaṃ dvādaśyām upavāsanam tatra kratuśataṃ puṇyaṃ trayodaśyāṃ tu pāraṇam. // mkm_136 //
+
+daśamīśeṣasaṃyuktā gāndhāryā samupoṣitā tasyāḥ putraśataṃ naṣṭaṃ tasmāt tāṃ parivarjayet. // mkm_137 //
+
+bahvāgamavirodheṣu brāhmaṇeṣu vivādiṣu upoṣyā dvādaśī puṇyā trayodaśyāṃ tu pāraṅam. // mkm_138 //
+
+ekādaśyāṃ tu viddhāyāṃ samprāpte śravaṇe tathā upoṣyā dvādaśī puṇyā pakṣayor ubhayor api. // mkm_139 //
+
+uparāgasahasrāṇi vyatīpātāyutāni ca amālakṣaṃ tu dvādaśyāḥ kalāṃ nārhanti ṣoḍaśīm. // mkm_140 //
+
+śuddhāpi dvādaśī grāhyā parato dvādaśī yadi
+viṣaṃ tu daśamī jñeyā 'mṛtaṃ caikādaśī tithiḥ.
+viṣapradhānā varjyā sā 'mṛtā grāhyā pradhānataḥ. // mkm_141 //
+
+dvādaśyāṃ bhojanaṃ caiva viddhāyāṃ haryupoṣaṇam yaḥ kuryān mandabuddhitvān nirayaṃ so 'dhigacchati. // mkm_142 //
+
+yāni kāni ca vākyāni viddhopāsyāparāṇi tu dhanadārcāparāṇi syur vaiṣṇavī na daśāyutā. // mkm_143 //
+
+athavā mohanārthāya mohinyā bhagavān hariḥ arthitaḥ kārayām āsa vyāsarūpī janārdanaḥ. // mkm_144 //
+
+dhanadārcāvivṛddhyarthaṃ mahāvittalayasya ca
+asurāṇāṃ mohanārthaṃ pāṣaṇḍānāṃ vivṛddhaye
+ātmasvarūpāvijñaptyai svarūpāprāptaye tathā. // mkm_145 //
+
+evaṃ viddhāṃ parityajya dvādaśyām upavāsane
+koṭijanmārjitaṃ pāpam ekayaiva vinaśyati
+tataḥ koṭiguṇaṃ vā 'pi niṣiddhasyetarair janaiḥ. // mkm_146 //
+
+yad anādikṛtaṃ pāpaṃ tad ūrdhvaṃ yat kariṣyati
+tat sarvaṃ vilayaṃ yāti pareṣām upavāsanāt
+na ca tasmāt priyatamaḥ keśavasya mamāpi vā. // mkm_147 //
+
+ekādaśyā hy avedhe tu dvādaśīṃ na parityajet pāraṇe maraṇe caiva tithis tātkālikī smṛtā. // mkm_148 //
+
+brahmacārī gṛhastho vā vānaprastho yatis tathā brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdro bhartṛmatī tathā. // mkm_149 //
+
+abhartṛkā tathā 'nye vā sūtavaidehikādayaḥ ekādaśyāṃ na bhuñjīta pakṣayor ubhayor api. // mkm_150 //
+
+ekādaśyāṃ tu yo bhuṅkte mohenā 'vṛtacetanaḥ śuklāyām atha kṛṣṇāyāṃ nirayaṃ yāti sa dhruvam. // mkm_151 //
+
+vivecayati yo mohāc chuklā kṛṣṇeti pāpakṛt ekādaśīṃ sa vai yāti nirayaṃ nātra saṃśayaḥ. // mkm_152 //
+
+yathā gaur naiva hantavyā śuklā kṛṣṇeti bhāmini ekadāśyāṃ na bhuñjīta pakṣayor ubhayor api. // mkm_153 //
+
+yāni kāni ca vākyāni kṛṣṇaikādaśivarjane bharaṇyādiniṣedhe 'pi tāni kāmyaphalārthinām. // mkm_154 //
+
+kāmino 'pi hi nityārthaṃ kuryur evopavāsanam prīṇanārthaṃ harer nityaṃ na tu kāmavyapekṣayā. // mkm_155 //
+
+tasmāc chuklām atho kṛṣṇāṃ bharaṇyādiyutām api
+pratyavāyaniṣedhārtham upavāsīta nityaśaḥ
+prīṇanārthaṃ hareś vāpi viṣṇulokasya cā 'ptaye. // mkm_156 //
+
+kalā vā ghaṭikā vā 'pi apare dvādaśī yadi dvādaśadvādaśīr hanti pūrvedyuḥ pāraṇe kṛte. // mkm_157 //
+
+atiriktā dvādaśī cet sa tāṃ nopoṣayed yadi dvādaśadvādaśīr hanti dvādaśī cātilaṅghitā. // mkm_158 //
+
+dvādaśyām atiriktāyāṃ yo bhuṅkte pūrvavāsare dvādaśadvādaśīr hanti dvādaśīṃ na parityajet. // mkm_159 //
+
+dvādaśīṃ śravaṇopetāṃ yo nopoṣyāt sumandadhīḥ pañcasaṃvatsarakṛtaṃ puṇyaṃ tasya vinaśyati. // mkm_160 //
+
+ekādaśīm upoṣyātha dvādaśīm apy upoṣayet na tatra vidhilopaḥ syād ubhayor devatā hariḥ. // mkm_161 //
+
+pārayitvodakenāpi bhuñjāno naiva duṣyati
+aśitānaśitā yasmād āpo vidvadbhir īritāḥ
+ambhasā kevalenātha kariṣye vratapāraṇam. // mkm_162 //
+
+na kāśī na gayā gaṅgā na reva na ca gautamī na cāpi kauravaṃ kṣetraṃ samā bhūpa harer dināt. // mkm_163 //
+
+aśvamedhasahasrāṇi vājapeyāyutāni ca ekādaśyupavāsasya kalāṃ nārhanti ṣoḍaśīm. // mkm_164 //
+
+ekādaśīsamutthena vahninā pātakendhanam bhasmībhavati rājendra api janmaśatodbhavam. // mkm_165 //
+
+nedṛśaṃ pāvanaṃ kiñcin narāṇāṃ bhuvi vidyate yādṛśaṃ padmanābhasya dinaṃ pātakahānidam. // mkm_166 //
+
+tāvat pāpāni dehe 'smiṃs tiṣṭhanti manujādhipa yāvan nopoṣayej jantuḥ padmanābhadinaṃ śivam. // mkm_167 //
+
+ekādaśendriyaiḥ pāpaṃ yat kṛtaṃ bhavati prabho ekādaśyupavāsena tat sarvaṃ vilayaṃ nayet. // mkm_168 //
+
+ekādaśīsamaṃ kiñcit pāpatrāṇaṃ na vidyate vyājenāpi kṛtā rājan na darśayati bhāskarim. // mkm_169 //
+
+śrī vedavyāsa uvāca:
+sa brahmahā sa goghnaś ca stenaḥ sa gurutalpagaḥ
+ekādaśyāṃ tu bhuñjānaḥ pakṣayor ubhayor api. // mkm_170 //
+
+varaṃ svamātṛgamanaṃ varaṃ gomāṃsabhakṣaṇam varaṃ hatyā surāpānam ekādaśyāṃ tu bhojanāt. // mkm_171 //
+
+ekādaśīdine puṇye bhuñjate ye narādhamāḥ avalokya mukhaṃ teṣām ādityam avalokayet. // mkm_172 //
+
+pṛthivyāṃ yāni pāpāni brahmahatyādikāni ca annam āśritya tiṣṭhanti samprāpte harivāsare. // mkm_173 //
+
+rugmāṅgadaḥ:
+aṣṭavarṣādhiko yas tu aśītir na hi pūryate
+yo bhuṅkte mānavaḥ pāpo viṣṇor ahani cāgate. // mkm_174 //
+
+pitā vā yadi vā putro bhāryā vā 'pi suhṛjjanaḥ padmanābhadine bhuṅkte nigrāhyo dasyuvad bhavet. // mkm_175 //
+
+dharmavibhūṣaṇaḥ:
+prātar haridine lokās tiṣṭhadhvaṃ caikabhojanāḥ
+akṣāralavaṇāḥ sarve haviṣyān niṣeviṇaḥ. // mkm_176 //
+
+avanītapaśayanāḥ priyāsaṃgavivarjitāḥ smaradhvaṃ devadeveśaṃ purāṇapuruṣottamam. // mkm_177 //
+
+sakṛd bhojanasaṃyuktā hy upavāse bhaviṣyatha akṛtaśrāddhanicayā jalapiṇḍodakakriyāḥ. // mkm_178 //
+
+brahmā:
+upoṣya dvādaśīṃ puṇyāṃ sarvapāpakṣayapradām
+na paśyati yamaṃ vā 'pi narakān na ca yātanām. // mkm_179 //
+
+raṭantīha purāṇāni bhūyo bhūyo varānane na bhoktavyaṃ na bhoktavyaṃ samprāpte harivāsare. // mkm_180 //
+
+dvādaśī na pramoktavyā yāvad āyuḥ pravartate arcanīyo hṛṣīkeśo viśuddhenāntarātmanā. // mkm_181 //
+
+bhaktyā grāhyo hṛṣīkeśo na dhanair dharaṇīsurāḥ bhaktyā sampūjito viṣṇuḥ phalaṃ datte samīhitam. // mkm_182 //
+
+jalenāpi jagannāthaḥ pūjitaḥ kleśanāśanaḥ paritoṣaṃ prayāty āśu tṛṣārtās tu yathā jalaiḥ. // mkm_183 //
+
+āsīnasya śayānasya tiṣṭhato vrajato 'pi vā ramasva puṇḍarīkākṣa hṛdaye mama sarvadā. // mkm_184 //
+
+sarvagaś caiva sarvātmā sarvāvasthāsu cācyuta ramasva puṇḍarīkākṣa nṛsiṃha hṛdaye mama. // mkm_185 //
+
+karāvalambanaṃ dehi śrī kṛṣṇa kamalekṣaṇa bhavapaṅkārṇave ghore majjato mama sarvadā. // mkm_186 //
+
+trāhi trāhi jagannātha vāsudevācyutāvyaya māṃ samuddhara govinda duḥkhasaṃsārasāgarāt. // mkm_187 //
+
+etat puṇyaṃ paraṃ guhyaṃ pavitraṃ pāpanāśanam āyuṣyaṃ ca yaśasyaṃ ca kaliduḥsvapnanāśanam. // mkm_188 //
+
+kalau pāpaṃ kiyanmātraṃ hatyāsteyādisambhavam smṛte manasi govinde dahyate tūlarāśivat. // mkm_189 //
+
+kalau keśavabhaktānāṃ na bhayaṃ vidyate kvacit smṛte saṃkīrtite dhyāte saṃkṣayaṃ yāti pātakam. // mkm_190 //
+
+adhyetavyam idaṃ śāstraṃ śrotavyam anasūyayā bhaktebhyaś ca pradātavyaṃ dhārmikebhyaḥ punaḥ punaḥ. // mkm_191 //
+
+adhīyāna idaṃ śāstram viṣṇor māhātmyam uttamam sarvapāpavinirmuktaḥ prāpnoti paramaṃ padam. // mkm_192 //
+
+śrutvā dharmaṃ vijānāti śrutvā tyajati durmatim śrutvā jñānam avāpnoti śrutvā mokṣaṃ ca gacchati. // mkm_193 //
+
+tasmād idaṃ samāśrāvyaṃ śrotavyaṃ ca sadaiva hi kutarkadāvadagdhebhyo na dātavyaṃ kathañcana. // mkm_194 //
+
+saṃsāraviṣapānena ye mṛtāḥ prāṇino bhuvi amṛtāya smṛtas teṣāṃ kṛṣṇāmṛtamaharṇavaḥ. // mkm_195 //
+
+klinnaṃ pādodakenaiva yasya nityaṃ kaḷebaram tīrthakoṭisahasrais tu snāto bhavati pratyaham. // mkm_196 //
+
+tīrthakoṭisahasrais tu sevitaiḥ kiṃ prayojanam toyaṃ yadi piben nityaṃ sāḷagrāmaśilācyutam. // mkm_197 //
+
+sāḷagrāmaśilāsparśaṃ ye kurvanti dine dine vāñchanti karasaṃsparśaṃ teṣāṃ devāḥ savāsavāḥ. // mkm_198 //
+
+duḥsaho nārako vahnir duḥsahā yamakiṅkarāḥ viṣamaśvāntakapathaḥ pretatvaṃ cātidāruṇam. // mkm_199 //
+
+vicintya manasā 'py evaṃ pātakād vinivarttayet smaraṇaṃ kīrtanaṃ viṣṇoḥ sadaiva na parityajet. // mkm_200 //
+
+śrī vedavyāsaḥ:
+acyutānantagovindanāmoccāraṇabhīṣitāḥ
+naśyanti sakalā rogāḥ satyaṃ satyaṃ vadāmy aham. // mkm_201 //
+
+sakṛd uccāritaṃ yena harir ity akṣaradvayam baddhaḥ parikaras tena mokṣāya gamanaṃ prati. // mkm_202 //
+
+evaṃ brahmādayo devā ṛṣayaś ca tapodhanāḥ kīrtayanti suraśreṣṭhaṃ devaṃ nārāyaṇaṃ prabhum. // mkm_203 //
+
+kiṃ tasya dānaiḥ kiṃ tīrthaiḥ kiṃ tapobhiḥ kim adhvaraiḥ yo nityaṃ dhyāyate devaṃ nārāyaṇam ananyadhīḥ. // mkm_204 //
+
+nityotsavo nityatā ca nityaśrīr nityaśo jayaḥ yeṣāṃ hṛdistho bhagavān maṅgalāyatano hariḥ. // mkm_205 //
+
+jīvaṃś caturdaśād ūrdhvaṃ puruṣo niyamena tu strī vā 'py anūnadaśakaṃ dehaṃ mānuṣam ārjate. // mkm_206 //
+
+caturdaśordhvajīvīni saṃsāraś cādivarjitaḥ ato 'vittvā paraṃ devaṃ mokṣāśā kā mahāmune. // mkm_207 //
+
+ācaturdaśamād varṣāt karmāṇi niyamena tu
+daśāvarāṇāṃ dehānāṃ kāraṇāni karoty ayam
+ataḥ karmakṣayān muktiḥ kuta eva bhaviṣyati. // mkm_208 //
+
+samānāṃ viṣamā pūjā viṣamāṇāṃ samā tathā kriyate yena devo 'pi svapadād bhraśyate hi saḥ. // mkm_209 //
+
+vittaṃ bandhur vayaḥ karma vidyā caiva tu pañcamī etāni mānyasthānāni garīyo yad yad uttaram. // mkm_210 //
+
+guṇānusāriṇīṃ pūjāṃ samāṃ dṛṣṭiṃ ca yo naraḥ sarvabhūteṣu kurute tasya viṣṇuḥ prasīdati. // mkm_211 //
+
+yathā suhṛtsu kartavyaṃ pitṛśatrusuteṣu ca tathā karoti pūjādi samabuddhiḥ sa ucyate. // mkm_212 //
+
+tiryakpuṇḍraṃ na kurvīta samprāpte maraṇe 'pi ca na cānyan nāma vibrūyāt paraṃ nārāyaṇādṛte. // mkm_213 //
+
+naivedyaśeṣaṃ devasya yo bhunakti dine dine sikthe sikthe bhavet puṇyaṃ cāndrāyaṇaśatādhikam. // mkm_214 //
+
+ūrdhvapuṇḍram ṛjuṃ saumyaṃ lalāṭe dṛśyate sa caṇḍālo 'pi śuddhātmā pūjya eva na saṃśayaḥ. // mkm_215 //
+
+aśucir vā 'py anācāro manasā pāpam ācaran śucir eva bhaven nityam ūrdhvapuṇḍrānkito naraḥ. // mkm_216 //
+
+ūrdhvapuṇḍravihīnasya śmaśānasadṛśaṃ mukham avalokya mukhaṃ teṣām ādityam avalokayet. // mkm_217 //
+
+yajño dānaṃ tapaś caiva svādhyāyaḥ pitṛtarpaṇam vyarthaṃ bhavati tat sarvam ūrdhvapuṇḍraṃ vinā kṛtam. // mkm_218 //
+
+gopīcandanaliptāṅgo yaṃ yaṃ paśyati cakṣuṣā taṃ taṃ śuddhaṃ vijānīyān nātra kāryā vicāraṇā. // mkm_219 //
+
+āsphoṭayanti pitaraḥ pranṛtyanti pitāmahāḥ vaiṣṇavo 'smatkule jātaḥ sa naḥ santārayiṣyati. // mkm_220 //
+
+jīvitaṃ viṣṇubhaktasya varaṃ pañcadināny api na tu kalpasahasrais tu bhaktihīnasya keśave. // mkm_221 //
+
+kiṃ tena jātamātreṇa bhūbhāreṇānnaśatruṇā yo jāto nārcayed viṣṇuṃ na smaren nāpi kīrtayet. // mkm_222 //
+
+yo dadāti dvijātibhyaś candanaṃ gopimarditam api sarṣapamātreṇa punāty āsaptamaṃ kulam. // mkm_223 //
+
+jñānī ca karmāṇi sado 'ditāni kuryād akāmaḥ satataṃ bhavet. // mkm_224 //
+
+atītānāgatajñānī trailokyodvaraṇakṣamaḥ etādṛśo 'pi nā 'cāraṃ śrautaṃ smārtaṃ parityajet. // mkm_225 //
+
+yad eva vidyayā karoti śraddhayopaniṣadā sad eva vīryavattaraṃ bhavati. // mkm_226 //
+
+kurvan eveha karmāṇi jijīviṣec chataṃ samāḥ evaṃ tvayi nānyatheto 'sti na karma lipyate nare. // mkm_227 //
+
+ācāraś caiva sādhūnām ātmanas tuṣṭir eva ca vedapraṇihito dharmo hy adharmas tadviparyayaḥ. // mkm_228 //
+
+niṣkāmaṃ jñānapūrvaṃ tu nivṛttam iha cocyate nivṛttaṃ sevamānas tu brahmābhyeti sanātanam. // mkm_229 //
+
+iti kṛṣṇāmṛtamahārṇavaḥ samāptaḥ

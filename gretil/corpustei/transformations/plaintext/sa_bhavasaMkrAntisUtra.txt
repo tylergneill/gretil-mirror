@@ -1,0 +1,93 @@
+Bhavasaṃkrāntisūtra
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhavasaMkrAntisUtra.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - N. Aiyaswami Shastri: Bhavasaṅkrānti Sūtra. Madras: Adyar Library, 1938, pp. 1-6.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Bhavasaṃkrāntisūtra = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsu010_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Bhavasankrantisutra = BhsSū
+Based on the edition by N. Aiyaswami Shastri: Bhavasaṅkrānti Sūtra.
+Madras: Adyar Library, 1938, pp. 1-6.
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sutra section, text no. 10
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+bhavasaṅkrāntisūtram
+
+namassarvabuddhabodhisattvebhyaḥ /
+
+1. evaṃ mayā śrutam / ekasmin samaye bhagavān rājagṛhe viharati sma kalantakanivāse veṇuvane mahatā bhikṣusaṅaghena sārdhaṃ dviśatapacāśadbhiḥ bhikṣubhiḥ saṃbahulaiśca bodhisattvamahāsattvaiḥ / atha bhagavānanekaśatasahasraparivāraparivṛtaḥ purato 'valokya dharmaṃ deśayati sma / ādau kalyāṇaṃ madhye kalyāṇamavasāne kalyāṇaṃ svarthaṃ suvyajanaṃ kevalaṃ paripūrṇaṃ pariśuddhaṃ paryavadātaṃ brahmacaryaṃ prakāśayati sma //
+
+2. tadā magadharājaḥ śreṇyo vimvisāraḥ mahātā rājavibhavena mahatā ca rājabalena rājagṛhānmahānagarānniṣkramya yena veṇuvanaṃ yena ca bhagavān tenopasaṅakramīt / upasaṅakramya bhagavataḥ pādau śirasā abhivandya triḥ pradakṣiṇīkṛtya ekānte atiṣṭhat / ekānte sthitvā magadharājaḥ śreṇyo bimbisāraḥ bhagavantametadavocat / kathaṃ bhagavan kṛtaṃ karma saṃcayaṃ pratirudhya ciraniruddhaṃ maraṇakāla upasthitaṃ manaso 'bhimukhībhavati / sūnyeṣu sarvasaṃskāreṣu kathaṃ karmaṇāmavipraṇāśo 'sti //
+
+3. evamukte bhagavān magadharājaṃ śreṇyaṃ bimbisārametadavocat / tadyathā mahārāja puruṣaḥ suptaḥ svapne janapadakalyāṇyā striyā sārdhaṃ paricaret / sa śayitavibuddhaḥ janapadakalyāṇīṃ tāṃ striyamanusmaret / tatkiṃ manyase mahārāja svapne sā janapadakalyāṇī strī //
+
+4. āha! nohīdaṃ bhagavan //
+
+5. bhagavānāha!tat kiṃ manyase mahārāja api nu sa puruṣaḥ kiṃ paṇḍitajātīyo bhavet / yaḥ svapne janapadakalyāṇīṃ striyamabhiniviśet //
+
+6. āha! nohīdaṃ bhagavan! tatkasya hetoḥ / atyantatayā tu bhagavan svapne janapadakalyāṇī strī na saṃvidyate / nopalabhyate / kutaḥ punaranayāsārdhaṃ paricaraṇā / evaṃ vighātasya klamathasya bhāgī syāt //
+
+7. bhagavānāha!evameva mahārāja balo 'śrutavān pṛthagjanaścakṣuṣā rūpāṇi ddaṣṭvā saumanasyasthānīyāni rūpāṇyabhiniviśet / abhiniviṣṭa anurajyate / anuraktaḥ saṃrajyate / saṃrakto rāgajaṃ dveṣajaṃ mohajaṃ karma kāyavāṅmanobhirabhisaṃskaroti / tacca karma abhisaṃskṛtaṃ nirudhyate / niruddhaṃ na pūrvāṃ diśaṃ niśritya tiṣṭhati / na dakṣiṇām / na paścimām / nottarām / nordhvam / nādhaḥ / na vidiśaṃ niśritya tiṣṭhati / tat karma kadācinmaraṇa kālasamaya upasthite tatsabhāgasya karmaṇaḥ kṣayāt caramavijñāne niruddhe manaso 'bhimukhībhavati / tadyathāpi nāma suptaśayitavibuddhasya janapadakalyāṇi strī / evam hi mahārāja caramavijñānaṃ nirudhyate / aupapattyaṃśikaṃ prathamavijñānaṃ utpadyate / yadi vā deve / yadi vā mānuṣe / yadi vāsure / yadi vā narakeṣu / yadi vā tiryagyoniṣu / yadi vā preteṣu /
+
+tasya ca mahārāja prathamavijñānasya samanantaraniraddhasya tatsabhāgā cittasaṃtatiḥ pravartate / yatra vipākasya pratisaṃvedanā prajñāyate / tatra mahārāja na kaściddharmaḥ asmāt lokātparalokaṃ saṅkrāmati / cyutyupapattī ca prajñāyete / tatra mahārāja yaścaramavijñānasya nirodhaḥ / sā cyutiriti saṃjñā / yaḥ prathamavijñānasya prādurbhāvaḥ / sopapattiriti / caramavijñānaṃ mahārāja nirodhe 'pi na svacidgacchati / aupapattyaṃśikaṃ prathamavijñānamutpāde 'pi na kutaścidāgacchati / tat kasya hetoḥ / svabhāvarahitatvāt / tatra mahārāja caramavijñānaṃ caramavijñānena śūnyam / cyutiścayutyā śūnyā / karma karmaṇā śūnyam / prathamavijñānaṃ prathamavijñānena śūnyam / upapattirupapattyā śūnyā / karmaṇāmavipraṇāśaścaprajñāyate / prathamavijñānasya mahārāja aupapattyaṃśikasya samanantaraniruddhasya nirantarā cittasantatiḥ pravartate / yatra vipākasya pratisaṃvedanī prajñāyate / evaṃ bhagavānāha / sugata evamuktvā anyadevamavocat śāstā //
+
+8. sarvametannāmamātraṃ saṃjñāmātre pratiṣṭhitam /
+abhidhānātpṛthakbhūtamabhidheyaṃ na vidyate //
+
+9. yena yena hi nāmnā vai yo yo dharmo 'bhilapyate /
+nāsau saṃvidyate tatra dharmāṇāṃ sā hi dharmatā //
+
+10. nāmnā hi nāmatā śūnyā nāmnā nāma na vidyate /
+anāmakāḥ sarvadharmā nāmna tu paridīpitāḥ //
+
+11. ime dharmā asantaśca kalpanāyāḥ samuddhitāḥ /
+sāpyatra kalpanā śūnyā yayā śūnyā vikalpitāḥ //
+
+12. cakṣūrūpaṃ paśyatīti samyagdraṣṭrā yaducyate /
+mithyāśraddhastha lokasya tatsatyaṃ saṃvṛtīritam //
+
+13. sāmagrayā darśanaṃ yatra prakāśayati nāyakaḥ /
+prāhopacārabhūmiṃ tāṃ paramārthasya buddhimān //
+
+14. na cakṣūḥ prekṣate rūpaṃ mano dharmānna vetti ca /
+etattu paramaṃ satyaṃ yatra loko na gāhate //
+
+15. evamavocadbhagavān / magadhadeśarājaḥ śreṇyaḥ bimbisāraḥ te bodhisattvāste ca bhikṣavaḥ sadevamānuṣāsuragandharvaśca loko muditvā bhagavato bhāṣitamabhyanandan //
+
+āryabhavasaṅkrāntirnāma mahāyānasūtraṃ saṃpūrṇam /

@@ -1,0 +1,107 @@
+Vāmana: Kāvyālaṃkārasūtra
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vAmana-kAvyAlaMkArasUtra-alt.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Masahiro Takano
+## Contribution: Masahiro Takano
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Narayanarama, Delhi : Motilal Banarsidas, 1983. śrīVāmanācāryaviracitāni Kāvyālaṅkārasūtrāni Svavṛttisamalaṅkṛtāni śrīNārāyaṇarāma ācārya Kāvyatīrtha ityetaiṣ ṭippaṇyādibhiḥ samalaṅkṛtya saṃśodhitāni Delhi : Motilal Banarsidasa, 1983.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Kāvyālaṃkārasūtra-alt = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from vamkalsu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Vamana: Kavyalamkara (sutras without commentary)
+Based on the ed. by Narayanarama, Delhi : Motilal Banarsidas, 1983.
+śrīVāmanācāryaviracitāni
+Kāvyālaṅkārasūtrāni
+Svavṛttisamalaṅkṛtāni
+śrīNārāyaṇarāma ācārya Kāvyatīrtha ityetaiṣ ṭippaṇyādibhiḥ
+samalaṅkṛtya saṃśodhitāni
+Delhi : Motilal Banarsidasa, 1983
+Input by Masahiro Takano
+=================================================
+An Asterisk mark in the end of line means
+that comma or semicolon is used in the original.
+=================================================
+REFERENCE SYSTEM:
+VKal_n,n.n = [adhikaraṇa],[adhyaya].[sutra]
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+pāṇḍitavaraśrīvāmanaviracitāni kāvyālaṅkārasūtrāṇi svavṛttisametāni
+
+śārīraṃ nāma prathamādhikaraṇam /
+
+prathamo 'dhyāyaḥ /
+
+praṇamya paramaṃ jyotirvāmanena kavipriyā /
+kāvyālaṅkārasūtrāṇāṃ teṣāṃ vṛttirvidhīyate //
+kāvyaṃ grāhyamalaṅkārāt // vkal_1,1.1 //saundaryamalaṅkāraḥ // vkal_1,1.2 //sa doṣaguṇālaṅkārahānādānābhyām // vkal_1,1.3 //śāstrataste // vkal_1,1.4 //kāvyaṃ saddṛṣṭādṛṣṭārtham, prītikīrtihetutvāt // vkal_1,1.5* //
+dvitīyo 'dhyāyaḥ /
+arocakinaḥ satṛṇābhyavahāriṇaśca kavayaḥ // vkal_1,2.1 //pūrve śiṣyāḥ, vivekitvāt // vkal_1,2.2* //netare, tadviparyayāt // vkal_1,2.3* //na śāstramadravyeṣvarthavat // vkal_1,2.4 //na katakaṃ paṅkaprasādanāya // vkal_1,2.5 //rītirātmā kāvyasya // vkal_1,2.6 //viśiṣṭā padaracanā rītiḥ // vkal_1,2.7 //viśeṣo guṇātmā // vkal_1,2.8 //sā tridhā --- vaidarbhī gauḍīyā pāñcālī ceti // vkal_1,2.9 //vidarbhādiṣu dṛṣṭatvāttatsamākhyā // vkal_1,2.10 //samagraguṇopetā vaidarbhī // vkal_1,2.11 //ojaḥkāntimatī gauḍīyā // vkal_1,2.12 //mādhuryasaukumāryopapannā pāñcālī // vkal_1,2.13 //tāsāṃ pūrvā grāhyā, guṇasākalyāt // vkal_1,2.14* //na punaritare, stokaguṇatvāt // vkal_1,2.15* //tadārohaṇārthamitarābhyāsa ityeke // vkal_1,2.16 //tattu na; atattvaśīlasya tattvāniṣpatteḥ // vkal_1,2.17* //na śaṇasūtravānābhyāse trasarasūtravānavaicitryalābhaḥ // vkal_1,2.18 //sāpi samāsābhāve śuddhavaidarbhī // vkal_1,2.19 //tasyāmarthaguṇasaṃpadāsvādyā // vkal_1,2.20 //tadupārohādarthaguṇaleśo 'pi // vkal_1,2.21 //sāpi vaidarbhī, tātsthyāt // vkal_1,2.22* //
+tṛtīyo 'dhyāyaḥ /
+loko vidyā prakīrṇa ca kāvyāṅgāni // vkal_1,3.1 //lokavṛttaṃ lokaḥ // vkal_1,3.2 //śabdasmṛtyabhidhānakośacchandovicitikalākāmaśāstradaṇḍanītipūrvā vidyāḥ // vkal_1,3.3 //śabdasmṛteḥ śabdaśuddhiḥ // vkal_1,3.4 //abhidhānakośāt padārthaniścayaḥ // vkal_1,3.5 //chandovicitervṛttasaṃśayacchedaḥ // vkal_1,3.6 //kalāśāstrebhyaḥ kalātattvasya saṃvit // vkal_1,3.7 //kāmaśāstrataḥ kāmopacārasya // vkal_1,3.8 //daṇḍanīternayāpanayayoḥ // vkal_1,3.9 //itivṛttakuṭilatvaṃ ca tataḥ // vkal_1,3.10 //lakṣyajñatvamabhiyogo vṛddhasevāvekṣaṇaṃ pratibhānamavadhānaṃ ca prakīrṇam // vkal_1,3.11 //tatra kāvyaparicayo lakṣyajñatvam // vkal_1,3.12 //kāvyabandhodyamo 'bhiyogaḥ // vkal_1,3.13 //kāvyopadeśaguruśuśrūṣaṇaṃ vṛddhasevā // vkal_1,3.14 //padādhānoddharaṇamavekṣaṇam // vkal_1,3.15 //kavitvabījaṃ pratibhānam // vkal_1,3.16 //cittaikāgryamavadhānam // vkal_1,3.17 //taddeśakālābhyām // vkal_1,3.18 //vivikto deśaḥ // vkal_1,3.19 //rātriyāmasturīyaḥ kālaḥ // vkal_1,3.20 //kāvyaṃ gadyaṃ padyaṃ ca // vkal_1,3.21 //gadyaṃ vṛttagandhi cūrṇamutkalikāprāyaṃ ca // vkal_1,3.22 //padyabhāgavadvṛttagandhi // vkal_1,3.23 //anāviddhalalitapadaṃ cūrṇam // vkal_1,3.24 //viparītamutkalikāprāyam // vkal_1,3.25 //padyamanekabhedam // vkal_1,3.26 //tadanibaddhaṃ nibaddhaṃ ca // vkal_1,3.27 //kramasiddhistayoḥ sraguttaṃsavat // vkal_1,3.28 //nānibaddhaṃ cakāstyekatejaḥparamāṇuvat // vkal_1,3.29 //saṃdarbheṣu daśarūpakaṃ śreyaḥ // vkal_1,3.30 //taddhi citraṃ citrapaṭavadviśeṣasākalyāt // vkal_1,3.31 //tato 'nyabhedakḷptiḥ // vkal_1,3.32 //
+samāptaṃ cedaṃ śārīraṃ prathamamadhikaraṇam /
+
+doṣadarśanaṃ nāma dvitīyamadhikaraṇam /
+
+prathamo 'dhyāyaḥ /
+guṇaviparyayātmāno doṣāḥ // vkal_2,1.1 //arthatastadavagamaḥ // vkal_2,1.2 //saukaryāya prapañcaḥ // vkal_2,1.3 //duṣṭaṃ padamasādhu kaṣṭaṃ grāmyamapratītamanarthakaṃ ca // vkal_2,1.4 //śabdasmṛtiviruddhamasādhu // vkal_2,1.5 //śrutivirasaṃ kaṣṭam // vkal_2,1.6 //lokamātraprayuktaṃ grāmyam // vkal_2,1.7 //śāstramātraprayuktamapratītam // vkal_2,1.8 //pūraṇārthamanarthakam // vkal_2,1.9 //na vākyālaṅkārārtham // vkal_2,1.10 //anyārthaneyagūḍhārthāślīlakliṣṭāni ca // vkal_2,1.11 //rūḍhicyutamanyārtham // vkal_2,1.12 //kalpitārthaṃ neyārtham // vkal_2,1.13 //aprasiddhārthaprayuktaṃ gūḍhārtham // vkal_2,1.14 //asamyārthāntaramasamyasmṛtihetuścāślīlam // vkal_2,1.15 //na guptalakṣitasaṃvṛtāni // vkal_2,1.16 //aprasiddhāsabhyaṃ guptam // vkal_2,1.17 //lākṣaṇikāsabhyānvitaṃ lakṣitam // vkal_2,1.18 //lokasaṃvītaṃ saṃvṛtam // vkal_2,1.19 //tantraividhyam, vrīḍājugupsāmaṅgalātaṅkadāyibhedāt // vkal_2,1.20* //vyavahitārthapratyayaṃ kliṣṭam // vkal_2,1.21 //antyābhyāṃ vākyaṃ vyākhyātam // vkal_2,1.22 //
+dvitīyo 'dhyāyaḥ /
+bhinnavṛttayatibhraṣṭavisaṃdhīni vākyāni // vkal_2,2.1 //svalakṣaṇacyutavṛttaṃ bhinnavṛttam // vkal_2,2.2 //virasavirāmaṃ yatibhraṣṭam // vkal_2,2.3 //taddhātunāmabhāgabhede svarasaṃdhyakṛte prāyeṇa // vkal_2,2.4 //na vṛttadoṣātpṛthagyatidpṣaḥ, vṛttasya yatyātmakatvāt // vkal_2,2.5* //na, lakṣaṇaḥ pṛthaktvāt // vkal_2,2.6* //virūpapadasaṃdhi visaṃdhiḥ // vkal_2,2.7 //padasaṃdhervairūpyaṃ viśleṣo 'ślīlatvaṃ kaṣṭatvaṃ ca // vkal_2,2.8 //vyarthaikārthasaṃdigdhāyuktāpakramalokavidyā viruddhāni ca // vkal_2,2.9 //vyāhatapūrvottarārthaṃ vyartham // vkal_2,2.10 //uktārthapadamekārtham // vkal_2,2.11 //na, viśeṣaścedekārthaṃ duṣṭam // vkal_2,2.12* //dhanurjyādhvanau dhanuḥśrutirārūḍheḥ pratipattyai // vkal_2,2.13 //karṇāvataṃsaśravaṇakuṇḍalaśiraḥśekhareṣu karṇādinirdeśaḥ saṃnidheḥ // vkal_2,2.14 //muktāhāraśabde muktāśabdaḥ śuddheḥ // vkal_2,2.15 //puṣpamālāśabde puṣpapadamutkarṣasya // vkal_2,2.16 //karikalabhaśabde kariśabdastādrūpyasya // vkal_2,2.17 //viśeṣaṇasya ca // vkal_2,2.18 //tadidaṃ prayukteṣu // vkal_2,2.19 //saṃśayakṛtsaṃdigdham // vkal_2,2.20 //māyādivikalpitārthamprayuktam // vkal_2,2.21 //kramahīnārthamapakramam // vkal_2,2.22 //deśakālasvabhāvaviruddhārthāni lokaviruddhāni // vkal_2,2.23 //kalācaturvargaśāstraviruddhārthāni vidyāviruddhāni // vkal_2,2.24 //
+samāotaṃ cedaṃ doṣadarśanam dvitīyamadhikaraṇam /
+
+guṇavivecanaṃ nāma tṛtīyamadhikaraṇam /
+
+prathamo 'dhyāyaḥ /
+kāvyaśobhāyāḥ kartāro dharmā guṇāḥ // vkal_3,1.1 //tadatiśayahetavastvalaṅkārāḥ // vkal_3,1.2 //pūrve nityāḥ // vkal_3,1.3 //ojaḥprasādaśleṣasamatāsamādhimādhuryasaukumāryodāratārthavyaktikāntayo bandhaguṇāḥ // vkal_3,1.4 //gāḍhabandhatvamojaḥ // vkal_3,1.5 //śaithilyaṃ prasādaḥ // vkal_3,1.6 //guṇaḥ saṃplavāt // vkal_3,1.7 //sa tvanubhavasiddhaḥ // vkal_3,1.8 //sāmyotkarṣau ca // vkal_3,1.9 //masṛṇatvaṃ śleṣaḥ // vkal_3,1.10 //mārgāvhedaḥ samatā // vkal_3,1.11 //ārohāvarohakramaḥ samādhiḥ // vkal_3,1.12 //na pṛthak, ārohāvarohayorojaḥprasādarūpatvāt // vkal_3,1.13* //na, asaṃpṛktatvāt // vkal_3,1.14* //anaikāntyācca // vkal_3,1.15 //ojaḥprasādayoḥ tīvrāvasthā, tāviti cedabhyupagamaḥ // vkal_3,1.16* //viśeṣāpekṣitvāttayoḥ // vkal_3,1.17 //ārohāvarohanimittaṃ samādhirākhyāyate // vkal_3,1.18 //kramavidhānārthaṃ vā // vkal_3,1.19 //pṛthakpadatvaṃ mādhuryam // vkal_3,1.20 //ajaraṭhatvaṃ saukumāryam // vkal_3,1.21 //vikaṭatvamudāratā // vkal_3,1.22 //arthavyaktihetutvamarthavyaktiḥ // vkal_3,1.23 //aujjvalyaṃ kāntiḥ // vkal_3,1.24 //nāsantaḥ, sadvedyatvāt // vkal_3,1.25* //na bhrāntāḥ, niṣkampatvāt // vkal_3,1.26* //na pāṭhadharmāḥ, sarvatrādṛṣṭeḥ // vkal_3,1.27* //
+dvitīyo 'dhyāyaḥ /
+ta evārthaguṇāḥ // vkal_3,2.1 //arthasya prauḍhirojaḥ // vkal_3,2.2 //arthavaimalyaṃ prasādaḥ // vkal_3,2.3 //ghaṭanā śleṣaḥ // vkal_3,2.4 //avaiṣamyaṃ samatā // vkal_3,2.5 //arthadṛṣṭiḥ samādhiḥ // vkal_3,2.6 //artho dvividhaḥ, ayoniranyacchāyāyonirvā // vkal_3,2.7* //artho vyaktaḥ sūkṣmaśca // vkal_3,2.8 //sūkṣmo bhāvyo vāsanīyaśca // vkal_3,2.9 //uktivaicitryaṃ mādhuryam // vkal_3,2.10 //apāruṣyaṃ saukumāryam // vkal_3,2.11 //agrāmyatvamudāratā // vkal_3,2.12 //vastusvabhāvasphuṭatvamarthavyaktiḥ // vkal_3,2.13 //dīptarasatvaṃ kāntiḥ // vkal_3,2.14 //
+samāotaṃ cedaṃ guṇavivecanaṃ tṛtīyamadhikaraṇam /
+
+ālaṅkārikaṃ nāma caturthamadhikaraṇam /
+
+prathamo 'dhyāyaḥ /
+padamanaikārthamakṣaraṃ cāvṛttaṃ sthānaniyame yamakam // vkal_4,1.1 //pādāḥ pādasyaikasyānekasya cādimadhyāntabhāgāḥ sthānāni // vkal_4,1.2 //bhaṅgādutkarṣaḥ // vkal_4,1.3 //śṛṅkhalā parivartakaścūrṇamiti bhaṅgamārgaḥ // vkal_4,1.4 //varṇavicchedacalanaṃ śṛṅkhalā // vkal_4,1.5 //saṅgavinivṛttau svarūpāpattiḥ parivartakaḥ // vkal_4,1.6 //piṇḍākṣarabhede svarūpalopaścūrṇam // vkal_4,1.7 //śeṣaḥ sarūpo 'nuprāsaḥ // vkal_4,1.8 //anulbaṇo varṇānuprāsaḥ śreyān // vkal_4,1.9 //pādānuprāsaḥ pādayamakavat // vkal_4,1.10 //
+dvitīyo 'dhyāyaḥ /
+upamānenopameyasya guṇaleśataḥ sāmyamupamā // vkal_4,2.1 //guṇabāhulyataśca kalpitā // vkal_4,2.2 //taddvaividhyam, padavākyārthavṛttibhedāt // vkal_4,2.3* //sā pūṇā luptā ca // vkal_4,2.4 //guṇadyotakopamānopameyaśabdānāṃ sāmagrye pūrṇā // vkal_4,2.5 //lope luptā // vkal_4,2.6 //stutinindātattvākhyāneṣu // vkal_4,2.7 //hīnatvādhikatvaliṅgavacanabhedāsādṛśyāsaṃbhavāstaddoṣāḥ // vkal_4,2.8 //jātipramāṇadharmanyūnatopamānasya hīnatvam // vkal_4,2.9 //dharmayorekanirdeśe 'nyasya saṃvit, sāhacaryāt // vkal_4,2.10* //tenādhikarvaṃ vyākhyātam // vkal_4,2.11 //upamānopameyayorliṅgavyatyāso liṅgabhedaḥ // vkal_4,2.12 //iṣṭaḥ puṃpuṃsakayoḥ prāyeṇa // vkal_4,2.13 //laukikyāṃ samāsābhihitāyāmupamāprapañce ca // vkal_4,2.14 //tena vacanabhedo vyākhyātaḥ // vkal_4,2.15 //apratītaguṇasādṛśyamasādṛśyam // vkal_4,2.16 //asādṛśyahatā hyupamā, tanniṣṭhāśca kavayaḥ // vkal_4,2.17* //upamānādhikyāttadapoha ityeke // vkal_4,2.18 //na, apuṣṭārthatvāt // vkal_4,2.19* //anupapattirasaṃbhavaḥ // vkal_4,2.20 //na viruddho 'tiśayaḥ // vkal_4,2.21 //
+tṛtīyo 'dhyāyaḥ /
+prativastuprabhṛtirupamāprapañcaḥ // vkal_4,3.1 //upameyasyoktau samānavastunyāsaḥ prativastu // vkal_4,3.2 //anuktau samāsoktiḥ // vkal_4,3.3 //kiñciduktāvaprastutapraśaṃsā // vkal_4,3.4 //samena vastunānyāpalāpo 'pahnutiḥ // vkal_4,3.5 //upamānenopameyasya guṇasāmyāttattvāropo rūpakam // vkal_4,3.6 //sa dharmeṣu tantraprayoge śleṣaḥ // vkal_4,3.7 //sādṛśyāllakṣaṇā vakroktiḥ // vkal_4,3.8 //atadrūpasyānyathādhyavasānamatiśayārthamutprekṣā // vkal_4,3.9 //saṃbhāvyadharmatadutkarṣakalpanātiśayoktiḥ // vkal_4,3.10 //upamānopameyasaṃśayaḥ saṃdehaḥ // vkal_4,3.11 //viruddhābhāsatvaṃ virodhaḥ // vkal_4,3.12 //kriyāpratiṣedhe prasiddhatatphalavyaktirvibhāvanā // vkal_4,3.13 //ekasyopameyatvopamānatve 'nanvayaḥ // vkal_4,3.14 //krameṇopameyopamā // vkal_4,3.15 //samavisadṛśābhyāṃ parivartanaṃ parivṛttiḥ // vkal_4,3.16 //upameyopamānānāṃ kramasaṃbandhaḥ kramaḥ // vkal_4,3.17 //upamānopameyavākyeṣvekā kriyā dīpakam // vkal_4,3.18 //
+tantrividham / ādimadhyāntavākyavṛttibhedāt // vkal_4,3.19* // kriyayaiva svatadarthānvayakhyāpanaṃ nidarśanam // vkal_4,3.20 //
+uktisiddhyai vastuno 'rthāntarasyaiva nyasanamarthāntaranyāsaḥ // vkal_4,3.21 //upameyasya guṇātirekatvaṃ vyatirekaḥ // vkal_4,3.22 //ekaguṇahānikalpanāyāṃ sāmyadārḍhyaṃ viśeṣoktiḥ // vkal_4,3.23 //saṃbhāvyaviśiṣṭakarmākaraṇānnindāstotrārthā vyājastutiḥ // vkal_4,3.24 //vyājasya satyasārūpyaṃ vyājoktiḥ // vkal_4,3.25 //viśiṣṭena sāmyārthamekakālakriyāyogastulyayogitā // vkal_4,3.26 //upamānākṣepaścākṣepaḥ // vkal_4,3.27 //vastudvayakriyayostulyakālayorekapadābhidhānaṃ sahoktiḥ // vkal_4,3.28 //yatsādṛśyaṃ tatsaṃpattiḥ samāhitam // vkal_4,3.29 //alaṅkārasyālaṅkārayonitvaṃ saṃsṛṣṭiḥ // vkal_4,3.30 //tadbhedāvupamārūpakotprekṣāvayavau // vkal_4,3.31 //upamājanyaṃ rūpakamupamārūpakam // vkal_4,3.32 //utprekṣāheturutprekṣāvayavaḥ // vkal_4,3.33 //
+samāotaṃ cedamālaṅkārikaṃ caturthamadhikaraṇam /
+
+prāyogikaṃ nāma pañcamamadhikaraṇam /
+
+prathamo 'dhyāyaḥ /
+naikaṃ padaṃ dviḥ prayojyaṃ prāyeṇa // vkal_5,1.1 //nityā saṃhitaikapadavatpādeṣvardhāntavarjam // vkal_5,1.2 //na pādāntalaghorgurutvaṃ ca sarvatra // vkal_5,1.3 //na gādye samāptaprāyaṃ vṛttam, anyatrodgatādibhyaḥ saṃvādāt // vkal_5,1.4* //na pādādau khalvādayaḥ // vkal_5,1.5 //nārdhe kiñcitsamāptaṃ vākyam // vkal_5,1.6 //na karmadhārayo bahuvrīhipratipattikaraḥ // vkal_5,1.7 //tena viparyayo vyākhyātaḥ // vkal_5,1.8 //saṃbhāvyaniṣedhanivartane dvau pratiṣedhau // vkal_5,1.9 //viśeṣaṇamātraprayogo viśeṣyapratipattau // vkal_5,1.10 //sarvanāmnānusaṃdhirvṛtticchannasya // vkal_5,1.11 //saṃbandhasaṃbandhe 'pi ṣaṣṭhī kvacit // vkal_5,1.12 //atiprayuktaṃ deśabhāṣāpadam // vkal_5,1.13 //liṅgādhyāhārau // vkal_5,1.14 //lakṣaṇāśabdāśca // vkal_5,1.15 //na tadbāhulyamekatra // vkal_5,1.16 //stanādīnāṃ dvitvāviṣṭā jātiḥ prāyeṇa // vkal_5,1.17 //
+dvitīyo 'dhyāyaḥ /
+rudrāvityekaśeṣo 'nveṣyaḥ // vkal_5,2.1 //miliklabikṣapiprabhṛtīnāṃ dhātutvam, dhātuguṇasyāsamāpteḥ // vkal_5,2.2* //valerātmanepadamanityam, jñāpakāt // vkal_5,2.3* //kṣīyata iti karmakartari // vkal_5,2.4 //khidyata iti ca // vkal_5,2.5 //mārgerātmaepadamalakṣma // vkal_5,2.6 //lolamānādayaścānaśi // vkal_5,2.7 //labhergatyarthatvāṇṇicyaṇau kartuḥ karmatvākarmatve // vkal_5,2.8 //te-me-śabdau nipāteṣu // vkal_5,2.9* //tiraskṛta iti paribhūte, antardhyupacārāt // vkal_5,2.10* //naikaśabdaḥ, supsupeti samāsāt // vkal_5,2.11* //madhupipāsuprabhṛtīnāṃ samāso gamigāmyādiṣu pāṭhāt // vkal_5,2.12 //trivalīśabdaḥ siddhaḥ saṃjñā cet // vkal_5,2.13 //bimbādhara iti vṛttau madhyamapadalopinyām // vkal_5,2.14 //āmūlalolādiṣu vṛttirvispaṣṭapaṭuvat // vkal_5,2.15 //na dhānyaṣaṣṭhādiṣu ṣaṣṭhīsamāsapratiṣedhaḥ, pūraṇena taddhitāntatvāt // vkal_5,2.16* //patrapītimādiṣu guṇavacanena // vkal_5,2.17 //avarjyo bahuvrīhirvyadhikaraṇo janmādyuttarapadaḥ // vkal_5,2.18 //hastāgrāgrahastādayo guṇaguṇinorbhedābhedāt // vkal_5,2.19 //pūrvanipāte 'pabhraṃśo rakṣyaḥ // vkal_5,2.20 //nipātenāpyabhihite karmaṇi na karmavibhaktiḥ, parigaṇanasya prāyikatvāt // vkal_5,2.21* //śakyamiti rūpaṃ karmābhidhāyāṃ liṅgavacanasyāpi sāmānyopakramāt // vkal_5,2.22 //hānivadādhikyamapyaṅgānāṃ vikāraḥ // vkal_5,2.23 //na kṛmikīṭānāmiti, ekavadbhāvaprasaṅgāt // vkal_5,2.24* //na kharoṣṭrau, uṣṭrakharamiti pāṭhāt // vkal_5,2.25* //āsetyasateḥ // vkal_5,2.26 //yudhyediti yudhaḥ kyaci // vkal_5,2.27 //viralāyamānādiṣu kyaṅ nirūpyaḥ // vkal_5,2.28 //ahetau hanterṇic, curādipāṭhāt // vkal_5,2.29* //anucarīti careṣṭittvāt // vkal_5,2.30 //kesarālamityalateraṇi // vkal_5,2.31 //patralamiti lāteḥ ke // vkal_5,2.32 //mahīdhrādayo mūlavibhujādidarśanāt // vkal_5,2.33 //brahmādiṣu hanterniyamādarihādyasiddhiḥ // vkal_5,2.34 //brahmavidādayaḥ kṛdantavṛttyā // vkal_5,2.35 //tairmahīdharādayo vyākhyātāḥ // vkal_5,2.36 //bhidurādayaḥ karmakartari kartari ca // vkal_5,2.37 //guṇavistarādayaścintyāḥ // vkal_5,2.38 //avatarāpacāyaśabdayordīrghahrasvatvavyatyāso bālānām // vkal_5,2.39 //śobheti nipātanāt // vkal_5,2.40 //avidhau guroḥ striyāṃ bahulaṃ vivakṣā // vkal_5,2.41 //vyavasitādiṣu ktaḥ kartari, cakārāt // vkal_5,2.42* //āheti bhūte 'nyaṇalantabhramād bruvo laṭi // vkal_5,2.43 //śabalādibhyaḥ striyāṃ ṭāpo 'prāptiḥ // vkal_5,2.44 //prāṇini nīleti cintyam // vkal_5,2.45 //manuṣyajātervivakṣāvivakṣe // vkal_5,2.46 //ūkārāntādapyūṅ, pravṛtteḥ // vkal_5,2.47* //kārtikīya iti ṭhañ durdharaḥ // vkal_5,2.48 //śārvaramiti ca // vkal_5,2.49 //śāśvatamiti prayukteḥ // vkal_5,2.50 //rājavaṃśyādayaḥ sādhvarthe ye bhavanti // vkal_5,2.51 //dāravaśabdo duṣprayuktaḥ // vkal_5,2.52 //mugdhimādiṣvivamanij mṛgyaḥ // vkal_5,2.53 //aupamyādayaścāturvarṇyavat // vkal_5,2.54 //ṣyañaḥ ṣitkaraṇādīkāro bahulam // vkal_5,2.55 //dhanvīti vrīhyādiṣu pāṭhāt // vkal_5,2.56 //caturasraśobhīti ṇinau // vkal_5,2.57 //kañcukīyā iti kyaci // vkal_5,2.58 //bauddhapratiyogyapekṣāyāmapyātiśāyanikāḥ // vkal_5,2.59 //kauśilādaya ilaci varṇalopāt // vkal_5,2.60 //mauktikamiti vinayādipāṭhāt // vkal_5,2.61 //prātibhādayaḥ prajñādiṣu // vkal_5,2.62 //na sarajasamityanavyayībhāve // vkal_5,2.63 //dhṛtadhanuṣītyasaṃjñāyām // vkal_5,2.64 //durgandhipada iddurlabhaḥ // vkal_5,2.65 //sudatyādayaḥ pratividheyāḥ // vkal_5,2.66 //kṣatadṛḍhorsa iti na kap, tadantavidhipratiṣedhāt // vkal_5,2.67* //avaihīti vṛddhiravadyā // vkal_5,2.68 //apāṅganetreti lugalabhyaḥ // vkal_5,2.69 //neṣṭhāḥ śliṣṭapriyādayaḥ, puṃvadbhāvapratiṣedhāt // vkal_5,2.70* //dṛḍhabhaktiriti sarvatreti // vkal_5,2.71 //jambulatādayo hrasvavidheḥ // vkal_5,2.72 //tilakādayo 'jirādiṣu // vkal_5,2.73 //niśamya-niśamayyaśabdau prakṛtibhedāt // vkal_5,2.74 //saṃyamyaniyamyaśabdau, aṇijantatvāt // vkal_5,2.75* //prapīyeti pīṅaḥ // vkal_5,2.76 //dūrayatīti bahulagrahaṇāt // vkal_5,2.77 //gacchatīprabhṛtiṣvaniṣedhyo num // vkal_5,2.78 //mitreṇa goptreti puṃvadbhāvāt // vkal_5,2.79 //vetsyasīti padabhaṅgāt // vkal_5,2.80 //kāmayānaśabdaḥ siddho 'nādiścet // vkal_5,2.81 //sauhṛd-daurhṛdaśabdāvaṇi hṛdbhāvāt // vkal_5,2.82 //virama iti nipātanāt // vkal_5,2.83 //uparyādiṣu sāmīpye dvirukteṣu dvitīyā // vkal_5,2.84 //mandaṃ mandamityaprakārārthatve // vkal_5,2.85 //na nidrādrugiti, bhaṣbhāvaprāpteḥ // vkal_5,2.86* //niṣpanda iti patvaṃ cintyam // vkal_5,2.87 //nāṅgulisaṅga iti mūrdhanyavidheḥ // vkal_5,2.88 //tenāvantisenādayaḥ pratyuktāḥ // vkal_5,2.89 //nendravāhane ṇatvam; āhitatvasyāvivakṣitatvāt // vkal_5,2.90* //
+samāptaṃ cedaṃ prāyogikaṃ pañcamadhikaraṇam /
+
+samāpto 'yaṃ granthaḥ //

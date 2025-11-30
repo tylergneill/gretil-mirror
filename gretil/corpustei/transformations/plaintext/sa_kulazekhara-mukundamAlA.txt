@@ -1,0 +1,166 @@
+Kulaśekhara: Mukundamālā
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kulazekhara-mukundamAlA.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Aleksandar Uskokov
+## Contribution: Aleksandar Uskokov
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Stotramālā, ed. P.B. Anangaracarya, Kanchipuram : Granthamala Office 1949, pp. 1-4.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Mukundamālā = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from kumukumu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Kulasekhara: Mukundamala
+Based on Stotramālā, ed. P.B. Anangaracarya,
+Kanchipuram : Granthamala Office 1949, pp. 1-4.
+Input by Aleksandar Uskokov
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+ghuṣyate yasya nagare raṅgayātrā dine dine /
+tam ahaṃ śirasā vande rājānaṃ kulaśekharam //
+
+śrīvallabheti varadeti dayāpareti bhaktapriyeti bhavaluṇṭhanakovideti /
+nātheti nāgaśayaneti jagannivāsety ālāpinaṃ pratidinaṃ kuru māṃ mukunda // kmukm_1 //
+
+jayatu jayatu devo devakīnandano 'yaṃ jayatu jayatu kṛṣṇo vṛṣṇivaṃśapradīpaḥ /
+jayatu jayatu meghaśyāmalaḥ komalāṅgo jayatu jayatu pṛthvībhāranāśo mukundaḥ // kmukm_2 //
+
+mukunda mūrdhnā praṇipatya yāce bhavantam ekāntam iyantam artham /
+avismṛtis tvaccaraṇāravinde bhave bhave me 'stu bhavatprasādāt // kmukm_3 //
+
+nāhaṃ vande tava caraṇayor dvandvam advandvahetoḥ kumbhīpākaṃ gurum api hare nārakaṃ nāpanetum /
+ramyā rāmā mṛdutanulatā nandane nāpi rantuṃ bhāve bhāve hṛdayabhavane bhāvayeyaṃ bhavantam // kmukm_4 //
+
+nāsthā dharme na vasunicaye naiva kāmopabhoge yad bhāvyaṃ tad bhavatu bhagavan pūrvakarmānurūpam /
+etat prārthyaṃ mama bahu-mataṃ janmajanmāntare 'pi tvatpādāmbhoruhayugagatā niścalā bhaktir astu // kmukm_5 //
+
+divi vā bhuvi vā mamāstu vāso narake vā narakāntaka prakāmam /
+avadhīritaśāradāravindau caraṇau te maraṇe 'pi cintayāmi // kmukm_6 //
+
+kṛṣṇa tvadīyapadapaṅkajapañjarāntar adyaiva me viśatu mānasarājahaṃsaḥ /
+prāṇaprayāṇasamaye kaphavātapittaiḥ kaṇṭhāvarodhanavidhau smaraṇaṃ kutas te // kmukm_7 //
+
+cintayāmi harim eva santataṃ mandamandahāsitānanāmbujam /
+nandagopatanayaṃ parāt paraṃ nāradādimunivṛndavanditam // kmukm_8 //
+
+karacaraṇasaroje kāntimannetramīne śramamuṣi bhujavīcivyākule 'gādhamārge /
+harisarasi vigāhyāpīya tejojalaughaṃ bhavamaruparikhinnaḥ khedam adya tyajāmi // kmukm_9 //
+
+sarasijanayane saśaṅkhacakre murabhidi mā viramasva citta rantum /
+sukhataram aparaṃ na jātu jāne haricaraṇasmaraṇāmṛtena tulyam // kmukm_10 //
+
+mābhīr mandamano vicintya bahudhā yāmīś ciraṃ yātanā nāmī naḥ prabhavanti pāparipavaḥ svāmī nanu śrīdharaḥ /
+ālasyaṃ vyapanīya bhaktisulabhaṃ dhyāyasva nārāyaṇaṃ lokasya vyasanāpanodanakaro dāsasya kiṃ na kṣamaḥ // kmukm_11 //
+
+bhavajaladhigatānāṃ dvandvavātāhatānāṃ sutaduhitṛkalatratrāṇabhārārditānām /
+viṣamaviṣayatoye majjatām aplavānāṃ bhavatu śaraṇam eko viṣṇupoto narāṇām // kmukm_12 //
+
+bhavajaladhim agādhaṃ dustaraṃ nistareyaṃ katham aham iti ceto mā sma gāḥ kātaratvam /
+sarasijadṛśi deve tāvakī bhaktir ekā narakabhidi niṣaṇṇā tārayiṣyaty avaśyam // kmukm_13 //
+
+tṛṣṇātoye madanapavanoddhūtamohormimāle dārāvarte tanayasahajagrāhasaṅghākule ca /
+saṃsārākhye mahati jaladhau majjatāṃ nas tridhāman pādāmbhoje varada bhavato bhaktināvaṃ prayaccha // kmukm_14 //
+
+mā drākṣaṃ kṣīṇapuṇyān kṣaṇam api bhavato bhaktihīnān padābje mā śrauṣaṃ śrāvyabandhaṃ tava caritam apāsyānyad ākhyānajātam /
+mā smārṣaṃ mādhava tvām api bhuvanapate cetasāpahnuvānān mā bhūvaṃ tvatsaparyāvyatikararahito janmajanmāntare 'pi // kmukm_15 //
+
+jihve kīrtaya keśavaṃ muraripuṃ ceto bhaja śrīdharaṃ pāṇidvandva samarcayācyutakathāḥ śrotradvaya tvaṃ śṛṇu /
+kṛṣṇaṃ lokaya locanadvaya harer gacchāṅghriyugmālayaṃ jighra ghrāṇa mukundapādatulasīṃ mūrdhan namādhokṣajam // kmukm_16 //
+
+he lokāḥ śṛṇuta prasūtimaraṇavyādheś cikitsām imāṃ yogajñāḥ samudāharanti munayo yāṃ yājñavalkyādayaḥ /
+antarjyotir ameyam ekam amṛtaṃ kṛṣṇākhyam āpīyatāṃ tat pītaṃ paramauṣadhaṃ vitanute nirvāṇam ātyantikam // kmukm_17 //
+
+he martyāḥ paramaṃ hitaṃ śṛṇuta vo vakṣyāmi saṅkṣepataḥ saṃsārārṇavam āpadūrmibahulaṃ samyak praviśya sthitāḥ /
+nānājñānam apāsya cetasi namo nārāyaṇāyety amuṃ mantraṃ sapraṇavaṃ praṇāmasahitaṃ prāvartayadhvaṃ muhuḥ // kmukm_18 //
+
+pṛthvī reṇur aṇuḥ payāṃsi kaṇikāḥ phalguḥ sphuliṅgo laghuḥ tejo niḥśvasanaṃ marut tanutaraṃ randhraṃ susūkṣmaṃ nabhaḥ /
+kṣudrā rudrapitāmahaprabhṛtayaḥ kīṭāḥ samastāḥ surāḥ dṛṣṭe yatra sa tāvako vijayate bhūmāvadhūtāvadhiḥ // kmukm_19 //
+
+baddhenāñjalinā natena śirasā gātraiḥ saromodgamaiḥ kaṇṭhena svaragadgadena nayanenodgīrṇabāṣpāmbunā /
+nityaṃ tvaccaraṇāravindayugaladhyānāmṛtāsvādinām asmākaṃ sarasīruhākṣa satataṃ sampadyatāṃ jīvitam // kmukm_20 //
+
+he gopālaka he kṛpājalanidhe he sindhukanyāpate he kaṃsāntaka he gajendrakaruṇāpārīṇa he mādhava /
+he rāmānuja he jagattrayaguro he puṇḍarīkākṣa māṃ he gopījananātha pālaya paraṃ jānāmi na tvāṃ vinā // kmukm_21 //
+
+bhaktāpāyabhujāṅgagāruḍamaṇis trailokyarakṣāmaṇir gopīlocanacātakāmbudamaṇiḥ saundaryamudrāmaṇiḥ /
+yaḥ kāntāmaṇirukmiṇīghanakucadvandvaikabhūṣāmaṇiḥ śreyo devaśikhāmaṇir diśatu no gopālacūḍāmaṇiḥ // kmukm_22 //
+
+śatrucchedaikamantraṃ sakalam upaniṣadvākyasampūjyamantraṃ saṃsārottāramantraṃ samupacitatamasaḥ saṅghaniryāṇamantram /
+sarvaiśvaryaikamantraṃ vyasanabhujagasandaṣṭasantrāṇamantraṃ jihve śrīkṛṣṇamantraṃ japa japa satataṃ janmasāphalyamantram // kmukm_23 //
+
+vyāmohapraśamauṣadhaṃ munimanovṛttipravṛttyauṣadhaṃ daityendrārtikarauṣadhaṃ tribhuvane sañjīvanaikauṣadham /
+bhaktātyantahitauṣadhaṃ bhavabhayapradhvaṃsanaikauṣadhaṃ śreyaḥprāptikarauṣadhaṃ piba manaḥ śrīkṛṣṇadivyauṣadham // kmukm_24 //
+
+āmnāyābhyasanāny araṇyaruditaṃ vedavratāny anvahaṃ medaśchedaphalāni pūrtavidhayaḥ sarve hutaṃ bhasmani /
+tīrthānām avagāhanāni ca gajasnānaṃ vinā yatpada-dvandvāmbhoruhasaṃsmṛtīr vijayate devaḥ sa nārāyaṇaḥ // kmukm_25 //
+
+śrīmannāma procya nārāyaṇākhyaṃ ke na prāpur vāñchitaṃ pāpino 'pi /
+hā naḥ pūrvaṃ vāk pravṛttā na tasmiṃs tena prāptaṃ garbhavāsādiduḥkham // kmukm_26 //
+
+majjanmanaḥ phalam idaṃ madhukaiṭabhāre matprārthanīyamadanugraha eṣa eva /
+tvadbhṛtyabhṛtyaparicārakabhṛtyabhṛtya-bhṛtyasya bhṛtya iti māṃ smara lokanātha // kmukm_27 //
+
+nāthe naḥ puruṣottame trijagatāṃ ekādhipe cetasā sevye svasya padasya dātari sure nārāyaṇe tiṣṭhati /
+yaṃ kañcit puruṣādhamaṃ katipayagrāmeśam alpārthadaṃ sevāyai mṛgayāmahe naram aho mūkā varākā vayam // kmukm_28 //
+
+madana parihara sthitiṃ madīye manasi mukundapadāravindadhāmni /
+haranayanakṛśānunā kṛśo 'si smarasi na cakraparākramaṃ murāreḥ // kmukm_29 //
+
+tattvaṃ bruvāṇāni paraṃ parastān madhu kṣarantīva satāṃ phalāni /
+prāvartaya prāñjalir asmi jihve nāmāni nārāyaṇagocarāṇi // kmukm_30 //
+
+idaṃ śarīraṃ pariṇāmapeśalaṃ pataty avaśyaṃ ślathasandhijarjaram /
+kim auṣadhaiḥ kliśyasi mūḍha durmate nirāmayaṃ kṛṣṇarasāyanaṃ piba // kmukm_31 //
+
+dārā vārākaravarasutā te tanūjo viriñcaḥ stotā vedas tava suragaṇo bhṛtyavargaḥ prasādaḥ /
+muktir māyā jagad avikalaṃ tāvakī devakī te mātā mitraṃ balaripusutas tvayy ato 'nyan na jāne // kmukm_32 //
+
+kṛṣṇo rakṣatu no jagattrayaguruḥ kṛṣṇaṃ namasyāmy ahaṃ kṛṣṇenāmaraśatravo vinihatāḥ kṛṣṇāya tasmai namaḥ /
+kṛṣṇād eva samutthitaṃ jagad idaṃ kṛṣṇasya dāso 'smy ahaṃ kṛṣṇe tiṣṭhati sarvam etad akhilaṃ he kṛṣṇa saṃrakṣa mām // kmukm_33 //
+
+sa tvaṃ prasīda bhagavan kuru mayy anāthe viṣṇo kṛpāṃ paramakāruṇikaḥ kila tvam /
+saṃsārasāgaranimagnam ananta dīnam uddhartum arhasi hare puruṣottamo 'si // kmukm_34 //
+
+namāmi nārāyaṇapādapaṅkajaṃ karomi nārāyaṇapūjanaṃ sadā /
+vadāmi nārāyaṇanāma nirmalaṃ smarāmi nārāyaṇatattvam avyayam // kmukm_35 //
+
+śrīnātha nārāyaṇa vāsudeva śrīkṛṣṇa bhaktapriya cakrapāṇe /
+śrīpadmanābhācyuta kaiṭabhāre śrīrāma padmākṣa hare murāre // kmukm_36 //
+
+ananta vaikuṇṭha mukunda kṛṣṇa govinda dāmodara mādhaveti /
+vaktuṃ samartho 'pi na vakti kaścid aho janānāṃ vyasanābhimukhyam // kmukm_37 //
+
+dhyāyanti ye viṣṇum anantam avyayaṃ hṛtpadmamadhye satataṃ vyavasthitam /
+samāhitānāṃ satatābhaya-pradaṃ te yānti siddhiṃ paramāṃ tu vaiṣṇavīm // kmukm_38 //
+
+kṣīrasāgarataraṅgaśīkarā-sāratārakitacārumūrtaye /
+bhogibhogaśayanīyaśāyine mādhavāya madhuvidviṣe namaḥ // kmukm_39 //
+
+yasya priyau śrutidharau kavilokavīrau mitre dvijanmavarapadmaśarāv abhūtām /
+tenāmbujākṣacaraṇāmbujaṣaṭpadena rājñā kṛtā kṛtir iyaṃ kulaśekhareṇa // kmukm_40 //

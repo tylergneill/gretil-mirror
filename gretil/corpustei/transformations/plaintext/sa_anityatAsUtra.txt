@@ -1,0 +1,108 @@
+Anityatāsūtra
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_anityatAsUtra.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Klaus Wille
+## Contribution: Klaus Wille
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Isshi Yamada. "Anityatāsūtra", Journal of Indian and Buddhist Studies [= IBK], 20,2 (1972), pp. 1001-996(30-35).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Anityatāsūtra = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from anitysuu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Anityatasutra = As
+Based on the ed. by Isshi Yamada. "Anityatāsūtra",
+Journal of Indian and Buddhist Studies [= IBK], 20,2 (1972), pp. 1001-996(30-35).
+Input by Klaus Wille
+Based on two Sanskrit manuscripts:
+A: The manuscript preserved in the Library of the Royal Asiatic Society, London.
+Hodgson Collection, Ms. No. 55 (H. 147).
+Folio Nos.60a2-62al.
+B: The manuscript preserved in the Tokyo University Library, Tokyo.
+Kawaguchi and Takakusu Collection, Ms. No. 416.
+Folio Nos. 46a3-47b4.
+Cf. Chinese translation:
+Fu Shuo Chu Hsing Yu Wei Ching translated by Fa T'ien
+Taisho Tripiṭaka No. 758, Vol. 17, p. 600b3-c23.
+Cf. Tibetan translation:
+Mi rTag pa Ñid kyi mDo,
+Tibetan Tripiṭaka No. 976, Vol. 39, pp. 68-9,
+Su 165b3-67a2.
+BOLD for references
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+anityatā-sūtram
+
+om namaḥ sarvajñāya //
+
+1. evam mayā śrutam, ekasmin samaye bhagavān śrāvastyāṃ viharati sma (as 31) jetavane 'nāthapiṇḍasyārāme mahatā bhikṣusaṃghena sārdham ardhatrayodaśabhir bhikṣuśataiḥ //
+
+2. tatra khalu bhagavān bhikṣūn āmantrayate sma / anityatā bhikṣavaḥ sarvasaṃskārā adhruvā anāsvāsikā vipariṇāmadharmānaḥ / yad yāvad bhikṣavaḥ sarvebhyaḥ saṃskārebhyo 'laṃ nirvetum alaṃ viraktum alaṃ vimoktuṃ //
+
+3. sarveṣām sattvānāṃ sarveṣāṃ bhūtānāṃ sarveṣāṃ prāṇinām āmaraṇāntaṃ hi jīvitaṃ maraṇaparyavasānaṃ nāsti jātasyāmaraṇaṃ //
+
+4. ye 'pi te bhikṣavo gṛhapatayo mahāsālakulā brāhmaṇamahāsālakulā kṣatriyo mahāsālakulā āsāṃ mahādhanā mahābhogāḥ prabhūtamaṇimā niṣkamuktāvaiḍūryaśaṃkhaśilāpravālajātarūparajatavittopakaraṇāḥ prabhūtadhanadhānyakoṣṭhāgārasannicayāḥ prabhūtadāsidāsakarmakarapauruṣeyāḥ prabhūtamitrāmātyajñātisālohitās, teṣām api maraṇāntaṃ jīvitaṃ maraṇaparyavasānaṃ nāsti jātasyāmaraṇaṃ //
+
+5. ye 'pi te bhikṣavaḥ rājānaḥ kṣatriyāś ca mūrdhnābhiṣiktā jānapadaiśvaryāsthāmavīryam anuprāptā mahāntaṃ pṛthvīmaṇḍalam abhinirjityāvasanti, teṣām api maraṇāntaṃ hi jīvitaṃ maraṇaparyavasānaṃ nāsti jātasyāmaraṇaṃ //
+
+ye 'pi te bhikṣava ṛṣayo vānaprasthāḥ pramuktaphalāhārāḥ pramuktaphalabhojinaḥ pramuktaphalena yāpanti, teṣām api maraṇāntaṃ hi jīvitaṃ maraṇaparyavasānaṃ nāsti jātasyāmaraṇaṃ //
+
+7. ye 'pi te bhikṣavaḥ kāmāvacarā devāś cāturmahārājikā devās trayastriṃśā devā yāmā devās tuṣitā devā nirmāṇaratayo devāḥ paranirmitavaśavartino devās, teṣām api maraṇāntaṃ hi jīvitaṃ maraṇaparyavasānaṃ nāsti jātasyāmaraṇaṃ //
+
+8. ye 'pi te bhikṣavo rūpino devāḥ, prathamadhyānalābhino brahmakāyikā brahmapurohitā brahmapārṣadyā mahābrahmāṇā, dvitīyadhyānalābhinaḥ parittaśubhā apramāṇaśubhā ābhāsvarās, tṛtīyadhyānalābhinaḥ parittaśubhā apramāṇaśubhāḥ śubhakṛtsnāś, caturthadhyānalābhino 'nabhrakāḥ puṇyaprasavā vṛhatphalā asaṃjñisattvā avṛhā (as 33) atapāḥ sudarśāḥ sudarśanā akaniṣṭhāś ca devās, teṣām api maraṇāntaṃ hi jīvitaṃ maraṇaparyavasānaṃ nāsti jātasyāmaraṇaṃ //
+
+9. ye 'pi te bhikṣavo 'rūpino devā ākāśānantyāyatanopagā vijñānānantyāyatanopagā ākiṃcityāyatanopagā naivasaṃjñānāsaṃjñāyatanopagāś ca devāś ca, teṣām api maraṇāntaṃ hi jīvitaṃ maraṇaparyavasānaṃ nāsti jātasyāmaraṇaṃ / traidhātukam idaṃ //
+
+10. ye 'pi te bhikṣavo 'rhantaḥ kṣīṇāśravā kṛtakṛtyāḥ kṛtakaraṇīyā apahṛtabhārā anuprāptasvakārthāḥ parikṣīṇabhavasaṃyojanāḥ samyagājñāsuvimuktacittāḥ sarvacetovasiparamapāramitāprāptās, teṣām api kāyā nikṣepaṇadharmāḥ //
+
+11. ye 'pi te bhikṣavaḥ pratyekabuddhāḥ khaḍgaviṣāṇakalpā ekam ātmānaṃ damanti ekam ātmānaṃ śamayanti ekam ātmānaṃ parinirvāpayanti, teṣām apy ayaṃ kāyo nikṣepaṇadharmaḥ //
+
+12. ye 'pi te bhikṣavas tathāgatā arhantaḥ samyaksaṃbuddhā daśabalabalinaḥ udārārṣabhāḥ samyaksiṃhanādanādinaś caturvaiśāradyaṃ, dharmārohaṇavaiśāradyaṃ sarvadharmadeśanāvaiśāradyaṃ nirvāṇamārgāvatāraṇavaiśāradyaṃ āśravajñānaprahāṇavaiśāradyaṃ, viśadādṛḍhanārāyaṇasaṃhatakāyās, (as 34) teṣām apy ayam kāyo nikṣepaṇadharmaḥ //
+
+13. tadyathāpi nāma bhikṣavaḥ kumbhākārakṛtāni bhāṇḍā āmāni vā pakvāni vā bhedanaparyantāni bhedanaparyavasāny, evam eva bhikṣavaḥ sarveṣāṃ sattvānāṃ sarveṣāṃ bhūtānāṃ sarveṣāṃ prāṇināṃ maraṇāntaṃ hi jīvitaṃ maraṇaparyavasānaṃ nāsti jātasyāmaraṇaṃ //
+
+14. idam avocad bhagavān, idam uktvā sugato hy athāparāvocat śāstā /
+
+anityā vata saṃskārā utpādavyayadharminaḥ /
+utpadya hi nirūdhyante teṣāṃ vyupaśamaḥ sukhaṃ //
+
+yathāhi kumbhakāreṇa mṛttikābhājanaṃ kṛtaṃ /
+sarvam bhedanaparyantaṃ sattvānāṃ jīvitaṃ tathā //
+
+yathā phalānāṃ pakvānāṃ śaśvat patanato bhayaṃ /
+tathā saṃskārajāḥ sattvānāṃ nityaṃ maraṇato bhayaṃ //
+
+sarve kṣayāntā nicayāḥ patanāntāḥ samucchrayāḥ /
+saṃyogāś ca viyogāntā maraṇāntaṃ hi jīvitaṃ //
+
+15. idam avocad bhagavān āttamanas te ca bhiksavas te ca parṣado bhagavato bhāṣitam abhyanandan //
+
+ity āryānityatāsūtraṃ samāptaṃ //
+
+@all the verses used here are found in the udānavarga (sanskrittexte aus den turfanfunden x, herausgegeben von f. bernhard, bd. i, göttingen 1965), anityavarga, verses nos. 3, 12, 11 and 22.@@

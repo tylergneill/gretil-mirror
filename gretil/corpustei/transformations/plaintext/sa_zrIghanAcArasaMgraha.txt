@@ -1,0 +1,700 @@
+Śrīghanācārasaṃgraha
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_zrIghanAcArasaMgraha.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - the reconstruction by Sanghasena Singh from Jayaraksita's Srighanacarasamgrahatika (see separate file) [cf. Sanghasena Singh: "On the restauration of the Śrighanācārasaṃgraha", in: Philosophy, Grammar and Indology, Essays in Honour of Professor Gustav Roth, ed. H.S. Prasad, Delhi 1992, pp. 283-301].
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Śrīghanācārasaṃgraha = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from sghancsu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Srighanacarasamgraha (=Śghs)
+reconstructed by Sanghasena Singh from Jayaraksita's Srighanacarasamgrahatika (see separate file)
+[cf. Sanghasena Singh: "On the restauration of the Śrighanācārasaṃgraha",
+in: Philosophy, Grammar and Indology, Essays in Honour of Professor Gustav Roth, ed. H.S. Prasad, Delhi 1992, pp. 283-301]
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Version: 2009-03-31 15:00:07
+Proof Reader: Milan Shakya
+The transliteration emulates the conventions of Nagari script.
+Therefore, many word boundaries are not marked by blanks.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+śrīghanācārasaṃgrahaḥ
+
+prathamo 'dhyāyaḥ
+
+buddhanamaskāraḥ
+
+prahīṇāśeṣasaṃkleśajñeyāmbhonidhipāragaṃ |
+praṇamya śrāmaṇerāṇāmācāraḥ saṃgrahīṣyate || śghs_1.1 ||
+
+iti saṃghasenena saṃvihitoddhāre śrīghanācārasaṃgrahe buddhanamaskāro nāma prathamo 'dhyāyaḥ ||
+
+dvitīyo 'dhyāyaḥ
+
+śrāmaṇerabhāvaḥ
+
+śaraṇaṃ gatavān buddhaṃ dharmaṃ saṃghaṃ ca bhaktitaḥ |
+śikṣāpañcakamādāya yo 'nupravrajito jinaṃ || śghs_2.1 ||
+
+yāvajjīvaṃ vadhasteyamaithunānṛtavākyataḥ |
+virataḥ madyapānācca mahoccaiḥ śayanāsanāt || śghs_2.2 ||
+
+nṛtyāder gandhamālyādyāt vikālāśanatastathā | rukmarūpyagrahāccaiṣa śrāmaṇero munermataḥ | śghs_2.3 ||
+
+iti saṃghasenena saṃvihitoddhāre śrīghanācārasaṃgrahe śrāmaṇerabhāvo nāma dvitīyo 'dhyāyaḥ ||
+
+tṛtīyo 'dhyāyaḥ
+
+śrāmaṇerabhāvopāyaḥ
+
+1 prāṇivadhaviratiśikṣāpadaṃ
+
+saṃvaratyāgaḥ
+
+sakalena śarīreṇa śarīrānyatareṇa vā |
+pañcaśākhādinirvṛttaṃ na hanyāt prāṇinaṃ [yatiḥ] || śghs_3,1.1 ||
+
+mṛtyorvarṇa na bhāṣeta śastrahāraṃ na caiṣayet |
+vadhakena na cittena māraṇāya niyojayet || śghs_3,1.2 ||
+
+virekavamanālepaviṣaśastrābhisaṃskṛti |
+na kuryāt prāṇighātāya na ca garbhasya śātanaṃ || śghs_3,1.3 ||
+
+nimittaṃ na vratī kuryāt svapnolūkādivāśitaiḥ |
+[dauḥśīlaṃ] (vāpi kāryaṃ na) dānaśīlaphalāptibhiḥ || śghs_3,1.4 ||
+
+madhyapaścātpurogeṣu yatraiva vadhakaṃ manaḥ |
+[taṃ puruṣaṃ] dhnato hiṃsā nānyamityāha sarvavit || śghs_3,1.5 ||
+
+kūṭāvamārthāvaṣṭambhavetālā[dya]bhisaṃskṛti |
+avapayañca kuryānna māraṇāya śarīriṇāṃ || śghs_3,1.6 ||
+
+taskarā[dya]hisenābhyaḥ yatra mārge bhayaṃ[bhavet] |
+tatpanthānaṃ na nāśāya dehināṃ kathayedyatiḥ || śghs_3,1.7 ||
+
+bhujagāvartakābhyāṃ ca yatra tīrthe[bhayaṃ bhavet] |
+[nadīprataraṇārthāya] tattīrthaṃ na prakāśayet || śghs_3,1.8 ||
+
+kiñcid bhūpataye mā dāstvaṃ varaṃ jīvitaṃ tyaja |
+iti baddhāyukte 'yuktaṃ vacanaṃ na vaded [yatiḥ] || śghs_3,1.9 ||
+
+bhujaga [vyāḍayakṣe]bhyaḥ yadvihāre[bhayaṃ bhavet] |
+tadvadhakābhiprāyeṇāgantukāya na coddiśet || śghs_3,1.10 ||
+
+vyāghrādivyapadeśena śatruṃ hanyād hi yaḥ śaṭhaḥ |
+vihārādāśu[nirdvāraṃ] ghaṭṭanīyaḥ sa cellakaiḥ || śghs_3,1.11 ||
+
+tathā kāryaṃ yathaiko 'pi nānirjīvecca kaścana |
+adharmyā na kriyā kāryā saṃsmṛtya krakacopamaṃ || śghs_3,1.12 ||
+
+vadhaśca śrāmaṇerā ye ghātayituṃ vadhīkṛtāḥ |
+yugapat tatprayoge te nāśanīyā vihārataḥ || śghs_3,1.13 ||
+
+upakramo nṛsaṃjñā ca naro vadhakacetanā |
+jīvitasya kṣayaśceti pañcāṃgāni nṛghātane || śghs_3,1.14 ||
+
+śrāmaṇereṇa nāśāya viṣaśastrādi yat[kṛtaṃ] |
+mriyate narastenaivāsau tadāsaṃvarī bhavet || śghs_3,1.15 ||
+
+avakrītādirajñānāt manuṣyaṃ mārayan khalu |
+saṃvarakṣobhalābhī sa [yatir] nonmattādikaḥ || śghs_3,1.16 ||
+
+duṣkṛtāni
+
+kāyamaitrādi sattveṣu yatinā kāryaṃ sarvadā |
+yasmāt kāruṇikairuktaṃ tasmāt[sattvānna pīḍayet] || śghs_3,1.17 ||
+
+na sattvān pīḍayeddārurajvayaścarmabandhanaiḥ |
+jalānalapraveśānutyāgādau na niyojayet || śghs_3,1.18 ||
+
+kṛmigorūpa[kādīnāṃ] mithyājīvaśca hiṃsanaṃ |
+karṣaṇe[hi] bhavedyasmāt tasmāt[tad]dūrato tyajet || śghs_3,1.19 ||
+
+nāṃkayed gomahiṣyādi nāsikāṃ nāsya vedhayet |
+[yatiśca vividhān sattvān] vetrādinā na tāḍayet || śghs_3,1.20 ||
+
+uddiśya yat kṛtaṃ māṃsavyañjanaṃ [khādato] yateḥ |
+nighṛṇaṃ jāyate cittaṃ tasmāttannaiva bhakṣayet || śghs_3,1.21 ||
+
+jñeyaṃ tu tribhirākārairīkṣitaśrutaśaṃkitaiḥ |
+īkṣitaṃ yat svayaṃ dṛṣṭaṃ śrutaṃ pratyāyitoditaṃ || śghs_3,1.22 ||
+
+gṛhābaddhamṛgādīnāṃ śrṛṃgapakṣādidarśanāt |
+āśaṃkotpadyate [tatra] mamoddiśya hatā na vā || śghs_3,1.23 ||
+
+pṛṣṭo dātā vadedevaṃ tvannimittamamī hatā |
+tasmin gṛhe na bhuñjīta virataḥ prāṇināṃ vadhāt || śghs_3,1.24 ||
+
+śyenakādihatā vai[te] śāliyavamudgabhakṣaṇāt |
+mātāpitrośca yajñasya kṛte doṣo 'sti nāśnatāṃ || śghs_3,1.25 ||
+
+ekaṃ śrīghanamuddiśya māṃsaṃ matsyādikaṃ kṛtaṃ |
+anyeṣāṃ śrāmaṇerāṇāṃ tadbhogāya na kalpate || śghs_3,1.26 ||
+
+nādeyādijalaṃ jānan nāpi pibet sajantukaṃ |
+jantavo 'bhimatāḥ sūkṣmās trasikormikirādayaḥ || śghs_3,1.27 ||
+
+vāri[pūtyā]yadhiṣṭheyaḥ karako [hi] sakhallakaḥ |
+vighātaparihārārthaṃ kośo 'ntaśaḥ suvāsasaḥ || śghs_3,1.28 ||
+
+divyanetrāndhayorneṣṭaṃ jalasya pratyavekṣaṇaṃ |
+hastāṃguṣṭhāgrakāvartadarśino na nivāryate || śghs_3,1.29 ||
+
+locanavibhramo mā bhūditi paśyenna tacciraṃ |
+kalpamātraṃ na vai kuryāt māyāśāṭhayasamanvitaḥ || śghs_3,1.30 ||
+
+yenāntareṇa ṣaṣṭayabdaḥ paribhramyate kuñjaraḥ |
+śakaṭaṃ vaṃśapūrṇaṃ vā sa kālaḥ salilekṣaṇe || śghs_3,1.31 ||
+
+ūrdhvādhomadhyamāstistraḥ salilasyāpi bhūmayaḥ |
+yāyā bhūḥ śuddhimāyāti kāryaṃ kuryāttayā[yatiḥ] || śghs_3,1.32 ||
+
+yatrādhaḥ prāṇakā yānti sthūlāḥ karatalāhatāḥ |
+[grāhyaṃ] tadudakaṃ [srāvyaṃ] paṃcāṃgulikayā na cet || śghs_3,1.33 ||
+
+bhaveyurudake yasmin kare lagnā[śca] prāṇinaḥ |
+na tatra pāṇipādāsyavastrādi kṣālayedyatiḥ || śghs_3,1.34 ||
+
+kule gatena praṣṭavyaṃ jalaṃ [hi] srāvitaṃ na vā |
+neti cet saṃjñiko vācyaḥ srāvayetyitaro na tu || śghs_3,1.35 ||
+
+[kintu] srāvyaṃ jalaṃ pātre kṛtvātmīye sajantukaṃ |
+[pṛṣṭvā] yastadānītaṃ muñcet tatraiva [sa] svayaṃ || śghs_3,1.36 ||
+
+saptāhaṃ vā[tathā] yatra pānīyamavatiṣṭhati |
+vihāre vā kaṭāhādau sthāpayet tadaśuṣyati || śghs_3,1.37 ||
+
+pravṛṣṭe vā [yatir] deve svacchanīraughavāhini |
+nimnagānāṃ patiṃ pātaṃ gacchateti visarjayet || śghs_3,1.38 ||
+
+sudīrghatalikāvaktrarajjudvayā[va]baddhayā |
+ghaṭikayodakaṃ muñcedadhastādudake 'dhvagaḥ || śghs_3,1.39 ||
+
+ghaṭikātritayaṃ vīkṣya mārgageṇodapānataḥ | pariśuddhāścet peyaṃ jalaṃ tat srāvyamanyathā | śghs_3,1.40 ||
+
+na rajjughaṭikādānaṃ śastaṃ saprāṇake jale |
+pibeti vaktuṃ dātuṃ vā na jātu kṣamate yatiḥ || śghs_3,1.41 ||
+
+sajantukaṃ taḍāgādi na pareṣāmuccairvadet |
+[kṛtyaṃ] kuru samīkṣyeti pṛṣṭaḥ prativadetparān || śghs_3,1.42 ||
+
+upādhyāye 'pi vaktavyaṃ saprāṇakamidaṃ na vā |
+taḍāgādīti [vai] śāṭhayaṃ karttavyaṃ [yatinā] na [tu] || śghs_3,1.43 ||
+
+vṛkṣaseko na dātavyo 'pariśuddhena vāriṇā |
+upādhyāyādikasnānaṃ karttavyaṃ ca tathaiva na || śghs_3,1.44 ||
+
+mastukāñjikasauvīramaṇḍadaṇḍāhatādikaṃ |
+na pibet na yatirdadyāt parasmai na bhuvi tyajet || śghs_3,1.45 ||
+
+samatkuṇaṃ yacchayanamātape tanna śoṣayet |
+na hime kardame vā[pi] śītoṣṇavāriṇi kṣipet || śghs_3,1.46 ||
+
+navakarma sa no kuryāt sajantukena [vāriṇā] |
+dināntaṃ srāvayitvā tad dhāryaṃ [trikoṇa]khallakaṃ || śghs_3,1.47 ||
+
+bhṛtakaṃ śikṣayedevaṃ vadhāna tvaṃ trikoṇakaṃ |
+kapāt[tat] srāvayotkṣipya khallakaṃ ca vimocaya || śghs_3,1.48 ||
+
+trikoṇasaptakenāmbhaḥ srāvyaṃ khallakena tat |
+[pratikūpyatha] kāryā[vā] tyaktvā deśāntaraṃ [vrajet] || śghs_3,1.49 ||
+
+abhūtvā sambhavantyete bhūtvā yānti bhavāntaraṃ |
+navakarma tadā kārya yathoktavidhikāriṇā || śghs_3,1.50 ||
+
+satpaṭābaddhamañcāderucchīdaccaturāṃgulāt |
+nadyādau jalamālokya kāryaṃ ca navakarmaṇi || śghs_3,1.51 ||
+
+chidrakarṇadvayāsaktasūtrabaddhadvidaṇḍakaṃ |
+dhāraṇapātrakaṃ dadhyāt khallakasya bahir[yatiḥ] || śghs_3,1.52 ||
+
+kṛpāparītacittena svādu vāri sajantukaṃ |
+kṣāre 'mbhasi na moktavyamanāpat mṛṣṭasaṃjñinaḥ || śghs_3,1.53 ||
+
+2 adattādānaviratiśikṣāpadaṃ
+
+saṃvaratyāgaḥ
+
+kālikaṃ [yāmikaṃ] yāvajjīvikaṃ sarpirādikaṃ |
+pārihāryamanādheyaṃ kalpyākalpyamakalpikaṃ || śghs_3,2.1 ||
+
+pṛthivyudakadvicatuṣpadāpadakapādapa |
+tadgataṃ ca yatiḥ kiñcinnādadīta parasvakaṃ || śghs_3,2.2 ||
+
+kārṣāpaṇacaturbhāgaṃ tadardhamathavā dhanaṃ |
+steyacitto harannanyair nāśanīyo[yatir] laghu || śghs_3,2.3 ||
+
+vāṭāddhṛte gaje pādaiś caturbhirayatiś cyute |
+niṣkrānte saṃvṛtadvārād dvipahṛtsyād yatiḥ [khalu] || śghs_3,2.4 ||
+
+gulphābaddhekṣadaṇḍāre dūrākṛṣṭe mahītalāt |
+saṃvarabhaṃga utkṣipte pañjarādgajavaddvije || śghs_3,2.5 ||
+
+deśānnayed hi sandeśadraviṇaṃ ca sañcārayet |
+aṃgāt stainyena cittena saṃvaraghūtamāpnute || śghs_3,2.6 ||
+
+mṛto 'sau matvā śrutvaivādhvagād vai brahmacāriṇaḥ |
+sīmāntasthāyine datvā gṛhṇan syādayatiryatiḥ || śghs_3,2.7 ||
+
+yadvittaṃ śrāmaṇerasya mṛtasya nirvṛtārhataḥ |
+upādhyāyasya prāpnoti tadityevaṃ jagau muniḥ || śghs_3,2.8 ||
+
+hartturiṣṭāṃ diśaṃ yāyād vratī ced hastinaṃ haret |
+asau harttā vratī cauraḥ karipe hṛtasaṃjñini || śghs_3,2.9 ||
+
+pūjācīvaramālāntadvayasya khalu mocanāt |
+avanau taccyutau satyāṃ bhraśyate saṃvarād [yatiḥ] || śghs_3,2.10 ||
+
+kṣiptaṃ mauktikahārādi gṛhītvā tad mahākulāt ||
+nyasya prasevikāyāṃ ca sahāyena ca hārayan || śghs_3,2.11 ||
+jaṭālenāthavā vatsa haran ki saṃvaracyutaḥ |
+ki pādacyutimātreṇa hyupacāravyatikrame || śghs_3,2.12 ||
+
+rātrau gośakaṭāśvādīn kaścid vadhnāti ced yatiḥ |
+etānete hariṣyanti tat kiṃ syāccyutasaṃvaraḥ || śghs_3,2.13 ||
+
+ṛjuke kīlake bandhe kaṭhine hāra[kaṃ] haran |
+utkṣepaṇe ca cauraḥ syāt kuṭile śithile na tu || śghs_3,2.14 ||
+
+chidrayitvā ghaṭaṃ sarpiḥ kṣaudraṃ tailaṃ jalaṃ haran |
+yatiḥ pūrasya vicchede saṃvarakṣobhamāpnute || śghs_3,2.15 ||
+
+vaṇṭayamāṇe gṛhe bhrātrorbhāgādekasya lipsayā |
+bālamātraṃ bhūmiṃ yatiḥ syāt kṣatasaṃvaraḥ || śghs_3,2.16 ||
+
+taskaropāttapātrādi nirāśaḥ punarādadan |
+saṃvarād bhraśyate hītotarastvāpnoti nāpadaṃ || śghs_3,2.17 ||
+
+mitrabhāvena labdhaṃ syād dattaṃ gopādibhiś[ca]vā |
+tadā [tad] ādadānasya yaternāpattiriṣyate || śghs_3,2.18 ||
+
+bhayopadarśanaṃ kāryaṃ pātracīvaramuktaye |
+rājani na vaded gatvaibhiścaurair muṣitā vayaṃ || śghs_3,2.19 ||
+
+niṣkāsayasyupādhyāyācāryāṇāṃ yattadāvathoḥ |
+tadityuktvā haredekaḥ syātāṃ dvāvapi taskarau || śghs_3,2.20 ||
+
+svadravyaṃ stainyacittenāpaharantāyimau yatī |
+bhāgārdhenāyatistveko niṣkāsitārdhenetaraḥ || śghs_3,2.21 ||
+
+dāsyāmaste samaṃ tiṣṭha dvāre kuryāma caurikāṃ |
+ityuktakṛta āpattiḥ sahaiva cauracellakaiḥ || śghs_3,2.22 ||
+
+uṣitvāgantuke yāte vismṛtya pātracīvaraṃ |
+āgatya yo yatistacced gopayeccaura eva saḥ || śghs_3,2.23 ||
+
+evamāvāsikā sarve bhavanti kṣatasaṃvarāḥ |
+sa eva yadi saṃsmṛtya nayatīha na kilviṣī || śghs_3,2.24 ||
+
+anyena steyacittena pātramanyasya ced yatiḥ |
+ānāyayati sa tato doṣavān bhavati vratī || śghs_3,2.25 ||
+
+yāvat pūjā munestāvat saṃghasyāpi pravartate |
+iti yo 'nyasya datte sa bhavati kṣatasaṃvaraḥ || śghs_3,2.26 ||
+
+likhitvoddhārakaṃ grāhyaṃ mithaḥ stūpācca saṃghataḥ |
+karmādāne ca vaktavyamiyat noktakṛto 'nyathā || śghs_3,2.27 ||
+
+svāṃśamuktaharaścauro[yatyora]madhye tayordvayoḥ |
+dāsyāmīti ca viśvāsaṃ kṛtvā prāpnoti nāpadaṃ || śghs_3,2.28 ||
+
+labhase tvaṃ labhe cāhaṃ yaṃ lābhaṃ tadāvayoḥ |
+iti lābhe samutpanne tato 'rdhena [sa] taskaraḥ || śghs_3,2.29 ||
+
+dakṣiṇādeśane 'pyevaṃ pāṃśukūlikayordvayoḥ |
+bhinatti yaḥ kriyākāraṃ tataḥ sa cyutasaṃvaraḥ || śghs_3,2.30 ||
+
+upakāryapakāribhyaścānnapānādi sāṃghikaṃ |
+vihārasvāmirājādicaurādibhyo yathākramaṃ || śghs_3,2.31 ||
+
+śrīghanebhyo 'pi dātavyaṃ prātarāśādi sāṃghikaṃ |
+ālepanādi kurvanti vihāre yadi nānyathā || śghs_3,2.32 ||
+
+sīmāntasthāyine datvā bhikṣūpasthānakāriṇe |
+dārakaprasthavyājena gṛhṇīyāttaṇḍulādikaṃ || śghs_3,2.33 ||
+
+atyaktāśo[hi]gṛhṇīyāt naṣṭaṃ svapātracīvaraṃ |
+matvaivaṃ naṣṭapātrādirāśāṃ naiva tyajed [yatiḥ] || śghs_3,2.34 ||
+
+svādhyāyādhyayanoddeśaṃ kṛtvā ye saṃghaśīlakaṃ |
+kriyākāraṃ na kurvanti te jinoditalaṃghinaḥ || śghs_3,2.35 ||
+
+patākālakṣaṇaṃ stūpānna grāhyaṃ yatinā[khalu] |
+prāṃśukūlamiti grāhyamaniloddhūtapātitaṃ || śghs_3,2.36 ||
+
+śulkakṛtyaṃ paradravyaṃ na nayet nāpi nāyayeta |
+śulkapradānamokṣārthopāyaṃ nopadiśed yatiḥ || śghs_3,2.37 ||
+
+ratnaṃ datvā yatibhyaḥ prāk paścāt mārgayate vaṇik |
+visaṃvādayasītyevaṃ dātavyaṃ paribhāṣya tat || śghs_3,2.38 ||
+
+nāsti śulkaṃ munerevaṃ vratināṃ pāribhogike |
+krayavikrayakṛddadyāt śulkamanyatra vastuni || śghs_3,2.39 ||
+
+varṣāvāsikalābho [hi] deyo varṣoṣitasya ca |
+jīvitabrahmacaryasya yayornāśastayorapi || śghs_3,2.40 ||
+
+prākprāgupagataiḥ kāryā varṣāvāsikayācanā |
+paścādupagataiḥ paścāt saṃghe yugapadeva ca || śghs_3,2.41 ||
+
+punargṛhṇāti dīkṣāṃ yo vastukarmajugupsayā |
+bhikṣubhāvaṃ parityajya tasmai cāpyāha sarvavit || śghs_3,2.42 ||
+
+avarṣoṣitavibhrāntakudṛṣṭimṛtakās[tathā] |
+deśāntaragatā lābhaṃ nārhanti paṃcapudgalāḥ || śghs_3,2.43 ||
+
+amuṣmai deyamityevaṃ lābhotpanne yatau mṛte |
+dātavyo niyataṃ tasmai sa vikalpitabhikṣave || śghs_3,2.44 ||
+
+deśāntaragatasyāpi sthāpayet kalpamandire |
+traye kurvanti cānarthaṃ tebhyo deyaṃbudharna hi || śghs_3,2.45 ||
+
+ācchādaṃ cīvaraṃ mūlyaṃ dāsyāmīti catuṣpadaiḥ |
+āpnoti sammukhībhūtān lābho netareṣu ca || śghs_3,2.46 ||
+
+varṣāvāsikalābhaśca varṣoṣitasya [gacchati] |
+tadetarasya doṣo na gṛhṇato dāyakecchayā || śghs_3,2.47 ||
+
+kāliko yāmiko yāvajjīvikaḥ sāptāhikaḥ |
+mṛtakṣudrapariṣkāranaityakākālacīvaraṃ || śghs_3,2.48 ||
+
+kuṭīpratiṣṭhājātyādisambodhyādimahodbhavaḥ |
+prāpnoti daśadhā lābhaḥ sammukhībhūtapudgalān || śghs_3,2.49 ||
+
+anādheyaṃ [gurudravyaṃ] sāṃghikaṃ śayanāsanaṃ |
+vikretavyaṃ na bhoktavyaṃ kṛtvā paudgalikaṃ na ca || śghs_3,2.50 ||
+
+cāturdiśāya buddhāya sammukhībhūtasāṃghike yatirdravyāntare datte tatra tatropanāmayet || śghs_3,2.51 ||
+
+tūṣṇīṃ datvā gate deyaṃ buddhe muktāphalādikaṃ |
+cāturdiksammukhībhūte śayanāsanamaṃśukaṃ || śghs_3,2.52 ||
+
+pṛthu dravyaṃ paropāttaṃ tatsaṃjñī steyacetanā |
+sthānacyutiśca paṃcāṃgairyuktaścedayatirbhavet || śghs_3,2.53 ||
+
+dattasvakāparopāttasaṃjñī cānyo 'pi saṃvarī |
+na tāvatkālikaṃ svāṃśād gṛhṇan jahāti saṃvaraṃ || śghs_3,2.54 ||
+
+ādāyādattamutplutya khaṃ gatvāśācatuṣṭayaṃ |
+tatraiva punarāsīno bhavati kṣatasaṃvaraḥ || śghs_3,2.55 ||
+
+avakrītādirajñānāt paradravyaṃ haran khalu |
+saṃvarakṣobhalābhī sa yatirnonmattādikaḥ || śghs_3,2.56 ||
+
+3 maithunaviratiśikṣāpadaṃ
+
+saṃvaratyāgaḥ
+
+nṛstrīpaṇḍakaviṇmūtravaktrarandhreṃ'gajāta[kaṃ] |
+kṣiptvā nigamayet svādaṃ sa [yatiḥ] kṣatasaṃvaraḥ || śghs_3,3.1 ||
+
+mānuṣā'mānuṣāste tu tiryañcaśca narādayaḥ |
+mṛtāḥ suptāśca jāgranto jñeyā [hi] maithunāśrayāḥ || śghs_3,3.2 ||
+
+hastinīmāditaḥ [kṛtvā] yāvat kukkuṭajāti[kāṃ] |
+kṣudrikāṃ mahatīṃ gacchan[sa yatiś] cyavate vratāt || śghs_3,3.3 ||
+
+duṣkṛtāni
+
+raktaḥ san na striyaṃ paśyet śabdamākarṇayenna ca |
+nirvastraḥ san na copeyādaṃgajāta na nirbhujet || śghs_3,3.4 ||
+
+bhittidvaye kṛtāṃ śuṣkāṃ klinnāṃ saṃyojya [koṭarīṃ] |
+[vipratipattito] nāśyaḥ saṃgrahe sati nānyadā || śghs_3,3.5 ||
+
+adha ūrdhvaṃ trikhaṇḍāyā vinīlādhmātikāṃ ca na |
+na cāsthisaṃkalāṃ yāyāt nābhyaktāṃ rudhirādibhiḥ || śghs_3,3.6 ||
+
+sitāsthisaṃkalāṃ śailadārupustamayīṃ[yatiḥ] |
+na ca gacchet striyaṃ yo 'tra virato maithunātsadā || śghs_3,3.7 ||
+
+dhyānamiddhagataṃ mattamabhibhūtaṃ ca nidrayā |
+vikṣiptaṃ vedanātunnaṃ gṛhītvābhiniṣīdati || śghs_3,3.8 ||
+
+ādimadhyāvasāneṣu svādayet dhyānavyutthitaḥ |
+vihārād ghaṭṭanīyaḥ so 'bhāve tu svādanasya na || śghs_3,3.9 ||
+
+nānāvyaṃjana[ko]petarasaśālyupabhogavat |
+āsvādanā ca tailācchaśauṇḍāsavapānavat || śghs_3,3.10 ||
+
+anāsvādo yuvagrīvāmṛtakukkurabandhavat |
+vijñeyaḥ sukumārasya pradīptalohasparśavat || śghs_3,3.11 ||
+
+avakrītādi[rajñānāt] |
+[āpattibhāg yatirnaivonmattavikṣiptacetasaḥ] || śghs_3,3.12 ||
+rāgā[manuṣyasaṃyogāt] praguṇībhūtāṃgajāta[kaṃ] |
+na spṛśet śukramokṣārthaṃ sa pṛthivyādidhātubhiḥ || śghs_3,3.13 ||
+
+tiryak[pramatta]saṃyogāt śukramuktirbhaved yadi |
+[sva]mānasaṃ yatigarhet kṛtaṃ me nu virūpakaṃ || śghs_3,3.14 ||
+
+majjajakṣaraṇaṃ yasya yateḥ svapneṣu jāyate |
+svapnaśukravinirmuktau taddoṣo na manāgapi || śghs_3,3.15 ||
+
+rāgāviṣṭena cittena nārīṃ na śrīghanaḥ spṛśet |
+[anyaṃ spṛśettathārūpaṃ nāpi ca] puṃnapuṃsakaṃ || śghs_3,3.16 ||
+
+stanakakṣauṣṭhanābhyūrupārśva kukṣimalabhramān |
+saṃraktaḥ [san] yatiḥ strīṇāṃ na nindet na ca saṃstuyāt || śghs_3,3.17 ||
+
+yadyad vadet striyaṃ[tāvat] kartukāmo yathā yathā |
+tattat tathā tathā brūyāt śrīghano nāntike striyāḥ || śghs_3,3.18 ||
+
+agrā bhavati sā yoṣid yā māṃ paricared rahaḥ |
+lābhinī cāyurādīnāṃ vyādhihīnā yaśasvinī || śghs_3,3.19 ||
+
+ityādi na vaco brūyād rāgāgnipluṣṭamānasaḥ |
+purastācchroghanaḥ strīṇāṃ punapuṃsakayostathā || śghs_3,3.20 ||
+
+vivāhāvāhayordautyaṃ na kuryāt śrāmaṇerakaḥ |
+[na ca kuryāt tathārūpanimittamapi dautyakaṃ] || śghs_3,3.21 ||
+
+dāpayeyamimāṃ śrāddhāṃ tathāsmai dārikāmiti |
+arthasaṃsyandanāsūtraṃ ghaṭate na [sa] bhāṣituṃ || śghs_3,3.22 ||
+
+bījārthaṃ na vratī dadyāt [svayameva] gavādikaṃ |
+etāneva parebhyo 'pi kadācinna [hi] prārthayet || śghs_3,3.23 ||
+
+tulyametāsu tvaṃ tiṣṭha mā striyā caikayā vasa |
+ityevaṃ hi bahustrīkaṃ puruṣaṃ na yatirvadet || śghs_3,3.24 ||
+
+4 mṛṣāvādaviratiśikṣāpadaṃ
+
+pratyekabuddhasaṃbuddhatacchiṣyajñānadarśanaṃ |
+mamāstīti bruvan mithyā nāśyo 'nyatrābhimānataḥ || śghs_3,4.1 ||
+
+jñānaṃ satyābhisaṃbodhirabhijñāḥ paṃca darśanaṃ |
+dharmānvayādikajñānāṃgīkaraṇe kṣamo na saḥ || śghs_3,4.2 ||
+
+āryamlecchavacolekhalipyā [ca] hastamudrayā |
+jñānādi pratijānīte boddhavyamapi tanmṛṣā || śghs_3,4.3 ||
+
+vṛkṣamūle 'hamekākī viharāmi rame [gṛhe] |
+samāhitaṃ ca me cittaṃ na ca vācyamatīndriyaṃ || śghs_3,4.4 ||
+
+buddhādīnāṃ vaded varṇamātmano na kathaṃcana |
+parakīyaṃ guṇaṃ pṛṣṭo brūyāttatsaṃmukhaṃ na tu || śghs_3,4.5 ||
+
+dṛṣṭaṃ śrutaṃ mataṃ yadyad vijñātaṃ caiva tad vadet |
+[śrīghano] vaiparītyena gadanmithyābhidhāyakaḥ || śghs_3,4.6 ||
+
+vastu cālīkasaṃjñī ca cittaṃ vinihitaṃ [tathā] |
+mṛṣāsaṃjñī vadedvācaṃ paṃcāṃgo 'nṛtavādikaḥ || śghs_3,4.7 ||
+
+catustridvayeka[kai] raṃgairyukto yo 'tra mṛṣāṃ vadeta |
+anyaiḥ sa yatibhirjñeyo mṛṣāvādīti [śrīghanaḥ] || śghs_3,4.8 ||
+
+abhūtenānidānena yatiḥ [prāṇivadhādinā] |
+dhvaṃsanacyāvanākūtaḥ saṃmukhaṃ na ca codayet || śghs_3,4.9 ||
+
+kṣudrāpattinimittena leśamātreṇa tena vā |
+śrāmaṇero[hi] pratyakṣaṃ [śrīghanān] na kṣipet parān || śghs_3,4.10 ||
+
+jātiliṃgakriyāvādair hīnamadhyottamairvratī |
+jihmaniṣpratibhānārthaṃ na prāṇān jātu codayet || śghs_3,4.11 ||
+
+upakleśagadākrośāpattyādyairhi yatiṃ vratī |
+āśayena puroktena brūyānnaiva kadācana || śghs_3,4.12 ||
+
+bhedaṃ yāsyati so 'nyena saṃdhāsyati mayā saha |
+yatira jātyādivādena paiśunyaṃ na samācaret || śghs_3,4.13 ||
+
+5 surāmaireyamadyapānaviratiśikṣāpadaṃ
+
+madyaṃ surā ca maireyaṃ pramādasyāspadaṃ yataḥ |
+na parasmai[hi] taddeyaṃ na ca peyaṃ śvamūtravata || śghs_3,5.1 ||
+
+valkalaiḥ saguḍaiḥ kācidaparā kevalena ca |
+piṣṭakiṇvajalairebhirapi saṃcīyate surā || śghs_3,5.2 ||
+
+maireyaṃ guḍadhātryambudhātakīsaṃskṛtaṃ hi yat |
+kuśāgreṇāpi tat pātuṃ yatīnāṃ na prakalpate || śghs_3,5.3 ||
+
+kodravānnaṃ na bhuñjīta tatpalāle ca na svapet ||
+pītaṃ sata madayed yacca pātavyaṃ tadapīha na || śghs_3,5.4 ||
+6 uccaśayanamahāśayanaviratiśikṣāpadaṃ
+
+śayane yatirāsīta jināṣṭāṃgulapādake |
+[vinā] śalyena[maṃce vā] hemarūpyakṛte na tu || śghs_3,6.1 ||
+
+sāṃghike śayane dadyāt tat pratyāstaraṇaṃ yatiḥ |
+vastrakambalayoriṣṭaṃ yat tridvayekapuṭaṃ kramāt || śghs_3,6.2 ||
+
+nyasya gartteṣu tatpādānatirekapramāṇakān |
+prakṣipya pratipādeṣu ṭaṃkitvā kīlakeṣu vā || śghs_3,6.3 ||
+
+evaṃ vekṣuyavādīnāṃ rakṣārthaṃ maṃcake svapet |
+yatirna laṃbayetpādāvadhvago dīrghapādake || śghs_3,6.4 ||
+
+alpaṃ ced dvādaśebhyo hi deyamekaṃ vihārakaṃ | nirmuṣṭahastaṃ svalpatve bahutve tu viparyayāt | śghs_3,6.5 ||
+
+stokaṃ ced navakaḥ pīṭhe vṛddho maṃce[tadā] svapet |
+svaptavyaṃ vṛkṣamūle ['pi] navenābhyavakāśake || śghs_3,6.6 ||
+
+antarvarṣāsu nopasthāpyo 'nyaḥ sabrahmacārikaḥ |
+yatinā [sva] vihāre[tu] yathāvṛddhikayā yatiḥ || śghs_3,6.7 ||
+
+saṃskāraparibhogārthaṃ paripālanārthameva ca |
+uddiśyate [yatibhyo vai] sāṃghikaṃ śayanāsanaṃ || śghs_3,6.8 ||
+
+hīnamadhyottamaṃ [sthāpyaṃ bhikṣubhyo] layanatrayaṃ |
+vṛddhādyāgantukebhyastaduddiśeddaharakramāt || śghs_3,6.9 ||
+
+śayanāsanamatyuccaṃ pratiṣiddhaṃ yaterhi tat |
+madauddhatyakaraṃ yasmād lokāvadhyānakāraṇaṃ || śghs_3,6.10 ||
+
+7 nṛtyagītavāditraviratiśikṣāpadaṃ
+
+bāhuvikṣepakaṃ nṛtyaṃ gītamuccaiḥ svareṇa ca |
+vīṇāvaṃśamṛdaṃgādivāditraṃ na ca vādayet || śghs_3,7.1 ||
+
+8 gandhamālyavilepanaviratiśikṣāpadaṃ
+
+candanādika[gandhaṃ hi dhārayed] vyādhito yatiḥ |
+dattvā [ca] munaye pūrvaṃ bhiṣagādervacanena [saḥ] || śghs_3,8.1 ||
+
+na tiṣṭhet prakaṭe deśe kṣālayitvā bahirvrajet |
+anenaiva vidhānena dhārayet kusumasrajaṃ || śghs_3,8.2 ||
+
+netraduḥkhaśiraḥśūlapūtanāgraharugvataḥ |
+mālayā veṣṭayet śīrṣaṃ mekhalāṃ na ca laṃbayet || śghs_3,8.3 ||
+
+haritālādicūrṇena tailena vā sugandhinā |
+na vadanādikaṃ gātraṃ varṇārthaṃ marṣayed yatiḥ || śghs_3,8.4 ||
+
+yaterapratirūpatvād gandhamālya[vilepanaṃ] |
+rāgauddhatyakaraṃ yasmāt tasmāttad garhitaṃ jinaiḥ || śghs_3,8.5 ||
+
+na darpaṇe nirīkṣeta mukhaṃ vā tailabhājane |
+muktvānyenekṣaṇīyaṃ[hi] śirovyathāgadāturaṃ || śghs_3,8.6 ||
+
+vibhūṣaṇāya tailenātmano nābhyaṃjayed mukhaṃ |
+sphuṭitāsyaśirorogādanyenābhyaṃjanaṃ na ca || śghs_3,8.7 ||
+
+na kuṃkumādicūrṇena maṇḍayed vadanaṃ yatiḥ |
+piṭakaśamanārthaṃ tu lepa iṣṭastilā[dibhiḥ] || śghs_3,8.8 ||
+
+9 vikālabhojanaviratiśikṣāpadaṃ
+
+rātreranyatra[bhuṃjāne mayi babhūvālparogatā] |
+tathaiva [khalu] vaḥ kāryaṃ [bhoktavyaṃ dinayevaca] || śghs_3,9.1 ||
+
+viṇmūtragarta[ke] pātaḥ caurāhibhiḥ samāgamaḥ |
+udarārthaṃ gṛhe no 'ṭantītyavadhyātavān janaḥ || śghs_3,9.2 ||
+
+sāyaṃ prātaśca piṇḍārthamaṭanti bhuṃjate [tathā] |
+sabhācatvaraśrṛṃgāṭamandireṣu gṛheṣu ca || śghs_3,9.3 ||
+
+sugataḥ prāha bhuṃjīta kāle yatiḥ ||
+uditādityamadhyāhnakeśamātrānatītake || śghs_3,9.4 ||
+sakturodanakulmāṣaṃ matsya- māṃsaṃ ca kālikaṃ |
+yāvajjīvikatailādipippalīpānavarjitaṃ || śghs_3,9.5 ||
+
+yatkiṃcidadyate dantairgalake vā praveśyate |
+kukṣiviṣṭabhmakaṃ kāle tattadadyādyathodite || śghs_3,9.6 ||
+
+saktvādyāmiṣanirmuktaṃ nīrajaṃ kardamādikaṃ |
+varṣopalakamaśnīyāt pipāsārtto yatirhimaṃ || śghs_3,9.7 ||
+
+kalpyavārigrahe tāvat prakṣālyau na [saśoṇitau] |
+hastau dvau cāṃgulīkṣāle na grāhyaṃ kalpikodakaṃ || śghs_3,9.8 ||
+
+māyāśāṭhaya[yutaḥ] kuryāt na ca prakṣālanaṃ tayoḥ |
+saśabdau [yadi] tau śuddhau vedyau snigdhatvaco yateḥ || śghs_3,9.9 ||
+
+na dāsyatha[mahyaṃ] bhoktuṃ kṣuttṛṣṇāpīḍito [mriye] |
+ityevaṃ [sa] viruktaḥ syāt kṣeptavyo maṇḍakuṇḍa[ke] || śghs_3,9.10 ||
+
+aṣṭāsu dhautadhānyaṃ yat pātre diśedanāmiṣe |
+sphuṭaṃ tu yadi pātuṃ tannaiva glānāya kalpate || śghs_3,9.11 ||
+
+lobhotyāpitavākkāyakarmaṇā samupārjitaṃ |
+vihāracīvarāhāraṃ varjayed viṣabhaktavat || śghs_3,9.12 ||
+
+madyaśastraviṣaprāṇilākṣavikrayaṇaṃ vratī |
+na kārayet na kuryānna jīvikāṃ tena kalpayet || śghs_3,9.13 ||
+
+satkārārthaṃ [ca lābhārtha] kuhanā hyakṣasaṃvaraḥ |
+vastrādikasya prāptayarthaṃ lapanā cāṭuvāditā || śghs_3,9.14 ||
+
+naiṣpeṣikatvamannādi-lābhāya parakutsanaṃ |
+anyadīyasya pātrādernaimittikaṃ [tu] varṇanaṃ || śghs_3,9.15 ||
+
+lābhena lipsā lābhānāṃ vṛddhiṣaryeṣaṇaṃ ca [yat] |
+yatirvivarjayedetān mithyājīvān purīṣavat || śghs_3,9.16 ||
+
+krīḍāparopaghātaṃ ca kāyavāgucchitaṃ [sadā] |
+vratī vivarjayennityaṃ viṭpradigdhamivoragaṃ || śghs_3,9.17 ||
+
+vipaṇitaragulmādau dyūtabandhagṛhe tathā |
+agocaro yadākhyātastiṣṭhettatra na cellakaḥ || śghs_3,9.18 ||
+
+10 jātarūparajatapratigrahaṇaviratiśikṣāpadaṃ
+
+kāyena hastapādābhyāṃ vastrachatrādibhirvratī |
+rajataṃ jātarūpaṃ ca na spṛśet jvalitāgnivat || śghs_3,10.1 ||
+
+iti saṃghasenena saṃvihitoddhāre śrīghanācārasaṃgrahe śrāmaṇerabhāvopāyo nāma tṛtīyo 'dhyāya ||
+
+caturtho 'dhyāyaḥ anye cācārāḥ
+
+campūkalahadantādakāṣṭho vṛddhāntiko yatiḥ |
+snānapānāśanastotravyagro nagnaikavastra[kaḥ] || śghs_4.1 ||
+
+mṛtkarmavyāpṛtas tūrṇaṃ gacchan [ca] dvitribhūmikaṃ |
+āśu vrajan pacan pātraṃ vyagraś cīvarakarmaṇā || śghs_4.2 ||
+
+cūrṇacailakriyāsakto 'ktākṣo[ca] dhūmramāpiban |
+likhan yo pustakaṃ vāpi yo vācayati so 'pi na || śghs_4.3 ||
+
+viṭprasrāvakuṭīṃ gacchan tiṣṭhan tamasi voddiśan |
+vāsayannatha prāvṛṇvana na vandyo yatinā yatiḥ || śghs_4.4 ||
+
+avaguṇṭhitaśīrṣeṇa sopānatkena jānunoḥ |
+muṇḍasphoṭaṃ hi jaṃghāyāṃ na dadyādavinā yathā || śghs_4.5 ||
+
+samavasthāniṣaṇṇena vandyamānena padyuge |
+gṛhītvā karkaṭagrāhaṃ vācyamārogyamastviti || śghs_4.6 ||
+
+bhikṣuvinayasaṃkṣepādācārāntaramuddhṛtaṃ |
+śrotavyo 'nyadupādhyāyād bhāvyaṃ sagauraveṇa ca || śghs_4.7 ||
+
+śatadvayena saṃhatya śrīghanācāra saṃgrahaṃ |
+sukṛtaṃ karma yattena jano prāpnotvasaṃskṛtaṃ || śghs_4.8 ||
+
+iti saṃghasenena saṃvihitoddhāre śrīghanācārasaṃgrahe anye cācārā nāma caturtho 'dhyāyaḥ ||
+
+iti śrīghanācārasaṃgrahaḥ ||

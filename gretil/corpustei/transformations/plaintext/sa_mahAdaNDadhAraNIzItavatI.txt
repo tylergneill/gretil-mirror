@@ -1,0 +1,69 @@
+Mahādaṇḍadhāraṇīśītavatī
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mahAdaNDadhAraNIzItavatI.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Gergely Hidas
+## Contribution: Gergely Hidas
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Hidas, Gergely (2017) Mahā-Daṇḍadhāraṇī-Śītavatī: A Buddhist Apotropaic Scripture. In: V. Vergiani, D. Cuneo, C.A. Formigatti (eds.) Indic Manuscript Cultures through the Ages. Material, Textual, and Historical Investigations. De Gruyter, Berlin: 449-486.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Mahādaṇḍadhāraṇīśītavatī = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from madadh_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Mahadandadharanisitavati
+Based on Hidas, Gergely (2017) Mahā-Daṇḍadhāraṇī-Śītavatī: A Buddhist Apotropaic Scripture.
+In: V. Vergiani, D. Cuneo, C.A. Formigatti (eds.) Indic Manuscript Cultures through the Ages. Material, Textual, and Historical Investigations.
+De Gruyter, Berlin: 449-486.
+Input by Gergely Hidas
+[GRETIL-Version: 2018-05-02]
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+mahādaṇḍadhāraṇīśītavatī
+
+[0] [siddham] namaḥ sarvabuddhabodhisattvebhyaḥ |
+
+[1] evaṃ mayā śrutam ekasmin samaye bhagavān rājagṛhe viharati sma | śītavane mahāśmaśāne iṅghikāyatanapratyuddeśe | tatrāyuṣmān rāhulo 'tīva viheṭhyate devagrahair nāgagrahair yakṣagrahai rākṣasagrahaiḥ kinnaragrahair garuḍagrahair mahoragagrahair manuṣyagrahair amanuṣyagrahaiḥ pretagrahair bhūtagrahaiḥ piśācagrahaiḥ kumbhāṇḍagrahair dvīpibhiḥ kākair ulūkaiḥ kīṭaiḥ sarīsṛpaiṛ anyaiś ca manuṣyāmanuṣyaiḥ sattvaiḥ |
+
+[2] athāyuṣmān rāhulo yena bhagavāṃs tenopasaṃkrānta upasaṃkramya bhagavataḥ pādau śirasābhivanditvā bhagavantaṃ tripradakṣiṇīkṛtya bhagavataḥ purato rudann aśrūṇi pravartayati sma |
+
+[3] atha bhagavān jānann eva rāhulam āmantrayate sma | kiṃ tvaṃ rāhula mama purataḥ sthitvā aśrūṇi pravartayasi | evam ukte āyuṣmān rāhulo bhagavantam etad avocat | ihāhaṃ bhagavan rājagṛhe viharāmi | śītavane mahāśmaśāne iṅghikāyatanapratyuddeśe | so 'haṃ bhagavaṃs tatra viheṭhye devagrahair nāgagrahair yakṣagrahai rākṣasagrahaiḥ kinnaragrahair garuḍagrahair mahoragagrahair manuṣyagrahair amanuṣyagrahaiḥ pretagrahair bhūtagrahaiḥ piśācagrahaiḥ kumbhāṇḍagrahair dvīpibhiḥ kākair ulūkaiḥ kīṭaiḥ sarīsṛpair anyaiś ca manuṣyāmanuṣyaiḥ sattvair iti |
+
+[4] atha khalu bhagavān āyuṣmantaṃ rāhulam āmantrayate sma | udgṛhṇa tvaṃ rāhula imāṃ mahādaṇḍadhāraṇīṃ vidyām | catasṛṇāṃ parṣadāṃ rakṣāvaraṇaguptaye bhikṣūṇāṃ bhikṣuṇīnām upāsakānām upāsikānāṃ ca dīrgharātram arthāya hitāya sukhāya bhaviṣyati |
+
+[5] tadyathā | aṅgā | vaṅgā | bhaṅgā | varaṅgā | saṃsārataraṅgā | sāsadaṅgā | bhaṅgā | jesurā | ekatarā | ara vīrā | tara vīrā | kara vīrā | kara kara vīrā | indrā | indrakisarā | haṃsā | haṃsakisarā | picimalā | mahākiccā | viheṭhikā | kālucchikā | aṅgodarā | jayā | jayālikā | velā | elā | cintāli | cili cili | hili hili | sumati | vasumati | culu naṭṭe | culu culu naṭṭe | culu nāḍi | kunāḍi | hārīṭaki | kārīṭaki | gauri | gandhāri | caṇḍāli | mātaṅgi | dharaṇi dhāraṇi | uṣṭrapālike | kaca kārike | cala nāṭike | kākalike | lalamati | rakṣamati | varākule | manmate utpale | kara vīre | tara vīre | tara tara vīre | kuru vīre | kuru kuru vīre | curu vīre | curu curu vīre | mahāvīre | iramati | varamati | rakṣamati | sarvārthasādhani | paramārthasādhani | apratihate | indro rājā | yamo rājā | varuṇo rājā | kubero rājā | manasvī rājā | vāsukī rājā | daṇḍāgnī rājā | brahmā sahasrādhipatī rājā | buddho bhagavān dharmasvāmī rājā | anuttaro lokānukampakaḥ | mama sarvasattvānāṃ ca rakṣāṃ kurvantu | paritrāṇaṃ parigrahaṃ paripālanaṃ śāntiṃ svastyayanaṃ daṇḍaparihāraṃ śastraparihāraṃ viṣadūṣaṇaṃ viṣanāśanaṃ sīmābandhaṃ dharaṇībandhaṃ ca kurvantu | jīvatu varṣaśataṃ paśyatu śaradāṃ śatam |
+
+[6] tadyathā | balavati | varamati | talamati | lakṣamati | rakṣamati | huru huru | phuru phuru | cara cara | khara khara | khuru khuru | mati mati | bhūmicaṇḍe | kālikeṭi | akisalā | pīne | sāmalate | hūle sthūle | sthūlaśikhare | jaya sthūle | jaya naṭṭe | cala nāsi | culu nāsi | vāgbandhani | virohaṇi | solohite | aṇḍare | paṇḍare | karāle | kinnare | keyūre | ketumati | bhūtaṃgame | bhūtamati | dhanye | maṅgalye | mahābalalohitamūle | acalacaṇḍe | dhuraṃdharā | jayālike | jayā | gorohaṇi | curu curu | rundha rundha | dhuru dhuru | khuru khuru | khurumati | bandhumati | dhuraṃdhare | dhare dhare | vidhare vimati | viṣkambhaṇi | nāśani vināśani | bandhani | mokṣaṇi | mocani | mohani | bhāvani | śodhani | saṃśodhani viśodhani | saṃkhiraṇi | saṃchindani | sādhu turumāṇe | hara hara bandhumati | hiri hiri | khiri khiri | kharali | huru huru | piṅgale | namo 'stu buddhānāṃ bhagavatāṃ svāhā |
+
+[7] asyāṃ khalu rāhula mahādaṇḍadhāraṇyāṃ vidyāyām antaśo 'ṣṭottaraśatapadānāṃ sūtraṃ granthiṃ baddhāyāṃ hastena dhāryamāṇāyāṃ kaṇṭhena dhāryamāṇāyāṃ samantād yojanaśatasya rakṣā kṛtā bhaviṣyati | gandhair vā puṣpair vā mudrābhir vā naiva manuṣyo vāmanuṣyo vābhibhaviṣyati | na viṣaṃ na śastraṃ na rogo na jvaro na prajvaro na vidyāmantro na vetāḍaḥ | na vyādhau nāgnau na viṣodakena kālaṃ kariṣyati | vidyāmantraprayogānāṃ ca sarveṣāṃ sādhuprayuktānāṃ ca bandhanī | parabandhānāṃ ca pramocanī | sarvarogaśokavighnavināśanakarī | kalikaluṣapraśamanakarī | sarvagrahavimocanakarī | yo graho na muñcet saptadhāsya sphuṭen mūrdhā arjakasyeva mañjarī | vajrapāṇiś cāsya mahāyakṣasenāpatir vajreṇādīptena samprajvālitena ekajvālībhūtena dhyāyitvā mūrdhānaṃ sphoṭayet | catvāraś ca mahārājāno 'yomayena cakreṇa kṣuradhārāprahāreṇa vināśayeyuḥ | tasmād yakṣalokāc cyavanaṃ bhavet | aḍakavatyāṃ rājadhānyāṃ na labhate vāsam |
+
+[8] asyāṃ khalu rāhula mahādaṇḍadhāraṇyāṃ vidyāyāṃ sakṛtparivartitāyāṃ rājacaurodakāgniviṣaśastrāṭavīkāntāraparvatadurgamadhyagataḥ sarvabhayebhyaḥ pratimucyate | iyaṃ khalu mahādaṇḍadhāraṇīvidyā ekanavatigaṅgānadīvālikāsamair buddhair bhāṣitā bhāṣyate bhāṣiṣyate ca siddhā paramasiddhā sarvadevanāgayakṣagandharvāsuragaruḍakinnaramahoragābhir vanditā sarvajanagaṇaparivṛtā | sarvabhayopadraveṣu mama sarvasattvānāṃ ca śivam ārogyaṃ bhavatu |
+
+[9] idam avocad bhagavān āttamanā āyuṣmān rāhulo bhagavato bhāṣitam abhyanandann iti |
+
+[10] āryamahādaṇḍadhāraṇīśītavatī samāptā |

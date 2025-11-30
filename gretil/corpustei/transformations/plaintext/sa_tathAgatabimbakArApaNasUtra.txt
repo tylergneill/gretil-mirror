@@ -1,0 +1,54 @@
+Tathāgatabimbakārāpaṇasūtra
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_tathAgatabimbakArApaNasUtra.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Klaus Wille
+## Contribution: Klaus Wille
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Adelheid Mette: "Zwei kleine Fragmente aus Gilgit", Studien zur Indologie und Iranistik 7 (1981), pp. 133-151. GBM 1684.1_1691.2 (Bl. 2_5).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Tathāgatabimbakārāpaṇasūtra = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from tbimbk_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Tathagatabimbakarapanasutra = Tbks
+Based on the ed. by Adelheid Mette: "Zwei kleine Fragmente aus Gilgit",
+Studien zur Indologie und Iranistik 7 (1981), pp. 133-151.
+GBM 1684.1_1691.2 (Bl. 2_5)
+Input by Klaus Wille (Göttingen)
+BOLD for first aksara in new line (and references)
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+tathāgatabimbakārāpaṇasūtra
+
+(tbks 2r1) s sakotūhalahṛdayā evam ūcu | aho puṇyaphalaprabhāvam iti mahātvaṃ aho puṇyaprabhāvam iti tūṣṇībabhūvuḥ tataḥ suvarṇaprabho (tbks 2r2) saparivāra bhagavantaṃ pradakṣiṇīkṛtya śirasā praṇamya bhagavato 'ntikaṃ niṣaṇṇa dharmaśravaṇārtham* atha (tbks 2r3) bhagavāṃ sarvasatvānusaṃśayaṃ jñātvā tebhyo mahājanakāyebhya dharmaśrāvaṇikebhyaḥ tasya suvarṇaprabhasya rājakumārasya pūrvasucaritapuṇyaphalena (tbks 2r4) prabhāvasamudayasaṃdarśanahetubhūtāṃ vicitra prakārāṃ sapratītyasamutpādāṃ caturāryasatyakathāsaṃyuktāṃ (tbks 2r5) dharmadeśanāṃ deśayati | ādau kalyāṇaṃ madhye kalyāṇaṃ paryavasāne kalyāṇaṃ svarthaṃ suvyaṃjanaṃ kevalaṃ paripūrṇam* (tbks 2r6) pariśuddhaṃ paryavadātaṃ brahmacaryaṃ prakāśayati sma : bhūtapūrvaṃ bhikṣavaḥ atīte 'dhvani ekanavatime kalpe (tbks 2r7) vipaśyī nāma samyaksaṃbuddho vidyācaraṇasaṃpannas sugato lokavid anuttaraḥ puruṣadamyasārathiś śāstā devamanuṣyāṇāṃ (tbks 2v1) buddho bhagavāṃ buddhakṛtyam a..aśiṣyavineyakṛtyaṃ kṛtvā nirindhano 'gnir iva parinirvṛta samabhijagāma : tad eka puruṣo (tbks 2v2) bhikṣavaḥ paruṣadaridrakṛṣikarmaṇāvaprativṛtti bhagavatā vipaśyina śāsanebhiḥ prasannāḥ bhagavato vipaśyinaḥ (tbks 2v3) pratimāṃ kartā tasmiṃ kāle tasmiṃ samaye sa evāyaṃ suvarṇaprabho rājakumāra yad bhagavato vipaśyinaḥ pratimāṃ (tbks 2v4) kārayata yat puṇyaphalasamudayaprabhāvai divyasukhopabhogaiśvaryamahātvam anubhūtavān* ayaṃ sa suvarṇaprabho (tbks 2rv5) rājakumāra samāsato bhikṣava sarvāsu jātiṣu tad bhāṣayāmi: saptaratnamayena samanvāgato śrīcakravartirājyaṃ (tbks 2r6) caturdvīpeśvaro nabhastalacara : apratihatacakraratnagatipracāra | adhīśvarādhipati | śatasahasrakṛtvā (tbks 3r1) caturdvīpeśvaro rājā cakravartī babhūvu | anenaiva buddhapratimāpuṇyaphalavipākena tathaivaṃvidha | (tbks 3r2) sa kāmāvacareṣu devanikāyeṣu svargeṣu ekaikaśaḥ śatasahasrakṛtvā bhikṣava devānām indro rājā babhūva : (tbks 3r2) evaṃvidha : śatasahasrakṛtvā daśa brahmakāyikeṣu brahmādhipatir babhūvu: anulomapratilomajanmaśatasahasreṣu (tbks 3r4) koṭi kṣatriyabrāhmaṇeśvarādhipatikuleṣu rājā babhūva | evaṃvidhaś ca bhikṣava| saubhāgyakāntidyutikīrtiyaśobalasamanvāgata (tbks 3r5) svargā cyuta| aiśvaryeṣu rājakule jātaḥ uttamajāta anuttamajāta| (tbks 3r6) suvarṇaprabho rājakumāraḥ antike devamanuṣyāṇāṃ acyutaṃ ajaraṃ amaraṇaṃ śivaṃ śāntaṃ padaṃ labhiṣyatīti | tato (tbks 3r7) 'sya bhikṣava suvarṇaprabhasya rājakumārasya buddhapratimāpuṇyaphalaprabhāvam anuśṛṇutā mānuṣyajātiṣu yeṣu (tbks 3v1) ātmahitaparahitakāmena nāma bhikṣava buddhapratimā nikaraṇīyā | tadyathā bhikṣava : mṛnmayī vā | (tbks 3v2) śailamayī vā | dantamayī vā | dārumayī vā | suvarṇamayī vā | kaṃsamayī vā | tra...mayī vā | rupyamayī (tbks 3v3) vā sphaṭikamayī vā | maṇiratnakamayī vā | rītamayī vā | buddhapratimā karaṇīyakā vā | dīrghakā vā | hrasvakāṃ (tbks 3v4) vā | sadhātukaṃ vā | sapratītyasamutpādaṃ vā | buddhapratimā kārayitvā | sthāpayitvā gandhodakapuṣpodakādibhiḥ (tbks 3v5) pūjāviśeṣai| snāpayitvā pūjayitvā yasya kasyacid bhikṣavaḥ kulaputrasya vā kuladuhitur vā buddhapratimāpuṇyaphalaniṣyanda : (tbks 3v6) puṇyaskandhaḥ puṇyarāśi aprameya asādharaṇa: anantyupama: puṇyaskandheti punar aparaṃ bhikṣava: (tbks 3v7) yaḥ kaścid bhikṣur vā bhikṣuṇī vā upāsako vā upāsikā vā | kṣatriyo vā brāhmaṇo vā | vaiśyo vā | śūdro vā evaṃrūpāsu (tbks 4r1) jātiṣu | śrutidharo bhavati | jātismaro bhavati | svajanaparijanadāsīdāsakarmakarapauruṣeyaprabhṛtiṣu sa ādeyavādyo bhavati | (tbks 4r2) sarvasatvapriyadarśanadharo bhavati | sarvaguṇalakṣaṇadharo bhavati sarvasatvādhipatir bhavati | sarvabuddhapratyekabuddhaśrāvakārhadguṇasamāgato (tbks 4r3) bhavati | nityaṃ bodhicittaparāyaṇo bhavati | yasya yatrābhikāṃkṣati | tatra tatra etaṃ labhati | rāgadveṣamoherṣyāmātsaryalobhatṛṣṇādikleśādibhi| (tbks 4r4) vivarjito bhavati | buddhatvam anvantaram adhigacchati | kṣipraṃ ca parinirvāṇaṃ śāntam adhigacchatīti vadāmi bhikṣavaḥ (tbks 4r5) tat kasmād dhetor anantaphalasamudayaprabhāva | buddhapratimāpuṇyaphalasamudayaprabhāvam* buddhapratimāpuṇyaphalavipāka (tbks 4r6) parinirvṛto 'pi adhigato nāpi buddho bhagavāṃ parinirvṛta iva buddhapratimāyā darśanād iti vadāmi bhikṣava idam avocad bhagavāṃ (tbks 4r7) tathāparaṃ gāthāṃ bhāṣate | kṛtvā purā kāśyapabiṃbam agryaṃ gandhodakai snāpitavāṃ dvijendraḥ | (tbks 4v1) puṣpai sugandhais sumanojñagandhai tenaiva puṇyena bhavād vimuktaḥ 1 yaṃ nirmalaḥ kleśamalair vimukta cittasya citteśvaratāgatiṃ syaḥ rūpaṃ na tṛptāś ca nirīkṣya matvā tadbiṃba saṃsnāpayato jinasya 2 (tbks 4v2) vicitrabhogā vividhaprakārā candrārkasaumyādhikatejaśobhā | labhanti nāryaḥ puruṣāś ca loke tadbiṃba saṃsnāpayato jinasya 3 (tbks 4v3) kleśāndhakārādivimuktacittā mohāndhakārādivipūrṇacandra | śāntaṃ padaṃ yānti narā striyo vā tadbiṃba saṃsnāpayato jinasya 4 (tbks 4v4) tyaktvā kaḍevaram ihaiva narā striyo vā svarge prayāti bahukalpaśatai sunirvṛt* te prāpnuvanty anupamaṃ sukham apsarebhi (tbks 4v5) viśvasya tat phalam udāram uvāca buddhaḥ 5 śrīkāntidivyasalilo guṇarūpaśobhā saubhāgyabhāgye varasaukhyapaṭutvavākya | (tbks 4v6) ādityacandrakiraṇā iva saumyatejā - buddhabiṃbakaraṇā labhate manuṣyaḥ 6 yāvantaḥ paramāṇavo bhagavata stūpeṣu biṃbasya vā | (tbks 4v7) tat kartum* divi bhūtale ca niyataṃ tāvanti rājyāni te | buddhānāṃ khalu dhātave bhagavatā śarīrā ni ca nirmitā | (tbks 5r1)  ekaikādbhutapuṇyarāśijanitair ekaikasūkṣmāṇubhi | 7 trailokyayaśasya biṃbaṃ daśabalabalinā dikṣu vikhyātakīrte | ye martyāḥ kārayitvā pramuditamanasā pūjayante yathāvat (tbks 5r2) svarge saktye ca rūpaṃ nayanaratikaraṃ śuddhacāmīkarābham* te labdhāś śāntikāmā sukham idam atulaṃ prāpnuvanty āvajuṣṭaṃ || 8 (tbks 5r3) ity evādiprakārāṃ suvarṇaprabhavasuyuktāṃ dharmadeśanāṃ śrutvā paṃcaśatasahasra (tbks 5r4) antaḥpurastrīkāntaparivārai suvarṇaprabho rājakumāra buddhapratimāpuṇyaphalarājaśrīsamudayasaṃmudasaukhyaṃ (tbks 5r5) sarvaṃ gārhasthyam apahāya tathaiva śāsane pravrajita yoniśa sa manaskāraṃ kṛtvā sarvakleśaprahāṇā arhatvaṃ strīparivārās (tbks 5r6) samaloṣṭakāṃcana samacittāḥ kṛtaṃ karaṇīyā apahṛtabhārāḥ parikṣīṇabhavasaṃyojana vimuktās saṃsārabandhanās (tbks 5r7) sarvadevanamaskṛtacaraṇayugalā suprabuddhā buddhapratimāpuṇyaphalasamudayavibhūtimahātvaprakāśanam idaṃ sūtram* (tbks 5v1) 
+ idam avocad bhagavān āttamanasas te bhikṣavo bhagavato bhāṣitam abhyanandam* bhikṣavaś caturdiśasaṃkhyārhatvaṃ babhūvu |
+ buddhapratimāpuṇyaphalaprakāśitam idaṃ sūtraṃ samāptam* || ||
+
+
+ tathāgatabiṃbakārāpaṇaṃ sūtraṃ samāptam* || ||

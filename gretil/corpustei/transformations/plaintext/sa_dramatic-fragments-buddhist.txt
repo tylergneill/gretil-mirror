@@ -1,0 +1,1155 @@
+Dramatic Fragments (buddhist)
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dramatic-fragments-buddhist.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Klaus Wille
+## Contribution: Klaus Wille
+## Date of this version: 2020-07-31
+
+## Source: 
+   - H. Lüders: Bruchstücke buddhistischer Dramen, Berlin 1911 (Kleinere Sanskrit-Texte 1) [reprint in Monographien zur indischen Archäologie, Kunst und Philologie, Bd. 1, hg. H. Härtel, Wiesbaden 1979, pp. 1-112]. = Lüders 1911.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Dramatic Fragments (buddhist) = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from dramfrag_tu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Dramatic Fragments (buddhist)
+Based on the ed. by H. Lüders: Bruchstücke buddhistischer Dramen, Berlin 1911 (Kleinere Sanskrit-Texte
+1) [reprint in Monographien zur indischen Archäologie, Kunst und Philologie, Bd. 1, hg. H. Härtel,
+Wiesbaden 1979, pp. 1-112]. = Lüders 1911
+Additions and corrections in H. Lüders: "Das Śāriputraprakaraṇa, ein Drama des Aśvaghoṣa,"
+Sitzungsberichte der königlich Preussischen Akademie der Wissenschaften 17 (1911), pp. 388-411. =
+Lüders SBAW 1911 (reprint in H. Lüders: Philologica Indica, Ausgewählte kleine Schriften, Festgabe zum
+70. Geburtstage, Göttingen 1940, pp. 190-213. = Phil.Ind.)
+The manuscripts of the text are catalogue numbers 16 ("Bruchstücke buddhistischer Dramen"; according
+to the description in SHT I there are 26 very small fragments not edited. There are no transliterations of
+these fragments and the whereabouts is not known) and 57 (Aśvaghoṣa's Śāriputraprakaraṇa) in:
+Sanskrithandschriften aus den Turfanfunden, Teil 1, unter Mitarbeit von W. Clawiter und L. Holzmann
+hg. von E. Waldschmidt, Wiesbaden 1965 (Verzeichnis der orientalischen Handschriften in Deutschland,
+X,1) = SHT
+First drama: dialogue between Buddhi, Dhṛti, and Kīrti [SHT 16/1, 2]
+Second drama (cf. Lüders SBAW 1911, pp. 403ff.): Aśvaghoṣa, Śāriputraprakaraṇa [SHT 16/1, 2, 3,
+7(?), 14, 20(?), 21(?), 54, 55, 56, 58(?), 65; SHT 57]
+Third drama: presumedly with a hetaera [SHT 16/4, 8, 9, 13, 16, 29, 37, 38, 44, 51]
+Input by Klaus Wille
+[GRETIL-Version vom 17.09.2016]
+IDP = International Dunhuang Project (idp.bbaw.de or idp.bl.uk)
+r = recto
+v = verso
+@ ... @@ = comments
+Symbols used in the transliteration:
++ = lost akṣara
+(...) = restored akṣara
+[...] = damaged akṣara
+⟨...⟩ = omitted akṣara or corrected vocal quantity (.⟨ā⟩ corrected from .a)
+⟨⟨...⟩⟩ = interlinear correction or insertion
+{...} = superfluous akṣara or part of it
+{{...}} = superfluous akṣara or part of it marked by the scribe
+.. = illegible akṣara
+. = single element thereof
+/// = leaf broken off here
+' = avagraha, not written in the MS
+ẖ = jihvāmūlīya
+ḫ = upadhmānīya
+~ = anunāsika
+* = virāma
+// = double daṇḍa
+─ = punctuation mark
+_ = larger space as punctuation mark
+% = circle with rosette
+& = maṅgala symbol
+# = string hole
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+sht 16 fragment 1 (idp sht 16/1) the original is deposited in berlin, museum für asiatische kunst (mik iii 26); facsimile in lüders 1911 to the same folio belongs sht 16/2; cf. lüders 1911, p. 17 r1 /// + + + + y. bhavanivarttakeṣu kleśeṣu na kiñcid asti pprahātavyaṃ yasya nityam anitya[ṃ] v[ā] na k[i]ñc[i]d ast[i] boddhavya[ṃ] ─ t(a)m(o) y(e)n(a) kṣ(i)pt(aṃ) .. .. .. .. [m](a)[y]ūkh(ai)r. + .. [r](a)j(o) [y](a)sy(a) [dh]v(a)[s]t(aṃ) 2 /// + + yenāv⟨ā⟩ptam paramam amṛtan durllabham ṛtaṃ manobuddhis tasmiṃnn aham abhirame śāntiparame ─ dhṛti ─ asti asti tat matprabhāvaparigṛhītam puruṣasa[ṃ]jñakan tejaḥ prādurbhūta[ṃ] ─ 3 /// (para)s[p]arāyattam i[da]n dvandam iti _ yatra ⟨⟨hi⟩⟩ buddhir avatiṣṭhate tatra dhṛtiḥ sthāghaṃ @read: sthānaṃ@@ labhate _ yatra ca dhṛtir ādhīyate tatra buddhir vistīryyate ─ kīrt[t]iḥ ─ evaṃ gate yuvābhyām āya 4 (ttābhyām) /// (i)[d]ānī(ṅ) k. .. .. .. .. ─ buddhiḥ ─ tathā tat* api ca ─ nityaṃ sa supta [i]va yasya na buddhir asti _ nityaṃ sa matta iva yo dhṛtiviprahīṇa(ḥ) + + + + + + sa ca ya[s]y(a) n(a) k(ī) v1 (rttir asti) /// tiṣ[ṭh]ati ya[s]ya kīrt(t)⟨i⟩ḥ ─ kīrtti ─ kva punar idānīṃ sa puruṣavigraho dharmaḥ saṃprati viharati ─ buddhiḥ ─ svādhīnāyām ṛddhau kva punar na viha(rati) + + (pakṣī)va vyomni yāti vra 2 (jati) /// + + (niḥ)sa[ṅ]g(a)[s] t(o)[y](ava)d gām praviśati bahudhā mūrttiṃ vibha[jati] khe varṣaty ambudhārāṃ jvalati ca yugapat sandhy⟨ā⟩mbuda iva svacchandāt parvva .. .. + + [v]rajati ca vi[dhiv](a)d dh(ar)mm(a)ñ c(a) [ca] 3 (rati) /// + + [ṅ] gocaraḥ ─ dhṛtiḥ ─ tena hi sarvvā yeva tāvad enaṃ vāsavṛkṣīkurmaḥ eṣa hi sa maharṣir magadhapurasyopavane samprati ─ sorṇṇabhr[u]s tanumṛdujālapāṇipā[da](ḥ) 4 /// + + + + vaśyātmā viharati nispṛhaḥ kṛtār[th]o j[ñ]ānasya ppraśamarasasya caiva pūrṇṇa[ḥ] ─ tataḥ praviśati prabhāmaṇḍalena dīptena .. r. b[bh].ḥ [parama] .. .o .. .. veṣo bhaga(vā)ṃ ⟨⟨śa[rmā]⟩⟩ +
+
+sht 16 fragment 2 (idp sht 16/2) to the same folio belongs sht 16/1; cf. lüders 1911 p. 17 lüders did not read aa and b2; therefore his a1 is here ab aa /// + + + + + .. .. ///
+
+b /// .. [k]āraṇam ī[ra] + ///
+
+b1 /// .. + [a]gaṇi[y]. + ///
+
+2 /// + + + .. .[i] .[o] ///
+
+sht 16 fragment 3 (idp sht 16/3) r1 [siddham*] .. pāripārśvikaḥ ─ pa .. ///
+
+2 oṃ mattam amalinam. .. ///
+
+3 + .. .. .i .e [p]. [k]. [ra]ṇe + ///
+
+v1 t. m. .. .. + + [t](a)[t](a)[ḥ p]r(a)[v](i)ś(ati) ///
+
+2 kayyaṃ patikayya[ṃ] vā ─ + ///
+
+3 hakagopiṭṭhe ─ vidū ─ + + ///
+
+sht 16 fragment 4 (idp sht 16/4); folio 130 /// (on recto) r1 sth. dharma [s](a)[r]vv(ā)sv avasthā(su) + + + + + .y. kā(r)yyakāra[ṇā]ya [j]. + + /// + + + + + + + + + + + + + + + + + + + /// (mā) 2 tṛpitṛputrava[y](asya) + + + + + .v. .y. .. [n]t[i] maraṇāddhvani .. .t. + + /// + + + + + + + + + + + + + + + + + + + ///
+
+3 jitaḥ ─ maga ─ .. .. pekkhāmi dassanaṃ pi me imassa dullabha(ṃ) /// + .. [y]. [añ]ñ. ⟨⟨ki[la]⟩⟩ + + + + + .. .. + + + + .. /// + + + + + + + + + + + + + + + + + + + ///
+
+4 nāyakaḥ smayati ─ maga ─ naṅ kahin te geham* ─ nāya ─ bhava[t]i .. /// (gṛ)[h](a)n ta[t]* _ loke parigrahavatāṅ g(ṛ)hiṇāṅ g(ṛ)hā[ṇ]i [m]. /// + + + + + + + + + + + + + + + + + + + ///
+
+v1 manaso gṛhabhūtam eva ─ duṣṭa ─ haṅgho komudagandha _ dekkha tāva .. + /// [l](ī)l(a)m makkaṭah[o] ─ vidū ─ [j](i)[ṇ]ṇuy(ā)n. bh. + .. ///
+
+2 .. [ṭ]ṭh. [a]cchariyaṃ ─ du[ṣṭa] (─) .. m peśśeti _ ajja te dāśīputta himena pa[l]. /// ti ─ tato vaṭi[y]. .. + + + + + + + + + /// + + + + + + + + + + + + + + + + + ///
+
+3 dunite makkaṭan tā .. + + + + .[i] .. + .. .. rapaṭalan tā .i .. (─) .. /// + + + + + + + + + + + + + + + + + ///
+
+4 dhāvanti ─ maudga ─ + + + + + (u)t(t)iṣ[ṭh]ot(t)iṣ[ṭh]a ─ ete hu + + + /// + + + + + + + + + + + + + + + + + ///
+
+sht 16 fragment 5 (idp sht 16/5); fol. [1]31 (on recto) original found under sht 810 fragment 329 [cf. sht x (erg.)] lüders r1-2-3; v1-2-3 r2 vidū ─ na ///
+
+3 janmā vāda ///
+
+4 .ittim pa[ri] ///
+
+v1 + + nananna .. ///
+
+2 viditavedi + ///
+
+3 [rmaṃ] kim iha .. ///
+
+sht 16 fragment 6 (idp sht 16/6); fol. 130 (on recto) re-ed. lüders sbaw 1911, p. 409 (= phil.ind., p. 211) most part of the original found under sht 810 fragment 253 and 342 [cf. sht x (erg.)] r1 [ā] .v. + ///
+
+2 vito na .. ///@lüders 1911: vitto (reading vito preferable)@@ 3 vyādhimara .. v1 + .. + .. ///
+
+2 nīloppal. ///
+
+3 tavyam* aho ///
+
+4 ṅ. t.ḥ [y]. + ///
+
+sht 16 fragment 7 (idp sht 16/7); fol. /// .. (on recto) original found under sht 810 fragment 361, 500 and 53 [cf. sht x, xi (erg.)] r3 and v1 re-ed. lüders sbaw 1911, p. 409 (= phil.ind., p. 211) r1 .. ñc. + + + + + + + + + + + .. .. + + + ///
+
+2 guhyaṅ gūhati duṣkarā[ṇi k]urute tatsaṅgatai ///
+
+3 .. [dhā]c ca na bbhraśyati ─ vidū ─ yadi evaṃ la ///
+
+4 + + + + + + + _ paricitataye mag[g]a ///
+
+v1 + .[dh]. bṛhadrathenātirathena nirmitaṃ svalaṅkṛta ///
+
+2 koṭṭe avappapākārapa[r]ikhaṃ _ nagaraṃ nive[s]. ///
+
+3 [s]aṃ m. g. .. .. .. .. .. (pa)riṇāmitenādai ///
+
+4 + + + + + + + + + + .. + + + + ///
+
+sht 16 fragment 8 (idp sht 16/8) missing parts in italics r1 /// .īya[m]ā[na]ṃ [a] .i[m]. [t]. [k].ṃ [d]. [k].āma ─ ga[ṇ]i ─ naṅ kiṅ karotha ─ dhānaṃ ─ bahir yāsyāma iti .. .. .. .. .. + + + + + + + ///
+
+2 /// + + .. .. [v]. t[i] _ na tāva vyākaraṇasya kālaḥ ─ gaṇi ─ kiṅ khu dāni suradavimaddakkha[m](a) .. + .. ///
+
+3 /// .ī _ tasminn aparādhe kan daṇḍam anutiṣṭhāmi ─ gaṇi ─ kāmaṅ khu adaṇḍāraho piyo tava tu maha ///
+
+4 /// (a)[rhe]ssi daṇḍaṃ _ nāya ─ kaḥ sandeha [─] gaṇi ─ vayassa tuvaṃ sakkhī ─ dhānaṃ ─ bāḍhaṃ ma + + ///
+
+v1 /// + + + avikkhittena hidayena _ ādaṃso dhārayitavyo ─ nāya ─ prathamaḥ kalpaḥ ─ ga[ṇ](i ─) ///
+
+2 /// [d](ā)ḷ[i]mavicūritena _ sasovaccalarucakena _ lavaḷīphalāvada~saṃ _ āsavam balakāreṇa pā[ya] ///
+
+3 /// + + + + + + stu ─ dhānaṃ ─ magadhavati _ atitīkṣṇaḥ khalv ayaṃ daṇḍaḥ ─ śṛṇvam puṣ[p]ā + + + ///
+
+4 /// .. v. mm. hañña[n]tu putt(ā) [ca] n(a)tt(i)kā ca ─ 
+
+sht 16 fragment 9 (idp sht 16/9) additional fragment not edited by lüders, here bold a1 /// praviśati nāyako viduṣ. ///
+
+2 /// hnikakkriyaḥ kṛto _ + + ///
+
+3 /// .o _ kin [d]āni bhavāṃ _ .. + + ///
+
+b1 /// [h]. nti na pprat[i]grah. + ///
+
+2 /// _ yat khalu somadatta + ///
+
+3 /// vissrabdhaṃ ye vi[ṣ]a hy a ///
+
+sht 16 fragment 10 (idp sht 16/10) a1 /// .. mahatī yaś cāsya prārthito '[r]tthaḥ sa ca hṛdayagataḥ sandṛśya[t]. .. ///
+
+2 /// puññān(āṃ) _ añjalim pi karayamānā _ na jīvanti ─ dhānaṃ ─ śāradvatī + ///
+
+3 /// .. svantam iva ─ dhānaṃ ─ na me priyaṃ _ yac cakkravākamithunasya + + ///
+
+4 /// bhoti ─ nāya ─ śi dāsīputtra ─ dhānaṃ ─ nanu ko hetuḥ kala[ha] + ///
+
+b1 /// .. pt. p(ar)ṇṇ(ā)nt(a)r(a)n[i]ḥsṛtena g(au)[r](e)ṇa cittras tanunātapena _ nighṛṣṭa .. ///
+
+2 /// [rama]ṇīyaṃṅ kāraṇaṃ _ na khu vākaṭeyī kalahassa viya _ nissirīkā u[p]. ///
+
+3 /// y. _ pārāvatamithunasya bbrūhi katha~ viggraho jātaḥ ─ nāya ─ śṛṇu + ///
+
+4 /// tivāhya ⟨⟨pr[ī]t[i]⟩⟩sa~hṛtavacanām enān [n]idrāvaśagatāṃ mannyamānas tūṣṇī[m]. .. ///
+
+sht 16 fragment 11 (idp sht 16/11) a1 /// + + + + .. ṭh. + + dh. + + + ṇ. .. .. ///
+
+2 /// _ ta⟨ṃ⟩ yeva ahaṃ pekkhituṃ icchāmi ─ nikkha(nto) ///
+
+3 /// + + ayañ cakk[r]avākamith[u]nasahāyo .i ///
+
+b1 /// + + + maraṇodvegena khalv aya[ṃ] pravraj(i)t(o) _ .. ///
+
+2 /// bhāmini _ śreyo 'rtthaviprayogo 'yan na ro .e + ///
+
+3 /// .. ⟨⟨[ti]⟩⟩ + + .. + .. + + + .i .. + .. .. + ///
+
+sht 16 fragment 12 (idp sht 16/12) a3 and b1 re-ed. lüders sbaw 1911, p. 410 (= phil.ind., p. 211) a1 /// .. yañ ca aṭṭhamattā [k]i + .. .. .. .. + + + + + + ///
+
+2 /// rm(m)aḥ _ paripaṭhitaḥ _ mokṣike tu yattraiva ma[nas]. ///
+
+3 /// _ atha bhavati vane 'pi b(bhr)ān(t)apañ(c)en(dr)iyā(ś)[v]o + ///
+
+b1 /// viya ─ nāya ─ dhik* _ abh(i)kṣuk[ī]yam a(n)u(ṣ)ṭh[i](tam) ///
+
+2 /// .. yuktam evaṃ hi kurvvato _ mokṣa syād anyathā .. + + ///
+
+3 /// [d]ikalpāj janayati + + + + + + + + + + + + ///
+
+sht 16 fragment 13+103 (compound photo in idp sht 16/13) a3, 4 and b1,2 re-ed. lüders sbaw 1911, p. 410 (= phil.ind., p. 211) fragment 103 here bold a1 /// + + + + + + + + .. [k]u[ṭ]umb. + + .[ṛ] + + [yam]. + + + + + .. ma⟨⟨mi⟩⟩ṣṭa .. .. + ///
+
+2 /// + + + + + + gṛhavibhūtīr yyasya mitrais ⟨⟨s⟩⟩ahī[y]. [a]mṛtam iva hi pītvā sā[dh]. ///
+
+3 /// [kā] ─ bhaṭṭa iya(ṃ) mhi ─ dhānaṃ ─ gatāsi _ somadattassa śvaśurakulaṃ ─ ceṭi ─ bha(ṭṭā) ///
+
+4 /// [p]a[k]o b(a)h(u)[k]ī(lā)[l]olo vā tti ─ dhānaṃ ─ susnigdhā samprati pa[k]tīḥ _ atha snānoda[k]. ///
+
+b1 /// .y. m a[n]u[ṣ]ṭh(ī)[y](a)[t](ān tā)[t](a) ─ brāhma ─ bhos tathā ─ niṣkrāntaḥ ─ nāya ─ vayasya gaccha t[v](am) ///
+
+2 /// tatraiva gac[ch]āmi ─ dhānaṃ ─ ārtthasiddhaye ─ vidū ─ bho dhānañjaya _ sigghaṃ miṭṭhāmiṭṭhaṃ ///
+
+3 /// + + + + + + + [ṇ]ārūḍhake[na] _ nikkhantā sarvve ─ pratha[m]o ('ṅkaḥ) % ataḥ vṛ[k]. ///
+
+4 /// + + + + + + + + + [h]e .. .. + + .i .. .. .. + + + + + + + + ⟨⟨[vā]⟩⟩ meṣ. [y]o .. ///
+
+sht 16 fragment 14+15+32 (idp sht 16/14+15, 32) ed. h. lüders sbaw 1911, p. 404 (= phil.ind., p. 205f.) fragm. 14+15 mounted together between glass sheets additional akṣaras not edited by lüders, here bold r1 + + + + + + + + + + + + .[r]. .[th]. + + m[ā]nena _ sarvva⟨⟨tra⟩⟩gate kha[l]u [j]ñ(ā)[n](a)[k](e)[t]ū .. .. [ṅ] k(ar)[t]t(a)[v]y(aṃ) + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + ///
+
+2 v[i]tavyam* _ apar[i]m[i]tārttham av⟨ā⟩ptukāmena _ satsannikarṣe khalu pp[r]ayatitavyam* _ mayā hi ─ + + + [m]. [g](a)[t](a)[dh](ar)[m]m(e) [s](ā)[dh]y(a)m(ā)n(e) 'th(a) m(ār)gg(e tad a)mṛtam upalabdham bh[i]kṣum āsā[ddya] ///
+
+3 + [jādar]e[ṇa] s(th)itamatibhir alab[bh](y)aṃ yat (su)raiś (c)āsuraiś ca ─ vi(dū ─ bho upa)jjhāya _ e[t]assa (pava)jitassa vacanaṃ suṇiya apuru(va)mukhavaṇṇena _ añ[ñ]aṃ viya ///
+
+4 + + + + + + + + + + + + + + + + + + + + + + + + + + + brāhmaca(r)[yy](a) .. + + + + + + + + + + + + + + + + + + + + + + + + + ///
+
+5 + + + + + + + + + + + + + + + + + + + + + + + + + + + .. [gatay]au(vana) .. + + + + + + + + + + + + + + + + + + + + + + + + + ///
+
+v1 + + + + + + + + + + + + + + + + + + + + + + + + + + + .. tam prayā + + + + + + + + + + + + + + + + + + + + + + + + + + + + ///
+
+2 + + + + + + + + + + + + + + + + + m [i]yan m[e] ta .. + + + + + .. [nā]śanama[ll]ā va .. + [a]gnir hi m[e] śaraṇam [ā]padi sindhur uṣṇe [m](ar)[g](a)ḥ śivo 'ddhvani m(a)h(ā)t(a)[m](a)s(ā) [p]pr(aviṣṭe) ///
+
+3 .. upadeso _ edisassa bambhaṇajanassa anuggāhako bh(ā)[t](i ─ śā)[r](i) ─ kiñ ca varṇṇāvareṇau(ṣadha)[m] (u)padiṣṭam āturebhyo _ na rogappra[ś](ama)[n]āya bhavati _ kiṃ varṇṇaṃ ta + + ///
+
+4 t. na dahanakarmā bhavati _ āho nikṛṣṭavarṇṇenākhyātam uṣṇaparigat⟨ā⟩yodakan na prahlāda[m] (āvahat)i + + + .[i] + + + + + + + + .[i] .. .. .e .. .e .i .. + + + + ///
+
+5 + + + + + + + + + + + + .. + + .itamahen(dr)ād abam. .. + .ai + .. + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + ///
+
+sht 16 fragment 15 (idp sht 16/15) see sht 16 fragment 14+15+32
+
+sht 16 fragment 16 (idp sht 16/16) a1 2 and b3 4 re-ed. lüders sbaw 1911, p. 410 (= phil.ind., p. 212) a1 /// + + + .t. [k]. [t]. + + + .. + .kh. [s]s. ti ─ nirvvarṇṇa[y](ati) ///
+
+2 /// .. grāmam prasthitā ─ nāya ─ eṣa panthā gamyatām* ─ + + ///
+
+3 /// + + + [tī]rṇṇakena upasṛptā ─ gaṇi ─ somadatta + + + ///
+
+4 /// + + .. mas tatra magadhavatyā śrūyatāñ cātra bhū + + + ///
+
+b1 /// + + .. .v(e)ṣa śrūyate _ a .. k. k. takam uktvā ─ .. ///
+
+2 /// + .. .s. pi pavahaṇaṃ _ āgacchati _ nirvvarṇṇi[y](a) ///
+
+3 /// dṛṣṭvā ca prītir āgatā _ duḥkhe khalv āntare vartte ro[ṣ]. ///
+
+4 /// .i .. .. .. .ā + + .i + (dhā)naṃ ─ ayaṅ kila ///
+
+sht 16 fragment 17 (idp sht 16/17) a1 /// .. nan dhig aśanan dhik tat su[kh]. + + + + + + ///
+
+2 /// yayā vanaṃ _ śāntam apāsya [d]uḥkhinaḥ + + + ///
+
+3 /// śā[r]ī(radh)āraṇārttham avaśyakarttavyaś cāhāro na cā ///
+
+4 /// + + (śār)[ī]raṃ hy āhāro ⟨⟨niyata iha dha ///⟩⟩ vikalam upacārai + + ///
+
+5 /// + + + + + .. .. .i[ś]e .o[m]e _ .. .i + + + ///
+
+b1 /// + + + + + [g](a)cch(a)t(i) ─ n[ā]ya ─ śa .y. + + ///
+
+2 /// + + + .uśattrubhūtaṃ⟨⟨m*⟩⟩ _ dravyaṃ hi matsari .. + ///
+
+3 /// .. nāṃ [a]ñcitacaraṇakaṇṭakilānāṃ _ asan .ivi .. ///
+
+4 /// cayo na māṃsam pītī _ ke(va)laṃ ⟨⟨adha⟩⟩ _ a + + + + ///
+
+5 /// va prāṇahiṃsā mahada + + + + + + + + + ///
+
+sht 16 fragment 18 (idp sht 16/18) a1 /// [m]. r. y. _ app(ā)v(a)kk(a)y(a)k(a)ssa + ///
+
+2 /// [ṣ]v ahiṃsro bhavet sarvve hi k[r]ima[y]o ///
+
+b1 ///.. d bhadantaḥ praśāntena veṣeṇa ─ [m]u ///
+
+2 /// .. .. .. .e .. .i .ā .. .. .i[d]ā[m]. + ///
+
+sht 16 fragment 19 (idp sht 16/19) a1 /// + somadatto .. .. ///
+
+2 /// .. yādisā _ la + ///
+
+b1 /// .. mando 'pi bhava .y. ///
+
+2 /// [s]appatu _ [ay]e ///
+
+sht 16 fragment 20 (idp sht 16/20) a1 /// + + + + + + + + + + .. m. ṅk. r[o] + + + + ///
+
+2 /// + + + + + +.. [dhara]ṇitalāto _ ji + + + ///
+
+3 /// + + .s. .t. .. (dā)[s](īp)u[t]t(a) _ etañ jana .g. + .. ///
+
+4 /// .. nadīkūladurbbale śarīre _ visrambhaḥ _ a[pi] ///
+
+5 /// .. ṣ[ṭ]ānidhava[g]. .. na svastham api vā _ tathā .. ///
+
+b1 /// + .uttā ⟨⟨rāgā⟩⟩ y. .. + y. _ yava[ṅ]kurap[ī]takena + ///
+
+2 ///..ṃ _ ambavallariṅ kaṇṭhe lagiya madanaghuṇṇama .. ///
+
+3 /// + .ir b[b]an[dh](a)ḥ _ [a]ho mohāt[m]akasya manaso _ .. ///
+
+4 /// + + + + + + + + [p]. harati dveṣa + + + + ///
+
+5 /// + + + + + + .. .i[y]. _ aj[j]a [j]i + + + + ///
+
+sht 16 fragment 21 (idp sht 16/21) lüders did not read b1; therefore his b1 is here b2 etc. a1 /// + ṣvā[r]th[e]⟨⟨ṣu⟩⟩ pravarttamānaḥ _ ///
+
+2 /// [t]i bhayaṃ śramañ ca ─ vidū ─ ///
+
+3 /// ..ṃ _ ovuṭṭhakesarabhari[t]. ///
+
+4 /// + .. _ ekaṃ mahisaṃ mi .. ///
+
+b1 /// + + + + + .. .. + + + ///
+
+2 /// + mṛt[e] hi naśyati prajā [s]. ///
+
+3 /// .guṇai devaḥ kutaḥ ─ ⟨⟨iha hi⟩⟩ .. + + ///@lüders read 3 /// .tuṇai@@ 4 /// .. n dhārayati ─ ⟨⟨[gṛ]ham iva ─ //⟩⟩ dṛṣṭvā ─ na ///
+
+5 /// .. _ [p]i yat(n)ād [b](r)āh[m]a(ṇa) ///
+
+sht 16 fragment 22 (idp sht 16/22) a1 /// + _ v[i]dū ─ kim puna vi[c]cha[ḍ]ḍa[m]. + + ///
+
+2 /// .[i]ṭṭhā khu _ ahakaṃ na vutte _ vicchaḍ[ḍ]. ///
+
+3 /// + [g]i(r)i(yagga)[sa]mājaṅ [ga]mis.i + + ///
+
+b1 /// .. n. k. [bam]bhaṇā bhonti ─ vi[dū] + ///
+
+2 /// .. [sa]ndesena ─ duṣṭa ─ mā tāva mā tāva ///
+
+3 /// + m[m]akena _ ālapiyati _ e[va]ṃ ///
+
+4 /// + + + + + + + .. .. + + + + ///
+
+sht 16 fragment 23+50+89+112+one new fragment not yet found (here bold/italics) (idp sht 16/23, 50, 89, 112) ed. lüders sbaw 1911, pp. 393f. = k iv (= phil.ind., p. 196) additional fragment not edited by lüders, here bold r1 ///(fragm. 23) + + + [dh]y. + .. ///(fragm. 112) + .. pa ⟨⟨.. rat[ā]⟩⟩ ra sr[o]t. + + + + ///(fragm. 89) + + + + + + + + + + + ///(fragm. 50) (ni)mnaṅ gatam bhava[t](i) + + + + .r. + + r. + + ///
+
+2 ///(fragm. 23) + (buddh)isrotaso [v](a)(fragm. 112)[r](tta)[m]ānasya bhaga[v](atā) ///(fragm. 89) + + + + + + + + + + + ///(fragm. 50) (het)ukasya notpadya[t](e) _ bījodakaṃ _ pṛthivyart. ///
+
+3 ///(fragm. 23) (asmi)n (v)inaṣ(ṭ)e m(u)[k](ta) ///(fragm. 112) [i]ti niś(c)ayaḥ k(ṛ)taḥ ///(fragm. 89) [k](ar)[m](ak)ṣ(et)r(am) b(ījam) u(t)[p](at)t(icetas). .. .. .. .. .. .. .. .. .. .. .. ///(fragm. 50) + evaṃ loka[ḥ] sasyavaj jāyamāno jñānā[d]i ///
+
+4 ///(fragm. 23) + + + + + + + ///(fragm. 112) + + + + + + + + ///?.. .. .. .. .. .. [ga]tena mārgge[ṇa] .. .. .. .. .. .. .. .. ///(fragm. 89) .. ṇa kṛtaparikarmaṇoḥ _ [a] ///(fragm. 50) + [d](ṛ)[ṣ](ṭ)i[ś](a)[l](ya)[y]o(ḥ) + + + + .i + + ///
+
+5 ///(fragm. 23) + + + + + + + ///(fragm. 112) + + + + + + + + ///?.. .. .. .. .. .r. .. e .. .. ///(fragm. 89) + + + + + + + + + + + ///(fragm. 50) + + + + + + + + + + + + + + + + + ///
+
+v1 ///(fragm. 23) + + + + + + ///(fragm. 112) + + + + + + + + + ///?.. .. .. .. .. ya[v]. .. .. .. .. .. .. ///(fragm. 89) .y. r. .. .. .. + + + + + + ///(fragm. 50) + + + + + + + + + + + + + + + + + ///
+
+2 ///(fragm. 23) + .. + + + + ///(fragm. 112) + + + + + + + + + ///? .. .. .. .. .. vyam iti a .. .. .. .. .. ///(fragm. 89) yamānenās[m]i śreṣ[ṭh]iput[r]e(ṇa) ///(fragm. 50) + .. .. [ś]. ṣ. .. [s]. .. .. .. + + .y. .. .. [s]. + ///
+
+3 ///(fragm. 23) .. d idānīn tatrai(va) (fragm. 112) gacchāmi _ parikkramya ///(fragm. 89) + + + + + + + + + + + ///(fragm. 50) (ma)hanto khu āmodo gaṇikākule _ sabahu ///
+
+4 ///(fragm. 23) + tanti dhīti[k]. ///(fragm. 112) .. [k]. .. .. ─ da .. .. .. ///(fragm. 89) + + + + + + + + + + + ///(fragm. 50) + ni[ha]stai(ḥ) saṃ[v]i[hā]payanti _ vandhakīm a ///
+
+5 ///(fragm. 23) + + + + + + ///(fragm. 112) + gaṇikā vi + + + + ///(fragm. 89) + + + + + + + + + + + ///(fragm. 50) .. ṅ kila upā[sa] + + + + + + + + + + ///
+
+sht 16 fragment 24 (idp sht 16/24) a1 /// yamatikaṃtaṃ rū .. ///
+
+2 ///.. kṛṣṭebbhya iva gau + ///
+
+b1 /// ssa _ avatthānena .. ///
+
+2 /// r.. vati _ sa deśaḥ ⟨⟨sudeśaḥ⟩⟩ .. ///
+
+sht 16 fragment 25 (idp sht 16/25) a1 /// [k]ā aṅgule[yi] ///
+
+2 /// (dhā)naṃ ─ bhoḥ + ///
+
+3 /// + [t]ā[g]. [r]e + ///
+
+b1 /// + [a]bh. .p. + ///
+
+2 /// + somadat[t]a ///
+
+3 /// ṇṭārthanaṃ hi [s]. ///
+
+sht 16 fragment 26(+64)+68+75+101+(2 fragments ed. by lüders sbaw 1911 for the first time: 119+120); (idp sht 16/26+64, 68, 75, 101, 119, 120) ed. h. lüders sbaw 1911, pp. 392f. = k i (= phil.ind., p. 195) fragm. 26+64 mounted together between glass sheets fragm. 101 found under sht 810 fragment 183 [cf. sht x (erg.)], akṣaras in italics/bold still missing (probably restored from sht 57a r2 or 57b r2?) r1 ///(fragm. 101) + [k]ṛt. sv. ─ m(audga ─ upatiṣya) ///(fragm. 120) .. .. tr. ⟨⟨(upa)tiṣya⟩⟩ .. .m. + + ///(fragm. 68) .. .. .. .. .. .. .[t]. .. ///
+
+2 ///(fragm. 26) + + .[y]. [k]. + + + + + + + + + ///(fragm. 119)ñ ca vāyo(fragm. 101)ḥ _ ātmeśvaradh[y]ānaba(fragm. 120)lena kuryyur nna [y]. ///(fragm. 68) .. .. + .. .. .. [r].. ///
+
+3 ///(fragm. 26) + ryyaṃ _ munica(fragm. 64)ryyam anivāryyam ⟨ā⟩[ryya](m). ///(fragm. 120) + + + [ya] daṃ śa ///
+
+4 ///(fragm. 26) [pa]taye ─ maudga (fragm. 64) ─ mohāndhasya janasya ///(fragm. 75) naṣṭasya sa ///
+
+5 ///(fragm. 26) + + + + + + (fragm. 64) [k](a)[r](aṃ) ─ b(u)d(dh)a ─ s(v)āgataṃ .. ///(fragm. 75) + .. + + ///
+
+v1 ///(fragm. 26) + + + + .. .. + + (fragm. 64) [b]u[d]dh[aḥ] ─ u[p](a)[t](i)[ṣ]y(a) [y]. ///
+
+2 ///(fragm. 26) [d] (v)[i]śuddhasya ⟨⟨..⟩⟩ manaso (fragm. 64) rāgam alpena yatnena .. ///(fragm. 75) .v(i)śuddhe 'ddhyāśa[y](e) ///
+
+3 ///(fragm. 26) + + .. pari # + .i(fragm. 64)śais tais taiḥ svajanagata[m].///(fragm. 120) + + + .. ryyanti ///
+
+4 ///(fragm. 26+64) + + .. .. + + + + + + + + + + ///(fragm. 119) [rda]vāgnipa(fragm. 101)rigatam iva n[ī]ḷa[d]ru[m]a(fragm. 120)ṅ gaganatala[v]i ///
+
+5 ///(fragm. 101) [ṣ]. t. sukhān[ā](ṃ) ///(fragm.120) .. [dā]nāṃ _ [s]. .i ///(fragm. 68) .. [m](a)[dh]u[gh]ṛt(ā)[m](e)[ddh]y(a) ///
+
+sht 16 fragment 27 (idp sht 16/27) a1 /// + + + + + + + + + + + + .. cuṇṇayamāno ─ nā[ya] ///
+
+2 /// + + + + + + + + + + + .r. [h]. .r. .[y]. ⟨⟨hyaṃ⟩⟩ na viśeṣeṣu _ pra ///
+
+3 /// + + + + + + + dh. kutaḥ ─ paśyatty asyānnya[ca]kṣur .i + + + ///
+
+4 /// [ye] ppradveṣam api vā tad vāryyaṅ gocarebbhyo mana iha cala + + ///
+
+b1 /// ni⟨⟨[v]asiya⟩⟩ _ ajja rājagahavisayaṃ āgatā _ iminā yeva _ saja + + ///
+
+2 /// + + + + + + + + + .. samādhānam utpadyate jñānañ ca .r. .. .. .. ///
+
+3 /// + + + + + + + + + + + + + + .. s[y]a (ś)r(ī)viyuktam puraṃ syāt* ///
+
+4 /// + + + + + + + + + + + + + + + + ummāṃsena _ sarīreṇa ///
+
+sht 16 fragment 28 (idp sht 16/28) a1 /// tyā gato 'smi ku .. ///
+
+2 /// + .. bho bh. d. .. ///
+
+b1 /// + .. _ anuva .tt. ///
+
+2 /// .. kaṅ gṛhasthas.ai + ///
+
+sht 16 fragment 29 (idp sht 16/29) an additional fragment for a1 and b4 respectively, ed. lüders sbaw 1911, p. 410 (= phil.ind., p. 212) a1 /// + (pa)ryyākula _ ājīvika(ḥ) + + + + + ///
+
+2 /// + (d)ukkho ⟨⟨khu⟩⟩ piyavinābhāvo ─ dhān[aṃ] ─ [ś]. + + ///
+
+3 /// (nā)ya ─ na samīpastheṣv an⟨ā⟩sthā _ dūrasthe .. ///
+
+4 /// + [ṇa]m pucchatha _ suṇiya yadi kuppita .. ///
+
+b1 /// .. .. gilāyamānaṃ _ ājīv[i]kasama(ṇaṃ) ///
+
+2 /// .. ṣṭvā ─ vidū ─ ai kileso _ gambhīravaṭu[m]. ///
+
+3 /// + kayānakenāgacchati ─ [nāya] (─) + ///
+
+4 /// + + [ga]cchati ─ gaṇi ─ kahi(ṃ) ..
+
+sht 16 fragment 30+31+42+105 (compound photo in idp sht 16/30) a1 /// + yo pi tāva _ ta[s]sa dhānañjayo yassa pasādena _ ajjha[y]. /// + + + + + ḷakena _ yo .. [ni]russāsaṃ kariya idāni kathañci ussasati ─ + ///
+
+2 /// .. gacchamāne _ n[i]lu⟨⟨lu⟩⟩ssāsaṅ kaleti ─ vidū ─ kathaṃ kathaṃ nilussā(saṃ) + /// .. n nāma _ mā tāva mā tāva _ dāsīputta _ akitañña _ yaṃ vinītacapalamadhura .. ///
+
+3 /// .[ī]yaṃ _ pavahaṇapotakaṃ vāhayamā + + + + + + + /// + + + .. + + .iṃ [v]icchaḍḍayamāno viya _ sahakā + + + + + + + + ///
+
+4 /// .i [p]ā[ṭa]yamāno viya m[u]h[u]ttena rā + + + + + + + /// + + + + + + + + + ke _ sassirīkaṃ p(u)ññāḷīm. .. + + + + + + + + + + + ///
+
+b1 /// t. .. s. .. ṇ. n[īl](a)[k]u[vala]yadāma v[iy](a) + + + + + /// + + + + + + + + + r. s[e]ka[jani]tā _ duguṇa[b]u[bh]u[k]kh(ā) + + + + + + + + + ///
+
+2 /// disiṭṭhaniṭṭhānaṃ sottiyakulasabhāvasa + + + + + + /// + + + + .. + t. somadattena _ na bhuttaṃ bhuñjamāno + + + + .. .. .. + + ///
+
+3 ///.. gobaṃ ─ icchāmi pupphā yeva bhaṭṭidālake _ nalakaggā + /// .. ke _ palinatatālaphalavannīkāhi _ bhuj[j]itāhi _ kusalavā tam accha(liyaṃ) ///
+
+4 /// .. _ paccaggaka[kkha]tudantaponatittakena _ poṭṭīkalasaṃ[ni] /// + + + (na)[va]mālikākusu[ma]paṇḍalākaṃ _ kaḷamodanākaṃ _ bhuṃjitaye + ///
+
+sht 16 fragment 31 (idp sht 16/30) see fragment 30
+
+sht 16 fragment 32 (idp sht 16/32) see fragment 14+15+32
+
+sht 16 fragment 33 (idp sht 16/33) a1 /// + + (bh)ūya[ḥ] samm(o)hamā + ///
+
+2 /// ñ [j]anayati _ vyāhanti prī .i ///
+
+b1 /// .. yamānā v[i]ya _ meghā ///
+
+2 /// + + duvāre _ hasante ⟨⟨keḍamānaṃ ca⟩⟩ mpe ///
+
+3 /// + + + .. .. .. .. r.i .. .. ///
+
+sht 16 fragment 34 (idp sht 16/34) a1 /// + .v. + + + + .ṭ. + + + + + + + + + ///
+
+2 /// .. ḷā viya _ sa⟨r⟩vvakā[la]ṃ + .. + + .. + + ///
+
+3 /// .. .[ī]ye ─ tāpa ─ ekan tu icchāmi _ bhaga[va] + ///
+
+4 /// + [ṅ] kāhāma tti ─ vidū ─ āma yathā tuva[n] dh. ///
+
+b1 /// + yaḥ svastho 'dhvānañ carāmy aparigrahaḥ _ ja ///
+
+2 /// .. [nn]o 'ddhvānañ carāmi bubhukkhitoḥ _ bahu dadhi pi + ///
+
+3 /// [v]ā _ saṅkīrṇṇa⟨⟨deśa⟩⟩parityāgārt[th]aṃ [v]ā _ [eṣ]ā .. + + ///
+
+4 /// yāś[v]air apahṛtamata[yo] + + + + + + + ///
+
+sht 16 fragment 35 (idp sht 16/35) a1 /// yo ⟨⟨yo⟩⟩ _ atthī tti _ .. ///
+
+2 /// + _ atī[n]dri[y]. .. ///
+
+3 /// + .. vān sukhārtthaṃ [y]. ///
+
+b1 /// + .. jar[ā]vyādhija[ni] ///
+
+2 /// + [sā]n dharmma[ma] .. + ///
+
+3 /// dain[y]ena bhayā + + ///
+
+sht 16 fragment 36 (idp sht 16/36) a1 /// + .. .. _ n[i]kh[i]ḷa .. .. + .. ///
+
+2 /// (i)dānim ācāryyaśuśr. + + ///
+
+3 /// + + + [na]so _ vib[bh]. .. + + ///
+
+b1 /// + .. .. yantelikā .. + ///
+
+2 /// .. .i ─ vidū ─ etaṃ sadisaṃ ///
+
+sht 16 fragment 37 (idp sht 16/37) a1 /// (ma)ga ─ sādhu ala[ṃ] _ a ///
+
+2 /// .. _ ṭīyati ─ .. + ///
+
+3 /// [m]ānā hotu ─ + + ///
+
+b1 /// .. yaiḥ ─ a .. + + ///
+
+2 /// + laddhe kaṇṭhe [v]i[ddh]. ///
+
+3 /// + [d]uṣṭa ─ na ni .. ///
+
+sht 16 fragment 38 (idp sht 16/38) a1 /// .. .. .. + [k]. .. nd. n. .. + ///
+
+2 /// (m)ādha ─ kiṃn nu khu diṭṭhapuru[vo] + ///
+
+3 /// + + kathā[ḥ _ magadha](vatī) ///
+
+b1 /// + .. [m]mu .. + .. + .. + ///
+
+2 /// .sṛṣṭ[ā] _ na vaimukhyena _ [du] ///
+
+3 /// + .i + + + .. .. .e .. ///
+
+sht 16 fragment 39 (idp sht 16/39) a1 /// + + + .. ṣṭaḥ ─ .. + ///
+
+2 /// .. namaroṣaṇakiṅ[k]i .. ///
+
+b1 /// [ye] ─ gaṇ[i]kā ⟨⟨+ +⟩⟩ m upasṛ(tya) ///
+
+2 /// + + + .. [h]. d[dh]ī .. + ///
+
+sht 16 fragment 40 (idp sht 16/40) a1 /// + + + + + .. ⟨⟨[śl].⟩⟩ n. kkh. + ///
+
+2 /// .. _ pravrajyā{{śyā}}gha .. ///
+
+3 /// + + .. .. .. .. .. _ .. ///
+
+b1 /// śrama ─ na khu e[ke] .. ///
+
+2 /// + + + + .. ni .. ///
+
+sht 16 fragment 41 (idp sht 16/41) a1 /// myāḥ pure 'smin narā⟨⟨ḥ⟩⟩ svasth. + ///
+
+2 /// .. haṇārūḍhakena _ [ga]ṇi[k]ā + ///
+
+3 /// ..ḥ sarūpa⟨⟨kṣa⟩⟩vṛkṣo 'phalaśakaṭā ///
+
+4 /// .. .. gehe _ [na]ṭ.avāro ti ///
+
+b1 /// [u]cc(a)kul(a)y(au)v(a)n(a)rūp(a)[m]. + ///
+
+2 /// [v]ijānanto vā#vattakāyyo ─ ///
+
+3 /// .. bhavatīm anudarśayāmi + ///
+
+4 /// .. vinikkhitte _ silāpa + + ///
+
+sht 16 fragment 42 (idp sht 16/30) see fragment 30
+
+sht 16 fragment 43 (idp sht 16/43) lüders did not read a1; therefore his a1 is here a2 etc. a1 ///+ + + + + + .. .. + + ///
+
+2 /// tena ⟨⟨rūpeṇa⟩⟩ pavvajissiti ─ ///
+
+3 /// .ā[d]i[s]e .. + + + + ///
+
+b1 /// + ha āvus(o) [ab]bhu .. ///
+
+2 /// .. śreyo dharmmaparigraha ///
+
+sht 16 fragment 44 (idp sht 16/44) a1 /// .. t. k(ar)[m]m(ā)[ṇ](i) [an]u[v](ar)tt(a)y(a) ─ ga[ṇ](i ─) ///
+
+2 /// + + ura _ iyaṃ sakhīvi[t](t)ā [m](a)[g](adhavatī) b1 /// + + + + + .. .ṭ. + + + + + ///
+
+2 /// .. jjuke diḍhaṅ khu _ appā + .. ///
+
+3 /// .i _ .. [c]e[ṭ]i (─) .. .. [th]ā _ [ati]ṇ. pa ///
+
+sht 16 fragment 45 (idp sht 16/45) a1 /// + + + s. + + .. + + + + + + 2 /// .. _ [ma]ṇḍapaṃ pavisati .. + + + + + 3 /// + _ [n]ik[kh]antā ubhaye 2 % ataḥ 4 /// + + + viṣayeṣu jagat pramattaṅ .i .o b1 /// + + + + _ giriyaggasamājassa .. + 2 /// + + .. ṅ kalemi _ na jim[bh]āye ─ vidū ─ 3 /// (du)ṣ(ṭa) ─ [k]iśśa kālanā ─ vi[dū] + + + + + 4 /// + + .i + .i + + .i + + + + + +
+
+sht 16 fragment 46+97 (compound photo in idp sht 16/46) ed. h. lüders sbaw 1911, p. 411 (= phil.ind., p. 212) most probably fragment 47 belongs to the same folio a1 /// [ṇ]ṭhā ─ upā ─ evam* tāva brāhma[ṇ]. + ///
+
+2 /// .. d (u)paiti bhāga[ma]hato ya .n. + + ///
+
+3 /// + + + + + + to ayan tassa pa .. ///
+
+b1 /// + + + + + vopaśamaras{{y}}asya ///
+
+2 /// + + + + .ṭ. .. .. tikayya[k]i[yā] + ///
+
+3 /// ti mayābhihitaṃ _ mada i[v]. +
+
+sht 16 fragment 47 (idp sht 16/47) most probably fragment 46 belongs to the same folio a1 /// .. [ṇ]. sya _ brāhmaṇajanasya _ parila //
+
+2 /// [na]rakaṃ loke ca garhām [p]arān tasmān . + ///
+
+3 /// + [dha]r[m](m)ā(t)* [par]āṅ[m](u)khī + + + + + + + ///
+
+b1 /// + + .. .. .. .. [m]. tth. + + + + + + + ///
+
+2 /// upā ─ bhavati _ nāham ekāntata + ///
+
+3 /// + bhavatī ─ santo 'rtthaṃ visṛjanti dharm(m)a ///
+
+sht 16 fragment 48 (idp sht 16/48) a1 /// + + [t]. .. .y. .. .. .. + .. .. + + ///
+
+2 /// .. + .. [m]. etassa maggassa _ yathāva .. ///
+
+b1 /// (a)bhimukhā gamis[s]āma ─ tāpa ─ ki ///
+
+sht 16 fragment 49 (idp sht 16/49) a1 /// + ttānam piyañ ca ///
+
+2 /// .. tati _ ta[t]o ///
+
+3 /// [śra]maṇaḥ _ .. ///
+
+b1 /// + kuñc[i]t[oṣ]ṭh. + ///
+
+2 /// .. _ yo me t. ///
+
+3 /// [n]. kuppati _ ci ///
+
+sht 16 fragment 50 (idp sht 16/50) see fragment 23+50+89+112
+
+sht 16 fragment 51 (idp sht 16/51) a1 [an]ukampāy(e) _ h. m. .. + + + .. .t. + ///
+
+2 [y]i .. [k]ā[m]ā [k]āṭīyati ─ maga ─ aniyuttā ///
+
+b1 prav(i)ṣṭaḥ [ah](a)m bhavān n(ā)tr(a) {:} pravivikṣāmi ─ nā[ya] ///
+
+2 [bh]iḥ [p](r)a[t]īg(ṛ)hītāmiṣas(ya) + + .o .. .. .. ///
+
+sht 16 fragment 52 (idp sht 16/52) a1 /// .v. gaḥ kaṣṭam* ─ + + ///
+
+2 /// + jagat* ─ vidū ─ bho u .. ///
+
+b1 /// + padumarāgaṃ _ uttarā[y]. ///
+
+2 /// ⟨⟨bhamati⟩⟩ .. ntapatito ─ nā[ya] + + + ///
+
+sht 16 fragment 53 (idp sht 16/53) ed. lüders sbaw 1911, p. 411 (= phil.ind., p. 212f.) a1 /// + + [kaṇ]ṭhabaddhe _ kaṇṭhaviṭṭhit(ālā)n(e) śa(ṃ)vutt[e] ─ 2 /// (śoma)[da]ttena _ śaha śamāgaccha[tu] _ hi b1 /// + ntantena ca tan na cārcchati tatas tad dhetu 2 /// ⟨⟨parivārā hasantī dhīrod⟨ā⟩tta⟩⟩ 3 /// avasthitā ca maga[dh]a(va)[t]ī .. .i ..
+
+sht 16 fragment 54 (idp sht 16/54) b1 re-ed. lüders sbaw 1911, p. 407 (= phil.ind., p. 209) lüders did not read a1; therefore his a1 is here a2 etc. a1 /// + + + + + + + .. .. + + .. + .. .. + + + ///
+
+2 /// + .t. + + .. + vā naitad āścaryyaṃm bhagavat. .. ///
+
+3 /// [s]ād⟨⟨dhy⟩⟩am asti ─ tataḥ praviśanti _ śramaṇa .. .i ///
+
+4 /// + .. r. ñ. m. .. + .. .. [ye] .. [k]ī[tau] + + ///
+
+b1 /// + + skarot[i] vi[du](ṣo) jñ[ā]nasya jāna[n]. + ///
+
+2 /// .. tau śāriputramaudgalyāyanau śramaṇen. ///
+
+3 /// + + + + + thā _ yathā āsanībh. + ///
+
+sht 16 fragment 55 (idp sht 16/55) a1 /// ─ kauṇ[ḍi] ─ a .. ///
+
+b1 /// .. c. t. + + ///
+
+2 /// .. .ir .i ..ṃ ///
+
+sht 16 fragment 56 (idp sht 16/56) re-ed. with two additional fragments lüders sbaw 1911, p. 407 (= phil.ind., pp. 208f.) missing parts in italics a1 /// .. .. .. .. .. .. .. .. ddhataḥ ─ [k](au)ṇḍi ─ bhagavan* _ et(au) kh(alu) ///
+
+2 /// ⟨⟨caratāṃ //⟩⟩ k[i]ñc[i]d aty. .. (āgaccha)ta iti [paś](y)ā[m]i _ .. + .. + + + .. + ///
+
+3 /// .. .. .. .. .. .. .. .. y. .. + + + + + + + + + + + + ///
+
+b1 /// .. [k](a)[m](a)[l](a)[s](a)[d]ṛ[ś](a) .. .. .. .. .. lv. n. y. + + + + + + + + + + ///
+
+2 /// .. [g]au[ra]ve[ṇ]. .. .. .. .. .. mānau _ nyast. [d]. n. t. .. + + + + + ///
+
+3 /// .. .. .. .. .. .. .. .. ⟨⟨vanasya //⟩⟩ .. dāha .. ..ḥ śīlām. ṣo bhās(v)ara(ḥ) ///
+
+sht 16 fragment 57 (idp sht 16/57) a1 /// nti hi yañ ca te hettha + + .. .. + ///
+
+2 /// + ppravrajyā # saṃvartteta ─ [k]āmaṃ ///
+
+3 /// .. yeṣu priyeṣ(u) + + + + ///
+
+4 //// + b. hati te .. + + + + + ///
+
+b1 /// (pa)[v]v(a)jita _ atta + + + + + ///
+
+2 /// .. ssitāye ─ ta[va] + + + + ///
+
+3 /// .. ─ snigdham priyaṃ s[v]ajanam aśru ///
+
+4 /// .. pṛcchemas tāva[t*] ─ _ .. + .. + ///
+
+sht 16 fragment 58 (idp sht 16/58) lüders did not read a1; therefore his a1 is here a2 etc. a1 /// .. .. + + + + ///
+
+2 /// [ta]ḥ ─ śāri ─ [a] ///
+
+3 /// [j]āyaba .. + ///
+
+b1 /// .. .. + .. + .ch. ///
+
+2 /// .. syodyāne _ ///
+
+3 /// .. .. .i .i .. ///
+
+sht 16 fragment 59 (idp sht 16/59) a1 /// .. ye ubhayattha d[i]ssat(i) ─ nāya ─ hanta .. ///
+
+2 /// .. tas[ya] _ yāthātm(ya)to bhavati nāpi g(ṛ)h(a)n (na) + ///
+
+b1 /// + [ā]vu[s](o) [n](a) [r]ū[p](a)[l](a)kkh(a)ṇān(i) _ [a](n)u(vat)t(an)t(i) + + ///
+
+2 /// .. ṅ kiñcit (ku)lav(y)asanam ad[ṛṣṭ](v)ā _ manas(v)ijanad[u]rvi ///
+
+sht 16 fragment 60 (idp sht 16/60) a1 /// + .. parihitāye parivā .i .. ///
+
+2 /// .. gṛhītam bhavatā ─ vi[d](u ─) + + ///
+
+b1 /// di bhavati pure [p](a)kṣ(a)n ta + + + ///
+
+2 /// .. himayo _ kośikī maha .. ///
+
+sht 16 fragment 61 (idp sht 16/61) a1 /// + .. ─ etad [ī](d)ṛś(a)n dṛṣṭv(ā) s. 2 /// (pra)pañ[c]o nyāyyoḥ _ dṛṣ(ṭ)ī mā te b1 /// .. .. + .. .. .r. .y. + .y. 2 /// v[i]dū ─ suṭṭhu bhavām bhaṇāti 3 /// .idhānam a .i ..ṃ [r]. [t]. sā
+
+sht 16 fragment 62+114 (compound photo in idp sht 16/62) lüders did not read b1; therefore his b1 is here b2 etc. a1 /// .. nt. [ā] + .. + .. + .. + + .. .. + + t. + ///
+
+2 /// .. vvatāḷiṃ _ ālokema _ ajjāp[i] ca _ rājagahaṃ ///
+
+3 /// .. .. .i[m]a[t]ā _ .. [m]e .ī .. + + + + + + ///
+
+b1 /// .. + + .. + + .. + + + + + + + + + + ///
+
+2 /// .. [m m]alinayati kulaṃ vṛttan t[u]layate _ tadrā ///
+
+3 /// + dham.o .i _ .. .. .. + [y]o + + .i .. ///
+
+sht 16 fragment 63 (idp sht 16/63) a1 /// [ya]t kṛtvā vyasanam parasya la ///
+
+2 /// + + + + + .. [ś]. [k]ibhi[k]. ///
+
+b1 /// .. s. + t. [k]. ⟨⟨ḷa⟩⟩ [ṭ]umbajjhat[i] _ .. ///
+
+2 /// .. [gh]ṛṇaś ca eṣa samāsaḥ [─] ///
+
+sht 16 fragment 64 (idp sht 16/64) see fragment 26+64+68+75+101+119+120
+
+sht 16 fragment 65 (idp sht 16/65) a1 /// + [vā]gataś cāyam pratipannaś cā(śca)[ry]yasrotaḥ _ ///
+
+2 /// .. s tathāyaṃ śayita iva sad⟨a⟩śvo ghaṭṭitaś cotthi ///
+
+3 /// .. ste garbbhavāsasyāśuceḥ par[y](y)ā(ya)ḥ d. [kh]. .e + ///
+
+4 /// .. _ cakk[r]am apahṛtam bha[ga] + + + + + + + ///
+
+b1 /// + yaḥ paśya vyudayavyaya .c. + + + + + + ///
+
+2 /// [y]āt kṛtvāpi citrāḥ kathāḥ ─ śa + .. .y. .. .r. .y. ///
+
+3 /// [a]śvabhiniveśayitā śreyasi gṛhīto bhavā[n]* ///@read āśv abhiniveśayitā?@@ 4 /// + + [ya]tanam upaśamāyatana(m pra)śasyapuru(ṣaḥ) ///
+
+sht 16 fragment 66 (idp sht 16/66) a1 /// [d]u[ṣ]ṭa _ ///
+
+2 /// [v]i[d](ū) ─ .. ///
+
+b1 /// [ñ] j(i)[ṇ]ṇu[y](āna) ///
+
+2 /// + + .. .. .. ///
+
+sht 16 fragment 67 (idp sht 16/67) a1 /// ─ vidū ─ ///
+
+2 /// ta adi ///
+
+3 /// rato ra ///
+
+b1 /// + .. .. j. ///
+
+2 /// + pp[i]ni[v]. ///
+
+3 /// + hamana ///
+
+4 /// .. dasyā jā ///
+
+sht 16 fragment 68 (idp sht 16/68) see fragment 26+64+68+75+101+119+120
+
+sht 16 fragment 69 (idp sht 16/) additional fragment not edited by lüders, here bold a1 /// (vi)dū ─ dukkarakar[e] .. 2 /// .. .[e] .. .. .. ///
+
+b1 /// .. y. [s]s. k. .. + ///
+
+2 /// (a)ham an[u]jā[n](āmi) ///
+
+sht 16 fragment 70 (idp sht 16/70) lüders did not read a1; therefore his a1 is here a2 etc. a1 /// .. .. + .. + + .. ///
+
+2 /// [ś](a)yito bhavān* ─ ///
+
+3 /// [ya]ḥ p[r]ād[u]rb[bhū]taḥ ///
+
+b1 /// + .. .. .. ⟨⟨ttaka⟩⟩ + + .. ///
+
+2 /// (dh)ānaṃ ─ vayasya ///
+
+3 /// parasparajani ///
+
+sht 16 fragment 71 (idp sht 16/71) a1 /// _ s. + + + + ///
+
+2 /// [m]ādha ─ [h]. [t]u[m]. ///
+
+3 /// + take .. + + + ///
+
+b1 /// + + bhen. + + + ///
+
+2 /// (pa)[ri]ggeṇ[h]iya _ [a] ///
+
+3 /// + .. [p]. tā + + + + ///
+
+sht 16 fragment 72 (idp sht 16/72) a1 /// + [t]. [u] .v. ///
+
+2 /// (dhā)naṃ ─ na ///
+
+b1 /// + + .c. + ///
+
+2 /// [l]. gokula ///
+
+sht 16 fragment 73 (idp sht 16/73) lüders did not read b1; therefore his b1 is here b2 a1 /// .. n(a) s(a)r(ī)r(e)ṇ(a) _ [m]. ///
+
+2 /// .āva[d]. + + + + + ///
+
+b1 /// .. .. + + + ///
+
+2 /// vimṛśat(i) _ ///
+
+sht 16 fragment 74 (idp sht 16/74) a1 /// ni ettha vi[k]. ///
+
+2 /// + śe ─ .. .i ///
+
+b1 /// + c. .. + + + ///
+
+2 /// .. malaṃ ru[d]. t. ///
+
+3 /// pit[y]anto _ nat. ///
+
+sht 16 fragment 75 (idp sht 16/75) see fragment 26+64+68+75+101+119+120
+
+sht 16 fragment 76 (idp sht 16/76) a1 /// [y]. hataḥ ─ ///
+
+b1 /// idam amare[ṣ](v) i ///
+
+sht 16 fragment 77 (idp sht 16/77) lüders did not read b1; therefore his b1 is here b2 a1 /// ⟨⟨t.⟩⟩ + + .y. ///
+
+2 /// haṅgho + ///
+
+b1 /// .. + + + ///
+
+2 /// .i p[u]na dā ///
+
+sht 16 fragment 78 (idp sht 16/78) a1 /// m ap[i] tas[m]ai _ ///
+
+2 /// .. .. .. + + ///
+
+b1 /// .j. pi khu naṃ .. ///
+
+sht 16 fragment 79 (idp sht 16/79) lüders did not read a1 and b1; therefore his a1 is here a2 and his b1 is here b2 a1 /// + + + .. .. + + ///
+
+2 /// .. t. kkh[u] gahītan nā[m]. ///
+
+b1 /// + + .. .[r]. + + .. ///
+
+2 /// pañcendriyāśvo nā ///
+
+3 /// + + + + .i .. + ///
+
+sht 16 fragment 80 (idp sht 16/80) a1 /// .. vitarkkitam e .. ///
+
+2 /// .. .. [n]. pā[d]. + .. + ///
+
+b1 /// .. [r]utam* + + + ///
+
+2 /// tr[i]yādāvā .. ///
+
+sht 16 fragment 81 (idp sht 16/81) a1 /// + + nt. .. .. .t. + ///
+
+2 /// gatā mhi _ pucchi ///
+
+3 /// + .. .ī .. + + + ///
+
+b1 /// + .. [s]v. .. + + + ///
+
+2 /// .. vihāpeh[i] _ .. ///
+
+3 /// + .. r. .. + + + ///
+
+sht 16 fragment 82 (idp sht 16/82) a1 /// .. tti ─ vidū ─ ///
+
+2 /// + [g]o _ .. ///
+
+b1 /// _ āsohi .. ///
+
+2 /// + + + .. .. ///
+
+sht 16 fragment 83 (idp sht 16/83) lüders did not read a1; therefore his a1 is here a2 a1 /// + .. + + + .[r]. ///
+
+2 /// jarābhayakāya ///
+
+b1 /// .. sadṛśa .. .. y. ///
+
+2 /// .. r b(b)ah(u)[v]idhair . + ///
+
+sht 16 fragment 84 (idp sht 16/84) lüders did not read b1; therefore his b1 is here b2 etc. a1 /// k[i]m* _ ayaṃ jānāti tahim u ///
+
+2 /// + .idīye _ girikagga .. + ///
+
+b1 /// + + + + + + .. + + + ///
+
+2 /// .v. .. dhāvati ─ vidū ─ [ha] .. ///
+
+3 /// .. māno maudgalyāyanaś ca sa ///
+
+sht 16 fragment 85 (idp sht 16/85) lüders did not read a1 and b1; therefore his a1 is here a2 and his b1 is here b2 a1 /// .. .. + + + .. + + ///
+
+2 /// [p](r)aviśati _ nāya(kaḥ) ///
+
+b1 /// .. .. + + + .. + ///
+
+b2 /// _ na śakkan tahiṅ ga .. ///
+
+sht 16 fragment 86 (idp sht 16/86) a1 /// (a)lpam analpa(ṃ) + + ///
+
+2 /// + darśitam ācā(r)[yy](eṇa) ///
+
+b1 /// .[y]. dā ─ anādeḥ ///
+
+2 /// [śa]mam amṛta .. ///
+
+sht 16 fragment 87 (idp sht 16/87) lüders did not read a1; therefore his a1 is here a2 a1 /// .[v]. + + + + + + ///
+
+2 /// .āvaṅ gamis[s]āma ─ ///
+
+b1 /// + + .. .. .v. .. + + ///
+
+2 /// [ya]ḥ _ rāg⟨ā⟩n[dh]ā s[v]. ku .. ///
+
+sht 16 fragment 88 (idp sht 16/88) lüders did not read a1; therefore his a1 is here a2 a1 /// + + .. .. + + .. + + + ///
+
+2 /// + vipayogo santāp[e] + ///
+
+3 /// (vi)d(ū) ─ na hi upaj(jh)ā(ya) ///
+
+b1 /// (du)[ṣ]ṭa ─ ś(ā)p(a)mah[i]mā .. + + ///
+
+2 /// + hāye _ jiṇṇapokkha(riṇī) ///
+
+sht 16 fragment 89 (idp sht 16/89) see fragment 23+50+89+112
+
+sht 16 fragment 90 (idp sht 16/90) lüders did not read b1; therefore his b1 is here b2 etc. a1 /// (u)pajjhāya _ yathā + ///
+
+2 /// + _ yady eṣa bha[v]. ///
+
+b1 /// + + + + + .y. + ///
+
+2 /// (mau)dga ─ ittha[ṃ] śreya ///
+
+3 /// eṣa duṣkaro na ma ///
+
+sht 16 fragment 91 (idp sht 16/91) side b different scribe a1 /// raṃ baṃmbhaṇa 2 /// himāye b1 /// .. bandhanena 2 /// mi bhotī na
+
+sht 16 fragment 92 (idp sht 16/92) a1 /// + tam* _ pa[śy]. ///
+
+2 /// ddh. pavvajit(e) ///
+
+b1 /// .. tha _ ete ///
+
+2 /// (pu)ṇyakṣa[y](a) ///
+
+sht 16 fragment 93 (idp sht 16/93) a1 /// + + .. .. janapari ///
+
+2 /// s[v]abhāvas(y)a ca kaḥ _ .u ///
+
+b1 /// .. .. .. kr. + + .. .. ///
+
+2 /// + .e[n]a [v]ā _ siddhārttho .. ///
+
+sht 16 fragment 94 (idp sht 16/94) fragment found under sht 810 fragment 346 [cf. sht x (erg.)] a2, b1: the akṣaras [ṣ](ṭa) and du[ṣ](ṭa) are missing to date, but see facsimile plate v a1 /// ccha _ chijjis[s]i ///
+
+2 /// ⟨⟨..⟩⟩ ye ─ [d](u)[ṣ](ṭa) ///
+
+b1 ///.. ruh. ss. ─ du[ṣ](ṭa ─) ///
+
+2 /// .. _ āyuś ca va .. ///
+
+sht 16 fragment 95 (idp sht 16/95) a1 /// hihī _ aho sam. ///
+
+b1 /// dhar. nā(r)tthaḥ _ tac cāva .. ///
+
+sht 16 fragment 96 (idp sht 16/96) most part of fragment 96 found under sht 810 fragment 325 [cf. sht x (erg.)] the akṣara of b3 is missing to date, but see facsimile plate vi a1 /// + + [k]. ssa + + ///
+
+2 /// (du)[ṣ]ṭa ─ ba[m]bha(ṇa) ///
+
+3 /// + yavatu sā + ///
+
+b1 /// tthitāpi muni ///
+
+2 /// .. sahaka + ///
+
+3 /// + .. ma .. + ///
+
+sht 16 fragment 97 (idp sht 16/97) see fragment 46+97
+
+sht 16 fragment 98 (idp sht 16/98) original is missing to date, but see facimile plate vi a1 /// najano _ parija[ne] ///
+
+b1 /// .. [r](a)kṣati _ bhraṣṭa ///
+
+sht 16 fragment 99 (idp sht 16/99) fragment found under sht 810 fragment 354 [cf. sht x (erg.)] a1 /// .. m ātmano vyupa ///
+
+b1 /// raḥ ─ ataḥ pra[vi](śati) ///
+
+sht 16 fragment 100 (idp sht 16/100) akṣaras in italics are missing to date, but see facsimile plate vi a1 /// hi vayaṅ (k)al[l]aṃ yeva ///
+
+b1 /// + + + .. .v. .th. + .. + + .. ///
+
+2 /// (upa)jjhāya _ yathā tathā ///
+
+sht 16 fragment 101 (idp sht 16/101) see fragment 26+64+68+75+101+119+120
+
+sht 16 fragment 102 (idp sht 16/102) a1 /// .v. + + + + ///
+
+2 /// jike nṛtta .. ///
+
+3 /// .i .. .. .. ///
+
+b1 /// .. [t]u[t]. _ .. + ///
+
+2 /// parivattan[t]i ///
+
+3 /// + .. .. .. .. ///
+
+sht 16 fragment 103 (idp sht 16/103) see fragment 13+103
+
+sht 16 fragment 104 (idp sht 16/104) most part of fragment 104 found under sht 810 fragment 339 [cf. sht x (erg.)] the akṣaras in italics are missing to date, but see plate vi a1 /// (pa)riṇataśubhaka(rma) ///
+
+b1 /// .. [p]r(ā)[p]t(aca)[k]ṣu[r]. ///
+
+sht 16 fragment 105 (idp sht 16/30) see fragment 30
+
+sht 16 fragment 106 (idp sht 16/106) akṣaras in italics are missing to date, but see facsimile plate vi a1 /// + + .. yojiya _ [s]e .. ///
+
+2 /// [m]. t.ḥ [k]e .ā .i + .. ///
+
+b1 /// [khal]u + + + + + ///
+
+2 /// + + [hṛ]dayaḥ śī[l]. ///
+
+3 /// + + .. .i .. .. .. .. ///
+
+sht 16 fragment 107 (idp sht 16/107) a1 /// .. m. h. .y. ///
+
+2 /// l[o]kaḥ svas.e ///
+
+b1 /// _ sāṭaken. ///
+
+2 /// [s]o naccati ///
+
+sht 16 fragment 108 (idp sht 16/108) a1 /// + d ete hi bha ///
+
+2 /// .. ti ca na ti ///
+
+b1 /// .. dharmmo vṛto .. ///
+
+2 /// s. royana .. ///
+
+sht 16 fragment 109 (idp sht 16/109) original found under sht 810 fragment 538 [cf. sht x (erg.)] a1 /// ..ḥ [ya]⟨⟨taḥ⟩⟩ 2 /// .. _ āgamanaṃ b1 /// .. patituñ carā 2 /// śrama ─ praj(ñ)āto .i +
+
+sht 16 fragment 110 (idp sht 16/110) original found under sht 810 fragment 469 [cf. sht x (erg.)] a1 /// [sy]a na duḥkhinā ///
+
+b1 /// .. hati ─ nā(ya ─) ..
+
+sht 16 fragment 111 (idp sht 16/111) a1 /// .. sarvv. laj(j)arikaṃ mallyānulepanā ///
+
+2 /// .. + + + + + + + .. .ā .ī ///
+
+b1 /// + + + + + + + + .. h. t. + ///
+
+2 /// m [i]va mal[i]nam iva _ vaddh[y]am iva ///
+
+3 /// + + + + + + + + + + ⟨⟨apitā⟩⟩ ///
+
+sht 16 fragment 112 (idp sht 16/112) see fragment 23+50+89+112
+
+sht 16 fragment 113 (idp sht 16/113) a1 /// ṇapariśrama it[i] ─ ///
+
+b1 /// .. vo eso _ tum(h)āk(aṃ) ///
+
+sht 16 fragment 114 (idp sht 16/62+114) see fragment 62+114
+
+sht 16 fragment 115 (idp sht 16/115) most part of the fragment found under sht 810 fragment 427 [cf. sht x (erg.)] akṣaras in italics are missing to date, but see facsimile plate vi a1 /// t. rājagṛ[h]. .. b1 /// (ka)luṣaya + ///
+
+2 /// .. titam. ///
+
+sht 16 fragment 116 (idp sht 16/116): aśvaghoṣa, śāriputraprakaraṇa belongs to sht 57a; see there, third fragment (in italics)
+
+sht 16 fragment 117 (idp sht 16/117) original is missing a1 .. kam pekkha ─ .. b1 .. ṅ kappatha ─ ..
+
+sht 16 fragment 118 (idp sht 16/118) original is missing a1 .. ham. .. 2 .. ai bho .. b1 .. t. kena .. 2 .. ya ─ ..
+
+sht 16 fragment 119 (idp sht 16/119) see fragment 26+64+68+75+101+119+120
+
+sht 16 fragment 120 (idp sht 16/120) see fragment 26+64+68+75+101+119+120
+
+sht 57: aśvaghoṣa, śāriputraprakaraṇa, ed. lüders sbaw 1911, pp. 390 392 (= phil.ind., pp. 192 195)
+
+sht 57a + sht 16 fragment 116 (in italics) (lüders sbaw 1911, pp. 390f.: c1 (= phil.ind., pp. 192f.); restored text according to sht 16/26(+64+68+75+101+119+120); fol. .. .. (on recto) akṣaras in bold not read by lüders r1 + + + + .y. + + + + .. c[ā]nnyadṛ[ṣ]ṭi[to] de[h]. + + (bud)dh(a ─) [u](patiṣya) /// + .. .. + + + + + + + + .. + + + + 2 .. bhāvaḥ a[tha] + + + + + [ṣa]yā buddhitapasām ṛddhayaḥ // + + + + + + + + + + + + + + + + + + + + (ñ ca vāyoḥ) [ā]tme(śvaraddh)yānabalena kuryyur na yoginā[ṃ] 3 duṣkaram asti (k)i(ñcit ─) [ś]āri ─ tasmād ātmasaṃ(s)ā(ra)sya ka + + + + + + + + + (buddhaḥ) [// u](patiṣ)y(a) .. + + + + [ry]yam utta(mav)āryyaṃ municaryyam avinivāryyavī 4 ryyam āryam* [v]iga[ta] .. + + + bhayadaṃ śaraṇam aha[m] a[ra] .. + + + + + + + + + [ma]ti ─ buddha ─ svāga[ta]ṃ + + + + nauḥkarṇ[ṇ]adhārāya bhaviṣyate dharmasenapata[ye] v1 maudga // mohāndhasya (janasya) [d](a)[r]śanakaraṃ naṣṭasya sa[ṃj]ñ[āk](a)[r]. + + + + + + + + + [s]ya saṃvi[t]karam* mṛ + + + + .. kṣ. .. .. .. (j)ñ(ā)n(a)ppr(a)t(i)ṣṭh(ā)k(a)r(aṃ) v(a)nd(e) .. .. (śā)[rī] ─ 2 [ka]bodhanakaraṃ ś[r]eya .. + + .. ram* ⟨─⟩ buddha ─ svāgataṃ bhā[v]i[ne] vi .. + + + + + + + [ṛ]d[dh]ivikalpeśvarāya + + + + ṣa ─ tṛ[bh]iś śiṣyaiḥ parivṛtaḥ śobhate municandramāḥ 3 .. .. .. [n]. tr[i] .. + + + + + [y]ukta iva candramāḥ bu(d)dh(a ─) upati[ṣ](ya) + + + + + + + + + + + + + + + + + + + + [n]āma j. .. + .. bbhyantaraṃ varṣaśatān na bhaviṣyatīty e 4 + + .. [pr]. .. .. .. .. + + + .. bbhya etān tāvad viśuddhasya manaso rā(gam alpena yatnena) + + + + + + + + + + + + + nāsaṃ .e + kṣāt parāṃmukhībhūtaḥ pratipadyate śre 5 + + + + + + + + + + + .. y[uvābhyā]ṃ .. .. + + + .. .. + + + + + + + + + + + + + + + + + + + + .. .. + + + + + .. .. .. .. .o .e .. + + +
+
+sht 57b ed. lüders sbaw 1911, p. 391: c2 (= phil.ind., pp. 193f.) restored text according to sht 16/26(+64+68+75+101+119+120) bold akṣara marks the beginning of the line r1 .. .. .. .. .. + + + + + + + + + + .. .. .. + + + + + + .. .. .. .. khi .. + + + + + + + + + + + 2 (r davāgniparigatam iva) [nīḷa]dru[ma](ṃ ga)[ganata](la)vipp[ra](sthi)[tasya] śakuner ādīptaṃ trai(lo)ky(a)m .. .. .y. .o .. kva + + + + + riniṣpa .. [s]. .. 3 + + reva .. .. .. .. .. .. .. (su)[khā](nā)[m atṛptikara]ṇāṃ paridāhā[tmakānām ā] .. .. + + + + .. caritaḥ ─ .. 4 .. .. .. madhughṛtā[meddhyapay]. + + + + + + + .. spṛṣṭaṃ [yat tat priya]m api dahaty apriya .. + + + + [h]. tty eva viṣa .. 5 .. [na] eva viṣa[y]. + + + + + + + + + + + + [śar]ī[r]e .. [pradahati madāji] .. [ma] .. .. + + + + + .. .. .ām. .. v1 .. .y. .. .. .. + + + + + + + + + + .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. + + + + + .. .. .. .. .. .. 2 .. [ya] .[ena] samya[g a]bhihitam* + + + + + [h]. bhṛgu[sa]ttam[o] .. [nibhṛtair yattā] .. .. .ai .. + + + + + .. .. .. .. .. .. 3 .. .. [k]ṛ[ta]ṃ bhṛśaviṣai spṛ(ṣ)ṭ(aṃ yathā)śīviṣaiḥ ─ buddha ─ .. .. .. .. .. .. .. .. .. + + + + + .. .. .. .. .. .. 4 .. .. .. ddhi .ṛ .. [etad] api pū(rva)[karmmasaṃ]skṛta[yor anahaṅ kṛta]yor yuvayor a + + + + + + .ā .. .. .. .. 5 .. [tpa]tti .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. no .. .. .. .. .. + + + + + + .. .. .. .. ..
+
+a small fragment mounted between the glass plates at the right side: aa /// .. .. .[o] .. ///
+
+ba /// .. [v]. [g]. .. ///
+
+b /// + + .. + ///
+
+sht 57c ed. lüders sbaw 1911, pp. 391f.: c4 (= phil.ind., pp. 194f.); fol. .. 7 (on recto) original in museum für asiatische kunst (iii 27); facsimile in lüders sbaw 1911 bold akṣara marks the beginning of a line r1 va .. .. nno bhāvāt* so .. [kṣi] .. y. .. nopā .. .. .. e[vaṃ hi] sati [i](da)[n] tu yat[n]ena jñā[yatāṃ] .. .. .. .. .. .. he ki(ñ)c. + .. + .. .. yy. .. .. na [hi] + + + .. .. .. .. .. .. .. + 2 (śa)rī[ra]nirmuktam ā[tma]sa[ṃ]jñakam buddhis[au]kṣmyaṃ tat* ─ sūkṣmatvāc caiva doṣāṇām avyāpārāc ca cetasaḥ (d)[⟨ī⟩](rghatvā)[d ā]yuṣaś caiva mokṣa(s tu) [pa]rikalpyate ─ śāri ─ (bhaga)van* asya dharmasya + 3 .. .. .. thātma[#]grāhe sata @read sati@@ na naiṣṭhikī nirvṛttir @read nirvṛtir@@ bhavati nairātmyādarśanāc ca bhavati tadyathā [nadī]srotaso varttamāna[sya] pra[t]yu .. [śya] .e .. .. ddhya + (a)sminn uparate 'syo + 4 .. prāptaṃ tac ca yathā nimnagatam bhavati tatrādau srota uparataṃ vinaṣ[ṭ]am iti [bhava]ti [evam a]s. .. .ā ..ṃ śarī[r]endriy. + buddhisrotaso varttamā[na](sya) bhagavatādhi[ga] + 5 ve kalyaṃ kriyata tatkṛto 'hetukasya notpadyate bīj⟨o⟩daka⟨ṃ⟩ p[ṛ]thiv(ya)r(t).ṃ .ai .. .. .[eva]ṅ.. ..[ḥ] tasmin na .. .. .[ya]mān. .. .. .. .. + + + [a]smiṃ vi(naṣṭe mukta iti niścayaḥ kṛtaḥ) v1 karmmā @read karmma@@ kṣetram bījam utpatticetas tṛṣṇā kledacchādanañ cā[p]y [ava](ndh)ya(ṃ) [e](vaṃ lo)[k](aḥ) [s](as)y(a)[v](a)j j[ā]yamāno jñānāditye + + + + + + t. ─ [b](uddhaḥ ─) + (gatena mārgeṇa) 
+2 vinītayor ya[t]i#dharmmeṇa kṛtaparikarmmaṇoḥ asmāt siddhāntapprativedhād uddhṛtavividhadṛṣ[ṭ]i[śa]lyayo[ḥ] ś[u]d[dha]manasor yuva(yo)ḥ yad e ..ṃ + dhavā[di]jñā[nasyā] .. @reading dhavā[vi]jñā[nasyā] is also possible@@
+3 śiṣṭaṃ duḥkhaṃ sro#tasi nirvvāṇasya varttate tat* ─ ataḥ paraṃ jñānam idaṃ yatendriyau nirantaram bhāvayatuṃ @read bhāvayituṃ@@ vimuktaye śi .. su bhikṣ⟨ā⟩m akhilām aka + + nirāmay[au pā]tu +
+4 sarve & // śāriputraprakaraṇe navamo 'ṅkaḥ 9 āryyasuvarṇṇākṣiputrasyāryyāśvaghoṣasya kṛtiś śāradvatīputrapprakaraṇaṃ samāptaṃ [sa]māptāni cāṅkāni nava + .. gyam anu[ṣṭubhe] ccha ..
+ 

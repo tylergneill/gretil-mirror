@@ -1,0 +1,2823 @@
+Vāsiṣṭhadharmasūtra
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vAsiSThadharmasUtra.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: M. Fushimi
+## Contribution: M. Fushimi
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Vasisthadharmasastra, Bombay Sanskrit and Prakrit Series 23.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Vāsiṣṭhadharmasūtra = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from vasist_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Vasistadharmasutra
+| The coding of the following text was a part of the project of the Joint |
+| Seminar on `Law (dharma) and Society in Classical India' headed by Prof.|
+| Y. Ikari at the Institute for Research in Humanities, Kyoto University. |
+| The text may be freely distributed and used for scholarly purposes, but |
+| we are not responsible for any trouble which might be caused by the use |
+| of this file. Suggestions for corrections are most welcome. |
+| Please contact yanom@cc.kyoto-su.ac.jp or ikari@zinbun.kyoto-u.ac.jp |
+===========================================================================
+Vasisthadharmasastra, Bombay Sanskrit and Prakrit Series 23
+input by M. Fushimi, checked by F. Enomoto
+(c:chandas)
+Text Input System
+- Members of a compound are separated by periods.
+- External sandhi is decomposed with `^'.
+- Verbal roots are indicated in ( ).
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+va.1.1 atha^atas^puruṣa.niḥśreyasa.artham^dharma.jijñāsā(jñā-) //
+
+va.1.2 jñātvā(jñā-) ca^anutiṣṭhan(anu-sthā-) dhārmikas^//
+
+va.1.3 praśasya(pra-śaṃs-).tamas^bhavati(bhū-) loke pretya(pra-i-) ca svarga.lokam^samaśnute(sam-aś-) //
+
+va.1.4 śruti.smṛti.vihitas(vi-dhā-)^dharmas^//
+
+va.1.5 tad.alābhe śiṣṭa.ācāras^pramāṇam //
+
+va.1.6 śiṣṭas^punar akāma.ātmā //
+
+va.1.7 a.gṛhyamāṇa(grah-).kāraṇas^dharmas^//
+
+va.1.8 ārya.āvartas^prāk^ādarśāt pratyak kālakavanāt^udak pāriyātrāt^dakṣiṇena himavatas^//
+
+va.1.9 uttareṇa ca vindhyasya //
+
+va.1.10 tasmin deśe ye dharmās ye ca^ācārās te sarvatra pratyetavyās(prati-i-)^//
+
+va.1.11 na tu^anye pratilomaka.dharmāṇām //
+
+va.1.12 gaṅgā.yamunayor antare^api^eke //
+
+va.1.13 yāvat^vā kṛṣṇa.mṛgas^vicarati(vi-car-) tāvat^brahma.varcasam iti^anye //
+
+va.1.14 atha^api bhāllavinas^nidāne gāthām udāharanti(ud-ā-hṛ-) //
+
+va.1.15 paścāt sindhus^vidhāraṇī sūryasya^udayanam^puras^/
+
+va.1.15 yāvat kṛṣṇas^abhidhāvati(abhi-dhāv-) tāvat^vai brahma.varcasam iti //
+
+va.1.16 traividya.vṛddhās^yam^brūyur(brū-) dharmam^dharma.vidas^janās^(c)/
+
+va.1.16 pavane pāvane ca^eva sa dharmas^na^atra saṃśayas.(c) iti //
+
+va.1.17 deśa.dharma.jāti.dharma.kula.dharmān^śruti.abhāvāt^abravīt(brū-)^manus^//
+
+va.1.18 sūrya.abhyuditas(abhi-ud-i-)^sūrya.abhinimruktas(< abhi-nir-muc-)^kunakhī śyāva.dantas^parivittis^parivettā^agredidhiṣūs^didhiṣūpatis^vīrahā brahma.ujjhas^iti^enasvinas^//
+
+va.1.19 pañca mahāpātakāni^ācakṣate(ā-cakṣ-) //
+
+va.1.20 guru.talpam^surā.pānam^bhrūṇa.hatyā brāhmaṇa.suvarṇa.apaharaṇam^patita.saṃyogas^ca //
+
+va.1.21 brāhmeṇa vā yaunena vā //
+
+va.1.22 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.1.22 saṃvatsareṇa patati(pat-) patitena(pat-) saha^ācaran(ā-car-) (c)/
+
+va.1.22 yājana.adhyāpanāt^yaunāt^na tu yāna.āsanāt^dānāt.(c) iti //
+
+va.1.23 yas^agnīn apavidhyet(apa-vyadh-)^gurum^ca yas^pratidaghnuyāt(prati-dagh-)^nāstikas^nāstika.vṛttis^somam^ca vikrīṇīyāt(vi-krī-)^iti^upapātakāni //
+
+va.1.24 tisras^brāhmaṇasya bhāryās^varṇa.anupūrveṇa dve rājanyasya ekaikā vaiśya.śūdrayos^//
+
+va.1.25 śūdrām api^eke mantra.varjam^tadvat //
+
+va.1.26 tathā na kuryāt(kṛ-) //
+
+va.1.27 atas^hi dhruvas^kula.apakarṣas^pretya(pra-i-) ca^a.svargas^//
+
+va.1.28 ṣaṭ^vivāhās^//
+
+va.1.29 brāhmas^daivas^ārṣas^gāndharvas^kṣātras^mānuṣas^ca^iti //
+
+va.1.30 icchate(iṣ-)^udaka.pūrvam^yām^dadyāt(dā-) sa brāhmas^//
+
+va.1.31 yajña.tantre vitate(vi-tan-)^ṛtvije karma kurvate(kṛ-) kanyām^dadyāt(dā-)^alaṃkṛtya(alam-kṛ-) tam^daivam iti^ācakṣate(ā-cakṣ-) //
+
+va.1.32 go.mithunena ca^ārṣas^//
+
+va.1.33 sa.kāmām^kāmayamānas(kam-)^sadṛśīm^yonim uhyāt(ūh-) sa gāndharvas^//
+
+va.1.34 yām^[balena sahasā pramathya(pra-math-)] haranti(hṛ-) sa kṣātras^//
+
+va.1.35 [paṇitvā(paṇ-) dhana.krītāṃ] sa mānuṣas^//
+
+va.1.36 tasmāt^duhitṛmate^adhiratham^śatam^deyam iti^iha krayas^vijñāyate(vi-jñā-) //
+
+va.1.37 yā patyus^krītā satī^atha^anyais^carati(car-)^iti ha cāturmāsyeṣu //
+
+va.1.38 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.1.38 vidyā pranaṣṭā punar abhyupaiti(abhi-upa-i-) kula.praṇāśe tu^iha sarva.nāśas^(c)/
+
+va.1.38 kula.apadeśena hayas^api pūjyas tasmāt kulīnām^striyam udvahanti(ud-vah-).(c) iti //
+
+va.1.39 trayas^varṇās^brāhmaṇasya nirdeśena varteran(vṛt-) //
+
+va.1.40 brāhmaṇas^dharmān prabrūyāt(pra-brū-) //
+
+va.1.41 rājā ca^anuśiṣyāt(anu-śās-) //
+
+va.1.42 rājā tu dharmeṇa^anuśāsan(anu-śās-) ṣaṣṭham^dhanasya haret(hṛ-) //
+
+va.1.43 anyatra brāhmaṇāt //
+
+va.1.44 iṣṭāpūrtasya tu ṣaṣṭham aṃśam^bhajati(bhaj-)^iti ha //
+
+va.1.45 brāhmaṇas^vedam āḍhyam^karoti(kṛ-) brāhmaṇo āpadas^uddharati(ud-hṛ-) tasmāt^brāhmaṇas^anādyas^/ somas^asya rājā bhavati(bhū-)^iti ha //
+
+va.1.46 pretya(pra-i-) ca^ābhyudayikam iti ha vijñāyate(vi-jñā-) ha vijñāyate(vi-jñā-)^iti //
+
+va.2.1 catvāras^varṇās^brāhmaṇa.kṣatriya.vaiśya.śūdrās^//
+
+va.2.2 trayas^varṇās^dvijātayas^brāhmaṇa.kṣatriya.vaiśyās^//
+
+va.2.3 teṣām
+
+va.2.3 mātus^agre vijananam^dvitīyam^mauñji.bandhane (c)/
+
+va.2.3 atra^asya mātā sāvitrī pitā tu^ācāryas^ucyate(vac-) (c)//
+
+va.2.4 veda.pradānāt pitā^iti^ācāryam ācākṣate(ā-cakṣ-) //
+
+va.2.5 tathā^api^udāharanti(ud-ā-hṛ-) /
+
+va.2.5 dvayam u ha vai puruṣasya retas^brāhmaṇasya^ūrdhvam^nābhes^adhastāt^avācīnam anyat tat^yat^ūrdhvam^nābhes tena ha^etat prajā jāyate(jan-) yat^brāhmaṇān upanayati(upa-nī-) yat^adhyāpayati(adhi-i-) yat^yājayati(yaj-) yat sādhukaroti(sādhu-kṛ-) / atha yat^avācīnam^nābhes tena^iha^asya^aurasī prajā jāyate(jan-) / tasmāt^śrotriyam anūcānam a.prajas^asi(as-)^iti na vadanti(vad-)^iti //
+
+va.2.6 hārītas^api^udāharati(ud-ā-hṛ-) /
+
+va.2.6 na hi^asmin vidyate(vid-) karma kim.cit^ā mauñji.bandhanāt (c)/
+
+va.2.6 vṛttyā śūdra.samas^hi^eṣa yāvat^vede na jāyate(jan-).(c) iti //
+
+va.2.7 anyatra^udaka.karma.svadhā.pitṛ.saṃyuktebhyas^//
+
+va.2.8 vidyā ha vai brāhmaṇam ājagāma(gam-) gopāya mām^śevadhis te^aham asmi(as-) (c)/
+
+va.2.8 asūyakāya^an.ṛjave^a.yatāya na mām^brūyās(brū-)^vīryavatī tathā syām(as-) (c)//
+
+va.2.9 yam eva vidyās^śucim a.pramattam^medhāvinam^brahmacaryā.upapannam (c)/
+
+va.2.9 yas te na druhyet(druh-) katamat.cana^ahar^tasmai mām^brūyās(brū-)^nidhipāya brahman (c)//
+
+va.2.10 yas^ātṛṇatti(ā-tṛd-)^a.vitathena karṇau^a.duḥkham^kurvan(kṛ-)^amṛtam^saṃprayacchan(sam-pra-yam-) (c)/
+
+va.2.10 tam^manyeta(man-) pitaram^mātaram^ca tasmai na druhyet(druh-) katamaccana^ahar^(c)//
+
+va.2.11 adhyāpitās^ye gurum^na^ādriyante(ā-dṛ-) viprās^vācā manasā karmaṇā vā (c)/
+
+va.2.11 yathā^eva te na guros^bhojanīyās(bhuj-) tathā^eva tān na bhunakti(bhuj-) śrutam^tat (c)//
+
+va.2.12 dahati(dah-)^agnis^yathā kakṣam^brahma pṛṣṭam(prach-) anādṛtam(ā-dṛ-) (c)/
+
+va.2.12 na brahma tasmai prabrūyāt(pra-brū-)^śakyam^mānam akurvata(kṛ-)(c) iti //
+
+va.2.13 ṣaṭ karmāṇi brāhmaṇasya //
+
+va.2.14 svādhyāya.adhyayanam adhyāpanam^yajñas^yajanam^dānam^pratigrahas^ca^iti //
+
+va.2.15 trīṇi rājanyasya //
+
+va.2.16 adhyayanam^yajñas^dānam^ca //
+
+va.2.17 śastreṇa ca prajā.pālanam^sva.dharmas tena jīvet(jīv-) //
+
+va.2.18 etāni^eva vaiśyasya //
+
+va.2.19 kṛṣis^vāṇijyam^pāśupālyam^kusīdam^ca //
+
+va.2.20 teṣām^paricaryā śūdrasya niyatā ca vṛttis^//
+
+va.2.21 niyata.keśa.veṣās^sarve vā mukta.keśās^śikhā.varjam //
+
+va.2.22 a.jīvantas(jīv-)^sva.dharmeṇa^anantarām^yavīyasīm^vṛttim ātiṣṭheran(ā-sthā-) //
+
+va.2.23 na tu kadā.cit^jyāyasīm //
+
+va.2.24 vaiśya.jīvikām āsthāya(ā-sthā-) paṇyena jīvatas(jīv-)^aśma.lavaṇa.maṇi.śāṇa.kauśeya.kṣauma.ajināni ca //
+
+va.2.25 tāntavam^raktam^sarvam^ca //
+
+va.2.26 kṛta.annam^puṣpa.phala.mūlāni gandha.rasās^udakam^ca^oṣadhīnām^rasas^somas^ca śastram^viṣam^māṃsam^ca kṣīram^ca sa.vikāram ayas trapu jatu sīsam^ca //
+
+va.2.27 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.2.27 sadyas^patati(pat-) māṃsena lākṣayā lavaṇena ca (c)/
+
+va.2.27 tri.aheṇa śūdras^bhavati(bhū-) brāhmaṇas^kṣīra.vikrayāt.(c) iti //
+
+va.2.28 grāma.paśūnām eka.śaphās^keśinas^ca sarve ca^āraṇyās^paśavas^vayāṃsi daṃṣṭriṇas^ca //
+
+va.2.29 dhānyānām^tilān āhur(ah-)^//
+
+va.2.30 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.2.30 bhojana.abhyañjanāt^dānāt^yat^anyat kurute(kṛ-) tilais^(c)/
+
+va.2.30 kṛmi.bhūtas^śva.viṣṭhāyām^pitṛbhis^saha majjati(majj-).(c) iti //
+
+va.2.31 kāmam^vā svayam^kṛṣya(kṛṣ-)^utpādya(ud-pad-) tilān vikrīṇīran(vi-krī-) //
+
+va.2.32 tasmāt^sāṇḍābhyām a.nasi.otābhyām^prāk prātar.āśāt karṣī syāt(as-) //
+
+va.2.33 nidāghe^apas^prayacchet(pra-yam-) //
+
+va.2.34 lāṅgalam^pavīravat.su.śeva& soma.pitsaru /
+
+va.2.34 tad ud vapati(vap-) gām avim^prapharvyam^ca pīvarīm^prasthāvat^ratha.vāhanam iti //
+
+[(2.35) lāṅgalam^pavīravat^vīravat sumanuṣyavat^anaḍudvat su.śevam^kalyāṇa.nāsikam^kalyāṇī hi^asya nāsikā nāsikathā^udvapati(ud-vap-) dūre^apavidhyati(apa-vyadh-) soma.pitsaru somas^hi^asya prāpnoti(pra-āp-) tat saru tat^udvapati(ud-vap-) gām^ca^avim^ca^ajān aśvān aśvatara.kharoṣṭān^ca prapharvyam^ca pīvarīm^darśanīyām^kalyāṇīm^ca prathama.yuvatīm //] va.2.36 katham^hi laṅgalam udvapet(ud-vap-)^anyatra dhānya.vikrayāt //
+
+va.2.37 rasās^rasais^mahatas^hīnatas^vā vibhātavyās(vi-bhā-)^//
+
+va.2.38 na tu^eva lavaṇam^rasais^//
+
+va.2.39 tila.taṇḍula.pakvānam^vidyā mānuṣyās^ca vihitās^parivarttakena //{bṣpṣ parivarttakena}{f parivartakena}
+
+va.2.40 brāhmaṇa.rājanyau vārdhuṣī na dadyātām(dā-) //
+
+va.2.41 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.2.41 sam.argham^dhānyam uddhṛtya(ud-hṛ-) mahā.argham^yas^prayacchati(pra-yam-) (c)/
+
+va.2.41 sa vai vārdhuṣikas^nāma brahma.vādiṣu garhitas^(c)//
+
+va.2.42 brahma.hatyām^ca vṛddhim^ca tulayā samatolayat(sam-tul-) (c)/
+
+va.2.42 atiṣṭhat(sthā-)^bhrūṇahā koṭyām^vārdhuṣis^samakampata(sam-kamp-)(c) iti //
+
+va.2.43 kāmam^vā parilupta.kṛtyāya pāpīyase dadyātām(dā-) //
+
+va.2.44 dvi.guṇam^hiraṇyam^tri.guṇam^dhānyam //
+
+va.2.45 dhānyena^eva rasās^vyākhyātās^//
+
+va.2.46 puṣpa.mūla.phalāni ca //
+
+va.2.47 tulā.dhṛtam aṣṭa.guṇam //
+
+va.2.48 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.2.48 dvikam^trikam^catuṣkam^ca pañcakam^ca śatam^smṛtam (c)/
+
+va.2.48 māsasya vṛddhim^gṛhṇīyāt(grah-)^varṇānām anupūrvaśas^(c)//
+
+va.2.49 rājā tu mṛta.bhāvena dravya.vṛddhim^vināśayet(vi-naś-) (c)/
+
+va.2.49 punar^rāja.abhiṣekeṇa dravya.mūlam^ca vardhate(vṛdh-) (c)//
+
+va.2.50 vasiṣṭha.vacana.proktām^vṛddhim^vārdhuṣike śṛṇu(śru-) (c)/
+
+va.2.50 pañca māṣās tu viṃśatyā evam^dharmas^na hīyate(hā-).(c) iti //
+
+va.2.50 na hīyate(hā-) iti //
+
+va.3.1 aśrotriyās^ananuvākyās^anagnayas^vā śūdra.sadharmāṇas^bhavanti(bhū-) //
+
+va.3.2 mānavam^ca^atra ślokam udāharanti(ud-ā-hṛ-) /
+
+va.3.2 yas^anadhītya(adhi-i-) dvijas^vedam anyatra kurute(kṛ-) śramam (c)/
+
+va.3.2 sa jīvan(jīv-)^eva śūdratvam āśu gacchati(gam-) sa.anvayas^(c)//
+
+va.3.3 na^an.ṛk^brāhmaṇas^bhavati(bhū-) na vaṇik^na kuśīlavas^(c)/
+
+va.3.3 na śūdra.preṣaṇam^kurvan(kṛ-) na stenas^na cikitsakas^(c)//
+
+va.3.4 a.vratās^hi^anadhīyānās^yatra bhaikṣa.carās^dvijās^(c)/
+
+va.3.4 tam^grāmam^daṇḍayet(daṇḍay-)^rājā cora.bhakta.pradas^hi sas^(c)//
+
+va.3.5 avratānām amantrāṇām^jāti.mātra.upajīvinām (c)/
+
+va.3.5 sahasraśas^sametānām^pariṣattvam^na vidyate(vid-) (c)//
+
+va.3.6 yat^vadanti(vad-) tamas.mūḍhās^mūrkhās^dharmam ajānatas(jñā-)^(c)/
+
+va.3.6 tat^pāpam^śatadhā bhūtvā(bhū-) tat.vaktṝn adhigacchati(adhi-gam-) (c)//
+
+va.3.7 catvāras^vā trayas^vā^api yam^brūyur(brū-) veda.pāragās^(c)/
+
+va.3.7 sa dharmas^iti vijñeyas(vi-jñā-)^na^itareṣām^sahasraśas^(c)//
+
+va.3.8 śrotriyāya ca deyāni havya.kavyāni nityaśas^(c)/
+
+va.3.8 a.śrotriyāya dattam^hi pitṝn na^eti(i-) na devatās^(c)//
+
+va.3.9 yasya ca^eka.gṛhe mūrkhas^dūre vā^api bahu.śrutas^(c)/
+
+va.3.9 bahu.śrutāya dātavyam(dā-)^na^asti(as-) mūrkhe vyatikramas^(c)//
+
+va.3.10 brāhmaṇa.atikramas^na^asti(as-) vipre veda.vivarjite (c)/
+
+va.3.10 jvalantam agnim utsṛjya(ud-sṛj-) na hi bhasmani hūyate(hu-) (c)//
+
+va.3.11 yas^ca kāṣṭha.mayas^hastī yas^ca carma.mayas^mṛgas^(c)/
+
+va.3.11 yas^ca vipras^anadhīyānas trayas te nāma.dhārakās^(c)//
+
+va.3.12 vidvat.bhojyāni^avidvāṃsas^yeṣu rāṣṭreṣu bhuñjate(bhuj-) (c)/
+
+va.3.12 tāni^an.āvṛṣṭim ṛcchanti(ṛ-) mahat^vā jāyate(jan-) bhayam(c) iti //
+
+va.3.13 aprajñāyamānam(< pra-jñā-)^vittam^yas^adhigacchet(adhi-gam-)^rājā tat^haret(hṛ-)^adhigantre ṣaṣṭham aṃśam^pradāya(pra-dā-) //
+
+va.3.14 brāhmaṇas^cet^adhigacchet(adhi-gam-) ṣaṭsu karmasu varttamānas(vṛt-)^na rājā haret(hṛ-) //{bṣpṣ varttamānas}{f vartamānas}
+
+va.3.15 ātatāyinam^hatvā(han-) na^atra prāṇa.chettus^kim.cit kilviṣam āhur(ah-)^//
+
+va.3.16 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.3.16 agni.das^gara.das^ca^eva śastra.pāṇis^dhana.apahas^(c)/
+
+va.3.16 kṣetra.dāra.haras^ca^eva ṣaṭ^ete ātatāyinas^(c)//
+
+va.3.17 ātatāyinam āyāntam api veda.anta.pāragam (c)/
+
+va.3.17 jighāṃsantam^jighāṃsīyāt(han-)^na tena brahma.hā bhavet(bhū-) (c)//
+
+va.3.18 svādhyāyinam^kule jātam^yas^hanyāt(han-)^ātatāyinam (c)/
+
+va.3.18 na tena bhrūṇahā sa syāt(as-)^manyus tat.manyum ṛcchati(ṛ-).(c) iti //
+
+va.3.19 triṇāciketas^pañca.agnis tri.suparṇas^catus.medhā vājasaneyī ṣaṭ.aṅga.vid^brahma.deya.anusantānas^chandogas^jyeṣṭha.sāma.gas^mantra.brāhmaṇa.vidyas^ca dharmān adhīte(adhi-i-) yasya ca daśa.puruṣam^mātṛ.pitṛ.vaṃśas^śrotriyas^vijñāyate(vi-jñā-) vidvāṃsas^snātakās^ca^ete paṅkti.pāvanās^bhavanti(bhū-) //
+
+va.3.20 cāturvidyam^vikalpī ca aṅga.vid dharma.pāṭhakas^(c)/
+
+va.3.20 āśrama.sthās trayas^mukhyās^parṣat^eṣām^daśa.avarā (c)//
+
+va.3.21 upanīya(upa-nī-) kṛtsnam^vedam adhyāpayet(adhi-i-) sa ācāryas^(c)//
+
+va.3.22 yas tu^eka.deśam^sa upādhyāyas^//
+
+va.3.23 yas^ca veda.aṅgāni //
+
+va.3.24 ātma.trāṇe varṇa.saṃvarge brāhmaṇa.vaiśyau śastram ādadīyātām(ā-dā-) //
+
+va.3.25 kṣatriyasya tu tat^nityam eva rakṣaṇa.adhikārāt //
+
+va.3.26 prakṣālya(pra-kṣal-) pādau pāṇī ca^ā maṇi.bandhāt prāk^vā^udak^vā^āsīnas^aṅguṣṭha.mūlasya^uttara.rekhā brāhmam^tīrtham^tena tris^ācāmet(ā-cam-)^a.śabda.vat //
+
+va.3.27 dvis^parimṛjīta(pari-mṛj-) //
+
+va.3.28 khāni^adbhis^saṃspṛśet(sam-spṛś-) //
+
+va.3.29 mūrdhani^apas^ninayet(ni-nī-) savye ca pāṇau //
+
+va.3.30 vrajan(vraj-)^tiṣṭhan(sthā-)^śayānas(śī-)^praṇatas^vā na^ācāmet(ā-cam-) //
+
+va.3.31 hṛdayaṅgamābhis^adbhis^abudbudābhis^a.phenābhis^brāhmaṇas^//
+
+va.3.32 kaṇṭhagābhis tu kṣatriyas^//
+
+va.3.33 vaiśyas^adbhis^prāśitābhis^//
+
+va.3.34 strī.śūdram^spṛṣṭābhis^eva ca //
+
+va.3.35 pradarāt^api yās^gos taparṇa.samarthās^syus(as-)^//{bṣpṣ taparṇa}{f tarpaṇa}
+
+va.3.36 na varṇa.gandha.rasa.duṣṭābhis^yās^ca syus(as-)^aśubhāgamās^//
+
+va.3.37 na mukhyās^vipruṣas^ucchiṣṭam^kurvanti(kṛ-)^anaṅga.spṛṣṭās^//
+
+va.3.38 suptvā(svap-) bhuktvā(bhuj-) kṣutvā(kṣu-) pītvā(pā-) ruditvā(rud-) snātvā(snā-) ca^antas^punar^ācāmet(ā-cam-)^vāsas^ca paridhāya(pari-dhā-) //
+
+va.3.39 oṣṭhau saṃspṛśya(sam-spṛś-) yatra^a.lomakau //
+
+va.3.40 na śmaśru.gatas^lepas^//
+
+va.3.41 danta.vat^danta.sakteṣu yat^ca^antar.mūkhe bhavet(bhū-)^nigiran(ni-gṝ-)^eva tat^śucis^iti //
+
+va.3.42 parān api^ācāmayatas(ā-cam-)^pādau yās^vipruṣas^gatās^(c)/
+
+va.3.42 tābhis^na^ucchiṣṭatām^yānti(yā-) bhūmyās tās tu samās^smṛtās^(c)//
+
+va.3.43 caran(car-)^abhyavahāreṣu ucchiṣṭam^yadi saṃspṛśet(sam-spṛś-) (c)/
+
+va.3.43 bhūmau nidhāya(ni-dhā-) tat^dravyām ācamya(ā-cam-) pracaret(pra-car-) punas^(c)//
+
+va.3.44 yat^yat^mīmāṃsyam(man-)^syāt(as-)^adbhis^saṃspṛśet(sam-spṛś-) //
+
+va.3.45 śva.hatās^ca mṛgās^vanyās^pātitam^ca khagais^phalam (c)/
+
+va.3.45 bālais^anuparikrāntam^strībhis^ācaritam^ca yat (c)//
+
+va.3.46 prasāritam^ca yat paṇyam^ye doṣās^strī.mukheṣu ca (c)//
+
+va.3.47 maśakais^makṣikābhis^ca nilīnais^na^upahanyate(upa-han-) (c)/
+
+va.3.47 kṣiti.sthās^ca^eva yās^āpas^gavām^tṛpti.karās^ca yās^(c)/
+
+va.3.47 parisaṃkhyāya(pari-sam-khyā-) tān sarvān^śucīn āha(ah-) prajāpatis.(c) iti //
+
+va.3.48 lepa.gandha.apakarṣaṇe śaucam amedhya.liptasya^adbhis^mṛdā ca //
+
+va.3.49 taijasa.mṛd.maya.dārava.tāntavānām^bhasma.parimārjana.pradāhana.takṣaṇa.dhāvanāni //
+
+va.3.50 taijasavat^upala.maṇīnām //
+
+va.3.51 maṇivat^śaṅkha.śuktīnām //
+
+va.3.52 dāruvat^asthnām //
+
+va.3.53 rajju.vidala.carmaṇān^cailavat^śaucam //
+
+va.3.54 govālais^phala.mayānām //
+
+va.3.55 gaura.sarṣapa.kalkena kṣaumajānām //
+
+va.3.56 bhūmes tu saṃmārjana.upalena.ullekhana.prokṣaṇa.upakarṇais^yathā.sthānam^doṣa.viśeṣāt prāyatyam upaiti(upa-i-) //{bṣpṣ upalena}{e upalepana}
+
+va.3.57 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.3.57 khananāt^dahanāt^dharṣāt^gobhis^ākramaṇāt^api (c)/
+
+va.3.57 caturbhis^śudhyate(śudh-) bhūmis^pañcamāt^ca^upalepanāt (c)//
+
+va.3.58 rajasā śudhyate(śudh-) nārī nadī vegena śudhyate(śudh-) (c)/
+
+va.3.58 bhasmanā śudhyate(śudh-) kāṃsyam^punaḥpākena mṛd.mayam (c)//
+
+va.3.59 madyais^mūtrais^purīṣais^vā śleṣma.pūya.aśru.śoṇitais^(c)/
+
+va.3.59 saṃspṛṣṭam^na^eva śudhyeta(śudh-) punaḥpākena mṛd.mayam (c)//
+
+va.3.60 adbhis^gātrāṇi śudhyanti(śudh-) manas^satyena śudhyati(śudh-) (c)/
+
+va.3.60 vidyā.tapas.bhyām^bhūta.ātmā buddhis^jñānena śudhyati(śudh-).(c) iti //
+
+va.3.61 adbhis^eva kāñcanam^pūyate(pū-) //
+
+va.3.62 tathā rajatam //
+
+va.3.63 tāmram amlena śudhyati(śudh-) //
+
+va.3.64 aṅguli.kaniṣṭhikā.mūle daivam^tīrtham //
+
+va.3.65 aṅgulyam ṛṣīṇām //
+
+va.3.66 aṅguli.agreṣu mānuṣam //
+
+va.3.67 pāṇi.madhya āgneyam //
+
+va.3.68 pradeśinī.aṅguṣṭhayos^antarā pitryam //
+
+va.3.69 rocate(ruc-)^iti sāyam.prātar.aśanāni^abhipūjayet //
+
+va.3.70 svaditam iti pitrye //
+
+va.3.71 saṃpannam iti^ābhyudayikeṣu^ābhyudayikeṣu^eti //{bṣpṣ eti}{f iti}
+
+va.4.1 prakṛti.viśiṣṭam^cāturvarṇyam^saṃskāra.viśeṣāt^ca //
+
+va.4.2 brāhmaṇas^asya mukham āsīt(as-)^bāhū rājanyas(rājaniyas)^kṛtas^(c)/
+
+va.4.2 urū tat^asya yat^vaiśyas^padbhyām^śūdro ajāyata(jan-) (c)//{bṣpṣ urū}{f ūrū}{śūdro < śūdras}
+
+va.4.2 iti^api nigamas^bhavati(bhū-) //
+
+va.4.3 gāyatryā brāhmaṇam asṛjata(sṛj-) triṣṭubhā rājanyam^jagatyā vaiśyam^na kena.cit^chandasā śūdram iti^a.saṃskāryas^vijñāyate(vi-jñā-) //
+
+va.4.4 sarveṣām^satyam a.krodhas^dānam ahiṃsā prajananam^ca //
+
+va.4.5 pitṛ.devatā.atithi.pūjāyām api^eva paśum^hiṃsyāt(hiṃs-)^iti mānavam //
+
+va.4.6 madhuparke ca yajñe ca pitṛ.daivata.karmaṇi (c)/
+
+va.4.6 atra^eva ca paśum^hiṃsyāt(hiṃs-)^na^anyathā^iti^abravīt(brū-)^manus^(c)//
+
+va.4.7 na^akṛtvā(kṛ-) prāṇinām^hiṃsām^māṃsam utpadyate(ud-pad-) kva.cit (c)/
+
+va.4.7 na ca prāṇi.vadhas^svargyas tasmāt^yāge vadhas^avadhas^(c)//
+
+va.4.8 atha^api brāhmaṇāya vā rājanyāya vā^abhyāgatāya mahā.ukṣāṇam^vā mahā.ajam^vā pacet(pac-)^evam asmai^ātithyam^kurvanti(kṛ-)^iti //
+
+va.4.9 udaka.kriyā.śaucam^ca dvi.varṣam^prabhṛti //
+
+va.4.10 ā danta.jananāt^iti^eke //
+
+va.4.11 śarīram agninā saṃyojyān avekṣamāṇās(ava-īkṣ-)^apas^abhyavayanti(abhi-ava-i-) //
+
+va.4.12 savya.itarābhyām^pāṇibhyam udaka.kriyām^kurvīran(kṛ-)^a.yugmāsu dakṣiṇā.mukhās^//{bṣpṣ pāṇibhyam}{f pāṇibhyām}
+
+va.4.13 pitṝṇām^vai^eṣā dik^yā dakṣiṇā //
+
+va.4.14 gṛhān vrajitvā(vraj-) prastare tri.aham an.aśnantas(aś-)^āsīran(ās-) //
+
+va.4.15 aśaktau krīta.utpannena varteran(vṛt-) //
+
+va.4.16 daśa.aham^śāvam āśaucam^sapiṇḍeṣu vidhīyate(vi-dhā-) //
+
+va.4.17 sapiṇḍatvam^sa.āpta.puruṣam^vijñāyate(vi-jñā-) //
+
+va.4.18 prattānām^ca strīṇām^tri.puruṣam^vijñāyate(vi-jñā-) //
+
+va.4.19 prattānām itare kurvīran(kṛ-)^tās^ca teṣām //
+
+va.4.20 janane^api^evam eva syāt(as-)^nipuṇām^śuddhim icchatām(iṣ-) //
+
+va.4.21 mātā.pitros^vā //
+
+va.4.22 tat.nimittatvāt^mātus^iti^eke //
+
+va.4.23 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.4.23 na^aśaucam^sūtake puṃsas^saṃsargam^cet^na gacchati(gam-) (c)/
+
+va.4.23 rajas tatra^aśuci jñeyam^tat^ca puṃṣi na vidyate(vid-).(c) iti //
+
+va.4.24 tat^cet^antas^punar āpatet(ā-pat-)^śeṣeṇa śudhyeran(śudh-) //
+
+va.4.25 rātri.śeṣe dvābhyām //
+
+va.4.26 prabhāte tisṛbhis^//
+
+va.4.27 brāhmaṇas^daśa.rātreṇa //
+
+va.4.28 pañcadaśa.rātreṇa rājanyas^//
+
+va.4.29 viṃśati.rātreṇa vaiśyas^//
+
+va.4.30 śūdras^māsena śudhyati(śudh-) //
+
+va.4.31 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.4.31 aśauce yas tu śūdrasya sūtake vā^api bhuktavān(bhuj-) (c)/
+
+va.4.31 sa gacchet(gam-)^narakam^ghoram^tiryak.yonyām^ca jāyate(jan-) (c)//
+
+va.4.32 anirdaśāhe para.śave niyogāt^bhuktavān(bhuj-) dvijas^(c)/
+
+va.4.32 kṛmis^bhūtvā(bhū-) sa deha.ante tām^viṣṭhām^samupāśnute(sam-up-aś-).(c) iti //
+
+va.4.33 dvādaśa māsān dvādaśa^ardhamāsān vā^an.aśnan(aś-) saṃhitā.adhyayanam adhīyānas(adhi-i-)^pūtas^bhavati(bhū-)^iti vijñāyate(vi-jñā-) //
+
+va.4.34 ūna.dvi.varṣe prete(pra-i-) garbha.patane vā sapiṇḍānām^tri.rātram āśaucam //
+
+va.4.35 sadyas^śaucam iti gautamas^//
+
+va.4.36 deśa.antara.sthe prete(pra-i-)^ūrdhvam^daśa.ahāt^śrutvā(śru-)^eka.rātram āśaucam //
+
+va.4.37 āhitāgnis^cet pravasan(pra-vas-) mriyeta(mṛ-) punar^saṃskāram^kṛtvā(kṛ-) śavavat.śaucam iti gautamas^//
+
+va.4.38 yūpa.citi.śmaśāna.rajasvalā.sūtikā.aśucīn^ca spṛṣṭvā(spṛś-) sa.śiraskas^abhyupeyāt(abhi-upa-i-)^apas^iti^apas^iti //
+
+va.5.1 a.svatantrā strī puruṣa.pradhānā //
+
+va.5.2 an.agnikā^an.udakyā vā^amṛtam iti vijñāyate(vi-jñā-) //
+
+va.5.3 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.5.3 pitā rakṣati(rakṣ-) kaumāre bhartā rakṣati(rakṣ-) yauvane (c)/
+
+va.5.3 putras^ca sthavire bhāve na strī svātantryam arhati(arh-).(c) iti //
+
+va.5.4 tasyā bhartus^abhicāras^uktam^prāyaścittam^rahasyeṣu //
+
+va.5.5 māsi māsi rajas^hi^āsām^duṣkṛtāni^apakarṣati(apa-kṛṣ-) //
+
+va.5.6 tri.rātram^rajasvalā^aśucis^bhavati(bhū-) //
+
+va.5.7 sā na^añjyāt(añj-)^na^abhyañjyāt(abhi-añj-)^na^apsu snāyāt(snā-)^adhas^śayīta(śī-) na divā svapyāt(svap-)^na^agnim^spṛśet(spṛś-)^na rañjum^sṛjet(sṛj-)^na dantān dhāvayet(dhāv-)^na māṃsam aśnīyāt(aś-)^na grahān nirīkṣeta(nir-īkṣ-) na haset(has-)^na kiṃcetad ācaret(ā-car-)^na dhāvetad akharveṇa pātreṇa pibet(pā-)^añjalinā vā pibet(pā-)^lohita.ayasena vā //{bṣpṣ kiṃcetad}{f kiṃcid}{bṣpṣ dhāvetad}{f dhāved(dhāv-)}
+
+va.5.8 vijñāyate(vi-jñā-) hi / indras triśīrṣāṇam^tvāṣṭram^hatvā(han-) pāpma.gṛhītas^mahattama.adharma.saṃbaddhas^aham iti^evam ātmānam amanyata(man-) / tam^sarvāṇi bhūtāni^abhyakrośan(abhi-kruś-) bhrūṇahan bhrūṇahan^iti / sa striyas^upādhāvat^asyai me bhrūṇahatyāyai tṛtīyam^bhāgam^pratigṛhṇīta(prati-gṛh-)^iti / tā abravan(brū-) kim^no bhūyāt(bhū-)^iti / sas^abravīt(brū-)^varam^vṛṇīdhvam(vṛ-) iti / tās^abruvan(brū-)^ṛtau prajām^vindāmahe(vid-)^iti kāmam ā vijanitos^saṃbhavāma(sam-bhū-)^iti / tathā^iti tās^pratijagṛhus^sā^eṣā bhrūṇahatyā māsi-māsi^āvis^bhavati(bhū-) tasmāt^rajasvalāyā annam^na^aśnīyāt(aś-)^bhrūṇahatyāyā eva^eṣā rūpam^pratimucya(prati-muc-)^āste //
+
+va.5.9 tat^āhur(ah-)^/ añjana.abhyañjanam eva^asyās^na pratigrāhyam^tat^hi striyās^annam iti / tasmāt tasyai ca tatra ca bībhatsante(bhī-) mā^iyam upāgāt(upa-ā-gā-)^iti //
+
+va.5.10 udakyās tu^āsate(ās-) yeṣām^ye ca ke.cit^anagnayas^(c)/
+
+va.5.10 kulam^ca^aśrotriyām yeṣām^sarve te śūdra.dharmiṇas.(c) iti //
+
+va.5.10 sarve te śūdra.dharmiṇas^iti //
+
+va.6.1 ācāras^paramas^dharmas^sarveṣām iti niścayas^(c)/
+
+va.6.1 hīna.ācāra.parīta.ātmā pretya(pra-i-) ca^iha ca naśyati(naś-) (c)//
+
+va.6.2 na^enam^tapāṃsi na brahma na^agnihotram^na dakṣiṇās^(c)/
+
+va.6.2 hīna.ācāram itas^bhraṣṭam^tārayanti(tṛ-) katham.cana (c)//
+
+va.6.3 ācāra.hīnam^na punanti(pū-) vedās^yadi^api^adhītās^saha ṣaḍbhis^aṅgais^(c)/
+
+va.6.3 chandāṃsi^enam^mṛtyu.kāle tyajanti(tyaj-) nīḍam^śakuntās^iva jāta.pakṣās^(c)//
+
+va.6.4 ācāra.hīnasya tu brāhmaṇasya vedās^ṣaṭ.aṅgās tu^akhilās^sa.yajñās^(c)/
+
+va.6.4 kām^prītim utpādayitum(ud-pad-)^samarthās^andhasya dārās^iva darśanīyās^(c)//
+
+va.6.5 na^enam^chandāṃsi vṛjināt tārayanti(tṛ-) māyāvinam^māyayā vartamānam(vṛt-) (c)/
+
+va.6.5 dve^api^akṣare samyak^adhīyamāne(adhi-i-) punāti(pū-) tat^brahma yathā iṣe^abdās^(c)//
+
+va.6.6 dus.ācāras^hi puruṣas^loke bhavati(bhū-) ninditas^(c)/
+
+va.6.6 duḥkha.bhāgī ca satatam^vyādhitas^alpa.āyus^eva ca (c)//
+
+va.6.7 ācārāt phalate(phal-) dharmas^ācārāt phalate(phal-) dhanam (c)/
+
+va.6.7 ācārāt^śriyam āpnoti(āp-) ācāras^hanti(han-)^a.lakṣaṇam (c)//
+
+va.6.8 sarva.lakṣaṇa.hīnas^api yas^sat.ācāra.vān naras^(c)/
+
+va.6.8 śraddadhānas^anasūyas^ca śatam^varṣāṇi jīvati(jīv-) (c)//
+
+va.6.9 āhāra.nirhāra.vihāra.yogās^su.saṃvṛtās^dharma.vidā tu kāryās^(c)/
+
+va.6.9 vāc.buddhi.kāryāṇi tapas tathā^eva dhana.āyuṣī guptatame tu kārye (c)//
+
+va.6.10 ubhe mūtra.purīṣe divā kuryāt(kṛ-)^udaṅ.mukhas^(c)/
+
+va.6.10 rātrau tu dakṣiṇā kuryāt(kṛ-)^evam^hi^āyus^na riṣyati(riṣ-) (c)//
+
+va.6.11 prati^agnim^prati sūryam^ca prati gām^prati brāhmaṇam (c)/
+
+va.6.11 prati soma.udakam^sandhyām^prajñā naśyati(naś-) mehatas^(c)//
+
+va.6.12 na nadyām^mehanam^kuryāt(kṛ-)^na pathi na ca bhasmani (c)/
+
+va.6.12 na go.maye na kṛṣṭe na^upte na śādvala.upajīvya.chāyāsu //
+
+va.6.13 chāyāyām andhakāre vā rātrau^ahani vā dvijas^(c)/
+
+va.6.13 yathāsukha.mukhas^kuryāt(kṛ-) prāṇa.bādhābhayeṣu ca (c)//
+
+va.6.14 uddhṛtābhis^adbhis^kāryam^kuryāt(kṛ-) //
+
+va.6.15 snānam an.uddhṛtābhis^api //
+
+va.6.16 āharet(ā-hṛ-)^mṛttikām^vipras^kūlāt sasikatā tu yā (c)//
+
+va.6.17 antarjale deva.gṛhe valmīke mūṣaka.sthale (c)/
+
+va.6.17 kṛta.śauca.avaśiṣṭās^vā na grāhyās^pañca mṛttikās^(c)//
+
+va.6.18 ekā liṅge kare tisras^ubhayos^mṛd.dvayam^smṛtam (c)/
+
+va.6.18 pañca^apāne daśa^ekasmin^ubhayos^sapta mṛttikās^(c)//
+
+va.6.19 etat^śaucam^gṛhasthānām^dvi.guṇam^brahmacāriṇām (c)/
+
+va.6.19 tri.guṇam^vānaprasthānām^yatīnām^tat^catus.guṇam(c) iti //
+
+va.6.20 aṣṭau grāsās^munes^bhaktam^vānaprasthasya ṣoḍaśa (c)/
+
+va.6.20 dvātriṃśat tu gṛhasthasya^a.parimitam^brahmacāriṇas^//
+
+va.6.21 āhitāgnis^anaḍvān^ca brahmacārī ca te trayas^(c)/
+
+va.6.21 aśnantas(aś-)^eva sidhyanti(sidh-) na^eṣām^siddhis^an.aśnatām(aś-) (c)//
+
+va.6.22 vrateṣu niyameṣu ca.ijyā.adhyayana.dharmeṣu (c)//
+
+va.6.23 yogas tapas^damas^dānam^satyam^śaucam^śrutam^ghṛṇā (c)/
+
+va.6.23 vidyā vijñānam āstikyam etat^brāhmaṇa.lakṣaṇam (c)//
+
+va.6.24 dīrgha.vairam asūyā ca.a.satyam^brāhmaṇa.dūṣaṇam (c)/
+
+va.6.24 paiśunyam^nir.dayatvam^ca jānīyāt(jñā-)^śūdra.lakṣaṇam (c)//
+
+va.6.25 ye śānta.dāntās^śruti.pūrṇa.karṇās^jita.indriyās^prāṇi.vadhāt^nivṛttās^(c)/
+
+va.6.25 pratigrahe saṅkucita.agra.hastās te brāhmaṇās tārayitum(tṛ-)^samarthās^(c)//
+
+va.6.26 kim.cit^veda.mayam^pātram^kim.cit pātram^tapas.mayam (c)/
+
+va.6.26 pātrāṇām api tat pātram^śūdra.annam^yasya na^udare (c)//
+
+va.6.27 śūdra.annena^udara.sthena yadi kas.cit^mṛtas^dvijas^(c)/
+
+va.6.27 sa bhavet(bhū-)^śūkaras^grāmyas tasya vā jāyate(jan-) kule (c)//
+
+va.6.28 śūdra.anna.rasa.puṣṭa.aṅgas^hi^adhīyānas^api nityaśas^(c)/
+
+va.6.28 juhvan(hu-) vā^api japan(jap-) vā^api gatim ūrdhvām^na vindati(vid-) (c)//
+
+va.6.29 śūdra.annena tu bhuktena maithunam^yas^adhigacchati(adhi-gam-) (c)/
+
+va.6.29 yasya^annam^tasya te putrās^na ca svarga.āruhas^bhavet(bhū-) (c)//
+
+va.6.30 svādhyāya.uttham^yonimantam^praśāntam^vaitāna.stham^pāpa.bhīrum^bahu.jñam (c)/
+
+va.6.30 strīṣu kṣāntam^dhārmikam^go.śaraṇyam^vratais^klāntam^tādṛśam^pātram āhur(ah-)^(c)//
+
+va.6.31 āma.pātre yathā nyastam^kṣīram^dadhi ghṛtam^madhu (c)/
+
+va.6.31 vinaśyet(vi-naś-) pātra.daurbalyāt^na ca pātram^rasās^ca te (c)//
+
+va.6.32 evam^gās^vā hiraṇyam^vā vastram aśvam^mahīm^tilān (c)/
+
+va.6.32 avidvān(vid-) pratigṛhṇānas^bhasmībhavati(bhasmī-bhū-) kāṣṭhavat (c)//
+
+va.6.33 na^aṅga.nakha.vādanam^kuryāt(kṛ-) //
+
+va.6.34 nakhais^ca bhojana.ādau //
+
+va.6.35 na ca^apas^añjalinā pibet(pā-) //
+
+va.6.36 na pādena pāṇinā vā jalam abhihanyāt(abhi-han-) //
+
+va.6.37 na jalena jalam //
+
+va.6.38 na^iṣṭakābhis^phalam^śātayīta(śat-) //
+
+va.6.39 na phalena phalam //
+
+va.6.40 na kalkas^na kuhakas^bhavet(bhū-) //
+
+va.6.41 na mleccha.bhāṣām^śikṣeta(śikṣ-) //
+
+va.6.42 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.6.42 na pāṇi.pāda.capalas^na netra.capalas^bhavet(bhū-) (c)/
+
+va.6.42 na ca vāc.aṅga.capalas^iti śiṣṭasya gocaras^(c)//
+
+va.6.43 pāraṃparya.gatas^yeṣām^vedas^sa.paribṛṃhaṇas^(c)/
+
+va.6.43 te śiṣṭās^brāhmaṇās^jñeyās^śruti.pratyakṣa.hetavas^(c)//
+
+va.6.44 yam^na santam^na vā^asantam^na^a.śrutam^na bahu.śrutam (c)/
+
+va.6.44 na su.vṛttam^na dur.vṛttam^veda kas.cit sa brāhmaṇas^(c)//
+
+va.6.44 sa brāhmaṇas^iti //
+
+va.7.1 catvāras^āśramās^//
+
+va.7.2 brahmacāri.gṛhastha.vānaprastha.parivrājakās^//
+
+va.7.3 teṣām^vedam adhītya(adhi-i-) vedau vedān vā^a.viśīrṇa.brahmacaryas^yam icchet(iṣ-) tam āvaset(ā-vas-) //
+
+va.7.4 brahamacārī^ācāryam^paricaret(pari-car-)^ā śarīra.vimokṣaṇāt //
+
+va.7.5 ācārye ca prete(pra-i-)^agnim^paricaret(pari-car-) //
+
+va.7.6 vijñāyate(vi-jñā-) hi^agnis^ācāryas tava^iti //
+
+va.7.7 saṃyata.vāc //
+
+va.7.8 caturtha.ṣaṣṭha.aṣṭama.kāla.bhojī //
+
+va.7.9 bhaikṣam ācaret(ā-car-) //
+
+va.7.10 guru.adhīnas^//
+
+va.7.11 jaṭilas^śikhā.jaṭas^vā //
+
+va.7.12 gurum^gacchantam(gam-) anugacchet(anu-gam-)^āsīnas(ās-)^cet tiṣṭhet(sthā-)^śayānas(śī-)^cet^āsīnas(ās-)^upāsīta(upa-ās-) //
+
+va.7.13 āhūta.adhyāyī //
+
+va.7.14 sarvam^labdham^nivedya(ni-vid-) tat.anujñayā bhuñjīta(bhuj-) //
+
+va.7.15 khaṭvā.śayana.danta.dhāvana.prakṣālana.āñjana.abhyañjana.upāna.chatra.varjī //
+
+va.7.16 tiṣṭhet(sthā-)^ahani rātrau^āsīta(ās-) //
+
+va.7.17 tris^ahnas^abhyupeyāt(abhi-upa-i-)^apas^iti^apas^iti //
+
+va.8.1 gṛhasthas^vinīta.krodha.harṣas^guruṇā^anujñātas^snātvā^a.samāna.ārṣeyām a.spṛṣṭa.maithunām avara.vayasīm^sadṛśīm^bhāryām^vindeta(vid-) //
+
+va.8.2 pañcamīm^mātṛ.bandhubhyas^saptamīm^pitṛ.bandhubhyas^//
+
+va.8.3 vaivāhyam agnim indhīta(indh-) //
+
+va.8.4 sāyam āgatam atithim^na^aparundhyāt(apa-rudh-) //
+
+va.8.5 na^asya^an.aśnan(aś-) gṛhe vaset(vas-) //
+
+va.8.6 yasya na^aśnāti(aś-) vāsa.arthī brāhmaṇas^gṛham āgatas^(c)/
+
+va.8.6 sukṛtam^tasya yat kim.cit sarvam ādāya(ā-dā-) gacchati(gam-) (c)//
+
+va.8.7 eka.rātram^tu nivasan(ni-vas-)^atithis^brāhmaṇas^smṛtas^(c)/
+
+va.8.7 anityam^hi sthitas^yasmāt tasmāt^atithis^ucyate(vac-) (c)//
+
+va.8.8 na^eka.grāmīṇa atithis^vipras^sāṅgatikas tathā (c)/{grāmīṇa < grāmīṇas.}
+
+va.8.8 kāle prāpte akāle vā na^asya^an.aśnan(aś-) gṛhe vaset(vas-) (c)//
+
+va.8.9 śraddhā.śīlas^a.spṛhayālus^alam agnyādheyāya na^anāhitāgnis^syāt(as-) //
+
+va.8.10 alam^ca somāya na^a.soma.yājī //
+
+va.8.11 yuktas^svādhyāye yajñe prajanane ca //
+
+va.8.12 gṛheṣu^abhyāgatam^pratyutthāna.āsana.vāc.sūnṛta.anasūyābhis^mahayet(mah-) //
+
+va.8.13 yathā.śakti ca^annena sarvāṇi bhūtāni //
+
+va.8.14 gṛhasthas^eva yajate(yaj-) gṛhasthas tapyate(tap-) tapas^(c)/
+
+va.8.14 caturṇām āśramāṇām^tu gṛhasthas^ca viśiṣyate(vi-śiṣ-) (c)//
+
+va.8.15 yathā nadī.nadās^sarve samudre yānti(yā-) saṃsthitim (c)/
+
+va.8.15 evam āśramiṇas^sarve gṛhasthe yānti(yā-) saṃsthitim (c)//
+
+va.8.16 yathā mātaram āśritya(ā-śri-) sarve jīvanti(jīv-) jantavas^(c)/
+
+va.8.16 evam^gṛhastham āśritya(ā-śri-) sarve jīvanti(jīv-) bhikṣukās^(c)//
+
+va.8.17 nitya.udakī nitya.yajña.upavītī nitya.svādhyāyī patita.anna.varjī (c)/
+
+va.8.17 ṛtau ca gacchan(gam-) vidhivat^ca juhvan(hu-) na brāhmaṇas^cyavate(cyu-) brahma.lokāt (c)//
+
+va.8.17 brahma.lokāt^iti //
+
+va.9.1 vānaprasthas^jaṭilas^cīra.ajina.vāsī //
+
+va.9.2 grāmam^ca na praviśet(pra-viś-) //
+
+va.9.3 na phāla.kṛṣṭam adhitiṣṭhet(adhi-sthā-) //
+
+va.9.4 a.kṛṣṭam^mūla.phalam^sañcinvīta(sam-ci-) //
+
+va.9.5 urdhva.retās^//{bṣpṣ urdhva}{f ūrdhva}
+
+va.9.6 kṣama.āśayas^//
+
+va.9.7 mūla.phala.bhaikṣeṇa^āśrama.āgatam atithim abhyarcayet(abhi-arc-) //
+
+va.9.8 dadyāt(dā-)^eva na pratigṛhṇīyāt(prati-grah-) //
+
+va.9.9 tri.pavaṇam udaka.upasparśī //
+
+va.9.10 śrāmaṇakena^agnim ādhāya(ā-dhā-)^āhitāgnis^syāt(as-) //
+
+va.9.11 vṛkṣa.mūla.niketanas^ūrdhvam^ṣaḍbhyas^māsebhyas^anagnis^aniketas^//
+
+va.9.12 dadyāt(dā-)^deva.pitṛ.manuṣyebhyas^sa gacchet(gam-) svargam ānantyam iti^ānantyam //
+
+va.10.1 parivrājakas^sarva.bhūta.abhaya.dakṣiṇām^dattvā(dā-) pratiṣṭheta(prati-sthā-) //
+
+va.10.2 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.10.2 abhayam^sarva.bhūtebhyas^dattvā(dā-) carati(car-) yas^munis^(c)/
+
+va.10.2 tasya^api sarva.bhūtebhyas^na bhayam^jātu vidyate(vid-) (c)//
+
+va.10.3 abhayam^sarva.bhūtebhyas^dattvā(dā-) yas tu nivarttate(ni-vṛt-) (c)/{bṣpṣ nivarttate}{f nivartate}
+
+va.10.3 hanti(han-) jātān ajātān^ca dravyāṇi pratigṛhya(prati-grah-) ca (c)//
+
+va.10.4 sannyaset(sam-ni-as-) sarva.karmāṇi vedam ekam^na sannyaset(sam-ni-as-) (c)/
+
+va.10.4 veda.sannyasanāt^śūdras tasmāt^vedam^na sannyaset(sam-ni-as-) (c)//
+
+va.10.5 eka.akṣaram^param^brahma prāṇa.āyāmās^param^tapas^(c)/
+
+va.10.5 upavāsāt param^bhaikṣam^dayā dānāt^viśiṣyate(vi-śiṣ-).(c) iti //
+
+va.10.6 muṇḍas^a.mamas^a.parigrahas^//
+
+va.10.7 sapta^āgārāṇi^a.saṅkalpitāni caret(car-)^bhikṣām //
+
+va.10.8 vi.dhūme san(as-)^a.musale //
+
+va.10.9 eka.śāṭī.parihitas^//
+
+va.10.10 ajinena vā go.pralūnais tṛṇais^avastṛta.śarīras^//
+
+va.10.11 sthaṇḍila.śāyī //
+
+va.10.12 anityām^vasatim^vaset(vas-) //
+
+va.10.13 grāma.ante deva.gṛhe śūnya.agāre vā vṛkṣa.mūle vā //
+
+va.10.14 manasā jñānam adhīyānas^//
+
+va.10.15 araṇya.nityas^//
+
+va.10.16 na grāmya.paśūnām^sandarśane vicaret(vi-car-) //
+
+va.10.17 araṇya.nityasya jita.indriyasya sarva.indriya.prīti.nivartakasya (c)/
+
+va.10.17 adhyātma.cintā.gata.mānasasya dhruvā hi^an.āvṛttis^upekṣakasya.(c) iti //
+
+va.10.18 a.vyakta.liṅgas^a.vyakta.ācāras^//
+
+va.10.19 an.unmattas^unmatta.veṣas^//
+
+va.10.20 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.10.20 na śabda.śāstrabhiratasya mokṣas^na ca^api loka.grahaṇe ratasya (c)/{bṣpṣ śāstrabhiratasya}{f śāstra.abhiratasya} va.10.20 na bhojana.ācchādana.tatparasya na ca^api ramya.āvasatha.priyasya (c)//
+
+va.10.21 na ca^utpāta.nimittābhyām na nakṣatra.aṅga.vidyayā (c)/
+
+va.10.21 na^anuśāsana.vādābhyām^bhikṣām^lipseta(labh-) karhi.cit (c)//
+
+va.10.22 alābhe na viṣādī syāt(as-)^lābhe na^eva ca harṣayet(hṛṣ-) (c)/
+
+va.10.22 prāṇa.yātrika.mātras^syāt(as-)^mātrā.saṅgāt^vivarjitas^//
+
+va.10.23 na kuṭyām^na^udake saṅgas^na caile na tri.puṣkare (c)/
+
+va.10.23 na^agāre na^āsane na^anne yasya vai mokṣa.vid tu sas.(c) iti //
+
+va.10.24 brāhmaṇa.kule yāvat^labheta(labh-) tat^bhuñjīta(bhuj-) sāyam^prātar madhu.māṃsa.varjam //
+
+va.10.25 na ca tṛpyet(tṛp-) //
+
+va.10.26 grāme vā vaset(vas-) //
+
+va.10.27 a.jihmas^a.śaḍhas(cf^śaṭha)^a.śaraṇas^a.vasaṅkusukas(cf^kasuka)^//
+
+va.10.28 na ca^indriya.saṃsargam^kurvīta(kṛ-) kena.cit //
+
+va.10.29 upekṣakas^sarva.bhūtānām^hiṃsā.anugraha.parihāreṇa //
+
+va.10.30 paiśunya.matsara.abhimāna.ahaṅkāra.a.śraddhā.an.ārjava.ātma.stava.para.garhā.dambha.lobha.moha.krodha.asūyā.vivarjanam^sarva.āśramāṇam^dharmas^iṣṭas^//
+
+va.10.31 yajña.upavītī^uda.kamaṇḍalu.hastas^śucis^brāhmaṇas^vṛṣala.anna.varjī na hīyate(hā-) brahma.lokāt^brahma.lokāt^iti //
+
+va.11.1 ṣaṭ^argha.arhās^bhavanti(bhū-) //
+
+va.11.2 ṛtvij^vivāhyas^rājā.pitṛvya.snātaka.mātulās^ca //
+
+va.11.3 vaiśvadevasya siddhasya sāyam^prātar gṛhya.agnau juhuyāt(hu-) //
+
+va.11.4 gṛha.devatābhyas^balim^haret(hṛ-) //
+
+va.11.5 śrotriyāya^agra.bhāgam^dattvā(dā-) brahmacāriṇe vā^anantaram^pitṛbhyas^dadyāt(dā-) //
+
+va.11.6 tatas^atithim^bhojayet(bhuj-)^śreyāṃsam^śreyāṃsam ānupūrvyeṇa //
+
+va.11.7 sva.gṛhyāṇām^kumārī.bāla.vṛddha.taruṇa.prajātās^//
+
+va.11.8 tatas^aparān gṛhyān //
+
+va.11.9 śva.cāṇḍāla.patita.vāyasebhyas^bhūmau nirvapet(nir-vap-) //
+
+va.11.10 śūdrāya^ucchiṣṭam anucchiṣṭam^vā dadyāt(dā-) //
+
+va.11.11 śeṣam^dampatī bhuñjīyātām(bhuj-) //
+
+va.11.12 sarva.upayogena punar.pākas^yadi nirupte(nir-vap-) vaiśvadeve^atithis^āgacchet(ā-gam-)^viśeṣeṇa^asmai^annam^kārayet(kṛ-) //
+
+va.11.13 vijñāyate(vi-jñā-) hi / vaiśvānaras^praviśati(pra-viś-)^atithis^brāhmaṇas^gṛham^tasmāt^apas^ānayanti(ā-nī-)^annam^varṣābhyas tām^hi śāntim^janās^vidus(vid-)^iti //
+
+va.11.14 tam^bhojayitvā(bhuj-)^upāsīta(upa-ās-) //
+
+va.11.15 ā sīmāntam anuvrajet(anu-vraj-)^anujñānāt^vā //
+
+va.11.16 aparapakṣe^ūrdhvam^caturthyās^pitṛbhyas^dadyāt(dā-) //
+
+va.11.17 pūrvedyus^brāhmaṇān sannipātya(sam-ni-pat-) yatīn gṛhasthān sādhūn vā^a.pariṇata.vayasas^vikarma.sthān^śrotriyān a.śiṣyān an.antevāsinas^//
+
+va.11.18 śiṣyān api guṇa.vatas^bhojayet(bhuj-) //
+
+va.11.19 nagna.śukla.klība.andha.śyāva.danta.kuṣṭhi.kunakhi.varjam //
+
+va.11.20 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.11.20 atha cet^mantravid yuktas^śārīrais^paṅkti.dūṣaṇais^(c)/
+
+va.11.20 aduṣyam^tam^yamas^prāha(pra-ah-) paṅkti.pāvanas^eva sas^(c)//
+
+va.11.21 śrāddhe na^udvāsanīyāni ucchiṣṭāni^ā dina.kṣayāt (c)/
+
+va.11.21 ścyotante(ścyut-) hi sudhā.dhārās tās^pibanti(pā-)^a.kṛta.udakās^(c)//
+
+va.11.22 ucchiṣṭam^na pramṛjyāt(pra-mṛj-) tu yāvat^na^astamitas^ravis^(c)/
+
+va.11.22 kṣīra.dhārās tatas^yānti(yā-)^akṣayyās^sañcara.bhāginas^(c)//
+
+va.11.23 prāk saṃskārāt pramītānām^sva.vaṃśyānām iti sthitis^(c)/
+
+va.11.23 bhāga.dheyam^manus^prāha(pra-ah-) ucchiṣṭa.uccheṣaṇe ubhe (c)//
+
+va.11.24 uccheṣaṇam^bhūmi.gatam^vikiram^lepana.udakam (c)/
+
+va.11.24 annam^preteṣu visṛjet(vi-sṛj-)^a.prajānām an.āyuṣām (c)//
+
+va.11.25 ubhayos^hastayos^muktam^pitṛbhyas^annam^niveditam (c)/
+
+va.11.25 tat.antaram^pratīkṣante(prati-īkṣ-) hi^asurās^duṣṭa.cetasas^(c)//
+
+va.11.26 tasmāt^a.śūnya.hastena kuryāt(kṛ-)^annam upāgatam (c)/
+
+va.11.26 bhojanam^vā samālabhya(sam-ā-labh-) tiṣṭheta(sthā-)^uccheṣaṇe ubhe (c)//
+
+va.11.27 dvau daive pitṛ.kṛtye trīn ekaikam ubhayatra vā (c)//
+
+va.11.27 bhojayet(bhuj-) su.samṛddhas^api na prasajjeta(pra-sañj-) vistare (c)//
+
+va.11.28 sat.kriyām^deśa.kālau ca śaucam^brāhmaṇa.saṃpadam (c)/
+
+va.11.28 pañca^etān vistaras^hanti(han-) tasmāt tam^parivarjayet(pari-vṛj-) (c)//
+
+va.11.29 api vā bhojayet(bhuj-)^ekam^brāhmaṇam^veda.pāragam (c)/
+
+va.11.29 śruta.śīla.upasaṃpannam^sarva.a.lakṣaṇa.varjitam (c)//
+
+va.11.30 yadi^ekam^bhojayet(bhuj-)^śrāddhe daivam^tatra katham^bhavet(bhū-) (c)/
+
+va.11.30 annam^pātre samuddhṛtya(sam-ud-hṛ-) sarvasya prakṛtasya tu (c)//
+
+va.11.31 devatā.āyatane kṛtvā(kṛ-) tatas^śrāddham^pravartayet(pra-vṛt-) (c)/
+
+va.11.31 prāsyet(pra-as-)^agnau tat^annam^vā dadyāt(dā-)^vā brahmacāriṇe (c)//
+
+va.11.32 yāvat^uṣṇam^bhavati(bhū-)^annam^yāvat^aśnanti(aś-) vāc.yatās^(c)/
+
+va.11.32 tāvat^hi pitaras^aśnanti(aś-) yāvat^na^uktās(vac-)^havis.guṇās^(c)//
+
+va.11.33 havis.guṇās^na vaktavyās(vac-)^pitaras^yāvat^a.tarpitās^(c)/
+
+va.11.33 pitṛbhis tarpitais^paścāt^vaktavyam(vac-)^śobhanam^havis^(c)//
+
+va.11.34 niyuktas tu yatis^śrāddhe daive vā māṃsam utsṛjet(ud-sṛj-) (c)/
+
+va.11.34 yāvanti paśu.romāṇi tāvat^narakam ṛcchati(ṛ-) (c)//
+
+va.11.35 trīṇi śrāddhe pavitrāṇi dauhitras^ku.tapas tilās^(c)/
+
+va.11.35 trīṇi ca^atra praśaṃsānti(pra-śaṃs-) śaucam a.krodham a.tvarām (c)//
+
+va.11.36 divasasya^aṣṭame bhāge mandībhavati(mandī-bhū-) bhāskaras^(c)/
+
+va.11.36 sa kālas^ku.tapas^jñeyas(jñā-)^pitṝṇām^dattam akṣayam (c)//
+
+va.11.37 śrāddham^dattvā(dā-) bhuktvā(bhuj-) ca maithunam^yas^adhigacchati(adhi-gam-) (c)/
+
+va.11.37 bhavanti(bhū-) pitaras tasya tat.māsam^retasas^bhujas^(c)//
+
+va.11.38 yas tatas^jāyate(jan-) garbhas^dattvā(dā-) bhuktvā(bhuj-) ca paitṛkam (c)/
+
+va.11.38 na sa vidyām^samāpnoti(sam-āp-) kṣīṇa.āyus^ca^eva jāyate(jan-) (c)//
+
+va.11.39 pitā pitāmahas^ca^eva tathā^eva prapitāmahas^(c)/
+
+va.11.39 upāsate(upa-ās-) sutam^jātam^śakuntās^iva pippalam (c)//
+
+va.11.40 madhu.māṃsais^ca śākais^ca payasā pāyasena ca (c)/
+
+va.11.40 eṣa nas^dāsyati(dā-) śrāddham^varṣāsu ca maghāsu ca (c)//
+
+va.11.41 santāna.varddhanam^putram udyatam(ud-yam-)^pitṛ.karmaṇi (c)/{bṣpṣ varddhanam}{e vardhanam}
+
+va.11.41 deva.brāhmaṇa.saṃpannamabhinandanti(abhi-nand-) pūrva.jās^(c)//
+
+va.11.42 nandanti(nand-) pitaras tasya su.kṛṣṭais^iva karṣakās^(c)/
+
+va.11.42 yat^gayā.sthas^dadāti(dā-)^annam^pitaras tena putriṇas.(c) iti //
+
+va.11.43 śrāvaṇī.āgrahāyiṇyos^ca^anvaṣṭakyām^ca pitṛbhyas^dadyāt(dā-) //{bṣpṣ āgrahāyiṇyos}{f āgrahāyaṇyos}
+
+va.11.44 dravya.deśa.brāhmaṇa.sannidhāne vā^akāla.niyamas^//
+
+va.11.45 avaśyam^brāhmaṇas^agnīn ādadhīta(ā-dhā-) //
+
+va.11.46 darśapūrṇamāsa.āgrayaṇa.iṣṭi.cāturmāsya.paśu.somais^ca yajeta(yaj-) //
+
+va.11.47 naiyamikam^hi^etat^ṛṇa.saṃstutam^ca //
+
+va.11.48 vijñāyate(vi-jñā-) hi / tribhis^ṛṇais^ṛṇavān brāhmaṇas^jāyate(jan-)^iti / yajñena devebhyas^prajayā pitṛbhyas^brahmacaryeṇa ṛṣibhyas^iti^eṣa vā^anṛṇas^yajvā yas^putrī brahmacaryavān iti //
+
+va.11.49 garbha.aṣṭameṣu brāhmaṇam upanayīta(upa-nī-) //{bṣpṣ garbha.aṣṭameṣu}{f garbhāt. aṣṭameṣu}
+
+va.11.50 garbhāt^ekādaśeṣu rājanyam //
+
+va.11.51 garbhāt^dvādaśeṣu vaiśyam //
+
+va.11.52 pālāśas^vā daṇḍas^brāhmaṇasya //
+
+va.11.53 naiyyagrodhas^kṣatriyasya vā //
+
+va.11.54 audumbaras^vā vaiśyasya //
+
+va.11.55 keśa.saṃmitas^brāhmaṇasya //
+
+va.11.56 lalāṭa.saṃmitas^kṣatriyasya //
+
+va.11.57 ghrāṇa.saṃmitas^vaiśyasya //
+
+va.11.58 mauñjī raśanā brāhmaṇasya //
+
+va.11.59 dhanus.jyā kṣatriyasya //
+
+va.11.60 śaṇa.tāntavī vaiśyasya //
+
+va.11.61 kṛṣṇa.ajinam uttarīyam^brāhmaṇasya //
+
+va.11.62 rauravam^kṣatriyasya //
+
+va.11.63 gavyam^basta.ajinam^vā vaiśyasya //
+
+va.11.64 śuklam ahatam^vāsas^brāhmaṇasya //
+
+va.11.65 māñjiṣṭham^kṣatriyasya //
+
+va.11.66 hāridram^kauśeyam^vā vaiśyasya //
+
+va.11.67 sarveṣām^vā tāntavam a.raktam //
+
+va.11.68 bhavat.pūrvām^brāhmaṇas^bhikṣām^yācet(yāc-) //
+
+va.11.69 bhavat.madhyām^rājanyas^//
+
+va.11.70 bhavat.antyām^vaiśyas^//
+
+va.11.71 ā ṣoḍaśāt^brāhmaṇasya na^atītas^kālas^//
+
+va.11.72 ā dvāviṃśāt kṣatriyasya //
+
+va.11.73 ā caturviṃśāt^vaiśyasya //
+
+va.11.74 atas^ūrdhvam^patita.sāvitrīkās^bhavanti(bhū-) //
+
+va.11.75 na^etān upanayet(upa-nī-)^na^adhyāpayet(adhi-i-)^na yājayet(yaj-)^na^ebhis^vivāhayeyus(vi-vah-)^//
+
+va.11.76 patita.sāvitrīkas^uddālaka.vratam^caret(car-) //
+
+va.11.77 dvau māsau yāvakena vartayet(vṛt-)^māsam^payasā^ardha.māsam āmikṣayā^aṣṭa.rātram^ghṛtena ṣaṭ.rātram a.yācitena tri.rātram ab.bhakṣas^ahar.rātram upavaset(upa-vas-) //
+
+va.11.78 aśvamedha.avabhṛtham^gacchet(gam-) //
+
+va.11.79 vrātya.stomena vā yajet(yaj-)^vā yajet(yaj-)^vā^iti //
+
+va.12.1 atha^atas^snātaka.vratāni //
+
+va.12.2 sa na kam.cit^yāceta(yāc-)^anyatra rāja.antevāsibhyas^//
+
+va.12.3 kṣudhā.parītas tu kim.cit^eva yāceta(yāc-) kṛtam akṛtam^vā kṣetram^gām aja.avikam antatas^hiraṇyam^dhānyam annam^vā //
+
+va.12.4 na tu snātakas^kṣudhā^avasīdet(ava-sad-)^iti^upadeśas^//
+
+va.12.5 na malina.vāsasā saha saṃvaseta(sam-vas-) //
+
+va.12.6 na rajasvalayā //
+
+va.12.7 na^a.yogyayā //
+
+va.12.8 na kulaṃkulas^syāt(as-) //
+
+va.12.9 vatsa.tantrīm^vitatām^na^atikrāmet(ati-kram-) //
+
+va.12.10 na^udyantam(ud-i-) ādityam^paśyet(paś-)^na^astam^yantam(i-) //
+
+va.12.11 na^apsu mūtra.purīṣe kuryāt(kṛ-) //
+
+va.12.12 na niṣṭhīvet(ni-ṣṭhiv-) //
+
+va.12.13 pariveṣṭita.śirās^bhūmim ayajñiyais tṛṇais^antardhāya(antar-dhā-) mutra.purīṣe kuryāt(kṛ-)^udaṅ.mukhas^ca^ahani naktam^dakṣiṇā.mukhas^sandhyām āsīta(ās-)^uttaram //{bṣpṣ mutra.purīṣe}{f mūtra.purīṣe}
+
+va.12.14 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.12.14 snātakānām^tu nityam^syāt(as-)^antarvāsas tathā^uttaram (c)/
+
+va.12.14 yajña.upavīte dve yaṣṭis^sa.udakas^ca kamaṇḍalus^(c)//
+
+va.12.15 apsu pāṇau ca kāṣṭhe ca kathitam^pāvake śucis^(c)/
+
+va.12.15 tasmāt^udaka.pāṇibhyām^parimṛjyāt(pari-mṛj-) kamaṇḍalum (c)//
+
+va.12.16 paryagni.karaṇam^hi^etat^manus^āha(ah-) prajāpatis^(c)//
+
+va.12.17 kṛtvā(kṛ-) ca^avaśya.karmāṇi ācāmet(ā-cam-)^śauca.vittamas.(c) iti //
+
+va.12.18 prāṅ.mukhas^annāni bhuñjīta(bhuj-) //
+
+va.12.19 tūṣṇīm^sa.aṅguṣṭham^kṛtsna.grāsam^graseta(gras-) //
+
+va.12.20 na ca śabdam^kuryāt(kṛ-) //
+
+va.12.21 ṛtu.kāla.gāmī syāt(as-) parva.varjam^sva.dāreṣu //
+
+va.12.22 a.tiryak^upeyāt(upa-i-) //
+
+va.12.23 yas tu pāṇigṛhītāyās^āsye kurvīta(kṛ-) maithunam (c)/
+
+va.12.23 bhavanti(bhū-) pitaras tasya tat.māsam^retasas^bhujas^(c)/
+
+va.12.23 yā syāt(as-)^a.nitya.cāreṇa ratis^sā^a.dharma.saṃśritā (c)//
+
+va.12.24 api ca kāṭhake vijñāyate(vi-jñā-) / api nas^śvas^vijaniṣyamāṇās(vi-jan-)^patibhis^saha śayīran(śī-)^iti strīṇām indra.dattas^varas^iti //
+
+va.12.25 na vṛkṣam ārohet(ā-ruh-) //
+
+va.12.26 na kūpam avarohet(ava-ruh-) //
+
+va.12.27 na^agnim^mukhena^upadhamet(upa-dhmā-) //
+
+va.12.28 na^agnim^brāhmaṇam^ca^antareṇa vyapeyāt(vi-apa-i-) //
+
+va.12.29 na^agnyos^//
+
+va.12.30 na brāhmaṇayos^anujñāpya(anu-jñā-) vā //
+
+va.12.31 bhāryayā saha na^aśnīyāt(aś-)^a.vīryavat^a.patyam^bhavati(bhū-)^iti vājasaneyake vijñāyate(vi-jñā-) //
+
+va.12.32 na^indra.dhanus.nāmnā nirdiśet(nir-diś-) //
+
+va.12.33 maṇi.dhanus.iti brūyāt(brū-) //
+
+va.12.34 pālāśam āsanam^pāduke danta.dhāvanam iti varjayet(vṛj-) //
+
+va.12.35 na^utsaṅge bhakṣayet(bhakṣ-) //
+
+va.12.36 na^āsandyām^bhuñjīta(bhuj-) //
+
+va.12.37 vaiṇavam^daṇḍam^dhārayet(dhṛ-) //
+
+va.12.38 rukma.kuṇḍale ca //
+
+va.12.39 na bahis^mālām^dhārayet(dhṛ-)^anyatra rukma.mayyā //
+
+va.12.40 sabhās^samavāyān^ca varjayet(vṛj-) //
+
+va.12.41 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.12.41 a.prāmāṇyam^ca vedānām ārṣāṇām^ca^eva kutsanam (c)/
+
+va.12.41 a.vyavasthā ca sarvatra etat^nāśanam ātmanas.(c) iti //
+
+va.12.42 na^a.vṛtas^yajñam^gacchet(gam-)^yadi vrajet(vraj-) pradakṣiṇam^punar āvrajet(ā-vraj-) //
+
+va.12.43 adhi.vṛkṣa.sūryam adhvānam^na pratipadyeta(prati-pad-) //
+
+va.12.44 nāvam^ca sāṃśayikīm^na^adhirohet(adhi-ruh-) //
+
+va.12.45 bāhubhyām^na nadīm^taret(tṛ-) //
+
+va.12.46 utthāya(ud-sthā-)^apara.rātram adhītya(adhi-i-) na punas^pratisaṃviśet(prati-sam-viś-) //
+
+va.12.47 prājāpatye muhūrte brāhmaṇas^kān.cit^niyamān anutiṣṭhet(anu-sthā-)^anutiṣṭhet(anu-sthā-)^iti //
+
+va.13.1 atha^atas^svādhyāya.upākarma śrāvaṇyām paurṇamāsyām^prauṣṭhapadyām^vā //
+
+va.13.2 agnim upasamādhāya(upa-sam-ā-dhā-)^akṣata.dhānās^juhoti(hu-) //
+
+va.13.3 devebhyas^ṛṣibhyas^chandobhyas^ca^iti //
+
+va.13.4 brāhmaṇān svasti.vācya(vāc-) dadhi prāśya(pra-aś-) tatas^adhyāyān upākurvīran(upa-ā-kṛ-) //
+
+va.13.5 ardha.pañcamān māsān ardha.ṣaṣṭhān vā //
+
+va.13.6 atas^ūrdhvam^śuklapakṣeṣu^adhīyīta(adhi-i-) //
+
+va.13.7 kāmam^tu veda.aṅgāni //
+
+va.13.8 tasya^an.adhyāyās^//
+
+va.13.9 sandhyā.stanite //
+
+va.13.10 sandhyāsu //
+
+va.13.11 antar.śava.divā.kīrtyeṣu nagareṣu //
+
+va.13.12 kāmam^gomaya.paryuṣite parilikhite vā //
+
+va.13.13 śmaśāna.ante //
+
+va.13.14 śaya.ānasya //
+
+va.13.15 śrāddhikasya //
+
+va.13.16 mānavam^ca^atra ślokam udāharanti(ud-ā-hṛ-) /
+
+va.13.16 phalāni^apas tilān bhakṣān yat^ca^anyat^śrāddhikam^bhavet(bhū-) (c)/
+
+va.13.16 pratigṛhya(prati-grah-)^api^an.adhyāyas^pāṇi.āsyās^brāhmaṇās^smṛtās.(c) iti //
+
+va.13.17 dhāvatas(dhāv-)^pūti.gandha.prabhṛtau^īriṇe //
+
+va.13.18 vṛkṣa.ārūḍhasya //
+
+va.13.19 nāvi senāyām^ca //
+
+va.13.20 bhuktvā(bhuj-) ca^ārdra.pāṇes^//
+
+va.13.21 vāṇa.śabde //
+
+va.13.22 caturdaśyām āmāvāsyāyām aṣṭamyām aṣṭakāsu //
+
+va.13.23 prasārita.pāda.upastha.kṛta.upāśritasya ca //
+
+va.13.24 guru.samīpe //
+
+va.13.25 maithuna.vyapetāyām //
+
+va.13.26 vāsasā maithuna.vyapetena^a.nirṇiktena //
+
+va.13.27 grāma.ante //
+
+va.13.28 charditasya //
+
+va.13.29 mūtritasya^uccāritasya //
+
+va.13.30 ṛc.yajuṣām^ca sāma.śabde vā //
+
+va.13.31 ajīrṇe //
+
+va.13.32 nirghāte //
+
+va.13.33 bhūmi.calane //
+
+va.13.34 candra.sūrya.uparāge //
+
+va.13.35 diś.nāda.parvata.prapāteṣu^upala.rudhira.pāṃsu.varṣeṣu^ākālikam //
+
+va.13.36 ulkā.vidyut.samāse tri.rātram //
+
+va.13.37 ulkā.vidyut sajyotiṣam //
+
+va.13.38 apa.ṛtau^ākālikam //
+
+va.13.39 ācārye prete(pra-i-) tri.rātram //
+
+va.13.40 ācārya.putra.śiṣya.bhāryāsu^ahar.rātram //
+
+va.13.41 ṛtvij.śvaśura.pitṛvya.mātulān an.avara.vayasas^pratyutthāya(prati-ud-sthā-)^abhivadet(abhi-vad-) //
+
+va.13.42 ye ca^eva pāda.grāhyās teṣām^bhāryā guros^ca //
+
+va.13.43 mātā.pitarau ca //
+
+va.13.44 yas^vidyāt(vid-)^abhivaditum(abhi-vad-) aham ayam^bho iti yāt //
+
+va.13.45 yas^ca na vidyāt(vid-) //
+
+va.13.46 pratyabhivādam āmantrite svaras^antyas^plavate(plu-) sandhi.akṣaram a.pragṛhyam āya.āva.bhāvam^ca^āpadyate(ā-pad-) yathā bho bhāv iti //
+
+va.13.47 patitas^pitā parityājyas^mātā tu putre na patati(pat-) //
+
+va.13.48 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.13.48 upādhyāyāt^daśa^ācāryās^ācāryāṇām^śatam^pitā (c)/
+
+va.13.48 pitus^daśaśatam^mātā gauraveṇa^atiricyate(ati-ric-) (c)//
+
+va.13.49 bhāryā putrās^ca śiṣyās^ca saṃsṛṣṭās^pāpa.karmabhis^(c)/
+
+va.13.49 paribhāṣya(pari-bhāṣ-) parityājyās(pari-traj-)^patitas^yas^anyathā tyajet(tyaj-) (c)//
+
+va.13.50 ṛtvij.ācāryau^a.yājaka.an.adhyāpakau heyau(hā-)^anyatra hānāt patati(pat-) //
+
+va.13.51 patitena^utpannas^patitas^bhavati(bhū-)^iti^ āhur(ah-)^anyatra striyās^//
+
+va.13.52 sā hi para.gāminī //
+
+va.13.53 tām a.rikthām upeyāt(upa-i-) //
+
+va.13.54 guros^gurau sannihite guruvat.vṛttis^iṣyate(iṣ-) (c)/
+
+va.13.54 guruvat^guru.putrasya vartitavyam(vṛt-) iti śrutis^(c)//
+
+va.13.55 śastram^viṣam^surā ca^a.pratigṛhyāṇi(prati-grah-) brāhmaṇasya //
+
+va.13.56 vidyā.vitta.vayas.saṃbandhās^karma ca mānyam(man-) //
+
+va.13.57 pūrvas^pūrvas^garīyān //
+
+va.13.58 sthavira.bāla.atura.bhārika.strī.cakrīvagatām^panthās^samāgame parasmai.parasmai deyas(dā-)^//{bṣpṣ cakrīvagatām}{f cakrīvatām}
+
+va.13.59 rāja.snātakayos^samāgame rājñā snātakāya deyas(dā-)^//
+
+va.13.60 sarvais^eva vadhvai^ūhyamānāyai(ūh-) //
+
+va.13.61 tṛṇa.bhūmi.agni.udaka.vāc.sūnṛta.anasūyās^satām^gṛhe na^ucchidyante(ud-chid-) kadā.cana kadā.cana^iti //
+
+va.14.1 atha^atas^bhojya.abhojyam^ca varṇayiṣyāmas(varṇ-)^//
+
+va.14.2 cikitsaka.mṛgayu.puṃścalī.daṇḍika.stena.abhiśasta.ṣaṇḍha.patitānām annam abhojyam //
+
+va.14.3 kadarya.dīkṣita.baddha.ātura.somavikrayi.takṣa.rajaka.śauṇḍika.sūcaka.vārdhuṣika.carmāvakṛntānām //
+
+va.14.4 śūdrasya ca //
+
+va.14.5 astra.bhṛtas^ca //
+
+va.14.6 upapates^yas^ca^upapatim^manyate(man-) //
+
+va.14.7 yas^ca gṛhān dahet(dah-) //
+
+va.14.8 yas^ca vadha.arhān na^upahanyāt(upa-han-) //
+
+va.14.9 kas^bhokṣyate(bhuj-)^iti vācā^abhighuṣṭam //
+
+va.14.10 gaṇa.annam^gaṇikā.annam^ca^iti //
+
+va.14.11 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.14.11 na^aśnanti(aś-) śvavatas^devās^na^aśnanti(aś-) vṛṣalī.pates^(c)/
+
+va.14.11 bhāryā.jitasya na^aśnanti(aś-) yasya ca^upapatis^gṛhe.(c) iti //
+
+va.14.12 edha.udaka.yavasa.kuśa.lājā.abhyudyata.yānā.vasatha.śapharī.priyaṅgu.sraj.gandha.madhu.māṃsāni^iti^eteṣām^pratigṛhṇīyāt(prati-grah-) //
+
+va.14.13 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.14.13 guru.artham^dāram ujjihīrṣan(ud-hṛ-)^arciṣyan(arc-) devatā.atithīn (c)/
+
+va.14.13 sarvatas^pratigṛhṇīyāt(prati-grah-)^na tu tṛpyet(tṛp-) svayam^tatas.(c) iti //
+
+va.14.14 na mṛgayos^iṣu.cāriṇas^parivarjyam annam //
+
+va.14.15 vijñāyate(vi-jñā-) hi / agastyas^varṣa.sāhasrike satre mṛgayām^cacāra(car-) / tasya^a.saṃstara.samayās^puroḍāśās^mṛgapakṣiṇām^praśastānām //{bṣpṣ satre}{f sattre}
+
+va.14.16 api hi^atra prājāpatyān^ślokān udāharanti(ud-ā-hṛ-) /
+
+va.14.16 udyatām āhṛtām^bhikṣām^purastāt^apracoditām (c)/
+
+va.14.16 bhojyām^prajāpatis^mene(man-) api duṣkṛta.kāriṇas^(c)//
+
+va.14.17 śraddadhānasya(śrad-dhā-) bhoktavyam(bhuj-)^corasya^api viśeṣatas^(c)/
+
+va.14.17 na tu^eva bahu.yājyasya yas^ca^upanayate(upa-nī-) bahūn (c)//
+
+va.14.18 na tasya pitaras^aśnanti(aś-) daśa varṣāṇi pañca ca (c)/
+
+va.14.18 na ca havyam^vahati(vah-)^agnis^yas tām abhyavamanyate(abhi-ava-man-) (c)//
+
+va.14.19 cikitsakasya mṛgayos^śalya.hartus tu pāpinas^(c)/
+
+va.14.19 ṣaṇḍhasya kulaṭāyās^ca udyatā^api na gṛhyate(grah-).(c) iti //
+
+va.14.20 ucchiṣṭam a.guros^a.bhojyam //
+
+va.14.21 svam ucchiṣṭam ucchiṣṭa.upahatam^ca //
+
+va.14.22 yat^vasana.keśa.kīṭa.upahatam^ca //
+
+va.14.23 kāmam^tu keśa.kīṭān uddhṛtya(ud-hṛ-)^adbhis^prokṣya(pra-ukṣ-) bhasmanā^avakīrya(ava-kṝ-) vācā praśastam upayuñjīta(upa-yuj-) //
+
+va.14.24 api hi^atra prājāpatyān^ślokān udāharanti(ud-ā-hṛ-) /
+
+va.14.24 trīṇi devās^pavitrāṇi brāhmaṇānām akalpayan(kḷp-) (c)/
+
+va.14.24 a.dṛṣṭam adbhis^nirṇiktam^yat^ca vācā praśasyate(pra-śaṃs-) (c)//
+
+va.14.25 deva.droṇyām^vivāheṣu yajñeṣu prakṛteṣu ca (c)/
+
+va.14.25 kākais^śvabhis^ca saṃspṛṣṭam annam tat^na visarjayet(vi-sṛj-) (c)/
+
+va.14.26 tasmāt^annam apoddhṛtya(apa-ud-hṛ-) śeṣam^saṃskāram arhati(arh-) (c)/
+
+va.14.26 dravāṇām^plāvanena^eva ghanānām^prokṣaṇena tu (c)//
+
+va.14.27 mārjāra.mukha.saṃspṛṣṭam^śuci eva hi tat^bhavet(bhū-) (c)//
+
+va.14.28 annam^paryuṣitam^bhāva.duṣṭam^sahṛd.lekham^punar.siddham āma.māṃsam^pakvam^ca //
+
+va.14.29 kāmam^tu dadhnā ghṛtena vā^abhighāritam upayuñjīta(upa-yuj-) //
+
+va.14.30 api hi^atra prājāpatyān^ślokān udāharanti(ud-ā-hṛ-) /
+
+va.14.30 ghṛtam^vā yadi vā tailam^vipras^na^adyāt(ad-)^nakha.ścyutam (c)/
+
+va.14.30 yamas tat^aśuci prāha(pra-ah-) tulyam^go.māṃsa.bhakṣaṇais^(c)//
+
+va.14.31 hasta.dattās tu ye snehās^lavaṇa.vyañjanāni ca (c)/
+
+va.14.31 dātāram^na^upatiṣṭhanti(upa-sthā-) bhoktā bhuñjīta(bhuj-) kilbiṣam (c)//
+
+va.14.32 pradadyāt(pra-dā-)^ na tu hastena na^āyasena kadā.cana.(c) iti //
+
+va.14.33 laśuna.palāṇḍu.kyāku.gṛñjana.śleṣmāntaka.vṛkṣa.niryāsa.lohita.vraścana.śva.kāka.avalīḍha.śūdra.uccheṣaṇa.bhojaneṣu^atikṛcchras^//
+
+va.14.34 sandhinī.kṣīram a.vatsā.kṣīram //
+
+va.14.35 go.mahiṣi.ajānām anirdaśa.ahānām //
+
+va.14.36 antar.nāvi^udakam //
+
+va.14.37 apūpa.dhānā.karambha.saktu.vaṭaka.taila.pāyasa.śākāni śuktāni varjayet(vṛj-) //
+
+va.14.38 anyān^ca kṣīra.yava.piṣṭa.vikārān //
+
+va.14.39 śvāvidh.śalyaka.śaśa.kacchapa.godhās^pañca.nakhānām^bhakṣyās(bhakṣ-)^//
+
+va.14.40 an.uṣṭrās^paśūnām anyatas.dantās^ca //
+
+va.14.41 matsyānām^vā ceṭa.gavaya.śiśumāra.nakra.kulīrās^//
+
+va.14.42 vikṛta.rūpās^sarpa.śīrṣās^ca //
+
+va.14.43 gaura.gavaya.śarabhās^ca //
+
+va.14.44 an.uddiṣṭās tathā //
+
+va.14.45 dhenu.anaḍuhau^apanna.dantān^ca //
+
+va.14.46 bhakṣyau(bhakṣ-) tu dhenu.anaḍuhau medhyau vājasaneyake vijñāyate(vi-jñā-) //
+
+va.14.47 khaḍge tu vivadanti(vi-vad-)^a.grāmya.śūkare ca //
+
+va.14.48 śakunānām^ca viṣuviṣkara.jālapāda.kalaviṅka.plava.haṃsa.cakravāka.bhāsa.vāyasa.pārāvata.kurara.sāraṅga.pāṇḍu.kapota.krauñca.krakara.kaṅka.gṛdhra.śyena.baka.balāka.madgu.ṭiṭṭibha.māndhāla.naktañcara.dārvāghāṭa.cakaṭa.railātakā.hārīta.khañjarīṭa.grāmyakukkuṭa.śuka.śārika.kokila.kravyādas^grāma.cāriṇas^ca grāma.cāriṇas^ca^iti //
+
+va.15.1 śoṇita.śukra.saṃbhavas^puruṣas^bhavati(bhū-) mātā.pitṛ.nimittakas^//
+
+va.15.2 tasya pradāna.vikraya.tyāgeṣu mātā.pitarau prabhavatas(pra-bhū-)^//
+
+va.15.3 na tu^ekam^putram^dadyāt(dā-) pratigṛhṇīyāt(prati-grah-)^vā //
+
+va.15.4 sa hi santānāya pūrveṣām //
+
+va.15.5 na strī putram^dadyāt(dā-) pratigṛhṇīyāt(prati-grah-)^vā^anyatra^anujñānāt(anu-jñā-)^bhartus^//
+
+va.15.6 putram^pratigṛhīṣyan(prati-grah-) bandhūn āhūya(ā-hū-) rājani ca nivedya(ni-vid-) niveśanasya madhye vyāhṛtibhis^hutvā(hu-)^adūra.bāndhavam^bandhu.sannikṛṣṭam eva pratigṛhṇīyāt(prati-grah-) //
+
+va.15.7 sandehe ca^utpanne dūre.bāndhavam^śūdram iva sthāpayet(sthā-) //
+
+va.15.8 vijñāyate(vi-jñā-) hi^ekena bahūn^trāyate(tṛ-)^iti //
+
+va.15.9 tasmin^cet pratigṛhīte^aurasas^putras^utpadyeta(ud-pad-) caturtha.bhāga.bhāgī syāt(as-)^dattakas^//
+
+va.15.10 yadi na^ābhyudayikeṣu yuktas^syāt(as-) //
+
+va.15.11 veda.viplāvakas^śūdra.yājakas^uttama.varṇa.varga.patitās teṣām^pātra.ninayanam //
+
+va.15.12 a.pātra.saṅkarāt^a.kṛtsnam^pātram ādāya(ā-dā-) dāsas^a.savarṇā.putras^vā bandhus^a.sadṛśas^vā guṇa.hīnas^savyena pādena pravṛtta.agrān darbhān^lohitān vā^upastīrya(upa-stṝ-) pūrṇa.pātram asmai ninayet(ni-nī-) //
+
+va.15.13 ninetāram^ca^asya prakīrṇa.keśās^jñātayas^anvālabheran(anu-ā-labh-) //
+
+va.15.14 apasavyam^kṛtvā(kṛ-) gṛheṣu svairam āpadyeran(ā-pad-) //
+
+va.15.15 atas^ūrdhvam^na tam^dharmayeyus(dharmay-)(cf^dharmāy-)^//
+
+va.15.16 tat.dharmāṇas tam^dharmayantas(dharmay-)(cf^dharmāy-)^//
+
+va.15.17 patitānām^tu carita.vratānām^pratyuddhāras^//
+
+va.15.18 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.15.18 agre^abhyuddharatām(abhi-ud-hṛ-)^gacchet(gam-) krīḍan(krīḍ-)^iva hasan(has-)^iva (c)/
+
+va.15.18 paścāt pātayatām(pat-)^gacchet(gam-)^śocan(śuc-)^iva rudan(rud-)^iva.(c) iti //
+
+va.15.19 ācārya.mātṛ.pitṛ.hantāras tat.prasādāt^apayāpyāt^vā eṣā teṣām^pratyāpattis^//
+
+va.15.20 puṇya.hradāt prasṛtāt^vā kāñcanam^pātram^māheyam^vā pūrayitvā^āpas.hi.ṣṭhābhis^enam adbhis^abhiṣiñcanti(abhi-sic-) //(cf^.9.1 obhtūrjhātana / mahṇāya ce //)
+
+va.15.21 sarve^eva^abhiṣiktasya pratyuddhāras^putra.janmanā vyākhyātas^vyākhyātas^iti //
+
+va.16.1 atha vyavahārās^//
+
+va.16.2 rājā mantrī vā sadas.kāryāṇi kuryāt(kṛ-) //
+
+va.16.3 dvayos^vivadamānayos(vi-vad-)^pakṣa.antaram^na gacchet(gam-) //
+
+va.16.4 yathā.āsanam aparādhohī^antena^aparādhas^//
+
+va.16.5 samas^sarveṣu bhūteṣu yathā.āsanam aparādhohī^ādya.varṇayos^vidyā.antatas^//
+
+va.16.6 saṃpannam^ca rakṣayet(rakṣ-) //
+
+va.16.7 rāja.bāla.dhanāni //
+
+va.16.8 a.prāpta.vyavahārāṇām //
+
+va.16.9 prāpta.kāle tu tat^yat //
+
+va.16.10 likhitam^sākṣiṇas^bhuktis^pramāṇam^tri.vidham^smṛtam (c)/
+
+va.16.10 dhana.svīkaraṇam^pūrvam^dhanī dhanam avāpnuyāt(ava-āp-).(c) iti //
+
+va.16.11 mārga.kṣetrebhyas^visargas tathā parivarttanam //{bṣpṣ parivarttanam}{f parivartanam}
+
+va.16.12 taruṇa.gṛheṣu^artha.antareṣu tri.pāda.mātram //
+
+va.16.13 gṛha.kṣetra.virodhe sāmanta.pratyayas^//
+
+va.16.14 sāmanta.virodhe lekhya.pratyayas^//
+
+va.16.15 pratyabhilekhya.virodhe grāma.nagara.vṛddha.śreṇī.pratyayas^//
+
+va.16.16 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.16.16 paitṛkam^krītam ādheyam anvādheyam^pratigraham (c)/ va.16.16 yajñāt^upagamas^veṇis tathā dhūma.śikhā^aṣṭamī.(c) iti //
+
+va.16.17 tatra bhukta.anubhukta.daśa.varṣam //
+
+va.16.18 anyathā^api^udāharanti(ud-ā-hṛ-) /
+
+va.16.18 ādhis^sīmā bāla.dhanas^nikṣepa.upanidhi.striyas^(c)/
+
+va.16.18 rāja.svam^śrotriya.dravyam^na saṃbhogena hīyate(hā-) (c)//
+
+va.16.19 prahīṇa.dravyāṇi rāja.gāmīni bhavanti(bhū-) //
+
+va.16.20 tatas^anyathā rājā mantribhis^saha nāgarais^ca kāryāṇi kuryāt(kṛ-) //
+
+va.16.21 vedhasas^vā rājā śreyān gṛdhra.parivāram^syāt(as-) //
+
+va.16.22 gṛdhra.parivāram^vā rājā śreyān //
+
+va.16.23 gṛdhra.parivāram^syāt(as-)^na gṛdhras^gṛdhra.parivāram^syāt(as-) //
+
+va.16.24 parivārāt^hi doṣās^prādurbhavanti(prādur-bhū-) //
+
+va.16.25 steya.hāra.vināśanam^ca //
+
+va.16.26 tasmāt pūrvam eva parivāram^pṛcchet(prach-) //
+
+va.16.27 atha sākṣiṇas^//
+
+va.16.28 śrotriyas^rūpavān^śīlavān puṇyavān satyavān sākṣiṇas^//
+
+va.16.29 sarveṣu sarve^eva vā //
+
+va.16.30 strīṇām^sākṣiṇas^striyas^kuryāt(kṛ-)^dvijānām^sadṛśās^dvijās^śūdrāṇām^santas(as-)^śūdrās^ca^antyānām antya.yonayas^//
+
+va.16.31 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.16.31 pratibhāvyam^vṛthā.dānam ākṣikam^saurikam^ca yat (c)/
+
+va.16.31 daṇḍa.śulka.avaśiṣṭam^ca na putras^dātus^mahati(mah-) (c)//
+
+va.16.32 brūhi(brū-) sākṣin yathā.tattvam^lambante(lamb-) pitaras tava (c)/
+
+va.16.32 tava vākyam udīkṣāṇās(ud-īkṣ-)^utpatanti(ud-pat-) patanti(pat-) ca (c)//
+
+va.16.33 nagnas^muṇḍas^kapālī ca bhikṣā.arthī kṣut.pipāsitas^(c)/
+
+va.16.33 andhas^śatru.kule gacchet(gam-)^yas^sākṣyam anṛtam^vadet(vad-) (c)//
+
+va.16.34 pañca kanyā.anṛte hanti(han-) daśa hanti(han-) gava.anṛte (c)/
+
+va.16.34 śatam aśva.anṛte hanti(han-) sahasram^puruṣa.anṛte (c)//
+
+va.16.35 vyavahāre mṛte dāre prāyaścittam^kula.striyās^(c)/
+
+va.16.35 teṣām^pūrva.paricchedāt^chidyante(chid-)^atra^apavādibhis^(c)//
+
+va.16.36 udvāha.kāle rati.saṃprayoge prāṇa.atyaye sarva.dhana.apahāre (c)/
+
+va.16.36 viprasya ca^arthe hi^anṛtam^vadeyus(vad-)^pañca^anṛtāni^āhur(ah-) a.pātakāni (c)//
+
+va.16.37 sva.jana.sva.arthe yadi vā^artha.hetos^pakṣa.āśrayeṇa^eva vadanti(vad-) kāryam (c)/
+
+va.16.37 te śabda.vaṃśasya kulasya pūrvān svarga.sthitān^tān api pātayanti(pat-) (c)//
+
+va.16.37 api pātayanti(pat-)^iti //
+
+va.17.1 ṛṇam asmin sannayati(sam-nī-)^amṛta.tvam^ca gacchati(gam-) (c)/
+
+va.17.1 pitā putrasya jātasya paśyet(paś-)^cet^jīvatas^mukham (c)//
+
+va.17.2 anantās^putriṇām^lokās^na^a.putrasya lokas^asti(as-).(c) iti śrūyate(śru-) //
+
+va.17.3 a.pajās^santu^atriṇas^iti^abhiśāpas^//(cf^ṛv.<1.021.05c> aprajāḥ santv atriṇaḥ || )
+
+va.17.4 prajābhis^agne amṛta.tvam aśyām iti^api nigamas^bhavati(bhū-) //(cf^ṛv.<5.004.10c> jātavedo yaśo asmāsu dhehi prajābhir agne amṛtatvam aśyām ||)
+
+va.17.5 putreṇa lokān^jayati(ji-) pautreṇa^anantyam aśnute(aś-) (c)/
+
+va.17.5 atha putrasya pautreṇa bradhnasya^āpnoti(āp-) viṣṭapam(c) iti //
+
+va.17.6 kṣetriṇas^putras^janayitus^putras^iti vivadante(vi-vad-) //
+
+va.17.7 tatra^ubhayathā^api^udāharanti(ud-ā-hṛ-) /
+
+va.17.8 yadi^anya.goṣu vṛṣabhas^vatsānām^janayet(jan-)^śatam (c)/
+
+va.17.8 gominām eva te vatsās^mogham^syanditam ārṣabham(c) iti //
+
+va.17.9 apramattās^rakṣata(rakṣ-) tantum etam^mā vas^kṣetre para.bījāni vāpsus(vap-)^/ janayitus^putras^bhavati(bhū-) saṃparāye mogham^tettā kurute(kṛ-) tantum etam iti //{bṣpṣ tettā}{e vettā}
+
+va.17.10 bahūnām eka.jātānām ekas^cet putravān naras^(c)/
+
+va.17.10 sarve te tena putreṇa putravantas^iti śrutis^(c)//
+
+va.17.11 bahvīnām eka.patnīnām ekā putravatī yadi (c)/
+
+va.17.11 sarvās tās tena putreṇa putravantyas^iti śrutis^(c)//
+
+va.17.12 dvādaśa iti^eva putrās^purāṇa.dṛṣṭās^//
+
+va.17.13 svayam utpāditas^sva.kṣetre saṃskṛtāyām^prathamas^//
+
+va.17.14 tat.alābhe niyuktāyām^kṣetra.jas^dvitīyas^//
+
+va.17.15 tṛtīyas^putrikā //
+
+va.17.16 vijñāyate(vi-jñā-)^a.bhrātṛkā puṃsas^pitṝn abhyeti(abhi-i-) pratīcīnam^gacchati(gam-) putra.tvam //
+
+va.17.17 tatra ślokas^/
+
+va.17.17 abhrātṛkām^pradāsyāmi(pra-dā-) tubhyam^kanyām alaṃkṛtām (c)/
+
+va.17.17 asyām^yas^jāyate(jan-) putras^sa me putras^bhavet(bhū-)^iti (c)//
+
+va.17.18 paunarbhavas^caturthas^//
+
+va.17.19 yā kaumāram^bharttāram uttsṛjya(ud-sṛj-)^anyais^saha caritvā(car-) tasya^eva kuṭumbam āśrayati(ā-śri-) sā punar.bhūs^bhavati(bhū-) //{bṣpṣ bharttāram}{f bhartāram}{bṣpṣ uttsṛjya}{f utsṛjya}
+
+va.17.20 yā ca klībam^patitam unmattam^vā bharttāram utsṛjya(ud-sṛj-)^anyam^patim^vindate(vid-) mṛte vā sā punar.bhūs^bhavati(bhū-) //{bṣpṣ bharttāram}{f bhartāram}
+
+va.17.21 kānīnas^pañcamas^//
+
+va.17.22 yam^pitṛ.gṛhe^asaṃskṛtā kāmāt^utpādayet(ud-pad-)^mātāmahasya putras^bhavati(bhū-)^iti^āhur(ah-)^//
+
+va.17.23 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.17.23 aprattā duhitā yasya putram^vindeta(vid-) tulyatas^(c)/
+
+va.17.23 putrī mātāmahas tena dadyāt(dā-) piṇḍam^haret(hṛ-)^dhanam(c) iti //
+
+va.17.24 gṛhe ca gūḍha.utpannas^ṣaṣṭhas^//
+
+va.17.25 iti^ete dāyādās^bāndhavās trātāras^mahatas^bhayāt^iti^āhur(ah-)^//
+
+va.17.26 atha^a.dāyāda.bandhūnām^sahoḍhas^eva prathamas^//
+
+va.17.27 yā garbhiṇī saṃskriyate(saṃs-kṛ-) sahoḍhas^putras^bhavati(bhū-) //
+
+va.17.28 dattakas^dvitīyas^//
+
+va.17.29 yam^mātā.pitarau dadyātām(dā-) //
+
+va.17.30 krītas^tṛtīyas^//
+
+va.17.31 tat^śunaḥśepena vyākhyātam //
+
+va.17.32 hariścandras^vai rājā sas^ajīgartasya sauyavases^putram^cikrāya(kṛ-) //
+
+va.17.33 svayam upāgatas^caturthas^//
+
+va.17.34 tat^śunaḥśepena vyākyātam //
+
+va.17.35 śunaḥśepas^vai yūpe niyuktas^devatās tuṣṭāva(stu-) / tasya^iha devatās^pāśam^vimumucus(vi-muc-) tam ṛtvijas^ūcus(vac-)^/ mama^eva^ayam^putras^astu(as-)^iti tān ha na saṃpede(sam-pad-) / te saṃpādayāmāsus(sam-pad-)^/ eṣas^eva yam^kāmayet(kam-) tasya putras^astu(as-)^iti / tasya ha viśvāmitras^hotā^āsīt(as-) tasya putratvam iyāya(i-) //
+
+va.17.36 apaviddhas^pañcamas^//
+
+va.17.37 yam^mātā.pitṛbhyām apāstam^pratigṛhṇīyāt(prati-grah-) //
+
+va.17.38 śūdrā.putras^eva ṣaṣṭhas^bhavati(bhū-)^iti^āhur(ah-)^iti^ete^a.dāyāda.bāndhavās^//
+
+va.17.39 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.17.39 yasya pūrveṣām^ṣaṇṇām^na kas.cit^dāyādas^syāt(as-)^ete tasya dāyam^hareran(hṛ-)^iti //
+
+va.17.40 atha bhrātṝṇām^dāya.vibhāgas^//
+
+va.17.41 yas^ca^an.apatyās tāsām ā putra.lābhāt //
+
+va.17.42 dvi.aṃśam^jyeṣṭhas^haret(hṛ-) //
+
+va.17.43 gava.aśvasya ca^anudaśamam //
+
+va.17.44 aja.avayas^gṛham^ca kaniṣṭhasya //
+
+va.17.45 kārṣṇāyasam^guha.upakaraṇāni ca madhyamasya //
+
+va.17.46 mātus^pāriṇeyam^striyas^vibhajeran(vi-bhaj-) //
+
+va.17.47 yadi brāhmaṇasya brāhmaṇī.kṣatriyā.vaiśyāsu putrās^syus(as-)^//
+
+va.17.48 tri.aṃśam^brāhmaṇyās^putras^haret(hṛ-) //
+
+va.17.49 dvi.aṃśam^rājanyāyās^putras^//
+
+va.17.50 samam itare vibhajeran(vi-bhaj-) //
+
+va.17.51 yena ca^eṣām^svayam utpāditam^syāt(as-)^dvi.aṃśam eva haret(hṛ-) //
+
+va.17.52 an.aṃśās tu^āśrama.antara.gatās^//
+
+va.17.53 klība.unmatta.patitās^ca //
+
+va.17.54 bharaṇam^klība.unmattānām //
+
+va.17.55 preta.patnī ṣaṭ.māsān vrata.cāriṇī^a.kṣāra.lavaṇam^bhuñjānā(bhuj-)^adhas^śayīta(śī-) //
+
+va.17.56 ūrdhvam^ṣaḍbhyas^māsebhyas^snāttvā śrāddham^ca patye dattvā(dā-) vidyā.karma.guru.yoni.saṃbandhān saṃnipātya(sam-ni-pat-) pitā bhrātā vā niyogam^kārayet(kṛ-) //{bṣpṣ snāttvā}{f snātvā}
+
+va.17.57 na sa.unmādām avaśām^vyādhitām^vā niyuñjyāt(ni-yuj-) //
+
+va.17.58 jyāyasīm api //
+
+va.17.59 ṣoḍaśa varṣāṇi //
+
+va.17.60 na cet^āmayāvī syāt(as-) //
+
+va.17.61 prajāpatye muhūrte pāṇigrāhavat^upacaret(car-)^anyatra samprahāsya(sam-pra-has-) vāc.pāruṣya.daṇḍa.pāruṣyāt^ca //
+
+va.17.62 grāsa.ācchādana.snāna.anulepaneṣu prāk.gāminī syāt(as-) //
+
+va.17.63 aniyuktāyām utpannas^utpādayitus^putras^bhavati(bhū-)^iti^āhur(ah-)^//
+
+va.17.64 syāt(as-)^cet^niyoginos^//
+
+va.17.65 riktha.lobhāt^na^asti(as-) niyogas^//
+
+va.17.66 prāyaścittam^vā^api^upadiśya(upa-diś-) niyuñjyāt(ni-yuj-)^iti^eke //
+
+va.17.67 kumārī^ṛtumatī trīṇi varṣāṇi^upāsīta(upa-ās-) //
+
+va.17.68 tribhyas^varṣebhyas^patim^vindet(vid-) tulyam //
+
+va.17.69 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.17.69 pitus^pramādāt tu yadi^iha kanyā vayas.pramāṇam^samatītya(sam-ati-i-) dīyate(dā-) (c)/
+
+va.17.69 sā hanti(han-) dātāram udīkṣamāṇā(ud-īkṣ-) kāla.atiriktā guru.dakṣiṇā^iva (c)//
+
+va.17.70 prayacchet(pra-yam-)^nagnikām^kanyām ṛtu.kāla.bhayāt pitā (c)/
+
+va.17.70 ṛtumatyām^hi tiṣṭhantyām(sthā-)^doṣas^pitaram ṛcchati(ṛ-) (c)//
+
+va.17.71 yāvantas^kanyām ṛtavas^spṛśanti(spṛś-) tulyais^sakāmām abhiyācyamānām(abhi-yāc-) (c)/
+
+va.17.71 bhrūṇāni tāvanti hatāni tābhyām^mātā.pitṛbhyām iti dharma.vādas^(c)//
+
+va.17.72 adbhis^vācā ca dattāyām^mriyeta(mṛ-)^ādau varas^yadi (c)/
+
+va.17.72 na ca mantra.upanītā syāt(as-) kumārī pitus^eva sā (c)//
+
+va.17.73 balāt^cet prahṛtā kanyā mantrais^yadi na saṃskṛtā (c)/
+
+va.17.73 anyasmai vidhivat^deyā yathā kanyā tathā^eva sā (c)//
+
+va.17.74 pāṇigrāhe mṛte bālā kevalam^mantra.saṃskṛtā (c)/
+
+va.17.74 sā cet^akṣata.yonis^syāt(as-) punas^saṃskāram arhati(arh-).(c) iti //
+
+va.17.75 proṣita.patnī pañca varṣāṇi^upāsīta(upa-ās-) //
+
+va.17.76 ūrdhvam^pañcabhyas^varṣebhyas^bhartṛ.sakāśam^gacchet(gam-) //
+
+va.17.77 yadi dharma.arthābhyām^pravāsam(pra-vas-)^pratyanukāmā na syāt(as-)^yathā prete^evam^vartitavyam(vṛt-)^syāt(as-) //
+
+va.17.78 evam^brāhmaṇī pañca prajātā^aprajātā catvāri rājanyā prajātā pañca^aprajātā trīṇi vaiśyā prajātā catvāri^aprajātā dve śūdrā prajātā trīṇi^aprajātā^ekam //
+
+va.17.79 atas^ūrdhvam^samāna.artha.janma.piṇḍa.udaka.gotrāṇām^pūrvas^pūrvas^garīyān //
+
+va.17.80 na tu khalu kulīne vidyamāne(vid-) paragāminī syāt(as-) //
+
+va.17.81 yasya pūrveṣām^ṣaṇṇām^na kas.cit^dāyādas^syāt(as-) sapiṇḍās^putra.sthānīyās vā tasya dhanam^vibhajeran(vi-bhaj-) //
+
+va.17.82 teṣām alābhe^ācārya.antevāsinau hareyātām(hṛ-) //
+
+va.17.83 tayos^alābhe rājā haret(hṛ-) //
+
+va.17.84 na tu brāhmaṇasya rājā haret(hṛ-) //
+
+va.17.85 brahma.svam^tu viṣam^ghoram //
+
+va.17.86 na viṣam^viṣam iti^āhur(ah-) brahma.svam^viṣam ucyate(vac-) (c)/
+
+va.17.86 viṣam ekākinam^hanti(han-) brahma.svam^putra.pautrakam(c) iti //
+
+va.17.87 traividya.sādhubhyas^saṃprayacchet(sam-pra-yam-) saṃprayacchet(sam-pra-yam-)^iti //
+
+va.18.1 śūdreṇa brāhmaṇyām utpannas^cāṇḍālas^bhavati(bhū-)^iti^āhur(ah-)^//
+
+va.18.2 rājanyāyām^vaiṇas^//
+
+va.18.3 vaiśyāyām antyāvasāyī //
+
+va.18.4 vaiśyena brāhmaṇyām utpannas^rāmakas^bhavati(bhū-)^iti^āhur(ah-)^//
+
+va.18.5 rājanyāyām^pulkasas^//
+
+va.18.6 rājanyena brāhmaṇyām utpannas^sūtas^bhavati(bhū-)^iti^āhur(ah-)^//
+
+va.18.7a atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.18.7b channa.utpannās^ca ye ke.cit prātilomya.guṇa.āśritās^(c)/
+
+va.18.7c guṇa.ācāra.paribhraṃśāt karmabhis tān vijānīyus(vi-jñā-).(c) iti //
+
+va.18.8 eka.antarā.dvi.antarā.tri.antarāsu jātās^brāhmaṇa.kṣatriya.vaiśyais^ambaṣṭha.ugra.niṣādās^bhavanti(bhū-) //
+
+va.18.9 śūdrāṇām^pāraśavas^//
+
+va.18.10 pāraśavas^na.iva jīvan(jīv-)^eva śavas^bhavati(bhū-)^iti^āhur(ah-)^//
+
+va.18.11 eke vai^etat^śmaśānam^ye śūdrās^//
+
+va.18.12 tasmāt^śūdra.samīpe na^adhyetavyam(adhi-i-) //
+
+va.18.13a atha^api yama.gītān^ślokān udāharanti(ud-ā-hṛ-) /
+
+va.18.13b śmaśānam etat pratyakṣam^ye śūdrās^pāpa.cāriṇas^(c)/
+
+va.18.13c tasmāt^śūdra.samīpe tu na^adhyetavyam(adhi-i-)^kadā.cana (c)//
+
+va.18.14a na śūdrāya matim^dadyāt^nocchiṣṭam^na haviṣkṛtam (c)/
+
+va.18.14b na ca^asya^upadiśet(upa-diś-)^dharmam^na ca^asya vratam ādiśet(ā-diś-) (c)//
+
+va.18.15 yas^ca^asya^upadiśet(upa-diś-)^dharmam^yas^ca^asya vratam ādiśet(ā-diś-) (c)/
+
+va.18.15 sas^asaṃvṛttam^tamas^ghoram^saha tena prapadyate(pra-pad-).(c) iti //{bṣpṣ asaṃvṛttam}{f asaṃvṛtam}
+
+va.18.16 vraṇa.dvāre kṛmis^yasya saṃbhaveta(sam-bhū-) kadā.cana (c)/
+
+va.18.16 prājāpatyena śudhyeta(śudh-) hiraṇyam^gaus^vāsas^dakṣiṇās^iti //
+
+va.18.17 na^agnim^citvā(ci-) rāmām upeyāt(upa-i-) //
+
+va.18.18 kṛṣṇa.varṇā yā rāmā ramaṇāya^eva na dharmāya na dharmāya^iti //
+
+va.19.1 sva.dharmas^rājñas^pālanam^bhūtānām^tasya^anuṣṭhānāt siddhis^//
+
+va.19.2 bhaya.kāruṇya.hānam^jarā.maryam^vai^etat satttram āhur(ah-) vidvāṃsas(vid-)^//{bṣpṣ satttram}{f sattram}
+
+va.19.3 tasmāt^gārhasthya.naiyamikeṣu purohitam^dadhyāt(dhā-) //
+
+va.19.4 vijñāyate(vi-jñā-) / brahma.purohitam^rāṣṭram ṛdhnoti(ṛdh-)^iti //
+
+va.19.5 ubhayasya pālanāt //
+
+va.19.6 a.sāmarthyāt^ca //
+
+va.19.7 deśa.dharma.jāti.kula.dharmān sarvān eva^etān anupraviśya(anu-pra-viś-) rājā caturas^varṇān sva.dharme sthāpayet(sthā-) //
+
+va.19.8 teṣu^apacaratsu(apa-car-) daṇḍam^dhārayet(dhṛ-) //
+
+va.19.9 daṇḍas tu deśa.kāla.dharma.vayas.vidyā.sthāna.viśeṣais^hiṃsā.krośayos^kalpyas(kḷp-)^//
+
+va.19.10 āgamāt^dṛṣṭa.antāt^ca //
+
+va.19.11 puṣpa.phala.upagān pādapān na hiṃsyāt(hiṃs-) //
+
+va.19.12 karṣaṇa.kāraṇa.artham^ca^upahanyāt(upa-han-) //
+
+va.19.13 gārhasthya.aṅgānām^ca māna.unmāne rakṣite syātām(as-) //
+
+va.19.14 adhiṣṭhānāt^na nīhāras^sva.arthānām //
+
+va.19.15 māna.mūlya.mātram^naihārikam^syāt(as-) //
+
+va.19.16 mahāmahayos^sthānāt pathas^syāt(as-) //
+
+va.19.17 saṃyāne daśa.vāha.vāhinī dvi.guṇa.kāriṇī syāt(as-) //
+
+va.19.18 pratyekam^prapās^syus(as-)^//
+
+va.19.19 puṃṣām^śata.avara.ardhyam^ca^āhavayet(ā-hvā-) //
+
+va.19.20 avyarthās^striyas^syus(as-)^//
+
+va.19.21 karāṣṭhīlā māṣas^śaramadhyāpas^pādas^kārṣāpaṇās^syus(as-)^//
+
+va.19.22 nir.udakas taras^moṣyas(muṣ-)^//
+
+va.19.23 a.karas^śrotriyas^rāja.pumān a.nātha.pravrajita.bāla.vṛddha.taruṇa.prajātās^//
+
+va.19.24 prāk.gāmikās^kumāryas^bhṛta.patnyas^ca //
+
+va.19.25 bāhubhyām uttaran^śata.guṇam^dadyāt(dā-) //
+
+va.19.26 nadī.kakṣa.vana.dāha.śaila.upabhogās^niṣkarās^syus(as-)^//
+
+va.19.27 tat.upajīvinas^vā dadyus(dā-)^//
+
+va.19.28 pratimāsam udvāha.karam^tu^āgamayet(ā-gam-) //
+
+va.19.29 rājani ca prete(pra-i-) dadyāt(dā-) prāsaṅgikam //
+
+va.19.30 etena mātṛ.vṛttis^vyākhyātā //
+
+va.19.31 rāja.mahiṣyās^pitṛvya.mātulān rājā bibhṛyāt(bhṛ-) //
+
+va.19.32 tat.bandhūn^ca^anyān^ca //
+
+va.19.33 rāja.patnyas^grāsa.ācchādanam^labheran(labh-) //
+
+va.19.34 an.icchantyas(iṣ-)^vā pravrajeran(pra-vraj-) //
+
+va.19.35 klība.unmattān rājā bibhṛyāt(bhṛ-) //
+
+va.19.36 tat.gāmitvāt^rikthasya //
+
+va.19.37 śulke ca^api mānavam^ślokam udāharanti(ud-ā-hṛ-) /
+
+va.19.37 na bhinna.kārṣāpaṇam asti(as-) śulke na śilpa.vṛttas^na śiśau na dūte (c)/
+
+va.19.37 na bhaikṣa.labdhe na hṛta.avaśeṣe na śrotriye pravrajite na yajñe.(c) iti //
+
+va.19.38 stenas^anupraveśāt^na duṣyate(duṣ-) //
+
+va.19.39 śastra.dhārī sahoḍhas^vraṇa.saṃpannas^vyapadiṣṭas tu^ekeṣām //
+
+va.19.40 daṇḍya.utsarge rājā^eka.rātram upavaset(upa-vas-) //
+
+va.19.41 tri.rātram^purohitas^//
+
+va.19.42 kṛcchram a.daṇḍya.daṇḍane purohitas^//
+
+va.19.43 tri.rātram^rājā //
+
+va.19.44 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.19.44 anna.ade bhrūṇahā mārṣṭis^patyau bhāryā.apacāriṇī (c)/
+
+va.19.44 gurau śiṣyas^ca yājyas^ca stenas^rājani kilbiṣam (c)//
+
+va.19.45 rājabhis^dhṛta.daṇḍās tu kṛtvā(kṛ-) pāpāni mānavās^(c)/
+
+va.19.45 nirmalās^svargam āyānti(ā-yā-) santas(as-)^sukṛtinas^yathā (c)//
+
+va.19.46 enas^rājānam ṛcchati(ṛ-) utsṛjantam(ud-sṛj-)^sa.kilbiṣam (c)/
+
+va.19.46 tam^cet^vā ghātayet(han-)^rājā hanti(han-) dharmeṇa duṣkṛtam(c) iti //
+
+va.19.47 rājñām ātyayike kārye sadyas^śaucam^vidhīyate(vi-dhā-) (c)/
+
+va.19.47 tathā na^ātyayike nityam^kālas^eva^atra kāraṇam(c) iti //
+
+va.19.48 yama.gītam^ca^atra ślokam udāharanti(ud-ā-hṛ-) /
+
+va.19.48 na^adya doṣas^asti(as-) rājñām^vai vratinām^na ca satriṇām (c)/
+
+va.19.48 aindra.sthānam upāsīnās(upa-ās-)^brahma.bhūtās^hi te sadā.(c) iti //
+
+va.19.48 hi te sadā^iti //
+
+va.20.1 an.abhisaṃdhi.kṛte prāyaścittam aparādhe //
+
+va.20.2 abhisaṃdhi.kṛte^api^eke //
+
+va.20.3 gurus^ātmavatām^śāstā śāstā rājā dur.ātmanām (c)/
+
+va.20.3 atha pracchan(prach-)^a.pāpānām^śāstā vaivasvatas^yamas.(c) iti //
+
+va.20.4 tatra ca sūrya.abhyuditas^san(as-)^ahas tiṣṭhet(sthā-) sāvitrīm^ca japet(jap-) //
+
+va.20.5 evam^sūrya.abhinirmuktas^rātrau^āsīt(ās-) //
+
+va.20.6 ku.nakhī śyāva.dantas tu kṛcchram^dvādaśa.rātram^caret(car-) //
+
+va.20.7 parivittis^kṛcchram^dvādaśa.rātram^caritvā(car-) niviśeta(ni-viś-) tām^ca^eva^upayacchet(upa-yam-) //
+
+va.20.8 atha parivividānas^kṛcchra.atikṛcchrau caritvā(car-) tasmai dattvā(dā-) punar niviśeta(ni-viś-) tām^ca^eva^upayacchet(upa-yam-) //
+
+va.20.9 agredidhiṣū.patis^kṛcchram^dvādaśa.rātram^caritvā(car-) niviśeta(ni-viś-) tām^ca^upayacchet(upa-yam-) //
+
+va.20.10 didhiṣū.patis^kṛcchra.atikṛcchrau caritvā(car-) tasmai dattvā(dā-) punar niviśet(ni-viś-) //
+
+va.20.11 vīra.haṇam^parastāt^vakṣyāmas(vac-)^//
+
+va.20.12 brahma.ujjhas^kṛcchram^dvādaśa.rātram^caritvā(car-) punar upayuñjīta(upa-yuj-) vedam ācāryāt //
+
+va.20.13 guru.talpa.gas^sa.vṛṣaṇam^śiśnam uddhṛtya(ud-hṛ-)^añjalau^ādhāya(ā-dhā-) dakṣiṇā.mukhas^gacchet(gam-)^yatra^eva pratihanyāt(prati-han-) tatra tiṣṭhet(sthā-)^ā pralayam //
+
+va.20.14 niṣkālakas^vā ghṛta.abhyaktas taptām^sūrmīm^pariṣvajet(pari-svaj-)^maraṇāt pūtas^bhavati(bhū-)^iti vijñāyate(vi-jñā-) //
+
+va.20.15 ācārya.putra.śiṣya.bhāryāsu ca^evam //
+
+va.20.16 yoniṣu gurvīm^sakhīm^guru.sakhīm apapātram^patitām^ca gatvā(gam-) kṛcchra.abda.pādam^caret(car-) //
+
+va.20.17 etat^eva cāṇḍāla.patita.anna.bhojaneṣu tatas^punar.upanayanam^vapana.ādīnām^tu nivṛttis^//
+
+va.20.18 mānavam^ca^atra ślokam udāharanti(ud-ā-hṛ-) /
+
+va.20.18 vapanam^mekhalā daṇḍas^bhaikṣa.caryā vratāni ca (c)/
+
+va.20.18 etāni tu nivartante(ni-vṛt-) punar.saṃskāra.karmaṇi.(c) iti //
+
+va.20.19 matyā madya.pāne tu^asurāyās^surāyās^ca^ajñāne kṛcchra.atikṛcchrau ghṛtam^prāśya(pra-aś-) punar.saṃskāras^ca //
+
+va.20.20 mūtra.śakṛt.śukra.abhyavahāreṣu ca^evam //
+
+va.20.21 madya.bhāṇḍe sthitās^āpas^yadi kas.cit^dvijas^pibet(pā-) padma.udumbara.bilva.palāśānām udakam^pītvā(pā-) tri.rātreṇa^eva śudhyati(śudh-) //
+
+va.20.22 abhyāse tu surāyās^agni.varṇām^tām^dvijas^pibet(pā-)^maraṇāt pūtas^bhavati(bhū-)^iti //
+
+va.20.23 bhrūṇahanam^vakṣyāmas(vac-)^brāhmaṇam^hatvā(han-) bhrūṇahā bhavati(bhū-)^a.vijñātam^ca garbham //
+
+va.20.24 a.vijñātās^hi garbhās^pumāṃsas^bhavati(bhū-) tatmāt puṃs.kṛtyās^juhvati(hu-)^iti //{bṣpṣ tatmāt}{f tasmāt}
+
+va.20.25 bhrūṇahā^agnim upasamādhāya(upa-sam-ā-dhā-) juhuyāt(hu-)^etās^//
+
+va.20.26 lomāni mṛtyos^juhomi(hu-) lomabhis^mṛtyum^vāsaye(vas-)^iti prathamām^/ tvacam^mṛtyos^juhomi(hu-) tvacā mṛtyum^vāsaye(vas-)^iti dvitīyām^/ lohitam^mṛtyos^juhomi(hu-) lohitena mṛtyum^vāsaye(vas-)^iti tṛtīyām^/ māṃsam^mṛtyos^juhomi(hu-) māṃsena mṛtyum^vāsaye(vas-)^iti caturthīm^/ snāvāni mṛtyos^juhomi(hu-) snāvabhis^mṛtyum^vāsaye(vas-)^iti pañcamīm^/ medas^mṛtyos^juhomi(hu-) medasā ṛtyum^vāsaye(vas-)^iti ṣaṣṭhīm^/ asthīni mṛtyos^juhomi(hu-)^asthibhis^mṛtyum^vāsaye(vas-)^iti saptamīm^/ majjānam^mṛtyos^juhomi(hu-) majjābhis^mṛtyum^vāsaye(vas-)^iti^aṣṭamīm iti //
+
+va.20.27 rāja.arthe brāhmaṇa.arthe vā saṃgrāme^abhimukham ātmānam^ghātayet(han-) //
+
+va.20.28 tris^ajitas^vā^aparāddhas^pūtas^bhavati(bhū-)^iti vijñāyate(vi-jñā-) hi //
+
+va.20.29 niruktam(nir-vac-)^hi^enas^kanīyas^bhavati(bhū-)^iti //
+
+va.20.30 tathā^api^udāharanti(ud-ā-hṛ-) /
+
+va.20.30 patitam^patita^iti^uktvā(vac-) coram^cora^iti vā punas^(c)/
+
+va.20.30 vacanāt tulya.doṣas^syāt(as-)^mithyā dvis^doṣatām^vrajet(vraj-).(c) iti //
+
+va.20.31 evam^rājanyām^hatvā(han-)^aṣṭau varṣāṇi caret(car-) //
+
+va.20.32 ṣaṭ^vaiṣyam //
+
+va.20.33 trīṇi śūdram //
+
+va.20.34 brāhmaṇīm^ca^ātreyīm^hatvā(han-) savana.gatau ca rājanya.vaiśyau //
+
+va.20.35 ātreyīm^vakṣyāmas(vac-)^rajasvalām ṛtu.snātām ātreyīm āhur(ah-)^//
+
+va.20.36 atra hi^eṣyadagpatyam(?)^bhavati(bhū-)^iti //
+
+va.20.37 anātreyīm^rājanya.hiṃsāyām //
+
+va.20.38 rājanyām^vaiśya.hiṃsāyām //
+
+va.20.39 vaiśyām^śūdra.hiṃsāyām //
+
+va.20.40 śūdrām^hatvā(han-) saṃvatsaram //
+
+va.20.41 brāhmaṇa.suvarṇa.haraṇe prakīrya(pra-kṝ-) keśān rājānam abhidhāvet(abhi-dhāv-) stenas^asmi(as-) bho śāstu(śās-) mām^bhavān iti tasmai rājā^audumbaram^śastram^dadyāt(dā-) tena^ātmānam^pramāpayet(pra-mā-)^maraṇāt pūtas^bhavati(bhū-)^iti vijñāyate(vi-jñā-) //{bṣpṣ bho}{f bhos.}
+
+va.20.42 niṣkālakas^vā ghṛta.aktas^gomaya.agninā pāda.prabhṛti^ātmānam abhidāhayet(abhi-dah-)^maraṇāt pūtas^bhavati(bhū-)^iti vijñāyate(vi-jñā-) //
+
+va.20.43 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.20.43 purā kālāt pramītānām^pāpāt^vividha.karmaṇām (c)/
+
+va.20.43 punar āpanna.dehānām aṅgam^bhavati(bhū-) tat^śṛṇu(śru-) (c)//
+
+va.20.44 stenas^ku.nakhī bhavati(bhū-) śvitrī bhavati(bhū-) brahma.hā (c)/
+
+va.20.44 surā.pas^śyāva.dantas tu duścarmā guru.talpa.gas.(c) iti //
+
+va.20.45 patita.saṃprayoge ca brāhmeṇa vā yaunena vā yās tebhyas^sakāśāt^mātrās^upalabdhās tāsām^parityāgas tais^ca na saṃvaset(sam-vas-) //
+
+va.20.46 udīcim^diśam^gatvā(gam-)^an.aśnan(aś-) saṃhitā.adhyayanam adhīyānas(adhi-i-)^pūtas^bhavati(bhū-)^iti vijñāyate(vi-jñā-) //
+
+va.20.47 tathā^api^udāharanti(ud-ā-hṛ-) /
+
+va.20.47 śarīra.paritāpena tapasā^adhyayanena ca (c)/
+
+va.20.47 mucyate(muc-) pāpa.kṛt pāpāt^dānāt^ca^api pramucyate(pra-muc-) (c)//
+
+va.20.47 iti vijñāyate(vi-jñā-) vijñāyate(vi-jñā)^iti //
+
+va.21.1 śūdras^cet^brāhmaṇīm abhigacchet(abhi-gam-)^vīraṇais^veṣṭayitvā(veṣṭ-) śūdram agnau prāsyet(pra-as-)^brāhmaṇyās^śirasi vapanam^kārayitvā(kṛ-) sarpiṣā samabhyajya(sam-abhi-añj-) nagnām^kṛṣṇa.kharam āropya(ā-ruh-) mahā.patham anusaṃvrājayet(anu-sam-vraj-) pūtā bhavati(bhū-)^iti vijñāyate(vi-jñā-) //
+
+va.21.2 vaiśyas^cet^brāhmaṇīm abhigacchet(abhi-gam-)^lohita.darbhais^veṣṭayitvā(veṣṭ-) vaiśyam agnau prāsyet(pra-as-)^brāhmaṇyās^śirasi vapanam^kārayitvā(kṛ-) sarpiṣā samabhyajya(sam-abhi-añj-) nagnām^gaura.kharam āropya(ā-ruh-) mahā.patham anusaṃvrājayet(anu-sam-vraj-) pūtā bhavati(bhū-)^iti vijñāyate(vi-jñā-) //
+
+va.21.3 rājanyas^cet^brāhmaṇīm abhigacchet(abhi-gam-)^śara.patrais^veṣṭayitvā(veṣṭ-) rājanyam agnau prāsyet(pra-as)^brāhmaṇyās^śirasi vapanam^kārayitvā(kṛ-) sarpiṣā samabhyajya(sam-abhi-añj-) nagnām^śveta.kharam āropya(ā-ruh-) mahā.patham anusaṃvrājayet(anu-sam-vraj-) pūtā bhavati(bhū-)^iti vijñāyate(vi-jñā-) //
+
+va.21.4 evam^vaiśyas^rājanyāyām //
+
+va.21.5 śūdras^ca rājanyā.vaiśyayos^//
+
+va.21.6 manasā bhartus^aticāre tri.rātram^yāvakam^kṣīrodanam^vā bhuñjānā(bhuj-)^adhas^śayīta(śī-)^ūrdhvam^tri.rātrāt^apsu nimagnāyās^sāvitryā^aṣṭa.śatena śirobhis^juhuyāt(hu-) pūtā bhavati(bhū-)^iti vijñāyate(vi-jñā-) //{bṣpṣ kṣīrodanam}{f kṣīra.odanam}
+
+va.21.7 vāc.saṃbandhe^etat^eva māsam^caritvā(car-)^ūrdhvam^māsāt^apsu nimagnāyās^sāvitryās^caturbhis^aṣṭa.śatais^śirobhis^juhuyāt(hu-) pūtā bhavati(bhū-)^iti vijñāyate(vi-jñā-) //
+
+va.21.8 vyavāye tu saṃvatsaram^ghṛta.paṭam^dhārayet(dhṛ-)^go.maya.garte kuśa.prastare vā śayīta(śī-)^ūrdhvam^saṃvatsarāt^apsu nimagnāyās^sāvitrī.aṣṭa.śatena śirobhis^juhuyāt(hu-) pūtā bhavati(bhū-)^iti vijñāyate(vi-jñā-) //
+
+va.21.9 vyavāye tīrtha.gamane dharmebhyas tu nivartate(ni-vṛt-) (c)//
+
+va.21.10 catasras tu parityājyās(pari-tyaj-)^śiṣya.gā guru.gā ca yā (c)/
+
+va.21.10 pati.ghnī ca viśeṣeṇa juṅgita.upagatā ca yā (c)//
+
+va.21.11 yā brāhmaṇī ca surā.pī na tām^devās^patilokam^nayanti(nī-)^iha^eva sā carati(car-) kṣīṇa.puṇyā^apsu luk^bhavati(bhū-) śuktikā vā //
+
+va.21.12 brāhmaṇa.kṣatriya.viśām^striyas^śudreṇa saṅgatās^(c)/{bṣpṣ śudreṇa}{f śūdreṇa}
+
+va.21.12 aprajātās^viśudhyanti(vi-śudh-) prāyaścittena na^itarās^(c)//
+
+va.21.13 pratilomam^careyus(car-) tās^kṛcchram^cāndrāyaṇa.uttaram (c)//
+
+va.21.14 pati.vratānām^gṛha.medhinīnām^satya.vratānām^ca śuci.vratānām (c)/
+
+va.21.14 tāsām^tu lokās^patibhis^samānās^gomāyu.lokā vyabhicāriṇīnām (c)//
+
+va.21.15 patati(pat-)^ardham^śarīrasya yasya bhāryā surām^pibet(pā-) (c)/
+
+va.21.15 patita.ardha.śarīrasya niṣkṛtis^na vidhīyate(vi-dhā-) (c)//
+
+va.21.16 brāhmaṇas^cet^aprekṣā.pūrvam^brāhmaṇa.dārān abhigacchet(abhi-gam-)^a.nivṛtta.dharma.karmaṇas^kṛcchras^nivṛtta.dharma.karmaṇas^atikṛcchras^//
+
+va.21.17 evam^rājanya.vaiśyayos^//
+
+va.21.18 gām^cet^hanyāt(han-) tasyās^carmaṇā^ardreṇa pariveṣṭitas^ṣaṭ.māsān kṛcchram^tapta.kṛcchram^vā^ātiṣṭhet(ā-sthā-) //
+
+va.21.19 tayos^vidhis^//
+
+va.21.20 tri.aham^divā bhuṅke(bhuj-) naktam aśnāti(aś-) vai tri.aham api (c)/
+
+va.21.20 tri.aham ayācita.vratas tri.aham^na bhuj^iti kṛcchras^(c)//
+
+va.21.21 tri.aham uṣṇās^pibet(pā-)^āpas tri.aham uṣṇam^payas^pibet(pā-) (c)/
+
+va.21.21 tri.aham uṣṇam^ghṛtam^pītvā(pā-) vāyu.bhakṣas^param^tri.aham (c)//
+
+va.21.21 iti tapta.kṛcchras^//
+
+va.21.22 ṛṣabha.vehatau ca dadyāt(dā-) //
+
+va.21.23 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.21.23 trayas^eva purā rogās^īrṣyās^an.aśanam^jarā (c)/
+
+va.21.23 pṛṣat.basta.vayam^hatvā(han-) aṣṭānavatim āharet(ā-hṛ-).(c) iti //
+
+va.21.24 śva.mārjāra.nakula.sarpa.dardura.mūṣkān hatvā(han-) kṛcchram^dvādaśa.rātram^caret(car-) kim.cit^dadyāt(dā-) //
+
+va.21.25 an.asthimatām^tu sattvānām^go.mātram^rāśim^hatvā(han-) kṛcchram^dvādaśa.rātram^caret(car-) kim.cit^dadyāt(dā-) //
+
+va.21.26 asthimatām^tu^ekaikam //
+
+va.21.27 yas^agnīn apavidhyet(apa-vyadh-) kṛcchram^dvādaśa.rātram^caritvā(car-) punar ādhānam^kārayet(kṛ-) //
+
+va.21.28 guros^ca^alīka.nirbandhe sa.cailam^snātas^gurum^prasādayet(pra-sad-) prasādāt pūtas^bhavati(bhū-)^iti vijñāyate(vi-jñā-) //
+
+va.21.29 nāstikas^kṛcchram^dvādaśa.rātram^caritvā(car-) viramet(vi-ram-)^nāstikyāt //
+
+va.21.30 nāstika.vṛttis tu^atikṛcchram //
+
+va.21.31 etena soma.vikrayī vyākhyātas^//
+
+va.21.32 vānaprasthas^dīkṣā.bhede kṛcchram^dvādaśa.rātram^caritvā(car-) mahākakṣe vardhayet(vṛdh-) //
+
+va.21.33 bhikṣukais^vānaprasthavat soma.vṛddhi.vardhanam^sva.śāstra.saṃskāras^ca sva.śāstra.saṃskāras^ca^iti //
+
+va.22.1 atha khalu^ayam^puruṣas^mithyā vyākaroti(vi-ā-kṛ-)^a.yājyam^vā yājayati(yaj-)^a.pratigrāhyam^vā pratigṛhṇāti(prati-grah-)^an.annam^vā^aśnāti(aś-)^an.ācaraṇīyam(ā-car-) eva^ācarati(ā-car-) //
+
+va.22.2 tatra prāyaścittam^kuryāt(kṛ-)^na kuryāt(kṛ-)^iti mīmāṃsante(man-) //
+
+va.22.3 na kuryāt(kṛ-)^iti^āhur(ah-)^//
+
+va.22.4 na hi karma kṣīyate(kṣi-)^iti //
+
+va.22.5 kuryāt(kṛ-)^iti^eva tasmāt^śruti.nidarśanāt //
+
+va.22.6 tarati(tṛ-) sarvam^pāpmānam^tarati(tṛ-) brahma.hattyām^yas^aśvamedhena yajate(yaj-)^iti //{bṣpṣ hattyām.}{f hatyām.}
+
+va.22.7 iti ca^abhiśastas^gosavena^agniṣṭutā yajeta(yaj-) //
+
+va.22.8 tasya niṣkrayaṇāni japas tapas^homas^upavāsas^dānam //
+
+va.22.9 upaniṣadas^veda.ādayas^veda.antās^sarva.chandas.sāṃhitās^madhūni^aghamarṣaṇam atharvaśiras^rudrās^puruṣasūktam^rājana(cf^rājaṇa).rauhiṇe sāmanī kūṣmāṇḍāni pāvamānyas^sāvitrī ca^iti pāvanāni //
+
+va.22.10 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.22.10 vaiśvānarīm^vrātapatīm^pavitra.iṣṭim^tathā^eva ca (c)/
+
+va.22.10 sakṛt^ṛtau prayuñjānas(pra-yuj-)^punāti(pū-) daśa.pūruṣam(c) iti //
+
+va.22.11 upavāsa.nyāyena payas.vratatā phala.bhakṣatā prasṛta.yāvakas^hiraṇya.prāśanam^soma.pānam iti medhyāni //
+
+va.22.12 sarve śilā.uccayās^sarvās^sravantyas^puṇyās^hradās tīrthāni^ṛṣi.nivāsa.goṣṭha.pariṣkandhās^iti deśās^//
+
+va.22.13 saṃvatsaras^māsas^caturviṃśati.ahar^dvādaśa.ahar^ṣaṭ.ahar^tri.ahar^ahar.rātrās^iti kālās^//
+
+va.22.14 etāni^eva^an.ādeśe vikalpena kriyeran(kṛ-) //
+
+va.22.15 enaḥsu guruṣu gurūṇi laghuṣu laghūni //
+
+va.22.16 kṛcchra.atikṛcchrau cāndrāyaṇam iti sarva.prāyaścittis^sarva.prāyaścittis^iti //
+
+va.23.1 brahmacārī cet striyam upeyāt(upa-i-)^araṇye catuṣpathe laukike^agnau rakṣas.daivatam^gardabham^paśum ālabhet(ā-labh-) //
+
+va.23.2 nairṛtam^vā carum^nirvapet(nir-vap-) //
+
+va.23.3 tasya juhuyāt(hu-) kāmāya svāhā kāma.kāmāya svāhā nairṛtyai svāhā rakṣas.devatābhyas^svāhā^iti //
+
+va.23.4 etat^eva retasas^prayatna.utsarge divā svapne vrata.antareṣu vā samāvartanāt //
+
+va.23.5 tiryak.yoni.vyavāye śuklam ṛṣabham^dadyāt(dā-) //
+
+va.23.6 gām^gatvā(gam-) śūdrā.avadhena doṣas^vyākhyātas^//
+
+va.23.7 brahmacāriṇas^śava.karmaṇas^vratāt^nivṛttis^//
+
+va.23.8 anyatra mātā.pitros^//
+
+va.23.9 sa cet^vyādhīyīta(vi-ā-adhi-i-) kāmam^guros^ucchiṣṭam^bheṣaja.artham^sarvam^prāśnīyāt(pra-aś-) //
+
+va.23.10 guruprayuktas^cet^mriyeta(mṛ-) trīn kṛcchān^caret(car-)^gurus^//{bṣpṣ kṛcchān}{f kṛcchrān}
+
+va.23.11 brahmacārī cet^māṃsam aśnīyāt(aś-)^ucchiṣṭa.bhojanīyam^kṛcchram^dvādaśa.rātram^caritvā(car-) vrata.śeṣam^samāpayet(sam-āp-) //
+
+va.23.12 śrāddha.sūtaka.bhojaneṣu ca^evam //
+
+va.23.13 a.kāmata.upanatam^madhu vājasaneyake na duṣyati(duṣ-)^iti vijñāyate(vi-jñā-) //
+
+va.23.14 yas^ātma.tyāgī^abhiśastas^bhavati(bhū-) sapiṇḍānām^preta.karma.chedas^//
+
+va.23.15 kāṣṭha.jala.loṣṭa.pāṣāṇa.śastra.viṣa.rajjubhis^yas^ātmānam avasādayati(ava-sad-) sas^ātmahā bhavati(bhū-) //
+
+va.23.16 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.23.16 yas^ātma.tyāginas^kuryāt(kṛ-) snehāt preta.kriyām^dvijas^(c)/
+
+va.23.16 sa tapta(tap-).kṛcchra.sahitam^caret(car-)^cāndrāyaṇa.vratam(c) iti //
+
+va.23.17 cāndrāyaṇam^parastāt^vakṣyāmas(vac-)^//
+
+va.23.18 ātma.hanana.adhyavasāye tri.rātram //
+
+va.23.19 jīvan(jīv-)^ātmatyāgī kṛchraṃ dvādaśa.rātram^caret(car-) tri.rātram^hi^upavaset(upa-vas-)^nityam^snigdhena vāsasā prāṇān ātmani ca^āyamya(ā-yam-) tris^paṭhet(paṭh-)^aghamarṣaṇam iti //{bṣpṣ kṛchraṃ}{f kṛcchraṃ}
+
+va.23.20 api vā^etena kalpena gāyatrīm^parivartayet(pari-vṛt-) //
+
+va.23.21 api vā^agnim upasamādhāya(upa-sam-ā-dhā-) kūṣmāṇḍais^juhuyāt(hu-)^dhṛtam //
+
+va.23.22 yat^ca^anyat^mahāpātakebhyas^sarvam etena pūyate(pū-)^iti //
+
+va.23.23 atha^api^ācamet(ā-cam-)^agnis^ca mā manyus(man-)^ca^iti prātarmanasā pāpam^dhyātvoṃpūrvās^satyāntā vyāhṛtīs^japet(jap-)^aghamarṣaṇam^vā paṭhet(paṭh-) //{dhyātvoṃpūrvās < dhyātvā(dhyā-). oṃpūrvās}
+
+va.23.24 mānuṣa.asthi snigdham^spṛṣṭvā(spṛś-) tri.rātram āśaucam //
+
+va.23.25 asnigdhe tu^ahar.rātram //
+
+va.23.26 śava.anugamane ca^evam //
+
+va.23.27 adhīyānānām(adhi-i-) antarā.gamane^ahar.rātram abhojanam //
+
+va.23.28 tri.rātram abhiṣekas^vivāsas^ca^anyonyena //
+
+va.23.29 śva.mārjāra.nakula.śīghra.gāṇām ahar.rātram //
+
+va.23.30 śva.kukkuṭa.grāmyaśūkara.kaṅka.gṛdhra.bhāsa.pārāvata.mānuṣa.kāka.ulūka.māṃsa.adane sapta.rātram upavāsas^niṣpurīṣībhāvas^ghṛta.prāśas^punas^saṃskāras^ca //
+
+va.23.31 brāhmaṇas tu śunā daṣṭas^nadīm^gatvā(gam-) samudra.gām (c)/
+
+va.23.31 prāṇāyāma.śatam^kṛtvā(kṛ-) ghṛtam^prāśya(pra-aś-) tatas^śucis.(c) iti //
+
+va.23.33 śva.cāṇḍāla.patita.upasparśane sa.cailam^snātas^sadyas^pūtas^bhavati(bhū-)^iti vijñāyate(vi-jñā-) //
+
+va.23.34 patita.cāṇḍāla.ārāva.śravaṇe tri.rātram^vāc.yatā an.aśnantas(aś-)^āsīran(ās-) //
+
+va.23.35 sahasra.paramam^vā tat.abhyasantas^pūtās^bhavanti(bhū-)^iti vijñāyate(vi-jñā-) //
+
+va.23.36 etena^eva garhita.adhyāpaka.yājakās^vyākhyātās^dakṣiṇā.tyāgāt^ca pūtās^bhavanti(bhū-)^iti vijñāyate(vi-jñā-) //
+
+va.23.37 etena^eva^abhiśastas^vyākhyātas^//
+
+va.23.38 bhrūṇa.hattyāyām^dvādaśa.rātram ab.bhakṣas^dvādaśa.rātram upavaset(upa-vas-) //{bṣpṣ hattyāyām.}{f hatyāyām.}
+
+va.23.39 brāhmaṇam anṛtena^abhiśaṃsya(abhi-śaṃs-) patanīyena^upapatanīyena vā māsam ab.bhakṣas^śuddhavatīs^āvartayet(ā-vṛt-) //
+
+va.23.40 aśvamedha.avabhṛtham^vā gacchet(gam-) //
+
+va.23.41 etena^eva cāṇḍālīvyavāyas^vyākhyātas^//
+
+va.23.42 atha^aparas^kṛcchra.vidhis^sādhāraṇas^vyūḍhas^//
+
+va.23.43 ahar^prātar ahar naktamahar ekam ayācitam (c)/
+
+va.23.43 ahar^parākam^tantraikam evam^catus.ahau parau (c)//
+
+va.23.43 anugraha.artham^viprāṇām^manus^dharma.bhṛtām^varas^(c)/
+
+va.23.43 bāla.vṛddha.ātureṣu^evam^śiśu.kṛcchram uvāca(vac-) ha (c)//
+
+va.23.44 atha cāndrāyaṇa.vidhis^//
+
+va.23.45 māsasya kṛṣṇa.pakṣa.ādau grāsān adyāt(ad-)^caturdaśa (c)/
+
+va.23.45 grāsa.upacaya.bhojī syāt(as-) pakṣa.śeṣam^samāpayet(sam-āp-) (c)//
+
+va.23.45 evam^hi śukla.pakṣa.ādau grāsam ekam^tu bhakṣayet(bhakṣ-) (c)/
+
+va.23.45 grāsa.apacaya.bhojī syāt(as-) pakṣa.śeṣam^samāpayet(sam-āp-) (c)//
+
+va.23.46 atra^eva gāyet(gai-) sāmāni api vā vyāhṛtīs^japet(jap-) (c)//
+
+va.23.47 eṣa cāndrāyaṇas^māsas^pavitram ṛṣi.saṃstutas^(c)/
+
+va.23.47 anādiṣṭeṣu sarveṣu prāyaścittam^vidhīyate(vi-dhā-) (c)//
+
+va.23.47 vidhīyate(vi-dhā-)^iti //
+
+va.24.1 atha^atikṛcchras^//
+
+va.24.2 tri.aham^prātar^tathā sāyam ayācitam^parākas^iti kṛcchras^yāvat sakṛt^ādadīta(ā-dā-) tāvat^aśnīyāt(aś-) pūrvavat sas^atikṛcchras^//
+
+va.24.3 kṛcchras^ab.bhakṣas^sa kṛchra.atikṛcchras^//{bṣpṣ kṛchra}{f kṛcchra}
+
+va.24.4 kṛcchrāṇām^vrata.rūpāṇi //
+
+va.24.5 śmaśru.keśān vāpayet(vap-)^bhruvas.akṣi.loma.śikhā.varjam^nakhān nikṛtya(ni-kṛt-)^eka.vāsas^anindita.bhojī [sakṛt^bhaikṣam aninditaṃ] triṣavaṇam udaka.upasparśī daṇḍī kamaṇḍalus^strī.śūdra.saṃbhāṣaṇa.varjī sthāna.āsana.śīlas^ahar^tiṣṭhet(sthā-)^rātrau^asīta(as-)^iti^āha bhagavān vasiṣṭhas^//
+
+va.24.6 sa tat^yat^etat^dharma.śāstram^na^a.putrāya na^a.śiṣyāya na^a.saṃvatsara.uṣitāya dadyāt(dā-) //
+
+va.24.7 sahasram^dakṣiṇās^ṛṣabha.ekādaśās^guru.prasādas^vā guru.prasādas^vā^iti //
+
+va.25.1 avikhyāpita.doṣāṇām^pāpānām^mahatām^tathā (c)/
+
+va.25.1 sarveṣām^ca^upapāpānām^śuddhim^vakṣyāmi(vac-)^aśeṣatas^(c)//
+
+va.25.2 āhitāgnes^vinītasya vṛddhasya viduṣas(vid-)^api vā (c)/
+
+va.25.2 rahasya.uktam^prāyaścittam^pūrva.uktam itare janās^(c)//
+
+va.25.3 prāṇāyāmais^pavitrais^ca dānais^homais^japais tathā (c)/
+
+va.25.3 nitya.yuktās^pramucyante(pra-muc-) pātakebhyas^na saṃśayas^(c)//
+
+va.25.4 prāṇāyāmān pavitrāṇi vyāhṛtīs^praṇavam^tathā (c)/
+
+va.25.4 pavitra.pāṇis^āsīnas(ās-)^brahma naityakam abhyaset(abhi-as-) (c)//
+
+va.25.5 āvartayan(ā-vṛt-) sadā yuktas^prāṇāyāmān punar^punar^(c)/
+
+va.25.5 ā loma.agrāt^nakha.agrāt^ca tapas tapyatu(tap-) uttamam (c)//
+
+va.25.6 nirodhāt^jāyate(jan-) vāyus.vāyos^agnis^hi jāyate(jan-) (c)/
+
+va.25.6 tāpena^āpas^atha jāyante(jan-) tatas^antas^śudhyate(śudh-) tribhis^(c)//
+
+va.25.7 na tām^tīvreṇa tapasā na svādhyāyais^na ca^ijyayā (c)/
+
+va.25.7 gatim^gantum^dvijās^śaktās^yogāt saṃprā vanti yām (c)//{bṣpṣ saṃprā vanti}{f saṃprāpnuvanti(sam-pra-āp-)}
+
+va.25.8 yogāt saṃprāpyate(sam-pra-āp-) jñānam^yogas^dharmasya lakṣaṇam (c)/
+
+va.25.8 yogas^param^tapas^nityam^tasmāt^yuktas^sadā bhavet(bhū-) (c)//
+
+va.25.9 praṇave nitya.yuktas syāt(as-)^vyāhṛtīṣu ca saptasu (c)/
+
+va.25.9 tri.padāyām^ca gāyatryām^na bhayam^vidyate(vid-) kva.cit (c)//
+
+va.25.10 praṇavāt^yās tathā vedās^praṇave paryavasthitās^(c)/
+
+va.25.10 vāc.mayam^praṇavas^sarvam^tasmāt praṇavam abhyaset(abhi-as-) (c)//
+
+va.25.11 eka.akṣaram^param^brahma pāvanam^paramam^smṛtam (c)//
+
+va.25.12 sarveṣām eva pāpānām^saṅkare samupasthite (c)/
+
+va.25.12 abhyāsas^daśa.sāhasras^sāvitryās^śodhanam^mahat (c)//
+
+va.25.13 sa.vyāhṛtim^sa.praṇavām^gāyatrīm^śirasā saha (c)/
+
+va.25.13 tris^paṭhet(paṭh-)^āyata.prāṇas^prāṇāyāmas^sas^ucyate(vac-) (c)//
+
+va.25.13 sas^ucyate(vac-)^iti //
+
+va.26.1 prāṇāyāmān dhārayet(dhṛ-) ttrīnyas^yathāvidhi^atandritas^(c)/{bṣpṣ ttrīn}{f trīn}
+
+va.26.1 ahar.rātra.kṛtam^pāpam^tat.kṣaṇāt^eva naśyati(naś-) (c)//
+
+va.26.2 karmaṇā manasā vācā yat^ahnā kṛtam ainasam (c)/
+
+va.26.2 āsīnas(ās-)^paścimām^sandhyām^prāṇāyāmais^vyapohati(vi-apa-ūh-) (c)//
+
+va.26.3 karmaṇā manasā vācā yat^rātryā kṛtam ainasam (c)/
+
+va.26.3 uttiṣṭhan(ud-sthā-) pūrva.sandhyām^tu prāṇāyāmais^vyapohati(vi-apa-ūh-) (c)//
+
+va.26.4 sa.vyāhṛtikās^sa.praṇavās^prāṇāyāmās tu ṣoḍaśa (c)/
+
+va.26.4 api bhrūṇahanam^māsātpunanti(pū-)^ahar.ahas^kṛtās^(c)//
+
+va.26.5 japtvā(jap-) kautsam apa^iti^etadvāsiṣṭham^ca tricam^prati (c)/(cf^ṛv.<1.097.01a> apa naḥ śośucad agham agne śuśugdhy ā rayim |ṛv.<7.080.01a> prati stomebhir uṣasaṃ vasiṣṭhā gīrbhir viprāsaḥ prathamā abudhran |)
+
+va.26.5 māhitram^śuddhavatyas^ca surāpas^api viśudhyati(vi-śudh-) (c)//
+
+va.26.6 sakṛt^japtvā(jap-)^asyavāmīyam^śiva.saṅkalpam eva ca (c)/
+
+va.26.6 suvarṇam apahṛtya(apa-hṛ-)^api kṣaṇāt^bhavati(bhū-) nir.malas^(c)//
+
+va.26.7 haviṣyantīyam abhyasya(abhi-as-) na tam aṃhas^iti tricam^(c)/(cf^ṛv.<10.126.01ab> na tam aṃho na duritaṃ devāso aṣṭa martyam |)
+
+va.26.7 sūktam^ca pauruṣam^japtvā(jap-) mucyate(muc-) guru.talpa.gas^(c)//
+
+va.26.8 api vā^apsu nimajjānas tris^japet(jap-)^aghamarṣaṇam (c)/ va.26.8 yathā^aśvamedha.avabhṛthas tādṛśam^manus^abravīt(brū-) (c)//
+
+va.26.9 ārabhbha.yajñāt^japa.yajñas^viśiṣṭhas^daśabhis^guṇais^(c)/{bṣpṣ ārabhbha}{f ārambha}
+
+va.26.9 upāṃśus^syāt(as-)^śata.guṇas^sāhasras^mānasas^smṛtas^(c)//
+
+va.26.10 ye pāka.yajñās^catvāras^vidhi.yajña.samanvitās(sam-anu-i-)^(c)/
+
+va.26.10 sarve te japa.yajñasya kalām^na^arhanti(arh-) ṣoḍaśīm (c)//
+
+va.26.11 jāpyena(jap-)^eva tu saṃsidhyet(sam-sidh-)^brāhmaṇas^na^atra saṃśayas^(c)/
+
+va.26.11 kuryāt(kṛ-)^anyam^na vā kuryāt(kṛ-)^maitras^brāhmaṇas^ucyate(vac-) (c)//
+
+va.26.12 jāpinām^hominām^ca^eva dhyāyinām^tīrtha.vāsinām (c)/
+
+va.26.12 na parivasanti(pari-vas-) pāpāni ye ca snātās^śiras.vratais^(c)//
+
+va.26.13 yathā^agnis^vāyunā dhūtas^haviṣā ca^eva dīpyate(dīp-) (c)/
+
+va.26.13 evam^jāpya.paras^nityam^brāhmaṇas^saṃpradīpyate(sam-pra-dīp-) (c)//
+
+va.26.14 sva.adhyāya.adhyāyinām^nityam^nityam^ca prayata.ātmanām (c)/ va.26.14 japatām(jap-)^juhvatām(hu-)^ca^api vinipātas^na vidyate(vid-) (c)//
+
+va.26.15 sahasra.paramām^devīm^śata.madhyām^daśa.avarām (c)/
+
+va.26.15 śuddhi.kāmas^prayuñjīta(pra-yuj-) sarva.pāpeṣu^api sthitas^(c)//
+
+va.26.16 kṣatriyas^bāhu.vīryeṇa taret(tṛ-)^āpadam ātmanas^(c)/
+
+va.26.16 dhanena vaiśya.śudrau tu japaihomais^dvija.uttamas^(c)//{bṣpṣ śudrau}{f śūdrau}{bṣpṣ japai}{f japais. }
+
+va.26.17 yathā^aśvās^ratha.hīnās^syus(as-)^rathas^vā^aśvais^vinā yathā (c)/
+
+va.26.17 evam^tapas tu^a.vidyasya vidyā vā^api^a.tapasvinas^(c)//
+
+va.26.18 yathā^annam^madhu.saṃyuktam^madhu vā^annena saṃyutam (c)/
+
+va.26.18 evam^tapas^ca vidyā ca saṃyuktam^bheṣajam^mahat (c)//
+
+va.26.19 vidyā.tapobhyām^saṃyuktam^brāhmaṇam^japa.naityakam (c)/
+
+va.26.19 sadā^api pāpa.karmāṇam enas^na pratiyujyate(prati-yuj-) (c)//
+
+va.26.19 enas^na pratiyujyate(prati-yuj-)^iti //
+
+va.27.1 yadi^akārya.śatam^sāgram^kṛtam^vedas^ca dhāryate(dhṛ-) (c)/
+
+va.27.1 sarvam^tat tasya veda.agnis^dahati(dah-)^agnis^iva^indhanam (c)//
+
+va.27.2 yathā jāta.balas^vahnis^dahati(dah-)^ārdrān api drumān (c)/
+
+va.27.2 tathā dahati(dah-) veda.agnis^karma.jam^doṣam ātmanas^(c)//
+
+va.27.3 hatvā(han-)^api sa imān lokān bhuñjānas(bhuj-)^api yatas tatas^(c)/
+
+va.27.3 ṛc.vedam^dhārayan(dhṛ-) vipras^na^enas^prāpnoti(pra-āp-) kim.cana (c)//
+
+va.27.4 na veda.balam āśritya(ā-śri-) pāpa.karma.ratis^bhavet(bhū-) (c)/
+
+va.27.4 a.jñānāt^ca pramādāt^ca dahyate(dah-) karma na^itarat (c)//
+
+va.27.5 tapas tapyati(tap-) yas^araṇye munis^mūla.phala.aśanas(aś-)^(c)/
+
+va.27.5 ṛcam ekām^ca yas^adhīte(adhi-i-) tat^ca tāni ca tat samam (c)//
+
+va.27.6 itihāsa.purāṇābhyām^vedam^samupabṛṃhayet(sam-upa-bṛh-) (c)/
+
+va.27.6 bibheti(bhī-)^alpa.śrutāt^vedas^mām ayam^prahariṣyati(pra-hṛ-) (c)//
+
+va.27.7 veda.abhyāsas^anvaham^śaktyā mahā.yajña.kriyā.kramas^(c)/
+
+va.27.7 nāśayati(naś-)^āśu pāpāni mahāpātaka.jāni^api (c)//
+
+va.27.8 veda.uditam(vad-)^svakam^karma nityam^kuryāt(kṛ-)^atandritas^(c)/
+
+va.27.8 tat^hi kurvan(kṛ-) yathāśaktyā prāpnoti(pra-āp-) paramām^gatim (c)//
+
+va.27.9 yājana.adhyāpanāt^yaunāt tathā^eva^asat.pratigrahāt (c)/
+
+va.27.9 vipreṣu na bhavet(bhū-)^doṣas^jvalana.arka.samas^hi sas^(c)//
+
+va.27.10 śaṅkā.sthāne samutpanne abhojya.bhojya.saṃjñake (c)/
+
+va.27.10 āhāra.śuddhim^vakṣyāmi(vac-) tat^me nigadatas^śṛṇu(śru-) (c)//
+
+va.27.11 a.kṣāra.lavaṇām^rūkṣām^pibet(pā-).brāhmīm^suvarcalām (c)/
+
+va.27.11 tri.rātram^śaṅkha.puṣpīm^ca brāhmaṇas^payasā saha (c)//
+
+va.27.12 palāśa.bilba.patrāṇi kuśān padmān udumbarān (c)/
+
+va.27.12 kvāthayitvā(kvath-) pibet(pā-)^āpas tri.rātreṇa^eva śudhyati(śudh-) (c)//
+
+va.27.13 go.mūtram^go.mayam^kṣīram^dadhi sarpis^kuśa.udakam (c)/
+
+va.27.13 eka.rātra.upavāsas^ca śva.pākam api śodhayet(śudh-) (c)//
+
+va.27.14 go.mūtram^go.mayam^ca^eva kṣīram^dadhi ghṛtam^tathā (c)/
+
+va.27.14 pañca.rātram^tat.āhāras^pañca.gavyena śudhyati(śudh-) (c)//
+
+va.27.15 yavān vidhinā^upayuñjānas(upa-yuj-)^pratyakṣeṇa^eva śudhyati(śudh-) (c)/
+
+va.27.15 viśuddha.bhāve śuddhās^syus(as-)^aśuddhe tu sa.rāgiṇas^(c)//
+
+va.27.16 haviṣyān prātar āśān^trīn sāyam āśān^tathā^eva ca (c)/
+
+va.27.16 ayācitam^tathā^eva syāt(as-)^upavāsa.trayam^bhavet(bhū-) (c)//
+
+va.27.17 atha cet tvarate(tvar-) kartum(kṛ-)^divasam^māruta.āśanas^(c)/
+
+va.27.17 rātrau jala.āśaye vyuṣṭas^prājāpatyena tat samam (c)//
+
+va.27.18 sāvitrī.aṣṭa.sahasram^tu japam^kṛtvā(kṛ-)^utthite ravau (c)/
+
+va.27.18 mucyate(muc-) pātakais^sarvais^yadi na brahma.hā bhavet(bhū-) (c)//
+
+va.27.19 yas^vai stenas^surā.pas^vā bhrūṇahā guru.talpa.gas^(c)/
+
+va.27.19 dharma.śāstram adhītya(adhi-i-)^eva mucyate(muc-) sarva.pātakais^(c)//
+
+va.27.20 duritānām^duriṣṭānām^pāpānām^mahatām^tathā (c)/
+
+va.27.20 kṛcchram^cāndrāyaṇam^ca^eva sarva.pāpa.praṇāśanam (c)//
+
+va.27.21 ekaikam^vardhayet(vṛdh-) piṇḍam^śukle kṛṣṇe ca hrāsayet(hras-) (c)/
+
+va.27.21 amāvāsyām^na bhuñjīta(bhuj-) evam^cāndrāyaṇas^vidhis^(c)//
+
+va.27.21 evam^cāndrāyāṇas^vidhis^iti //
+
+va.28.1 na strī duṣyati(duṣ-) jāreṇa na vipras^veda.karmaṇā (c)/
+
+va.28.1 na^āpas^mūtra.purīṣeṇa na^agnis^dahana.karmaṇā (c)//
+
+va.28.2 svayam^vipratipannā vā yadi vā vipravāsitā (c)/
+
+va.28.2 balāt kāra.upabhuktā vā cora.hasta.gatā^api vā (c)//
+
+va.28.3 na tyājyā(tyaj-) dūṣitā nārī na^asyās tyāgas^vidhīyate(vi-dhā-) (c)/
+
+va.28.3 puṣpa.kālam upāsīta(upa-ās-) ṛtu.kālena śudhyati(śudh-) (c)//
+
+va.28.4 striyas^pavitram atulam^na^etās^duṣyanti(duṣ-) karhi.cit (c)/
+
+va.28.4 māsi māsi rajas^hi^āsām^duṣkṛtāni^apakarṣati(apa-kṛṣ-) (c)//
+
+va.28.5 pūrvam^striyas^surais^bhuktās^soma.gandharva.vahnibhis^(c)/
+
+va.28.5 gacchanti(gam-) mānuṣān paścānaitā duṣyanti(duṣ-) dharmatas^(c)//{bṣpṣ paścānaitā}{f paścāt. na. etās.}
+
+va.28.6 tāsām^somas^adadat(dā-)^śaucam^gandharvas^śikṣitām^giram (c)/
+
+va.28.6 agnis^ca sarva.medhyatvam^tasmāt^niskalmaṣās^striyas^(c)//
+
+va.28.7 trīṇi striyas^pātakāni loke dharma.vidas^vidus(vid-)^(c)/{bṣpṣ striyas}{f striyās}
+
+va.28.7 bhartṛ.vadhas^bhrūṇa.hatyā svasya garbhasya pātanam (c)//
+
+va.28.8 vatsas^prasravaṇe medhyas^śakunis^phala.pātane (c)/
+
+va.28.8 striyas^ca rati.saṃsarge śvā mṛga.grahaṇe śucis^(c)//
+
+va.28.9 aja.aśvās^mukhatas^medhyās gāvas^medhyās tu sarvatas^(c)//[bhler seems to read: gāvo medhyāś ca pṛṣṭhataḥ, also cf. ḍevala ṝuoted in kk. śuddhi-kāṇḍa p.176:1]
+
+va.28.10 sarva.veda.pavitrāṇi vakṣyāmi(vac-)^aham atas^param^(c)/
+
+va.28.10 yeṣām^japais^ca homais^ca pūyante(pū-) na^atra saṃśayas^(c)//
+
+va.28.11 aghamarṣaṇam^deva.kṛtam^śuddhavatyas taratsamās^(c)/
+
+va.28.11 kūṣmāṇḍāni pāvamānyas^durgāsāvitris^eva ca (c)//
+
+va.28.12 atīṣaṅgās^padastobhās^sāmāni vyāhṛtīs tathā (c)/
+
+va.28.12 bhāruṇḍāni sāmāni ca gāyatram^raivatam^tathā (c)//
+
+va.28.13 puruṣa.vratam^ca bhāsam^ca tathā deva.vratāni ca (c)/
+
+va.28.13 abliṅgam^bārhaspatyam^tu vāc.sūktam^madhu.ṛcas tathā (c)//
+
+va.28.14 śatarudriyam atharvaśiras trisuparṇam^mahāvratam (c)/
+
+va.28.14 go.sūktam^ca^aśva.sūktam^ca śuddhāśuddhīye sāmanī (c)//
+
+va.28.15 trīṇ ājyadohāni rathantaram^ca agnes^vratam^vāmadevyam^bṛhat^ca (c)/
+
+va.28.15 etāni japtāni punanti(pū-) jantūnjāti.smaratvam^labhate(labh-) yadi^icchet(iṣ-) (c)//
+
+va.28.16 agnes^apatyam^prathamam^suvarṇam^bhūs^vaiṣṇavī sūrya.sutās^ca gāvas^(c)/
+
+va.28.16 tāsām anantam^phalam aśnuvīta(aś-) yas^kān.canam^gām^ca mahīm^ca dadyāt(dā-) (c)//
+
+va.28.17 uparundhanti(upa-rudh-) dātāram^gaus^aśvas^kanakam^kṣitis^(c)/
+
+va.28.17 a.śrotriyasya viprasya hastam^dṛṣṭvā(dṛṣ-) nirākṛtes^(c)//
+
+va.28.18 vaiśākhyām^paurṇamāsyām^tu brāhmaṇān sapta pañca vā (c)/
+
+va.28.18 tilān kṣaudreṇa saṃyuktān kṛṣṇān vā yadi vā^itarān (c)//
+
+va.28.19 prīyatām(prī-)^dharma.rājā^iti yat^vā manasi vartate(vṛt-) (c)/
+
+va.28.19 yāvat^jīva.kṛtam^pāpam^tat.kṣaṇāt^eva naśyati(naś-) (c)//
+
+va.28.20 suvarṇa.nābham^kṛtvā(kṛ-) tu sa.khuram^kṛṣṇa.mārgajam (c)/
+
+va.28.20 tilais^pracchādya(pra-chad-) yas^dadyāt(dā-) tasya puṇya.phalam^śṛṇu(śru-) (c)//
+
+va.28.21 sa.suvarṇa.guhā tena sa.śaila.vana.kānanā (c)/
+
+va.28.21 catus.vaktrā bhavet(bhū-)^dattā pṛthivī na^atra saṃśayas^(c)//
+
+va.28.22 kṛṣṇa.ajine tilān kṛtvā(kṛ-) hiraṇyam^madhu.sarpiṣī (c)/
+
+va.28.22 dadāti(dā-) yas tu viprāya sarvam^tarati(tṛ-) duṣkṛtām(c) iti //
+
+va.28.22 sarvam^tarati(tṛ-) duṣkṛtam iti //
+
+va.29.1 dānena sarvān kāmān avāpnoti(ava-āp-) //
+
+va.29.2 cira.jīvitvam^brahmacārī rūpavān //
+
+va.29.3 ahiṃsī^upapadyate(uap-pad-) svargam //
+
+va.29.4 agni.praveśāt^brahma.lokas^//
+
+va.29.5 maunāt saubhāgyam //
+
+va.29.6 nāga.adhipatis^udaka.vāsāt //
+
+va.29.7 nirujas^kṣiṇa.koṣas^//
+
+va.29.8 toya.das^sarva.kāma.samṛddhas^//
+
+va.29.9 anna.pradātā su.cakṣus^smṛtimān //
+
+va.29.10 medhāvī sarvatas^abhaya.dātā //
+
+va.29.11 go.prayukte sarva.tīrtha.upasparśanam //
+
+va.29.12 śayyā.āsana.dānāt^antaḥpura.adhipatyam //
+
+va.29.13 chatra.dānāt^gṛha.lābhas^//
+
+va.29.14 gṛha.pradas^nagaram āpnoti(āp-) //
+
+va.29.15 upānat.pradātā yanam āsādayate(ā-sad-) //{bṣpṣ yanam}{e yānam}
+
+va.29.16 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.29.16 yat kim.cit kurute(kṛ-) pāpam^puruṣas^vṛtti.karṣitas^(c)/
+
+va.29.16 api go.carma.mātreṇa bhūmi.dānena śudhyati(śudh-) (c)//
+
+va.29.17 viprāya^ācamana.artham^tu dadyāt(dā-) pūrṇa.kamaṇḍalum (c)/
+
+va.29.17 pretya(pra-i-) tṛptim^parām^prāpya(pra-āp-) soma.pas^jāyate(jan-) punas^(c)//
+
+va.29.18 anaḍuhām^sahasrāṇām^dattānām^dhūrya.vāhinām (c)/
+
+va.29.18 su.pātre vidhivat.dānam^kanyā.dānena tat samam (c)//
+
+va.29.19 trīṇi^āhur(ah-)^atidānāni gāvas^pṛthvī sarasvatī (c)/
+
+va.29.19 atidānam^hi dānānām^vidyā.dānam^tatas^adhikam (c)//
+
+va.29.20 ātyantika.phala.pradam^mokṣa.saṃsāra.mocanam (c)/
+
+va.29.20 yas^an.asūyus^imam^vidvān(vid-) ācāram anuvartate(anu-vṛt-) (c)//
+
+va.29.21 śrad.dadhānas(dhā-)^śucis^dāntas^dhārayet(dhṛ-)^śruṇuyāt(śru-)^api (c)/
+
+va.29.21 vihāya(vi-hā-) sarva.pāpāni nāka.pṛṣṭhe mahīyate(mah-).(c) iti //
+
+va.29.21 nāka.pṛṣṭhe mahīyate(mah-)^iti //
+
+va.30.1 dharmam^carata(car-) mā^adharmam^satyam^vadata(vad-) mā^anṛtam (c)/
+
+va.30.1 dīrgham^paśyata(paś-) mā hrasvam^param^paśyata(paś-) mā^aparam (c)//
+
+va.30.2 brāhmaṇas^bhavati(bhū-)^agnis^//
+
+va.30.3 agnis^vai brāhmaṇas^iti śrutes^//
+
+va.30.4 tat^ca katham //
+
+va.30.5 tatra sadas^brāhmaṇasya śarīram^vedis^saṃkalpas^yajñas^paśus^ātmā raśanā buddhis^sadas^mukham āhavanīyam^nābhyām udaras^agnis^gārhapatyas^prāṇas^adhvaryus^apānas^hotā vyānas^brahmā samānas^udgātā^ātmā^indriyāṇi yajña.pātrāṇi yas^evam^vidvān(vid-) indriyais^indriya.artham^juhoti(hu-)^iti^api ca -- kāṭhake vijñāyate(vi-jñā-) //
+
+va.30.6 atha^api^udāharanti(ud-ā-hṛ-) /
+
+va.30.6 pāti(pā-) trāti(tṛ-) ca dātāram ātmānam^ca^eva kilbiṣāt (c)/
+
+va.30.6 veda.indhana.samṛddheṣu hutam^vipra.mukha.agniṣu (c)//
+
+va.30.7 na skandate(skand-) na vyathate(vyath-) na^enam adhyāpatet(adhi-ā-pat-)^ca yat (c)/
+
+va.30.7 variṣṭham agni.hotrāt tu brāhmaṇasya mukhe hutam (c)//
+
+va.30.8 dhyāna.agnis^satya.upacayanam^kṣānti.āhutis^sruvam^hrīs^puroḍāśam ahiṃsā saṃtoṣo (c)/{bṣpṣ saṃtoṣo}{f saṃtoṣas.}
+
+va.30.8 yūpas^kṛcchram^bhūtebhyas^abhaya.dākṣiṇyam iti kṛtvā(kṛ-) kratu mānasam^yāti(yā-) kṣayam^budhas^(c)//
+
+va.30.9 jīryanti(jṝ-) jīryatas(jṝ-)^keśās^dantās^jīryanti(jṝ-) jīryatas(jṝ-)^(c)/
+
+va.30.9 jīvana.āśā dhana.āśā ca jīryatas(jṝ-)^api na jīryati(jṝ-) (c)//
+
+va.30.10 yā dus.tyajā dus.matibhis^yā na jīryati(jṝ-) jīryatas(jṝ-)^(c)/
+
+va.30.10 yā^asau prāṇa.antikas^vyādhis tām^tṛṣṇām^tyajatas(tyaj-)^sukham(c) iti //
+
+va.30.11 namas^astu(as-) mitrāvaruṇayos^urvaśī.ātmajāya śatayātave vasiṣṭhāya vasiṣṭhāya^iti //
+
+end of the text

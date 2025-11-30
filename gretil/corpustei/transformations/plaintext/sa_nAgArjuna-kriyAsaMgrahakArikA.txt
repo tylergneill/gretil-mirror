@@ -1,0 +1,84 @@
+Nāgārjuna: Kriyāsaṃgrahakārikā
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-kriyAsaMgrahakArikA.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - .
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Kriyāsaṃgrahakārikā = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsa044_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Nagarjuna: Kriyasamgrahakarika
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sastra section, text no. 44
+The transliteration emulates the conventions of Nagari script.
+Therefore, many word boundaries are not marked by blanks.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+kriyāsaṃgrahakārikā
+
+parīkṣā guruśiṣyāṇāṃ guroradhyeṣaṇā tataḥ /
+mantrasevāṃ guruḥ kuryāt tato bhūmeḥ parīkṣaṇam // 1 //
+
+devatāyogayuktaḥ san mahīpūjāṃ vidhāya ca /
+devatotthāpanaṃ kṛtvā śodhayenmedinīṃ tataḥ // 2 //
+
+yavānāṃ ropaṇaṃ kṛtvā jāṅgulī cāpi pūjayet /
+sūtraṃ saṃpātya yatnena vāstunāgaṃ parīkṣayet // 3 //
+
+iṣṭakālakṣaṇaṃ samyag jñātvādigrahaṇaṃ tataḥ /
+samyagāyavyayau jñātvā prāsādasya ca lakṣaṇam // 4 //
+
+devadikpālavasudhāḥ sampūjya ca yathāvidhi /
+ītikāropaṇaṃ kṛtvā homaṃ kuryāt pramohanam // 5 //
+
+vanayātrā tato dvāraṃ samyagutthāpayetsudhīḥ /
+saṃsthāpya ca śirodāru juhuyādamṛtānalam // 6 //
+
+vajrācāryapraveśo 'smin samādhitrayabhāvanā /
+parikramārthasūtrāṇāṃ pātanaṃ rajasāmapi // 7 //
+
+agnikriyāvidhānaṃ ca piṇḍikāsthāpanaṃ tataḥ /
+savyakṣaṇena niṣpādya pratimāṃ sthāpayettataḥ // 8 //
+
+citrakarma valiḥ piṇḍī gaṇḍikālakṣaṇaṃ tataḥ /
+eteṣāṃ ca pratiṣṭhānaṃ pravrajyāgrahaṇaṃ tathā // 9 //
+
+lakṣaṇaṃ dharmadhātūnāṃ dhvajānāmavaropaṇam /
+jīrṇoddhāropasaṃhārau pūjayed gaṇamaṇḍalam // 10 //
+
+/ kriyāsaṃgrahakārikā samāptā //
+
+/ kṛtiriyaṃ nāgārjunapādānām //

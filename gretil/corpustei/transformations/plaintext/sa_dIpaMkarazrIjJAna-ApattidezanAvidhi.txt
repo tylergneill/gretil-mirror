@@ -1,0 +1,65 @@
+Dīpaṃkaraśrījñāna [= Atīśa]: Āpattideśanāvidhi
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dIpaMkarazrIjJAna-ApattidezanAvidhi.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Ramesh Chandra Negi, Atishavirachita Ekadasa grantha.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Āpattideśanāvidhi = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsa041_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Dipankarasrijnana [=Dipamkarasrijnana = Atisa]:
+Apattidesanavidhi
+Based on the ed. by Ramesh Chandra Negi, Atishavirachita Ekadasa grantha.
+Sarnath: Central Institute of Higher Tibetan Studies, 1992, 108-109.
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sastra section, text no. 41
+The transliteration emulates the conventions of Nagari script.
+Therefore, many word boundaries are not marked by blanks.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+āpattideśanāvidhiḥ
+
+namo buddhāya
+
+"guravo mahāvajradharādajaḥ, daśadigavasthitāśca sarvabuddhabodhisattvāḥ mām samanvāharantu / bhadanto māṃ samanvāharatu / ahamevaṃnāmā anādisaṃsārāt prabhṛtipratyutpannaparyantaṃ rāga-dveṣa-mohavaśāt kāyavāṅmanasā daśākuśalāni kṛtavān, pañcānantaryāṇi, pañca tatsabhāgāni, prātimokṣasaṃvaravirodhaḥ, bodhisattvaśikṣāvirodhaḥ, guhyamantra-samayādi-virodhaḥ, samāsato 'bhyudaya-niḥśreyasavighnabhūtāḥ, saṃsārāpāyahetubhūtāśca ye ke 'pi āpattidoṣarāśayaḥ (santi) tān sarvān guruvajradharādīnāṃ, daśadigavasthitānāṃ sarvabuddhabodhisattvānāṃ, bhadantasya ca agrato deśayāmi, āviṣkaromi, na praticchādayāmi / āviṣkṛtena mama sparśavihāro bhavati,anāviṣkṛtena evanna bhavatī ti trirvadet /
+
+tato darśana-saṃvara-pṛcchānantaram "upāyaṃ", "sādhu" ceti vadet /
+
+prathamasaṃyojanavidhiḥ- evannāmāhaṃ anādisaṃsārāt prabhṛti kleśabāhulyāt pramādādivaśād vā doṣāpattirāśibahulaḥ, tān saṃghasya agrataḥ pratideṣṭukāmaḥ, ato 'nugṛhyatām iti / ante āpattita uddhṛto 'smītyatīva kṛtajño 'smīti dharmānurupakāryam anumodaye iti vadet /
+
+"āpattideśanāvidhiḥ ācāryadīpaṅkaraśrījñānaviracitaḥ samāptaḥ /
+
+tenaiva bhāratīyopādhyāyena bhoṭīyalokacakṣuṣā bhikṣu-jayaśīlena ca anūdya nirṇītaḥ /

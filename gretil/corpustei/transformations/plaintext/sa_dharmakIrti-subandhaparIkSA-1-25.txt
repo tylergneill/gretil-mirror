@@ -1,0 +1,74 @@
+Dharmakīrti: Subandhaparīkṣā 1-25
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dharmakIrti-subandhaparIkSA-1-25.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Motoi Ono
+## Contribution: Motoi Ono
+## Date of this version: 2020-07-31
+
+## Source: 
+   - S.D. SHASTRI, Vadanyayaprakarana of acharya Dharmakirtti with the commentary Vipanchitartha of acharya Santaraksita and Sambandhapariksa with the commentary of acharya Prabhachandra. Varanasi 1972; v.23-v.25: H. YAITA, Tarkarahasya kenkyu (1). Naritasan Bukkyo kenkyuujo kiyo 12, 1989, 75-98.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Subandhaparīkṣā 1-25 = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from dhksparu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 DHARMAKIRTI: SAMBANDHAPARIKSA, VERSES 1-25
+Input by Motoi Ono
+Texts used:
+S.D. SHASTRI, Vadanyayaprakarana of acharya Dharmakirtti
+with the commentary Vipanchitartha of acharya Santaraksita
+and Sambandhapariksa with the commentary of acharya Prabhachandra.
+Varanasi 1972;
+v.23-v.25: H. YAITA, Tarkarahasya kenkyu
+(1). Naritasan Bukkyo kenkyuujo kiyo 12, 1989, 75-98.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+explanatory remarks
+
+ a number of five figures at the left side indicates the location of the key word in the basic texts. in the case of the sv, the hb and the vn, the first three figures indicate the page number, and the last two indicate the line number (for example, sv16026=sv 160,26; hb02314=hb 23,14; vn06110=vn 61,10). in the case of the pv and the nb, the second figure indicates the chapter number and the last three figures indicate the karika or sutra number (for example, pv02232=pv, the pramanasiddhi-chapter v.232; nb03015=nb, the pararthanumana-chapter sutra 15. in the case of the sp, the last two figures indicate the karika number (for example, sp00015=sp, v.15).
+
+3. in this database, sentences are artificially divided into word-units, although they involve a phonetic fusion or union in the basic texts. further, compound words are divided into their shortest constitutive elements (we use a hyphen to indicate that hyphenated elements originally form a compound word) with the following exceptions:
+
+3.1. the prefixes a-, dur-, nih- remain undivided, irrespective of attachment to words or compound words.
+
+3.2. suffixes making an adverb, for example -vat, -vasa, are divided. but suffixes making a possessive adjective, for example -vat, -mat, remain undivided, and terms such as a numeral+ -dha/-vidha/-prakara remain also undivided.
+
+3.3. compound words with the suffixes -ta/-tva or -bhava/-bhuta fundamentally remain undivided. for example: karyakaranabhava/-bhuta/-ta.
+
+3.4. compound words with evam-, tat-, tatha-, para-, yatha-, su-, sva- in the wordhead fundamentally remain undivided. for example: evamjatiya, tadutpatti, tathakrta, paratantra, yathartha, yathasvam, sujnanatva, svabhava.
+
+3.5. some compound words which are regarded as terminology remain also undivided. for example: agnihotra, ayogavyavaccheda, arthapatti, padartha, paramartha, prasajyapratisedha, viruddhavyabhicarin, samanantarapratyaya, samtanaparinama, samanyalaksana, svabhavapratibandha.
+
+4. those terms whose wordhead is subject to the sandhi rules (for example, -d dhetu-) are cited in their original form (for example, -d *hetu-) for the sake of using this database to make an kwic index.
+
+1. august. 1997 / tsukuba motoi ono
+
+note: this database is quite a tentative one, and i must admit that there are a lot of errors and defects in this version. i would appreciate it very much if the user would point out any errors in this version so that we can make a better new version in the future.
+
+ e-mail: ono@logos.tsukuba.ac.jp
+
+00001 pāratantryaṃ hi sambandhaḥ siddhe kā paratantratā 00001 tasmāt sarvasya bhāvasya sambandho na asti tattvataḥ 00002 rūpa-śleṣo hi sambandho dvitve sa ca kathaṃ bhavet 00002 tasmāt prakṛti-bhinnānāṃ sambandho na asti tattvataḥ 00003 para-apekṣā hi sambandhaḥ so asan katham apekṣate 00003 saṃś ca sarva-nirāśaṃso bhāvaḥ katham apekṣate 00004 dvayor eka-abhisambandhāt sambandho yadi tad-dvayoḥ 00004 kaḥ sambandho anavasthā ca na sambandha-matis tathā 00005 tau ca bhāvau tad-anyaś ca sarve te sva-ātmani sthitāḥ 00005 ity amiśrāḥ svayaṃ bhāvās tān miśrayati kalpanā 00006 tām eva ca anurundhānaiḥ kriyā-kāraka-vācinaḥ 00006 bhāva-bheda-pratīty-arthaṃ saṃyojyante abhidhāyakāḥ 00007 kāryakāraṇabhāvo api tayor asahabhāvataḥ 00007 prasiddhyati kathaṃ dviṣṭho adviṣṭhe sambandhatā katham 00008 krameṇa bhāva ekatra vartamāṇo anya-nispṛhaḥ 00008 tadbhāve api tad-bhāvāt sambandho na eka-vṛttimān 00009 yady apekṣya tayor ekam anyatra asau pravartate 00009 upakārī hy apekṣyaḥ syāt kathaṃ ca upakaroty asan 00010 yady eka-artha-abhisambandhāt kāryakāraṇatā tayoḥ 00010 prāptā dvitva-ādi-sambandhāt savyetara-viśāṇayoḥ 00011 dviṣṭho hi kaścit sambandho na ato anyat tasya lakṣaṇam 00011 bhāva-abhāva-upadhir yogaḥ kāryakāraṇatā yadi 00012 yoga-upādhī na tāv eva kāryakāraṇatā atra kim 00012 bhedāc cen nanv ayaṃ śabdo niyoktāraṃ samāśritaḥ 00013 paśyann ekam adṛṣṭasya darśane tad-adarśane 00013 apaśyat kāryam anveti vinā vyākhyātṛbhir janaḥ 00014 darśanād adarśane muktvā kārya-buddher asambhavāt 00014 kārya-ādi-śrutir apy atra lāghava-arthaṃ niveśitā 00015 tad-bhāva-abhāvāt tat-kārya-gatir yā apy anuvarṇyate 00015 saṃketa-viṣaya-ākhyā sā sāsnā-āder go-gatir yathā 00016 bhāve bhāvini tad-bhāvo bhāva eva ca bhāvitā 00016 prasiddhe hetu-phalate pratyakṣa-anupalambhataḥ 00017 etāvanmātra-tattva-arthāḥ kārya-kāraṇa-gocarāḥ 00017 vikalpā darśayanty arthān mithyā-arthā ghaṭitān iva 00018 bhinne kā ghaṭanā abhinne kāryakāraṇatā api kā 00018 bhāve hy anyasya viśliṣṭau śilaṣṭau syātāṃ kathaṃ ca tau 00019 saṃyogi-samavāyya-ādi sarvam etena cintitam 00019 anyonya-anupakārāc ca na sambandhī ca tādṛśaḥ 00020 janane api hi kāryasya kenacit samavāyinā 00020 samavāyī tadā na asau na tato atiprasaṅgataḥ 00021 tayor anupakāre api samavāye paratra vā 00021 sambandho yadi viśvaṃ syāt samavāyi parasparam 00022 saṃyoga-janane api iṣṭau tataḥ saṃyoginau na tau 00022 karma-ādi-yogita-āpatteḥ sthiteś ca prativarṇitā 00023 saṃyoga-ādy-āśraye yogyam ayogyaṃ tac ca jāyate 00023 nityaṃ yogya-svabhāvasya tad-vaikalya-virodhataḥ 00024 iti tad-yogyatā-vācyaḥ svabhāvo asya nirucyatām 00024 vibhāga-yoga-gatibhiḥ kim anyair gamana-ādibhiḥ 00025 teṣu satsv api tasya iti sambandhasya aprasiddhitaḥ 00025 yuktaḥ svabhāva-bhedo ayam tat pratikṣaṇa-janmanām

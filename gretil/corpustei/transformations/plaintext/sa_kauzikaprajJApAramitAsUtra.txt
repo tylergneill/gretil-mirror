@@ -1,0 +1,104 @@
+Kauśikaprajñāpāramitāsūtra
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kauzikaprajJApAramitAsUtra.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - P.L. Vaidya in: Mahayana-sutra-samgrahah, Part 1. Darbhanga: The Mithila Institute 1961 (Buddhist Sanskrit Texts, 17).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Kauśikaprajñāpāramitāsūtra = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsu055_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Kausikaprajnaparamitasutra
+Based on the ed. by P.L. Vaidya in: Mahayana-sutra-samgrahah, Part 1.
+Darbhanga: The Mithila Institute 1961 (Buddhist Sanskrit Texts, 17)
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sutra section, text no. 55.
+The transliteration emulates the conventions of Nagari script.
+Therefore, many word boundaries are not marked by blanks.
+REFERENCE SYSTEM:
+(Vaidya n) = pagination of P.L. Vaidya's edition (added by Klaus Wille)
+NOTE: Where a page break occurs within a word, the pagination mark has been
+shifted to the end of the word in order not to interfere with word search.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+kauśikaprajñāpāramitāsūtram |
+namo sarvabuddhabodhisattvebhyaḥ ||
+
+evaṃ mayā śrutam | ekasmin samaye bhagavān rājagṛhe viharati sma gṛdhrakūṭe parvate mahatā bhikṣusaṃghena sārdhamanekaiśca bodhisattvaśatasahasraiḥ sarvaiḥ kumārabhūtaiḥ | tatra khalu bhagavān śakraṃ devānāmindramāmantrayate sma ||
+
+ayaṃ kauśika prajñāpāramitāyāḥ arthaḥ - prajñāpāramitā na dvayena draṣṭavyā na advayena | na nimittato na animittataḥ | na āyūhato na nirāyūhataḥ | notkṣepato na prakṣepataḥ | na saṃkleśato na asaṃkleśataḥ | na vyavadānato na avyavadānataḥ | notsargato na anutsargataḥ | na sthānato na asthānataḥ | na yogato na ayogataḥ | na saṃbandhato na asaṃbandhataḥ | na pratyayato na apratyayataḥ | na dharmato na adharmataḥ | na tathata(yā) na atathata(yā) na bhūtakoṭyā na abhūtakoṭyā(vedi)tavyā ||
+
+evamevāyaṃ sa kauśika prajñāpāramitāyāḥ arthaḥ | tadyathā sarvadharmasamatvāt prajñāpāramitā samā | sarvadharmaviviktatvāt prajñāpāramitā viviktā | sarvadharmācalatvāt prajñāpāramitā acalā | sarvadharmāmanyatvāt prajñāpāramitā amanyatā | sarvadharmābhīrutvāt prajñāpāramitā abhīru | sarvadharmācchambhitatayā prajñāpāramitā acchambhī | sarvadharmaikarasatvāt prajñāpāramitā ekarasā | sarvadharmānutpādatvāt prajñāpāramitā anutpādā | sarvadharmānirodhatvāt prajñāpāramitā anirodhā | gaganakalpatvāt sarvadharmāṇāṃ prajñāpāramitā gaganakalpā | rūpāparyantatvāt prajñāpāramitā aparyantā | evaṃ vedanāsaṃjñāsaṃskāravijñānāparyantatvāt prajñāpāramitā aparyantā | pṛthivīdhātvaparyantatvāt prajñāpāramitā aparyantā | evamabdhātu - tejodhātu - vāyudhātu - ākāśadhātu - vijñānadhātvaparyantatvāt prajñāpāramitā aparyantā | sumervaparyantatvāt prajñāpāramitā aparyantā | samudrāparyantatvāt prajñāpāramitā aparyantā | vajrasamatvāt prajñāpāramitā samā | sarvadharmābhedatvāt prajñāpāramitā abhedā | sarvadharma(svabhāvā)nupalabdhitvāt prajñāpāramitā anupalabdhiḥ | sarvadharmavibhāva(nā) - samatvāt prajñāpāramitā(a)vibhāva(nā) - samā | sarvadharmaniśceṣṭatvāt prajñāpāramitā niśceṣṭā | sarvadharmācintyatvāt prajñāpāramitā acintyeti ||
+
+evaṃ dānapāramitā - śīlapāramitā - kṣāntipāramitā - vīryapāramitā - dhyānapāramitā - prajñāpāramitātrimaṇḍalapariśuddhyaparyantatvāt prajñāpāramitā aparyantā iti ||
+
+prajñāpāramitā ucyate yaduta aṣṭādaśaśūnyatā | tadyathā - ādhyātmaśūnyatā bahirdhāśūnyatā ādhyātmābahirdhāśūnyatā śūnyatāśūnyatā mahāśūnyatā paramā(rtha)śūnyatā saṃskṛtaśūnyatā asaṃskṛtaśūnyatā atyantaśūnyatā anādyagraśūnyatā (ana)pakāraśūnyatā prakṛtiśūnyatā svalakṣaṇaśūnyatā sarvadharmaśūnyatā anupalambhaśūnyatā abhāvaśūnyatā svabhāvaśūnyatā abhāvasvabhāvaśūnyatā iti | ayamucyate saṃkṣiptena prajñāpāramiteti ||
+
+(kauś, vaidya 96) tārakā timiraṃ dīpo māyāvaśyāya buddhudam | supinaṃ vidyudabhraṃ ca evaṃ draṣṭavya saṃskṛtamiti ||
+
+anirodhamanutpādamanucchedamaśāśvatam |
+anekārthamanānārthamanāgamamanirgamam ||
+
+yaḥ pratītyasamutpādaṃ prapañcopaśamaṃ śivam |
+deśayāmāsa saṃbuddhastaṃ vande vadatāṃ varam ||
+
+namo daśasu dikṣu sarveṣāmatītānāgatapratyutpannānāṃ trayāṇāṃ ratnānām | namo bhagavatyai prajñāpāramitāyai sarvatathāgatasunibhāyai sarvatathāgatānujñātavijñātāyai |(oṃ) prajñe mahāprajñe prajñāvabhāse prajñālokakāri ajñānavidhamane siddhe susiddhe siddhyamane(bha)gavate sarvāṅgasundari(bha)ktivatsale prasārahaste samāśvāsakare sidhya sidhya, budhya budhya, kampa kampa, cala cala, rāva rāva, āgaccha bhagavate mā vilamba svāhā ||
+
+namo dharmodgatasya bodhisattvasya mahāsattvasya mahākāruṇakasya ||
+
+namo prajñāpāramitāyai | tadyathā - munidharme saṃgrahadharme anugrahadharme vimokṣadharme sattvānugrahadharme vaiśramaṇadharme samantanuparivartanadharme guṇigrahasaṃgrahadharme sarvatrānugatadharme sarvakālaparipūrṇadharme svāhā ||
+
+namo prajñāpāramitāyai | tadyathā - akhane nikhane mukhana nekhane(avaravandane) paṭane paṭane paṭare svāhā ||
+
+namo prajñāpāramitāyai | tadyathā - gaṅgā gaṅgā na tīrāvabhāsa gaṅgā svāhā ||
+
+namo prajñāpāramitāyai | tadyathā śrīye śrīye muni śrīye śrīyase svāhā ||
+
+namo prajñāpāramitāyai | tadyathā - oṃ vajrabale svāhā ||
+
+namo prajñāpāramitāyai | tadyathā - oṃ hrī śrī dhī śruti smṛti mati gati vijaye svāhā ||
+
+namo prajñāpāramitāyai | tadyathā - bambari bambari mahābambari būru būru mahābūru svāhā ||
+
+namaḥ prajñāpāramitāyai | tadyathā - hūte hūte hūvitāśane sarva - karmāvaraṇane svāhā
+
+|| namaḥ prajñāpāramitāyai | tadyathā - oṃ orolik svāhā ||
+
+namo prajñāpāramitāyai | tadyathā - oṃ sarvavit svāhā ||
+
+namaḥ prajñāpāramitāyai | tadyathā - gate gate pāragate pārasaṃgate bodhi svāhā ||
+
+idamavocadbhagavān | āttamanā āyuṣmān sāriputraḥ śakro devānāmindraste ca bodhisattvā mahāsattvāḥ sā ca sarvāvatī parṣad sadevagandharvamānuṣāsuraśca loko bhagavato bhāṣitamabhyanandan ||
+
+kauśikanāma prajñāpāramitā samāptā ||

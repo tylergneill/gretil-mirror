@@ -1,0 +1,715 @@
+Gauḍapāda: Āgamaśāstra (= Gauḍapādakārikā, Gauḍapādīyakārikā, a verse commentary on the Māṇḍūkya-Upaniṣad)
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_gauDapAda-AgamazAstra.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Peter Schreiner
+## Contribution: Peter Schreiner
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Vinayaka Ganesha Apate. Pune 1921 (Anandasrama Sanskrit Series ; 10).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Āgamaśāstra = GpK,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from gaukarau.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Gaudapada:
+Agamasastra (=Gaudapadakarika, Gaudapadiyakarika)
+[verse commentary on the Mandukya-Upanisad]
+Based on the edition by Vinayaka Ganesha Apate.
+Pune 1921 (Anandasrama Sanskrit Series ; 10)
+Compared with the following editions:
+[S:] Ishadi-dashopanishadah : Ten Principal Upanishads
+ with Shankarabhashya, Delhi 1964 (pp. 424-497)
+[B:] The Agamasastra of Gaudapada, ed. Vidhushekhara Bhattacharya,
+ Calcutta 1943 (reprint: Delhi 1989)
+[K:] Gaudapada-Karika : edited with a complete translation into English ...,
+ [ed.] Raghujnath Damodar Karmarkar. Poona 1963 (reprint: 1973).
+Input by Peter Schreiner
+ANALYTIC VERSION according to BHELA conventions
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+
+atha gauḍapādīya-kārikāḥ
+
+(bahiṣ[s:]bahiḥ)prajño vibhur viśvo hy antaḥprajñas tu taijasaḥ 
+ghanaprajñas tathā prājña eka eva tridhā (smṛtaḥ [b:]sthitaḥ) // GpK_1.1
+
+dakṣiṇākṣimukhe viśvo manasy antas tu taijasaḥ 
+ākāśe ca hṛdi prājñas tridhā dehe vyavasthitaḥ // GpK_1.2
+
+viśvo hi sthūlabhuṅ nityaṃ taijasaḥ praviviktabhuk 
+ānandabhuk tathā prājñas tridhā bhogaṃ nibodhata // GpK_1.3
+
+sthūlaṃ tarpayate viśvaṃ praviviktaṃ tu taijasam 
+ānandaś ca tathā prājñaṃ tridhā tṛptiṃ nibodhata // GpK_1.4
+
+triṣu dhāmasu yad bhojyaṃ bhoktā yaś ca prakīrtitaḥ 
+vedaitad ubhayaṃ yas tu sa bhuñjāno na lipyate // GpK_1.5
+
+prabhavaḥ sarva(bhāvānāṃ [b:]bhūtānāṃ) satām iti viniścayaḥ 
+sarvaṃ janayati prāṇaś cetoaṃśūn puruṣaḥ pṛthak // GpK_1.6
+
+vibhūtiṃ prasavaṃ tv anye manyante sṛṣṭicintakāḥ 
+svapnamāyā(sa[b:]sva)rūpeti sṛṣṭir anyair vikalpitā // GpK_1.7
+
+icchāmātraṃ prabhoḥ sṛṣṭir iti sṛṣṭau viniścitāḥ 
+kālāt prasūtiṃ bhūtānāṃ manyante kālacintakāḥ // GpK_1.8
+
+bhogārthaṃ sṛṣtir ity anye krīḍārtham iti cāpare 
+devasyaiṣa svabhāvo 'yam āptakāmasya kā spṛhā // GpK_1.9
+
+nivṛtteḥ sarvaduḥkhānām īśānaḥ prabhur avyayaḥ 
+advaitaḥ sarvabhāvānāṃ devas turyo vibhuḥ smṛtaḥ // GpK_1.10
+
+kāryakāraṇabaddhau tāv iṣyete viśvataijasau 
+prājñaḥ kāraṇabaddhas tu (dvau tau [b:]dve tu) turye na sidhyataḥ // GpK_1.11
+
+nātmānaṃ na (parāṃś [s:]paraṃ) caiva na satyaṃ nāpi cānṛtam 
+prājñaḥ kiṃcana saṃvetti (turyaṃ tat [b:]turīyaḥ) sarvadṛk sadā // GpK_1.12
+
+dvaitasyāgrahaṇaṃ tulyam ubhayoḥ prājñaturyayoḥ 
+bījanidrāyutaḥ prājñaḥ sā ca turye na vidyate // GpK_1.13
+
+svapnanidrāyutāv ādyau prājñas tv asvapnanidrayā 
+na nidrāṃ naiva ca svapnaṃ turye paśyanti niścitāḥ // GpK_1.14
+
+anyathā gṛhṇataḥ svapno nidrā tattvam ajānataḥ 
+viparyāse tayoḥ kṣīṇe turīyaṃ padam aśnute // GpK_1.15
+
+anādimāyayā supto yadā jīvaḥ prabudhyate 
+ajam anidram asvapnam advaitaṃ budhyate tadā // GpK_1.16
+
+prapañco yadi vidyeta nivarteta na saṃśayaḥ 
+māyāmātram idaṃ dvaitam advaitaṃ paramārthataḥ // GpK_1.17
+
+vikalpo vinivarteta kalpito yadi kenacit 
+upadeśād ayaṃ vādo jñāte dvaitaṃ na vidyate // GpK_1.18
+
+viśvasyātvavivakṣāyām ādisāmānyam utkaṭam 
+mātrāsaṃpratipattau syād āptisāmānyam eva ca // GpK_1.19
+
+taijasasyotvavijñāne utkarṣo dṛśyate sphuṭam 
+mātrāsaṃpratipattau syād ubhayatvaṃ tathāvidham // GpK_1.20
+
+makārabhāve prājñasya mānasāmānyam utkaṭam 
+mātrāsaṃpratipattau tu layasāmānyam eva ca // GpK_1.21
+
+triṣu dhāmasu (yat [b:]yas) tulyaṃ sāmānyaṃ vetti niścitaḥ 
+sa pūjyaḥ sarvabhūtānāṃ vandyaś caiva mahāmuniḥ // GpK_1.22
+
+akāro nayate viśvam ukāraś cāpi taijasam 
+makāraś ca punaḥ prājñaṃ nāmātre vidyate gatiḥ // GpK_1.23
+
+oṃkāraṃ pādaśo vidyāt pādā mātrā na saṃśayaḥ 
+oṃkāraṃ pādaśo jñātvā na kiṃcid api cintayet // GpK_1.24
+
+yuñjīta praṇave cetaḥ praṇavo brahma nirbhayam 
+praṇave nityayuktasya na bhayaṃ vidyate kvacit // GpK_1.25
+
+praṇavo hy aparaṃ brahma praṇavaś ca (paraḥ [b:,s:]paraṃ) smṛtaḥ 
+apūrvo 'nantaro 'bāhyo anaparaḥ praṇavo 'vyayaḥ // GpK_1.26
+
+sarvasya praṇavo hy ādir madhyam antas tathaiva ca 
+evaṃ hi praṇavaṃ jñātvā vyaśnute tad anantaram // GpK_1.27
+
+praṇavaṃ hīśvaraṃ vidyāt sarvasya hṛdi saṃsthitam 
+sarvavyāpinam oṃkāraṃ matvā dhīro na śocati // GpK_1.28
+
+amātro 'nantamātraś ca dvaitasyopaśamaḥ śivaḥ 
+oṃkāro vidito yena sa munir netaro janaḥ // GpK_1.29
+
+col: iti (māṇḍūkyo1paniṣad-arthā3viṣ-karaṇa-parāyāṃ gauḍapādīya-kārikāyāṃ prathamam āgama-prakaraṇam [b:]gauda-pādīye āgama-śāstre āgamā3khyaṃ prathamaṃ prakaraṇaṃ samāptam)
+
+
+(atha gauḍapādīya-kārikāyāṃ vaitathyā3khyaṃ dvitīyaṃ prakaraṇam [k:]dvitīyaṃ prakaraṇam [s:]vaitathya-prakaraṇam
+
+vaitathyaṃ sarvabhāvānāṃ svapne āhur manīṣiṇaḥ 
+antaḥsthānāt tu bhāvānāṃ saṃvṛtatvena hetunā // GpK_2.1
+
+adīrghatvāc ca kālasya gatvā deśān na paśyati 
+pratibuddhaś ca vai sarvas tasmin deśe na vidyate // GpK_2.2
+
+abhāvaś ca rathādīnāṃ śrūyate nyāyapūrvakam 
+vaitathyaṃ tena vai prāptaṃ svapne āhuḥ prakāśitam // GpK_2.3
+
+antaḥsthānāt tu bhedānāṃ (tasmāj [b:]tathā) jāgarite smṛtam 
+yathā tatra tathā svapne (saṃvṛtatvena [b:]saṃvṛtatvaṃ na) bhidyate // GpK_2.4
+
+(svapnajāgaritasthāne [b,s:]svapnajāgarite sthāne) hy ekam āhur manīṣiṇaḥ 
+bhedānāṃ hi samatvena prasiddhenaiva hetunā // GpK_2.5
+
+ādāv ante ca yan nāsti vartamāne 'pi tat tathā 
+vitathaiḥ sadṛśāḥ santo avitathā iva lakṣitāḥ // GpK_2.6
+
+saprayojanatā teṣāṃ svapne (vipratipadyate [b:]api pratipadyate) 
+tasmād ādyantavattvena mithyaiva khalu te smṛtāḥ // GpK_2.7
+
+(apūrvaṃ [b:]apūrvāḥ) sthāni(dharmo [b:]dharmā) hi yathā svarganivāsinām 
+tān ayaṃ prekṣate gatvā yathaiveha suśikṣitaḥ // GpK_2.8
+
+svapnavṛttāv api tv antaś cetasā kalpitaṃ tv asat 
+bahiś cetogṛhītaṃ sad dṛṣṭaṃ vaitathyam etayoḥ // GpK_2.9
+
+jāgradvṛttāv api tv antaś cetasā kalpitaṃ tv asat 
+bahiś cetogṛhītaṃ sad yuktaṃ vaitathyam etayoḥ // GpK_2.10
+
+ubhayor api vaitathyaṃ bhedānāṃ sthānayor yadi 
+ka etān budhyate bhedān ko vai teṣāṃ vikalpakaḥ // GpK_2.11
+
+kalpayaty ātmanātmānam ātmā devaḥ svamāyayā 
+sa eva budhyate bhedān iti vedāntaniścayaḥ // GpK_2.12
+
+vikaroty aparān bhāvān antaś citte (vyavasthitān [b:]avyavasthitān) 
+niyatāṃś ca bahiś citte evaṃ kalpayate prabhuḥ // GpK_2.13
+
+citta(kālā hi [b:]kālāś ca) ye 'ntas tu dvayakālāś ca ye bahiḥ 
+kalpitā eva te sarve viśeṣo nānyahetukaḥ // GpK_2.14
+
+avyaktā eva ye 'ntas tu sphuṭā eva ca ye bahiḥ 
+kalpitā eva te sarve viśeṣas tv indriyāntare // GpK_2.15
+
+jīvaṃ kalpayate pūrvaṃ tato bhāvān pṛthagvidhān 
+bāhyān ādhyātmikāṃś caiva yathāvidyas tathāsmṛtiḥ // GpK_2.16
+
+aniścitā yathā rajjur andhakāre vikalpitā 
+sarpadhārādibhir bhāvais tadvad ātmā vikalpitaḥ // GpK_2.17
+
+niścitāyāṃ yathā rajjvāṃ vikalpo vinivartate 
+rajjur eveti cādvaitaṃ tadvad ātmaviniścayaḥ // GpK_2.18
+
+prāṇādibhir (anantaiś ca [b,s:]anantais tu) bhāvair etair vikalpitaḥ 
+māyaiṣā tasya devasya (yayā saṃmohitaḥ [b,s:]yayāyaṃ mohitaḥ) svayam // GpK_2.19
+
+(prāṇa [b:]prāṇā) iti prāṇavido bhūtānīti ca tadvidaḥ 
+guṇā iti guṇavidas tattvānīti ca tadvidaḥ // GpK_2.20
+
+pādā iti pādavido viṣayā iti tadvidaḥ 
+lokā iti lokavido devā iti ca tadvidaḥ // GpK_2.21
+
+vedā iti vedavido yajñā iti ca tadvidaḥ 
+bhokteti ca bhoktṛvido bhojyam iti ca tadvidaḥ // GpK_2.22
+
+sūkṣma iti sūkṣmavidaḥ sthūla iti ca tadvidaḥ 
+mūrta iti mūrtavido amūrta iti ca tadvidaḥ // GpK_2.23
+
+kāla iti kālavido diśa iti ca tadvidaḥ 
+vādā iti vādavido bhuvanānīti tadvidaḥ // GpK_2.24
+
+mana iti manovido buddhir iti ca tadvidaḥ 
+cittam iti cittavido dharmādharmau ca tadvidaḥ // GpK_2.25
+
+pañcaviṃśaka ity eke ṣaḍviṃśa iti cāpare 
+ekatriṃśaka ity āhur ananta iti cāpare // GpK_2.26
+
+lokāṃl lokavidaḥ prāhur āśramā iti tadvidaḥ 
+strīpuṃnapuṃsakaṃ laiṅgāḥ parāparam athāpare // GpK_2.27
+
+sṛṣṭir iti sṛṣṭivido laya iti ca tadvidaḥ 
+sthitir iti sthitividaḥ (sarve [b:]sarvaṃ) ceha tu sarvadā // GpK_2.28
+
+yaṃ bhāvaṃ darśayed yasya taṃ bhāvaṃ sa tu paśyati 
+taṃ cāvati sa bhūtvāsau tadgrahaḥ samupaiti tam // GpK_2.29
+
+etair eṣo apṛthagbhāvaiḥ pṛthag eveti lakṣitaḥ 
+evaṃ yo veda tattvena kalpayet so 'viśaṅkitaḥ // GpK_2.30
+
+svapnamāye yathā dṛṣṭe gandharvanagaraṃ yathā 
+tathā viśvam idaṃ dṛṣṭaṃ vedānteṣu vicakṣaṇaiḥ // GpK_2.31
+
+na nirodho na cotpattir na baddho na ca sādhakaḥ 
+na mumukṣur na vai mukta ity eṣā paramārthatā // GpK_2.32
+
+bhāvair asadbhir evāyam advayena ca kalpitaḥ 
+bhāvā apy advayenaiva tasmād advayatā śivā // GpK_2.33
+
+(nātma[b:]nānya)bhāvena nānedaṃ na svenāpi kathaṃcana 
+na pṛthaṅ nāpṛthak kiṃcid iti tattvavido viduḥ // GpK_2.34
+
+vītarāgabhayakrodhair munibhir vedapāragaiḥ 
+nirvikalpo hy ayaṃ dṛṣṭaḥ prapañcopaśamo 'dvayaḥ // GpK_2.35
+
+tasmād evaṃ viditvainam advaite yojayet smṛtim 
+advaitaṃ samanuprāpya jaḍaval lokam ācaret // GpK_2.36
+
+niḥstutir nirnamaskāro niḥsvadhākāra eva ca 
+calācalaniketaś ca yatir yādṛcchiko bhavet // GpK_2.37
+
+tattvam ādhyātmikaṃ dṛṣṭvā tattvaṃ dṛṣṭvā tu bāhyataḥ 
+tattvībhūtas tadārāmas tattvād apracyuto bhavet // GpK_2.38
+
+atha gauḍapādīya-kārikāsv a-dvaitā3khyaṃ tṛtīyaṃ prakaraṇam | oṃ
+
+upāsanāśrito dharmo jāte brahmaṇi vartate 
+prāg utpatter ajaṃ sarvaṃ tenāsau kṛpaṇaḥ smṛtaḥ // GpK_3.1
+
+ato vakṣyāmy akārpaṇyam ajāti samatāṃ gatam 
+yathā na jāyate kiṃcij jāyamānaṃ samantataḥ // GpK_3.2
+
+ātmā hy ākāśavaj jīvair ghaṭākāśair ivoditaḥ 
+ghaṭādivac ca saṃghātair jātāv etan nidarśanam // GpK_3.3
+
+ghaṭādiṣu pralīneṣu ghaṭākāśādayo yathā 
+ākāśe saṃpralīyante tadvaj jīvā ihātmani // GpK_3.4
+
+yathaikasmin ghaṭākāśe rajodhūmādibhir yute 
+na sarve saṃprayujyante tadvaj jīvāḥ sukhādibhiḥ // GpK_3.5
+
+rūpakāryasamākhyāś ca bhidyante tatra tatra vai 
+ākāśasya na bhedo 'sti tadvaj jīveṣu nirṇayaḥ // GpK_3.6
+
+nākāśasya ghaṭākāśo vikārāvayavau yathā 
+naivātmanaḥ sadā jīvo vikārāvayavau tathā // GpK_3.7
+
+yathā bhavati bālānāṃ gaganaṃ malinaṃ malaiḥ 
+tathā bhavaty abuddhānām ātmāpi malino malaiḥ // GpK_3.8
+
+maraṇe saṃbhave caiva gatyāgamanayor api 
+(sthitau [b:]sthitaḥ) sarvaśarīreṣu (ākāśenā[k,s:]cākāśenā)vilakṣaṇaḥ [check!] // GpK_3.9
+
+saṃghātāḥ svapnavat (sarve [k: ,s:]sarve) ātmamāyāvisarjitāḥ [check!] 
+ādhikye sarvasāmye vā nopapattir hi vidyate // GpK_3.10
+
+rasādayo hi ye kośā vyākhyātās taittirīyake 
+teṣāṃ ātmā paro jīvaḥ (khaṃ yathā [b:]sayathā) saṃprakāśitaḥ // GpK_3.11
+
+dvayor dvayor madhujñāne paraṃ brahma prakāśitam 
+pṛthivyām udare caiva yathākāśaḥ prakāśitaḥ // GpK_3.12
+
+jīvātmanor ananyatvam abhedena praśasyate 
+nānātvaṃ nindyate yac ca tad evaṃ hi samañjasam // GpK_3.13
+
+jīvātmanoḥ pṛthaktvaṃ yat prāg utpatteḥ prakīrtitam 
+bhaviṣyadvṛttyā gauṇaṃ tan mukhyatvaṃ (hi na [b:]na hi) yujyate // GpK_3.14
+
+mṛllohavisphuliṅgādyaiḥ sṛṣṭir yā coditānyathā 
+upāyaḥ so 'vatārāya nāsti bhedaḥ kathaṃcana // GpK_3.15
+
+āśramās trividhā hīnamadhyamotkṛṣṭadṛṣṭayaḥ 
+upāsanopadiṣṭeyaṃ tadartham anukampayā // GpK_3.16
+
+svasiddhāntavyavasthāsu dvaitino niścitā dṛḍham 
+parasparaṃ virudhyante tair ayaṃ na virudhyate // GpK_3.17
+
+advaitaṃ paramārtho hi dvaitaṃ tadbheda ucyate 
+teṣām ubhayathā dvaitaṃ tenāyaṃ na virudhyate // GpK_3.18
+
+māyayā bhidyate hy etan nānyathājaṃ kathaṃcana 
+tattvato bhidyamāne hi martyatām amṛtaṃ vrajet // GpK_3.19
+
+ajātasyaiva bhāvasya jātim icchanti vādinaḥ 
+ajāto hy amṛto bhāvo martyatāṃ katham eṣyati // GpK_3.20
+
+na bhavaty amṛtaṃ martyaṃ na martyam amṛtaṃ tathā 
+prakṛter anyathābhāvo na kathaṃcid bhaviṣyati // GpK_3.21
+
+svabhāvenāmṛto yasya bhāvo gacchati martyatām 
+kṛtakenāmṛtas tasya kathaṃ sthāsyati niścalaḥ // GpK_3.22
+
+bhūtato 'bhūtato vāpi sṛjyamāne samā śrutiḥ 
+niścitaṃ yuktiyuktaṃ ca yat tad bhavati netarat // GpK_3.23
+
+neha nāneti cāmnāyād indro māyābhir ity api 
+ajāyamāno bahudhā māyayā jāyate tu saḥ // GpK_3.24
+
+saṃbhūter apavādāc ca saṃbhavaḥ pratiṣidhyate 
+ko (nv [k,b,s:]tv) enaṃ janayed iti kāraṇaṃ pratiṣidhyate [check!] // GpK_3.25
+
+sa eṣa neti netīti vyākhyātaṃ nihnute yataḥ 
+sarvam agrāhyabhāvena hetunājaṃ prakāśate // GpK_3.26
+
+sato hi māyayā janma yujyate na tu tattvataḥ 
+tattvato jāyate yasya jātaṃ tasya hi jāyate // GpK_3.27
+
+asato māyayā janma tattvato naiva yujyate 
+vandhyāputro na tattvena māyayā vāpi jāyate // GpK_3.28
+
+yathā svapne dvayābhāsaṃ spandate māyayā manaḥ 
+tathā jāgraddvayābhāsaṃ spandate māyayā manaḥ // GpK_3.29
+
+advayaṃ ca dvayābhāsaṃ manaḥ svapne na saṃśayaḥ 
+advayaṃ ca dvayābhāsaṃ tathā jāgran na saṃśayaḥ // GpK_3.30
+
+manodṛśyam idaṃ dvaitaṃ yat kiṃcit sacarācaram 
+manaso hy amanībhāve dvaitaṃ naivopalabhyate // GpK_3.31
+
+ātmasatyānubodhena na saṃkalpayate yadā 
+amanastāṃ tadā yāti grāhyābhāve (tad agraham [b:]tadagrahāt) // GpK_3.32
+
+akalpakam ajaṃ jñānaṃ jñeyābhinnaṃ pracakṣate 
+brahma jñeyam ajaṃ nityam ajenājaṃ vibudhyate // GpK_3.33
+
+nigṛhītasya manaso nirvikalpasya dhīmataḥ 
+pracāraḥ sa tu vijñeyaḥ suṣupte 'nyo na tatsamaḥ // GpK_3.34
+
+līyate hi suṣupte tan nigṛhītaṃ na līyate 
+tad eva nirbhayaṃ brahma jñānālokaṃ samantataḥ // GpK_3.35
+
+ajam anidram asvapnam anāmakam arūpakam 
+sakṛdvibhātaṃ sarvajñaṃ nopacāraḥ kathaṃcana // GpK_3.36
+
+sarvābhilāpavigataḥ sarvacintāsamutthitaḥ 
+supraśāntaḥ sakṛjjyotiḥ samādhir acalo 'bhayaḥ // GpK_3.37
+
+graho na tatra notsargaś cintā yatra na vidyate 
+ātmasaṃsthaṃ tadā jñānam ajāti samatāṃ gatam // GpK_3.38
+
+asparśayogo (vai nāma [b:]nāmaiṣa) durdarśaḥ sarvayogibhiḥ 
+yogino bibhyati hy asmād abhaye bhayadarśinaḥ // GpK_3.39
+
+manaso nigrahāyattam abhayaṃ sarvayogiṇām 
+duḥkhakṣayaḥ prabodhaś cāpy akṣayā śāntir eva ca // GpK_3.40
+
+utseka udadher yadvat kuśāgreṇaikabindunā 
+manaso nigrahas tadvad bhaved aparikhedataḥ // GpK_3.41
+
+upāyena nigṛhṇīyād vikṣiptaṃ kāmabhogayoḥ 
+suprasannaṃ laye caiva yathā kāmo layas tathā // GpK_3.42
+
+duḥkhaṃ sarvam anusmṛtya (kāma[s:]kāya)bhogān nivartayet 
+ajaṃ sarvam anusmṛtya jātaṃ naiva tu paśyati // GpK_3.43
+
+laye saṃbodhayec cittaṃ vikṣiptaṃ śamayet punaḥ 
+sakaṣāyaṃ (vijānīyāt sama [b:]vijānīyāc chama)prāptaṃ na cālayet // GpK_3.44
+
+nāsvādayet sukhaṃ tatra niḥsaṅgaḥ prajñayā bhavet 
+niścalaṃ niścarat cittam ekīkuryāt prayatnataḥ // GpK_3.45
+
+yadā na līyate cittaṃ na ca vikṣipyate punaḥ 
+aniṅganam anābhāsaṃ niṣpannaṃ brahma tat tadā // GpK_3.46
+
+svasthaṃ śāntaṃ sanirvāṇam akathyaṃ sukham uttamam 
+ajam ajena jñeyena sarvajñaṃ paricakṣate // GpK_3.47
+
+na kaścij jāyate jīvaḥ saṃbhavo 'sya na vidyate 
+etat tad uttamaṃ satyaṃ yatra kiṃcin na jāyate // GpK_3.48
+
+iti (gauḍapādīya-kārikāyām a-dvaitā3khyaṃ [b:]gauḍapādīye āgama-śāstre '-dvaitā3khyaṃ) tṛtīyaṃ (prakaraṇam || oṃ tat sat || [b:]prakaraṇaṃ samāptam)
+
+
+athā7lāta-śānty-ākhyaṃ caturtha-prakaraṇam
+
+jñānenākāśakalpena dharmān yo gaganopamān 
+jñeyābhinnena saṃbuddhas taṃ vande dvipadāṃ varam // GpK_4.1
+
+asparśayogo vai nāma sarvasattvasukho hitaḥ 
+avivādo aviruddhaś ca deśitas taṃ namāmy aham // GpK_4.2
+
+bhūtasya jātim icchanti vādinaḥ kecid eva hi 
+abhūtasyāpare dhīrā vivadantaḥ parasparam // GpK_4.3
+
+bhūtaṃ na jāyate kiṃcid abhūtaṃ naiva jāyate 
+vivadanto (dvayā [b:]advayā) hy evam ajātiṃ khyāpayanti te // GpK_4.4
+
+khyāpyamānām ajātiṃ tair anumodāmahe vayam 
+vivadāmo na taiḥ sārdham avivādaṃ nibodhata // GpK_4.5
+
+ajātasyaiva dharmasya jātim icchanti vādinaḥ 
+ajāto hy amṛto dharmo martyatāṃ katham eṣyati // GpK_4.6
+
+na bhavaty amṛtaṃ martyaṃ na martyam amṛtaṃ tathā 
+prakṛter anyathābhāvo na kathaṃcid bhaviṣyati // GpK_4.7
+
+svabhāvenāmṛto yasya dharmo gacchati martyatām 
+kṛtakenāmṛtas tasya kathaṃ sthāsyati niścalaḥ // GpK_4.8
+
+sāṃsiddhikī svābhāvikī (sahajā [b:]sahajāpy) akṛtā ca yā 
+prakṛtiḥ seti vijñeyā svabhāvaṃ na jahāti yā // GpK_4.9
+
+jarāmaraṇanirmuktāḥ sarve dharmāḥ svabhāvataḥ 
+jarāmaraṇam icchantaś cyavante tanmanīṣayā // GpK_4.10
+
+kāraṇaṃ yasya vai kāryaṃ kāraṇaṃ tasya jāyate 
+jāyamānaṃ katham ajaṃ bhinnaṃ nityaṃ kathaṃ ca tat // GpK_4.11
+
+kāraṇād (yady [b:]yad) ananyatvam ataḥ kāryam ajaṃ (tava [b:]yadi) 
+jāyamānād dhi vai kāryāt kāraṇaṃ te kathaṃ dhruvam // GpK_4.12
+
+ajād vai jāyate yasya dṛṣṭāntas tasya nāsti vai 
+jātāc ca jāyamānasya (na vyavasthā [b:]navyavasthā) prasajyate // GpK_4.13
+
+hetor ādiḥ phalaṃ yeṣām ādir hetuḥ phalasya ca 
+hetoḥ phalasya cānādiḥ kathaṃ tair upavarṇyate // GpK_4.14
+
+hetor ādiḥ phalaṃ yeṣām ādir hetuḥ phalasya ca 
+tathā janma bhavet teṣāṃ putrāj janma pitur yathā // GpK_4.15
+
+saṃbhave hetuphalayor eṣitavyaḥ kramas tvayā 
+yugapat saṃbhave yasmād asaṃbandho viṣāṇavat // GpK_4.16
+
+phalād utpadyamānaḥ san na te hetuḥ prasidhyati 
+aprasiddhaḥ kathaṃ hetuḥ phalam utpādayiṣyati // GpK_4.17
+
+yadi hetoḥ phalāt siddhiḥ phalasiddhiś ca hetutaḥ 
+katarat (pūrvaniṣpannaṃ [b:]pūrvam utpannaṃ) yasya siddhir apekṣayā // GpK_4.18
+
+aśaktir aparijñānaṃ kramakopo 'tha vā punaḥ 
+evaṃ hi sarvathā buddhair ajātiḥ paridīpitā // GpK_4.19
+
+bījāṅkurākhyo dṛṣṭāntaḥ sadā sādhyasamo hi (saḥ [b:]naḥ) 
+na (hi [b:]ca) sādhyasamo hetuḥ siddhau sādhyasya yujyate // GpK_4.20
+
+pūrvāparāparijñānam ajāteḥ paridīpakam 
+jāyamānād dhi vai dharmāt kathaṃ pūrvaṃ na gṛhyate // GpK_4.21
+
+svato vā parato vāpi na kiṃcid vastu jāyate 
+sad asat sadasad vāpi na kiṃcid vastu jāyate // GpK_4.22
+
+hetur na jāyate (anādeḥ [b:]anādiḥ) phalaṃ (cāpi [b:]vāpi) svabhāvataḥ 
+ādir na vidyate yasya tasya (hy ādir [b:]jātir) na vidyate // GpK_4.23
+
+prajñapteḥ sanimittatvam anyathā dvayanāśataḥ 
+saṃkleśasyopalabdheś ca paratantrāstitā matā // GpK_4.24
+
+prajñapteḥ sanimittatvam iṣyate yuktidarśanāt 
+nimittasyānimittatvam iṣyate bhūtadarśanāt // GpK_4.25
+
+cittaṃ na saṃspṛśaty arthaṃ nārthābhāsaṃ tathaiva ca 
+abhūto hi yataś cārtho nārthābhāsas tataḥ pṛthak // GpK_4.26
+
+nimittaṃ na sadā cittaṃ saṃspṛśaty adhvasu triṣu 
+animitto viparyāsaḥ kathaṃ tasya bhaviṣyati // GpK_4.27
+
+tasmān na jāyate cittaṃ cittadṛśyaṃ na jāyate 
+tasya paśyanti ye jātiṃ khe vai paśyanti te padam // GpK_4.28
+
+ajātaṃ jāyate yasmād ajātiḥ prakṛtis tataḥ 
+prakṛter anyathābhāvo na kathaṃcid bhaviṣyati // GpK_4.29
+
+anāder antavattvaṃ ca saṃsārasya na setsyate 
+anantatā cādimato mokṣasya na bhaviṣyati // GpK_4.30
+
+ādāv ante ca yan nāsti vartamāne 'pi tat tathā 
+vitathaiḥ sadṛśāḥ santo avitathā iva lakṣitāḥ // GpK_4.31
+
+saprayojanatā teṣāṃ svapne (vipratipadyate [b:]api pratipadyate) 
+tasmād ādyantavattvena mithyaiva khalu te smṛtāḥ // GpK_4.32
+
+sarve dharmā mṛṣā svapne kāyasyāntarnidarśanāt 
+saṃvṛte 'smin pradeśe vai bhūtānāṃ darśanaṃ kutaḥ // GpK_4.33
+
+na yuktaṃ darśanaṃ gatvā kālasyāniyamād gatau 
+pratibuddhaś ca vai sarvas tasmin deśe na vidyate // GpK_4.34
+
+mitrādyaiḥ saha saṃmantrya (saṃbuddho [b:]prabuddho) na prapadyate 
+gṛhītaṃ cāpi yat kiṃcit pratibuddho na paśyati // GpK_4.35
+
+svapne cāvastukaḥ kāyaḥ pṛthag anyasya darśanāt 
+yathā kāyas tathā sarvaṃ cittadṛśyam avastukam // GpK_4.36
+
+grahaṇāj jāgaritavat taddhetuḥ svapne iṣyate 
+tad(dhetutvāt tu [b:]dhetutvāc ca) tasyaiva saj jāgaritam iṣyate // GpK_4.37
+
+utpādasyāprasiddhatvād ajaṃ sarvam udāhṛtam 
+na ca bhūtād abhūtasya saṃbhavo 'sti kathaṃcana // 4.38
+
+asaj jāgarite dṛṣṭvā svapne paśyati tanmayaḥ 
+asat svapne 'pi dṛṣṭvā ca pratibuddho na paśyati // 4.39
+
+nāsty asaddhetukam asat sad asaddhetukaṃ tathā 
+sac ca saddhetukaṃ nāsti saddhetukam asat kutaḥ // 4.40
+
+viparyāsād yathā jāgrad acintyān bhūtavat spṛśet 
+tathā svapne viparyāsād dharmāṃs tatraiva paśyati // 4.41
+
+upalambhāt samācārād astivastutvavādinām 
+jātis tu deśitā buddhair ajātes trasatāṃ sadā // GpK_4.42
+
+ajātes trasatāṃ teṣām upalaṃbhād viyanti ye 
+jātidoṣā na setsyanti doṣo 'py alpo bhaviṣyati // GpK_4.43
+
+upalambhāt samācārān māyāhastī yathocyate 
+upalambhāt samācārād asti vastu tathocyate // GpK_4.44
+
+jātyābhāsaṃ calābhāsaṃ vastvābhāsaṃ tathaiva ca 
+ajācalam avastutvaṃ vijñānaṃ śāntam advayam // GpK_4.45
+
+evaṃ na jāyate cittam evaṃ dharmā ajāḥ smṛtāḥ 
+evam eva vijānanto na patanti viparyaye // GpK_4.46
+
+ṛjuvakrādikābhāsam (alātaspanditaṃ [b:]alātaṃ spanditaṃ) yathā 
+grahaṇagrāhakābhāsaṃ (vijñānaspanditaṃ [b:]vijñānaṃ spanditaṃ) tathā // GpK_4.47
+
+aspandamānam (alātam [b:]ālātam) anābhāsam ajaṃ yathā 
+aspandamānaṃ vijñānam anābhāsam ajaṃ tathā // GpK_4.48
+
+alāte spandamāne vai nābhāsā anyatobhuvaḥ 
+na tato 'nyatra nispandān nālātaṃ praviśanti te // GpK_4.49
+
+na nirgatā alātāt te dravyatvābhāvayogataḥ 
+vijñāne 'pi tathaiva syur ābhāsasyāviśeṣataḥ // GpK_4.50
+
+vijñāne spandamāne vai nābhāsā anyatobhuvaḥ 
+na tato 'nyatra nispandān na vijñānaṃ viśanti te // GpK_4.51
+
+na nirgatās te vijñānād dravyatvābhāvayogataḥ 
+kāryakāraṇatābhāvād yato 'cintyāḥ sadaiva te // GpK_4.52
+
+dravyaṃ dravyasya hetuḥ syād anyad anyasya caiva hi 
+dravyatvam anyabhāvo vā dharmāṇāṃ nopapadyate // GpK_4.53
+
+evaṃ na cittajā dharmāś cittaṃ vāpi na dharmajam 
+evaṃ hetuphalājātiṃ praviśanti manīṣiṇaḥ // GpK_4.54
+
+yāvad dhetuphalāveśas tāvad dhetuphalodbhavaḥ 
+kṣīṇe hetuphalāveśe nāsti hetuphalodbhavaḥ // GpK_4.55
+
+yāvad dhetuphalāveśaḥ saṃsāras tāvad āyataḥ 
+kṣīṇe hetuphalāveśe (saṃsāraṃ na prapadyate [b:]saṃsāro nopapadyate) // GpK_4.56
+
+saṃvṛtyā jāyate sarvaṃ śāśvataṃ (nāsti tena [b:]tena nāsti) vai 
+(sad[b:]sva)bhāvena hy ajaṃ sarvam ucchedas tena nāsti vai // GpK_4.57
+
+dharmā ye iti jāyante (jāyante [b:]saṃvṛtyā) te na tattvataḥ 
+janma māyopamaṃ teṣāṃ sā ca māyā na vidyate // GpK_4.58
+
+yathā māyāmayād bījāj jāyate tanmayo 'ṅkuraḥ 
+nāsau nityo na cocchedī tadvad dharmeṣu yojanā // GpK_4.59
+
+nājeṣu sarvadharmeṣu śāśvatāśāśvatābhidhā 
+yatra varṇā na vartante vivekas tatra nocyate // GpK_4.60
+
+yathā svapne dvayābhāsaṃ cittaṃ calati māyayā 
+tathā jāgrad dvayābhāsaṃ cittaṃ calati māyayā // GpK_4.61
+
+advayaṃ ca dvayābhāsaṃ cittaṃ svapne na saṃśayaḥ 
+advayaṃ ca dvayābhāsaṃ (tathā [b:]cittaṃ) jāgran na saṃśayaḥ // GpK_4.62
+
+svapnadṛk pracaran svapne dikṣu vai daśasu sthitān 
+aṇḍajān svedajān vāpi jīvān paśyati yān sadā // GpK_4.63
+
+svapnadṛkcittadṛśyās te na vidyante tataḥ pṛthak 
+tathā taddṛśyam evedaṃ svapnadṛkcittam iṣyate // GpK_4.64
+
+carañ jāgarite jāgrad dikṣu vai daśasu sthitān 
+aṇḍajān svedajān vāpi jīvān paśyati yān sadā // GpK_4.65
+
+jāgraccittekṣaṇīyās te na vidyante tataḥ pṛthak 
+tathā taddṛśyam evedaṃ jāgrataś cittam iṣyate // GpK_4.66
+
+ubhe hy anyoanyadṛśye te kiṃ tad astīti cocyate 
+lakṣaṇāśūnyam ubhayaṃ tanmatenaiva gṛhyate // GpK_4.67
+
+yathā svapnamayo jīvo jāyate mriyate 'pi ca 
+tathā jīvā amī sarve bhavanti na bhavanti ca // GpK_4.68
+
+yathā māyāmayo jīvo jāyate mriyate 'pi ca 
+tathā jīvā amī sarve bhavanti na bhavanti ca // GpK_4.69
+
+yathā nirmitako jīvo jāyate mriyate 'pi ca 
+tathā jīvā amī sarve bhavanti na bhavanti ca // GpK_4.70
+
+na kaścij jāyate jīvaḥ saṃbhavo 'sya na vidyate 
+etat tad uttamaṃ satyaṃ yatra kiṃcin na jāyate // GpK_4.71
+
+cittaspanditam evedaṃ grāhyagrāhakavad dvayam 
+cittaṃ nirviṣayaṃ nityam asaṅgaṃ tena kīrtitam // GpK_4.72
+
+yo 'sti kalpitasaṃvṛtyā paramārthena nāsty asau 
+(paratantrābhisaṃvṛtyā [b:]paratantro 'bhisaṃvṛtyā) syān nāsti paramārthataḥ // GpK_4.73
+
+ajaḥ kalpitasaṃvṛtyā paramārthena nāpy ajaḥ 
+(paratantrābhiniṣpattyā [b:]paratantro 'bhiniṣpattyā) saṃvṛtyā jāyate tu saḥ // GpK_4.74
+
+abhūtābhiniveśo 'sti dvayaṃ tatra na vidyate 
+dvayābhāvaṃ sa buddhvaiva nirnimitto na jāyate // GpK_4.75
+
+yadā na labhate hetūn uttamādhamamadhyamān 
+tadā na jāyate cittaṃ hetvabhāve phalaṃ kutaḥ // GpK_4.76
+
+animittasya cittasya yānutpattiḥ samādvayā 
+ajātasyaiva sarvasya cittadṛśyaṃ hi tad yataḥ // GpK_4.77
+
+buddhvānimittatāṃ satyāṃ hetuṃ pṛthag an(āpnuvan [b:]āpnuvat) 
+vītaśokaṃ (tathā[b:]tadā)kāmam abhayaṃ padam aśnute // GpK_4.78
+
+abhūtābhiniveśād dhi sadṛśe tat pravartate 
+vastvabhāvaṃ sa buddhvaiva niḥsaṅgaṃ vinivartate // GpK_4.79
+
+nivṛttasyāpravṛttasya niścalā hi tadā sthitiḥ 
+viṣayaḥ sa hi buddhānāṃ tat sāmyam ajam advayam // GpK_4.80
+
+ajam anidram asvapnaṃ prabhātaṃ bhavati svayam 
+sakṛdvibhāto hy evaiṣa dharmo (dhātusvabhāvataḥ [b:]dhātuḥ svabhāvataḥ) // GpK_4.81
+
+sukham āvriyate nityaṃ duḥkhaṃ vivriyate sadā 
+yasya kasya ca dharmasya graheṇa bhagavān asau // GpK_4.82
+
+asti nāsty asti nāstīti nāsti nāstīti vā punaḥ 
+calasthirobhayābhāvair āvṛṇoty eva bāliśaḥ // GpK_4.83
+
+koṭyaś catasra etās tu grahair yāsāṃ (sadāvṛtaḥ [k:]sahāvṛtaḥ) 
+bhagavān ābhir aspṛṣṭo yena dṛṣṭaḥ sa sarvadṛk // GpK_4.84
+
+prāpya sarvajñatāṃ kṛtsnāṃ brāhmaṇyaṃ padam advayam 
+anāpannādimadhyāntaṃ kim ataḥ param īhate // GpK_4.85
+
+viprāṇāṃ vinayo hy eṣa śamaḥ prākṛta ucyate 
+damaḥ prakṛtidāntatvād evaṃ vidvāñ śamaṃ vrajet // GpK_4.86
+
+savastu sopalambhaṃ ca dvayaṃ laukikam iṣyate 
+avastu sopalambhaṃ ca śuddhaṃ laukikam iṣyate // GpK_4.87
+
+avastv anupalambhaṃ ca lokottaram iti smṛtam 
+jñānaṃ jñeyaṃ ca vijñeyaṃ sadā buddhaiḥ prakīrtitam // GpK_4.88
+
+jñāne ca trividhe jñeye krameṇa vidite svayam 
+sarvajñatā hi sarvatra bhavatīha mahādhiyaḥ // GpK_4.89
+
+heyajñeyāpyapākyāni vijñeyāny agra(yāṇataḥ [b:]yānataḥ) 
+teṣām anyatra vijñeyād upalambhas triṣu smṛtaḥ // GpK_4.90
+
+prakṛtyākāśavaj jñeyāḥ sarve dharmā anādayaḥ 
+vidyate na hi nānātvaṃ teṣāṃ kvacana kiṃcana // GpK_4.91
+
+ādibuddhāḥ prakṛtyaiva sarve dharmāḥ suniścitāḥ 
+yasyaivaṃ bhavati kṣāntiḥ so 'mṛtatvāya kalpate // GpK_4.92
+
+ādiśāntā hy anutpannāḥ prakṛtyaiva sunirvṛtāḥ 
+sarve dharmāḥ samābhinnā ajaṃ sāmyaṃ viśāradam // GpK_4.93
+
+vaiśāradyaṃ tu vai nāsti bhede vicaratāṃ sadā 
+bhedanimnāḥ pṛthagvādās tasmāt te kṛpaṇāḥ smṛtāḥ // GpK_4.94
+
+aje sāmye tu ye kecid bhaviṣyanti suniścitāḥ 
+te hi loke mahājñānās tac ca loko na gāhate // GpK_4.95
+
+ajeṣv ajam asaṃkrāntaṃ dharmeṣu jñānam iṣyate 
+yato na kramate jñānam asaṅgaṃ tena kīrtitam // GpK_4.96
+
+aṇumātre 'pi vaidharmye jāyamāne 'vipaścitaḥ 
+asaṅgatā sadā nāsti kim utāvaraṇacyutiḥ // GpK_4.97
+
+alabdhāvaraṇāḥ sarve dharmāḥ prakṛtinirmalāḥ 
+ādau buddhās tathā muktā budhyante iti nāyakāḥ // GpK_4.98
+
+kramate na hi buddhasya jñānaṃ dharmeṣu (tāpinaḥ ([b,k:]tāyinaḥ) 
+(sarve dharmās [b:]sarvadharmās) tathā jñānaṃ naitad buddhena bhāṣitam // GpK_4.99
+
+durdarśam atigambhīram ajaṃ sāmyaṃ viśāradam 
+buddhvā padam anānātvaṃ namas kurmo yathābalam // GpK_4.100
+
+iti (gauḍa-pādā3cārya-kṛtā māṇḍūkyo1paniṣad-kārikāḥ saṃpūrṇāḥ [b:]gauḍapādīye āgama-śāstre 'lāta-śānty-ākhyaṃ caturthaṃ prakaraṇaṃ samāptam)

@@ -1,0 +1,168 @@
+Mahāmantrānusāriṇī
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mahAmantrAnusAriNI.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Klaus Wille
+## Contribution: Klaus Wille
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Peter Skilling: Mahāsūtras : Great Discourses of the Buddha, Vol. I: Texts, Oxford 1994 (PTS), pp. 608-622.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Mahāmantrānusāriṇī = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from mahama_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Mahamantranusarini
+Based on the edition by Peter Skilling:
+Mahāsūtras : Great Discourses of the Buddha,
+Vol. I: Texts, Oxford 1994 (PTS), pp. 608-622.
+Input by Klaus Wille (Göttingen)
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+mahāmantrānusāriṇī
+
+c.0.1. oṃ namo bhagavatyai āryamahāmantrānusāriṇyai / namo vidyārājāya / namaḥ samantabuddhānāṃ //
+
+c.1.1.a. evaṃ mayā śrutam ekasmin samaye bhagavān rājagṛhe viharati sma / veṇuvane karandakanivāpe / c.1.1.b. evaṃ mayā śrutam ekasmin samaye bhagavān vaiśālyṃ viharati sma / markaṭahradatīrekū ṭāgāraśālāyaṃ c.1.2. tatra bhagavān āyuṣmantam ānandam āmantrayate sma / āgamayānanda yena vaiśālīti / evaṃ bhadante ty āyuṣmān ānando bhagavataḥ pratyaśrauṣīt / atha bhagavān vṛjiṣu janapadeṣu janapadacārikāñ caran vaiśālīm anuprāpto vaiśālyāṃ viharaty āmrapālīvane / c.1.3. tatra bhagavān āyuṣmantam ānandam āmantrayate sma / gacchānanda vaiśālīṃ gatvā indrakīle pādaṃ sthāpayitvā imāni mahāmantrānusāriṇī mantrapadāni bhāṣasva / imāś ca gāthāḥ / c.2.1. visarata visarata visarata visarata visarata / c.2.2. buddho lokānukampaka ājñāpayati / sarvabuddhānumatena / sarvapratyekabuddhānumatena / sarvārhadānumatena (afgh: sarvabhūtānumatena) sarvaśaikṣānumatena / sarvaśrāvakānumatena / sarvasatyavākyānumatena / pratyekabrahmānumatena / brahmānumatena / kāmeśvarānumatena / indrānumatena / devānumatena / asurendrānumatena / sarvāsurānumatena / asurapreṣyānumatena / sarvabhūtānumatena / c.2.3. visarata visarata visarata visarata visarata / c.2.4. buddho lokānukampaka ājñāpayati / mūmcata mūmcata mūmcata mūmcata / mā tiṣṭhantu / ītir vyupaśāmyatu / nirgacchata nirgacchata nirgacchata / c.2.5. buddhaḥ praviśati mahādevo devātidevo devaguruḥ sendrakāś ca devāḥ sabrahmakāḥ saprajāpatikāś catvāraś ca lokapālāḥ praviśanti anekāni ca devatāsahasrāṇy asurendrāś ca / anekāni ca asurasahasrāṇi prativasanti / bahūni ca bhūtasahasrāṇi bhagavato 'bhiprasannāni pravekṣyanti sarvasatvānām arthe / c.2.6. te vo mānarthaṃ kariṣyanti / nirgacchata nirgacchata nirgacchata nirgacchata / kṣiptaṃ palāyata / yadi yūyaṃ duṣṭacittā na palāyeta naśyeta / ye maitracittā nāparādhukāmā rakṣāṃ cānuvartayitukāmās te tiṣṭhantu mataṃ ca praviśantu / c.2.7. buddho lokānukampaka evam ājñāpayati / c.2.8. sumuru 4 suru 4 huru 4 mu 4 praviśati / muru 8 miri 6 muru miri 13 muru mirīti 6 ri 6 rī 6 miri 6 tiri hasa miri ti mirī ri miri kartā karaṃ kartā kaṃkarā karakacā / kaṃkarā 8 kaṃkaro caṃkariti kurīśe / kaṃkari 3 ṣeti / ri 6 rephasāri / phuri 7 pharā anāthānāthā siri thi phuri ruri prāsturi anāthānāthā nirgacchata ripūṃ nirgacchata yadi yūyaṃ duṣṭacittā na palāyeta naśyeta c.2.9. buddho lokānukampaka evam ājñāpayati / praviśati sarvasatvahitādhyāśayo maitrīvihārī kāruṇiko muditāvihārī upekṣāvihārī / 
+c.2.10. ete mantrapadāḥ siddhāḥ siddhagāthā jinoditāḥ /
+ sarveṣāṃ devatānāṃ hi bhūtānāṃ ca hitaiṣiṇāṃ //
+
+
+ jñānenāthottamenādya tathā dharmatayāpi ca /
+ jagatām ītayaḥ sarvāḥ śāmyantv ārogyam astu vaḥ //
+
+c.3.1. viśaktikā yasya tṛṣṇā vidhvastā viralīkṛtāḥ /
+ śāntacitto hy anāyāsaḥ sa vaḥ svasti kariṣyati // cdfgh: throughout: sarvaḥ svasti
+
+c.3.2. yo jagan mokṣamārgasmin niveśayati nāyakaḥ /
+ deśakaḥ sarvadharmāṇāṃ sa vaḥ svasti kariṣyati //
+
+c.3.3. gatir yo jagatāṃ śāstā kṛtaṃ yena sukhī bahuḥ /
+ arthāya sarvasatvānāṃ sa vaḥ svasti kariṣyati //
+
+c.3.4. yena sarvajagac caitan maitracittena tāyinā /
+ pālitaṃ putravan nityaṃ sa vaḥ svasti kariṣyati //
+
+c.3.5. gatir yaḥ sarvasatvānāṃ trāṇaṃ dvīpaḥ parāyaṇaṃ /
+ saṃsāre vartamānānāṃ sa vaḥ svasti kariṣyati //
+
+c.3.6. yaḥ sākṣāt sarvadharmāṇām avisaṃvādakaḥ śuciḥ /
+ śucivākyaḥ śucikaraḥ sa vaḥ svasti kariṣyati //
+
+c.3.7. yasmiñ jāte mahāvīre samṛddhāḥ sarvasampadaḥ /
+ siddhārthaḥ siddhasaṃbhāraḥ sa vaḥ svasti kariṣyati //
+
+c.3.8. yasmiñ jāte vasumatī savaneyaṃ prakaṃpitāḥ /
+ sarve satvāḥ pramuditāḥ sa vaḥ svasti kariṣyati //
+
+c.3.9. ṣaḍ vikāraṃ pracalitā yasya bodhau vasuṃdharāḥ /
+ māraś ca durmanā āsīt sa vaḥ svasti kariṣyati //
+
+c.3.10. yaśa āsīn muner yasya dharmacakre pravartite /
+ āryasatyāni vadataḥ sa vaḥ svasti kariṣyati //
+
+c.3.11. yena tīrthakarāḥ sarve jitā dharmeṇa tāyinā /
+ vaśīkṛtāḥ sarvagaṇāḥ sa vaḥ svasti kariṣyati //
+
+c.3.12. svasti vaḥ kurutāṃ buddhaḥ svasti devāḥ saśakrakāḥ /
+ svasti sarvāṇi bhūtāni sarvakālaṃ diśantu vaḥ //
+
+c.3.13. buddhapuṇyānubhāvena devatānāṃ matena ca /
+ yo yo 'rthaḥ samabhipretaḥ sarvārthodya samṛddhyatāṃ /
+c.3.14. svasti vo dvipade bhontu svasti vo 'stu catuṣpade /
+ svasti vo vrajatāṃ mārge svasti pratyāgateṣu ca //
+
+c.3.15. svasti rātrau svasti divā svasti madhyaṃdine sthite /
+ sarvatra svasti vo bhontu mā caiṣāṃ pāpam āgamat //
+
+c.3.16. sarve satvāḥ sarve prāṇāḥ sarve bhūtāś ca kevalāḥ /
+ sarve vai sukhinaḥ santu sarve santu nirāmayāḥ /
+ sarve bhadrāṇi paśyantu mā kaścit pāpam āgamat //
+
+c.3.17. yānīha bhūtāni samāgatāni sthitāni bhūmāv athavāntarīkṣe /
+ kurvantu maitrīṃ satataṃ prajāsu divā ca rātrau ca carantu dharmaṃ //
+
+c.4. ity evaṃ bhadantety āyuṣmān ānando bhagavataḥ pratiśrutya indrakīle pādaṃ sthāpayitvā imāni mahāmantrānusāriṇīmantrapadāni bhāṣate sma / imāś ca gāthāḥ / c.5.1. visarata visarata visarata visarata visarata / c.5.2. buddho lokānukampaka ājñāpayati / sarvabuddhānumatena / sarvapratyekabuddhānumatena / sarvārhadānumatena / sarvaśaikṣānumatena / sarvaśrāvakānumatena / sarvasatyavākyānumatena / pratyekabrahmānumatena / brahmānumatena / kāmeśvarānumatena / indrānumatena / devānumatena / asurendrānumatena / sarvāsurānumatena / asurapreṣyānumatena / sarvabhūtānumatena / c.5.3. visarata visarata visarata visarata visarata / c.5.4. buddho lokānukampaka ājñāpayati / mūmcata mūmcata mūmcata mūmcata / mā tiṣṭhantu / ītir vyupaśāmyatu / nirgacchata nirgacchata nirgacchata nirgacchata / c.5.5. buddhaḥ praviśati mahādevo devātidevo devaguruḥ sendrakāś ca devāḥ sabrahmakāḥ saprajāpatikāś catvāraś ca lokapālāḥ praviśanti / anekāni ca devatāsahasrāṇi asurendrāś ca / anekāni cāsurasahasrāṇi praviśanti / bahūni ca bhūtasahasrāṇi bhagavato 'bhiprasannāni pravekṣyanti sarvasatvānām arthe / c.5.6. te vo mānarthaṃ kariṣyanti / nirgacchata nirgacchata nirgacchata nirgacchata / kṣipraṃ palāyata / yadi yūyaṃ duṣṭacittā na palāyeta naśyeta / ye maitracittā na cāparādhukāmā rakṣāṃ cānuvartayitukāmās te tiṣṭhantu mataṃ ca praviśantu / c.5.7. buddho lokānukampa evam ājñāpayati / c.5.8 sumuru 4 suru 4 huru 4 mu 4 praviśati / muru 8 miri 6 muru miri 13 muru mirīti 6 ri 6 rī 6 miri 6 tiri hasa miri ti mirī ri miri kartā karaṃ kartā kaṃkarā karakacā / kaṃkarā 8 kaṃkaro caṃkariti kurīśe / kaṃkari 3 ṣeti / ri 6 rephasāri / phuri 7 pharā anāthānāthā siri thi phuri ruri prāsturi anāthānāthā nirgacchata ripūṃ nirgacchata yadi yūyaṃ duṣṭacittā na palāyeta naśyeta c.5.9. buddho lokānukampaka evam ājñāpayati / praviśati sarvasatvahitādhyāśayo maitrīvihārī kāruṇiko muditāvihārī upekṣāvihārī / 
+c.5.10. ete mantrapadāḥ siddhāh siddhagāthā jinoditāḥ /
+ sarveṣāṃ devatānāṃ hi bhūtānāṃ ca hitaiṣiṇāṃ //
+
+
+ jñānenāthottamenādya tathā dharmatayāpi ca /
+ jagatām ītayaḥ sarvāḥ śāmyatv ārogyam astu vaḥ //
+
+c.6.1. viśaktikā yasya tṛṣṇā vidhvastā viralīkṛtāḥ /
+ śāntacitto hy anāyāsaḥ sa vaḥ svasti kariṣyati //
+
+c.6.2. yo jagan mokṣamārgasmin niveśayati nāyakaḥ /
+ deśakaḥ sarvadharmāṇāṃ sa vaḥ svasti kariṣyati //
+
+c.6.3. gatir yo jagatāṃ śāstā kṛtaṃ yena sukhī bahu /
+ arthāya sarvasatvānāṃ sa vaḥ svasti kariṣyati //
+
+c.6.4. yena sarva jagac caitan maitracittena tāyinā /
+ pālitaṃ putravan nityaṃ sa vaḥ svasti kariṣyati //
+
+c.6.5. gatir yaḥ sarvasatvānāṃ trāṇaṃ dvīpaḥ parāyaṇam /
+ saṃsāre varttamānānāṃ sa vaḥ svasti kariṣyati //
+
+c.6.6. yaḥ sākṣāt sarvadharmāṇām avisaṃvādakaḥ śuciḥ /
+ śucivākyaḥ śucikaraḥ sa vaḥ svasti kariṣyati //
+
+c.6.7. yasmiñ jāte mahāvīre samṛddhāḥ sarvasampadaḥ /
+ siddhārthaḥ siddhasaṃbhāra sa vaḥ svasti kariṣyati //
+
+c.6.8. yasmin jāte vasumatī savaneyaṃ prakampitā /
+ sarve satvāḥ pramuditāḥ sa vaḥ svasti kariṣyati //
+
+c.6.9. ṣaḍ vikāraṃ pracalitā yasya bodhau vasundharā /
+ māraś ca durmanā āsīt sa vaḥ svasti kariṣyati //
+
+c.6.10. yaśa āsīn muner yasya dharmacakre pravartite /
+ āryasatyāni vadataḥ sa vaḥ svasti kariṣyati //
+
+c.6.11. yena tīrthakarāḥ sarve jitā dharmeṇa tāyinā /
+ vaśīkṛtāḥ sarvagaṇāḥ sa vaḥ svasti kariṣyati //
+
+c.6.12. svasti vaḥ kurutāṃ buddhaḥ svasti devāḥ saśakrakāḥ /
+ svasti sarvāṇi bhūtāni sarvakālaṃ diśantu vaḥ //
+
+c.6.13. buddhapuṇyānubhāvena devatānāṃ matena ca /
+ yo yo 'rthaḥ samabhipretaḥ sarvārthodya samṛddhyatāṃ /
+c.6.14. svasti vo dvipade bhontu svasti vo 'stu catuṣpade /
+ svasti vo vrajatāṃ mārge svasti pratyāgateṣu ca //
+
+c.6.15. svasti rātrau svasti divā svasti madhyaṃdine sthite /
+ sarvatra svasti vo bhontu mā caiṣāṃ pāpam āgamat //
+
+c.3.16. sarve satvāḥ sarve prāṇāḥ sarve bhūtāś ca kevalāḥ /
+ sarve vai sukhinaḥ santu sarve santu nirāmayāḥ /
+ sarve bhadrāṇi paśyantu mā kaścit pāpam āgamat //
+
+c.3.17. yānīha bhūtāni samāgatāni sthitāni bhūmāv athavāntarīkṣe /
+ kurvantu maitrīṃ satataṃ prajāsu divā ca rātrau ca carantu dharmaṃ //
+
+c.7.1. iti tatra buddhānāṃ buddhānubhāvena devatānāṃ devatānubhāvena mahatītir vyupaśānte ti / c.7.2. idam avocad bhagavān āttamanās te ca bhikṣavas te ca bodhisatvā sā ca sarvāvatī parṣat sadevamānuṣāsuragandharvaś ca loko bhagavato bhāṣitam abhyanandann iti / c.8. (a) āryamahārakṣāmantrānusāriṇīnāmamahāyānasūtraṃ samāptam iti / (b) āryamahārakṣāmantrānusāriṇī samaptā / (c) iti mantrānusārīnīparīsamāpta / (e) āryamahāmantrānusāriṇīmahāvidyārajñī samāpta ti / (f) āryamahārakṣāmahāmantrānusāraṇīnāmamahāyānasūtraṃ rakṣākalpaṃ samāptaḥ c.9. (a) śubham astu sarvajagatāṃ / (b) ye dharmā hetuprabhavā hetus teṣāṃ tathāgataḥ / hy avadat teṣāṃ yo nirodha evaṃvādī mahāśramaṇaḥ / śubhaṃ /

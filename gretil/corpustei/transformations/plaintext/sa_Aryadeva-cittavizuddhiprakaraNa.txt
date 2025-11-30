@@ -1,0 +1,457 @@
+Āryadeva: Cittaviśuddhiprakaraṇa
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_Aryadeva-cittavizuddhiprakaraNa.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Prabhubhai Bhikhabhai Patel, Nagpur: Visva-Bharati, 1949.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Cittaviśuddhiprakaraṇa = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsa006_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Aryadeva: Cittavisuddhiprakarana
+Based on the ed. by Prabhubhai Bhikhabhai Patel,
+Nagpur: Visva-Bharati, 1949.
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sastra section, text no. 6
+The transliteration emulates the conventions of Nagari script.
+Therefore, many word boundaries are not marked by blanks.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+cittaviśuddhiprakaraṇa (cvp)
+
+[anādinidhanaṃ śāntaṃ bhāvābhāvavivarjitam /
+nirvikalpaṃ nirālambamanavasthitamadvayam // cvp_1 //
+
+adṛṣṭāntamanākhyānamacintyamanidarśanam /
+anāśrayāpratiṣṭhānaṃ nirvikāramasaṃskṛtam // cvp_2 //
+
+sarveṣāmāśrayaṃ buddhaṃ karuṇāmayavigraham /
+nānādhimuktasattvānāṃ nānopāyapradarśakam // cvp_3 //
+
+mahārāgaṃ namaskṛtya padmanarteśvaraṃ prabhum /
+iha stokaṃ pravakṣyāmi svacittapratyavekṣaṇāt // cvp_4 //
+
+yogācārasya nayataḥ sarvameva suniścitam /
+tatsarvamiha vaktavyaṃ tasmādevatsamācaret] // cvp_5 //
+
+yena yena hi bandhyante jantavo raudrakarmaṇā /
+sopāyena tu tenaiva mucyante bhavabandhanāt // cvp_6 //
+
+[viśuddhereva sattvasya viśuddhaṃ jāyate phalam] /
+mahāyāne suvispaṣṭamuktametatsuvistaram // cvp_7 //
+
+dharmapudgalanairātmyaṃ cittamātraṃ jagau muniḥ /
+tato 'pi sarvamutpannamāgamātyanukūlakam // cvp_8 //
+
+bhāvagrāhagrahāveśagṛhītānpraticoditaḥ /
+āgame 'pi hi suvyakto vistaraḥ karuṇātmanā // cvp_9 //
+
+manaḥpūrvaṅgamā dharmā manaḥśreṣṭhā manojavāḥ /
+manasā hi prasannena bhāṣate vā karoti vā // cvp_10 //
+
+svapitā bhikṣuṇā vṛddhaḥ śīghraṃ gaccheti preritaḥ /
+patanācca mṛte tasminnānantaryeṇa yujyate // cvp_11 //
+
+sumlānenārhatādioṣṭo maṅgalaṃ paripīḍaya /
+upasthāyakabhikṣuḥ sa mṛte tasminna doṣabhāk // cvp_12 //
+
+andhasaṃjñayā nāndhāṃstu mārayandoṣamaśrute /
+ityuktaṃ vinaye vyaktaṃ na doṣo 'duṣṭacetasām // cvp_13 //
+
+na stūpakhanane doṣastatsaṃskāradhiyā yataḥ /
+kevalaṃ puṇyarāśiḥ syādupānantaryakāraṇāt // cvp_14 //
+
+upānadyugalaṃ dattvā munermūrdhni śubhāśayāt /
+apanīya tathā cāndho rājyaṃ phalamavāpnutaḥ // cvp_15 //
+
+tasmādāśayamūlā hi pāpapuṇyavyavasthitiḥ /
+ityuktamāgame yasmānnāpattiḥ śubhacetasām // cvp_16 //
+
+svādhidaivatayogātmā jagadarthakvatodyamaḥ /
+bhuñjāno viṣayān yogī mucyate na ca lipyate // cvp_17 //
+
+yathaiva viṣatattvajño viṣamālokya bhakṣayan /
+kevalaṃ muhyate nāsau rogamuktaśca jāyate // cvp_18 //
+
+māyāmarīcigandharvanagarasvaprasannibham /
+jagatsarvaṃ samālokya kiṃ kathaṃ kena bhujyate // cvp_19 //
+
+bālā rajyanti rūpeṣu vairāgyaṃ yānti madhyamāḥ /
+svabhāvajñā vimucyante rūpasyottamabuddhayaḥ // cvp_20 //
+
+vicintya samayaṃ sarvaṃ devatāpūjanāvidhim /
+śuddhamālokya niḥśaṅkaṃ bhoktavyaṃ mantracoditam // cvp_21 //
+
+śodhyaṃ bodhyaṃ tathā dīpyamakṣaratrayayogataḥ /
+aṅguṣṭhānāmikāgrābhyāṃ prīṇayecca tathāgatān // cvp_22 //
+
+yatsatyamiti bālānāṃ tanmithyā khalu yoginām /
+gacchannantamanenaiva na baddho na ca mucyate // cvp_23 //
+
+saṃsāraṃ caiva nirvāṇaṃ manyante 'tattvadarśinaḥ /
+na saṃsāraṃ na nirvāṇaṃ manyante 'tattvadarśinaḥ // cvp_24 //
+
+vikalpo hi mahāgrāhaḥ saṃsārodadhipātakaḥ /
+avikalpā mahātmāno mucyante bhavabandhanāt // cvp_25 //
+
+śaṅkāviṣeṇa bādhyante viṣeṇeva pṛthagjanāḥ /
+tāmevotkhātya nirmūlaṃ vicaretkaruṇātmakaḥ // cvp_26 //
+
+yathaiva sphaṭikaḥ svacchaḥ pararāgeṇa rajyate /
+tathaiva cittaratnaṃ tu kalpanārāgarañjitam // cvp_27 //
+
+prakṛtyā kalpanārāgairviviktaṃ cittaratnakam /
+ādiśuddhamanutpannaṃ niḥsvabhāvamanāvilam // cvp_28 //
+
+tattadyatnena kartavyaṃ yadyadbālairvigarhitam /
+svādhidaivatayogena cittanirmalakāraṇāt // cvp_29 //
+
+rāgāgniviṣasaṃmugdhā yogināṃ śubhacetasā /
+kāmitāḥ khalu kāminyaḥ kāmamokṣaphalāvahāḥ // cvp_30 //
+
+yathā svagarūḍaṃ dhyātvā viṣamākṛṣya saṃpiban /
+karoti nirviṣaṃ sādhyaṃ na viṣeṇābhibhūyate // cvp_31 //
+
+dvādaśayojanavyāsaṃ cakraṃ vai śirasi bhramat /
+bodhicittaṃ samutpādya apanītamiti śrutiḥ // cvp_32 //
+
+bodhicittaṃ samutpādya sambodhau kṛtacetasā /
+tatrāsti yanna kartavyaṃ jagadudvaraṇāśayā // cvp_33 //
+
+ādiśuddhamanutpannaṃ niḥsvabhāvamanāvilam /
+jagadbhāvena sampaśyanna baddho na ca mucyate // cvp_34 //
+
+vicintya vidhivadyogī devatāguṇavistaram /
+rajyate rāgacittena rāgabhogeṇa mucyate // cvp_35 //
+
+kiṃ kurmaḥ kutra vai labhyā vicitrā bhāvaśaktayaḥ /
+viṣākrānto yathā kaścidviṣeṇaiva tu nirviṣaḥ // cvp_36 //
+
+karṇājjalaṃ jalenaiva kaṇṭakenaiva kaṇṭakam /
+rāgeṇaiva tathārāgamudvaranti maṇīṣiṇaḥ // cvp_37 //
+
+yathaiva rajako vastraṃ malenaiva tu nirmalam /
+kuryādvijñastathātmānaṃ malenaiva tu nirmalam // cvp_38 //
+
+yathā bhavati saṃśuddho rajonirghṛṣṭadarpaṇaḥ /
+sevitastu tathā vijñairdoṣo doṣavināśanaḥ // cvp_39 //
+
+lohapiṇḍo jale kṣipto majjatyeva tu kevalam /
+pātrīkṛto sa evāndhaṃ tārayettarati svayam // cvp_40 //
+
+tavdatpātrīkṛtaṃ cittaṃ prajñopāyavidhānataḥ /
+bhuñjāno mucyate kāmo mocayatyaparānapi // cvp_41 //
+
+durvijñaiḥ sevitaḥ kāmaḥ kāmo bhavati bandhanam /
+sa eva sevito vijñaiḥ kāmo mokṣaprasādhakaḥ // cvp_42 //
+
+prasiddhaṃ sakale loke kṣīraṃ viṣavināśanam /
+tadeva phaṇibhiḥ pītaṃ sutarāṃ viṣavardhanam // cvp_43 //
+
+jale kṣīraṃ yathāviṣṭaṃ haṃso pibati paṇḍitaḥ /
+saviṣān viṣāyāṃstadvad bhuktvā muktaśca paṇḍitaḥ // cvp_44 //
+
+yathaiva vidhivadbhuktaṃ viṣamapyamṛtāyate /
+durbhuktaṃ ghṛtapūrādi bālānāntu viṣāyate // cvp_45 //
+
+idameva hi yaccittaṃ śodhitaṃ hetubhiḥ śubhaiḥ /
+nirvikalpaṃ nirālambaṃ bhāti prakṛtinirmalam // cvp_46 //
+
+yathā vahniḥ kṛśopyeṣa tailavartyādisaṃskṛtaḥ /
+dīpo nirmalaniṣkampaḥ sthirastimiranāśanaḥ // cvp_47 //
+
+vaṭabījaṃ yathā sūkṣmaṃ sahakārasamanvitam /
+śākhāmūlaphalopetaṃ mahāvṛkṣavidhāyakam // cvp_48 //
+
+haridrācūrṇasaṃyogādvarṇāntaramiti smṛtam /
+prajñopāyasamāyogāddharmadhātuṃ tathā viduḥ // cvp_49 //
+
+ghṛtaṃ ca madhusaṃyuktaṃ samāṃśaṃ viṣatāṃ vrajet /
+tadeva vidhivadbhuiktamutkṛṣṭaṃ tu rasāyanam // cvp_50 //
+
+rasaghṛṣṭaṃ yathā tāmraṃ nirdoṣaṃ kāñcanaṃ bhavet /
+jñānaśuddhyā tathā kleśāḥ samyak kalyāṇakārakāḥ // cvp_51 //
+
+hīnayānābhirūḍhānāṃ mṛtyuśaṅkā pade pade /
+saṃgrāmajayacittastu dūra eva vyavasthitaḥ // cvp_52 //
+
+mahāyānābhirūḍhastu karuṇādharmavarmitaḥ /
+prajñātantudhanurbāṇo jagaduḍvaraṇāśayaḥ // cvp_53 //
+
+mahāsattvo mahopāyaḥ sthirabudviratandritaḥ /
+jitvā dustarasaṅgrāmaṃ tārayedaparānapi // cvp_54 //
+
+paśavo 'pi hi kliśyante svārthamātraparāyaṇāḥ /
+jagadarthavidhātāro dhanyāste viralā janāḥ // cvp_55 //
+
+śītavātādiduḥkhāni sahante svārthalampaṭāḥ /
+jagadarthapravṛttāste na sahante kathaṃ nu te // cvp_56 //
+
+nārakāṇyapi duḥkhāni soḍhavyāni kṛpālubhiḥ /
+śītavātādiduḥkhāni kastānyapi vicārayet // cvp_57 //
+
+na kaṣṭakalpanāṃ kuryānnopavāsena ca kriyām /
+snānaṃ śaucaṃ na caivātra grāmadharmaṃ vivarjayet // cvp_58 //
+
+nakhadantāsthimajjānaḥ pituḥ śukravikārajāḥ /
+māṃsaśoṇitakeśādi mātṛśoṇitasambhavam // cvp_59 //
+
+itthamaśucisambhūtaḥ piṇḍo yo 'śucipūritaḥ /
+kathaṃ saṃstādṛśaḥ kāyo gaṅgāsnānena śudhyati // cvp_60 //
+
+na hyaśucirghaṭastoyaiḥ kṣālito 'pi punaḥ punaḥ /
+tadvadaśucisampūrṇaḥ piṇḍo 'pi na viśudhyati // cvp_61 //
+
+pratarannapi gaṅgāyāṃ naiva śvā śuddhimarhati /
+taddadvarmadhiyāṃ puṃsāṃ tīrthasnānaṃ tu niṣphalam // cvp_62 //
+
+dharmo yadi bhavetsnānātkaivartānāṃ kṛtārthatā /
+naktandivaṃ jalasthānāṃ matsyādīnāṃ tu kā kathā // cvp_63 //
+
+pāpakṣayo 'pi snānena naiva syāditi niścayaḥ /
+yato rāgādivṛddhistu dṛśyate tīrthasevinām // cvp_64 //
+
+rāgo dveṣaśca mohaśca īrṣyā tṛṣṇā ca sarvadā /
+pāpānāṃ mūlamākhyātaṃ naiṣāṃ snānena śodhanam // cvp_65 //
+
+ātmātmīyagrahādete sambhavantīha janminaḥ /
+avidyāhetukaḥ so 'pi sāvidyā bhrāntiriṣyate // cvp_66 //
+
+raupyabuddhiryathā śuktau śuktidṛṣṭau nivartate /
+nairātmyadarśanātsāpi nirmūlamavasīdati // cvp_67 //
+
+sarpabuddhiryathā rajjau rajjudṛṣṭau nivartate /
+sarpabuddhiḥ punastatra naiva syādiha janmani // cvp_68 //
+
+sattvabuddhistathātrāpi vajrajñānānnivartate /
+na bhāvaḥ sambhavettatra dagdhabīja ivāṅkuraḥ // cvp_69 //
+
+nairātmyaśucisaṅgātaḥ piṇḍaḥ prakṛtinirmalaḥ /
+tasya santāpane dharmaḥ kaṣṭaṃ bālairvikalpitaḥ // cvp_70 //
+
+candrodayavyayañjāpi apekṣya tithikalpanā /
+sūryodayavyayenāpi divārātrivyavasthitiḥ // cvp_71 //
+
+pūrvādivyavahāro 'pi kalpanāpekṣayā kṛtaḥ /
+grahanakṣatrarāśyādi sarvalokairvikalpitam // cvp_72 //
+
+śītoṣṇavarṣaṇāpekṣā tathaiva ṛtukalpanā /
+svakarmaphalabhogo 'yaṃ śubhāśubhagrahoditaḥ // cvp_73 //
+
+avidyākardamāliptaṃ cittacintāmaṇiṃ pumān /
+pravṛttaḥ kṣālituṃ vidvān ko 'vidyāṃ vṛṃhayetpunaḥ // cvp_74 //
+
+na grahatithinakṣatradeśakālādyapekṣaṇam /
+viharennirvikalpastu nirnimittamaśaṅkitaḥ // cvp_75 //
+
+yadyadindriyamārgatvaṃ yāyāttattatsvabhāvataḥ /
+susamāhitayogena sarvaṃ buddhamayaṃ vadet // cvp_76 //
+
+cakṣurvairocano buddhaḥ śravaṇaṃ vajrasūryakaḥ /
+ghrāṇaṃ ca paramāśvastu padmanarteśvaro mukham // cvp_77 //
+
+kāyaḥ śrīheruko rājā vajrasattvaśca mānasam /
+evaṃ samyak sadā yogī vicaretkaruṇātmakaḥ // cvp_78 //
+
+siddhāntī nirvikalpo 'sau sthirakalpastu dhīdhanaḥ /
+yatheṣṭaceṣṭāvyāpāraḥ sarvabhuk sarvakṛttathā // cvp_79 //
+
+sarvakāmakriyākārī yathārucitaceṣṭitaḥ /
+utthito vā niṣaṇo vā caṅkramanvā svapaṃstathā // cvp_80 //
+
+amaṇḍalapraviṣṭo vā sarvāvaraṇavānapi /
+svādhidaivatayogātmā mandapuṇyo 'pi sidhyati // cvp_81 //
+
+anena sarvasauritvaṃ sarvabuddhatvameva vā /
+janmanīhaiva tattvajñaḥ samprāpnoti na saṃśayaḥ // cvp_82 //
+
+yathā prākṛtalokena yogiloko na bādhyate /
+bādhyante dhīviśeṣeṇa yogino 'pyuttarottaraiḥ // cvp_83 //
+
+mahāprajñāmahopāyamahākṛpādhimokṣataḥ /
+mahāyānasamuddiṣṭaṃ mahāsattvasya gocaram // cvp_84 //
+
+yatkalpānāmasaṃkhyeyairna prāptaṃ bahubhirmatam /
+janmanyatraiva buddhatvaṃ prāpyate nātra saṃśayaḥ // cvp_85 //
+
+mahāyānasya māhātmyaṃ puṇyajñānena sambhṛtam /
+sarvajñatvaṃ padaṃ ramyaṃ sadyo janmani labhyate // cvp_86 //
+
+āgamaśruticintā tu mahāyāne na gṛhyate /
+āśayānuśayābhedād yānābhedaḥ prakāśyate // cvp_87 //
+
+anya evādhimokṣo 'yaṃ tathānyā bodhicārikā /
+anyā cittaviśuddhiśca phalamandhadihocyate // cvp_88 //
+
+samīpe nirmalādarśe rūpaṃ nirmalacakṣuṣaḥ /
+yathā bhāti suvispaṣṭaṃ svacchaprakṛtinirmalam // cvp_89 //
+
+vidhūtakalpanājālaviṣpraṣṭaśuddhacetasāṃ /
+yogināñca tathā jñānaṃ prajñānirmaladarpaṇaiḥ // cvp_90 //
+
+sūryakāntisamāśliṣṭasūryakāntamaṇau yathā /
+sahasā prajvalatyagniḥ samathaḥ svārthasādhane // cvp_91 //
+
+apāstakalpanājālaṃ sūryakāntanibhaṃ manaḥ /
+prajñāsūryāṃ śusaṃśliṣṭaṃ tadvajjvalati yoginām // cvp_92 //
+
+kāṣṭhadvayanigharṣeṇa yathā jvalati pāvakaḥ /
+ādimadhyāntasaṃśuddhaḥ sarvavastuprakāśakaḥ /
+prajñopāyasamāyogādyogijñānaṃ tathā viduḥ // cvp_93 //
+
+yathaivaikaḥ pradīpo 'yaṃ varttyantarasamāśritaḥ /
+yathāsvārthaṃ yathāsthānaṃ karotyuccaiḥ prakāśanam // cvp_94 //
+
+sphuraṇānantamūrtistu prajñopāyavibhāvanaiḥ /
+nānādhimuktasattvānāṃ yathākṛtyamanuṣṭhayet // cvp_95 //
+
+vidhi jñohi yathā kaścitkṣīrādamṛtamuddharet /
+nirdoṣaṃ śītalaṃ hṛdyaṃ sarvavyādhivināśanam // cvp_96 //
+
+prajñākṣīramahopāyādvidhivanmathanotthitaḥ /
+viśuddhadharmadhātuḥ sa sukhāsukhavināśanaḥ // cvp_97 //
+
+yathā latā samudbhūtā phalapuṣpasamanvitā /
+tathaikakṣaṇasambodhiḥ sambhāradvayasaṃyutā // cvp_98 //
+
+[vaśadveṣagatistambha] varṣaṇākarṣaṇādikam /
+madyamāṃsarato yogī kurvannāpyupalipyate // cvp_99 //
+
+[hastakaṅkaṇabimbāya ki]mādarśaḥ samīkṣyate /
+mahāyāne yato 'dyāpi mantrasāmarthyadarśanam // cvp_100 //
+
+mātṛduhitṛsambandha[stattvato 'tra na kalpyate /
+bhagnāyodhūpavarttīva] jagadāha tathāgataḥ // cvp_101 //
+
+pañcabhūtātmakaṃ śukraṃ śoṇitañcāpi tādṛśam /
+tanmayaḥ khalu piṇḍo 'yaṃ ko vipraḥ kaśca vāntyajaḥ // cvp_102 //
+
+[pañcaskandhātmakaṃ sarvaṃ]śarīraṃ khalu bhikṣavaḥ /
+anityaṃ duḥkhaśūnyañca na jātirna ca jātimān // cvp_103 //
+
+kaivarttīgarbhambhūtaḥ kaściñcā[ṇḍālajātimān /
+tapasā brāhmaṇo jātastasmājjātirakāraṇam // cvp_104 //
+
+svasāraṃ mātaraṃ śvaśrūṃ svaputrīṃ bhāgineyikām /
+brāhmaṇīṃ kṣatriyāṃ vaiśyāṃ vidhijñānena śūdrikām] // cvp_105 //
+
+ekāṅgavikalāṃ hīnāṃ garhītāmantyajāmapi /
+yoṣitaṃ pūjayennityaṃ jñānavajraprabhāvanaiḥ // cvp_106 //
+
+[sarvadā smitavakreṇa mantravistṛtacakṣuṣā /
+sambodhau cittamutpādyasvādhidaivatabhāvataḥ // cvp_107 //
+
+paśyeddṛśyaṃ kṣaṇaṃkiñcicchotavyaṃ śṛṇuyāttathā /
+satyāsatyaviyuktaṃ tuvadedvākyamatandritaḥ] // cvp_108 //
+
+snānābhyañjanavastrādikhānapānādiyantataḥ /
+svādhidaivatayogenacintayetpūjanāvidhim // cvp_109 //
+
+[gītaṃvādyaṃ tathā nṛtyaṃ sopāyena vratī bhajet /
+akurvanniha bhāveṣusarveṣvabhiniveśanam // cvp_110 //
+
+svātmabhāvaprahāṇenatāpayenna tapasyayā] /
+sukhādyathā sukhaṃdhyāyetsambuddho 'yamanāgataḥ // cvp_111 //
+
+sarvakāmopabhogaistu ramathamuktito 'bhayāt /
+mā bhaiṣṭa nāsti vaḥ pāpaṃsamayo duratikramaḥ // cvp_112 //
+
+mantrasaṃskṛtakāṣṭhādidevatvamadhigacchati /
+kiṃ punaḥ jñānavān kāyaḥkaṣṭaṃ mohaviceṣṭitam // cvp_113 //
+
+prākṛtatvamahaṅkāraṃparityajya samāhitaḥ /
+prajñopāyavidhānenakriyāmimāṃ samācaret // cvp_114 //
+
+paṅkajātaṃ yathā padmaṃpaṅkadoṣairna lipyate /
+vikalpavāsanādoṣaistathāyogī na lipyate // cvp_115 //
+
+[vikalpovimbasaṅkāśo dṛṣṭidoṣairna lipyate /
+anbhasā lipyate naivayadvadudakacandramāḥ] // cvp_116 //
+
+anādivāsanāpaṅkairviliptaṃcittaratnakam /
+prajñopāyajalenaiva[kṣālitaṃsamprakāśate] // cvp_117 //
+
+svādhidevatayogasyasthiracittasya dhīmataḥ /
+muktaḥ kudṛṣṭimeghaiścabhāsate cittabhāskaraḥ // cvp_118 //
+
+[prajñālakṣmaparicchedebhūtārthasya viniścayāt /
+dharmadhāturupādeyo 'vidyāvyatyayavarjanāt // cvp_119 //
+
+prajñāmudgaravidhvaste]sahasā kalpanāghaṭe /
+prakṛtyā nirmalaḥ svacchojñānadīpaḥ prakāśate // cvp_120 //
+
+suprasiddhāni bhūtānikṣityagnijalavāyavaḥ /
+kriyante hyanyathāvijñairmantrasāmarthyayogataḥ // cvp_121 //
+
+sarvavādaṃ parityajyamantravādaṃ samācaret /
+yasya mantrasyasāmarthyātsaukhyabhāvo 'pi sidhyati // cvp_122 //
+
+triratnaṃ na parityājyaṃbodhicittaṃ tathā guruḥ /
+na vadhyāḥ prāṇinaḥ ke 'pisamayānyapyadhiṣṭhayet // cvp_123 //
+
+madhu raktaṃ sakarpūraṃraktacandanayojitam /
+munivajrodakaṃ caivapañcaitānyapyadhiṣṭhayet // cvp_124 //
+
+anyaiścasamayairdivyaiścittasyotkarṣakārakaiḥ /
+mārutakṣobhaśāntyarthaṃprīṇayeccittavajrakam // cvp_125 //
+
+[nāśucibhāvaāśaṅkyo 'vikalpyayogalīlayā /
+samāyuktena cittena mantrīsarvaṃ samācaret] // cvp_126 //
+
+makṣikāpadamātreṇaviṣeṇāpyabhibhūyate /
+aṇumātrā ghṛṇā śaṅkāmṛtyukaṣṭena saṃyutā // cvp_127 //
+
+suyuddhaṃ vācaredvijñaḥsupalāyanameva vā /
+āntarālikabhāvastu vyarthovai patanaṃ bhavet // cvp_128 //
+
+gurorājñāñca mudrāñcachāyāmapi na laṅghayet /
+guṇāstasya paraṃ grāhyā doṣānaiva kadācana // cvp_129 //
+
+ācāryaḥ paramo devaḥpūjanīyaḥ prayatnataḥ /
+svayaṃ vajradharo rājāsākṣādrūpeṇa saṃsthitaḥ // cvp_130 //
+
+yathodakamaṇiḥ śuddhaḥkaluṣodakaśodhakaḥ /
+śraddhāmaṇistathāproktaścittaratnaviśodhakaḥ // cvp_131 //
+
+śraddhāvānmuhyate ko 'piprajñācakṣurvivarjitaḥ /
+utpādayedataḥprajñāmāgamādhigamātmikām // cvp_132 //
+
+śrāddho bahuśrutaḥ prājñaḥprakṛtyā karuṇātmakaḥ /
+jagadduḥkhavināśāyasukhopāyaṃ sa vindati // cvp_133 //
+
+cittaviśuddhimādhāyayanmayopārjitaṃ sukham /
+cittaviśuddhimādhāya tenāstusukhito janaḥ // cvp_134 //
+
+// kṛtiriyamāryadevapādānāmiti //

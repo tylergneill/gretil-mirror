@@ -1,0 +1,112 @@
+Rāhulabhadra: Prajñāpāramitāstotra
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_rAhulabhadra-prajJApAramitAstotra.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Lennart Hartmann and Jens-Uwe Hartmann
+## Contribution: Lennart Hartmann and Jens-Uwe Hartmann
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Michael Hahn: "Bemerkungen zu zwei Texten aus dem Phudrag-Kanjur", Indology and Indo-Tibetology. Thirty Years of Indian and Indo-Tibetan Studies in Bonn, ed. by H. Eimer, Bonn 1988 (Indica et Tibetica 13), S. 53-80.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Prajñāpāramitāstotra = RahPps,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from rahppsau.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Rahulabhadra: Prajnaparamitastotra
+Based on the edition in:
+Michael Hahn: "Bemerkungen zu zwei Texten aus dem Phudrag-Kanjur",
+Indology and Indo-Tibetology. Thirty Years of Indian and Indo-Tibetan Studies in Bonn,
+ed. by H. Eimer, Bonn 1988 (Indica et Tibetica 13), S. 53-80.
+Input by Lennart and Jens-Uwe Hartmann (27.02.2006)
+VERSION WITH PADA MARKERS
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+
+rāhulabhadra: prajñāpāramitāstotra
+
+nirvikalpe namas tubhyaṃ prajñāpāramite 'mite 
+yā tvaṃ sarvānavadyāṅgi niravadyair nirīkṣyase // RahPps_1
+
+ākāśam iva nirlepāṃ niṣprapañcāṃ nirakṣarām 
+yas tvāṃ paśyati bhāvena sa paśyati tathāgatam // RahPps_2
+
+tava cārye guṇāḍhyāyā buddhasya ca jagadguroḥ 
+na paśyanty antaraṃ santaś candracandrikayor iva // RahPps_3
+
+kṛpātmakāḥ prapadya tvāṃ buddhadharmapuraḥsarīm 
+sukhenāyānti māhātmyam atulaṃ bhaktivatsale // RahPps_4
+
+sakṛd apy āśaye śuddhe yas tvāṃ vidhivad īkṣate 
+tenāpi niyataṃ siddhiḥ prāpyate 'moghadarśane // RahPps_5
+
+sarveṣām api vīrāṇāṃ parārthaniratātmanām 
+poṣikā janayitrī ca mātā tvam asi vatsalā // RahPps_6
+
+yad buddhā lokaguravaḥ putrās tava kṛpālavaḥ 
+tena tvam api kalyāṇi sarvasattvapitāmahī // RahPps_7
+
+sarvapāramitābhis tvaṃ nirmalābhir anindite 
+candralekheva tārābhir anuyātāsi sarvadā // RahPps_8
+
+vineyaṃ janam āsādya tatra tatra tathāgataiḥ 
+bahurūpā tvam evaikā nānānāmabhir īḍyase // RahPps_9
+
+prabhāṃ prāpyeva dīptāṃśor avaśyāyodabindavaḥ 
+tvāṃ prāpya pralayaṃ yānti doṣā vādāś ca vādinām // RahPps_10
+
+tvam eva trāsajananī bālānāṃ bhīmadarśanā 
+āśvāsajananī cāsi viduṣāṃ saumyadarśanā // RahPps_11
+
+yasya tvayy apy abhiṣvaṅgas tvannāthasya na vidyate 
+tasyāmba katham anyatra rāgadveṣau bhaviṣyataḥ // RahPps_12
+
+nāgacchasi kutaś cit tvaṃ na ca kva cana gacchasi 
+sthāneṣv api ca sarveṣu vidvadbhir nopalabhyase // RahPps_13
+
+ye tvām evaṃ na paśyanti prapadyante ca bhāvataḥ 
+prapadya ca vimucyante tad idaṃ mahad adbhutam // RahPps_14
+
+tvām eva badhyate paśyann apaśyann api badhyate 
+tvām eva mucyate paśyann apaśyann api mucyate // RahPps_15
+
+aho vismayanīyāsi gambhīrāsi yaśasvini 
+sudurbodhāsi māyeva dṛśyase na ca dṛśyase // RahPps_16
+
+buddhaiḥ pratyekabuddhaiś ca śrāvakaiś ca niṣevitā 
+mārgas tvam ekā mokṣasya nāsty anya iti niścayaḥ // RahPps_17
+
+vyavahāraṃ puraskṛtya prajñaptyarthaṃ śarīriṇām 
+kṛpayā lokanāthais tvam ucyase ca na cocyase // RahPps_18
+
+śaktaḥ kas tvām iha stotuṃ nirnimittāṃ nirañjanām 
+sarvavāgviśayātītāṃ yā tvaṃ kva cid aniśritā // RahPps_19
+
+saty evam api saṃvṛtyā vākpathair vayam īdṛśaiḥ 
+tvām astutyām api satīṃ tuṣṭūṣantaḥ sunirvṛtāḥ // RahPps_20
+
+prajñāpāramitāṃ stutvā yan mayopacitaṃ śubham 
+tenāstv āśu jagat kṛtsnaṃ prajñāpāraparāyaṇam // RahPps_21

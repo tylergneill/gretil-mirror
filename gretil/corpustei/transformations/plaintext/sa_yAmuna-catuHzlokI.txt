@@ -1,0 +1,54 @@
+Yāmuna: Catuḥślokī
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_yAmuna-catuHzlokI.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Sadanori Ishitobi
+## Contribution: Sadanori Ishitobi
+## Date of this version: 2020-07-31
+
+## Source: 
+   - .
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Catuḥślokī = YCs,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from yamcatau.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Yamuna: Catuhsloki
+Input by Sadanori ISHITOBI
+ANALYTIC TEXT VERSION (BHELA conventions)
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+kāntas te puruṣottamaḥ phaṇipatiḥ śayyāsanaṃ vāhanaṃ vedātmā vihageśvaro yavanikā māyā jaganmohinī |
+brahmādisuravrajaḥ sadayitas tvaddāsadāsīgaṇaḥ śrīr ity eva ca nāma te bhagavati ! brūmaḥ kathaṃ tvāṃ vayam || YCs_1
+
+yasyās te mahimānam ātmana iva tvadvallabho 'pi prabhur nālaṃ mātum iyattayā niravadhiṃ nityānukūlaṃ svataḥ |
+tām tvāṃ dāsa iti, prapanna iti ca stoṣyāmy ahaṃ nirbhayo lokaikeśvari lokanāthadayite dānte dayāṃ te vidan || YCs_2
+
+śreyo tvatkaruṇānirīkṣaṇasudhāsandhukṣaṇād rakṣyate naṣṭaṃ prāk tadalābhas tribhuvanaṃ saṃpraty anantodayam |
+śreyo na hy aravindalocanamanaḥkāntāprasādād ṛte saṃsṛtyakṣaravaiṣṇavādhvasu nṛṇāṃ saṃbhāvyate karhicit || YCs_3
+
+śāntānantamahāvibhūti paraṃ yad brahma rūpaṃ harer mūrtaṃ brahma tato 'pi tat priyataraṃ rūpaṃ yad atyadbhutam |
+yāny anyāni yathāsukhaṃ viharato rūpāṇi sarvāṇi tāny āhuḥ svair anurūparūpavibhavair gāḍhopagūḍhāni te || YCs_4

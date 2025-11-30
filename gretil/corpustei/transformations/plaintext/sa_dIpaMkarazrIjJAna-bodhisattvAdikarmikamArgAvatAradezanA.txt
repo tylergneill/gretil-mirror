@@ -1,0 +1,86 @@
+Dīpaṃkaraśrījñāna [= Atīśa]: Bodhisattvādikarmikamārgāvatāradeśanā
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dIpaMkarazrIjJAna-bodhisattvAdikarmikamArgAvatAradezanA.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - .
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Bodhisattvādikarmikamārgāvatāradeśanā = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsa035_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Dipankarasrijnana [=Dipamkarasrijnana = Atisa]:
+Bodhisattvadikarmikamargavataradesana
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sastra section, text no. 35
+The transliteration emulates the conventions of Nagari script.
+Therefore, many word boundaries are not marked by blanks.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+bodhisattvādikarmika-mārgāvatāra-deśanā
+
+paramagurave namaḥ /
+
+saṃsāre durgatighnaṃ ca niryāṇābhyudayapradam /
+daśadiksarvaratnaṃ ca gurupādaṃ namāmi ca // 1 //
+
+iha yaḥ svabhāvato mahākaruṇāprajñāvān mahāyānagotrīyaḥ, yaśca pūrvajanmasu mahāyānabhāvukaḥ puruṣaḥ saṃsārasunirviṇṇacittaḥ maraṇānusmṛtikaśca samastabāhyādhyātmika-vastusvalpābhiniveśaḥ, 'ekasatkalyāṇamitrata ekāviparyastamārgaśravaṇe kiṃ na syāt? ahamekaṃ santaṃ anveṣyāmi' - evaṃ cintayan saḥ kalyāṇamitrānurupaṃ gurumanviṣya anyatra nirdiṣṭavat triśaraṇagamanaviśiṣṭaḥ, anantagatīḥ viṣayīkṛtya, sadāśayaḥ, anuttaramahābodhāvasādhāraṇacittotpādaḥ, sadadhyāśayaḥ, māyāśāṭhyarahitabodhiprasthānamahācittoḥ bodhisattvaśīlasya triśikṣāṃ suṣṭhu gṛhṇīyāt / tataḥ śvaśvapacadāsasaṃjñakasya māyāśāṭhyarahitasya tasya bodhisattvasya saṃbhāramārgīyatvād ahorātraṃ kāya-vāk-cittasamastakarmāṇi na vyarthāni bhavanti /
+
+evaṃ tena cittena bhojanamātrājñānam, indriyadvārasaṃvaraṇam, aṇumātre 'pyavadye bhayadarśanam, aharniśaṃ yogañca āpādayet / tataḥ śvāsapraśvāsamapi parārtham abhilaṣitukāmaḥ saḥ pañcamaprahara utthāya, uccāraprasrāvatyāgādicaryā sunirvartya madhyadeśapratyantajanapadaviśeṣe snātvā, samastagatīḥ avalambya caturapramāṇairbodhau cittamutpādya, triratnapratimāsamakṣaṃ sulipya sugandhapuṣpaprakaraṃ suvikīrya tadagrato bhūmau jānunī saṃsthāpya, kṛtāñjaliḥ daśadiglokadhāta-samastabuddha-samastadharmamahāyānasaṃghasamakṣaṃ ca asaṃkhyānirvācyakāyavyūhān nirmāya teṣāñcaikaikam caraṇayoḥ supraṇamet / tān aparimitavipulāprameyāmiṣapūjayā pūjayet / tataḥ pratikāyaṃ anirvacanīyamukhāni pratimukhaṃ cānirvacanīyajihvā nirmāya, svaparapāpān aśeṣān diśet / svaparapuṇyāni cānumodayet / aciram abhisambodhiprāptān buddhān bhagavato dharmacakrapravartanāya adhyeṣayet / ye dharmacakraṃ pravartya āyuḥ saṃskārān parijihīrṣante, (tān) āsaṃsāram aparinirvāṇāya prārthayeta / teṣāṃ samastakuśalānām anuttarasamyaksambodhau pariṇāmanāṃ kuryāt / yathā sūtre āgatāni tathā pratyaṅgapadāni savistaraṃ paṭhet /
+
+tataḥ saptapūjānantaraṃ sarvasattvān avalambya triśaraṇagamanapadāni triḥ paṭhet / tataḥ bodhicittamutpādayet, yathā vidhau prāpyate tathā ca kuryāt / antaśaśca evam-
+
+buddhaṃ ca dharmañca gaṇottamaṃ ca yāvaddhi bodhiṃ śaraṇaṃ gato 'smi / dānādi-kṛtyaiśca kṛtairmayaibhiḥ buddho bhaveyaṃ jagato hitāya // 2 // iti triḥ paṭhet /
+
+tataḥ svakāyārpaṇaṃ, tataḥ mahāpuruṣāṇāṃ dharmanaye mahārathināṃ ca mārge avasthānāya pratijānīyāt / tataḥ svaśayyāyāṃ paryaṅkamābhujya gurubhaṭṭāraka-śrī-bodhibhadrakṛta-samādhi-(sambhāra) parivarttoktāninavāṅgāni jñātvā śamathavipaśyanāyogaṃ bhāvayet / so 'pi layauddhatyādisamastadoṣān prahāya bhāvanīyaḥ /
+
+tataḥ cakṣurunmīlya, niḥśvasya, bāhyābhyantaravastudarśane- 'aho! āścaryam, aho! āścaryam / ākāśopamānutpādataḥ pratītyasamutpādabalena nānābhāseyamavasthitiḥ ayam' aho! āścaryam' iti vicintya aṣṭamāyopamarupeṇa jānīyāt / tato mahākaruṇacittena samastādṛśyasattvebhyo dharmadeśanārtha yathābodhi mahāyāna-sūtrapāṭhaṃ kuryāt / tataḥ bhojanāvasare- 'ṣaṭtriṃśadaśuciparipūrṇena asāreṇa nāśaparyavasitena kāyenānena tadbuddhadharmakāya-sāramanveṣayāmi' iti vicintya na puṣṭyartha, nāpi rasāsaktayā yānadhiyā bhoktavyam / bhojanamātrāpi jñātavyā / aṣṭāṅgacikitsātantre-
+
+annena kukṣerdvāvaṃśau pānenaikaṃ prapūrayet / āśrayaṃ pavanādīnāṃ caturthamavaśeṣayet // 3 // iti /
+
+tadbhojanaṃ caturbhāgeṣu vibhājyam / prathamo bhāgastriratnebhyo gurave cārpaṇīyaḥ / ekaṃ bhāgaṃ svayameva bhuñjīt / eko bhāgo bālebhyo 'nāthebhyaśca deyaḥ / ekaśca bhāgaḥ kukkurakākāditiryagbhyo deyaḥ / kaiściccaryāsaṅgraho 'nyathāpi kathitaḥ / anyo nayastu caryāsaṅgrahapradīpoktavat /
+
+tataḥ pūrvāhṇayāmeṣvapi pañcamaprahare yathoktavat sarvaṃ kāryam / madhyāhne sandhyāyāṃ rātreḥ prathame madhye ca yāme sarvathā yathoktāḥ sarve vidhayaḥ pūrayitavyāḥ / 'tādṛgyoginastasya nidrāśayanakālaniyamo nāsti' evaṃ guravo vadanti / tādṛgyoginaḥ sambhāramārgīyāḥ, mokṣamārgīyakuśalamūlotpādakāmaādikārmikā ahorātraṃ vyarthamanavasthitāḥ, tādṛgbhya āpattidoṣaḥ kathaṃ bhavet / yadi durvāsanābalād āpattirbhavet, evaṃ śīghram pratikuryāt /
+
+evaṃ teṣāṃ ṣaḍyāmānām aṣṭādaśadhā vibhāge kṛte sati catuḥpañcāśatkṣaṇā bhaviṣyanti / bodhisattvā api uttamamadhyamā ('dhamāḥ) nava syuḥ / gurupadeśataḥ pratipattyupāyān jānīyāt /
+
+śreṣṭhaiḥ samākhyātatamaṃ sumārga bodhiprabhādyaiḥ kalitaśca śiṣyaiḥ /
+gattvā mahāyānakulābhijātaiḥ prāpyaṃ padaṃ tad dvipadendrakasya // 4 //
+
+gururhi bhaṭṭārakabodhisattvaḥ bodhiprabhairbhikṣuvaraiḥ praṇunnaḥ /
+anūditā śīlajayena bhikṣuṇā caren mahāyānapathānuyāyī // 5 //
+
+'bodhisattvādikarmikamārgāvatāradeśanā' ācāryadīpaṅkaraśrījñānaviracitā samāptā //
+
+tenaiva paṇḍitena lokacakṣuṣā ca jayaśīlena anūditā //

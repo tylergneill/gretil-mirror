@@ -1,0 +1,246 @@
+Nāgārjuna: Yuktiṣaṣṭikakārikā Sanskrit reconstruction
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-yuktiSaSTikakArikA.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - B. Kumar: "The Critical Edition of Yuktiṣaṣṭika-Kārikā of Nāgārjuna", The Tibet Journal 18.3 (1993), pp. 3-16.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Yuktiṣaṣṭikakārikā = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from nagyuksu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Nagarjuna: Yuktisastikarika (= Yukti)
+Sanskrit reconstruction
+Based on the ed. B. Kumar: "The Critical Edition of Yuktiṣaṣṭika-Kārikā of Nāgārjuna",
+The Tibet Journal 18.3 (1993), pp. 3-16.
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Version: 2009-03-19 11:21:32
+Proof Reader: Milan Shakya
+The transliteration emulates the conventions of Nagari script.
+Therefore, many word boundaries are not marked by blanks.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+atha yuktiṣaṣṭikārikā nāma mañjuśrikumārabhutāya namaḥ
+
+namastasmai munīndrāya pratītyopādadeśine |
+yenānenā vidhānena niṣiddhāvudayavyayau ||
+
+bhāvābhāvavyatikrāntā matiryeṣāmanāśritā |
+tairgambhīro niralambaḥ pratyayārthaḥ pratīyate || yukti_1
+
+sarvadoṣākarastāvadabhāvo vinivāritaḥ |
+nirvartyate yathā yuktayā bhāvo 'pi śrvavaṇaṃ kuru || yukti_2
+
+bhāvo yadi bhavetsaty yathā bālairvikalpitaḥ |
+vimokṣastadabhāvena ko necchet kim na kārnāt || yukti_3
+
+vimokṣo nāsti bhāvena bhāvo nāsti hyabhāvataḥ |
+bhāvābhāvaparijñānānmahātmā 'pi vimucyate || yukti_4
+
+nirvāṇam caiva lokaṃ ca manyante tattvadarśinaḥ |
+naiva lokaṃ na nirvānaṃ manyante tattvadarśinaḥ || yukti_5
+
+nirvānaṃ ca bhavaścaiva dvayameva na vidyate |
+parijñānaṃ bhavasyaiva nirvāṇamiti kathyate || yukti_6
+
+sambhavavibhave bhāve nirodhaḥ kalpito yathā |
+māyākṛto nirodho 'yam sadbhistathaivamiṣyate || yukti_7
+
+samskṛto na parijñāto nirodho vibhave sati |
+pratyakṣam bhūyate kasmin vibhavo jñāyate katham || yukti_8
+
+yadi skandhanirodhena bhavenna kleśasamkṣayaḥ |
+yadā cāyaṃ niruddhaḥ syāttadā mokṣo bhavisyati || yukti_9
+
+avidyā pratyayotpannam samyagjñānena paśyataḥ |
+notpādaśca nirodhasca yuktaḥ ko 'pyupalabhyate || yukti_10
+
+evam paśyati dharmaḥ yo nirvānam vā katam tathā |
+dharmajñānam paraṃ yatra bhedastu tatra vidyate || yukti_11
+
+atisukṣmasya bhāvasya jātiryena vikalpitā |
+pratyayodbhavamartham na paśyati so 'vicakṣaṇaḥ || yukti_12
+
+samklesakṣīnabhikṣūṇām samsārāccennivāryate |
+kutaḥ sampannabuddhaiśca tasyārambho na bhāṣitaḥ || yukti_13
+
+ārambhe sati caikānte bhavedṛṣṭiparigraḥ |
+yaḥ pratītyasamutpādastasya purvaṃ paraṃ vā kim || yukti_14
+
+samutpannaṃ kathaṃ purvaṃ paścāt punarnivāryate |
+purvāparāntavihīno mokṣaḥ khyātirmāyopamaḥ || yukti_15
+
+bhavatīdam yadā māyā namkṣyatīti tadaiva hi |
+māyājñānaparābhūto māyājñānena mohitaḥ || yukti_16
+
+yathā marīcikā māyā bhavam buddhayā hi paśyati |
+purvāntam vāparāntam vā na dṛṣṭayā parikliśyate || yukti_17
+
+samskṛtam ye hi manyante bhangotpādavikalpitam |
+pratītyotpādacakreṇa vijānanti na te jagat || yukti_18
+
+tadāśritya yadutpannaṃ notpannaṃ svayamevahi |
+svayam yadā yadutpannamutpannam nāma tat katham || yukti_19
+
+śāntam hetukṣayādeva kṣīṇam nāmāvabudhyate |
+svabhāvena hi yatkṣīṇam tat kṣīṇamucyate katham || yukti_20
+
+na kaścidanutpannam nirodho 'pi na vai tathā |
+utpādabhangakarmaṇābhiprāyārthaḥ pradarśitaḥ || yukti_21
+
+utpādajñānato bhaṅgo bhaṅgajñānādanityatā |
+anityatvāvabodhācca saddharmo hi vibodhitaḥ || yukti_22
+
+yaḥ pratītyasamutpāda utpādabhaṅgavarjitam |
+parijānāti tenaivanuttīryata bhavābudhiḥ || yukti_23
+
+sadasadbhirviparyastā ātmabhāvāḥ pṛthagjanāḥ |
+kleśavamśagatāḥ sattvā ātmacinttena vañcitāḥ || yukti_24
+
+vivudhairbhāvyate bhāveh śunyo 'nityo 'nātmakaḥ |
+moṣadharmacayaścaiva vivikta iti dṛśyate || yukti_25
+
+amūlatvāt sthitirnaiva nirālambo nirāśrayaḥ |
+avidyāhetusambhūta ādimadhyāntavarjitaḥ || yukti_26
+
+kadalīvasāram yadgandharvanagaram yathā | mohapuryāmivivannau yo māyāvat paśyati jagat | 27 
+atra brahmādiloko vai satya ivāvabhāsane |
+satyanmṛṣetyuktamāryena tatra kā śiṣyate parā || yukti_28
+ 
+loko 'vidyāndhabhūto 'sau tṛṣnāstrotasā cālitaḥ |
+tṛṣnārahitavijñasya puṇyadṛṣṭi samā kutaḥ || yukti_29
+ 
+ādau tattvamidaṃ dṛṣṭam sarvamstīti kathyate |
+jānannarthānnasakto 'pi paścānnunam vivicyate || yukti_30
+ 
+na jānāti viviktārtha śrutimātram pravartate |
+yeṣām puṇyamavicchinnamutsannā itare janāḥ || yukti_31
+ 
+karmāni phalayuktāni proktam samyagidam jagat |
+tatsvabhāvaparijñānamanutpannam hi desitam || yukti_32
+ 
+aham mameti kathitam yathākaryavaśājjanaiḥ |
+tathā kāryavaśāt proktāḥ skandhāyatanadhātavaḥ || yukti_33
+ 
+mahābhūtādaya khyātā vijñāne nicayastathā |
+tajjñānena viyukttena mṛṣaiva na vikalpitam || yukti_34
+ 
+nirvānam satyamekam hi jinairyadabhidhīyate |
+nāva śiṣṭam tadā satyamevam vijñena kalpitam || yukti_35
+ 
+yāvacittasya vikṣepastāvanmārasya gocaraḥ |
+evambhūto bhavedyatra nā doṣo jāyate kathaṃ || yukti_36
+ 
+avidyāpratyayo loko yasmādbuddhaiḥ prakīrtitaḥ |
+vikalpastena loko 'yamiti kim nopapadyate || yukti_37
+ 
+avidyāyām niruddhāyām nirodho jāyate yathā |
+ajñānato hi samkalpa iti kim na vidhīyate || yukti_38
+ 
+hetutaḥ sambhavo yasya sthiti rna pratyayairvinā |
+vigamaḥ pratyayābhāvāt so 'stītyavagataḥ kutaḥ || yukti_39
+ 
+paramam bhāvāmaśritya sthitiścedbhāvavādinaḥ |
+tadaiva hi sthitā mārge na kaściditasmayastataḥ || yukti_40
+ 
+buddhamārge śritāḥ sarve 'nityamiti vādinaḥ |
+kena vādena gṛhyante bhāvāḥ santi parā iti || yukti_41
+ 
+eṣa vāsāviti yatra vimarśo nopalabhyate |
+idam satyamado veti paṇḍitaiḥ kathamucyatai || yukti_42
+ 
+nānupādāya taiścāpi loko vātmābhikāṅkṣate |
+nityānityāderūtpādah mithyādṛṣṭyā tu hāritaḥ || yukti_43
+ 
+yeṣām bhāvāsmupādāya tattvā steṣām prasāditāḥ |
+tatra liṅgādayo doṣāḥ prajāyante na vā kathaṃ || yukti_44
+ 
+yān hi dharmānupādāya dṛṣṭaścandro jale yathā |
+tatra satyam mṛṣā naiva kāmaṃ dṛṣṭyā na hāritaḥ || yukti_45
+ 
+rāgadveṣodbhavastīvra-duṣṭadṛṣṭiparigraḥ |
+vivādāstatsamutthāśca bhāvābhyupagame sati || yukti_46
+ 
+sa hetuḥ sarvadṛṣṭīnām kleśotpatti rna tam vinā |
+tasmāttsmin parijñāte dṛṣṭikleśaparikṣayaḥ || yukti_47
+ 
+parijñāñca keneti pratītyotpādadarśanāt |
+pratītya jātañca'jātamāha tattvavidām varaḥ || yukti_48
+ 
+mithyājñāne paribhūya yo 'satye satyadhārakaḥ |
+parigraho vitarkādeḥ kramādrāgakriyā matā || yukti_49
+ 
+mahātmanām na pakṣo vā vitarko vā na vidyate |
+yeṣām na vidyate pakṣeḥ parapakṣaḥ kutasteṣām || yukti_50
+ 
+yasminneva samāśrito daṣṭaḥ kleśaviṣadharaih |
+calaṃ vāniṣṭhitam cittaṃ na tiṣṭhatyanāśritam || yukti_51
+ 
+sāśraya cittavāna sattveḥ kleśodbhūto viṣo mahān |
+sadā pṛthagajano hīnaḥ kleśasarpena gṛhītaḥ || yukti_52
+ 
+prativimbe yathā rāgo loke ca mohavandhanāt |
+viṣayapinjaro sakto bālo hi satyasamjñayā || yukti_53
+ 
+cakṣurbhyām viṣayānnāma vimbajñānena paśyati |
+karmapaṅkeṣvanāsakto bhāvo yathā mahātmanaḥ || yukti_54
+ 
+rūpāsaktā janā muḍhā madhyamā rāgavarjitāḥ |
+rūpasvabhāvavijño yo vimukto buddhimān paraḥ || yukti_55
+ 
+vivṛtya sukhacintāyāḥ vītarāgavivarjitaḥ |
+māyāpumvadvipaśyanānnivṛtaḥ sa bhaviṣyati || yukti_56
+ 
+mithyājñānabhitapto yaḥ kleśasamdoṣabhāgbhāvet |
+bhāvābhāvau vikalpanādarthajñānam na jāyate || yukti_57
+ 
+nāśrayḥ vītarāgā vai bhavanti rāgavarjitāḥ |
+arāge rāgavardhāste na sāśrayā mahātmanaḥ || yukti_58
+ 
+yeṣām viviktacetasām calam cittam cañcalam |
+kleśasarpermathito 'pi tīṇo 'khinno bhavāmbuddheḥ || yukti_59
+ 
+śāstreṇānena janānām punyam jñānam ca sancitam |
+punyajñānakriyodbhūtam dvāvāptotu param tathā || yukti_60
+
+
+iti yuktiṣaṣṭikārikā samāptā |
+
+āryanāgārjunamukhaniḥ satam, śāstramidaṃ
+
+bhāratīyapaṇḍita muditaśripaṇḍitācchurtam
+ca bhoṭavāsinā pātchava prāntīya suryakīrtirnāma
+bhoṭapaṇḍitena likhitaṃ bhoṭabhāṣāyamiti ||
+
+śubhamastu |

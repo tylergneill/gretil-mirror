@@ -1,0 +1,287 @@
+Kedārabhaṭṭa: Vṛttaratnākara
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kedArabhaTTa-vRttaratnAkara.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Masahiro Takano
+## Contribution: Masahiro Takano
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Śrī Kedāra Nātha Śarmā: Vṛttaratnākara : with a commentary of Bhaṭṭa Nārāyaṇa Bhaṭṭ and notes etc. by Vaidya Nātha Śāstrī Varakale, edited with the Maṇimayī Hindī Commentary. -- 6th ed. Varanasi : Chaukhambha Sanskrit Sansthan , 1980. (The Kashi Sanskrit Series ; 55).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Vṛttaratnākara = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from kedvratu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Kedarabhatta (12th c.): Vrttaratnakara (sutra verses only)
+Based on the edition by Śrī Kedāra Nātha Śarmā: Vṛttaratnākara : with a commentary of Bhaṭṭa Nārāyaṇa Bhaṭṭ and notes etc. by Vaidya Nātha Śāstrī Varakale, edited with the Maṇimayī Hindī Commentary. -- 6th ed.
+Varanasi : Chaukhambha Sanskrit Sansthan , 1980.
+(The Kashi Sanskrit Series ; 55)
+Input by Masahiro Takano
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+[śrīḥ]
+
+[vṛttaratnākaraḥ]
+
+prathamo 'dhyāyaḥ
+
+sukhasantānasiddhyarthaṃ natvā brahmā 'cyutā 'rcitam /
+gaurīvināyakopetaṃ śaṅkaraṃ lokaśaṅkaram // kedv_1.1 //
+
+vedārthaśaivaśāstrajñaḥ pavyeko 'bhūd lokaśaṅkaram /
+tasya putro 'sti kedāraḥ śivapādārcane rataḥ // kedv_1.2 //
+
+tenedaṃ kriyate chando lakṣyalakṣaṇasaṃyutam /
+vṛttaratnākaraṃ nāma bālānāṃ sukhasiddhye // kedv_1.3 //
+
+piṅgalādibhrācāryairyaduktaṃ laukikaṃ dvidhā /
+mātrāvarṇavibhedena cchandastadiha kathyate // kedv_1.4 //
+
+ṣaḍadhyāyanibaddhasya cchandaso 'sya parisphuṭam /
+pramāṇamapi vijñeyaṃ ṣaḍtriṃśadadhikaṃ śatam // kedv_1.5 //
+
+myarastajabhnagairlāntairebhirdaśabhirakṣaraiḥ /
+samastaṃ vāṅmayaṃ vyāptaṃ trailokyamiva viṣṇunā // kedv_1.6 //
+
+sarvagurmo mukhāntarlau yarāvantagalau satau /
+gmadhyādyau jmau trilo no 'ṣṭau bhavantyatra gaṇāstrikāḥ // kedv_1.7 //
+
+jñeyāḥ sarvāntamadhyādiguravo 'tra catuṣkalāḥ /
+gaṇāścaturlaghūpetāḥ pañcāryādiṣu saṃsthitāḥ // kedv_1.8 //
+
+sānusvāro visargānto dīrgho yuktaparaśca yaḥ /
+vā pādānte tvasau gvakro jñeyo 'nyo mātriko lṛjuḥ // kedv_1.9 //
+
+pādādāviha varṇasya saṃyogaḥ kramasaṃjñakaḥ /
+puraḥsthitena tena syāllaghutā 'pi kvacid guroḥ // kedv_1.10 //
+
+taruṇaṃ sarṣapaśākaṃ navaudanaṃ picchilāni ca dadhīni /
+alpavyayena sundari (!) grāmyajano miṣṭamiśnāti // kedv_1.11 //
+
+abdhibhūtarasādīnāṃ jñeyāḥ saṃjñāstu lokataḥ /
+jñeyaḥ pādaścaturthāśo yatirvicchedasaṃjñitaḥ // kedv_1.12 //
+
+yuksamaṃ viṣamaṃ cālūksthānaṃ sadbhirnigadyate /
+samamardhasamaṃ vṛttaṃ viṣamaṃ ca tathāparam // kedv_1.13 //
+
+aṅghrayo yasya catvārastulyalakṣaṇalakṣitāḥ /
+tacchandaḥśāstratattvajñāḥ samaṃ vṛttaṃ pracakṣate // kedv_1.14 //
+
+prathamāṅghrisamo yasya tṛtīyaścaraṇo bhavet /
+dvitīyasturyavadvṛttaṃ tadardhasamamucyate // kedv_1.15 //
+
+yasya pādacatuṣke 'pi lakṣma bhinnaṃ parasparam /
+tadāhurviṣamaṃ vṛttaṃ chandaḥśāstraviśāradāḥ // kedv_1.16 //
+
+ārabhyaikākṣārātpādādekaikakṣaravaddhitaiḥ /
+pṛthakchando bhavetpādairyāvatṣaḍviṃśatiṃ gatam // kedv_1.17 //
+
+tadūrdhvaṃ caṇḍavṛṣṭyādidaṇḍakāḥ parikīrtitāḥ /
+śeṣaṃ gāthāstribhiḥ ṣaḍbhiścaraṇaiścopalakṣitāḥ // kedv_1.18 //
+
+uktā 'tyuktā tathā madhyā pratiṣṭhā 'nyā supūrvikā /
+gāyatryuṣṇiganuṣṭup ca bṛhatī paṅktireva ca // kedv_1.19 //
+
+triṣṭup ca jagatī caiva tathā 'tijagatī matā /
+śakvarī sā 'tipūrvā syādaṣṭyatyaṣṭī tataḥ smṛte // kedv_1.20 //
+
+dhṛtiścā 'tidhṛtiścaiva krṭiḥ prakṛtirākṛtiḥ /
+vikṛtiḥ saṅkṛtiścaiva tathā 'tikṛtirutkṛtiḥ // kedv_1.21 //
+
+ityuktāśchandasāṃ saṃjñāḥ kramato vacmi sāmpratam /
+lakṣaṇaṃ sarvavṛttānāṃ mātrāvṛttā 'nupūrvakam // kedv_1.22 //
+
+iti śrīkedārabhaṭṭaviracite vṛttaratnākare saṃjñābhidhāno nāma prathamo 'dhyāyaḥ /
+
+dvitīyo 'dhyāyaḥ
+
+[ āryā-prakaraṇam (1-7) ]
+
+lakṣmaitatsapta gaṇā gopetā bhavati neha viṣame jaḥ /
+ṣaṣṭho 'yaṃ nalaghū vā prathame 'rdhe niyatamāryāyāḥ // kedv_2.1 //
+
+ṣaṣthe dvitīyalātparake nle mukhalācca sayatipadaniyamaḥ /
+carame 'rdhe pañcake tasmādiha bhavati ṣaṣṭho laḥ // kedv_2.2 //
+
+triṣvaṅkeṣu pādo dalayorādyeṣu dṛśyate yasyāḥ /
+pathyeti nāma tasyāḥ prakīrtitaṃ nāgarājena // kedv_2.3 //
+
+saṃlaṅghya gaṇatrayamādimaṃ śakalayordvayorbhavati pādaḥ / [saṃ(anunāsika)-laṅghya] yasyāstāṃ piṅgalanāgo vipulāmiti samākhyāti // kedv_2.4 //
+
+ubhayārdhayorjakārau dvitīyaturyau gamadhyagau tasyāḥ /
+capaleti nāma tasyā prakīrtitaṃ nāgarājena // kedv_2.5 //
+
+ādyaṃ dalaṃ samastaṃ bhajeya lakṣma capalāgataṃ yasyāḥ /
+śeṣe pūrvajalakṣmā mukhacapalāsoditā muninā // kedv_2.6 //
+
+prākpratipāditamardhe prathame prathametare ca capalāyāḥ /
+lakṣmāśrayate soktā viśuddhadhībhirjaghanacapalā // kedv_2.7 //
+
+[ gīti-prakaraṇam (8-11) ]
+
+āryāorathamadaloktaṃ yadi kathamapi lakṣaṇaṃ bhavedubhayoḥ /
+dalayoḥ krṭayatiśobhāṃ tāṃ gītiṃ gītavānbhujaṅgeśaḥ // kedv_2.8 //
+
+āryādvitīyake 'rdhe yadgaditaṃ lakṣaṇaṃ tatsyāt /
+yadyubhayorapi dalayorupagītiṃ tā munirbrūte // kedv_2.9 //
+
+āryāśakaladvitayaṃ vyatyayaracitaṃ bhavedyasyāḥ /
+sodgītiḥ kila gaditā tadvadyatyaṃśabhedasaṃyuktā // kedv_2.10 //
+
+āryāpūrvārdhaṃ yadi guruṇaikenādhikena nidhane yuktam /
+itarattadvannikhilaṃ bhavati yadīyamarddhamuditāryāgītiḥ // kedv_2.11 //
+
+[ vaitālīya-prakaraṇam (12-20) ]
+
+ṣaḍviṣame 'ṣṭau same kalāstāśca same syurno nirantarāḥ /
+na samātra parāśritā kalā vaitālīye 'nte ralā guruḥ // kedv_2.12 //
+paryante ryau tathaiva śeṣamaupacchandasikaṃ sudhībhiruktam // kedv_2.13 //āpātalikā kathiteyaṃ bhādgurukāvatha pūrvavadanyat // kedv_2.14 //tṛtīyayugdakṣiṇāntikā samastapādeṣu dvitīyalaḥ // kedv_2.15 //udīcyavṛttirdvitīyalaḥ sakto 'greṇa bhavedayugmayoḥ // kedv_2.16 //pūrveṇa yuto 'tha pañcamaḥ prācyavṛttiruditeti yugmayoḥ // kedv_2.17 //yadā samāvojayugmakau pūrvayorbhavati tatpravṛttakam // kedv_2.18 //asya yugmaracitā 'parāntikā // kedv_2.19 //ayugbhavā cāruhāsinī // kedv_2.20 //
+[ vaktra-prakaraṇam (21-30) ]
+vaktraṃ nādyānnasau syātāmabdheryo 'nuṣṭubhi khyātam // kedv_2.21 //yujorjena saridbhartuḥ pathyāvaktraṃ prakīrtitam // kedv_2.22 //ojayorjena vāridhestadeva viparītādi // kedv_2.23 //capalāvaktramayujornakāraśvetpayorāśeḥ // kedv_2.24 //yasyā laḥ saptamo yugme sā yugmavipulā matā // kedv_2.25 //sautavasyā 'khileṣvapi // kedv_2.26 //bhenā 'bdhito bhādvipulā // kedv_2.27 //itthamanyā raścaturthāt // kedv_2.28 //no 'mbudheścennavipulā // kedv_2.29 //to 'bdhestatpūrvānyā bhavet // kedv_2.30 //
+[ mātrāsamaka-prakaraṇam (31-38) ]
+dviguṇitavasuladhuracaladhṛtiriti // kedv_2.31 //mātrāsamakaṃ navamo lgāntam // kedv_2.32 //jo nlāvathāmbudherviślokaḥ // kedv_2.33 //tadyugalādvānavāsikā syāt // kedv_2.34 //bāṇāṣṭanavasu yadi laścitā // kedv_2.35 //upacitrā navame parayukte // kedv_2.36 //
+yadatītakṛtavividhalakṣmayutairmātrāsamādipādaiḥ kalitam /
+aniyatavṛttaparimāṇayuktaṃ prathitaṃ jagatsu pādākulakam // kedv_2.37 //
+
+vṛttasya lā vinā varṇairgā varṇā gurubhistathā /
+guruvo lairdale nityaṃ pramāṇamiti niścitam // kedv_2.38 //
+
+śikhiguṇitadaśalaghuracitamapagatalaghuyugalamaparamidamakhilam /
+saguru śakalayugalakamapi suparighaṭitalalitapadavitati bhavati śikhā // kedv_2.39 //
+
+vinimayavinihitaśakalayugalakalitapadavitativiracitaguṇanicayā /
+śrutisukhakṛdiyamapi jagati ñi jaśira upagatavati sati bhavati khajā // kedv_2.40 //
+
+aṣṭāvardhe gā dvayabhyastā yasyāḥ sā 'naṅgakrīḍoktā /
+dalamaparamapi vasuguṇitasalilanidhilaghu kaviracitaṃ padavitati bhavati // kedv_2.41 //
+triguṇanavalaghuraṃvasitigururitidalayugakṛtatanuratirucirā // kedv_2.42 //
+iti śrīmadbhaṭṭarāmeśvarasūnunārāyaṇabhaṭṭaviracitāyāṃ vṛttaratnākaravyākhyāyāṃ mātrāvṛttādhikāro nāma dvitīyo 'dhyāyaḥ //
+
+tṛtīyo 'dhyāyaḥ
+guḥ śtrīḥ // kedv_3.1 //gau strī // kedv_3.2 //mo nārī // kedv_3.3 //ro mṛgī // kedv_3.4 //mgau cetkanyā // kedv_3.5 //mgau giti paṅktiḥ // kedv_3.6 //tyau stastanumadhyā // kedv_3.7 //śaśivadanā nyau // kedv_3.8 //vidyullekhā mo maḥ // kedv_3.9 //tsā cedvasumatī // kedv_3.10 //msau gaḥ syānmadalekhāḥ // kedv_3.11 //bhau giti citrapadā gaḥ // kedv_3.12 //mo mo go go vidyunmālā // kedv_3.13 //māṇavakaṃ bhāttalagā // kedv_3.14 //mnau gau haṃsarutametat // kedv_3.15 //rjau samānikā galau ca // kedv_3.16 //pramāṇikā jarau lagau // kedv_3.17 //vitānamābhyāṃ yadanyat // kedv_3.18 //rāmnasāviha halamukhī // kedv_3.19 //bhujagaśiśubhṛtāṃ nau maḥ // kedv_3.20 //msā jgau śuddhavirāḍidaṃ matam // kedv_3.21 //mnau jgau ceti paṇavanāmakam // kedv_3.22 //rjau ragau mayūrasāriṇī syāt // kedv_3.23 //bhmau sagayuktau rukmavatīyam // kedv_3.24 //mattā jñeyā mabhasagayuktā // kedv_3.25 //narajagaurbhavenmanoramā // kedv_3.26 //tjau jo guruṇeyamupasthitā // kedv_3.27 //syādindravajrā yadi tau jagau gaḥ // kedv_3.28 //upendravajrā jatajāstato gau // kedv_3.29 //pādau yadīyāvupajātayastāḥ // kedv_3.30 //smaranti jātiṣvidameva nāma me // kedv_3.31 //najajalagairgaditā sumukhī // kedv_3.32 //dodhakavṛttamidaṃ bhabhabhādgau // kedv_3.33 //śālinyuktā mtau tagau go 'bdhilokaiḥ // kedv_3.34 //vātormīyaṃ kathitā mbhau tagau gaḥ // kedv_3.35 //vāṇarasaiḥ syādbhatanagagaiḥ śrīḥ // kedv_3.36 //mbhau nlau gaḥ syād bhramaravilasitam // kedv_3.37 //rānnarāviha rathoddhatā lagau // kedv_3.38 //svāgateti ranabhādguruyugmam // kedv_3.39 //nanaralagururacitā vṛntā // kedv_3.40 //nanaramagurubhiśca bhadrikā // kedv_3.41 //śyenikā rajau ralau gururpadā // kedv_3.42 //mauktikamālā yadi bhatanādgau // kedv_3.43 //upasthitamidaṃ jsau tādgakārau // kedv_3.44 //candravartma nigadanti ranabhasaiḥ // kedv_3.45 //jatau tu vaṃśasthamudīritaṃ jarau // kedv_3.46 //syādindravaṃśā tatajai rasaṃyutaiḥ // kedv_3.47 //iha toṭakamambudhisaiḥ prathitam // kedv_3.48 //drutavilambitamāha nabhau bharau // kedv_3.49 //minuśaraviratirnau myau puṭo 'yam // kedv_3.50 //pramuditavadanā bhavennau ca rau // kedv_3.51 //nayasahitau nyau kusumavacitrā // kedv_3.52 //rasairjasajasā jaloddhatagatiḥ // kedv_3.53 //caturjagaṇaṃ vada mauktikadāma // kedv_3.54 //bhujaṅgaprayātaṃ bhavedyaiścatubhiḥ // kedv_3.55 //raiścaturbhiryutā sragviṇī sammatā // kedv_3.56 //bhuvi bhavennabhajaraiḥ priyaṃvadā // kedv_3.57 //tyau tyau maṇimālā cchinnā guhavaktraiḥ // kedv_3.58 //dhīrairabhāṇi lalitā tabhaujarau // kedv_3.59 //pramitākṣarā sajasasairuditā // kedv_3.60 //nanabharasahitā mahitojjvalā // kedv_3.61 //pañcāśvaiśchinnā vaiśyadevī mamau yau // kedv_3.62 //abdhyaṣṭābhirjaladharamālā mbhau smau // kedv_3.63 //iha navamālikā najabhayaiḥ syāt // kedv_3.64 //svaraśaraviratirnanau rau prabhā // kedv_3.65 //bhavati najāvatha mālatī jarau // kedv_3.66 //jabhau jarau vadati pañcāmaram // kedv_3.67 //abhinavatāmarasaṃ najajādyaḥ // kedv_3.68 //turagarasayatirnau tatau gaḥ kṣamā // kedv_3.69 //mnau jrau gastridaśayatiḥ praharṣiṇīam // kedv_3.70 //caturgrahairatirucirā jabhasjagāḥ // kedv_3.71 //vedai randhrairmtau yasagā mattamayūram // kedv_3.72 //( upasthitamidaṃ jsau tsau sagurukaṃ cet ) // kedv_3.73 //sajasā jagau bhavati mañjubhāṣiṇī // kedv_3.74 //nanatatagurubhiścandrikāśvartubhiḥ // kedv_3.75 //mtau nsau gāvakṣagrahaviratisambādhā // kedv_3.76 //nanarasalaghugaiḥ svarairaparājitā // kedv_3.77 //nanabhanalaghugaiḥ praharaṇakalitā // kedv_3.78 //uktā vasantatilakā tabhajā jagau gaḥ // kedv_3.79 //siṃhonnateyamuditā munikāśyapena // kedv_3.80 //uddharṣiṇīyamuditā munisaitavena // kedv_3.81 //induvadanā bhajasanaiḥ saguruyugmaiḥ // kedv_3.82 //dviḥsaptacchidalolā msau mbhau gau caraṇe cet // kedv_3.83 //dvihatahayalaghuratha giti śaśikalā // kedv_3.84 //sragiti bhavati rasanavakayatiriyam // kedv_3.85 //vasuhayayatiriha maṇiguṇanikaraḥ // kedv_3.86 //nanamayayayuteyaṃ mālinī bhogilokaiḥ // kedv_3.87 //bhavati najau bhajau rasahitau prabhadrakam // kedv_3.88 //sajanā nayau śaradaśayatiriyamelā // kedv_3.89 //mrau myau yāntau bhavetāṃ saptāṣṭabhiścandralekhā // kedv_3.90 //bhratrinagaiḥ svarātkhamṛṣabhagajavilasitam // kedv_3.91 //najabhajaraiḥ sadā bhavati vāṇinī gayuktaiḥ // kedv_3.92 //rasai rudraiśchinnā yamanasabhalā gaḥ śikhariṇī // kedv_3.93 //jasau jasayalā vasugrahayatiśca pṛthvī guruḥ // kedv_3.94 //diṅmuni vaṃśapatrapatitaṃ bharanabhanalagaiḥ // kedv_3.95 //rasayugahayairnsau mrau slau gau yadā hariṇī tadā // kedv_3.96 //mandākrāntā jaladhiṣaḍagairmbhaunatau tād guru cet // kedv_3.97 //hayadaśabhirnajau bhajajalā guru narkuṭakam // kedv_3.98 //muniguhakārṃavaiḥ kṛtayati vada kokilakam // kedv_3.99 //syād bhūtartvaśvaiḥ kusumitalatāvellitā mtau nayau yau // kedv_3.100 //sūryāśvairmasajastatāḥ saguravaḥ śārdūlavikrīḍitam // kedv_3.101 //jñeyā saptāśvaṣaḍbhrmarabhanayayutā bhlo gaḥ suvadanā // kedv_3.102 //trī rajau galau bhavedihedṛśena lakṣaṇena vṛttanāma // kedv_3.103 //mrabhnairyānāṃ trayeṇa trimuniyatiyutā sragdharā kīrtiteyam // kedv_3.104 //bhrau naranā ranāvatha gururdigarkaviramaṃ hi bhadrakamiti // kedv_3.105 //yadiha najau bhajau bhjabhalagāstadaśvalalitaṃ harārkayatimam // kedv_3.106 //matākrīḍā mau tnau nau nalgiti bhavati vasuśaradaśayatiyutā // kedv_3.107 //bhūtamuninairyatiriha bhatanāḥ sbhau bhanayāśca yadi bhavati tanvī // kedv_3.108 //krauñjapadā bhamau smau nananā ngāviṣaśaravasumuniviratiriha bhavet // kedv_3.109 //vasvīśāśvacchedopetaṃ mamatanayuganarasalagairbhujaṅgavijṛmbhitam // kedv_3.110 //mo nāḥ ṣaṭ sagagiti yadi navarasarasaśarayatiyutamapavāhākhyam // kedv_3.111 //yadi ha nayugalaṃ tataḥ saptarephā stadā caṇḍavṛṣṭiprapāto bhaveddaṇḍakaḥ // kedv_3.112 //praticaraṇavivṛddharephāḥ syurṇārṇavavyālajīmūtalīlākaroddāmaśaṅkhādayaḥ // kedv_3.113 //pracitakasamabhidho dhīradhībhiḥ smṛtodaṇḍako nadvayāduttaraiḥ saptabhiryaiḥ // kedv_3.114 //
+iti śrīmadbhaṭṭarāmeśvarasūnunārāyaṇabhaṭṭaviracitāyāṃ vṛttaratnākaravyākhyāyāṃ samavṛttādhyāyastṛtīyaḥ //
+
+caturtho 'dhyāyaḥ
+viṣame yadi sau salagā dale bhau yuji bhād gurukāvupacitram // kedv_4.1 //bhatrayamojagataṃ guruṇī cedyuji ca najau jyayutā drutamadhyā // kedv_4.2 //sayugātsagurū viṣame cedbhāviha vegavatī yuji bhādgau // kedv_4.3 //oje taparau jarau guruścenmasau jgaugbhadravirāṅ bhavedanoje // kedv_4.4 //asame sajo saguruyuktau ketumatī same bharanagādgaḥ // kedv_4.5 //ākhyānakīṃ tau jagurū ga oje jatāvanoje jagurū guruścet // kedv_4.6 //jatau jagau go viṣame same cettau jgau ga eṣā viparītapūrvā // kedv_4.7 //sayugātsalaghū viṣame gururyuji nabhau bharakau hariṇaplutā // kedv_4.8 //ayuji nanaralā guruḥ samenjamaparavaktramidaṃ tato jarau // kedv_4.9 //ayuji nayugarephato yakāro yuji ca najau jaragāśca puṣpitāgrā // kedv_4.10 //
+vadantyaparavaktrākhyaṃ vaitālīyaṃ vipaścitaḥ /
+puṣpatāgrābhidhaṃ kecidaupacchandasikaṃ tathā // kedv_4.11 //
+syāayugmake rajau rayau same cejjarau jarau gururyavātparā matīyam // kedv_4.12 //
+iti śrīmadbhaṭṭarāmeśvarasūnunārāyaṇabhaṭṭaviracitāyāṃ vṛttaratnākaravyākhyāyāmardhasamādhyāyaścaturthaḥ //
+
+pañcamo 'dhyāyaḥ
+
+[padacaturūrdhva-prakaraṇam (1-5)]
+
+mukhavādo 'ṣṭabhirvarṇaiḥ pare syurmakarālayaiḥ kramād vṛddhaiḥ //
+
+satataṃ yasya vicitraiḥ pādaiḥ sampannasaundaryaṃ taduditamamalamatibhiḥ padacaturūrdhvābhidhaṃ vṛttam // kedv_5.1 //
+
+prathamamuditavṛtte viracitaviṣamacaraṇabhāji //
+
+gurukayugalanidhana iha sahita āṅā laghuviratapadavitatiyatiriti bhavati pīḍaḥ // kedv_5.2 //
+
+prathamamitaracaraṇasamutthaṃ śrayati sa yadi lakṣma /
+itaraditaragatitamapi yadi ca turyaṃ
+caraṇayugalakamiti kalikā sā // kedv_5.3 //
+
+dviguruyutasamalacaraṇāntā mukhacaraṇagatamanubhavati ca tṛtīyaḥ /
+aparamiha lakṣma prakṛtamakhilamapi yadidamanubhavati lavalī sā // kedv_5.4 //
+
+prathamadhivasati yadi turyaṃ, caramacaraṇapadamavasitaguruyugmam /
+nikhilamaparamuparigatamiti lalitapadayuktā, tadidamamṛtadhārā // kedv_5.5 //
+
+[udgatā-prakaraṇam (6-8)]
+
+sajādime salaghukau ca nasajagurukairathodgatā /
+tryaṅghrigatabhanajalā gayutāḥ sajasā agau caraṇamekataḥ paṭhet // kedv_5.6 //
+
+caraṇatrayaṃ vrajati lakṣma yadi sakalamudgatāgatam /
+nā bhagau bhavati saurabhakaṃ caraṇe yadīha bhavatastṛtīyake // kedv_5.7 //
+
+nayugaṃ sakārayugalaṃ ca bhavati caraṇe tṛtīyake /
+taduditamurumatibhirlalitaṃ yadi śeṣamasya khalu pūrvatulyakam // kedv_5.8 //
+
+[upasthitapracupita-prakaraṇam (9-11)]
+
+msau jbhau gau prathamāṅghrirekataḥ pṛthaganyattritayaṃ sanajaragāstato nanau saḥ /
+trinaparikalitajayau pracupitamidamuditamupasthitapūrvam // kedv_5.9 //
+
+nau pāde 'tha tṛtīyake sanau nasayuktau prathamāṅghrikṛtayatistu vardhamānam /
+tritayamaparamapi pūrvasadṛśamiha bhavati pratatamatibhiriti gaditaṃ laghu vṛttam // kedv_5.10 //
+
+prathame ca viratirārṣabhaṃ bruvanti //
+tacchuddhavirāṭ puraḥ sthitaṃ tritayamaparamapi yadi pūrvasamaṃ syāt // kedv_5.11 //
+viṣamākṣarapādaṃ vā pādairasamaṃ daśadhrmavat /
+yacchando noktamatra gātheti tatsūribhiḥ proktam // kedv_5.12 //
+
+iti śrīmadbhaṭṭarāmeśvarasūnunārāyaṇabhaṭṭaviracitāyāṃ vṛttaratnākaravyākhyāyāṃ pañcamo 'dhyāyaḥ //
+
+ṣaṣṭho 'dhyāyaḥ
+
+[prastāraḥ]
+
+prastāro naṣṭamuddiṣṭamekadvayādilagakriyā /
+saṅkhyānamadhvayogaśca ṣaḍete pratyayāḥ smṛtāḥ // kedv_6.1 //
+
+pāde sarvagurāvādyāllaghuṃ nyasya guroradhaḥ /
+yathopari tathā śeṣaṃ bhūyaḥ kuryādamuṃ vidhim // kedv_6.2 //
+
+ūne dadyād gurūneva yāvatsarvalaghurbhavet /
+prastāro 'yaṃ samākhyātaśchandovicitivedibhiḥ // kedv_6.3 //
+
+[naṣṭam]
+
+naṣṭasya yo bhavedaṅkastasyārdhe 'rdhe same ca laḥ //
+viṣame caikamādhāya syādardhe 'rdhe gurubhavet // kedv_6.4 //
+[uddiṣṭam]
+
+uddiṣṭaṃ dviguṇānādyāduparyaṅkānsamālikhet /
+laghusthā ye ca tatrāṅkāstaiḥ saikairmiśritairbhavet // kedv_6.5 //
+
+[ekadvayādilagakriyā]
+
+varṇānvṛttabhavānsaikānauttarādharyataḥ sthitān /
+ekādikramataścaitānuparyupari nikṣipet // kedv_6.6 //
+
+upāntyato nivarteta tyajannekaikamūrdhvataḥ /
+uparyādyād gurorekamekadvyādilagakriyā // kedv_6.7 //
+
+[saṅkhyānam]
+
+lagakriyāṅkasandohe bhavetsaṅkhyā vimiśrite /
+uddiṣṭāṅkasamāhāraḥ saikā vā janayedimām // kedv_6.8 //
+
+[adhvayogaḥ]
+
+saṅkhyaiva dviguṇaikonā sadbhiradhvā prakīrtitaḥ //
+vṛttasyāṅgulikā vyāptiradhaḥ kuryāttathāṅgulim // kedv_6.9 //
+vaṃśe 'bhūtkaśyapasya prakaṭaguṇagaṇaḥ śaivasiddhāntavettā
+vipraḥ pavyekanāmā vimalataramatirvedatattvārthabodhe /
+kedārastasya sūnuḥ śivacaraṇayugārādhanaikāgracittaśchandastenābhirāmaṃ
+vṛttaratnākarākhyam // kedv_6.10 //
+
+iti śrīmadbhaṭṭarāmeśvarasūnunārāyaṇabhaṭṭaviracitāyāṃ vṛttaratnākaravyākhyāyāṃ prastārādhyāyaḥ ṣaṣṭhaḥ samāptaḥ //

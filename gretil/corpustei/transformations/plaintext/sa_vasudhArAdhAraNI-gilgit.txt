@@ -1,0 +1,88 @@
+Vasudhārādhāraṇī-Gilgit
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vasudhArAdhAraNI-gilgit.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Klaus Wille
+## Contribution: Klaus Wille
+## Date of this version: 2020-07-31
+
+## Source: 
+   - facsimiles in: Gilgit Buddhist Manuscripts (Facsimile Edition), ed. by Raghu Vira and Lokesh Chandra, 10 pts., New Delhi 1959Ō1974 (Śata-Piṭaka Series 10). [revised and enlarged compact edition, 3 vols., Delhi 1995 (Bibliotheca Indo-Buddhica Series, 150-152)].
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Vasudhārādhāraṇī-Gilgit = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from vadhdhgu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Vasudharadharani or Sucandragrhapatipariprccha or Sucandravadana
+(identification by Paul Harrison)
+Based on facsimiles in: Gilgit Buddhist Manuscripts (Facsimile Edition),
+ed. by Raghu Vira and Lokesh Chandra, 10 pts., New Delhi 1959Ō1974
+(Śata-Piṭaka Series 10).
+[revised and enlarged compact edition, 3 vols., Delhi 1995
+(Bibliotheca Indo-Buddhica Series, 150-152)].
+Transliterated from the manuscript by Klaus Wille (Göttingen)
+NOTE:
+Some scribal errors have been tacitly corrected,
+and orthographic pecularities standardizes, e.g.,
+kr for kkr, ḥ for "single-dot" visarga
+Visargas and anusvaras have been tacitly added where appropriate.
+BOLD marks beginning of pages
+ITALICS for restored text and minor emendations
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+vasudhārādhāraṇī
+
+evaṃ mayā śrutam ekasamaye bhagavān kauśāmbyāṃ viharati sma / kaṇṭakasaṃjñake mahāvanavare mahatā bhikṣusaṃghena sārdhaṃ paṃcamātrair bhikṣuśataiḥ saṃbahulaiś ca bodhisatvair mahāsatvaiḥ sarvabuddhadharmaguṇasamanvāgataiḥ
+
+tena khalu punaḥ samayena kauśāmbyāṃ mahānagaryāṃ sucandro nāma gṛhapatiḥ prativasati sma / upaśāntendriyo upaśāntamānasaḥ bahuputro bahuduhitriko bahubhṛtyaparijanasaṃpannaḥ śrāddho mahāśrāddhaḥ sa yena bhagavāṃs tenopasaṃkrānta upasaṃkramya bhagavataḥ pādau śirasā vanditvā bhagavantam anekaśatasahasrakṛtvaḥ pradakṣaṇīkṛtyaikānte nyaṣīdat* ekāntaniṣaṇṇaḥ sucandro gṛhapatir bhagavantam etad avocat*
+
+pṛccheyam ahaṃ bhagavantaṃ tathāgatam arhantaṃ samyaksaṃbuddhaṃ kaṃcit pradeśaṃ praṣṭuṃ / sacen me bhagavān avakāśaṃ kuryāt pṛṣṭapraśnavyākaraṇāya // evam ukte bhagavān sucandraṃ gṛhapatim etad avocat* pṛccha tvaṃ gṛhapate yad yad evākāṃkṣasy ahaṃ te yathāpṛṣṭena [gbm 1427(fol. 35v)1] cittam ārādhayiṣye / evam ukte sucandro gṛhapatir bhagavantam etad avocat* kathaṃ bhagavan kulaputro vā kuladuhitā vā daridro bhūtvā adaridro bhavati vyādhitaś ca bhūtvā avyādhito bhavati //
+
+atha khalu bhagavāṃ jānann eva sucandraṃ gṛhapatim etad avocat* kim iti tvaṃ gṛhapate adaridratāyā praśnaṃ pṛcchasi // evam ukte sucandro gṛhapatir bhagavantam etad avocat* daridro 'haṃ bhagavan bahupoṣyo bahuputro bahuduhitrikas tad deśayatu bhagavāṃs taṃ dharmaparyāyaṃ yena daridrāḥ satvā adaridrā bhaveyuḥ bahudhanadhānyakośakoṣṭāgārasaṃpannāś ca bhaveyuḥ pṛyā manāpā manojñadarśanāś ca bhaveyuḥ dānapatayo mahādānapatayaḥ akṣīṇahiraṇyasuvarṇadhanadhānyaratnakośakoṣṭāgāramaṇimuktāvajraśaṃkhaśilāpravāḍajātarūparajatasamṛddhāś ca bhaveyuḥ supratiṣṭhitagṛhaputradārakuṭuṃbāś ca bhaveyuḥ
+
+evam ukte bhagavāṃ sucandraṃ gṛhapatim etad avocat* bhūtapūrvaṃ gṛhapate atīta
+
+gbm 1286(fol. (36)r)1 /// samayena bhagavāṃ vajradharasāgaranirghoṣo nāma tathāgato 'rhan samyaksaṃbuddho ///
+
+2 /// myasārathiḥ śāstā devamanuṣyāṇāṃ buddho bhagavāṃ tasya tathāgatasyāntikā .. ///
+
+3 /// tā dhāritā vācitā paryavāptā anumoditā parebhyaś ca vistareṇa saṃprakā .. ///
+
+4 /// .. ne mānuṣā na viheṭhayanti / amānuṣā na viheṭhayanti / yakṣā na vihe ///
+
+5 /// .. ṭhayanti / evaṃ kuṃbhāṇḍā austārakā pūtanā kaṭapūtanā yātudhānā na + + ///
+
+6 /// hārā rasāhārā jātāhārā syandanikāhārā na viheṭhayanti / yasyetaṃ gṛha ///
+
+gbm 1287(fol. (36)v)1 /// .. śrutigatā / paryavāptā vācitā / dhāritā anumoditā parebhyaś ca vistareṇa saṃprakāśi 2 /// tāya sukhāya kṣemāya subhikṣāya / yogakṣemāya bhaviṣyati / yaś caināṃ vasudhā 3 /// ardharātres tridhā vā caturvārān asya devatā āttamanaskā svayam āgamya dhānyavṛṣṭiṃ pāta 4 /// prītā saṃghaprajñaptyā prītā dharmabhāṇakasyāśayena // namo vajradharasāgaranirgho 5 /// + .. me acaphame acapame / udghātani / udbhedani / ucchedani / sasyavati dhānya 6 /// + + + + + surūpe amale ananaste vinanaste viśvakeśi / paṃkure saṃkure /
+
+[gbm 1428(fol. 37r)1] khakhare khakhame / dhudhume / tara tara tara / vajra vajra vajropame kaṭe kaṭe / ukke nukke varṣaṇī niṣpādani / vajradharasāgaranirghoṣaṃ tathāgatam anusmara / smara smara / sarvatathāgatasatyam anusmara / saṃghasatyam anusmara / taṭa taṭa / pūra pūra / pūraya pūraya / sarvāśā mama dāmasiṃghasya bhara bharaṇe / sumaṃgale śāntamati / mahāmati maṃgalamati / subhadramati / āgaccha samayam anusmara svāhā // ācaraṇam anusmara svāhā // ādhāraṇam anusmara svāhā // prabhāvam anusmara svāhā // dhṛtim anusmara svāhā // vijayam anusmara svāhā // sarvasatvavijayam anusmara svāhā // iyaṃ sā gṛhapate vasudhārā nāma dhāraṇī asyā dhāraṇyānubhāvena rogadurbhikṣamarakāntārādayo na prabhavanti yas tu gṛhapate imāni vasudhārādhāraṇīmantrapadāni tathāgatānām arhatānāṃ samyaksaṃbuddhānāṃ pūjāṃ kṛtvā ekarātram āvartaye tasya mahāpuruṣamātrayā dhārayā gṛham [gbm 1429(fol.37v)1] abhiparipūraye / sarvadhānyaiḥ sarvopakaraṇaiḥ sarvopadravāṃś ca nāśayati tena hi tvaṃ gṛhapate udgṛhṇīṣvemāṃ vasudhārādhāraṇīṃ dhāraya vācaya deśaya / parebhyaś ca vistareṇa saṃprakāśaya / tat te bhaviṣyati dīrgharātram arthāya hitāya sukhāyeti sādhu bhagavann iti / sucandro gṛhapatir bhagavato 'ntikād imāṃ vasudhārādhāraṇīṃ śrutvā hṛṣṭas tuṣṭa udagra āttamanā pramuditaḥ prītisaumanasyajāto bhagavataś caraṇayor nipatya bhagavantam etad avocat* udgṛhītā me vasudhārādhāraṇī prahvīkṛtā dhāritā vācitā paryavāptā idānīṃ parebhyo vistareṇa saṃprakāśayiṣyāmi / atha khalu sucandro gṛhapatir bhagavantam anekaśatasahasrakṛtvaḥ pradakṣiṇīkṛtya bhagavataḥ pādau śirasā vanditvā bhagavantaṃ punar anavalokya bhagavato 'ntikāt prakrāntaḥ
+
+atha khalu bhagavān āyuṣmantam ānandam āmantrayate sma / gaccha tvam ānanda sucandragṛhapater niveśanaṃ gatvā cākāraṃ paśya paripūrṇaṃ dhanadhānyasamṛddhaṃ ratnasamṛddhaṃ ca / [gbm 1430(fol. 38)r1] sarvopakaraṇaiś ca mahākośakoṣṭāgārāṇi paripūrṇāni / athāyuṣmān ānandaḥ sucandrasya gṛhapater niveśanaṃ dṛṣṭvā vismitaḥ prītisaumanasyajāto bhagavantam etad avocat* ko bhagavan hetuḥ kaḥ pratyayo yena sucandro gṛhapatir mahādhano mahābhogo mahākośakoṣṭāgārasamṛddhaḥ saṃvṛttaḥ / bhagavān āha / śrāddhaḥ ānanda sucandro gṛhapatiḥ paramaśrāddhaḥ kalyāṇāśayo dhāritā cānena vasudhārādhāraṇī pravartitā udgṛhītā vācitā / paryavāptā parebhyaś ca vistareṇa saṃprakāśitā / tena hy ānanda tvam udgṛhṇīṣvemāṃ vasudhārādhāraṇīṃ dhāraya grāhaya / vācaya / paryavāpnuhi / parebhyaś ca vistareṇa saṃprakāśaya / tad bhaviṣyati bahujanahitāya bahujanasukhāya lokānukampāyair mahato janakāyasyārthāya hitāya sukhāya devamanuṣyāṇāṃ / nāham ānanda samanupaśyāmi sadevake loke samārake sabrahmake saśramaṇabrāhmaṇikāyāṃ prajāyāṃ / [gbm 1431(fol. 38)v1] sadevamānuṣāsurāyāṃ imāṃ dhāraṇīm anyathā kariṣyati / atikramiṣyati vā naitat sthānaṃ vidyate / tat kasya hetoḥ abhedyā hy ete ānanda dhāraṇīmantrapadāni na caiṣā kṣīṇakuśalamūlānāṃ satvānāṃ śrutipatham apy āgamiṣyati kaḥ punar vādo pustagatā vā hṛdayagatā dhāritā vā / tat kasya hetoḥ sarvatathāgatānām eṣā vākyaṃ sarvatathāgatair eṣā dhāraṇī bhāṣitā adhiṣṭhitā / dharmamudrayā mudritā anumoditā prakāśitā prabhāvitā praśastā saṃvarṇitārocitā vivṛtottānīkṛtā ākhyātā sarvasatvānāṃ daridrāṇāṃ vyādhiparipīḍitānāṃ sarvabhayopadrutānāṃ satvānām arthāyeti / āha / udgṛhītā me bhagavaṃn iyaṃ vasudhārādhāraṇī dhāritā vācitā / paryavāptā manasā ca suparicitā / ity athāyuṣmān ānanda utthāyāsanāt tasyāṃ velāyāṃ kṛtakarapuṭo evam udānam udānayati sma //
+
+acintyo bhagavaṃ buddhā buddhadharmāpy acintiyā / acintiye 'bhiprasannānāṃ vipāko 'cintiyasmṛtaḥ
+
+(end of manuscript missing!)

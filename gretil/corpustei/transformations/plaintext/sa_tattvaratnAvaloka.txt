@@ -1,0 +1,116 @@
+Tattvaratnāvaloka
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_tattvaratnAvaloka.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Janardan Pandey: Tattvaratnavaloka. Sarnath : Central Institute of High Tibetan Studies (CIHTS), 1997.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Tattvaratnāvaloka = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsa017_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Tattvaratnavaloka
+Based on the ed. by Janardan Pandey: Tattvaratnavaloka.
+Sarnath : Central Institute of High Tibetan Studies (CIHTS), 1997.
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sastra section, text no. 17
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+tattvaratnāvalokaḥ (tra)
+
+om namaḥ śrīsadgurupādebhyaḥ /
+
+anupamasukharūpī śrīnivāso 'nivāso nirupamadaśadevīrūpavidyaḥ savidyaḥ /
+tribhuvanahitasaukhyaprāptikāro 'vikāro jayati kamalapāṇiryāvadāśāvikāsāḥ // tra_1 //
+
+śrīmantranītigatacārucaturthasekarūpaṃ vidanti nahi ye sphuṭaśabdaśūnyam /
+nānopadeśagaṇasaṃkulasaptabhedais teṣāṃ sphuṭāvagataye kriyate prayatnaḥ // tra_2 //
+
+saṃbhrāntabodhā nikhilā hi tīrthyās tattvasya sādhyasya ca rūpavittau /
+tebhyaḥ prakṛṣṭaḥ kila tattvavettā vedāntavādīti[jana] pravādaḥ // tra_3 //
+
+ānandarūpaṃ svavidaprakampyaṃ vedāntinaḥ sādhyamuṣanti sāntam /
+saśrāvakākhaḍgajināśca sādhyam icchanti rūpādyupadhervirāmam // tra_4 //
+
+ākāraśūnyaṃ gaganendurūpaṃ pratyātmavedyaṃ karuṇārasaṃ ca /
+sallakṣaṇairbhūṣitamarthakāri dānādiniṣyandamapetasaukhyam // tra_5 //
+
+sānandasallakṣaṇamaṇḍitāṅgaṃ saṃbhujyamānaṃ daśabhūmisaṃsthaiḥ /
+sattvārthakāri pravadanti sādhyaṃ dānadiṣaṭpāramitānayasthā // tra_6 //
+
+saṃpūrya dānādiguṇānaśeṣān saṃbuddhya kṛtyaṃ sakalaṃ ca kṛtvā /
+yabhdūtakoṭeḥ karaṇaṃ ca sākṣāt sādhyaṃ tadapyasti nirodharūpam // tra_7 //
+
+svābhāṅgaṇā(nā)śleṣi tadarthakāri duḥkhaiḥ sukhaiścaiva vimuktirūpam /
+aśītyanuvyañjanabhūṣitāṅgam apetakalpaṃ pravadanti sādhyam // tra_8 //
+
+svadevatākāraviśeṣaśūnyaṃ prāgeva saṃbhāvya sukhaṃ sphuṭaṃ sat /
+mahāsukhākhyaṃ jagadarthakāri cintāmaṇiprakhyamuvāca kaścit // tra_9 //
+
+kṛtvā sākṣāt svādhipaṃ sātarūpaṃ paścāt tyaktvā sātamātraṃ phalaṃ syāt /
+śuddhaṃ sākṣācchakyate naiva kartuṃ tenākāro bhāvitaḥ svādhipasya // tra_10 //
+
+gagaṇasamaśarīraṃ lakṣaṇairbhūṣitāṅgaṃ nirupamasukhapūrṇaṃ svābhayā saṃgataṃ ca /
+sphuradamitamunīndraḥ sarvasattvārthakāri pravadati punaranyaḥ sādhyamucchedaśūnyam // tra_11 //
+
+kṛtvā sākṣāt svādhipaṃ sātarūpaṃ bhāvopekṣājñānamātraṃ phalaṃ syāt /
+āsaṃsārasthāyi sattvārthakāri cintāratnaprakhyamekāntaśāntam // tra_12 //
+
+kṛtvā sākṣānmaṇḍalaṃ sātarūpaṃ paścāttasya svecchayā nirvṛtiṃ ca /
+sattvārthasyāpyastyabhāvo na vāsmin prādurbhāvo nirvṛtādasti yasmāt // tra_13 //
+
+kṛtvā sphuṭaṃ rūpamabhīṣṭameṣāṃ paścānnirodhaṃ phalamāha kaścit /
+abhinnarūpaśca yato nirodho na pakṣabhede 'pi tato 'sti bhedaḥ // tra_14 //
+
+prajñājñānāduttaraṃ bodhicittāsvādasturyaṃ seṣa(ka)māhāvaraṃ tat /
+yasmāt sarvo bhāvanāsu prayāso vyarthaḥ prāptastatphalasya prasiddheḥ // tra_15 //
+
+prajñājñānāduttaraṃ prāptarāmāsvādasturyaṃ sekamāhādhamaṃ tat /
+yasmāt sarvo bhāvanādau prayatno buddhoddiṣṭo niṣphalaḥ saṃprasaktaḥ // tra_16 //
+
+dambholibījaśrutidhautaśuddhapāthojña(ja)bhūtāṅkurabhūtapuṣṭi /
+turīyaśasyaṃ paripākameta(ti) sphuṭaṃ caturthaṃ viduṣo 'pi gūḍham // tra_17 //
+
+pañcapradīpāmṛtabinducandrabhrūmadhyabindudbhavamaṇḍalāni /
+vāyoḥ svarūpaṃ galaśuṇḍikādyam atattvarūpaṃ svayamūhanīyam // tra_18 //
+
+svapnendrajālapratibimbamāyāmarīcigandharvapurāmbucandraiḥ /
+anyaiśca sarvairupamābhidheyair naivāsti sādhyaṃ kathitādihānyat // tra_19 //
+
+gambhīraśūnyapratibhāsamātraśāntātisūkṣmānabhilāpyaśabdaiḥ /
+nirlepanī[rū]panirañjanādyair bhrāntirna kāryāparasādhyasattve // tra_20 //
+
+// tattvaratnāvalokaḥ samāptaḥ //
+
+kṛtiriyaṃ paṇḍitavāgīśvarakīrtipādānām //

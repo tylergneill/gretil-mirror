@@ -1,0 +1,591 @@
+Vārāhagṛhyasūtra
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vArAhagRhyasUtra.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Oliver Hellwig
+## Contribution: Oliver Hellwig
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Raghu Vira. New Delhi: Meharchand Lachhmandas, 1982 (Panini Vaidika Granthamala 2).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Vārāhagṛhyasūtra = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from vargs_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Varahagrhyasutra
+Based on the edition by Raghu Vira
+New Delhi: Meharchand Lachhmandas, 1982
+(Panini Vaidika Granthamala ; 2)
+Input by Oliver Hellwig
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+vārāhagṛhyasūtra, 1
+ataḥ paraṃ pariśiṣṭā maitrāyaṇīyasūtrasya /
+gṛhyapuruṣaḥ prāyaścittam anugrahikahautṛkaśulvikottareṣṭakavaiṣṇavādhvaryavikacāturhotṛkagonāmikākulapādarahasyapratigrahayamakavṛṣotsargapraśnadraviṇaṣaṭkāraṇapradhānasāṃdehikapravarādhyāyarudravidhānachando'nukramaṇyantarkyakalpapravāsavidhiprātarupasthānabhūtotpattir iti dvāviṃśatiḥ pariśiṣṭasaṃkhyānām // vgrs_1.1
+gṛhye 'gnau pākayajñān viharet // vgrs_1.2
+hrasvatvāt pākayajñaḥ /
+hrasvaṃ hi pāka ityācakṣate // vgrs_1.3
+darśapūrṇamāsaprakṛtiḥ pākayajñavidhir aprayājo 'nanuyājo 'sāmidhenīkaḥ // vgrs_1.4svāhākārāntaṃ nigadya homāḥ // vgrs_1.5paratantrotpattir dakṣiṇāgnāv āhitāgniḥ kurvīta śālāgnāv anāhitāgniḥ // vgrs_1.6
+gomayena gocarmamātraṃ caturasraṃ sthaṇḍilam upalipyeṣumātraṃ tasmin lakṣaṇaṃ kurvīta satyasadasīti paścārdhād udīcīṃ lekhāṃ likhati / ṛtasadasīti dakṣiṇārdhāt prācīm / gharmasadasīty uttarārdhāt prācīm / madhye dve tisro vā prācīḥ / 
+ūrjasvatīti dakṣiṇām /
+payasvatīty uttarām /
+indrāya tveti madhyād vā /
+sarvāḥ prādeśamātryo darbheṇāvalikhet // vgrs_1.7
+ adbhiḥ prokṣyāgniṃ sādayati // vgrs_1.8 parisamuhya paristīrya paryukṣya tūṣṇīm idhmābarhiḥ saṃnahya grāgagrair dakṣiṇārambhair udaksaṃsthairayugmair dhātubhiḥ stṛṇāti // vgrs_1.9 dakṣiṇato 'gner brahmāṇam upaveśyottarata udapātram // vgrs_1.10 barhiṣaḥ pavitre kurute // vgrs_1.11 samāv apracchinnaprāntau darbhau prādeśamātrau pavitre stho vaiṣṇavye ityoṣadhyā chittvā viṣṇormanasā pūte stha ity adbhis trir unmṛjya prokṣaṇīr dharmaiḥ saṃskṛtya praṇītāṃ praṇīya nirvapaṇaprokṣaṇasaṃvapanam iti yathādevataṃ carum adhiśritya sruksruvaṃ pramṛjyābhyukṣyāgnau pratāpyāditir asi nācchinnapattrety ājyam agnāv adhiśrayati // vgrs_1.12 pṛśneḥ payo 'sīty ājyaṃ nirvapati // vgrs_1.13 pari vājapatir ityājyahaviś ca triḥ paryagnikaroti // vgrs_1.14 devas tvā savitotpunātv ityājyaṃ śrapayati // vgrs_1.15 tūṣṇīm idhmābarhir viprokṣya yathā mnātam abhiparistṛṇāti // vgrs_1.16 paridhīn paridadhāti // vgrs_1.17 tejo 'sītyājyamavekṣya paścādagnerdarbheṣvāsādayati // vgrs_1.18 abhighārya sthālīpākamuttarata udvāsayati // vgrs_1.19 sakṛdevedhmamādhāya vairūpākṣaḥ prathamo homānām // vgrs_1.20 brahmāṇam āmantrya samidham ādhāyāghārāv āghāryājyabhāgau hutvā yunajmi tveti ca yojayitvā // vgrs_1.21 nahy ayukto havyaṃ vahata iti ha vijñāyate // vgrs_1.22 kāmaṃ purastāddhuro juhoti / 
+yukto vaha jātavedaḥ purastādidaṃ viddhi kriyamāṇaṃ yatheha /
+tvaṃ bhiṣagbheṣajasyāsi goptā tvayā prasūtā gāmaśvaṃ pūruṣaṃ sanema /
+svāhā /
+iti // vgrs_1.23
+ 
+viśvā agne tvayā vayaṃ dhārā udanyā iva /
+atigāhemahi dviṣam // vgrs_1.24
+ 
+iti /
+nakṣatramiṣṭvā devatāṃ yajeta /
+ahorātramṛtuṃ tithiṃ ca // vgrs_1.25
+ abhighārya yaddevataṃ haviḥ syāttac ca juhuyād yathādevataṃ yathādevatayā carcā // vgrs_1.26 
+ākūtāya svāhā /
+ākūtaye svāheti jayān juhuyāt // vgrs_1.27
+ 
+prajāpatiḥ prāyacchat /
+iḍām agna iti sviṣṭakṛtam uttarārdhapūrvārdhe juhuyāt // vgrs_1.28
+ mekṣaṇam upayāmaṃ pavitre cānvādadhyāt // vgrs_1.29 
+anv adya no 'numatiḥ /
+anv id anumate tvam iti /
+bhūḥ svāheti prāyaścittāhutīśca // vgrs_1.30
+ tvan no 'gne / 
+sa tvan no 'gne /
+mano jyotiḥ /
+trayastriṃśattantavaḥ /
+ayāścāgne 'sīti ca // vgrs_1.31
+ 
+imaṃ stanaṃ madhumantaṃ dhayāpāṃ prapīnamagne salilasya madhye /
+utsaṃ juṣasva madhumantam ūrmiṃ samudryaṃ sadanam āviśasva /
+svāhā /
+iti paridhivimokam abhijuhoti // vgrs_1.32
+ annapata ityannasya juhuyāt // vgrs_1.33 
+edho 'syedhīṣīmahi svāheti samidham ādadhāti /
+samidasi samedhiṣīmahīti dvitīyām // vgrs_1.34
+ barhiṣi pūrṇapātraṃ ninayet // vgrs_1.35 eṣo 'vabhṛthaḥ // vgrs_1.36 pākayajñānām etattantram // vgrs_1.37 āpohiṣṭhīyābhir mārjayitvā paryukṣeta // vgrs_1.38 
+varo dakṣiṇā /
+aśvaṃ varaṃ vidyāt /
+gāmityeke // vgrs_1.39
+
+
+vārāhagṛhyasūtra, 2 prāṅmukham udaṅmukhaṃ vā sūtikālayaṃ kalpayitvā dhruvaṃ prapadye śubhaṃ prapadya āśāṃ prapadya iti kāle prapādayet // vgrs_2.1 
+reto mūtramiti cyāvanībhyāṃ dakṣiṇaṃ kukṣim abhimṛśet /
+śrāvayedvā // vgrs_2.2
+ putraṃ jātam anvakṣaṃ snātaṃ na mātopahanyād ā mantraprayogāt // vgrs_2.3 
+agner abhyāhitasya parisamūḍhasya paristīrṇasya paścād ahate vāsasi kumāraṃ prākśirasam uttānaṃ saṃveśya palāśasya madhyamaṃ parṇaṃ praveṣṭya tenāsya karṇāv ājapet bhūs tvayi dadhānīti dakṣiṇe /
+bhuvas tvayi dadhānīti savye /
+svas tvayi dadhānīti dakṣiṇe /
+bhūr bhuvaḥ svas tvayi dadhānīti savye // vgrs_2.4
+ athainam abhimantrayete / 
+aśmā bhava paraśur bhava hiraṇyam astṛtaṃ bhava /
+aṅgād aṅgāt sambhavasi hṛdayād adhijāyase /
+ātmā vai putranāmāsi sa jīva śaradaḥ śatam /
+iti // vgrs_2.5
+ 
+yatra śete tadabhimṛśet veda te bhūmi hṛdayaṃ divi candramasi śritam /
+vedāmṛtasya devā māhaṃ putryam aghaṃ rudam /
+iti // vgrs_2.6
+ 
+ājyaṃ saṃskṛtya brahmāṇam āmantrya samidham ādhāyāghārāv āghāryājyabhāgau hutvā vyāhṛtibhiś catasra ājyāhutīr juhuyāt /
+jayābhyātānānāṃ rāṣṭrabhṛtaś caike // vgrs_2.7
+ 
+kāṃsye camase vāhūtisampātān avanīya tasmin suvarṇaṃ saṃnighṛṣya vyāhṛtibhiḥ kumāraṃ catuḥ prāśayet /
+atyantam eke suvarṇaprāśanam udake nighṛṣyā dvādaśavarṣatāyāḥ // vgrs_2.8
+ 
+iṣaṃ pinva /
+ūrjaṃ pinveti stanau prakṣālya pradhāpayet /
+dakṣiṇaṃ pūrvaṃ savyaṃ paścāt // vgrs_2.9
+ sviṣṭakṛte hutvā prāyaścittāhutīśca samidhamādhāya paryukṣati // vgrs_2.10 
+eṣa karmānto bahirdvāre 'gnir nityaḥ /
+kaṇasarṣapayavānāṃ homaḥ /
+vyāhṛtibhir juhuyāt // vgrs_2.11
+ 
+apratirathaṃ japet /
+indro bhūtasyeti ṣaḍarcaṃ ca // vgrs_2.12
+ sūtikālayaṃ yathākālaṃ samantād udakena pariṣiñcet // vgrs_2.13
+
+vārāhagṛhyasūtra, 3 evam eva daśamyāṃ kṛtvā pitā mātā ca putrasya nāma dadhyatām ghoṣavadādyantarantasthaṃ dīrghābhiniṣṭānāntaṃ kṛtaṃ na taddhitaṃ dvyakṣaraṃ caturakṣaraṃ vā tyaktvā pitur nāmadheyāt nakṣatradevateṣṭanāmāno vā // vgrs_3.1 dvināmā tu brāhmaṇaḥ // vgrs_3.2 nāmaiva kanyāyāḥ akāravyavadhānam ākārāntam ayugmākṣaraṃ nadīnakṣatracandrasūryapūṣadevadattarakṣitāvarjam // vgrs_3.3 navanītena pāṇī pralipya somasya tvā dyumnenety enamabhimṛśet // vgrs_3.4 sarveṣu kumārakarmasv āgneyaḥ sthālīpākaḥ prājāpatyo vā // vgrs_3.5 sarvatrānādeśe 'gniḥ puṃsām aryamā strīṇām // vgrs_3.6 saṃvatsaraṃ mātāpitarau na māṃsam aśnīyātām // vgrs_3.7 putrasya jātadante yajetāgniṃ gavā paśunā vā // vgrs_3.8 viproṣitaḥ pratyetya putrasya mūrdhānaṃ trir ājighret paśūnāṃ tvā hiṃkāreṇābhijighrāmīti // vgrs_3.9 jātakarmavaddhastāṅguliṃ praveṣṭya tenāsya karṇāv ājapet // vgrs_3.10 athainamabhimantrayate aśmā bhaveti // vgrs_3.11 
+agnidhanvantarī putravratī chāgameṣābhyām iṣṭvā dīrghāṇāṃ vyāhṛtibhiḥ kumāraṃ catuḥ prāśayet /
+āyurdā deveti ca // vgrs_3.12
+ 
+kumārakarmāṇi śukla udagayane puṇye nakṣatre navamīvarjam /
+sarva ṛtavo vivāhe 'māghacaitrau māsau parihāpyottaraṃ ca naidāgham // vgrs_3.13
+ anvārambhayitvā havanam // vgrs_3.14
+
+vārāhagṛhyasūtra, 4
+tṛtīyavarṣasya jaṭāḥ kurvanti /
+yathā vā kulakalpaḥ // vgrs_4.1
+agnim upasamādhāya parisamuhya paristīrya paryukṣya dakṣiṇato 'gner brahmāṇam upaveśyottarata udapātraṃ śamīśamakavat // vgrs_4.2
+athainam abhimantrayate hiraṇyavarṇāḥ śucaya iti catasṛbhiḥ / yā oṣadhaya ityanuvākena / śaṃ no devīr abhiṣṭaya āpo bhavantu pītaye / śaṃ yor abhisravantu naḥ / priyāḥ śaṃ na āpo dhanvanyāḥ śaṃ naḥ santu nūpyāḥ / śaṃ naḥ samudryā āpaḥ śam u naḥ santu kūpyāḥ / 
+śaṃ no mitraḥ śaṃ varuṇaḥ śaṃ no bhavatv aryamā /
+śaṃ na indraś cāgniś ca śaṃ no viṣṇur urukramaḥ /
+iti /
+tāsām udakārthān kurvīta paryukṣaṇe 'bhyundane snāpane ca // vgrs_4.3
+ ājyaṃ saṃskṛtya brahmāṇam āmantrya samidham ādhāyāghārāv āghāryājyabhāgau hutvā agnā āyūṃṣi pavasa iti saptabhiḥ sapta hutvā // vgrs_4.4 
+āyurdā deveti ca /
+ye keśinaḥ prathame sattram āsata yebhir āvṛtaṃ yadidaṃ virājati /
+tebhyo juhomy āyuṣe dīrghāyutvāya svastaye /
+iti // vgrs_4.5
+ vyāhṛtibhiśca // vgrs_4.6 uktaḥ karmāntaḥ pūrveṇa // vgrs_4.7 śītena vāya udakenedhi / 
+uṣṇena vāya udakenedhīti taptā itarābhiḥ saṃsṛjya ārdradānava stha jīvadān avasthondatīriṣamāvadety apo 'bhimantrya dakṣiṇaṃ keśāntam abhyundyāt /
+aditiḥ keśān vapatvāpa undantu jīvase /
+dīrghāyutvāya svastaye /
+iti // vgrs_4.8
+ dakṣiṇasmin keśānte darbham ūrdhvāgraṃ nidadhāti // vgrs_4.9 oṣadhe trāyasvainam iti darbhamantardadhāti // vgrs_4.10 svadhite mainaṃ hiṃsīr iti kṣureṇābhinidadhāti // vgrs_4.11 
+yenāvapatsavitā kṣureṇa somasya rājño varuṇasya vidvān /
+tena brahmāṇo vapatedam asyāyuṣmān ayaṃ jaradaṣṭir yathāsat /
+ahamasau /
+iti pravapati // vgrs_4.12
+ dakṣiṇato mātānyā vāvidhavānaḍuhena gomayenābhūmigatān keśān parigṛhṇīyāt // vgrs_4.13 
+mā te keśān anugād varca etattathā dhātā dadhātu te /
+tubhyamindro varuṇo bṛhaspatiḥ savitā varca ādadhuḥ /
+iti prapatato 'numantrayate // vgrs_4.14
+ tena dharmeṇa punar apo 'bhimantryāparaṃ keśāntam abhyundyād uttaraṃ ca // vgrs_4.15 anyau tu pravapanau yena pūṣā bṛhaspater agner indrasya cāyuṣe 'vapat / tena te vapāmyāyuṣe dīrghāyutvāya svastaye / 
+iti paścāt /
+yena bhūyaś caratyayaṃ jyok ca paśyasi sūryam /
+tena te vapāmy āyuṣe dīrghāyutvāya suślokyāya suvarcase /
+ityuttarataḥ // vgrs_4.16
+ 
+yat kṣureṇa parcayatā supeśasā vaptar vapasi keśān /
+śundha śiro māsyāyuḥ pramoṣīḥ /
+iti lohāyasaṃ kṣuraṃ keśavāpāya prayacchati // vgrs_4.17
+ yathārthaṃ keśayatnān kurvanti dakṣiṇataḥ kapardā vasiṣṭhānām ubhayato 'tribhārgavakāśyapānāṃ pañcacūḍā āṅgirasaḥ śikhino 'nye // vgrs_4.18 vājim eke maṅgalārtham // vgrs_4.19 
+tryāyuṣaṃ kaśyapasya jamadagnes tryāyuṣam agastyasya tryāyuṣam /
+yad devānāṃ tryāyuṣaṃ tan me astu śatāyuṣam /
+iti śiraḥ saṃmṛśati // vgrs_4.20
+ 
+parigṛhya gomayena keśān uttarapūrvasyāṃ gṛhasya mūṣyām antarā gehāt paladaṃ ca nidadhyāt /
+arikte vā vapane /
+uptvāya keśāntān varuṇāya rājño bṛhaspatiḥ savitā viṣṇurindraḥ /
+tebhyo nidhānaṃ mahad anvavindann antarā dyāvāpṛthivī apa svaḥ // vgrs_4.21
+ 
+iti /
+kartre varaṃ dadāti // vgrs_4.22
+ pakṣmaguṇaṃ tilapiśitaṃ ca keśavāpāya prayacchati // vgrs_4.23 
+saṃvatsaraṃ mātā nāmlāya dhārayet /
+roṣāya nāśnīyāt /
+lavaṇavarjaṃ tūṣṇīm // vgrs_4.24
+ kanyāyā āhutivarjam // vgrs_4.25 viduṣo brāhmaṇān arthasiddhiṃ vācayet // vgrs_4.26 evam uttareṣu // vgrs_4.27
+
+vārāhagṛhyasūtra, 5
+garbhāṣṭameṣu brāhmaṇamupanayet /
+ṣaṣṭhe saptame pañcame vā // vgrs_5.1
+tato garbhaikādaśeṣu kṣatriyaṃ garbhadvādaśeṣu vaiśyam // vgrs_5.2
+prākṣoḍaśād varṣād brāhmaṇasyāpatitā sāvitrī dvāviṃśāt kṣatriyasya caturviṃśād vaiśyasya /
+ata ūrdhvaṃ patitasāvitrikā bhavanti /
+nainān yājayeyur nādhyāpayeyur na vivaheyur na vivāhayeyuḥ // vgrs_5.3
+abhyantaraṃ jaṭākaraṇaṃ bahir upanayanam // vgrs_5.4ukto 'gnisaṃskāro brahmaṇaśca // vgrs_5.5kumāraṃ paryuptinaṃ snātam abhyaktaśirasam upasparśanakalpe nopaspṛṣṭam agnerdakṣiṇato 'vasthāpya dadhikrāvṇo akāriṣam iti dadhnaḥ kumāraṃ triḥ prāśayet // vgrs_5.6
+iyaṃ duruktāt paribādhamānā varṇaṃ pavitraṃ punatī na āgāt / prāṇāpānābhyāṃ balam ābhajantī śivā devī subhagā mekhaleyam / 
+ṛtasya goptrī tapasas tarutrī ghnatī rakṣaḥ sahamānā arātīḥ /
+sā mā samantam anuparyehi bhadre dhartāras te subhage mekhale mā riṣāma /
+iti mauñjīṃ triguṇāṃ triḥ parivītāṃ mekhalām ābadhnīte /
+maurvīṃ dhanurjyāṃ kṣatriyasya śāṇīṃ vaiśyasya // vgrs_5.7
+ upavītam asi yajñasya tvopavītenopavyayāmīti yajñopavītam // vgrs_5.8 yā akṛtan yā atanvan yā avāyan yā avāharan / yāś cāgnā devīr antān abhito 'tanvata tāstvā devīr jarase saṃvyayantām / āyuṣmān ayaṃ paridhatta vāsaḥ paridhatta varcaḥ / śatāyuṣaṃ kṛṇuhi dīrghamāyuḥ / 
+śataṃ ca jīva śaradaḥ purūcīr vasūni cāyyo vibhajāya jīyān /
+ity ahataṃ vāsa ācchādya mitrasya cakṣurdharaṇaṃ balīyastejo yaśasvi sthaviraṃ ca dhṛṣṇu /
+anāhanasyaṃ vasanaṃ cariṣṇu parīdaṃ vājyaṃ vājinaṃ dadhe 'ham /
+iti kṛṣṇājinaṃ ca // vgrs_5.9
+ ājyaṃ saṃskṛtya brahmāṇam āmantrya samidham ādhāyāghārāv āghāryājyabhāgau hutvāṣṭau jaṭākaraṇīyān juhuyāt // vgrs_5.10 vyāhṛtibhiśca // vgrs_5.11 uktaḥ karmāntaḥ pūrveṇa // vgrs_5.12 kālāya vāṃ gotrāya vāṃ jaitrāya vām audbhetrāya vām annādyāya vām avanenijed ity udakenāñjaliṃ pūrayitvā sukṛtāya vāmiti pāṇī prakṣālya idamahaṃ duryamanyā niṣplāvayāmīty ācamya niṣṭhīvati // vgrs_5.13 bhrātṛvyāṇāṃ sapatnānām ahaṃ bhūyāsam uttama iti dvitīyam // vgrs_5.14 
+prātar jitaṃ bhagamugraṃ huvema vayaṃ putram aditeryo vidhartā /
+ādhraś cidyaṃ mantamānasturaś cidrājā cidyaṃ bhagaṃ bhakṣīmahīty āha /
+ity ādityam upatiṣṭheta // vgrs_5.15
+ brahmacaryam upāgāmupa mā hvayasveti brūyāt // vgrs_5.16 ehi brahmopehi brahma brahma tvā sa brahmasantam upanayāmy aham asāv iti // vgrs_5.17 athāsyābhivādanīyaṃ nāma gṛhṇāti // vgrs_5.18 devasya te savituḥ prasave 'śvinorbāhubhyāṃ pūṣṇo hastābhyāṃ hastaṃ gṛhṇāmy aham asāv ity asya hastaṃ dakṣiṇena dakṣiṇam uttānam abhīvāṅguṣṭham abhīva lomāni gṛhṇīyāt // vgrs_5.19 
+mām evānvetu te mano māmevāpi tvam anvihi /
+agnau dhṛtamiva dīpyatāṃ hṛdayaṃ tava yan mayi /
+ityenaṃ prekṣamāṇaṃ samīkṣate // vgrs_5.20
+ 
+pṛṣṭhato 'sya pāṇim anvavahṛtya hṛdayadeśam anvārabhya japet prāṇānāṃ granthir asi sa mā visrasad iti /
+brahmaṇo granthirasīti nābhideśam // vgrs_5.21
+ 
+gaṇānāṃ tvā gaṇapatiṃ havāmahe kaviṃ kavīnām upamaśravastamam /
+jyeṣṭharājaṃ brahmāṇaṃ brahmaṇaspata ā naḥ kṛṇvann ūtibhiḥ sīda sādanam /
+iti pradakṣiṇamagniṃ pariṇayet // vgrs_5.22
+ paścādagner darbheṣūpaviśati dakṣiṇataśca brahmacārī // vgrs_5.23 adhīhi bho ity upaviśya japati // vgrs_5.24 
+prabhujya dakṣiṇaṃ jānuṃ pāṇī saṃdhāya darbhahastāv oṃ ity uktvā vyāhṛtīḥ sāvitrīṃ cānubrūyāt /
+evaṃ kāṇḍānuvacaneṣu // vgrs_5.25
+ 
+tatsaviturvareṇyam iti gāyatrīṃ brāhmaṇāya /
+ā devo yātu savitā suratna iti triṣṭubhaṃ kṣatriyāya /
+yuñjate mana iti jagatīṃ vaiśyāya /
+paccho 'rdharcaśaḥ sarvām antataḥ // vgrs_5.26
+ 
+pālāśaṃ daṇḍaṃ brāhmaṇāya prayacchati naiyagrodhaṃ kṣatriyāyāśvatthaṃ vaiśyāya /
+suśravaḥ suśravasaṃ māṃ kuru /
+yathā tvaṃ suśravaḥ suśravā asy evam ahaṃ suśravaḥ suśravā bhūyāsam /
+yathā tvaṃ devānāṃ vedasya nidhigopo 'syevamahaṃ manuṣyāṇāṃ brahmaṇo nidhigopo bhūyāsamiti pratigṛhṇāti // vgrs_5.27
+ ūrdhvakapālo brāhmaṇasya kamaṇḍaluḥ parimaṇḍalaḥ kṣatriyasya nicalkalo vaiśyasya / imā āpaḥ prabharāmy ayakṣmā yakṣmacātanīḥ / 
+ṛtenāpaḥ prabharāmy amṛtena sahāyuṣā /
+iti pratigṛhṇāmīti pratigṛhya bhaikṣyacaryaṃ caret bhavati bhikṣāṃ dehīti brāhmaṇaḥ bhavati madhyāṃ kṣatriyaḥ bhavaty antyāṃ vaiśyaḥ /
+catasraḥ ṣaḍaṣṭau vāvidhavā apratyākhyāyinyaḥ /
+mātaraṃ prathamameke // vgrs_5.28
+ gurave nivedya // vgrs_5.29 vāgyataḥ prāg grāmāt saṃdhyām āset / tiṣṭhanpūrvām / 
+sāvitrīṃ trir adhītya adhvanām adhvapate svastyasyādhvanaḥ pāramaśīya /
+yā medhā apsaraḥsu gandharveṣu ca yanmanaḥ /
+yā medhā daivī mānuṣī sā mām āviśatām iha /
+iti // vgrs_5.30
+ 
+pratyetyāgniṃ paricaret /
+imaṃ stomamarhata iti parisamūhet /
+edho 'sy edhiṣīmahīti samidham ādadhāti /
+samid asi samedhiṣīmahīti dvitīyām // vgrs_5.31
+ apo 'dyānvacāriṣam ityupatiṣṭhate // vgrs_5.32 taṃ mā saṃsṛja varcaseti mukhaṃ parimṛjīta // vgrs_5.33 yadagne tapasā tapo brahmacaryam upemasi / priyāḥ śrutasya bhūyasmāyuṣmantaḥ sumedhasaḥ / 
+agne samidham ahāriṣaṃ bṛhate jātavedase /
+sa me śraddhāṃ ca medhāṃ ca jātavedāḥ prayacchatu /
+svāhā /
+iti samidham ādadhāti // vgrs_5.34
+ tejasā mā samaṅgdhi varcasā mā samaṅgdhi brahmavarcasena mā samaṅgdhīti mukhaṃ parimṛjīta // vgrs_5.35 āyurdhā agne 'sīti yathārūpaṃ gātrāṇi saṃmṛśati // vgrs_5.36 iha dhṛtiriti paryāyair aṃsaṃ grīvāścārcirālabhya rucaṃ no dhehīti lalāṭam abhimṛśet // vgrs_5.37 ādyantayoḥ paryukṣaṇam // vgrs_5.38 gurave brahmaṇe ca varam uttarāsaṅgaṃ ca dadāti // vgrs_5.39 dvādaśarātram akṣāralavaṇam āśet // vgrs_5.40 akṣārameke // vgrs_5.41 vyuṣṭe dvādaśarātre ṣaḍrātre vā grāmāt prācīṃ vodīcīṃ vā diśam upaniṣkramya paścāt palāśasya yajñīyasya vā vṛkṣasya sāvitreṇa sthālīpākeneṣṭvā jayaprabhṛtibhiścājyasya purastāt sviṣṭakṛto mekhalāṃ daṇḍaṃ cāpsu prāsyet // vgrs_5.42 tatraiva haviḥśeṣaṃ bhuñjīteti śrutiḥ // vgrs_5.43
+
+vārāhagṛhyasūtra, 6 upanayanaprabhṛti vratacārī syāt // vgrs_6.1 upanayanena vratādeśā vyākhyātāḥ // vgrs_6.2 mārgavāsāḥ saṃhatakeśaḥ bhaikṣācaryavṛttiḥ saśalkadaṇḍaḥ saptamauñjīṃ mekhalāṃ dhārayed ācāryasyāpratikūlaḥ sarvakārī // vgrs_6.3 
+yadenam upeyāt tad asmai dadyāt /
+bahūnāṃ yena saṃyuktaḥ // vgrs_6.4
+ nāsya śayyāmāviśet // vgrs_6.5 na rathamārohet // vgrs_6.6 na saṃvaset // vgrs_6.7 na vihārārtho jalpet // vgrs_6.8 na rucyarthaḥ kaṃcanaṃ dhārayet // vgrs_6.9 sarvāṇi sāṃsparśakāni strībhyo varjayet // vgrs_6.10 na snāyād daṇḍavat // vgrs_6.11 nodakamabhyupeyāt // vgrs_6.12 na divā svapet // vgrs_6.13 traividyakaṃ brahmacaryaṃ caret // vgrs_6.14 indriyasaṃyataḥ sāyaṃ prātar bhaikṣyavṛttiḥ // vgrs_6.15 sāyaṃ prātar agniṃ paricaret // vgrs_6.16 adhaḥśāyī ācāryādhīnavṛttiḥ tannisargād aśanam ayācitaṃ lavaṇam // vgrs_6.17 vāgyato 'śnīyāt // vgrs_6.18 madhumāṃse varjayet // vgrs_6.19 acchannavastrāṃ vivṛtāṃ striyaṃ na paśyet // vgrs_6.20 yaupyasya vṛkṣasya daṇḍī syāt // vgrs_6.21 nānena praharedgave na brāhmaṇāya // vgrs_6.22 na nṛtyagīte gacchet // vgrs_6.23 na caine kuryāt // vgrs_6.24 nāvalikhet // vgrs_6.25 śikhājaṭaḥ sarvajaṭo vā syāt // vgrs_6.26 śāṇīkṣaumājinavāsāḥ // vgrs_6.27 raktaṃ vasanakambalam aiṇeyaṃ brāhmaṇasya rauravaṃ kṣatriyasya ājaṃ vaiśyasya // vgrs_6.28 
+etena dharmeṇa dvādaśavarṣāṇy ekavede brahmacaryaṃ caret /
+caturviṃśati dvayoḥ ṣaṭtriṃśati trayāṇām aṣṭācatvāriṃśati sarveṣām /
+yāvad grahaṇaṃ vā // vgrs_6.29
+ malajñurabalaḥ kṛśaḥ snātvā sa sarvaṃ labhate yat kiṃcin manasepsitamiti // vgrs_6.30 etena dharmeṇa sādhv adhīte // vgrs_6.31 mantrabrāhmaṇānyadhītya kalpaṃ mīmāṃsāṃ ca yājñiko 'dhītya vaktraṃ padaṃ smṛtiṃ caicchikaḥ // vgrs_6.32 tau snātakau // vgrs_6.33 
+śrotriyo 'nyo vedapāṭhī /
+na tasya snānam // vgrs_6.34
+ 
+upaviśyācamanaṃ vidhīyate /
+antarjānu bāhū kṛtvā trir ācāmet // vgrs_6.35
+ 
+dviḥ parimṛjet /
+khāni copaspṛśecchīrṣaṇyāni // vgrs_6.36
+
+
+vārāhagṛhyasūtra, 7 atha cāturhotṛkī dīkṣā saṃvatsaram // vgrs_7.1 
+āghārāv āghāryājyabhāgau hutvā caturhot n svakarmaṇo juhuyāt /
+saha pañcahotrā ṣaḍḍhotrā ca saptahotāram antataḥ // vgrs_7.2
+ hutvā vrataṃ pradāyādito dvāv anuvākāv anuvācayet // vgrs_7.3 athāgnivratāśvamedhikī dīkṣā saṃvatsaraṃ dvādaśarātraṃ vā // vgrs_7.4 ākūtamagnimiti ṣaḍḍhutvā vrataṃ pradāyādito 'ṣṭāv anuvākān anuvācayet // vgrs_7.5 triṣavaṇam udakam āharet trīṃs trīn kumbhān // vgrs_7.6 trīṃśca samitpulān // vgrs_7.7 bhasmani śayīta karīṣe sikatāsu bhūmau vā // vgrs_7.8 nodakam abhyupeyāt // vgrs_7.9 saṃvatsare samāpte ghṛtavatāpūpenāgnim iṣṭvā vātsapraṃ vācayet // vgrs_7.10 smārtena yāvad adhyayanaṃ kāṇḍavrataviśeṣā homārthaś cādyantayor juhuyāt // vgrs_7.11 
+athainaṃ paridadīta agnaye tvā paridadāni /
+vāyave tvā paridadāni /
+sūryāya tvā paridadāni /
+prajāpataye tvā paridadānīti // vgrs_7.12
+ etenaivāśvamedho vyākhyātaḥ // vgrs_7.13 navamenānuvākena hutvā daśamenopatiṣṭheta // vgrs_7.14 aśvāya ghāsamudakasthānam udakaṃ cābhyupeyāt // vgrs_7.15 etābhyām evamantrābhyāṃ traividyakaṃ vratamupeyāt // vgrs_7.16 rahasyamadhyeṣyatā pravargyaḥ // vgrs_7.17 tasya rahasye vratopāyanaṃ saminmantraśca // vgrs_7.18 tiṣṭhed ahani rātrāv āsīta vāgyataḥ // vgrs_7.19 parvasu caivaṃ syāt // vgrs_7.20 sarvajaṭaśca syāt // vgrs_7.21 saṃvatsarāvaraḥ pravargyo bhavati // vgrs_7.22
+
+vārāhagṛhyasūtra, 8
+varṣāsu śravaṇenādhyāyān upākaroti /
+hastena vā /
+prauṣṭhapadīm ityeke // vgrs_8.1
+
+atha juhoti / apvā nāmāsi tasyāste joṣṭrīṃ gameyam / aham iddhi pituḥ pari medhā amṛtasya jagrabha / ahaṃ sūrya ivājani / svāhā / apvo nāmāsi tasya te joṣṭraṃ gameyam / 
+aham iddhi pituḥ pari medhā amṛtasya jagrabha /
+ahaṃ sūrya ivājani /
+svāhā /
+iti // vgrs_8.2
+ yuktirnāmāsi / yogo nāmāsi / matir nāmāsi / 
+sumatirnāmāsi /
+sarasvatī nāmāsi /
+sarasvān nāmāsi /
+tasyāste tasya te ity anuṣajet // vgrs_8.3
+ yuje svāhā / prayuje svāhā / saṃyuje svāhā / udyuje svāhā / 
+udyujyamānāya svāheti jayaprabhṛtibhiś cājyasya purastāt sviṣṭakṛto 'ntevāsināṃ yogam icchann atha japati ṛtaṃ vadiṣyāmi satyaṃ vadiṣyāmi brahma vadiṣyāmi tan mām avatu tadvaktāram avatv avatu māmavatu vaktāram /
+vāṅ me manasi pratiṣṭhitā mano me vāci pratiṣṭhitam āvir āyur mayi dhehi /
+vedasya vāṇī stha /
+upatiṣṭhantu chandāṃsy upākurmahe 'dhyāyān // vgrs_8.4
+ 
+oṃ bhūr bhuvaḥ svariti darbhapāṇis triḥ sāvitrīm adhītyāditaś ca trīn anuvākāṃs tathāṅgānām ekaikam /
+ko vo yunaktīti ca // vgrs_8.5
+ 
+tasyānadhyāyāḥ /
+sataḥ valīkakṣāraprabhṛti varṣaṃ na vidyotamāne na stanayatīti śrutiḥ ākālikaṃ devatu mūlaṃ vidyuddhanvolkātyakṣarāḥ śabdāḥ ācāreṇānye // vgrs_8.6
+ 
+ardhapañcamān māsān adhītya pañcārdhaṣaṣṭhān vā dīkṣaṇāyanaṃ vādhītyāthotsṛjanty etena dharmeṇa ṛtam avādiṣaṃ satyam avādiṣaṃ brahmāvādiṣaṃ tan mām āvīt tadvaktāram āvīd āvīn mām āvīd vaktāram /
+vāṅ me manasi pratiṣṭhitā mano me vāci pratiṣṭhitam āvir āyur mayi dhehi /
+vedasya vāṇī stha /
+pratiśvasantu chandāṃsy utsṛjāmahe 'dhyāyān // vgrs_8.7
+ oṃ bhūr bhuvaḥ svar ity antam adhītya ko vo vimuñcatīti ca // vgrs_8.8 
+pakṣiṇīṃ rātrīṃ nādhīyīta /
+ubhayataḥ pakṣāṃ vā // vgrs_8.9
+ nāta ūrdhvamabhreṣu // vgrs_8.10 ākālikavidyutstanayitnuvarṣaṃ varṣaṃ ca // vgrs_8.11 
+athopaniṣadarhāḥ /
+brahmacārī sucaritī medhāvī karmakṛd dhanadaḥ priyaḥ vidyayā vā vidyām anvicchan // vgrs_8.12
+ tāni tīrthāni brahmaṇaḥ // vgrs_8.13
+
+vārāhagṛhyasūtra, 9
+ṣoḍaśavarṣasya godānam /
+agniṃ vādhyeṣyamāṇasya /
+agnigodāno maitrāyaṇiḥ // vgrs_9.1
+jaṭākaraṇenokto mantravidhiḥ // vgrs_9.2
+upastha upakakṣayoś cādhiko mantraprayogaḥ /
+yat kṣureṇa parcayatā supeśasā vaptar vapasi keśaśmaśrūn /
+śundha śiro mukhaṃ māsyāyuḥ pramoṣīḥ /
+iti // vgrs_9.3
+bhūmau keśān nikhanet // vgrs_9.4ante gāṃ dadyāt // vgrs_9.5vede guruṇānujñātaḥ snāyāt // vgrs_9.6chandasy arthān buddhvā snāsyan gāṃ kārayet // vgrs_9.7ācāryamarhayet // vgrs_9.8āpo hi ṣṭheti tisṛbhiḥ hiraṇyavarṇāḥ śucaya iti catasṛbhiḥ snātvāhate vāsasī paridadhīta vasvasi vasumantaṃ māṃ kuru sauvarcasāya vāṃ tejase brahmavarcasāya paridadhānīti // vgrs_9.9viśvajanasya chāyāsīti chattraṃ dhārayate // vgrs_9.10
+mālāmābadhnīte yām aśvinau dhārayetāṃ bṛhatīṃ puṣkarasrajam /
+tāṃ viśvair devair anumatāṃ mālāmāropayāmi /
+iti // vgrs_9.11
+tejo 'sīti hiraṇyaṃ bibhṛyāt // vgrs_9.12pratiṣṭhe stho devate mā mā saṃtāptam ityupānahau // vgrs_9.13viṣṭambho 'sīti dhārayedvaiṇavīṃ yaṣṭim // vgrs_9.14sodakaṃ ca kamaṇḍalum // vgrs_9.15nityavratāny āhur ācāryāḥ // vgrs_9.16
+dvivastro 'ta ūrdhvam /
+śobhanaṃ vāso bhartavyamiti śrutiḥ // vgrs_9.17
+āmantrya gurūn gurvadhīnāṃśca svān gṛhānvrajet // vgrs_9.18
+pratiṣiddham aparayā dvārā niḥsaraṇaṃ malavadvāsasā saha sambhāṣā rajasvadvāsasā saha śayyā gor guror duruktavacanam asthāne śayanaṃ sthānaṃ smayanaṃ yānaṃ gānaṃ smaraṇamiti /
+tāni varjayet // vgrs_9.19
+
+yājanaṃ vṛttiḥ /
+uñchaṃ śilamayācitapratigrahaḥ sādhubhyo vā yācitam /
+asaṃsidhyamānāyāṃ vā vaiśyavṛttiḥ // vgrs_9.20
+svādhyāyavirodhino 'rthān utsṛjet // vgrs_9.21
+vārāhagṛhyasūtra, 10 vinītakrodhaḥ saharṣaḥ saharṣīṃ bhāryāṃ vindetānanyapūrvāṃ yavīyasīm // vgrs_10.1 
+asamānapravarair vivāhaḥ /
+ūrdhvaṃ saptamāt pitṛbandhubhyaḥ pañcamān mātṛbandhubhyo bījinaśca // vgrs_10.2
+ kṛttikāsvātipūrvair iti varayet // vgrs_10.3 mṛgaśiraḥśraviṣṭhottarāṇīty upayamet // vgrs_10.4 pañca vivāhakārakāṇi bhavanti vittaṃ rūpaṃ vidyā prajñā bāndhavamiti // vgrs_10.5 
+ekālābhe vittaṃ visṛjet /
+dvitīyālābhe rūpam /
+tṛtīyālābhe vidyām /
+prajñāyāṃ tu bāndhave ca vivadante // vgrs_10.6
+ 
+anṛkṣarā ṛjavaḥ santu panthā yebhiḥ sakhāyo yantu no vareyam /
+samaryamā saṃ bhago no 'nunīyāt saṃ jāspatyaṃ suyamamastu devāḥ /
+iti varakān vrajato 'numantrayate // vgrs_10.7
+ bandhumatīṃ kanyām aspṛṣṭamaithunām upayacchetānagnikāṃ śreṣṭhām // vgrs_10.8 
+vijñānamasyai kuryāt /
+caturo loṣṭān āharet sītāloṣṭaṃ vediloṣṭaṃ gomayaloṣṭaṃ śmaśānaloṣṭaṃ ca // vgrs_10.9
+ 
+teṣāmekaṃ gṛhṇīṣveti brūyāt /
+śmaśānaloṣṭaṃ ced gṛhṇīyān nopayaccheta // vgrs_10.10
+ asaṃspṛṣṭāṃ dharmeṇopayaccheta brāhmeṇa śaulkena vā // vgrs_10.11 śatamitirathaṃ dadyād gomithunaṃ vā // vgrs_10.12 
+ubhayāṃs tejanīṣv āsej janyān kaumārikāṃś ca /
+pūrve janyāḥ syur apare kaumārikāḥ // vgrs_10.13
+ caturo gomayapiṇḍān kṛtvā dvāv anyebhyas tathānyebhya iti prayacchet // vgrs_10.14 
+dhanaṃ na iti brūyuḥ /
+putrapaśavo na iti janyāḥ // vgrs_10.15
+ 
+dadāni /
+pratigṛhṇānīti trir brahmadeyām // vgrs_10.16
+ kṛtenāṃsena visaṃkaseyuḥ // vgrs_10.17 trir ānandaṃ māgadho hvayet // vgrs_10.18
+
+vārāhagṛhyasūtra, 11 ṣaḍarghyārhā bhavanti ṛtvigācāryo vivāhyo rājā snātakaḥ priyaśceti // vgrs_11.1 
+aprākaraṇikānnā parisaṃvatsarād arhayanti /
+anyatra yājyāt karmaṇo vivāhāc ca // vgrs_11.2
+ na jīvapitṛko 'rghyaṃ pratigṛhṇīyāt // vgrs_11.3 athainam arhayanti // vgrs_11.4 kāṃsye camase vā dadhani madhvāsicya varṣīyasāpidhāya virājo doho 'si virājo doho 'si virājo doham aśīya mayi dohaḥ padyāyai virāja iti madhuparkarmāhiyamāṇaṃ pratīkṣate // vgrs_11.5 sāvitreṇa viṣṭarau pratigṛhya rāṣṭrabhṛd asīty āsaṃdyām udagagram āstṛṇāti // vgrs_11.6 
+ahaṃ varṣma sadṛśānām udyatānām iva sūryaḥ /
+idam ahaṃ tam adharaṃ karomi yo mā kaścābhidāsati /
+ity ekasminn upaviśati // vgrs_11.7
+ mā tvadyoṣam ity anyataram adhastāt pādayor upakarṣati // vgrs_11.8 viṣṭara āsīnāyaikaikaṃ triḥ prāha // vgrs_11.9 
+naiva bho ityāha /
+na mā riṣāmeti // vgrs_11.10
+ ācamanīyāḥ prathamāḥ pratipadyante // vgrs_11.11 amṛtopastaraṇam asīty ācāmati // vgrs_11.12 padyena pādau prakṣālayati // vgrs_11.13 spṛśaty argham // vgrs_11.14 tataḥ praṇayati // vgrs_11.15 sāvitreṇobhayato viṣṭaraṃ madhuparkaṃ pratigṛhya adityās tvā pṛṣṭhe sādayāmīti bhūmau pratiṣṭhāpyāvasāyya suparṇasya tvā garutmataś cakṣuṣāvekṣa ityavekṣya namo rudrāya pātrasada iti prādeśena pratidiśaṃ vyuddiśyāṅguṣṭhenopamadhyamayā ca madhu vātā ṛtāyata iti tisṛbhiḥ saṃsṛjati // vgrs_11.16 satyaṃ yaśaḥ śrīḥ śrayatāmiti triḥ prāśnāti bhūyiṣṭham // vgrs_11.17 suhṛde 'vaśiṣṭaṃ prayacchati // vgrs_11.18 amṛtapidhānam asīty ācāmati // vgrs_11.19 asiviṣṭarapāṇir gāṃ prāha // vgrs_11.20 
+hato me pāpmā pāpmānaṃ me hata /
+yāṃ tvā devā vasavo 'nvajīviṣur ādityānāṃ svasāraṃ rudramātaram /
+daivīṃ gāmaditiṃ janānām ārabhantām arhatām arhaṇāya /
+oṃ kuruteti sampreṣyati // vgrs_11.21
+ catur avarān brāhmaṇān nānāgotrān ityekaikaṃ paśvaṅgaṃ pāyasaṃ vā bhojayet // vgrs_11.22 
+yadyutsṛjet mātā rudrāṇāṃ duhitā vasūnāṃ svasādityānām amṛtasya nābhiḥ /
+pra nu vocaṃ cikituṣe janāya mā gāmanāgāmaditiṃ vadhiṣṭa // vgrs_11.23
+ om utsṛjata tṛṇānyat tūdakaṃ pibatu // vgrs_11.24 ityukte paśum ālabhante // vgrs_11.25 śaṃ no mitra iti pāṇī prakṣālya yathārtham // vgrs_11.26
+
+vārāhagṛhyasūtra, 12 athālaṃkaraṇam alaṃkaraṇam asi sarvasmā alaṃ bhūyāsam // vgrs_12.1 prāṇāpānau me tarpayāmi samānavyānau me tarpayāmy udānarūpe me tarpayāmi cakṣuḥśrotre me tarpayāmi sucakṣā aham akṣibhyāṃ bhūyāsaṃ suvarcā mukhena suśrutkarṇābhyām iti gandhācchādane // vgrs_12.2 
+paridhāsye yaśo dhāsye dīrghāyutvāya jaradaṣṭir asmi /
+śataṃ ca jīva śaradaḥ purūcīrvasūni cāyyo vibhajāya jīyām /
+ityahataṃ vāsa ācchādyāgniṃ prajvālya vyāhṛtibhir vrīhiyavān hutvā maṅgalāny āśāset // vgrs_12.3
+
+
+vārāhagṛhyasūtra, 13 atha pravadane kanyāmupavasitāṃ snātāṃ saśiraskām ahatenācchinnadaśena vāsasā saṃvītāṃ saṃstīrṇasya purastād vihitāni vāditrāṇi vidhivadupakalpya purastāt sviṣṭakṛto vāce pathyāyai pūṣṇe pṛthivyā agnaye senāyai dhenāyai gāyatryai triṣṭubhe jagatyā anuṣṭubhe paṅktaye virāje rākāyai sinīvālyai kuhvai tvaṣṭra āśāyai sampattyai bhūtyai nirṛtyā anumatyai parjanyāyāgnaye sviṣṭakṛte ca juhuyāt // vgrs_13.1 ājyaśeṣeṇa pāṇī pralipya kanyāyā mukhaṃ saṃmārṣṭi priyāṃ karomi pataye devarāṇāṃ śvaśurāya ca / 
+rucyai tvāgniḥ saṃsṛjatu ruciṣyā pataye bhava /
+saubhāgyena tvā saṃsṛjatv ilā devī ghṛtapadīndrāṇy agnāyyaśvinī rāṭ /
+vāgilā dyaur arundhatī /
+iti ca // vgrs_13.2
+ 
+sarvāṇi vāditrāṇy abhimantrayate yā caturdhā pravadaty agnau yā vāte yā bṛhatyuta /
+paśūnāṃ yāṃ brāhmaṇe nyadadhuḥ śivā sā pravadatv iha /
+iti // vgrs_13.3
+ sarvāṇi vāditrāṇy alaṃkṛtya kanyā pravādayate śubhaṃ vada dundubhe suprajāstvāya gomukha / 
+prakrīḍantu kanyāḥ sumanasyamānāḥ sahendrāṇyā savayasaḥ sanīḍāḥ /
+prajāpatiryo vasati prajāsu prajās tanvate sumanasyamānāḥ /
+sa imāḥ prajā ramayatu prajātyai svayaṃ ca no ramatāṃ śaṃ dadhānaḥ /
+iti // vgrs_13.4
+ pravadanti kārālikāni // vgrs_13.5 kanyām udakenābhiṣiñcet // vgrs_13.6
+
+vārāhagṛhyasūtra, 14
+khe rathasya khe 'nasaḥ khe yugasya śatakratoḥ /
+abālām indrastriḥ pūrtty akṛṇot sūryavarcasaḥ /
+ityathāsyā ahataṃ vāsaḥ prayacchati // vgrs_14.1
+
+athaināṃ darbhaśulvena saṃnahyati saṃ tvā nahyāmi payasā pṛthivyāḥ saṃ tvā nahyāmy adbhiroṣadhībhiḥ /
+saṃ tvā nahyāmi prajayā dhanena saha saṃnaddhā sunuhi bhāgadheyam /
+iti // vgrs_14.2
+
+athaināṃ vāsaso 'ntaṃ grāhayitvābhyudānayati aghoracakṣur apatighny edhi /
+ehi śivā paśubhyaḥ sumanāḥ suvarcāḥ /
+dīrghāyupatnī prajayā svarvid indrapraṇayīr upa no vastum ehi /
+iti // vgrs_14.3
+samūhanollepanoddhananāvekṣaṇam ity agnikāle bhūmisaṃskārān sarvatra yathānimittam // vgrs_14.4paścādagneḥ kaṭe tejanyāṃ vā darbheṣv āsanam // vgrs_14.5
+śucau bhūmipradeśe śamīśamakaśyāmākānāṃ priyaṅgudūrvāgaurasarṣapāṇāṃ yathālābhagandhasakṣīraphalavadbhyo vanaspatibhyo haritparṇakuśayavādibhiś cānnair yā oṣadhayaḥ /
+samanyā yantīty anuvākena śaṃ no devīriti ca sahiraṇyāpo 'bhimantrya praṇītodakumbhaṃ praṇayet // vgrs_14.6
+taṃ lājāhutīṣu hūyamānāsu bhrātā brahmacārī vodgṛhya dhārayed dakṣiṇataśca // vgrs_14.7lājān saṃskṛtān śamīparṇamiśrān śūrpeṇa dakṣiṇato mātānyā vāvidhavā // vgrs_14.8ājyaṃ saṃskṛtya brahmāṇam āmantrya samidham ādhāyāghārāv āghāryājyabhāgau hutvā // vgrs_14.9
+atha juhoti / agnaye janavide svāhā / somāya janavide svāhā / gandharvāya janavide svāhā / somaḥ prathamo vivide gandharvo vivida uttaraḥ / tṛtīyo 'gniṣṭe patisturyo 'haṃ manuṣyajāḥ / 
+svāhā /
+somo 'dadad gandharvāya gandharvo 'dadad agnaye /
+rayiṃ ca putrāṃś cādād agnir mahyamatho imām /
+iti // vgrs_14.10
+ hiraṇyagarbha ityaṣṭābhiḥ pratyṛcam ājyāhutīr juhuyāt // vgrs_14.11 yena karmaṇertset tatra jayāñ juhuyāditi jayānāṃ śrutiḥ / tvā yathoktam / ākūtyai tvā svāhā / bhūtyai tvā svāhā / kāmāyai tvā svāhā / rakṣāyai tvā svāhā / samṛdhe tvā svāhā / samṛddhyai tvā svāhā / 
+ṛcā stomam /
+prajāpataye /
+bhūḥ svāhā /
+ayāś cāgne 'sīti ca // vgrs_14.12
+ uttarato 'gner darbheṣu prācīṃ kanyām avasthāpya purastāt pratyaṅmukha upayantā devasya te savituḥ prasave 'śvinor bāhubhyāṃ pūṣṇo hastābhyāṃ hastaṃ gṛhṇāmy aham asāv ity athāsyā upanayanavaddhastaṃ gṛhṇāti nīcāriktam ariktena / gṛhṇāmi te saubhagatvāya hastaṃ mayā patyā jaradaṣṭir yathāsat / bhago 'ryamā savitā puraṃdhir mahyaṃ tvādurgāharpatyāya devāḥ / ūrdhvā vāk samabhavat purā devāsurebhyaḥ / yāṃ tvā viśvasya bhūtasya prāg āyāmy asyā agrataḥ / sarasvati predam ava subhage vājinīvati / yena bhūtaṃ samabhavad yena viśvamidaṃ jagat tāmadya gāthāṃ gāsyāmo yā strīṇām uttamaṃ manaḥ / sā tvam asy amo 'ham amo 'hamasmi sā tvam / dyaur ahaṃ pṛthivī tvaṃ bṛhad ahaṃ rathaṃtaraṃ tvam / reto 'ham asmi retodhṛk tvam / sāmāham asmi ṛktvaṃ mano 'hamasmi vāktvam / 
+sā mām anuvratā bhava sā mām anuprajāyasva /
+prajāṃ sṛjāvahā ubhau puṃse putrāya kartave /
+śriyai putrāya vethaveha sūnṛte /
+iti // vgrs_14.13
+ pradakṣiṇamagniṃ pariṇayet // vgrs_14.14 
+paścād agner darbheṣvaśmānamavasthāpayati ātiṣṭhemam aśmānamaśmeva tvaṃ sthirā bhava /
+kṛṇvantu viśve devā āyuṣṭe śaradaḥ śatam /
+iti // vgrs_14.15
+ atraivāsyā dvitīyaṃ vāsaḥ prayacchati // vgrs_14.16 uparyagnāv añjalau lājān bhrātā brahmacārī vopastīrṇa āvapet // vgrs_14.17 tān abhighāritān avicchindatī juhuyāt / kartānumantrayeta / iyaṃ nāry upabrūte lājān āvapantikā / dīrghāyurastu me patir edhantāṃ jñātayo mama / 
+aryamaṇaṃ nu devaṃ kanyāgnim ayakṣata /
+so 'smāndevo 'ryamā preto muñcātu māmuta /
+svāhā /
+iti // vgrs_14.18
+ vīrasūr jīvapatnīr bhūyāsam iti sarvatra vācayet // vgrs_14.19 
+tubhyamagre paryaṇayaṃ sūryāṃ vahatunā saha /
+punaḥ patibhyo jāyāṃ dā agne prajayā saha /
+iti dvitīyaṃ pariṇayet // vgrs_14.20
+ evameva tṛtīyam / 
+avasthāpanaprabhṛti samānam /
+pūṣaṇaṃ nu devam /
+varuṇaṃ nu devamiti homau /
+kanyāgnim ayakṣateti samānam // vgrs_14.21
+ kāmena caturthī pūrayitvā dvir abhighāryottarārdhapūrvārdhe juhuyāt // vgrs_14.22 athaināṃ prācīṃ sapta padāni prakramayati ekam iṣe viṣṇustvāṃ nayatu / dve ūrje / trīṇi rāyaspoṣāya / catvāri māyobhavāya / pañca prajābhyaḥ / 
+ṣaḍ ṛtubhyaḥ /
+sapta saptabhyo hotrābhyaḥ /
+viṣṇus tvāṃ nayatv iti dvitīyaprabhṛtyanuṣajet /
+sakhī saptapadī bhava sakhyaṃ te gameyaṃ sakhyātte mā riṣam iti saptama enāṃ prekṣamāṇāṃ samīkṣate // vgrs_14.23
+ 
+pra tvā muñcātu varuṇasya pāśād yena tvābadhnāt savitā suśevaḥ /
+dhātuśca yonau sukṛtasya loke hṛṣṭā saṃ saha patyā bhūyāsam /
+iti śulvaṃ visraṃsyodakumbhena mārjayante punantu mā pitara ityanuvākena /
+āpohiṣṭhīyenety eke // vgrs_14.24
+ 
+sumaṅgalīr iyaṃ vadhur imāṃ sametya paśyata /
+saubhāgyamasyai dattvā yathārthaṃ viparetana /
+iti // vgrs_14.25
+ sthālīpākena śeṣo vyākhyātaḥ // vgrs_14.26 
+pṛthaktvet /
+yena dyaur ugrety evaṃprabhṛtaya udvāhe homāḥ syuḥ /
+nāpāṇigrahaṇe lājāḥ /
+samānaṃ prakramaṇaṃ mārjanaṃ ca // vgrs_14.27
+
+
+vārāhagṛhyasūtra, 15
+aṅkau nyaṅkāv abhito rathaṃ ye dhvāntā vātā agram abhi ye saṃpatanti /
+dūrehetiḥ patatrī vājinīvāṃs te no 'gnayaḥ paprayaḥ pārayantu /
+iti cakram abhimantrayate // vgrs_15.1
+
+sukiṃśukaṃ śalmaliṃ viśvarūpaṃ hiraṇyavarṇaṃ sudhuraṃ sucakram /
+āroha sūrye amṛtasya panthāṃs tena yāhi gṛhān svasti /
+ityāropayet // vgrs_15.2
+
+upa māyantu devatā upa brahma suvīryam /
+upa kṣatraṃ ca yadbalamupa māmaitu yadbalam /
+iti prayāsyan japati // vgrs_15.3
+
+anu māyantu devatā anu brahma suvīryam /
+anu kṣatraṃ ca yad yaśamanu māmaitu yadyaśam /
+iti prāñcaṃ prayāpya pradakṣiṇamāvṛtya yathārthalakṣaṇyavṛkṣaṃ caityaṃ vopatiṣṭheta // vgrs_15.4
+
+namo rudrāyaikavṛkṣasada ityekavṛkṣe japati /
+ye vṛkṣeṣu śaṣpiñjarā iti ca // vgrs_15.5
+
+namo rudrāya catuṣpathasada iti catuṣpathe /
+ye pathāṃ pathirakṣaya iti ca // vgrs_15.6
+
+namo rudrāya śmaśānasada iti śmaśāne /
+ye bhūtānām adhipataya iti ca // vgrs_15.7
+
+namo rudrāya pātrasada iti piban /
+ye anneṣu vividhyantīti ca // vgrs_15.8
+ye tīrthānīti tīrthe // vgrs_15.9
+yatrāpas taritavyā āsīd ati samudrāya vayunāya sindhūnāṃ pataye namaḥ /
+nadīnāṃ sarvāsāṃ pitve juhutā viśvakarmaṇe /
+viśvahādābhyaṃ haviḥ /
+ity apsūdakāñjalīr juhuyāt // vgrs_15.10
+
+yāvatāṃ sakhāyānaṃ svastimicchet tāvata udakāñjalīr juhuyāt amṛtam āsye juhomyāyuḥ prāṇe pratidadhāmi amṛtaṃ brahmaṇā saha mṛtyuṃ tarema /
+prāsahād itīṣṭir asyaditir eva mṛtyuṃdhayamiti trir ācāmet // vgrs_15.11
+dviḥ parimṛjet // vgrs_15.12yadyakṣā śamyāṇir vā riṣyeta tatraivāgnim upasamādhāyāgneyena sthālīpākeneṣṭvā jayaprabhṛtibhiś cājyasya pustāt sviṣṭakṛtaḥ // vgrs_15.13aparasyāhnaḥ saṃdhikāle gṛhān prapādayet // vgrs_15.14rathādyaupāsanāt saṃtatāmulaparājīṃ stṛṇāti // vgrs_15.15tayābhyupaiti // vgrs_15.16
+gṛhānahaṃ sumanasaḥ prapadye 'vīraghnī vīravataḥ suśevā /
+irāṃ vahantī ghṛtam ukṣamāṇāṃs teṣv ahaṃ sumanāḥ saṃviśāmi /
+ity abhyāhitāgniṃ sodakaṃ sauṣadhamāvasathaṃ prapadye /
+revatyā rohiṇyā yadvā puṇyoktam // vgrs_15.17
+ānaḍuhe carmaṇyupaviśya // vgrs_15.18athāsyā brahmacāriṇaṃ jīvapitṛkaṃ jīvamātṛkam utsaṅgamupaveśayet // vgrs_15.19phalānāmañjaliṃ pūrayet tilataṇḍulānāṃ vā // vgrs_15.20acyutā dhruvā dhruvapatnī dhruvaṃ paśyema viśvata iti dhruvaṃ jīvantīṃ saptarṣīn arundhatīmiti darśayitvā prājāpatyena sthālīpākeneṣṭvā jayaprabhṛtibhiś cājyasya purastāt sviṣṭakṛta ājyaśeṣe dadhyāsicya dadhikrāvṇo akāriṣam iti dadhnaḥ pumāṃstriḥ prāśnāti // vgrs_15.21
+cakram ivānaḍuhaḥ padaṃ māmevānvetu te manaḥ /
+māṃ ca paśyasi sūryaṃ ca mā cānyeṣu manaskṛthāḥ /
+cākravākaṃ saṃvasanaṃ tan nau saṃvananaṃ kṛtam /
+ityavaśiṣṭaṃ jāyāyai prayacchati // vgrs_15.22
+tūṣṇīṃ sā prāśnāti // vgrs_15.23
+saṃvatsaraṃ mudā tau brahmacaryaṃ carataḥ /
+dvādaśarātraṃ trirātram ekarātraṃ vā // vgrs_15.24
+evameva caturthyāṃ kṛtvā hiraṇyagarbha ityaṣṭābhiḥ sthālīpākasya hutvā jayaprabhṛtibhiścājyasya purastātsviṣṭakṛtaḥ // vgrs_15.25athāsyāḥ savye 'ṃse pūṣā te granthiṃ grathnātv iti vāsaso granthiṃ kriyamāṇam anumantrayate // vgrs_15.26
+catasro 'vidhavāḥ kurvanti /
+tābhyo hiraṇyaṃ dadāti // vgrs_15.27
+
+saṃvatsaraṃ na pravaset /
+dvādaśarātraṃ trirātram ekarātraṃ vā // vgrs_15.28
+
+vārāhagṛhyasūtra, 16 tau saṃnipātayataḥ / apaśyaṃ tvā manasā cekitānaṃ tapaso jātaṃ tapaso 'bhibhūtam / iha prajāmiha rayiṃ rarāṇaḥ prajāyasva prajayā putrakāma / apaśyaṃ tvā manasā dīdhyānāṃ svāyāṃ tanūm ṛtviye nādhamānām / upa mām uccā yuvatir babhūyāt prajāyasva prajayā putrakāme / prajāpate tanvaṃ me juṣasva tvaṣṭā vīraiḥ sahasāham indraḥ / 
+indreṇa devairvīrudhaḥ saṃvyayantāṃ bahūnāṃ puṃsāṃ pitarau syāva /
+ahaṃ prajā ajanayaṃ pṛthivyām ahaṃ garbham adadhāmoṣadhīṣu /
+ahaṃ viśveṣu bhuvaneṣvantar ahaṃ prajābhyo bibharṣi putrān /
+iti stryādivyatyāsaṃ japataḥ // vgrs_16.1
+ karad iti bhasadabhimṛśet // vgrs_16.2 janad ity uparijananam // vgrs_16.3 bṛhad iti jātaḥ pratiṣṭhitam // vgrs_16.4 
+athāsyāstṛtīye garbhamāse puṃsā nakṣatreṇa yad ahaścandramā na dṛśyeta tadahar vopoṣyāplāvyāhataṃ vāsa ācchādya nyagrodhāvarohaśuṅgānyudapeṣaṃ piṣṭvā dakṣiṇāsminnāsikāchidra āsiñcet hiraṇyagarbhaḥ /
+adbhyaḥ saṃbhṛta ityetābhyām // vgrs_16.5
+ athāsyā dakṣiṇaṃ kukṣim abhimṛśet pumān agniḥ pumānindraḥ pumāndevo bṛhaspatiḥ / 
+pumānagniśca vāyuśca pumāngarbhas tavodare /
+pumāṃsau mitrāvaruṇau pumāṃsāv aśvināv ubhau /
+pumāṃsaṃ garbhaṃ jāyasva tvaṃ pumān anujāyatām /
+ityetābhyām // vgrs_16.6
+ 
+athāsyāḥ pañcame ṣaṣṭhe saptame vā garbhamāse maṅgalyaiḥ snāpayitvā prājāpatyena sthālīpākeneṣṭvā jayaprabhṛtibhiścājyasya purastātsviṣṭakṛtaḥ /
+paścādagnerdarbheṣv āsīnāyāḥ sarvān keśān vipramucya tvamaryamā bhavasi yatkanīnāṃ devaḥ svadhāvo guhyaṃ bibharṣi /
+añjanti vipraṃ sukṛtaṃ na gobhir yad dampatī sumanasā kṛṇoṣi /
+iti navanītena pāṇī pralipya sarvān keśān saṃprayauti // vgrs_16.7
+ indrāṇī cakre kaṅkataṃ sa sīmantaṃ visarpatu iti kaṅkataṃ gṛhṇāti // vgrs_16.8 punaḥ patnīmagniriti keśaprasādhanaṃ kuryāt // vgrs_16.9 
+śalalyā śamīśākhayā sapalāśayā /
+antarvatī pumāṃsaṃ dīrghaṃ jīvantaṃ śatāyuṣam /
+dīrghāyur asyā yaḥ patir jīvātu śaradaḥ śatam /
+iti triśvetayā sīmantaṃ karoti // vgrs_16.10
+ athāsyāḥ patir dvedhā keśān badhnāti nīlalohitena sūtreṇa jīvorṇayā vā // vgrs_16.11
+
+vārāhagṛhyasūtra, 17 atha vaiśvadevaṃ vyākhyāsyāmaḥ // vgrs_17.1 tatra sāyaṃprātaḥprabhṛtīnām agnihotravat parisamuhya paristīrya paryukṣya sāyaṃ prātaḥ syādityeke // vgrs_17.2 haviṣyasya vā siddhasya vaiśvadevaḥ // vgrs_17.3 agnaye somāya prajāpataye dhanvantaraye vāstoṣpataye viśvebhyo devebhyo 'gnaye sviṣṭakṛte ca juhuyāt // vgrs_17.4 avaśiṣṭasya baliṃ haret // vgrs_17.5 
+dadhimadhumiśrasyāgnaye purastāt yamāya dakṣiṇataḥ somāya paścāt varuṇāyottarataḥ madhye varuṇāryamabhyāṃ brahmaṇe ca /
+agnaye pṛthivyai vāyave 'ntarikṣāya sūryāya dive candramase nakṣatrebhya iti // vgrs_17.6
+ adbhyaḥ kumbhadeśe // vgrs_17.7 oṣadhivanaspatibhyo madhyadeśe // vgrs_17.8 
+kāmāya /
+gṛhapataya iti śayyādeśe // vgrs_17.9
+ śriyai ca // vgrs_17.10 rakṣojanebhyo 'ntaḥ śaraṇe // vgrs_17.11 ākāśāyeti sthalikāṇḍābhyām // vgrs_17.12 tūṣṇīṃ niṣkramyopari śaraṇe // vgrs_17.13 kavyaṃ prācyām // vgrs_17.14 pitṛbhyaḥ svadhetyanuṣajet // vgrs_17.15 nama ityante ca // vgrs_17.16 ye brāhmaṇāḥ prācyāṃ diśyarhantu / ye devā yāni bhūtāni prapadye tāni me svastyayanaṃ kurvantviti / dakṣiṇasyām / 
+pratīcyām /
+uttarasyām /
+ūrdhvāyām /
+ye brāhmaṇā iti sarvatrānuṣajet // vgrs_17.17
+ snehavad amāṃsam annaṃ bhojayitvā viduṣo brāhmaṇān arthasiddhiṃ vācayet // vgrs_17.18 baliharaṇasyānte yāmāśiṣam icchet tām āśāsīta // vgrs_17.19 gṛhapatiḥ oṃ akṣayam annam astv ity āha // vgrs_17.20 bhikṣāṃ pradāya sāyaṃ bhojanameva prātar āśet // vgrs_17.21 viproṣya gṛhānupatiṣṭhet // vgrs_17.22

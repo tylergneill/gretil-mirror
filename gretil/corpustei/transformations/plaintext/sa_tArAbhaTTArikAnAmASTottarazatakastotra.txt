@@ -1,0 +1,214 @@
+Tārābhaṭṭārikānāmāṣṭottaraśatakastotra
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_tArAbhaTTArikAnAmASTottarazatakastotra.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Klaus Wille
+## Contribution: Klaus Wille
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Godefroy de Blonay: Matériaux pour servir à l'histoire de la déesse buddhique Tārā, Paris 1895 (Bibliothèque de l'École des Hautes Études, 107), pp. 48-53.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Tārābhaṭṭārikānāmāṣṭottaraśatakastotra = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from tarb108u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Tarabhattarikanamastottarasatakastotra
+Based on the edition by Godefroy de Blonay: Matériaux pour servir à l'histoire de la déesse buddhique Tārā, Paris 1895 (Bibliothèque de l'École des Hautes Études, 107), pp. 48-53.
+Input by Klaus Wille
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+āryatārābhaṭṭārikānāmāṣṭottaraśatakastotra
+
+oṃ namaḥ śrīmadāryatārāyai
+
+śrīmatpotalake ramye nānādhātuvirājite /
+nānādrumalatākīrṇe nānāpakṣinikūjite // tbh_1
+
+nānānirjharajhaṃkāre nānāmṛgasamākule /
+nānākusumajātībhiḥ samantād adhivāsite // tbh_2
+
+nānāhṛdayaphalopete ṣaṭpadodgītanisvane /
+kinnarair madhurair gītair mattavāraṇasaṃkule // tbh_3
+
+siddhavidyādhāragaṇaiḥ gandharvaiś ca ninādite /
+munibhir vītarāgaiś ca satataṃ saṃniṣevite // tbh_4
+
+bodhisatvagaṇaiś cānyaiḥ daśabhūmīśvarair api /
+āyatārādibhir devīvidyārājñīsahasrakaiḥ // tbh_5
+
+krodharājagaṇaiś cānyaiḥ hayagrīvādibhir vṛte /
+sarvasatvahitodyukto bhagavān avalokitaḥ // tbh_6
+
+vijahāra tataḥ śrīmān padmagarbhāsane sthitaḥ /
+mahatā tapasā yukto maitryā ca kṛpayānvitaḥ // tbh_7
+
+dharmaṃ dideśa tasyāṃ sa mahatyāṃ devaparṣadi /
+tatropaviṣṭam āgamya vajrapāṇir mahābalaḥ // tbh_8
+
+paramakṛpayā yuktaḥ papracchety avalokitam /
+taskaroragasiṃhāgnigajavyāghrāmbusaṃkaṭe // tbh_9
+
+sīdanty amī mune satvā magnāḥ saṃsārasāgare /
+baddhāḥ saṃsārakaiḥ pāśai rāgadveṣatamopahaiḥ // tbh_10
+
+mucyante yena saṃsārāt tan me brūhi mahāmune /
+evam ukte jagannāthaḥ sa śrīmān avalokitaḥ // tbh_10bis
+
+uvāca madhurāṃ vāṇīṃ vajrapāṇiṃ prabodhinam /
+śṛṇu guhyakarājendra amitābhasya tāyinaḥ // tbh_11
+
+praṇidhānavaśotpannā mamājñā lokamātaraḥ /
+mahākaruṇayopetā jagaduddharaṇoddhṛtāḥ // tbh_12
+
+uditādityasaṃkāśāḥ pūrṇenduvadanaprabhāḥ /
+bhāsayanti drumāṃs tārāḥ sadevāsuramānuṣān // tbh_13
+
+kampayanti trayo lokān trāsyantī yakṣarākṣasān /
+nīlotpalakarā devī mā bhair mā bhair iti bruvan // tbh_14
+
+jagatsaṃrakṣaṇārthāya aham utpāditā jinaiḥ /
+kāntāre śastrasaṃparke nānābhayasamākule // tbh_15
+
+smaraṇād eva nāmāni satvān rakṣāmy ahaṃ sadā /
+tārayiṣyāmy ahaṃ nātha nānābhayamahārṇavāt // tbh_16
+
+tena tāreti maṃ loke gāyanti munipuṃgavāḥ /
+kṛtāñjalipuṭā bhūtvā tataḥ sādarasādhvasāḥ // tbh_17
+
+jvalatīryantarīkṣestha idaṃ vacanam abravīt /
+nāmāṣṭaśatakaṃ brūhi yat purā kīrtitaṃ jinaiḥ // tbh_18
+
+dāśabhūmīśvarair nāthair bodhisatvair maharddhikaiḥ /
+sarvapāpaharaṃ puṇyaṃ māṅgalyaṃ kīrtivardhanam // tbh_19
+
+dhanahānyakaraṃ caiva ārogyapuṣṭivardhanam /
+maitrīm ālambya satvānāṃ tat kīrtaya mahāmune // tbh_20
+
+evam ukte 'tha bhagavān prahasann avalokitaḥ /
+vyavalokya diśaḥ sarvā maitryā sphuraṇayā dṛśā // tbh_21
+
+dakṣiṇakaram uddhṛtya puṇyalakṣaṇamaṇḍitam /
+tam uvāca mahāprājñaḥ sādhu sādhu mahātapaḥ // tbh_22
+
+nāmāni śṛṇu mahābhāga sarvasatvaikavatsalaḥ /
+yāni saṃkīrtya manujāḥ samyak te syur dhaneśvarāḥ // tbh_23
+
+sarvavyādhivinirmuktāḥ sarvaiśvaryaguṇānvitāḥ /
+akālamṛtyunirdagdhāś cyutā yānti sukhāvatīm // tbh_24
+
+tāny ahaṃ saṃpravakṣyāmi devasaṃghāḥ śṛṇudhva me anumodeta saddharme bhaviṣyadhvaṃ sunirvṛtāḥ // tbh_25 
+oṃ locane sulocane tāre tārotsave sarvasatvānukampini /
+sarvasatvottāriṇi sahasrabhuje sahasranetre // tbh_26
+ 
+oṃ namo bhagavate 'valokya āvalokyā /
+sarvasatvānāṃ cāhaṃ phuṭ svāhā // tbh_27
+ 
+oṃ śuddhe viśuddhe śodhanaviśodhani /
+sugatātmaje maitrīhṛdaye nirmale śyāme śyāmarūpiṇi // tbh_28
+ 
+mahāprājñe pravare pravarabhūṣite parājite /
+mahāraudri viśvarūpi mahāyaśa // tbh_29
+ 
+kalpāgnimahātejā lokadhātrīmahāyaśā /
+sarasvatī viśālākṣī prajñāśrībuddhivardhanī // tbh_30
+ 
+oṃ dhṛtidā puṣṭidā svāhā oṃkārā kāmarūpiṇī /
+sarvasatvahitodyuktā saṃgrāme tāraṇī jayā // tbh_31
+ 
+prajñāpāramitādevī āryātārā manoramā /
+dundubhisakhinī pūrṇavidyārājñī priyaṃvadā // tbh_32
+ 
+candrānanā mahāgaurī ajitā pītavāsasā /
+mahāmāyā mahāśvetā mahābalaparākramā // tbh_33
+ 
+mahāraudrī mahācaṇḍī duṣṭasatvanisūdanī /
+praśāntā śāntarūpā ca vijayā jvalanaprabhā // tbh_34
+ 
+vidyunmālī dhvajī khaḍgī cakrī cāpayutāyudhā /
+jambhanī stambhanī kālī kālarātrī niśācarī // tbh_35
+ 
+rakṣaṇī mohinī śāntā kāntā vibhāvinī śubhā /
+brāhmaṇī vedamātā ca guhā ca guhavāsinī // tbh_36
+ 
+māṅgalyā śaṅkarī saumyā jātavedā manojavā /
+kāpālinī mahābhāgā saṃdhyā satyāparājitā // tbh_37
+ 
+sārthavāhā kṛpadṛṣṭī naṣṭamārgapradarśanī /
+varadā śāsanī śāstrī strīrūpāmitavikramā // tbh_38
+ 
+śavalī yoginī siddhā cāṇḍālī cāmṛtā dhruvā /
+dhanyā puṇyā mahābhāgā subhāgā priyadarśanī // tbh_39
+ 
+kṛtāntatrāsanī bhīmā ugrā ugramahātapā /
+jagadekahitodyuktā śaraṇya bhaktivatsalā // tbh_40
+ 
+vāgīśvarī śivā sūkṣmā nityā sarvārthamātṛkā /
+sarvārthasādhanī bhadrā goptrī dhātrī dhanaṃjayā // tbh_41
+ 
+abhayā gautamī puṇyā śrīmallokeśvarātmajā /
+tārā nāmaguṇānantā sarvāśāparipūraṇī // tbh_42
+ nāmāṣṭottaraśatakaṃ tat kīrtitaṃ hitena vaḥ / rahasyam adbhutaṃ guhyaṃ devānām api durlabham / 43 
+saubhāgyaṃ bhāgyakaraṇaṃ sarvakīlbiṣanāśanam /
+sarvavyādhipraśamanaṃ sarvasatvasukhāvaham // tbh_44
+ 
+trikāraṃ yaḥ paṭhed dhīmān śuciḥ snānasamāhitaḥ /
+acireṇaiva kālena rājyaśriyam avāpnuyāt // tbh_45
+ 
+duḥkhitaḥ syāt sukhī nityadaridro dhanavān bhavet /
+jaḍo bhaven mahāprājño medhāvī ca na saṃśayaḥ // tbh_46
+ 
+bandhanān mucyate baddho vyavahāre jayo bhavet /
+śatravo mitratāṃ yānti śṛṅgiṇaś cātha daṃṣṭriṇaḥ // tbh_47
+ 
+saṃgrāme saṃkaṭe durge nānābhayasamākule /
+smaraṇād eva nāmāni sarvapāpāny apohati // tbh_48
+ 
+nākālamṛtyur bhavati prāpnoti vipulāṃ śriyam /
+mānuśyaṃ saphalaṃ janma yasya kasya mahātmanaḥ // tbh_49
+ 
+yaś cedaṃ prātar utthāya mānavaḥ kīrtayiṣyati /
+sa dīrghakālam āyuṣmān śriyaṃ ca labhate naraḥ // tbh_50
+ 
+devā nāgās tathā yakṣā gandharvāḥ kaṭapūtanāḥ /
+piśācarākṣasā bhūtā mātaro raudratejasaḥ // tbh_51
+ 
+kṣayāpasmārakārakaś caiva kṣatakākhorḍakādayaḥ /
+ḍākinyās tārakā pretāḥ skandā mārā mahāgrahāḥ // tbh_52
+ 
+chāyām api na laṅghante kiṃ punas tasya vigrahaḥ /
+duṣṭasatvā na vādhante vyādhayo nākramanti ca // tbh_53
+ 
+devāsuram api saṃgrāmam anubhavanti maharddhikāḥ /
+sarvaiśvaryaguṇair yuktaḥ putrapautraiś ca vardhate // tbh_54
+ jātismaro bhaved dhīmān kulīnaḥ priyadarśanaḥ // tbh_55 prītimāṃś ca mahāvāgmī sarvaśāstraviśāradaḥ // tbh_56 
+kalyāṇamitrasaṃsevī bodhicittavibhūṣitaḥ /
+sadāvirahito buddhair yatra yatropapadyate // tbh_57
+
+
+ity āryatārābhaṭṭārikāyā nāmāṣṭottaraśatakaṃ buddhabhāṣitaṃ samāptam /
+
+// śubham //

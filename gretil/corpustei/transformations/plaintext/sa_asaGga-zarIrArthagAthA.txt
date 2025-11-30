@@ -1,0 +1,301 @@
+Asaṅga: Śarīrārthagāthā a chapter of his Yogācārabhūmi
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_asaGga-zarIrArthagAthA.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Klaus Wille
+## Contribution: Klaus Wille
+## Date of this version: 2020-07-31
+
+## Source: 
+   - : Fumio Enomoto, "Śarīrārthagāthā, A Collection of Canonical Verses in the Yogācārabhūmi, Part 1: Text", Sanskrit-Texte aus dem buddhistischen Kanon: Neuentdeckungen und Neueditionen[, Erste Folge], Göttingen 1989 (Sanskrit-Wörterbuch der buddhistischen Texte aus den Turfan-Funden, Beiheft 2), pp. 17-35.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Śarīrārthagāthā = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from asycsaru.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Asanga: Sarirarthagatha of the Cintamayibhumi, a chapter of his Yogacarabhumi
+Based on the edition: Fumio Enomoto, "Śarīrārthagāthā, A Collection of Canonical Verses in the Yogācārabhūmi, Part 1: Text", Sanskrit-Texte aus dem buddhistischen Kanon: Neuentdeckungen und Neueditionen[, Erste Folge], Göttingen 1989 (Sanskrit-Wörterbuch der buddhistischen Texte aus den Turfan-Funden, Beiheft 2), pp. 17-35.
+Input by Klaus Wille
+ABBREVIATION
+Uv = Udānavarga, ed. F. Bernhard, 2 vols., Göttingen 1965, 1968 (Sanskrittexte aus den Turfanfunden, 10).
+ITALICS for restored akṣaras
+NOTICE:
+- Some orthographic pecularities have been standardized, e.g.
+ṃs for ns,
+rk for rkk,
+rṇ for rṇṇ,
+rt for rtt,
+rd for rdd,
+rn or r n for rnn or r nn,
+rp for rpp
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+pāpaṃ na kuryān manasā na vācā kāyena vā kiṃcana sarvaloke /
+riktaḥ kāmaiḥ smṛtimān saṃprajānaṃ duḥkhaṃ na seveta anarthasaṃhitam // śag_1.1
+
+ākhyeyasaṃjñinaḥ satvā ākhyeye 'smin pratiṣṭhitāḥ /
+ākhyeyam aparijñāya yogam āyānti mṛtyunaḥ // śag_2.1
+
+ākhyeyaṃ tu parijñāya ākhyātāraṃ na manyate /
+tad vai na vidyate tasya vadeyur yena taṃ pare // śag_2.2
+
+samo viśeṣa uta vāpi hīno yo manyate sa vivadeta tena /
+vidhātraye 'smin na vikampate yaḥ samo viśiṣṭaś ca na tasya bhavati // śag_2.3
+
+ācchidya tṛṣṇām iha nāmarūpe prahāya mānaṃ ca na saṃgam eti /
+taṃ śāntadhūmam anighaṃ nirāśaṃ nādrākṣus te devamanuṣyaloke /
+iha bāhirataś ca // śag_2.4
+
+kāmarāgābhibhūtatvāc cittaṃ me paridahyate /
+aṃga me gautama brūhi śāntiṃ tvam anukaṃpayā // śag_3.1
+
+viparyāsena saṃjñānāṃ cittaṃ te paridahyate /
+nimittaṃ varjyatāṃ tasmāc chubhaṃ rāgopasaṃhitaṃ // śag_3.2
+
+aśubhāṃ bhāvaya sadā tvam ekāgraḥ susamāhitaḥ /
+nirvāpayāśu rāgāgniṃ dahyase mā punaḥ punaḥ // śag_3.3
+
+saṃskārāvaratāṃ paśya duḥkhato 'nātmatas tathā /
+smṛtiṃ kāyagatāṃ kṛtvā nirvedabahulo bhava // śag_3.4
+
+bhāvyatām animittaṃ ca mānānuśayanāśanaṃ /
+tato mānābhisamayād duḥkhasyāntaṃ kariṣyasi // śag_3.5
+
+kumārikāpraśnagāthā:
+kathaṃvihārabahulo bhikṣuḥ pañcaughatīrṇas taratīha ṣaṣṭhaṃ /
+kathaṃdhyāyī vipulāṃ kāmatṛṣṇāṃ tīrṇo bhavaty apratilabdhayoktraḥ // śag_4.1
+
+praśrabdhakāyaḥ suvimuktacitto hy asaṃskurvan smṛtimān akopyaḥ ājñāya dharmam avitarkadhyāyī kopaspṛhāstyānadoṣaiḥ viyuktaḥ // śag_4.2 
+evaṃvihārabahulo bhikṣuḥ pañcaughatīrṇas taratīha ṣaṣṭhaṃ /
+evaṃdhyāyī vipulāṃ kāmatṛṣṇāṃ tīrṇo bhavaty apratilabdhayoktraḥ // śag_4.3
+
+
+nityotrasto hy ayaṃ loko nityodvignā iyaṃ prajā /
+anutpanneṣu duḥkheṣu samutpanneṣu vā punaḥ /
+yadi kiṃcid anutrastaṃ pṛṣṭa ācakṣva tan mama // śag_5.1
+
+nānyatra jñānatapaso nānyatrendriyanigrahāt /
+nānyatra sarvasaṃtyāgān mokṣaṃ paśyāmi devate // śag_5.2
+
+cirasya bata paśyāmi brāhmaṇaṃ parinirvṛtaṃ /
+sarvavairabhayātītaṃ tīrṇaṃ loke viṣaktikām // śag_5.3
+
+kenābhivarṇā janatā praṇītā mārgaś ca nairyāṇikataḥ prayuktaḥ /
+kutra sthitaḥ kutra ca śikṣamāṇo nāyaṃ martyaḥ paralokād bibheti // śag_6.1
+
+yaḥ śīlavāñ jñānavān bhāvitātmā samāhitaḥ smṛtimān ṛjugataś ca /
+sarve 'sya śokajvarathāḥ prahīṇāḥ samyaksmṛto yasya cittaṃ vimuktaṃ // śag_6.2
+
+tenābhivarṇā janatā praṇītā mārgaś ca nairyāṇikataḥ prayuktaḥ /
+atra sthitaḥ atra ca śikṣamāṇo nāyaṃ martyaḥ paralokād bibheti // śag_6.3
+
+kathaṃ yaśasvī bhavati kathaṃ bhavati bhogavān /
+kathaṃ kīrtim avāpnoti kathaṃ mitrāṇi vindati // śag_7.1
+
+śīlād yaśasvī bhavati dānād bhavati bhogavān /
+satyena kīrtim āpnoti dadan mitrāṇi vindati // śag_7.2
+
+kutaḥ sarā nivartante kutra vartma na vartate /
+kutra duḥkhasukhaṃ loke niḥśeṣam uparudhyate // śag_8.1
+
+cakṣuḥ śrotraṃ tathā ghrāṇaṃ jihvā kāyo manas tathā /
+yatra nāma ca rūpaṃ ca niḥśeṣam uparuhyate // śag_8.2
+
+tataḥ sarā nivartante tatra vartma na vartate /
+tatra duḥkhasukhaṃ loke niḥśeṣam uparudhyate // śag_8.3
+
+kena svid oghaṃ tarati kenottarati cārṇavaṃ /
+duḥkhaṃ tyajati kena svit kena svit pariśudhyati // śag_9.1
+
+śraddhayā tarati hy ogham apramādena cārṇavaṃ /
+vīryeṇa duḥkhaṃ tyajati prajñayā pariśudhyati // śag_9.2
+
+ka etam oghaṃ tarati rātriṃdivam atandritaḥ /
+anālambe 'pratiṣṭhe ca ko gaṃbhīre na sīdati // śag_10.1
+
+sarvataḥ śīlasaṃpannaḥ prajñāvān susamāhitaḥ /
+adhyātmacintī smṛtimāṃs taratīmaṃ sudustaraṃ // śag_10.2
+
+viraktaḥ kāmasaṃjñābhyo rūpasaṃyojanātigaḥ /
+anālambe 'pratiṣṭhe ca sa gaṃbhīre na sīdati // śag_10.3
+
+rāgadveṣau bhagavan kinnidānāv aratiratī romaharṣaḥ kuto 'yam /
+kutaḥsamutthāś ca mano vitarkāḥ kumārakā dhātrīm ivāśrayante // śag_11.1
+
+snehajā ātmasaṃbhūtā nyagrodhaskandhakā yathā /
+pṛthagviṣaktāḥ kāmeṣu mālutā vā latā vane // śag_11.2
+
+rāgaś ca dveṣaś ca itonidānāv aratiratī romaharṣaḥ ito 'yaṃ /
+itaḥsamutthāś ca mano vitarkāḥ kumārakā dhātrīm ivāśrayante // śag_11.3
+
+ye tān prajānanti yatonidānāṃs te tāṃ janā yakṣa vinodayanti /
+ta arṇavaṃ saṃpratarantīhaugham atīrṇapūrvam apunarbhavāya // śag_11.4
+
+kāryam etad brāhmaṇena prahāṇam akilāsinā /
+kāmānāṃ viprahāṇārthaṃ na hi kāṃkṣaty asau bhavaṃ // śag_12.1
+sa kāryaṃ brāhmaṇasyāsti kṛtārtho brāhmaṇaḥ smṛtaḥ // śag_12.2
+yāvan na gādhaṃ labhate na tīram āyūhate sarvagātraiḥ sa tāvat /
+tīraṃ tu labdhveha saṃtiṣṭhati sthale nāyūhate pāragato nirucyate // śag_12.3
+
+eṣopamā dāmale brāhmaṇasya kṣīṇāsravo yo nipako dhyānalābhī /
+sarve 'sya śokajvarathāḥ prahīṇāḥ samyaksmṛto yasya cittaṃ vimuktam // śag_12.4
+
+geya: bhikṣo bhikṣo ogham atārṣīḥ / āma devate / anālambe 'pratiṣṭhe ogham atārṣīḥ / āma devate / yathā kathaṃ tvaṃ bhikṣo anālambe apratiṣṭhe ogham atārṣīḥ / yathā yathāhaṃ devate āyūhāmi tathā tathā saṃsīdāmi / yathā yathā saṃsīdāmi tathā tathā saṃtiṣṭhe / yathā yathā saṃtiṣṭhe tathā tathā uhye / yathā yathāhaṃ devate nāyūhāmi tathā tathā na saṃsīdāmīti vistareṇa śuklapakṣo veditavyaḥ // śag_13
+
+kumārikāpraśnagāthā:
+eko 'raṇye prasṛto dhyāyase tvaṃ vittād vihīna uta vā prārthayānaḥ /
+grāmasya vā kiṃcanāgo nv akārṣīḥ kasmāj janena na karoṣi sakhyaṃ
+sakhyaṃ na saṃvidyate kena cit tava // śag_14.1
+
+arthāprāptyā hṛdayasyeha śāntir jitveha senāṃ priyaśātarūpaṃ /
+eko dhyāyī sukham asmy anvabhotsaṃ tasmād janena na karomi sakhyaṃ
+sakhyaṃ na saṃvidyate kena cid mama // śag_14.2
+
+anityā bata saṃskārā utpādavyayadharmiṇaḥ /
+utpadya hi nirudhyante teṣāṃ vyupaśamaḥ sukham // śag_15 (cf. uv 1.3)
+
+apramādo 'mṛtapadaṃ pramādo mṛtyunaḥ padaṃ / apramattā na mriyante pramattās tu sadā mṛtāḥ // śag_16 (cf. uv 4.1) 
+vitarkapramathitasya dehinas tīvrarāgasya śubhānudarśinaḥ /
+bhūyas tṛṣṇā vivardhate sā gāḍhīkurute 'sya bandhanaṃ // śag_17 (cf. uv 3.1)
+ 
+dharmasthaṃ śīlasaṃpannaṃ hrīmantaṃ satyavādinaṃ /
+ātmanaḥ priyakartāraṃ taṃ janaḥ kurute priyaṃ // śag_18 (cf. uv 5.24)
+ 
+yat pareṣūpanidhyāyet karma dṛṣṭveha pāpakam /
+ātmanā tan na kurvīta karmabaddho hi pāpakaḥ // śag_19 (cf. uv 9.6)
+ 
+subhāṣitaṃ hy uttamam āhur āryāḥ priyaṃ vaden nāpriyaṃ tad dvitīyaṃ /
+satyaṃ vaden nānṛtaṃ tat tṛtīyaṃ dharmaṃ vaden nādharmaṃ tat caturtham // śag_20 (cf. uv 8.11)
+ 
+śraddhātha hrīḥ śīlam athāpi dānaṃ dharmā ime satpuruṣapraśastāḥ /
+etaṃ hi mārgaṃ divigaṃ vadanti etena vai gacchati devalokam // śag_21 (cf. uv 10.1)
+ 
+śrutvā dharmaṃ vijānāti śrutvā pāpān nivartate /
+śrutvā anarthaṃ tyajati śrutvā prāpnoti nirvṛtim // śag_22 (cf. uv 22.6)
+ 
+ākāśasamo na lipyate indrakīlapratimo na kaṃpate /
+hrada iva samupetakardame saṃsāre ramate na paṇḍitaḥ // śag_23 (cf. uv 17.12)
+ 
+ye rūpeṇa pramiṇvanti māṃ ghoṣeṇānuyānti ca /
+cchandarāgavaśopetā na mā jānanti te janāḥ // śag_24.1 (cf. uv 22.12)
+ 
+adhyātmaṃ ca vijānāti bahirdhā ca na paśyati /
+adhyātmaphaladarśī yaḥ sa vai ghoṣeṇa nīyate // śag_24.2 (cf. uv 22.13)
+ 
+adhyātmaṃ ca na jānāti bahirdhā ca vipaśyati /
+bahirdhāphaladarśī yaḥ so 'pi ghoṣeṇa nīyate // śag_24.3 (cf. uv 22.14)
+ 
+adhyātmaṃ ca na jānāti bahirdhā ca na paśyati /
+samantāvaraṇo bālaḥ so 'pi ghoṣeṇa nīyate // śag_24.4 (cf. uv 22.15)
+ 
+adhyātmaṃ ca vijānāti bahirdhā ca vipaśyati /
+dhīro niḥsaraṇaprajño na sa ghoṣeṇa nīyate // śag_24.5 (cf. uv 22.16)
+
+
+ṣaṣṭhe adhipatau rājñi rajyamāne rajasvalaḥ /
+arajasy arajā bhavati rakto bālo nirucyate // śag_25 (cf. uv 16.22)
+
+nagaram asthiprākāraṃ snāyumāṃsānulepanaṃ /
+yatra rāgaś ca dveṣaś ca māno mrakṣaś ca gāhate // śag_26 (cf. uv 16.23)
+
+kūrmaḥ svake 'ṅgāni yathā kapāle bhikṣur nidadhyān manaso vitarkāni /
+aniśrito 'nyān aviheṭhamānaḥ parinirvṛto nāpavadeta kaṃ cit // śag_27 (cf. uv 26.1)
+
+tulyam atulyaṃ ca saṃbhavaṃ bhavasaṃskāram avāsṛjan muniḥ /
+adhyātmarataḥ samāhita abhinat kośam ivāṇḍasaṃbhavaḥ // śag_28 (cf. uv 26.30)
+
+nāsti kāmasamaḥ paṃko nāsti dveṣasamo grahaḥ /
+nāsti mohasamaṃ jālaṃ nāsti tṛṣṇāsamā nadī // śag_29 (cf. uv 29.37)
+
+ākāśe vai padaṃ nāsti śramaṇo nāsti bāhyakaḥ /
+prapañcābhiratā bālā niṣprapañcās tathāgatāḥ // śag_30 (cf. uv 29.38)
+
+sthitiḥ prapaṃcāś ca na santi yasya yaḥ saṃdānaṃ parighaṃ cātivṛttaḥ / taṃ nistṛṣṇaṃ muniṃ carantaṃ na vijānāti sadevako 'pi lokaḥ // śag_31 (cf. uv 29.51) yasya vitarkā vidhūpitā adhyātmam avikalpitā aśeṣaṃ / saṃgaṃ so 'tītya rūpasaṃjñāṃ caturyogāpagato na jātim eti // śag_32 (cf. uv 29.56) 
+dadataḥ puṇyaṃ pravardhate vairaṃ saṃyamato na cīyate /
+kuśalī prajahāti pāpakaṃ kleśānāṃ kṣayatas tu nirvṛtaḥ // śag_33 (cf. uv 28.2)
+ 
+sarvapāpasyākaraṇaṃ kuśalasyopasaṃpadā /
+svacittaparyavadamanam etaṃ buddhānuśāsanaṃ // śag_34 (cf. uv 28.1)
+ 
+durnigrahasya laghuno yatrakāmanipātinaḥ /
+cittasya dāmanaṃ sādhu cittaṃ dāntaṃ sukhāvaham // śag_35 (cf. uv 31.1)
+ 
+cittanimittasya kovidaḥ pravivekasya ca vindate rasaṃ /
+dhyāyī nipakaḥ pratismṛto bhuṃkte prītisukhaṃ nirāmiṣaṃ // śag_36 (cf. uv 31.51)
+ aśilpajīvī laghur ātmakāmo jitendriyaḥ sarvato vipramuktaḥ / anokasārī hy amamo nirāśaḥ kāmān prahāyaikacaro yas sa bhikṣuḥ // śag_37 (cf. uv 32.5) dūraṃgamam ekacaram aśarīraṃ guhāśayaṃ / damayati durdamaṃ cittaṃ brāhmaṇaṃ taṃ bravīmy ahaṃ // śag_38 (cf. uv 33.55)
+
+pārāyaṇeṣv ajitapraśnaḥ:
+kenāyaṃ nivṛto lokaḥ kenāyaṃ na prakāśate /
+kiṃ cābhilepanaṃ brūṣe kiṃ ca tasya mahad bhayam // śag_39.1
+
+avidyānivṛto lokaḥ pramādān na prakāśate /
+jalpābhilepanaṃ brūmi duḥkhaṃ tasya mahad bhayaṃ // śag_39.2
+
+sravanti sarvataḥ srotāḥ srotasāṃ kiṃ nivāraṇaṃ /
+srotasāṃ saṃvaraṃ brūhi kena srotaḥ pidhīyate // śag_39.3
+
+yāni srotāṃsi lokasya smṛtiḥ teṣāṃ nivāraṇaṃ /
+srotasāṃ saṃvaraṃ brūmi prajñayā hi pidhīyate // śag_39.4
+
+prajñāyāś ca smṛteś caiva nāmarūpasya sarvaśaḥ /
+ācakṣva pṛṣṭa etan me kutraitad uparudhyate // śag_39.5
+
+prajñā caiva smṛtiś caiva nāmarūpaṃ ca sarvaśaḥ /
+vijñānasya nirodhād dhi atraitad uparudhyate // śag_39.6
+
+kathaṃ smṛtasya carato vijñānam uparudhyate /
+ācakṣva pṛṣṭa etan me yathātatham asaṃśayaḥ // śag_39.7
+
+adhyātaṃ ca bahirdhā ca vedanāṃ nābhinandataḥ /
+evaṃ smṛtasya carato vijñānam uparudhyate // śag_39.8
+
+ye ca saṃkhyātadharmāṇo ye ca śaikṣāḥ pṛthagvidhāḥ / teṣāṃ me nipakasyeryāṃ pṛṣṭaḥ prabrūhi mārṣa // śag_39.9 
+kāmeṣu nābhigṛdhyeta manasānāvilo bhavet /
+kuśalaḥ sarvadharmeṣu smṛto bhikṣuḥ parivrajet // śag_39.10
+
+
+arthavargīyeṣu kāmān ārabhya gāthā:
+kāmān kāmāyamānasya tasya cet tat samṛdhyati /
+addhā prītamanā bhavati labdhvā martyo yad īpsitaṃ // śag_40.1
+
+tasya cet kāmāyamānasya chandajātasya jaṃtunaḥ /
+te kāmāḥ parihīyaṃte śalyaviddha iva rūpyate // śag_40.2
+
+yaḥ kāmāṃ parivarjayati sarpasyeva śirāt padaṃ /
+sa imāṃ viṣaktikāṃ loke smṛtaḥ samativartate // śag_40.3
+
+kṣetravastuhiraṇ@yaṃ ca gavāśvamaṇikuṇḍalaṃ /
+striyo dāsān pṛthakkāmān yo naro hy abhigṛdhyati // śag_40.4
+
+abalaṃ vā balīyāṃso mṛdnaṃty enaṃ parisravāḥ / tata enaṃ duḥkham anveti bhinnāṃ nāvam ivodakaṃ // śag_40.5 
+yasya tv etat samucchinnaṃ tālamastakavad dhataṃ /
+śokās tasya nivartante udabindur iva puṣkarāt // śag_40.6 (cf. uv 10.13ab und 3.10cd)
+
+
+bhadraikarāgāthā (bhadragarātrīya, bhadrakarātriya):
+atītaṃ nānvāgamayen na pratikāṃkṣed anāgataṃ /
+pratyutpannāś ca ye dharmās tatra tatra vipaśyakaḥ /
+asaṃhāryam asaṃkṣobhyaṃ tad vidvān anubṛṃhayet // śag_41.1

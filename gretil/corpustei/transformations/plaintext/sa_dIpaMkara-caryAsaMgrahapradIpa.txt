@@ -1,0 +1,122 @@
+Dīpaṃkara: Caryāsaṃgrahapradīpa
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dIpaMkara-caryAsaMgrahapradIpa.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - G. Tucci: Minor Buddhist Texts. Delhi: Motilal Banarsidas 1986, pp. 201-203.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Caryāsaṃgrahapradīpa = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsa005_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Dipamkara (Dipankara): Caryasamgrahapradipa
+Based on the ed. by G. Tucci: Minor Buddhist Texts.
+Delhi: Motilal Banarsidas 1986, pp. 201-203.
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sastra section, text no. 5
+The transliteration emulates the conventions of Nagari script.
+Therefore, many word boundaries are not marked by blanks.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+caryāsaṅgrahapradīpaḥ (csp)
+
+namo lokeśvarāya
+
+madādyaśeṣamūḍhānāṃ yasya vacanaraśmibhiḥ /
+phullatāmeti hṛtpadmaṃ taṃ vande puruṣottamam // csp_1 //
+
+pāramiṃ guhyamantraṃ ca śritvā bodhiḥ prasidhyati /
+gurubuddhoktitastvevaṃ tadartho likhyate mayā // csp_2 //
+
+guhyamantro 'tra no vācyaḥ pāramīnayacārikāḥ /
+bodhisattvasya caryāstu samāsena likhāmyaham // csp_3 //
+
+dhīmataḥ saṃvaro grāhyo bodhicittapuraḥ saraḥ /
+ālokyāśeṣasūtrāṇi śāstraṃ śravyaṃ samastakam // csp_4 //
+
+kāyena manasā vācā yathoktān saṃvarān tribhiḥ /
+rakṣedakṣuṇṇaśuddhāṃśca śīlāṃśca pariśodhayet // csp_5 //
+
+bhaktamātrāṃ vijānīyād indriyadvāramāvaret /
+rātreḥ pūrve 'pare bhāge na suptvā yogamācaret // csp_6 //
+
+aṇumātreṣvavadyeṣu hyatimātraṃ bibheti ca /
+rātrerbhāgatrayaṃ kṛtvā hyantye bhāge tu jāgṛyāt // csp_7 //
+
+prakṣālayenmukhādīn vākṣālanaṃ vāpi yujyate /
+sukhāsanaṃ samāśritya dharmāṇāṃ dharmatāṃ smaret // csp_8 //
+
+nimittaiḥ kṣobhato 'śakye tūttthāyābhāsavastuṣu /
+māyāvattvena samprekṣya puṇyayogāṃstadantare // csp_9 //
+
+pūrayeccāpi saptāṅgān vipulāṃ praṇidhiṃ caret /
+bhāvayed bhāvanāṃ pūrvā kāle 'tha bhojanasya ca // csp_10 //
+
+etanniḥ sārakāyena paraṃ sāraṃ gaveṣayan /
+kāyaṃ naukādhiyā rakṣed na bhuṅktāṃ sthūlatākṛte // csp_11 //
+
+rasāsaktyā na bhuñjīta caturdhānnaṃ vibhajya ca /
+devebhyo vinivedyādiṃ dharmapālāya tatparam // csp_12 //
+
+baliṃ suvipulāṃ dadyāt śeṣaṃ svabhuktapītataḥ /
+dadyācca sarvabhūtebhyaḥ kathātantraṃ tadantare // csp_13 //
+
+kuryādadbhutavārttā ca kiñcidutthāya sañcaret /
+parikrāmedadhiṣṭhānaṃ japaṃ vā granthavācanam // csp_14 //
+
+sugatapratimāṃ kuryād yāvat svedo na jāyate /
+kuryāt, pradakṣiṇāṃ tāvad akṣubdhaḥ praṇidhiṃ bahum // csp_15 //
+
+dharmacaryā daśaproktāḥ maitreyeṇa, samāsataḥ /
+caredakṣiptacittena māyaupamyaṃ ca saṃsmaran // csp_16 //
+
+yadi syāt pūjayet saṅghaṃ kuryād vā bālakotsavam /
+anāthebhyaḥ sudānaṃ tu yogine puṇyasañcayaḥ // csp_17 //
+
+pūrṇeṣu dinakṛtyeṣu bhāge ca prathame niśaḥ /
+dharmatā niṣprapañcāpi tathā cittaṃ ca yojayet // csp_18 //
+
+prāptāyāṃ madhyarātrau ca utthānābhāsasañjñayā /
+siṃhanidrā yathā tadvat śubhanidrāṃ samāśrayet // csp_19 //
+
+prāyo dhyānadṛḍhe citte kāyavākpuṇyagauṇatā /
+asaṃspṛṣṭe samādhau vā lokakalpapravṛttaye // csp_20 //
+
+kāyapuṇyaṃ yathāśakti, lokacitte 'same sati /
+dharmo nāyaṃ mamaiveti susadāśayapūrvakam // csp_21
+
+dharmāśca laukikān pṛcched, nijamitrasamīritaḥ /
+nepālaviṣaye kṛtavān, ratirmantranaye na ced // csp_22 //
+evaṃ sthavira ! karttavyam /23, a /
+caryāsaṅgrahapradīpo mahāpaṇḍitācārya - dīpaṅkara - śrījñānakṛtaḥ samāptaḥ /

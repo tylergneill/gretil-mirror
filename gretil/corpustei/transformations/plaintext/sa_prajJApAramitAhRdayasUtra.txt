@@ -1,0 +1,57 @@
+Prajñāpāramitāhṛdayasūtra
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_prajJApAramitAhRdayasUtra.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: n.n.
+## Contribution: n.n.
+## Date of this version: 2020-07-31
+
+## Source: 
+   - .
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Prajñāpāramitāhṛdayasūtra = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from prajnhsu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Prajnaparamitahrdayasutra
+Input by ...
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+prajñāpāramitā-hṛdaya-sūtra
+
+oṃ namo bhagavatyai ārya-prajāpāramitāyai!
+
+ārya āvalokiteśvaro bodhisattvo gambhīraṃ prajñāpāramitā-cāryāṃ caramāṇo vyavalokayati sma, pañca-skandhās tāṃś ca svabhāva-śūnyān paśyati sma.
+
+iha śāriputra rūpaṃ śūnyatā, śūnyat'aiva rūpaṃ, rūpān na pṛthak śūnyatā, śūnyatāyā na pṛthag rūpaṃ, yad rūpaṃ sā śūnyatā, yā śūnyatā tad rūpaṃ. evam eva vedanā-saṃjñā-saṃskārā-vijñānam.
+
+iha śāriputra sarva-dharmāḥ śūnyatā-lakṣaṇā anutpannā aniruddhā amalā avimalā anūnā aparipūrṇāḥ. tasmāc chāriputra śūnyatāyāṃ na rūpaṃ na vedanā na saṃjñā na saṃskārāḥ na vijñānaṃ, na cakṣuḥ-śrotra-ghrāṇa-jihvā-kāya-manāṃsi, na rūpa-śabda-gandha-rasa-spraṣṭavya-dharmāḥ, na cakṣur-dhātur yāvan na mano-vijñāna-dhātuḥ, n'āvidyā n'āvidyā-kṣayo yāvan na jarā-maraṇaṃ na jarā-maraṇa-kṣayo na duḥkha-samudaya-nirodha-mārgā na jñānaṃ na prāptir n'āprāptiḥ.
+
+tasmāc chāriputra aprāptitvād bodhisattvo prajñā-pāramitām āśritya viharaty acitt'āvaraṇaḥ. citt'āvaraṇa-nāstitvād atrasto viparyās'ātikrānto niṣṭhā-nirvāṇaḥ. tradhva-vyavasthitāḥ sarva-buddhāḥ prajñāpāramitām āśritya anuttarāṃ samyak-sambodhim abhisambuddhāḥ.
+
+tasmāj jñātavyaṃ prajñāpāramitā mahā-mantro mahā-vidyā-mantro'nuttara-mantro samasama-mantraḥ sarva-duḥkha-praśamanaḥ satyam amithyatvāt. prajñāpāramitāyām ukto mantraḥ, tadyathā - oṃ gate gate pāragate pārasaṃgate bodhi svāhā.
+
+ity ārya-prajñāpāramitā-hṛdayaṃ samāptam.

@@ -1,0 +1,291 @@
+Ādiśeṣa: Paramārthasāra
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_AdizeSa-paramArthasAra.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Daniele Cuneo
+## Contribution: Daniele Cuneo
+## Date of this version: 2019-05-13
+
+## Source: 
+   - Henry Danielson: The Essence of Supreme Truth (Paramārthasāra). Sanskrit text with translation and notes. Leiden 1980 (Nisaba 10).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Paramārthasāra = PAS,
+   - the number of the verse in arabic numerals.
+
+
+# Text
+
+paraṃ parasyāḥ prakṛter anādim ekaṃ niviṣṭaṃ bahudhā guhāsu |
+sarvālayaṃ sarvacarācarasthaṃ tvām eva viṣṇuṃ śaranaṃ prapadye || PAS_1
+
+ātmāmburāśau nikhilo 'pi loko magno 'pi nācāmati nekṣate ca |
+āścaryam etan mṛgatṛṣṇikābhe bhavāmburāśau ramate mṛṣaiva || PAS_2
+
+garbhagṛhavāsasambhavajanmajarāmaraṇaviprayogābdhau |
+jagad ālokya nimagnaṃ prāha guruṃ prāñjaliḥ śiṣyaḥ || PAS_3
+
+tvaṃ sāṅgavedavettā bhettā saṃśayagaṇasya ṛtavaktā |
+saṃsārārṇavataraṇapraśnaṃ pṛcchāmy ahaṃ bhagavan || PAS_4
+
+dīrghe 'smin saṃsāre saṃsarataḥ kasya kena sambandhaḥ |
+karma śubhāśubhaphaladam anubhavati gatāgatair iha kaḥ || PAS_5
+
+karmaguṇajālabaddho jīvaḥ saṃsarati kośakāra iva |
+mohāndhakāragahanāt tasya kathaṃ bandhanān mokṣaḥ || PAS_6
+
+guṇapuruṣavibhāgajñe dharmādharmau na bandhakau bhavataḥ |
+iti gaditapūrvavākyaiḥ prakṛtiṃ puruṣaṃ ca me brūhi || PAS_7
+
+ity ādhāro bhagavān pṛṣṭaḥ śiṣyeṇa taṃ sa hovāca |
+viduṣām apy atigahanaṃ vaktavyam idaṃ śṛṇu tathāpi tvam || PAS_8
+
+satyam iva jagad asatyaṃ mūlaprakṛter idaṃ kṛtaṃ yena |
+taṃ praṇipatyopendraṃ vakṣye paramārthasāram idam || PAS_9
+
+avyaktād aṇḍam abhūd aṇḍād brahmā tataḥ prajāsargaḥ |
+māyāmayī pravṛttiḥ saṃhriyata iyaṃ punaḥ kramaśaḥ || PAS_10
+
+māyāmayo 'py acetā guṇakaraṇagaṇaḥ karoti karmāṇi |
+tadadhiṣṭātā dehī sacetano 'pi na karoti kiṃcid api || PAS_11
+
+yadvad acetanam api san nikaṭasthe bhrāmake bhramati loham |
+tadvat karaṇasamūhaś ceṣṭati cidadhiṣṭhite dehe || PAS_12
+
+yadvat savitary udite karoti karmāṇi jīvaloko 'yam |
+na ca tāni karoti ravir na kārayati tadvad ātmāpi || PAS_13
+
+manaso 'haṃkāravimūrcchitasya caitanyabodhitasyeha |
+puruṣābhimānasukhaduḥkhabhāvanā bhavati mūḍhasya || PAS_14
+
+kartā bhoktā draṣṭāsmi karmaṇām uttamādīnām |
+iti tat svabhāvavimalo 'bhimanyate sarvago 'py ātmā || PAS_15
+
+nānāvidhavarṇānāṃ varṇaṃ dhatte yathāmalaḥ sphaṭikaḥ |
+tadvad upādher guṇabhāvitasya bhāvaṃ vibhur dhatte || PAS_16
+
+gacchati gacchati salile dinakarabimbaṃ sthite sthitiṃ yāti |
+antaḥkaraṇe gacchati gacchaty ātmāpi tadvad iha || PAS_17
+
+rāhur adṛśyo 'pi yathā śaśibimbasthaḥ prakāśate jagati |
+sarvagato 'pi tathātmā buddhistho dṛśyatām eti || PAS_18
+
+sarvagataṃ nirupamam advaitaṃ tac cetasā gamyam |
+yad buddhigataṃ brahmopalabhyate śiṣya bodhyaṃ tat || PAS_19
+
+buddhimano'haṃkārās tanmātrendriyagaṇāś ca bhūtagaṇaḥ |
+saṃsārasargaparirakṣaṇakṣamāḥ prākṛtā heyāḥ || PAS_20
+
+dharmādharmau sukhaduḥkhakalpanā svarganarakavāsaś ca |
+utpattinidhanavarṇāśramā na santīha paramārthe || PAS_21
+
+mṛgatṛṣṇāyām udakaṃ śuktau rajataṃ bhujaṃgamo rajjvām |
+taimirikacandrayugavad bhrāntaṃ nikhilaṃ jagadrūpam || PAS_22
+
+yadvad dinakara eko vibhāti salilāśayeṣu sarveṣu |
+tadvat sakalopadhiṣv avasthito bhāti paramātmā || PAS_23
+
+kham iva ghaṭādiṣv antar bahiḥ sthitaṃ brahma sarvapiṇḍeṣu |
+dehe 'ham ity anātmani buddhiḥ saṃsārabandhāya || PAS_24
+
+sarvavikalpanahīnaḥ śuddho buddho 'jarāmaraḥ śāntaḥ |
+amalaḥ sakṛd vibhātaś cetana ātmā khavad vyāpī || PAS_25
+
+rasaphāṇitaśarkarikāguḍakhaṇḍā vikṛtayo yathaivekṣoḥ |
+tadvad avasthābhedāḥ paramātmany eva bahurūpāḥ || PAS_26
+
+vijñānāntaryāmiprāṇavirāḍdehajātipiṇḍāntāḥ |
+vyavahārās tasyātmany ete 'vasthāviśeṣāḥ syuḥ || PAS_27
+
+rajjvāṃ nāsti bhujaṃgaḥ sarpabhayaṃ bhavati hetunā kena |
+tadvad dvaitavikalpabhrāntir avidyā na satyam idam || PAS_28
+
+etat tad andhakāraṃ yad anātmany ātmatā bhrāntyā |
+na vidanti vāsudevaṃ sarvātmānaṃ narā mūḍhāḥ || PAS_29
+
+prāṇādyanantabhedair ātmānaṃ saṃvitatya jālam iva |
+saṃharati vāsudevaḥ svavibhūtyā krīḍamāna iva || PAS_30
+
+tribhir eva viśvataijasaprājñais tair ādimadhyanidhanākhyaiḥ |
+jāgratsvapnasuṣuptair bhramabhūtaiś chāditaṃ turyam || PAS_31
+
+mohayatīvātmānaṃ svamāyayā dvaitarūpayā devaḥ |
+upalabhate svayam evaṃ guhāgataṃ puruṣam ātmānam || PAS_32
+
+jvalanād dhūmodgatibhir vividhākṛtir ambare yathā bhāti |
+tadvad viṣṇau sṛṣṭiḥ svamāyayā dvaitavistarā bhāti || PAS_33
+
+śānta iva manasi sānte hṛṣṭe hṛṣṭa iva mūḍha iva mūḍhe |
+vyavahārastho na punaḥ paramārthata īśvaro bhavati || PAS_34
+
+jaladaharadhūmodgatibhir malinīkriyate yathā na gaganatalam |
+tadvat prakṛtivikārair aparāmṛṣṭaḥ paraḥ puruṣaḥ || PAS_35
+
+eksaminn api ca ghaṭe dhūmādimalavṛte śeṣāḥ |
+na bhavanti malopetā yadvad jīvo 'pi tadvad iha || PAS_36
+
+dehendriyeṣu niyatāḥ karma guṇāḥ kurvate svabhogārtham |
+nāhaṃ kartā na mameti jānataḥ karma naiva badhnāti || PAS_37
+
+anyaśarīreṇa kṛtaṃ karma bhaved yena deha utpannaḥ |
+tad avaśyaṃ bhoktavyaṃ bhogād eva kṣayo 'sya nirdiṣṭaḥ || PAS_38
+
+prāgjñānotpatticitaṃ yat karma jñānaśikhiśikhālīḍham |
+bījam iva dahanadagdhaṃ janmasamarthaṃ na tad bhavati || PAS_39
+
+jñānotpatter ūrdhvaṃ kriyamānaṃ karma yat tad api nāma |
+na śliṣyati kartāraṃ puṣkarapattraṃ yathā vāri || PAS_40
+
+vāgdehamānasair iha karmacayaḥ kriyata iti buddhāḥ prāhuḥ |
+eko 'pi nāham eṣāṃ kartā tatkarmaṇāṃ nāsmi || PAS_41
+
+karmaphalabījanāśāj janmavināśo na cātra saṃdehaḥ |
+buddhvaivam apagatatamāḥ savitevābhāti bhārūpaḥ || PAS_42
+
+yadvad iṣīkātūlaṃ pavanoddhūtaṃ hi daśa diśo yāti |
+brahmaṇi tattvajñānāt tathaiva karmāṇi tattvavidaḥ || PAS_43
+
+kṣīrād uddhṛtam ājyaṃ kṣiptaṃ yadvan na pūrvavat tasmin |
+prakṛtiguṇebhyas tadvat pṛthakkṛtaś cetano nātmā || PAS_44
+
+guṇamayamāyāgahanaṃ nirdhūya yathā tamaḥ sahasrāṃśuḥ |
+bāhyābhyantaracārī saindhavaghanavad bhavet puruṣaḥ || PAS_45
+
+yadvad deho 'vayavā mṛd eva tasya vikārajātāni |
+tadvat sthāvarajaṅgamam advaitaṃ dvaitavad bhāti || PAS_46
+
+ekasmāt kṣetrajñād bahvyaḥ kṣetrajñajātayo jātāḥ |
+lohagatād iva dahanāt samantato viṣphuliṅgagaṇāḥ || PAS_47
+
+te guṇasaṃgamadoṣād baddhā iva dhānyajātayaḥ svatuṣaiḥ |
+janma labhante tāvad yāvan na jñānavahninā dagdhāḥ || PAS_48
+
+triguṇā caitanyātmani sarvagate 'vasthite 'khilādhāre |
+kurute sṛṣṭim avidyā sarvatra spṛśyate tayā nātmā || PAS_49
+
+rajjvāṃ bhujaṃgahetuḥ prabhavavināśau yathā na staḥ |
+jagadutpattivināśau na ca kāraṇam asti tadvad iha || PAS_50
+
+janmavināśanagamanāgamamalasambandhavarjito nityam |
+ākāśa iva ghaṭādiṣu sarvātmā sarvadopetaḥ || PAS_51
+
+karmaśubhāśubhaphalasukhaduḥkhair yogo bhavaty upādhīnām |
+tatsaṃsargād bandhas taskarasaṃgād ataskaravad || PAS_52
+
+dehaguṇakaraṇagocarasaṃgāt puruṣasya yāvad iha bhāvaḥ |
+tāvan māyāpāśaiḥ saṃsāre baddha iva bhāti || PAS_53
+
+mātṛpitṛputrabāndhavadhanabhogavibhāgasaṃmūḍhāḥ |
+janmajarāmaraṇamaye cakra iva bhrāmyate jantuḥ || PAS_54
+
+lokavyvahārakṛtāṃ ya ihāvidyām upāsate mūḍhāḥ |
+te jananamaraṇadharmāṇo 'ndhaṃ tama etya khidyante || PAS_55
+
+himaphenabudbudā iva jalasya dhūmo yathā vahneḥ |
+tadvat svabhāvabhūtā māyaiṣā kīrtitā viṣṇoḥ || PAS_56
+
+evaṃ dvaitavikalpāṃ bhramasvarūpāṃ vimohanīṃ māyām |
+utsṛjya sakalaniṣkalam advaitaṃ bhāvayed brahma || PAS_57
+
+yadvat salile salilaṃ kṣīre kṣiraṃ samīraṇe vāyuḥ |
+tadvad brahmaṇi vimale bhāvanayā tanmayatvam upayāti || PAS_58
+
+itthaṃ dvaitasamūhe bhāvanayā brahmabhūyam upayāte |
+ko mohaḥ kaḥ śokaḥ sarvaṃ brahmāvalokayataḥ || PAS_59
+
+vigatopādhiḥ sphaṭikaḥ svaprabhayā bhāti nirmalo yadvat |
+cidīpaḥ svaprabhayā tathā vibhātīha nirupādhiḥ || PAS_60
+
+guṇagaṇakaraṇaśarīraprāṇais tanmātrajātisukhaduḥkhaiḥ |
+aparāmṛṣṭo vyāpī cidrūpo 'yaṃ sadā vimalaḥ || PAS_61
+
+draṣṭā śrotā ghrātā sparśayitā rasayitā grahītā ca |
+dehī dehendriyadhīvivarjitaḥ syān na kartāsau || PAS_62
+
+eko naikatrāvasthito 'ham aiśvaryayogato vyāptaḥ |
+ākāśavad akhilam idaṃ na kaścid apy atra saṃdehaḥ || PAS_63
+
+ātmaivedaṃ sarvaṃ niṣkalasakalaṃ yadaiva bhāvayati |
+mohagahanād viyuktas tadaiva parameśvarībhūtaḥ || PAS_64
+
+yad yat siddhāntāgamatarkeṣu prabruvanti rāgāndhāḥ |
+anumodāmas tat tat teṣāṃ sarvātmavādadhiyā || PAS_65
+
+sarvākāro bhagavān upāsyate yena yena bhāvena |
+taṃ taṃ bhāvaṃ bhūtvā cintāmaṇivat samabhyeti || PAS_66
+
+nārāyaṇam ātmānaṃ jñātvā sargasthitipralayahetum |
+sarvajñaḥ sarvagataḥ sarvaḥ sarveśvaro bhavati || PAS_67
+
+ātmajñas tarati śucaṃ yasmād vidvān bibheti na kutaścit |
+mṛtyor api maraṇabhayaṃ na bhavaty anyat kutas tasya || PAS_68
+
+kṣayavṛddhivadhyaghātakabandhanamokṣair vivarjitaṃ nityam |
+paramārthatattvam etad yad ato 'nyat tad anṛtaṃ sarvam || PAS_69
+
+evaṃ prakṛtiṃ puruṣaṃ vijñāya nirastakalpanājālaḥ |
+ātmārāmaḥ praśamaṃ samāsthitaḥ kevalībhavati || PAS_70
+
+nalakadaliveṇuvāṇā naśyanti yathā svapuṣpam āsādya |
+tadvat svabhāvabhūtāḥ svabhāvatāṃ prāpya naśyanti || PAS_71
+
+bhinne 'jñānagranthau chinne saṃśayagaṇe śubhe kṣīṇe |
+dagdhe ca janmabīje paramātmānaṃ hariṃ yāti || PAS_72
+
+mokṣasya naiva kiṃcid dhāmāsti na cāpi gamanam anyatra |
+ajñānamayagranther bhedo yas taṃ vidur mokṣam || PAS_73
+
+buddhvaivam asatyam idaṃ viṣṇor māyātmakaṃ jagadrūpam |
+vigatadvandvopādhikabhogāsaṃgo bhavec chāntaḥ || PAS_74
+
+buddhvā vibhaktāṃ prakṛtiṃ puruṣaḥ saṃsāramadhyago bhavati |
+nirmuktaḥ sarvakarmabhir ambujapattraṃ yathā salilaiḥ || PAS_75
+
+aśnan yadvā tadvā saṃvīto yena kenacic chāntaḥ |
+yatra kvacana ca śāyī vimucyate sarvabhūtātmā || PAS_76
+
+hayamedhasaharāṇy apy atha kurute brahmaghātalakṣāṇi |
+paramārthavin na puṇyair na ca pāpaiḥ spṛśyate vimalaḥ || PAS_77
+
+madakopaharṣamatsaraviṣādabhayaparuṣavarjy avāgbuddhiḥ |
+niḥstotravaṣaṭkāro jaḍavad vicared agādhamatiḥ || PAS_78
+
+utpattināśavarjitam evaṃ paramārtham upalabhya |
+kṛtakṛtyasaphalajanmā sarvagatas tiṣṭhati yatheṣṭam || PAS_79
+
+vyāpinam abhinnam itthaṃ sarvātmānaṃ vidhūtanānātvam |
+nirupamaparamānandaṃ yo veda sa tanmayo bhavati || PAS_80
+
+tīrthe śvapacagṛhe vā naṣṭasmṛtir api parityajan deham |
+jñānasamakālamuktaḥ kaivalyaṃ yāti hataśokaḥ || PAS_81
+
+puṇyāya tīrthasevā nirayāya śvapacasadananidhanagatiḥ |
+puṇyāpuṇyakalaṃkasparśābhāve tu kiṃ tena || PAS_82
+
+vṛkṣāgrāc cyutapādo yadvad anicchan naraḥ kṣitau patati |
+tadvad guṇapuruṣajño 'nicchann api kevalībhavati || PAS_83
+
+paramārthamārgasādhanam ārabhyāprāpya yogam api nāma |
+suralokabhogabhogī muditamanā modate suciram || PAS_84
+
+viṣayeṣu sārvabhaumaḥ sarvajanaiḥ pūjyate yathā rājā |
+bhuvaneṣu sarvadevair yogabhraṣṭas tathā pūjyaḥ || PAS_85
+
+mahatā kālena mahān mānuṣyaṃ prāpya yogam abhyasya |
+prāpnoti divyam amṛtaṃ yat tat paramaṃ padaṃ viṣṇoḥ || PAS_8
+
+vedāntaśāstram akhilaṃ vilokya śeṣas tu jagadādhāraḥ |
+āryapañcāśītyā babandha paramārthasāram idam || PAS_87
+
+iti paramārthasāraṃ samāptam ||

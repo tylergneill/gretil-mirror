@@ -1,0 +1,63 @@
+Dhvajāgrakeyūrādhāriṇī
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dhvajAgrakeyUrAdhAriNI-alt.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Klaus Wille
+## Contribution: Klaus Wille
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Paolo Giunta. "The Āryadhvajāgrakeyūrā nāma dhāriṇī - Diplomatic Edition of MS Tucci 3.2.16, Sanskrit Texts from Giuseppe Tucci's Collection, Part I, ed. Francesco Sferra, Roma 2008 (Manuscripta Buddhica, 1), pp. 187-194.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Dhvajāgrakeyūrādhāriṇī-alt = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from dhvajkdu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Dhvajagrakeyura-Dharani [alternative version]
+Based on the edition by Paolo Giunta. "The Āryadhvajāgrakeyūrā nāma dhāriṇī -
+Diplomatic Edition of MS Tucci 3.2.16, Sanskrit Texts from Giuseppe Tucci's Collection, Part I,
+ed. Francesco Sferra, Roma 2008 (Manuscripta Buddhica, 1), pp. 187-194.
+Input by Klaus Wille
+STANDARDIZED TEXT
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+// siddhaṃ namo bhagavatyai āryadhvajāgrakeyūrāyai //
+
+evaṃ mayā śrutam ekasmin samaye bhagavān deveṣu trayastriṃśeṣu viharati sma pāṇḍukambalaśilāyām* / atha khalu śakro devānām indro 'surair jitaḥ parājitaḥ satvaraṃ tvaramāṇarūpo yena bhagavāṃs tenopasaṃkrāntaḥ / upasaṃkramya bhagavataḥ pādau śirasābhivandya bhagavantam etad avocat* / ihāhaṃ bhagavan vemacitriṇāsurendreṇa jitaḥ parājito devās trayastriṃśāś ca jitāḥ parājitāḥ / tatrāsmābhir bhagavan kathaṃ pratipattavyam* / bhagavān āha / udgṛhṇa tvaṃ devendra dhvajāgrakeyūrānāmadhāriṇīm aparājitāṃ yā mayā pūrvaṃ bodhisatvabhūtenāparājitadhvajasya tathāgatasyāntikād udgṛhītā / udgṛhya parebhyo vistareṇa saṃprakāśitā / nābhijānāmi tato 'rvāg bhayaṃ vā stambhitatvaṃ vā romaharṣanimittaṃ vāntaśaḥ kṣaṇikām api kāyapīḍām* /
+
+tat katamā sā bhagavan dhvajāgrakeyūrā nāma dhāriṇī aparājitā /
+
+tadyathā oṃ jaya 2 vijaya 2 jayavāhini śaṅkari bhayaṅkari prabhañjani rakṣa rakṣa āvadhūtaśrīālakhavajraṃ saparivāraṃ sarvasatvāṃś ca / pratyarthiko vā pratyamitro vābhidravati / oṃ jambhaya 2 stambhaya 2 mohaya 2 bhagavati jayavāhini matha matha pramatha pramatha grasa grasa hasa hasa hūṃ hūṃ lambha lambha lambodari trinetre caturvaktre caturdaṃṣṭre caturbhuje asimuśalacakratriśūlavajrakavacamudrādhāriṇi rakṣa rakṣa āvadhūtaśrīālakhavajraṃ saparivāraṃ sarvasatvāṃś ca bhagavati sarvopadravopasargopāyāsebhyaḥ / he he bhagavati hana hana daha daha paca paca matha matha pramatha pramatha dhuna dhuna vidhuna vidhuna hūṃ hūṃ phaṭ phaṭ* bhañja bhañja parasainyaṃ vidhvaṃsaya āvadhūtaśrīālakhavajrasya saparivārasya sarvaśatrūn* / dhvajāgrakeyūre tṛṭa tṛṭa tṛṭu tṛṭu ulkādhāriṇi trailokyamathani vidhvaṃsaya parasainyam* / rakṣa rakṣa āvadhūtaśrīālakhavajraṃ saparivāraṃ sarvasatvāṃś ca sarvopadravebhyaḥ / cala cala cili cili culu culu kala kala kili kili kulu kulu muñca aṭṭaṭṭahāsam* / vidhvaṃsaya parasainyaṃ trāsaya 2 bhrāmaya 2 buddhasatyena dharmasatyena saṃghasatyena satyavādināṃ satyena / buddhasatyaṃ mātikrāma / dharmasatyaṃ mātikrāma / saṃghasatyaṃ mātikrāma / satyavādināṃ satyaṃ mātikrāma / lambodari 2 kuṭa kuṭa kuṭṭa kuṭṭa rudram ānaya / viṣṇum ānaya / candrasūryam ānaya / trailokyādhipatim ānaya / sarvadevatādhipatim ānaya / sarvadevatān ānaya / sarvayakṣarākṣasakumbhāṇḍamahoraganāgān ānaya / vidhvaṃsaya parasainyam* / raṅga raṅga raṅgāpaya raṅgāpaya jvala jvala puṣpamālini rundha rundha riṭi riṭi ciṭi ciṭi bhṛkuṭī mukhi parasainyaṃ kulomodanakari hala hala hili hili hulu hulu hūṃ hūṃ he he riṇi riṇi riṇamati jambha / dhvaje buddhāvalokite rakṣa rakṣa āvadhūtaśriālakhavajraṃ saparivāraṃ sarvasatvāṃś ca sarvatathāgatāvalokite svāhā / guṇarājaprabhāse svāhā / sūryārkavimale svāhā / candrārkavimale svāhā / sarvagrahanakṣatradhyāmīkaraṇe svāhā / hūṃ hūṃ rakṣa rakṣa āvadhūtaśrīālakhavajraṃ saparivāraṃ sarvasatvāṃś ca sarvabhayebhyaḥ svāhā //
+
+iyaṃ sā devendra dhvajāgrakeyūrā nāma dhāriṇī aparājitā / yatra kvacid gacched yuddhe vā kalahe vā vigrahe vā vivāde vā sarvatra vijayo bhaviṣyati / dhvajāgre kaṇṭhe vā baddhvā dhārayitavyā manuṣyarājñā śūrapuruṣāṇāṃ ca sarveṣāṃ rakṣāṃ karoti / strīrūpadhāriṇī bhūtvā puratas tiṣṭhati / abhayaṃ dadāti rakṣāṃ karoti parasainyaṃ vidrāvayati / māṅgalyaṃ pavitraṃ śrīlakṣmīṃ saṃsthāpikā /
+
+idam avocad bhagavān* / āttamanāḥ śakradevendras te ca bhikṣavas te ca bodhisatvā bhagavato bhāṣitam abhyanandann iti // //
+
+āryadhvajāgrakeyūrā nāma dhāriṇī samāptā //
+
+oṃ bhagavati dhvajāgrakeyūre parasainyavidhvaṃsanakari / svasainyaparipālanakari / ulkāmukhi / kha kha / khāhi khāhi / parasainyam anantamukhenānantabhujena prahara prahara / hūṃ hūṃ / phaṭ phaṭ svāhā //
+
+āryadhvajāgrakeyūrāhṛdayaṃ samāptam* // //
