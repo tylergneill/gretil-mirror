@@ -73,12 +73,12 @@ to facilitate word search.
 
 For a comprehensive list of CSX and other GRETIL encodings 
 and formats see:
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf
+https://tylergneill.github.io/gretil-mirror/gretil/gretdiac.pdf
 and
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
+https://tylergneill.github.io/gretil-mirror/gretil/gretdias.pdf
 
 For further information see:
-http://gretil.sub.uni-goettingen.de/gretil.htm
+https://tylergneill.github.io/gretil-mirror/gretil.htm
 
 ___________________________________________________________________
 

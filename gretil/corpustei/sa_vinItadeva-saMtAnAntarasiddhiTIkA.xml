@@ -38,7 +38,7 @@
   </publicationStmt>
 
   <notesStmt>
-	<note>This file has been created by mass conversion of GRETIL's Sanskrit corpus from <ref target="http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/buddh/bsa061_u.htm">bsa061_u.htm</ref>. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the <gi>note</gi> element below:</note>
+	<note>This file has been created by mass conversion of GRETIL's Sanskrit corpus from <ref target="https://tylergneill.github.io/gretil-mirror/gretil/1_sanskr/6_sastra/3_phil/buddh/bsa061_u.htm">bsa061_u.htm</ref>. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the <gi>note</gi> element below:</note>
 	<note type="legacyheader">
 	 Vinitadeva: Samtanantarasiddhitika (with mula text; reconstructed)
 <lb/>Based on the edition by J.S. Negi: Santānāntarasiddhi kārikā ṭīkā.
@@ -301,7 +301,7 @@
   </langUsage>
 
   <textClass>
-  <keywords scheme="http://gretil.sub.uni-goettingen.de/">
+  <keywords scheme="https://tylergneill.github.io/gretil-mirror/">
 	<term>Sanskrit -- Śāstra -- Philosophy -- Buddhist</term>
   </keywords>
   </textClass>

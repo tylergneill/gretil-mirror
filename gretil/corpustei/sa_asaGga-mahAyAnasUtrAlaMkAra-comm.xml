@@ -38,7 +38,7 @@
   </publicationStmt>
 
   <notesStmt>
-	<note>This file has been created by mass conversion of GRETIL's Sanskrit corpus from <ref target="http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/4_rellit/buddh/asmahsbu.htm">asmahsbu.htm</ref>. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the <gi>note</gi> element below:</note>
+	<note>This file has been created by mass conversion of GRETIL's Sanskrit corpus from <ref target="https://tylergneill.github.io/gretil-mirror/gretil/1_sanskr/4_rellit/buddh/asmahsbu.htm">asmahsbu.htm</ref>. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the <gi>note</gi> element below:</note>
 	<note type="legacyheader">
 	 Asanga: Mahayanasutralamkara, with Vasubandhu's commentary (Bhasya) = Msa
 <lb/>Based on the ed. by Sylvain Lévi: Mahāyānasūtrālaṃkāra, Exposé de la doctrine du Grand Véhicule, vol. I, Paris 1907.
@@ -298,7 +298,7 @@
   </langUsage>
 
   <textClass>
-  <keywords scheme="http://gretil.sub.uni-goettingen.de/">
+  <keywords scheme="https://tylergneill.github.io/gretil-mirror/">
 	<term>Sanskrit -- Religious Literature -- Buddhist</term>
   </keywords>
   </textClass>

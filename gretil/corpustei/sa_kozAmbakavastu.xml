@@ -38,7 +38,7 @@
   </publicationStmt>
 
   <notesStmt>
-	<note>This file has been created by mass conversion of GRETIL's Sanskrit corpus from <ref target="http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/4_rellit/buddh/vinv09_u.htm">vinv09_u.htm</ref>. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the <gi>note</gi> element below:</note>
+	<note>This file has been created by mass conversion of GRETIL's Sanskrit corpus from <ref target="https://tylergneill.github.io/gretil-mirror/gretil/1_sanskr/4_rellit/buddh/vinv09_u.htm">vinv09_u.htm</ref>. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the <gi>note</gi> element below:</note>
 	<note type="legacyheader">
 	 Kosambakavastu of the Vinayavastvagama of the Mulasarvastivadin (= Vastu 9 of the Vinayavastu)
 <lb/>Based on the edition by N. Dutt: Gilgit Manuscript, vol. III: Mūlasarvāstivādavinayavastu, part 2 (Srinagar 1942), pp. 173-196: Kośāmbakavastu (second edition: Delhi 1984).
@@ -309,7 +309,7 @@
   </langUsage>
 
   <textClass>
-  <keywords scheme="http://gretil.sub.uni-goettingen.de/">
+  <keywords scheme="https://tylergneill.github.io/gretil-mirror/">
 	<term>Sanskrit -- Religious Literature -- Buddhist</term>
   </keywords>
   </textClass>

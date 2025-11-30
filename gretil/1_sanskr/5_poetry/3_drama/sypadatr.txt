@@ -51,9 +51,9 @@ to facilitate word search.
 
 For a comprehensive list of REE and other GRETIL encodings 
 and formats see:
-www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil/gretdiac.pdf
+https://tylergneill.github.io/gretil-mirror/gretil/gretdiac.pdf
 and
-www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil/gretdias.pdf
+https://tylergneill.github.io/gretil-mirror/gretil/gretdias.pdf
 ___________________________________________________________________
 
 

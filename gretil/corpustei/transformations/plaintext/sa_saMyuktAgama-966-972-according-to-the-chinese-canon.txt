@@ -3,7 +3,7 @@ Saṃyuktāgama (966-972 according to the Chinese canon)
 
 # Header
 
-  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_saMyuktAgama-966-972-according-to-the-chinese-canon.xml
+  This file is a plain text transformation of https://tylergneill.github.io/gretil-mirror/gretil/corpustei/sa_saMyuktAgama-966-972-according-to-the-chinese-canon.xml
   with a rudimentary header. For a more extensive header please refer to the source file.
 
 ## Data entry: Klaus Wille

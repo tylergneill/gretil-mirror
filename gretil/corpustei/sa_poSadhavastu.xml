@@ -38,7 +38,7 @@
   </publicationStmt>
 
   <notesStmt>
-	<note>This file has been created by mass conversion of GRETIL's Sanskrit corpus from <ref target="http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/4_rellit/buddh/vinv02_u.htm">vinv02_u.htm</ref>. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the <gi>note</gi> element below:</note>
+	<note>This file has been created by mass conversion of GRETIL's Sanskrit corpus from <ref target="https://tylergneill.github.io/gretil-mirror/gretil/1_sanskr/4_rellit/buddh/vinv02_u.htm">vinv02_u.htm</ref>. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the <gi>note</gi> element below:</note>
 	<note type="legacyheader">
 	 Posadhavastu of the Vinayavstvagama of the Mulasarvastivadin (Vastu 2 im Vinayavastu)
 <lb/>Based on the edition by Hai-yan Hu-von Hinüber: Posadhavastu, Vorschriften für die buddhistische Beichtfeier im Vinaya der Mulasarvastivadins, Reinbek 1994 (Studien zur Indologie und Iranistik, Monographie 13). = Poṣ-v
@@ -304,7 +304,7 @@
   </langUsage>
 
   <textClass>
-  <keywords scheme="http://gretil.sub.uni-goettingen.de/">
+  <keywords scheme="https://tylergneill.github.io/gretil-mirror/">
 	<term>Sanskrit -- Religious Literature -- Buddhist</term>
   </keywords>
   </textClass>

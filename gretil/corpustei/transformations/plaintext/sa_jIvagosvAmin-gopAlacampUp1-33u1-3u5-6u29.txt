@@ -3,7 +3,7 @@ Jīvagosvāmin: Gopālacampū, P1-33, U1-3, U5-6, U29
 
 # Header
 
-  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_jIvagosvAmin-gopAlacampUp1-33u1-3u5-6u29.xml
+  This file is a plain text transformation of https://tylergneill.github.io/gretil-mirror/gretil/corpustei/sa_jIvagosvAmin-gopAlacampUp1-33u1-3u5-6u29.xml
   with a rudimentary header. For a more extensive header please refer to the source file.
 
 ## Data entry: Jan Brzezinski

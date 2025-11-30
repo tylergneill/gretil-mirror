@@ -2,7 +2,7 @@ Yamasmrti, South Indian recension
 Based on the edition by JÅrgen Neuss: Untersuchungen zur Textgeschichte der YamasmÁti,
 Berlin 1999 (MA-thesis, Free University Berlin, unpublished).
 
-An updated version of this work is now available from the GRETIL e-library (http://gretil.sub.uni-goettingen.de/gr_elib.htm):
+An updated version of this work is now available from the GRETIL e-library (https://tylergneill.github.io/gretil-mirror/gr_elib.htm):
 http://resolver.sub.uni-goettingen.de/purl/?gr_elib-197
 
 
@@ -77,12 +77,12 @@ to facilitate word search.
 
 For a comprehensive list of CSX and other GRETIL encodings 
 and formats see:
-http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf
+https://tylergneill.github.io/gretil-mirror/gretil/gretdiac.pdf
 and
-http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf
+https://tylergneill.github.io/gretil-mirror/gretil/gretdias.pdf
 
 For further information see:
-http://gretil.sub.uni-goettingen.de/gretil.htm
+https://tylergneill.github.io/gretil-mirror/gretil.htm
 
 ___________________________________________________________________
 

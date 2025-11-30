@@ -3,7 +3,7 @@ Abhinanda: Kādambarīkathāsāra
 
 # Header
 
-  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_abhinanda-kAdambarIkathAsAra.xml
+  This file is a plain text transformation of https://tylergneill.github.io/gretil-mirror/gretil/corpustei/sa_abhinanda-kAdambarIkathAsAra.xml
   with a rudimentary header. For a more extensive header please refer to the source file.
 
 ## Data entry: Harunaga Isaacson

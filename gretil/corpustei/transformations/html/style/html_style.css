@@ -1,6 +1,6 @@
 @font-face {
     font-family: LinuxLibertineDisplay0Regular, times, serif;
-    src: url(https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/style/fonts/LinLibertine_DR.woff);
+    src: url(https://tylergneill.github.io/gretil-mirror/gretil/corpustei/transformations/html/style/fonts/LinLibertine_DR.woff);
 }
 * {box-sizing: border-box;}
 body {background-color: #FFFFFF; font-family: 'LinuxLibertineDisplayORegular'; font-weight: normal; font-style: normal; font-size: 18px; padding: 20px 100px 20px; width: 1600px;}

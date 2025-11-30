@@ -3,7 +3,7 @@ Daṇḍin: Kāvyādarśa, 1, 2.1-144, 2.310-368
 
 # Header
 
-  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_daNDin-kAvyAdarza1--2.1-144--2.310-368.xml
+  This file is a plain text transformation of https://tylergneill.github.io/gretil-mirror/gretil/corpustei/sa_daNDin-kAvyAdarza1--2.1-144--2.310-368.xml
   with a rudimentary header. For a more extensive header please refer to the source file.
 
 ## Data entry: Reinhold Grünendahl

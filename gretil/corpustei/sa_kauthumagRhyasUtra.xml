@@ -38,7 +38,7 @@
   </publicationStmt>
 
   <notesStmt>
-	<note>This file has been created by mass conversion of GRETIL's Sanskrit corpus from <ref target="http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/5_vedang/2_grhya/kauthgsu.htm">kauthgsu.htm</ref>. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the <gi>note</gi> element below:</note>
+	<note>This file has been created by mass conversion of GRETIL's Sanskrit corpus from <ref target="https://tylergneill.github.io/gretil-mirror/gretil/1_sanskr/1_veda/5_vedang/2_grhya/kauthgsu.htm">kauthgsu.htm</ref>. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the <gi>note</gi> element below:</note>
 	<note type="legacyheader">
 	 Kauthuma-Grhyasutra
 <lb/>[no source given; cf. the ed. by Suryakanta: Kauthuma-Gṛhya, ed. with introduction, notes and indices,
@@ -295,7 +295,7 @@
   </langUsage>
 
   <textClass>
-  <keywords scheme="http://gretil.sub.uni-goettingen.de/">
+  <keywords scheme="https://tylergneill.github.io/gretil-mirror/">
 	<term>Sanskrit -- Veda -- Vedāṅga -- Gṛhyasūtra</term>
   </keywords>
   </textClass>

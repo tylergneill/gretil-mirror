@@ -3,7 +3,7 @@ Cakrapāṇinātha: Bhāvopahārastotra with Vivaraṇa commentary by Ramyadeva 
 
 # Header
 
-  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_cakrapANinAtha-bhAvopahArastotra.xml
+  This file is a plain text transformation of https://tylergneill.github.io/gretil-mirror/gretil/corpustei/sa_cakrapANinAtha-bhAvopahArastotra.xml
   with a rudimentary header. For a more extensive header please refer to the source file.
 
 ## Data entry: Somadeva Vasudeva

@@ -38,7 +38,7 @@
   </publicationStmt>
 
   <notesStmt>
-	<note>This file has been created by mass conversion of GRETIL's Sanskrit corpus from <ref target="http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/samkhya/iskgaudu.htm">iskgaudu.htm</ref>. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the <gi>note</gi> element below:</note>
+	<note>This file has been created by mass conversion of GRETIL's Sanskrit corpus from <ref target="https://tylergneill.github.io/gretil-mirror/gretil/1_sanskr/6_sastra/3_phil/samkhya/iskgaudu.htm">iskgaudu.htm</ref>. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the <gi>note</gi> element below:</note>
 	<note type="legacyheader">
 	 Isvarakrsna: Samkhyakarika, with Gaudapada's Bhasya (commentary)
 <lb/>Based on the ed.: The Sankhya Karika. By Iswara Krishna; Translated from the Sanscrit by Henry Thomas Colebrooke, also the Bhashya, or, Commentary of Gaudapada; Translated, and Illustrated by an Original Comment, by Horace Hayman Wilson. Bombay : Tookaram Tatya 1887.
@@ -296,7 +296,7 @@
   </langUsage>
 
   <textClass>
-  <keywords scheme="http://gretil.sub.uni-goettingen.de/">
+  <keywords scheme="https://tylergneill.github.io/gretil-mirror/">
 	<term>Sanskrit -- Śāstra -- Philosophy -- Sāṃkhya</term>
   </keywords>
   </textClass>

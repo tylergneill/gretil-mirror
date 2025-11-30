@@ -38,7 +38,7 @@
   </publicationStmt>
 
   <notesStmt>
-	<note>This file has been created by mass conversion of GRETIL's Sanskrit corpus from <ref target="http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/4_rellit/buddh/pamsuavu.htm">pamsuavu.htm</ref>. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the <gi>note</gi> element below:</note>
+	<note>This file has been created by mass conversion of GRETIL's Sanskrit corpus from <ref target="https://tylergneill.github.io/gretil-mirror/gretil/1_sanskr/4_rellit/buddh/pamsuavu.htm">pamsuavu.htm</ref>. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the <gi>note</gi> element below:</note>
 	<note type="legacyheader">
 	 Pamsupradana-Avadana
 <lb/>Translitaeration based on facsimiles in: Gilgit Buddhist Manuscripts (Facsimile Edition), ed. by Raghu Vira and Lokesh Chandra, 10 pts., New Delhi 1959-1974 (Śata-Piṭaka Series 10). [revised and enlarged compact edition, 3 vols., Delhi 1995 (Bibliotheca Indo-Buddhica Series, 150-152)].
@@ -319,7 +319,7 @@
   </langUsage>
 
   <textClass>
-  <keywords scheme="http://gretil.sub.uni-goettingen.de/">
+  <keywords scheme="https://tylergneill.github.io/gretil-mirror/">
 	<term>Sanskrit -- Religious Literature -- Buddhist</term>
   </keywords>
   </textClass>

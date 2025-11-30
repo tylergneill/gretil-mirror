@@ -3,7 +3,7 @@ Rasādhyaya, 1-302+com with Ṭīkā
 
 # Header
 
-  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_rasAdhyaya1-302-com.xml
+  This file is a plain text transformation of https://tylergneill.github.io/gretil-mirror/gretil/corpustei/sa_rasAdhyaya1-302-com.xml
   with a rudimentary header. For a more extensive header please refer to the source file.
 
 ## Data entry: Oliver Hellwig

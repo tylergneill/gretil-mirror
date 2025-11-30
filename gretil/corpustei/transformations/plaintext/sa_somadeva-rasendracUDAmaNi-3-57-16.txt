@@ -3,7 +3,7 @@ Somadeva: Rasendracūḍāmaṇi 3-5, 7-16
 
 # Header
 
-  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_somadeva-rasendracUDAmaNi-3-57-16.xml
+  This file is a plain text transformation of https://tylergneill.github.io/gretil-mirror/gretil/corpustei/sa_somadeva-rasendracUDAmaNi-3-57-16.xml
   with a rudimentary header. For a more extensive header please refer to the source file.
 
 ## Data entry: Oliver Hellwig
