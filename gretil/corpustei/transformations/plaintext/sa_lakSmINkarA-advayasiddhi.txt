@@ -1,0 +1,145 @@
+Yoginī Lakṣmīṅkarā: Advayasiddhi
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_lakSmINkarA-advayasiddhi.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Peter Gäng
+## Contribution: Peter Gäng
+## Date of this version: 2019-10-17
+
+## Source: 
+   - Yoginī Lakṣmīṅkarā: »Advayasiddhi.« In: Samdhong Rinpoche and Vrajvallabh Dwivedi (eds.): Guhyādi-aṣṭasiddhisaṅgraha. Sarnath, Varanasi 1987 (Rare Buddhist texts series 1), pp. 161-164.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Advayasiddhi = ADvS,
+   - the number of the verse in arabic numerals.
+
+
+# Text
+
+
+advayasiddhi yoginī lakṣmīṅkarā viracitā
+
+oṃ namaḥ śrīvajrasattvāya
+
+prakṛtiprabhāsvaraṃ nāthaṃ sarvajñaṃ tribhavodbhavam /
+praṇamya śirasā vajram īpsitārthaphalapradam // ADvS_1
+
+deśakālatithivāranakṣatrair maṇḍalair vinā /
+vakṣye haṃ vajrasattvasya saṃkṣepāt sādhanaṃ param // ADvS_2
+
+niyamavratopavāsair akṣaroccāraṇabhāvanaiḥ /
+atattvayogo na siddhyet kalpakoṭiśatair api // ADvS_3
+
+viḍvajrodakabījādyair nāsikābhyantarodbhavaiḥ /
+pūjayed satataṃ mantrī ātmānaṃ tattvabhāvanaiḥ // ADvS_4
+
+jananīṃ bhaginīś caiva duhitṛbhāgineyikān /
+prajñnopāyavidhānena pūjayed yogavit sadā // ADvS_5
+
+ekāṅgavikalāṃ hīnāṃ śilpanīṃ śvapacīṃ tathā /
+yoṣitāṃ pūjayen nityaṃ jñānavajraprabhāvanaiḥ // ADvS_6
+
+tatremāni bījapadāni – oṃ āḥ hūṃ
+
+yena yena hi baddhyante jantavo raudrakarmaṇā /
+sopāyena tu tenaiva mucyante bhavabandhanāt // ADvS_7
+
+samayān aharahaḥ kuryād divyān pañcakulodbhavān /
+pūjayec ca pradīpādyaiḥ sakṣīrair viśvasambhavaiḥ // ADvS_8
+
+protphullanayano mantrī nityaṃ prahasitānanaḥ /
+cittam āropya saṃbodhau bhāvayej jñānasāgaram // ADvS_9
+
+yāvat sthiracalā bhāvā santy atra tribhavālaye /
+sarve te tattvayogena draṣṭavyā vajradhṛg yathā // ADvS_10
+
+paravādinaś ca kecil lingabhedair vyavastitāḥ /
+te 'py atra nāvamantavyā vajrasattvavikurvitaiḥ // ADvS_11
+
+sarvān samarasīkrtya bhāvān nairātmyaniḥsṛtān /
+bhāvayet satataṃ mantrī dehaṃ prakṛtinirmalam // ADvS_12
+
+gandhamālyādibhir vastrair dhūpanaivedyakais tathā /
+gītavādyais tathā nṛtyaiḥ sopāyair bhajate vibhuḥ // ADvS_13
+
+na kaṣṭakalpanāṃ kuryān nopavāsaṃ na ca kriyām /
+snānaṃ śaucaṃ na caivātra grāmadharmavivarjanaṃ // ADvS_14
+
+na cāpi vandayed devān kāṣṭhapāṣāṇamṛṇmayān /
+pūjām asyaiva kāyasya kurvān nityaṃ smāhitaḥ // ADvS_15
+
+makṣikācchardisaṃmiśrair viṇmūtrādyaiś ca bhāvitaiḥ /
+pañcapradīpasaṃyuktaiḥ pūjayed vajradhāriṇam // ADvS_16
+
+abalā svayambhukusumaiḥ sakṣīrair viśvasambhavaiḥ /
+pūjayed devatāṃ tena dehasthāṃ tattvabhāvanaiḥ // ADvS_17
+
+parasvaharaṇaṃ kuryāt paradāraniṣevanam /
+vaktavyaṃ ca mṛṣāvākyaṃ sarvabuddhāṃś ca ghātayet // ADvS_18
+
+śailamṛṇmayacaityādīn na kuryāt pustake ratim /
+na maṇḍalāni svapne 'pi kāyavākcittakarmaṇā // ADvS_19
+
+jugupsāṃ naiva kurvīta sarvavastuṣu mantravit /
+vajrasattvaḥ svayaṃ tatra sākṣād rūpeṇa saṃsthitaḥ // ADvS_20
+
+gamyāgamyavikalpaṃ tu bhakṣyābhakṣyaṃ tathaiva ca /
+peyāpeyaṃ tathā mantrī kuryān naiva samāhitaḥ // ADvS_21
+
+vairocanasamudbhūtān sarvaprāṇyaṅgasambhavān /
+prāṇakān guhyatattvajño bhakṣayet siddhihetunā // ADvS_22
+
+sarvavarṇasamudbhūtā jugupsyā naiva yoṣitaḥ /
+saiva bhagavatī prajñā saṃvṛtyā rūpam āśrityā // ADvS_23
+
+na tithir na ca nakṣatraṃ nopavāso vidhīyate /
+advayajñānayuktasya siddhir bhavati saugatī // ADvS_24
+
+bahunātra kim uktena yad bhaved upalabdhikam /
+tat sarvaṃ tattvayogena draṣṭavyaṃ tattvavedinā // ADvS_25
+
+hastyaśvakharagāvoṣṭrapradīpaṃ śvānasambhavam /
+mahāpradīpasaṃmiśraṃ bhakṣayed yogavit sadā // ADvS_26
+
+na cādhyāsaktiṃ kurvīta ekasminn api yogavit /
+samatācittayogena bhāvanīyo bhavārṇavaḥ // ADvS_27
+
+utpattisthitinirodhaṃ cāsampṛktaṃ pṛthagjanaiḥ /
+tasya bhāve tu saṃsāro nānyatra pralayodbhavaḥ // ADvS_28
+
+dinaṃ tu bhagavān vajrī naktaṃ prajñā vidhīyate /
+evaṃ tu bhāvayed yogī laghu siddhim avāpnuyāt // ADvS_29
+
+yat tad avyaktarūpaṃ tu sarvasattveṣu saṃsthitam /
+guruvaktrāt paraṃ tattvaṃ prāpyate nātra samśayaḥ // ADvS_30
+
+apratiṣṭhitanirvāṇaṃ nirnimittaṃ nirālayam /
+vyāpakaṃ sarvasattveṣu saṃbodhiḥ paramaṃ padam // ADvS_31
+
+evaṃ matvā tu vai yogī yo 'bhyased buddhimān sadā /
+sa siddhyati na sandeho mandapuṇyo 'pi mānavaḥ // ADvS_32
+
+ācāryāt parataraṃ nāsti trailokye sacarācare /
+yasya prasādāt prāpyante siddhayo 'nekadhā budhaiḥ // ADvS_33
+
+vajrasattvaḥ sa vai jñeyaḥ sarvabuddhair namaskṛtaḥ /
+ācāryaḥ paramo devaḥ pūjanīyaḥ prayatnataḥ // ADvS_34
+
+sa eva tathatārūpī lokānugrahahetunā /
+rūpam āśritya saṃvṛtyā saṃsthito yogapīṭhake // ADvS_35
+
+mṛtyur eṣa vikalpo yaṃ na bhāvaḥ sarvavastuṣu /
+hanyate svavikalpena pṛthagjanavijṛmbhitaiḥ // ADvS_36
+
+śrīmadoḍīyānavinirgatā mahāyogapīṭhāgatā 'khilayogatantratattvagarbhā śrīlakṣmīmukhakamalād viniḥsṛtā svādhiṣṭhānakramodayā advayasiddhir nāma sādhanopāyikā samāpteti

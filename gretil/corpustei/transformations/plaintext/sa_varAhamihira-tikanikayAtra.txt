@@ -1,0 +1,391 @@
+Varāhamihira: Tikanikayātra
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_varAhamihira-tikanikayAtra.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Mizue Sugita
+## Contribution: Mizue Sugita
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Pandit, Vasant Kumar R., Tikanikayatra of Varahamihira, Journal of the University of Bombay.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Tikanikayātra = TY,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from tikaniku.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Varahamihira:
+Tikanikayatra
+Input by Mizue Sugita (May 1, 1998)
+based on Pandit, Vasant Kumar R.,
+Tikanikayatra of Varahamihira,
+Journal of the University of Bombay.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+
+chap.1.nakṣatrakarmaphala
+
+ghanatimiranāgasiṃhastribhuvanabhavanādhipo jagaccakṣuḥ/
+udayāstāca(la)maulir jayati ravir gaganatilakaikaḥ// TY_1.1
+
+mūrdhnā gaṇeśaṃ ca sarasvatīṃ ca salokapālaṃ parameśvaraṃ ca/
+padmodbhavaṃ padmadhanaṃ hariṃ ca trailokyadīpaṃ praṇamāmi bhānum// TY_1.2
+
+yātrāvidhir ata ūrdhvaṃ vijigīṣor viditajanmasamayasya/
+pratyabdamāsavāsaravibhaktasukhaduḥkhaniṣṭhasya// TY_1.3
+
+vidite horārāśau sthānabalaparigrahe grahāṇāṃ ca/
+āyuṣi ca parijñāte śubham aśubhaṃ vā phalaṃ vācyam// TY_1.4
+
+prastutavirodha evaṃ sthitaviṣaye bhavati śāstranirdeśaḥ/
+janmasamayaṃ ca kecid vadanti na vadanti bahuvo 'nye// TY_1.5
+
+janmarkṣodayalagne tad api yayor vā yiyāsataḥ praśne/
+triṣaḍekādaśaśīrṣodayeṣu mārgeṣu ca jayaḥ syāt// TY_1.6
+
+śatror horārāśis tad adhipatir janmabhaṃ tadīśo vā//
+yady aste hibuke vā tathāpi śatrur hato vācyaḥ// TY_1.7
+
+praśne manoramā bhūr maṅgalyadravyadarśanaṃ śastam/
+yadi cādareṇa pṛcchati daivajño nirdiśed vijayam// TY_1.8
+
+nandā bhadrā vijayā riktā pūrṇā ca nāmasadṛśaphalāḥ/
+nyūnasameṣṭā daśame tithayaḥ śukle kṛṣṇe pratīpās tāḥ// TY_1.9
+
+nakṣatrapuṭākiraṇaṃ paścāt sandhyāgataṃ grahair bhinnam/
+krūranipīḍitam utpātadūṣitaṃ cāśubhaṃ sarvam// TY_1.10
+
+citrāsvātiviśākhābharaṇīpitryeṣakṛttikāśleṣāḥ/
+nātiśubhadāni yāne śeṣāṇi śubhāni dhiṣṇyāni// TY_1.11
+
+śatruviṣayaṃ didhakṣor anyatrārkodayāc chubhāgneyī/
+na viśākhārohiṇyuttareṣu divasasya pūrvāhṇe// TY_1.12
+
+jyeṣṭhāmūlāśleṣāraudreṣu vivarjayec ca madhyāhṇam/
+svātyāśvipuṣyahasteṣv aparāhṇe varjayed yātrām// TY_1.13
+
+maitrendavacitrārevatīṣu yāyāt pradoṣam utsṛjya/
+pūrveṣu triṣu yāmye pitrye ca vihāya madhyaniśam// TY_1.14
+
+na niśāpaścimabhāge punarvasau triṣu ca vaiṣṇavādyeṣu/
+sarve 'pi śubhāḥ kālāḥ śravaṇendravahastapuṣyeṣu// TY_1.15
+
+prācyādi sapta sapta kramena dhiṣṇyāni kṛttikādīni/
+anulomāny ekatvaṃ pūrvottaraś roṇitarayoś ca// TY_1.16
+
+analāniladigrekhāṃ parighākhyāṃ yānti ye samutkramya/
+ājñām iva kuliśabhṛtaḥ patanti na cireṇa te vyasane// TY_1.17
+
+sarvadvārikasaṃjñaṃ nakṣatracatuṣṭayaṃ samuddiṣṭaṃ/
+puṣyo hastāśvinyau nakṣatraṃ mitradevaṃ ca// TY_1.18
+
+jyeṣṭhā prāgbhādrapadā rohiṇy athottarā ca phalgunyā/
+śūlāni prācyādiṣu teṣu gato 'tyeti yadi citram// TY_1.19
+
+tārās tu janmasampadvipatkarā kṣemā (?) 'pāyaśubhakaṣṭā/
+maitrātimaitrasaṃjñāś caitāḥ saṃjñānurūpaphalāḥ//e20 TY_1.20
+
+
+chap.2.dineśaphala
+
+sūryadine dhananāśaś cāndre śaktikṣayo 'nnahāniś ca/
+jvalanāsṛkpittarujāḥ kauje baudhe suhṛtprāptiḥ// TY_2.1
+
+jīve jayadhanalabdhiḥ śaukre strīvastragandhadhanalābhāḥ/
+dainyaṃ ca bandharogān prāpnoti dine 'rkaputrasya// TY_2.2
+
+upacayakaragrahadine siddhiḥ krūre 'pi yāyināṃ bhavati/
+saumye 'py anupacayasthe na bhavati yātrā śubhā yātuḥ//e3 TY_2.3
+
+
+chap.3.muhūrtakarmaguṇa
+
+garavaṇijā(ja)viṣṭi(pari)varjitāni karaṇāni yātur aniṣṭāni(iṣṭāni)/
+garam api kaiś cic chastaṃ vaṇijā(jāṃ) ca vaṇikkriyāsv eva// TY_3.1
+
+śivabhujagamitrapitṛvasujalaviśvaviriñcipaṅkajaprabhavāḥ/
+indrāgnīndraniśācaravaruṇāryyamayonayaś cāhni// TY_3.2
+
+rudrājāhirbudhnyāḥ pūṣā dakhāntakāgnidhātāraḥ/
+indvaditiguruhariravitvaṣṭranilākhyāḥ kṣaṇā rātrau// TY_3.3
+
+ahnaḥ pañcadaśāṃśo rātreś caivaṃ muhūrta iti saṃjñā/
+sa ca vijñeyas tajjñaiś chāyāyantrāmbubhir yuktyā// TY_3.4
+
+nakṣatravat kṣaṇānāṃ parighādi tadīśvaraiḥ samaṃ cintyam/
+phalam api tad eva dṛṣṭaṃ gargādyais tatra ca ślokāḥ// TY_3.5
+
+ahorātraṃ ca saṃpūrṇaṃ candranakṣatrayojitam/
+tannakṣatramuhūrttāś ca samakarmaguṇāḥ smṛtāḥ// TY_3.6
+
+yaś cāṣṭamo muhūrto viriñcināmābhijit sa nirdiṣṭaḥ/
+tasmiṃs trya (lacuna) yāmyām atyantagatasya jayalabdhiḥ// TY_3.7
+
+aṣṭamena divase same śubho yo viriñcivibhusaṃjñitāḥ(taḥ)(add.kṣaṇaḥ)/
+tena yānam apahāyi(ya)dakṣiṇāṃ sarvadikṣu a(kṣvabhi)jit(tā)praśasyate//e8 TY_3.8
+
+
+chap.4.candraphala
+
+upacayagṛhasaptamagaḥ śubhaḥ śaśī janmabhe 'pi yātrāyām/
+upajayakarayukto vā śubhamadhye śubham upāsajña(?)// TY_4.1
+
+janmatriṣaḍekādaśasaptamago 'pi neṣyate candraḥ/
+pañcamanavamantyāṣṭa(ma)caturdvivedhavān iṣṭaphalaḥ// TY_4.2
+
+sitapakṣādau candre śubhe śubhaṃ pakṣam aśubham aśubhe ca/
+kṛṣṇe gocaraśubhado na śubhaṃ pakṣa(kṣe) śubham atonyat//e3 TY_4.3
+
+
+chap.5.lagnaviśuddhi
+
+iṣṭaṃ svajanmalagnaṃ na janmarāśyudgamas tayoḥ sthānāt/
+tryāyagṛhāni (lacuna) hitāny udaye neṣṭāni śeṣāṇi// TY_5.1
+
+ripunaidhane ripuvadho (ripu)ṣaṣṭa(ṣṭhe) lagnage vadho yātuḥ/
+kecij jagus tathādite ku(krū)repāḥ sthāne// TY_5.2
+
+āye janmani rāśiṣu yeṣu śubhā bhāskaradvitīyai//
+te lagne śasyante neṣṭāḥ pāpagrahāpyu(lacuna)// TY_5.3
+
+śīrṣodayeṣu vijayo bhaṅgaḥ ṣaṣṭhodayeṣu lagneṣu/
+diganuddhāreṣu jayo vidvāraṣv āvaho(have)bhaṅgaḥ// TY_5.4
+
+mīne kuṭilo mārgo bhavati tadasenya(tya)śaśilagne (pi)/
+nauyānam āpyalagnakāryaṃ tu tannavāṃśe vā//e5 TY_5.5
+
+
+chap.6.lagnabheda
+
+senduṣyabhe navāṅgau krūrāṇānirgavignasthaḥ?/
+yauvanadurlalitair iva vicakṣaṇo 'ntyeṣu divaseṣu// TY_6.1
+
+puṣṭir bhavati yiyāsoḥ śubhagrahāṇāṃ navāṅgalagneṣu/
+yauvanakāntāram iva pratītya kuśalena dharmavatām// TY_6.2
+
+saumye navaṅgakalagne ripubalabhogaṃ karoty asāhāryam/
+yadyasya phalaṃ divasis tadaśeṣaṃ kālahorāyām// TY_6.3
+
+upacayakarasya vargaṃ kū(krū)rasyāpi praśasyate lagno(gne)/
+candre pādadyukte(?) tantrādhipatesya(śca)saumyasya// TY_6.4
+
+ityaṣṭamagāḥ pāpā vivarjā(rja)ye(da)ṣṭamaṃ vilagnaṃ ca/
+candra(drop.)candrañca (lacuna) nidhanasthaṃ sarvārambhaḥ(mbha)prayogeṣu// TY_6.5
+
+lagnena rahitā yātrā yosetonmanta(yā saivonmatta?)bhāminī/
+durjānaṃ(taṃ)jani(na)māsādya yāty abhāvaḥ(vaṃ)śanaiḥ śanaiḥ// TY_6.6
+
+lagnapradhāna(nā) yā yātrā śīlenaiva kulāṅganā/
+bhāvāstamantra(nu)hartante guṇa(ṇā)rūpam ivottamaḥ(māḥ)//e7 TY_6.7
+
+
+chap.7.grahaviśuddhiḥ
+
+lagnopagataiḥ saumyair ārogyaṃ bhavati cittasaukhyañ ca/
+arthasthair arthacayo yodhavivṛddhis tṛtīyasthaiḥ// TY_7.1
+
+vāhanasuhṛdāṃ vṛddhiś caturthagaiḥ pañcagaiś ca mantribalam/
+ripunāśaḥ ṣaṣṭhasthaiḥ bhṛguvarjaṃ saptameṣu hitāḥ// TY_7.2
+
+rakṣanty āyunni(rni)dhane śaśivarjaṃ navamabheṣu vasusampat/
+karmaṇi siddhir lābho balasampātaś ca daśamādyaiḥ// TY_7.3
+
+bhaumārkārkiśaśāṅkair lagne vadhabandhamaraṇasantrāsāḥ/
+arthakṣayo dvitīyais tṛtīyasaṃsthair yaśo dyutimat// TY_7.4
+
+vāhanabandhuviyogo mantrakhāvo ripukṣayaś ceti/
+hibukādiṣu saptamagaiḥ svaviṣayanāśo bhṛgusute ca// TY_7.5
+
+mṛtyur nidhanopagataiḥ senāvyasanaṃ mahan navamasaṃsthaiḥ/
+kujasūryau daśamasthau jayadau bhaṅgapradaḥ sauriḥ// TY_7.6
+
+jayam ekādaśasaṃsthaiḥ krūrair antyopagaiḥ svabalabhedaḥ/
+upacayavarjaṃ saumyair yātuḥ pāpair viparyastam// TY_7.7
+
+krūro 'py anukūlasthaḥ śasto lagne śubho 'pi vāniṣṭaḥ/
+vakrī na śubhaḥ kendre tadahas tadvargalagnañ ca// TY_7.8
+
+sāmapatī jīvasitau bhedasya tu rāhuketubudhasaurāḥ/
+daṇḍasyārkakṣitijābudha(v atha) pradānasya śītāṃśuḥ// TY_7.9
+
+āṭaviko(ka)deśaripumantrimauli(ka)śreṇibhṛtakavīryeśāh/
+sūryādibhir anukūlais tad udayavargaiś ca tatsiddhiḥ// TY_7.10
+
+nīcasthā grahavijitā ravyabhibhūtā viraśmayo hrasvāḥ/
+bhujagā iva mantrahatā bhavanty akāryakṣamā lagne// TY_7.11
+
+yeṣāṃ game navamapañcamakaṇṭakasthāḥ saumyās trītīyaripulābhagatāś ca pāpāḥ/
+āyānti te svabhavanāni punaḥ kṛtārthāḥ dattā dvijātiṣu tathā vidhivad yathārthāḥ// TY_7.12
+
+ekasminn api kendre yadi saumyo na graho 'sti yātrāyām/
+janmany atha vā karmaṇi na tac chubhaṃ prāhur ācāryāḥ// TY_7.13
+
+rāhvarkāraśikhisitā yāyina iti śarvarīśa ākrandaḥ/
+gurubudhhasaurāḥ paurāḥ pauraḥ sūryo 'pi pūrvāhṇe// TY_7.14
+
+yāyibhir anukūlasthair yānaṃ paurair vigṛhya cāsīnam/
+pauretarair api śubhair yāyād ardhena sainyasya// TY_7.15
+
+sarvair apy aśubhakaraiḥ śubhadaivaṃ saṃśrayet pradhānanṛpam/
+balasiddhiḥ saumyaphalair balibhiḥ krūrair jayo yuddhe//e16 TY_7.16
+
+
+chap.8.diggrahānulomyaḥ
+
+ayanānukūlagamanaṃ hitam arkendvor dvayor asaṃpattau/
+dyuniśaṃ jayāya yāyād viparyaye kleśabhaṅgavadhāḥ// TY_8.1
+
+udito yato yataś ca bhramaṇe yadvārabheṣu cāragate/
+tadri?bidhaṃ pratiśukraṃ tyājyas tatrodayo yatnāt// TY_8.2
+
+na pratiśukre siddhiṃ svalpo 'py arthaḥ prayāti yātṛṇām/
+kāmaṃ vrajet pratibhṛguṃ jijīviṣur nāstage śukre// TY_8.3
+
+kaluṣi vapuṣi grahahate pratilome nīcage 'stage ca bhṛgau/
+balasaṃpanno 'pi nṛpo yātā śatror vaśaṃ yāti// TY_8.4
+[[lalāṭo(ṭe) 'gnibhayaṅkaro 'diti(tidi)nakṛt kośakṣayaṃ lohitaḥ[śatrūṇāṃ vijaya(yaṃ) śaśāṅkatanayaḥ sainyopabhebhaṃ(daṃ) guruḥ/[mṛtyuṃ bhāskaranandano narapateyo(ryo)dhakṣaya(yaṃ)viprarāṭ[sarvāṇy ai(ṇye)va surārimantrivṛṣabhaḥ saṃpiṇḍitā bhārgavaḥ//[nakṣatraṃ tithi(tha)yas tathaiva karaṇaṃ vāras tathā gocaraṃ[drekā(kkā)ṇaṃ sanavāṃśa(ṅga?)(lacuna)grahadinaṃ lagnaṃ muhūrto 'pi vā/[ye cānye śakunādayo nigaditāḥ sarve 'pi te śobhanā[lalāṭo(ṭe?) bhṛgunanda(na)sya na tadā śakuro 'pi jīvenda(ṅga)taḥ//[suram api vijayec chuḥpṛṣṭhatī(taḥ)kṛtya śukraḥ(karaṃ)[samaravijayatṛṣṇo yo nṛpaḥ saṃprayāti/[ripubalarudhiraudais tarpayitvā tu bhūmiṃ[prathitavipulakīrtidīrghakālaṃ bhunakti//[naur iva vikarṇadharā vi(lacuna)(dha)veda vadhūr vibhāskareva dyauḥ/[bhūni(ri)va vipannnasasyā proṣitaśukrābhda(krābha)vati yatrā//
+evaṃvidhe 'pi yāyād yadi śukre candrajo 'nukūlasthaḥ/
+pratibudhayātasyānye na paritrāṇe grahāḥ śaktāḥ// TY_8.5
+
+yo 'pi patir diśi yasyāṃ tasmin tatsthe na tāṃ diśaṃ yāyāt/
+anukūle ca digīśe gatavyaṃ kaṇṭakopagate//e6 TY_8.6
+
+
+chap.9.(non title)
+
+vyatipātaviṣṭivaidhṛtipāpagrahalagnavargadivaseṣu/
+cauryāvaskandānṛtasaṃgrāmāsiddhim āyānti// TY_9.1
+
+hutvānalaṃ namaskṛtya devatāḥ svasti vācya viprāṃś ca/
+dhyāyan digīśam avilambitaṃ vrajed bhūpatiḥ sumanāḥ// TY_9.2
+
+kāryavaśāt svayam agamaṃ bhūbhartuḥ kecid āhur ācāryāḥ/
+chatrāyudhādyam iṣṭaṃ vaijayikaṃ nirgame kuryāt// TY_9.3
+
+nākālavarṣavi(dyu)tstanite ṣṭhiṣṭa(ṣviṣṭaṃ?)kathañcid api mānam/
+āsaptāhād divyāntarikṣabhaumais tathotpātaiḥ// TY_9.4
+
+dakṣiṇapārśvaspandanam iṣṭaṃ hṛdayaṃ vihāya pṛṣṭhaṃ ca/
+manasaś cāgamaśuddhiḥ ślokaś cāyaṃ munibhir uktaḥ// TY_9.5
+
+śubhāśubhāni sarvāṇi nimittāni syur ekataḥ/
+ekataś ca mano yāti tad viśuddhaṃ jayāvaham// TY_9.6
+
+ārohati kṣitipatau vinayopapanno yātrānugo 'nyaturagaṃ pratiheṣitaś ca/
+vaktreṇa vā spṛśati dakṣiṇam ātmapārśvaṃ yo 'śvaḥ sa bhartur acirāt pracinoti lakṣmīm// TY_9.7
+
+muhurmuhur mūtraśakṛt karoti na tāḍyamāno 'py anulomayāyī/
+akāryabhīto 'śruvilocanaś ca śivaṃ na bhartus turago 'bhidhatte// TY_9.8
+
+skhalitagatir akasmāt trastakarṇo 'tidīnaḥ śvasati mṛdu sudīrghaṃ nyastahastaḥ pṛthivyām/
+drutamukulitadṛṣṭiḥ svapnaśīlo vikomo bhayakṛd ahitabhakṣī naikaśo 'sṛkśakṛtkṛt// TY_9.9
+
+valmīkasthāṇugulmatṛṇatarumathanaḥ svecchayā hṛṣṭadṛṣṭir
+yāyād yātrānulomaṃ tvaritapadagatir vaktram unnamya coccaiḥ/
+kakṣāsannāhakāle janayati sumahacchīkaraṃ vṛhaṃte vā
+tatkālaṃ vā madāptau jayakṛd atha radaṃ veṣṭayan dakṣiṇaṃ ca// TY_9.10
+
+siddhārthakādarśapayoñjanāni baddhaikapaśvāmiṣapūrṇakumbhāḥ/
+uṣṇīṣabhṛṅgāranṛvarddhamānapuṃyānavīṇātapavāraṇāni// TY_9.11
+
+dadhimadhughṛtarocanākumāryo dhvajakanakāmbujabhadrapīṭhaśaṅkhāḥ/
+sitavṛṣakusumāmbarāṇi mīnā dvijagaṇikāptajanāś ca cāruveṣāḥ// TY_9.12
+
+jvalitaśikhiphalākṣatekṣubhakṣā dviradamṛdaṅkuśacāmarāyudhāni/
+marakatakuravindapadmarāgasphaṭikamaṇipramukhāś ca ratnabhedāḥ// TY_9.13
+
+svayam atha racitāny ayatnato vā yadi kathitāni bhavanti maṅgalāni/
+sa jayati sakalāṃ tato dharitrīṃ grahaṇadṛgālabhanaśrutair upāsya// TY_9.14
+
+karpāsauṣadhakṛṣṇadhānyalavaṇaklīvāsthitailaṃ vasā
+paṅkāṅgāraguḍāhicarmaśakṛtaḥ kleśāya savyādhitāḥ/
+mattonmattajaḍīkṛtāndhavadhirakṣutkṣāmatakrārayo
+muṇḍābhyaktavimuktakeśapatitāḥ kāṣāyinaś cāśubhāḥ// TY_9.15
+
+paṭupaṭahamṛdaṅgaśaṅkhabherīpaṇavaravaṃ sapatākatoraṇāgram/
+pracurakusumatoyaśāntareṇuṃ surabhisuveṣajanaṃ bhajec ca mārgam// TY_9.16
+
+yāny atra maṅgalāmaṅgalāni nirgacchatāṃ pradiṣṭāni/
+svapneṣv api tāni śubhāśubhāni viḍlepanaṃ dhanyam// TY_9.17
+
+mṛdur anukūlaḥ snigdhapavanaḥ tadvad vīnā(ṇā)ś ca śasyante/
+lalāṭaṃ dhanur athendraṃ(nuraindraṃ)na śubhadam anyatra śastaṃ(sta)phalam// TY_9.18
+
+punnāmāna(naḥ)chuchu(cchu)gṛhagodhikapiṃgalā(lāḥ) śivā śyāmā/
+kokilaśūkarikā(ka)ralā(lāḥ)prasthāne vāmataḥ śastāḥ// TY_9.19
+
+strīsaṃjñā bhāsabhaṣaka(ka)piñjalāplavakambukiṃtsakā(?)/
+śikhiśrīkaṣṭhapayīka(pippīka)ruruśyenāś ca dakṣiṇāṅga(lacuna)// TY_9.20
+
+bhāradvājamayū(ra)cāpanakulāvalokanaṃ dhanyaḥ(nyam)/
+godhāhirapa(?)jāhakasaraṭā(ṭa)śaśānām aniṣṭaphalam// TY_9.21
+
+kīrtanam iṣṭaṃ cāṣakaśaśagodhāhisūkara(godhāsūkarāhi)jātīnām/
+rutadarśanaṃ tv adhanyaṃ viparītaṃ vānararkṣānāṃ(ṇām)// TY_9.22
+
+mṛgavihagā śasyante pradakṣiṇaṃ viṣamasaṃkhyayā ca mṛgāḥ/
+nṛpadarśane gamaṇa(na)vat tadviparītā praveśe tu// TY_9.23
+
+ākṣepaśīlaḥ pu(pa)ruṣāvi(bhi)dhāyī viraktabhṛtyaḥ paradāragāmī/
+lubdho 'sahāyo vyasanī kṛtaghnaḥ sthitiprabhettā karaśīrṇarāṣṭraḥ// TY_9.24
+
+visrambhahā krodhavaśe(śo) nṛśaṃse(saḥ) kṣudrā(draḥ) pramādī na bahuśrutā(ta)ś ca/
+divyāntarikṣakṣitijau(jai)r vikārair nipīḍito (yaś ca) sa daivahīnaḥ// TY_9.25
+
+ato viparyastaguṇena rājñā tādṛgvidho 'ris tv abhiyuktamātraḥ/
+tarur ghuṇair jagdha ivāttakāryo mahān api kṣipram upaiti bhaṅgāḥ(ṅgam)// TY_9.26
+
+tadviṣṭapravaranarapratāpahīnā nī(niḥ)śauryā varavāraṇāśvayodhamukhāḥ(khyāḥ)/
+sotpātaprakṛtiviparyā(rya)yāna(nu)yātā śokārttā ripubalam āśuryā(yā)ti senāḥ(nā)// TY_9.27
+
+saṃgrāme va(ya)m amara(dvija)prasādā(t) jyeṣyāmo ripubalam āśv asaṃśayena/
+yasye(syai)vaṃ bhavati bale janapravādāḥ(daḥ) svalpo 'pi pravarabalaṃ nihanti rājā// TY_9.28
+
+puraṃ ripor bhūmipatini(rni)hanyāc chatror aniṣṭagrahadiṭi(ṅni)viṣṭiḥ(ṣṭaḥ)/
+yuddhasya yātrāsama eva kālaḥ kū(krū)reṣu lagneṣu ca kūṭāyudhaḥ(kūṭayuddhaṃ)// TY_9.29
+
+antarmukhāḥ paurabhayaṃ vihaṅgāḥ pra(prā)kārasaṃsthā vinivedayanti/
+āgantunāśāya bahirmukhās te tulyaṃ vihaṅgaiḥ saramātmajau(jā)ś ca// TY_9.30
+
+ketūlkārkajarāhukīlakakujā bimbapraviṣṭā yataḥ
+sūryendvoḥ pariveṣakhaṇḍam athavā dṛśyeta yasyāṃ diśi/
+kroṣṭuśvātti(hi)pipīlikāśaśamṛgadhākṣa(dhvāṅkṣā)dayo vā pure
+sainye vāpi yato viśanti hi tataḥ śatro(troḥ) puraṃ ghātayet// TY_9.31
+
+pātālarkṣe rāhuketvo(tvoḥ) pure 'reto(s to)yocchittiḥ sālapātaś ca kāryaḥ/
+jāmitrasthe bhūmijā(je ')syāṃśake vā putreṇendor vīkṣite 'gniḥ pradeyaḥ// TY_9.32
+
+paraviṣayapurāptau sādhudevadvijasvāṃ(jasvaṃ)
+kulajanavanitāṃ(tā)ś ca kṣmādhipo noparundhyāt/
+vigajatura(ga)śastrānā(nn ā)rtabhītāṃ(tā)ś ca hanyāc
+chubhatithidivasarkṣe hṛṣṭasainye(nyo) viśet tu// TY_9.33
+
+digdāhakṣatajarajo 'śmavṛṣṭipātaiḥ nirghātakṣiticalanādivaikṛtaiś ca/(
+yuddhānte mṛgaśakunaiś ca dīptanādaiḥ no bhadraṃ bhavati jite pari('pi) pārthivasya// TY_9.34
+
+śubhā mṛgapatatriṇo mṛdusamīraṇo da(drop da)hlādakṛta(t)
+grahāḥ sthūṭā(sphuṭa)marīcayo dvi(vi)gatareṇudinda(lacuna)laḥ(diṅmaṇḍalaṃ)/
+yad anyam a(da)pi vikṛtai(taṃ) na vijayāvasāne bhavet
+tadā sukham akaṇṭakaṃ nṛpatir atti deśe ripuḥ(ripoḥ)//e35 TY_9.35

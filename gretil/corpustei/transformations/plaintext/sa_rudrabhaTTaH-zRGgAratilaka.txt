@@ -1,0 +1,1143 @@
+Rudrabhaṭṭaḥ: Śṛṅgāratilaka
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_rudrabhaTTaH-zRGgAratilaka.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: n.n.
+## Contribution: n.n.
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Kavyamala (1st series), vol. III (Calcutta, 1887), pp. 111-152.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Śṛṅgāratilaka = ST,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from srngt_vu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Rudrabhatta: Srngaratilaka
+The following text is based on Kavyamala (1st series),
+vol. III (Calcutta, 1887), pp. 111-152.
+TEXT WITH PADA MARKERS
+Pada markers:
+1: $
+2: &
+3: %
+4: // n.n //
+Marker for Arya stanzas:
+ // n.n //@
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+
+rudrabhaṭṭaḥ: śṛṅgāratilakaḥ
+
+
+prathamaḥ paricchedaḥ
+
+śṛṅgārī girijānane sakaruṇo ratyāṃ pravīraḥ smare bībhatso'sthibhir utphaṇī ca bhaya-kṛn mūrtyādbhutas tuṅgayā 
+raudro dakṣa-vimardane ca hasakṛn nagnaḥ praśāntaś cirād itthaṃ sarva-rasāśrayaḥ paśupatir bhūyāt satāṃ bhūtaye // ST_1.1
+
+ākhyāta-nāma-racanā-caturasra-sandhisad-vāg-alaṅkṛti-guṇaṃ sarasaṃ suvṛttam 
+āseduṣām api divaṃ kavi-puṅgavānāṃ tiṣṭhaty akhaṇḍam iha kāvya-mayaṃ śarīram // ST_1.2
+
+kāvye śubhe'pi racite khalu no khalebhyaḥ kaścid guṇo bhavati yadyapi sampratīha 
+kṛpāṃ tathāpi sujanārtham idaṃ yataḥ kiṃ yūkābhayena paridhāna-vimokṣaṇaṃ syāt // ST_1.3
+
+sānanda-pramadā-kaṭākṣa-viśikhair yeṣāṃ na bhinnaṃ mano yaiḥ saṃsāra-samudra-pāta-vidhur eṣv anyeṣu potayitam 
+yair niḥsīma-sarasvatī-vilasitaṃ dvitraiḥ padaiḥ saṃhṛtaṃ teṣām apy upari sphuranti matayaḥ kasyāpi puṇyātmanaḥ // ST_1.4
+
+prāyo nāṭyaṃ prati proktā bharatādyai rasa-sthitiḥ 
+yathāmati mayāpy eṣā kāvyaṃ prati nigadyate // ST_1.5
+
+yāminīvendunā muktā nārīva ramaṇaṃ vinā 
+lakṣmīr iva ṛte tyāgān no vāṇī bhāti nīrasā // ST_1.6
+
+satyaṃ santi gṛhe gṛhe sukavayo yeṣāṃ vacaś cāturī sve harmye kula-kanyakeva labhate jātair guṇair gauravam 
+duṣprāpaḥ sa tu ko'pi kovida-patir yad vāg-rasa-grāhiṇāṃ puṇya-strīva kalākalāpa-kuśalā cetāṃsi hartuṃ kṣamā // ST_1.7
+
+tasmād yatnena kartavyaṃ kāvyaṃ rasa-nirantaram 
+anyathā śāstra-vid goṣṭhyāṃ tat syād udvega-dāyakam // ST_1.8
+
+śṛṅgāra-hāsya-karuṇā raudra-vīra-bhayānakāḥ 
+bībhatsādbhuta-śāntāś ca nava kāvye rasāḥ smṛtāḥ // ST_1.9
+
+ratir hāsaś ca śokaś ca krodhotsāhau bhayaṃ tathā 
+jugupsāvismaya-śamāḥ sthāyi-bhāvāḥ prakīrtitāḥ // ST_1.10
+
+nirvedo'tha tathā glāniḥ śaṅkāsūyā madaḥ śramaḥ 
+ālasyaṃ caiva dainyaṃ ca cintā moho dhṛtiḥ smṛtiḥ // ST_1.11
+
+vrīḍā capalatā harṣa āvego jaḍatā tathā 
+garvo viṣāda autsukyaṃ nidrāpasmāra eva ca // ST_1.12
+
+suptaṃ prabodho'marṣaś cāpy avahitthā tathogratā 
+matir vyādhis tathonmādas tathā maraṇam eva ca // ST_1.13
+
+trāsaś caiva vitarkaś ca vijñeyā vyabhicāriṇaḥ 
+trayastriṃśad ime bhāvāḥ prayānti ca rasa-sthitim // ST_1.14
+
+stambhaḥ svedo'tha romāñcaḥ svara-bhaṅgo'tha vepathuḥ 
+vaivarṇyam aśru pralaya ity aṣṭau sāttvikāḥ smṛtāḥ // ST_1.15
+
+bhāvā evātisampannāḥ prayānti rasatām amī 
+yathā dravyāṇi bhinnāni madhurādi-rasātmanām // ST_1.16
+
+sambhavanti yathā vṛkṣe puṣpa-patra-phalādayaḥ 
+tadvad rase'pi rucirā viśeṣā bhāva-rūpiṇaḥ // ST_1.17
+
+prāyo naikarasaṃ kāvyaṃ kiñcid atropalabhyate 
+bāhulyena bhaved yas tu sa tad-vṛttyā nigadyate // ST_1.18
+
+kaiśiky-ārabhaṭī caiva sātvatī bhāratī tathā 
+catasro vṛttayo jñeyā rasāvasthāna-sūcakāḥ // ST_1.19
+
+dharmād artho'rthataḥ kāmaḥ kāmāt sukha-phalodayaḥ 
+sādhīyān eṣa tat-siddhyai śṛṅgāro nāyako rasaḥ // ST_1.20
+
+ceṣṭā bhavati puṃ-nāryor yā raty-utthātiriktayoḥ 
+saṃyogo vipralambhaś ca śṛṅgāro dvividho mataḥ // ST_1.21
+
+saṃyuktyoś ca saṃyogo vipralambho viyuktayoḥ 
+pracchannaś ca prakāśaś ca punar eṣa dvidhā yathā // ST_1.22
+
+madana-kuñjara-kumbha-taṭopame stana-yuge paritaḥ sphuritāṅgulim 
+sakaraja-kṣata-vāmam api priyā dayita-pāṇim amanyata dakṣiṇam // ST_1.22a
+
+santaptaḥ smra-saṃniveśa-vivaśaiḥ śvāsair muhuḥ pañcamodgārāvartibhir āpatadbhir abhitaḥ siktaś ca netrāmbubhiḥ 
+etasyāḥ priya-viprayoga-vidhuras tyaktvādharo rāgitāṃ sampraty uddhata-vahni-vāri-viṣamaṃ manye vrataṃ sevate // ST_1.22b
+
+kānte vicitra-surata-krama-baddha-rāg saṅketake'pi mṛga-śāvaka-locanāyāḥ 
+tat-kūjitaṃ kim api yena tadīya-talpaṃ nālpaiḥ parītam anuśabditalāvakaughaiḥ // ST_1.22c
+
+kiñcid vakrita-kaṇṭha-kandala-dalat-pīna-stanāvartanavyāyāṃ cita-kañcukaṃ mṛga-dṛśas tasyās tad-ālokitam 
+vācas tāś ca vidagdha-bhāva-caturāḥ sphārībhavan manmathā haṃho mānasa kiṃ smarasy abhimatāḥ siddhyanti puṇyaiḥ kriyāḥ // ST_1.22d
+
+tyāgī kulīnaḥ kuśalo rateṣu kalpaḥ kalāvit taruṇo dhanāḍhyaḥ 
+bhavyaḥ kṣamāvān subhago'bhimānī strīṇām abhīṣṭas tv iha nāyakaḥ syāt // ST_1.23
+
+tasyānukūla-dakṣiṇa-śaṭha-dhṛṣṭā ittham atra catvāraḥ &
+bhedāḥ kriyayocyante tad-udāhṛtayaś ramaṇīyāḥ // ST_1.24
+
+atiraktatayā nāryā sadā tyakta-parāṅganaḥ &
+sītāyāṃ rāmavat so'yam anukūlaḥ smṛto yathā // ST_1.25
+
+asmākaṃ sakhi vāsasī na rucire graiveyakaṃ nojjvalaṃ no vaktrā gatir uddhataṃ na hasitaṃ naivāsti kaścin madaḥ 
+kiṃ tv anye'pi janā vadanti subhago'py asyāḥ priyo nānyato dṛṣṭiṃ niḥkṣipatīti viśvam iyatā manyāmahe duḥkhitam // ST_1.25a
+
+yo gauravaṃ bhayaṃ prema sad-bhāvaṃ pūrva-yoṣiti 
+na muñcaty anya-citto'pi jñeyo'sau dakṣiṇo yathā // ST_1.26
+
+saivāsya praṇatis tad eva vacanaṃ tā eva keli-kriyābhītiḥ saiva tad eva narma-madhuraṃ pūrvānurāgocitam 
+kāntasyāpriya-kāriṇīti bhavatī taṃ vakti doṣābilaṃ kiṃ syād ittham aharniśaṃ sakhi mano dolāyate cintayā // ST_1.26a
+
+priyaṃ vakti puro'nyatra vipriyaṃ kurute bhṛśam 
+jñātāparādha-ceṣṭaś ca kuṭilo'sau śaṭho yathā // ST_1.27
+
+sahaja-tarale āvāṃ tāvad-bahu-śruti-śālinau punar iha yuvāṃ satyaṃ śiṣṭaṃ tad atra kṛtāgasi 
+praṇayini punar yuktaṃ rantuṃ na veti batāvayordhruvam upagate karṇau praṣṭuṃ kuraṅga-dṛśau dṛśau // ST_1.27a
+
+api ca-
+
+kopāt kiñcid upānato'pi rabhasād ākṛṣya keśeṣv alaṃ nītvā mohana-mandiraṃ dayitayā hāreṇa bahvā dṛḍham 
+bhūyo yāsyasi tad-gṛhān iti muhuḥ kaṇṭhāruddhākṣaraṃ jalpantyā śravaṇotpalena sukṛtī kaścid rahas tāḍyate // ST_1.27b
+
+niḥśaṅkaḥ kṛta-doṣo'pi vilakṣas tarjito'pi no 
+mithyā-vāg-dṛṣṭa-doṣo'pi dhṛṣṭo'sau kathito yathā // ST_1.28
+
+jalpantyāḥ paruṣaṃ ruṣā mama balāc cumbaty asāv ānanaṃ mṛd-gātyāśu karaṃ kareṇa bahuśaḥ santāḍyamāno'pi san 
+ālīnāṃ purato dadhāti śirasā pāda-prahārāṃs tato no jāne sakhi sāmprataṃ praṇayien kupyāmi tasmai katham // ST_1.28a
+
+api ca-
+
+dhik tvām dhūrta gata-trapa praṇayinī saiva tvayārādhyatā yasyāḥ pāda-talāhatiṃ tava hṛdi vyākhyāty asau yāvakaḥ 
+ity ukto'pi na nāma muñcati yadā pādāv ayaṃ durjano mithyāvāda-vicakṣaṇaḥ kim aparaṃ kuryāṃ vayasye tadā // ST_1.28b
+
+gūḍha-mantraḥ śucir vāgmī bhakto narma-vicakṣaṇaḥ 
+syān narma-sacivas tasya kupitas-strī-prasādakaḥ // ST_1.29
+
+pīṭha-mardo viṭaś ceti vidūṣaka iti tridhā 
+sa bhavet prathamas tatra nāyikā-nāyakānugaḥ // ST_1.30
+
+ekavidyo viṭaḥ proktaḥ krīḍā-prāyo vidūṣakaḥ 
+sva-vapur-veṣa-bhāṣābhir hāsyakārī ca narmavit // ST_1.31
+
+eṣāṃ prabandha-viṣayo vyavahāraḥ prāyaśo bhavet pracuraḥ &
+pratyekam udāhṛtas tathāpi kāścin nigadyante // ST_1.32
+
+vimuñcāmuṃ mānaṃ saphalaya vacaḥ sādhu suhṛdāṃ mudhā santāpena glapayasi kim aṅgaṃ smara-bhuvā 
+priyaṃ pāda-prānta-praṇatam adhunā mānaya bhṛśaṃ na mugdhe pretyetuṃ prabhavati gataḥ kāla-hariṇaḥ // ST_1.32a
+
+praṇayini bhṛśaṃ tasmin mānaṃ manasvini mā kṛthāḥ kim aparam ito yuktāyuktair vinā hy amunā tava 
+ayam api bhavet sampraty api kṣayānala-saṃnibhaḥ sarasa-visinī-kanda-ccheda-cchavir mṛga-lāñchanaḥ // ST_1.32b
+
+dūrāt kandalitair hṛdi pravitataiḥ kaṇṭhe luṭhadbhir haṭhā vaktre saṅkaṭa-nāsikā-taralitair niryadbhir atyūṣmabhiḥ 
+niḥśvāsaiḥ pṛthu-manmathottha-davathur vyaktaṃ tavāvedito mthyālambita-sauṣṭhavena kim ataḥ kopena kāntaṃ prati // ST_1.32c
+
+svakīyā parakīyā ca sāmānya-vanitā tathā 
+kalākalāpa-kuśalās tisras tasyeha nāyikāḥ // ST_1.33
+
+paurācāraratā sādhvī kṣamārjava-vibhūṣitā 
+mugdhā madhyā pragalbhā ca svakīyā trividhā matā // ST_1.34
+
+mugdhā nava-vadhūs tatra nava-yauvana-bhūṣitā 
+navānaṅga-rahasyāpi lajjā-prāya-ratir yathā // ST_1.35
+
+gataṃ karṇābhyarṇe prasarati tathāpy akṣi-yugalaṃ kucau kumbhārambhau tad api cibukottambhana-rucī 
+nitamba-prāg-bhāro gurur api gurutvaṃ mṛgayate kathaṃcin no tṛptis taruṇimani manye mṛga-dṛśaḥ // ST_1.35a
+
+yathā romāñco'yaṃ stana-bhuvi lasat-sveda-kaṇiko yathā dṛṣṭis tiryak patati sahasā saṅkucati ca 
+tathā śaṅke'muṣyāḥ praṇayini darāsvādita-rasaṃ na madhyasthaṃ cetaḥ praguṇa-ramaṇīyaṃ na ca dṛḍham // ST_1.35b
+
+virama nātha vimuñca mamāñcalaṃ śamaya dīpam iyaṃ samayā sakhī 
+iti navoḍha-vadhū-vacasā yuvā mudam agād adhikāṃ suaratād api // ST_1.35c
+
+sa-kampā cumbane vaktraṃ haraty eṣopagūhitā 
+parāvṛtya ciraṃ talpa āste rantuṃ ca vāñchati // ST_1.36
+
+apaharati yadāsyaṃ cumbane śliṣyamāṇā valati ca śayanīye kampate ca prakāmam 
+vadati ca yad alakṣyaṃ kiñcid uktāpi bhūyo ramayati sutarāṃ tac-cittam antar navoḍhā // ST_1.36a
+
+mugdhām āvarjayaty eṣa mṛdūpāyena sāntvayan 
+nātibhītikarair bhāvaair nibandhair bāla-bhīṣakaiḥ // ST_1.37
+
+sarati saras-tīrād eṣā bhramad-bhramarāvalī sumukhi vimukhī padme manye tavāsyapipāsayā 
+iti nigadite kiñcid bhītyā vivartita-kandharā vadana-kamale bhartrā bālā ciraṃ paricumbitā // ST_1.37a
+
+anyāṃ niṣevamāṇe'pi yadi kupyati sā priye 
+rodity asyāgrataḥ svalpam anunītā ca tuṣyati // ST_1.38
+
+manyau kṛte prathamam eva vikāram anyaṃ no jānatī nava-vadhū rudatī paraṃ sā 
+dhūrtena locana-jalaṃ parimṛjya gāḍhaṃ saṃcumbya cādhara-dale gamitā prasādam // ST_1.38a
+
+ārūḍha-yauvanā madhyā prādubhūta-manobhavā 
+pragalbha-vacanā kiñcid vicitra-suratā yathā // ST_1.39
+
+tarat-tāraṃ cakṣuḥ kṣapayati munīnām api dṛśaḥ kuca-dvandvākrāntaṃ hṛdayam ahṛdaḥ kānna kurute 
+gatir mandībhūtā harati gamanaṃ manmathavatāmaho tanvyās tulyaṃ taruṇimani sarvaṃ vijayate // ST_1.39a
+
+dṛṣṭiḥ snihyati nirbharaṃ priyatame vaidagdhya-bhājo giraḥ pāṇiḥ kuntala-mālikā-viracane tyaktānya-kārya-grahaḥ 
+vakṣaḥ saṃvriyate punaḥ punar idaṃ bhārālasaṃ gamyate jātā subhru manoramā tava daśā kasmād akasmād iyam // ST_1.39b
+
+subhaga kuravakas tvaṃ no kim āliṅganoktiḥ kim u mukhamadirecchuḥ kesaro no hṛdisthaḥ 
+tvayi niyatam aśoke yujyate pādaghātaḥ priyam iti parihāsāt peśalaṃ kācid ūce // ST_1.39c
+
+kānte tathā katham api prathitaṃ mṛgākṣyā cāturyam uddhata-manobhavayā rateṣu 
+tat-kūjitāny anuvadadbhir aneka-vāraṃ śiṣyāyitaṃ gṛha-kapota-śatair yathāsyāḥ // ST_1.39d
+
+gāḍhaṃ vyāpriyate kāntaṃ ibatīva ratāv iyam 
+viśatīva tad-aṅgeṣu muhyatīva sukhe yathā // ST_1.40
+
+kṛtvāneka-vidhāṃ rasena surate keliṃ kathañcic cirātprāptāntaḥ sukha-mīlitākṣi-yugalā svidyat kapola-sthalī 
+supteyaṃ kila sundarīti subhagaḥ svairaṃ tathaivāsvajadgāḍhānaṅga-vimarda-niḥsaha-vapur-nidrāṃ sahaivāgataḥ // ST_1.40a
+
+sā dhīrā vakti vakroktyā priyaṃ kopāt kṛtāgasam 
+madhyā rodity upālambhair adhīrā paruṣaṃ yathā // ST_1.41
+
+upetya tāṃ dṛḍha-parirambha-lālasaścirād abhūḥ pramupita-cāru-candanaḥ 
+dhṛtāñjanaḥ sapadi tad-akṣi-cumbanādihaiva te priya viditā kṛtārthatā // ST_1.41a
+
+yatrārkāyitam indunā sarasijair aṅgāra-puñjāyitaṃ kruddhāyāṃ mayi nātha te kadalikākāṇḍair alātāyitam 
+kālo'nyaḥ khalu ko'pi so'mṛtamayo jāto viṣātmādhunā dhik tvāṃ dhūrta viniryad-aśrur abalā mohaṃ rudantī gatā // ST_1.41b
+
+sārdhaṃ manoratha-śatais tava dhūrta kāntā saiva sthitā manasi kṛtrima-bhāva-ramyā 
+asmākam asti na hi kaścid ihāvakāśas tasmāt kṛtaṃ caraṇa-pāta-viḍambanābhiḥ // ST_1.41c
+
+labdhāyatiḥ pragalbhā syāt samasta-rati-kovidā 
+ākrānta-nāyikā bāḍhaṃ virājad-vibhramā yathā // ST_1.42
+
+seyaṃ paraṅginī mṛṇāla-latikām ādāya yasyāḥ priyo hāraṃ me kurute payodhara-taṭe pratyagra-tārā-rucam 
+bandhūkaṃ ca tad etad āli vidalad yat tena sīmantitaṃ sarvāśā-vijigīṣu-puṣpa-dhanuṣo bāṇa-śriyaṃ dhāsyati // ST_1.42a
+
+yatra sveda-lavair alaṃ vlulitair vyālupyate candanaṃ svacchandair maṇitaiś ca yatra raṇitaṃ nihnūyate nūpuram 
+yatrāyānty acireṇa sarva-viṣayāḥ kāmaṃ tad-ekāgratāṃ sakhyas tat-surataṃ bhaṇāmi rataye śeṣā tu loka-sthitiḥ // ST_1.42b
+
+svāmin bhaṅgurayālakaṃ sa-tilakaṃ bhālaṃ vilāsin kuru prāṇeśa truṭitaṃ payodhara-taṭe hāraṃ punar yojaya 
+ity uktvā suratāvasāna-sukhitā sampūrṇa-cadnrānanā spṛṣṭā tena tatheti jāta-pulakā prāptā punar mohanam // ST_1.42c
+
+madhura-vacanaiḥ sa-bhrū-bhaṅgaiḥ kṛtāṅguli-tarjanai ralasa-valitair aṅga-nyāsair mahotsava-bandhubhiḥ 
+asakṛd asakṛt sphāra-sphārair apāṅga-vilokitaistribhuvana-jaye sā pañceṣoḥ karoti sahāyatām // ST_1.42d
+
+nirākulā ratāv eṣā dravatīva priyāṅgake 
+ko'yaṃ kāsmi rataṃ kiṃ vā na vetti ca rasād yathā // ST_1.43
+
+dhanyās tāḥ sakhi yoṣitaḥ priyatame sarvāṅga-lagne'pi yāḥ prāgalbhyaṃ prathayanti mohana-vidhāv ālambya dhairyaṃ mahat 
+asmākaṃ tu tadīya-pāṇi-kamale'py unmocayaty aṃśukaṃ ko'yaṃ kā vayam atra kiṃ nu surataṃ naiva smṛtir jāyate // ST_1.43a
+
+kṛta-doṣe'pi sādhīrā tasmin nādriyate ruṣā 
+ākāra-saṃvṛtiṃ cāpi kṛtvodāste ratau yathā // ST_1.44
+
+yad vācaḥ pracuropacāra-caturā yat sādaraṃ dūrataḥ pratyutthānam idaṃ svahasta-nihitaṃ yad-bhinnam apy āsanam 
+utpaśyāmi yad evam eva ca muhur dṛṣṭiṃ sakhī-saṃmukhīṃ tac chaṅke tava paṅkajākṣi balavān ko'py aprasādo mayi // ST_1.44a
+
+yat pāṇir na nivārito nivasana-granthiṃ saumudgranthayanbhrū-bhedo na kṛto manāg api muhur yat-khaṇḍyamāne'dhare 
+yan niḥśaṅkam ivārpitaṃ vapur aho patyuḥ samāliṅgane māninyā kathito'nukūla-vidhinā tenaiva manyur mahān // ST_1.44b
+
+madhyā pratibhinatty enaṃ solluṇṭhaṃ sādhu-bhāṣitaiḥ 
+adhīrā puruṣair hanti santarjya dayitaṃ yathā // ST_1.45
+
+kṛtaṃ mithyā-jalpair virama viditaṃ kāmuka cirāt priyāṃ tām evoccair abhisara yadīyair nakha-padaiḥ 
+vilāsaiś ca prāptaṃ tava hṛdi padaṃ raga-bahulair mayā kiṃ te kṛtyaṃ dhruvam akuṭilācāra-parayā // ST_1.45a
+
+sā bāḍhaṃ bhavatekṣiteti niviḍaṃ saṃyamya bāhvoḥ srajā bhūyo drakṣyasi tāṃ śaṭheti dayitaṃ saṃtarjya saṃtarjya ca 
+ālīnāṃ pura eva nihnuti-paraḥ kopād raṇan-nūpuraṃ māninyā caraṇa-prahāra-vidhinā preyān aśokīkṛtaḥ // ST_1.45b
+
+ekākārā matā mugdhā punarbhūś ca yato'nayoḥ 
+atisūkṣmatayā bhedaḥ kavibhir na pradarśitaḥ // ST_1.46
+
+madhyā punaḥ pragalbhā ca dvidhā sā paribhidyate 
+ekā jyeṣṭhā kaniṣṭhānyā nāyaka-praṇayaṃ prati // ST_1.47
+
+uparodhāt tathā snehāt sānurāgo'pi nāyakaḥ 
+ceṣṭate tāṃ prati prāyaḥ kalāsu kuśalo yathā // ST_1.48
+
+tvad-akṣiṇī kuvalaya-buddhir atyalī ruṇadhmy ahaṃ tad iti nimīya locane 
+tato bhṛśaṃ pulakita-gaṇḍa-maṇḍalāṃ yuvā parāṃ nibhṛtam acumbad aṅganām // ST_1.48a
+
+sampattau ca vipattau ca maraṇe'pi na muñcati 
+yā svīyā tāṃ prati prema jāyate puṇya-kāriṇaḥ // ST_1.49
+
+anyadīyā dvidhā proktā kanyoḍhā ceti te priye 
+darśanāc chravaṇād vāpi kāmārte bhavato yathā // ST_1.50
+
+kim api lalitaiḥ snigdhaiḥ kiñcit kim apy atikuñcitaiḥ kim api valitaiḥ kandarpeṣūn hasadbhir ivekṣaṇaiḥ 
+abhimata-mukhaṃ vīkṣāṃ cakre navāṅganayā tathā lalita-kuśalo'py ālīloko yathātivisismaye // ST_1.50a
+
+niśamayya bahir manoharaṃ svaram aikṣiṣṭa tathāparā yā &
+tila-mātrakam apy abhūn nahi śraveṇendīvara-locanānantaram // ST_1.50b
+
+kasyāścit subhaga iti śrutaś ciraṃ yas taṃ dṛṣṭvādhigata-rater nirmīlitākṣyāḥ 
+nispandaṃ vapur avalokya sauvidallāḥ santepur vidhuradhiyo niśānta-vadhvāḥ // ST_1.50c
+
+kārśya-jāgara-tāpānyaḥ karoti śruto'py alam 
+tam eva durlabhaṃ kāntaṃ cetaḥ kasmād didṛkṣase // ST_1.50d
+
+sākṣāc citre tathā svapne tasya syād darśanaṃ tridhā 
+deśe kāle ca bhaṅgyā ca śravaṇaṃ cāsya tad yathā // ST_1.51
+
+satyaṃ santi gṛhe gṛhe priyatamā yeṣāṃ bhujāliṅganavyāpārocchalad-accha-mohana-jalā jāyanta eṇīdṛśaḥ 
+preyān ko'py aparo'yam atra sukṛtī dṛṣṭe'pi yasmin vapuḥ svedojjṛmbhaṇa-kampa-sādhvasa-mukhaiḥ prāpnoti kāñcid dṛśām // ST_1.51a
+
+citraṃ citra-gato'py eṣa mamāli madanopamaḥ 
+samunmūlya balāl lajjām utkaṇṭhayati mānasam // ST_1.51b
+
+mugdhā svapna-samāgate priyatame tat-pāṇi-saṃsparśanādromāñcārcitayā śarīra-latayā saṃsūcya kopāt kila 
+mā māṃ vallabha saṃspṛśeti sahasā śūnyaṃ vadantī muhuḥ sakhyā no hasitā sacintam asakṛt saṃśocitā pratyuta // ST_1.51c
+
+sphāra-sphurat-pradīpaṃ saudhaṃ madhu sotpalaṃ kalaṃ gītam 
+priya-sakhi sakalam idaṃ tava saphalaṃ khalu yadi bhavet so'tra // ST_1.51d
+
+vikasati kairava-nikare sarati ca sarasī-samīraṇo sutanu &
+cambaty ambaram indau tava tena vinā ratiḥ kīdṛk // ST_1.51e
+
+ajananir astu dṛśos tava kucayor abhava-niralaṃ bhavatu &
+yadi dṛśyate na sa yuvā nirbharam āliṅgyate no vā // ST_1.51f
+
+draṣṭuṃ vaktuṃ ca no kanyā raktā śaknoty amuṃ sphuṭam 
+paśyantam abhijalpantaṃ vivikte'pi hriyā yathā // ST_1.52
+
+kāmaṃ na paśyati didṛkṣata eva bhūmnā noktāpi jalpati vivakṣati cādareṇa 
+lajjā-smara-vyatikareṇa mano'dhināthe bālā rasāntaram idaṃ lalitaṃ bibharti // ST_1.52a
+
+vijñāta-nāyikā-cittā sakhī vadati nāyakam 
+nāyako vā sakhīṃ tasyāḥ premābhivyaktaye yathā // ST_1.53
+
+kaṇṭakita-tanu-śarīrā lajjā-mukulāyamāna-nayaneyam &
+tava kumudinīva vāñchati nṛ-candra bālā kara-spṛśam // ST_1.53a
+
+santāpayanti śiśirāṃśu-ruco yad ete saṃmohayanti ca vinidra-saroja-vātāḥ 
+yat khidyate tanur iyaṃ ca tad eṣa doṣaḥ sakhyās tavaiva sutanu pracura-trapāyāḥ // ST_1.53b
+
+apaśyantaṃ ca sā kāntaṃ sphāritākṣī nirīkṣyate 
+dūrād ālokayaty eva sakhīṃ svajani nirbharam // ST_1.54
+
+nirnimittaṃ hasantī ca sakhīṃ vadati kiṃcana 
+savyājaṃ sundaraṃ kiñcid gātram āviṣkaroti ca // ST_1.55
+
+sakhyādi sthāpitāṃ mālāṃ kāñcyādi racayet punaḥ 
+ceṣṭāṃ ca kurute ramyām aṅga-bhaṅgaiḥ śubhair yathā // ST_1.56
+
+abhimukha-gate yasminn eva priye bahuśo vadatyavanata-mukhaṃ tūṣṇīm eva sthitaṃ mṛga-netrayā 
+atha kila valal-līlālokaṃ sa eṣa tathekṣitaḥ katham api yathā dṛṣṭā manye kṛtaṃ śruti-laṅghanam // ST_1.56a
+
+tiryag-vartita-gātra-yaṣṭi-viṣamodvṛtta-stanāsphālanatruṭyan-mauktika-mālayā sa-pulaka-svedollasad-gaṇḍayā 
+dūrād eva vilokayety abhimate tad vaktra-dattekṣaṇaṃ durvāra-smarayā tayā sahacarī gāḍhaṃ samāliṅgitā // ST_1.56b
+
+animittaṃ yad vihasati niṣkāraṇam eva yat sakhīṃ vadati &
+dayitaṃ vilokya tad iyaṃ śaṃsati tad adhīnam ātmānam // ST_1.56c
+
+prāduṣyad-ruja-mūla-kānti-lalitām udyamya dor-vallarīṃ valgat-pīna-payodhara-sthala-lulan-muktāvalī-sundaram 
+aṅgulyā pracalat-karāgra-valaya-svānopahūta-smaraṃ tanvyāḥ kuñcita-locanaṃ vijayate tat-karṇa-kaṇḍūyanam // ST_1.56d
+
+sraho'vataṃsaṃ raśanāṃ ca kiñci priyaṃ samālokya samāsajantī 
+punastarāṃ sā suhṛdo dadāti pratyaṅgam āvāsam iva smarasya // ST_1.57
+
+vyājṛmbhaṇonnamita-danta-mayūkha-jālavyālambi-mauktika-guṇaṃ ramaṇe mudeva 
+ūrdhvaṃ milad-bhuja-latā-valaya-prapañcasat-toraṇaṃ hṛdi viśaty aparā vyudāse // ST_1.57a
+
+anyoḍhāpi karoty eva sarvam uddhata-manmathā 
+duravasthā punaḥ kāntam abhiyuṅkte svayaṃ yathā // ST_1.58
+
+ullaṅghyāḹ sakhī-vacaḥ samucitām utsṛjya lajjām alaṃ hitvā bhītibharaṃ nirasya ca nijaṃ saubhāgya-garvaṃ manāk 
+ājñāṃ kevalam eva manmatha-guror ādāya nūnaṃ mayā tvaṃ niḥśeṣa-vilāsi-varga-gaṇanā-cūḍāmaṇe saṃśritaḥ // ST_1.a
+
+cakṣur mīlati sānandaṃ nitambaḥ prasravaty api 
+vepate ca tanus tanvī tasyās tad-darśane yathā // ST_1.59
+
+mīlan manthara-cakṣuṣā paripatat kāñcī-graha-vyagrayā gāḍānanṅga-bhara-sravatravanayā kampoparuddhāṅgayā 
+sarvāṅgaṃ caṭukārako'py abalayā saṅketake kautukādāstāṃ rantum aho nirīkṣitum api preyān na sambhāvitaḥ // ST_1.59a
+
+nābhiyuṅkte svayaṃ kantyā mugdhatvād duḥsthitāpi tam 
+tad-avasthāṃ tu kāntāya tat-sakhī kathayed yathā // ST_1.60
+
+niḥśvāseṣu skhalati kadalī-bījanaṃ tāpa-sampannetrāmbhobhiś cham iti patitaiḥ sicyate ca stanāntaḥ 
+tasyāḥ kiñcit subhaga tad abhūt tānavaṃ tvad-viyoge yenākasmād valaya-padavīm aṅgulīyaṃ prayāti // ST_1.60a
+
+ananya-śaraṇā svīyā dhanāhāryā parāṅganā 
+asyās tu kevalaṃ prema tenaiṣā rāgiṇāṃ matā // ST_1.61
+
+sāmānyā vanitā veśyā sā dravyaṃ param icchati 
+nirguṇe'pi na vidveṣo na rāgo'syā guṇiny api // ST_1.62
+
+tat-svarūpam idaṃ proktaṃ kaiścid brūmo vayaṃ punaḥ 
+varṇayanty anayā yuktyā tāsām apy anurāgitām // ST_1.63
+
+śṛṅgārābhāsa etāsu na śṛṅgāraḥ kadācana 
+tad-vyāpāro'thavā tāsāṃ smaraḥ kiṃ bhakṣito bakaiḥ // ST_1.64
+
+tasmāt tāsām api kvāpi rāgaḥ syāt kiṃ nu sarvathā 
+dhanārthaṃ kṛtrimair bhāvair grāmyaṃ vyāmohayanti tāḥ // ST_1.65
+
+liṅgī pracchanna-kāmaś ca naraṃmanyaś ca ṣaṇḍakaḥ 
+sukha-prāpta-dhano mūrkhaḥ pitṛ-vittena garvitaḥ // ST_1.66
+
+ity ādīn prathamaṃ grāmyān jñātvākṛṣya ca tad-dhanam 
+apūrvā iva muñcanti tān etās tāpayanti ca // ST_1.67
+
+kintu tāsāṃ kalākelikuśalānāṃ manoramam 
+vismāritāpara-strīkaṃ surataṃ jāyate yathā // ST_1.68
+
+gāḍhāliṅgana-pīḍita-stana-taṭaṃ svidyat-kapola-sthalaṃ sandaṣṭādhara-mukta-sītkṛtam atibhrāmyad-bhru-nṛtyat-karam 
+cāṭu-prāya-vaco-vicitra-bhaṇitair yātai rutaiś cāṅkitaṃ veśyānāṃ dhṛti-dhāma puṣpa-dhanuṣaḥ prāpnoti dhanyo ratam // ST_1.68a
+
+īrṣyā kula-strīṣu na nāyakasya niḥśaṅka-kelir na parāṅganāsu 
+veśyāsu caitad dvitayaṃ prarūḍhaṃ sarvasvam etās tad aho smarasya // ST_1.69
+
+kupyat pināki-netrāgnijvālā-bhasmīkṛtaḥ purā 
+ujjīvati punaḥ kāmo manye veśyāvalokitaiḥ // ST_1.70
+
+ānandayanti yuktyā tāṃ sevitā ghnanti cānyathā 
+durvijñeyāḥ prakṛtyaiva tasmād veśyā viṣopamāḥ // ST_1.71
+
+svādhīna-patikotkā ca tathā vāsaka-sajjikā 
+sandhitā vipralabdhā ca khaṇḍitā cābhisārikā // ST_1.72
+
+proṣita-preyasī caivaṃ nāyikāḥ pūrva-sūcitāḥ 
+tā evātra bhavanty aṣṭāv avasthābhiḥ punar yathā // ST_1.73
+
+yasyā rati-guṇākṛṣṭaḥ patiḥ pārśvaṃ na muñcati 
+vicitra-vibhramāsaktā svādhīna-patikā yathā // ST_1.74
+
+likhati kucayoḥ patraṃ kaṇṭhe niyojayati srajaṃ tilakam alike kurvan gaṇḍād udasyati kuntalān 
+iti caṭu-śatair vāraṃ vāraṃ vapuḥ paritaḥ spṛśan viraha-vidhuro nāsyāḥ pārśvaṃ vimuñcati vallabhaḥ // ST_1.74a
+
+utkā bhavati sā yasyāḥ saṅketaṃ nāgataḥ priyaḥ 
+tasyānāgamane hetuṃ cintayanty ākulā yathā // ST_1.75
+
+kiṃ ruddhaḥ priyayā kayācid athavā sakhyā tayodvejitaḥ kiṃ vā kāraṇa-gauravaṃ kim api yan nādyāgato vallabhaḥ 
+ity ālocya mṛgīdṛśā karatale saṃsthāpya vaktrāmbujaṃ dīrghe niḥśvasitaṃ ciraṃ ca ruditaṃ kṣiptāś ca puṣpa-srajaḥ // ST_1.75a
+
+bhaved vāsaka-sajjāsau sajjitāṅgaratālayā 
+niśityāgamanaṃ bhartur dvārekṣaṇa-parā yathā // ST_1.76
+
+dṛṣṭvā darpaṇa-maṇḍale nija-mukhaṃ bhūṣāṃ manohāriṇīṃ dīpārciḥ-kapiśaṃ ca mohana-gṛhaṃ trasyāt-kuraṅgī-dṛśā 
+evaṃ nau surataṃ bhaviṣyati cirād adyeti sānandayā mandaṃ kānta-didṛkṣayātilalitaṃ dvāre dṛg-āropitṃ // ST_1.76a
+
+nirasto manyunā kānto namann api yayā punaḥ 
+duḥsthitā taṃ vinā sātisandhitābhimatā yathā // ST_1.77
+
+yat-pāda-praṇataḥ priyaḥ paruṣayā vācā sa nirvārito yat-sakhyā na kṛtaṃ vaco jaḍatayā yan-manyur eko dhṛtaḥ 
+pāpasyāsya phalaṃ tad etad adhunā yac candanendu-dyutiprāleyāmbu-samīra-paṅkaja-visair gātraṃ muhur dahyate // ST_1.77a
+
+preṣya dūtīṃ svayaṃ dattvā saṅketaṃ nāgataḥ priyaḥ 
+yasyāstena vinā duḥsthā vipralabdhā tu sā yathā // ST_1.78
+
+yat saṅketa-gṛhaṃ priyeṇa kathitaṃ sampreṣya dūtīṃ svayaṃ tac chūnyaṃ suciraṃ niṣevya sudṛśā paścāc ca bhagnāśayā 
+sthānopāsana-sūcanāya vigalat-sāndrāñjanair locanair bhūmāv akṣaramālikeva likhitā dīrghaṃ rudatyā śanaiḥ // ST_1.78a
+
+kutaścin nāgato yasyā ucite vāsake priyaḥ 
+tad-anāgam asantaptā khaṇḍitā sā matā yathā // ST_1.79
+
+sotkaṇṭhaṃ ruditaṃ sakampam asakṛd yātaṃ sa-bāṣpaṃ ciraṃ cakṣur dikṣu niveśitaṃ sa-karuṇaṃ sakhyā samaṃ jalpitam 
+nāgacchaty ucite'pi vāsaka-vidhau kānte samudvignayā tat tat kiṃcid anuṣṭhitaṃ mṛgadṛśā no yatra vācāṃ gatiḥ // ST_1.79a
+
+yā nirlajjīkṛtā bāḍhaṃ madane madanena ca 
+abhiyāti priyaṃ sābhisāriketi matā yathā // ST_1.80
+
+no bhītaṃ taḍito dṛśā jalamucā tad-darśanākāṅkṣayā no garjir gaṇitā bhṛśaṃ śruti-mukhaṃ tad-vāci saṃcintya ca 
+dhārāpātasamudbhavā na ca matā pīḍā tad-āliṅganaṃ vāñchantyā dayitābhisāraṇa-vidhau tanvyā paraṃ tat-param // ST_1.80a
+
+kutaścit kāraṇādyasyāḥ patir deśāntaraṃ gataḥ 
+dattvāvadhiṃ bhṛśārtā sā proṣita-preyasī yathā // ST_1.81
+
+utkṣipyālaka-mālikāṃ vilulitām āpāṇḍu-gaṇḍa-sthalādviśliṣyad-valaya-prapāta-bhayataḥ prodyamya kiñcit karau 
+dvāra-stambha-niṣaṇṇa-gātra-latikā kenāpi puṇyātmanā mārgālokana-datta-dṛṣṭir abalā tat-kālam āliṅgyate // ST_1.81a
+
+niḥśvāsa-santāpa-sakhī-vacorticintāśru-pātādi-yutāḥ sakhedāḥ 
+vācyā pralabdhāgata-bhartṛkotkātisandhitāḥ khaṇḍitayā sahātra // ST_1.82
+
+vicitra-maṇḍanā hṛṣṭā bhavet svādhīna-bhartṛkā 
+tathā vāsaka-sajjāpi sā kiṃ tv āgantuka-priyā // ST_1.83
+
+kulajānyāṅganā veśyā tridhā syād abhisārikā 
+yathaivoktās tathaivānyāḥ svādhīna-patikādayaḥ // ST_1.84
+
+kulajā saṃvṛtā trastā savrīḍā ca drutaṃ vrajet 
+nāyakaṃ para-nārī ca samantād anavekṣitā // ST_1.85
+
+sakhī-yuktā madādhikyāt sphāritākṣī na śaṅkitā 
+sa-śabdābharaṇā kāmaṃ veśyā sarati nāyakam // ST_1.86
+
+trayodaśa-vidhā svīyā dvividhā ca parāṅganā 
+ekā veśyā punaś cāṣṭāv avasthā-bhedato'tra tāḥ // ST_1.87
+
+punaś ca tās tridhā sarvā uttamā madhyamādhamā 
+itthaṃ śatatrayaṃ tāsām aśītiś catur-uttarā // ST_1.88
+
+doṣānurūpa-kopā yā[a]nunītā ca prasīdati 
+rajyate ca bhṛśaṃ nāthe guṇa-hāryottameti sā // ST_1.89
+
+kānte kiṃ kupitāsi kaḥ para-jane prāṇeśa kopo bhavet ko'yaṃ subhru paras tvam eva dayite dāso'smi kas te paraḥ 
+ity uktvā praṇataḥ priyaḥ kṣititalād utthāpya sānandayā netrāmbhaḥ-kaṇikāṅkite stana-taṭe tanvyā samāropitaḥ // ST_1.89a
+
+doṣe svalpe'pi yā kopaṃ dhatte kaṣṭena muñcati 
+prayāti karuṇād rāgaṃ madhyamā sā matā yathā // ST_1.90
+
+visphāra-sphuritādharāpi vikasad-gaṇḍa-sthala-praskhaladgharmāmbhaḥ-kaṇikāpi bhaṅguratara-bhrū-bheda-bhūṣāpy alam 
+pādāntaḥ-praṇate priye prakaṭayaty antaḥ prasādaṃ priyā keśāramanrūpuṇḍalīṣu valitānunmocayantī śanaiḥ // ST_1.90a
+
+yā kupyati vinā doṣaṃ snihyaty anunayaṃ vinā 
+nirhetuka-pravṛttiś ca cala-cittāpi sādhamā // ST_1.91
+
+yatrādhaḥ-kṛta-kāma-kārmuka-katho bhrāmyad-bhuvor vibhramaḥ sadyaḥ prodgata-candrakānti-jayinī yasmin kapola-cchaviḥ 
+yatra sveda-kaṇāvalupta-mahimā hāro'py uroja-sthale ko'yaṃ mānini mat-praṇāma-vimukhaḥ pratyagra-māna-grahaḥ // ST_1.91a
+
+jāti-kāla-vayovasthābhāva-kandarpa-nāyakaiḥ 
+itarā pay asaṅkhyāḥ syur noktā vistara-bhītitaḥ // ST_1.92
+
+ity ādi sakalaṃ jñātvā svayaṃ cālokya tad-vidām 
+kavīnāṃ ca viśeṣoktyā jñātavyāḥ sakalā imāḥ // ST_1.93
+
+romāñca-vepathu-stambhasveda-netrāmbu-vibhramāḥ 
+vācyāḥ saṃyoga-śṛṅgāre kavinā nāyikāśritāḥ // ST_1.94
+
+sambandhi-mitra-dvija-rāja-tīkṣṇavarṇādhikānāṃ pramadā na gamyāḥ 
+vyaṅgās tathā pravrajitā vibhinnamantrāś ca dharmārtha-manobhava-jñaiḥ // ST_1.95
+
+anena mārgeṇa viśeṣa-ramyaṃ sambhoga-śṛṅgāram imaṃ vitanvan 
+bhavet kavir bhāva-rasānurakto vidagdha-goṣṭhī-vanitā-manojñaiḥ // ST_1.96
+
+iti śrī-rudra-bhaṭṭa-viracite śṛṅgāra-tilakābhidhāne kāvya-rasālaṅkāre sambhoga-śṛṅgāro nāma prathamaḥ paricchedaḥ
+(ST_1)
+
+
+(2) dvitīya-paricchedaḥ
+
+vipralambhābhidhāno'yaṃ śṛṅgāraḥ syāc caturvidhaḥ &
+pūrvānurāgo mānākhyaḥ pravāsaḥ karuṇātmakaḥ // ST_2.1
+
+dampatyor darśanād eva samutpannānurāgayoḥ &
+jñeyaḥ pūrvānurāgo'yam aprāptau ca daśā yathā // ST_2.2
+
+kiṃ candanair racayase nu mṛṇāla-śayyāṃ mā mā mamāli kuru komala-tāla-vṛntam 
+muñcāgrahaṃ vikaca-paṅkaja-yojaneṣu tat-saṅgamaḥ param apākurute smarāgnim // ST_2.2a
+
+yat sārair iva paṅkajasya ghaṭitaṃ yac candra-garbhād iva protkīrṇaṃ yad anaṅga-sāyaka-śikhābhāseva saṃvardhitam 
+yat saṃsicya sudhā-rasair iva rater āsthāna-bhūmīkṛtaṃ tad bhūyo'pi kadā saroruha-dṛśaḥ paśyāmi tasyā mukham // ST_2.2b
+
+mṛṇāla-kadalī-candracandanāmbu-ruhādikam 
+tatrānayoḥ smarātaṅkaśāntaye naiva sevitam // ST_2.3
+
+ālokālāpa-saṃrūḍharāgākulita-cetasoḥ 
+tayor bhaved asaṃprāptau daśāvasthaḥ smaro yathā // ST_2.4
+
+abhilāṣo'tha cintā syāt smṛtiś ca guṇa-kīrtanam 
+udvego'tha pralāpaḥ syād unmādo vyādhir eva ca // ST_2.5
+
+jaḍatā maraṇaṃ caiva daśamaṃ jāyate dhruvam 
+asaṃprāptau bhavanty etās tayor daśa daśā yathā // ST_2.6
+
+vyavasāyo bhaved yatra bāḍhaṃ tat-saṅgamāśayā 
+saṅkalpākula-cittatvāt so'bhilāṣaḥ smṛto yathā // ST_2.7
+
+praviśati yathā gehe'kasmād bahiś ca viceṣṭate vadati ca yathā sakhyā sārdhaṃ sahāsam ihotsukā 
+dayita-vadanāloke mandaṃ yathā ca calaty asau mṛga-dṛśi tathaitasyāṃ manye smareṇa kṛtaṃ padam // ST_2.7b
+
+kathaṃ sa vallabhaḥ prāpyaḥ kiṃ kuryām asya siddhaye 
+kathaṃ bhaved asau vaśya iti cintā matā yathā // ST_2.8
+
+satyaṃ durlabha eṣa vallabhatamo rāgo mamāsmin punaḥ ko'py anyo'sti gurur na cātinipuṇāḥ sakhyo'sya saṃbodhane 
+saṃcintyeti mṛgīdṛśā priyatame dṛṣṭe ślathāṃ mekhalāṃ badhnantyā na gataṃ sthitaṃ na ca galad-vāso na vā saṃvṛtam // ST_2.8a
+
+dveṣo yatrānya-kāryeṣu tad-ekāgraṃ ca mānasam 
+śvāsair manorathaiś cāpi ceṣṭās tāḥ smaraṇaṃ yathā // ST_2.9
+
+induṃ nindati padma-kandala-dalais talpaṃ na vā manyate karpūraṃ kirati prayāti na ratiṃ prāleya-dhārā-gṛhe 
+śvāsaiḥ kevalam eva khedita-tanur dhyāyaty asau bālikā yat tat ko'pi yuvā dhruvaṃ smara-suhṛc-cetasy amuṣāḥ sthitaḥ // ST_2.9a
+
+saundarya-hasitālāpair nāsty anyas tat-samo yuvā 
+iti vāṇī bhaved yatra tad itthaṃ guṇa-kīrtanam // ST_2.10
+
+tad-vaktraṃ hasitendu-maṇḍalam iti sphāraṃ tad-ālokitaṃ sā vāṇī jita-kāma-kārmuka-ravā saundaryam etasya tat 
+itthaṃ saṃtatam āli vallabhatama-dhyāna-prasaktātmanaś cetaś cumbita-kāla-kūṭam iva me kasmād idaṃ muhyati // ST_2.10a
+
+yasmin ramyam aramyaṃ vā na ca harṣāya jāyate 
+pradveṣaḥ prāṇitavye'pi sa udvegaḥ smṛto yathā // ST_2.11
+
+agny-ākāraṃ kalayasi puraś cakravākīva candraṃ baddhotkampaṃ śiśira-marutā dahyase padminīva 
+prāṇān dhatse katham api balād gacchataḥ śalya-tulyāṃstat kenāsau sutanu jantio mānmathas te vikāraḥ // ST_2.11a
+
+bambhramīti mano yasmin ratyautsukyād itas tataḥ 
+vācaḥ priyāśritā eva sa pralāpaḥ smṛto yathā // ST_2.12
+
+itthaṃ tena nirīkṣitaṃ na ca mayāpy evaṃ samālokitas tenoktaṃ subhagena tatra na mayā dattaṃ vaco mandayā 
+tat satyaṃ kathayāli kiṃ sa subhagaḥ kupyen na mahyaṃ gata ity uktvā sudṛśā kayāpi valita-grīvaṃ dṛśau sphārite // ST_2.12a
+
+śvāsa-prarodanotkampavasudhollekhanair api 
+vyāpāro jāyate yatra sa unmādaḥ smṛto yathā // ST_2.13
+
+devīvānimiṣekṣaṇā vilikhati kṣoṇīṃ śvasity uccakaiḥ kiṃcid dhyāyati niścalā ca balavad romāñcitā kampate 
+rodity aṅga-gatāṃ vilokya suciraṃ vīṇām api vyāpṛtā svalpair eva dinair iyaṃ vara-tanuḥ kenāpi saṃśikṣitā // ST_2.13a
+
+santāpa-vedanā-prāyo dīrgha-śvāsa-samākulaḥ 
+tanūkṛta-tanur vyādhir aṣṭamo'yaṃ smṛto yathā // ST_2.14
+
+tāpaḥ śoṣita-candanodaka-rasaḥ śvāsā vikīrṇotpalāḥ karpūrābhibhava-pracaṇḍa-paṭimā gaṇḍa-sthale pāṇḍimā 
+mlāyad-bāla-mṛṇāla-nāla-lalitā prāptā tanus tānavaṃ tanv-aṅgyāḥ kathitaḥ smareṇa guruṇā ko'py eṣa kaṣṭa-kramaḥ // ST_2.14a
+
+akāṇḍe yatra huṃkāro dṛṣṭiḥ stabdhā gatā smṛtiḥ 
+śvāsāḥ samadhikāḥ kārśyaṃ jaḍateyaṃ matā yathā // ST_2.15
+
+dṛṣṭir niścalatārakādhara-dalaṃ śvāsaiḥ kṛtaṃ dhūṣaraṃ prāptaṃ vāsara-candra-bimba-padavīṃ vaktraṃ vinaṣṭā smṛtiḥ 
+huṃkāraḥ param eka eva vacana-sthāne sthitaḥ sāṃprataṃ manye'syāḥ kusumāyudhaḥ sa-śibiraḥ pratyaṅgam āvāsitaḥ // ST_2.15a
+
+upāyair vividhair nāryā yadi na syāt samāgamaḥ 
+kandarpa-śara-bhinnāyā maraṇaṃ jāyate tataḥ // ST_2.16
+
+puṃso'pi hi bhavanty etā daśāvasthā manobhavāt 
+maraṇaṃ kiṃ tv asaundaryāt tayoḥ kaiścin na badhyate // ST_2.17
+
+anye tad api badhnanti pratyujjīvana-kāṅkṣayā 
+vṛttānuvāde tac-chastam utpādye prāyaśo nahi // ST_2.18
+
+ekasmiṃs tu mṛte'py anyo yadi jīvet kathaṃcana 
+kā sneha-gaṇanā tatra mriyate cen na saṅgamaḥ // ST_2.19
+
+pūrvaṃ nārī bhaved raktā pumān paścāt tad iṅgitaiḥ 
+tataḥ saṃbhoga-līleti svabhāva-subhagā sthitiḥ // ST_2.20
+
+anyathāpi na doṣaḥ syād yadi prema samaṃ dvayoḥ 
+raktāparaktā vṛttiś cec chṛṅgārābhāsa eva saḥ // ST_2.21
+
+ayaṃ ca prāyaśas taj-jñair itthaṃ hāsyeṣu badhyate 
+nirdravyeṇa mayā sārdhaṃ veśye mānaya yauvanam // ST_2.22
+
+anurakto bhaved yasyāṃ nāyakas tat-sakhī-janam 
+sāmnā mānena dānena bāḍham āvarjayaty asau // ST_2.23
+
+tasyāgre tat-kathāṃ kurvan svābhiprāyaṃ prakāśayet 
+tad-abhāve prayuñjīta kāścit pravrajitādikāḥ // ST_2.24
+
+tad-dvāreṇa samākhyātasvabhāvo jñāta-tan-manāḥ 
+upacāraiḥ parair lekhaiḥ sādhayet tām atandritaḥ // ST_2.25
+
+tato dṛṣṭvā vivikte tām indrajāla-kalādibhiḥ 
+prayogair lalitaiḥ svairaṃ vismayaṃ paramaṃ nayet // ST_2.26
+
+dhātrī-sakhī-veśmani rātri-cāre mahotsave tīvratame bhaye ca 
+nimantreṇa vyādhi-miṣeṇa śūnye gehe tayor nūtana-saṅgamaḥ syāt // ST_2.27
+
+yadā rāgo guruḥ sā ca labhyate naiva yācitā 
+kṣīṇopāyas tadā kanyāṃ nāyakaḥ sādhayed iti // ST_2.28
+
+para-strī-gamanopāyaḥ kavibhir nopadiśyate 
+sundaraṃ kintu kāvyāṅgam etat tena nidarśyate // ST_2.29
+
+vāmatā durlabhatvaṃ ca strīṇāṃ yā ca nivāraṇā 
+tad eva pañca-bāṇasya manye paramam āyudham // ST_2.30
+
+bahu-mānād bhayād vāpi nṛṇām anyatra yoṣiti 
+pracchanna-kāmitaṃ ramyaṃ satām api bhaved yathā // ST_2.31
+
+jīrṇaṃ tārṇa-kuṭīrakaṃ nivasanaṃ talpīkṛtaṃ sthaṇḍile nīrandhraṃ timiraṃ kiranti salilaṃ garjanta ete ghanāḥ 
+gacchāmīti vadaty asāv api muhuḥ śaṅkākulā kevalaṃ cetaś citram aho tathāpi ramate saṃketake kāminām // ST_2.31a
+
+sa māno nāyikā yasminn īrṣyayā nāyakaṃ prati 
+dhatte vikāram anya-strīsaṅga-doṣa-vaśād yathā // ST_2.32
+
+kiṃcid bāṣpa-jalāvalepa-lalite netre samākuñcite rāgo visphuraṇānubandha-ruciraḥ saṃdarśito gaṇḍayoḥ 
+kampaś cādhara-pallave viracitaḥ kāmaṃ kuraṅgīdṛśā no jāne kim ayaṃ priye prakaṭitaḥ kopo'bhilāṣo'thavā // ST_2.32a
+
+sa prāyaśo bhaved tredhā kāminīnāṃ priyaṃ prati 
+avekṣya doṣam etasya garīyān madhyamo laghuḥ // ST_2.33
+
+partināryāṃ gate kānte svayaṃ dṛṣṭe nakhāṅkite 
+tad-vāso-darśane gotraskhalite ca gurur yathā // ST_2.34
+
+bimboṣṭhaḥ sphurati prayāti paṭutāṃ gaṇḍa-sthale śoṇimā yātas tiryag amū dṛśau ca balavad bhrū-yugmaam udbhrāmyati 
+itthaṃ caṇḍi tathā tavaiṣa ruciraḥ kopa-kramo jṛmbhate jāto'yaṃ praṇatīr apāsya sutarām etad-didṛkṣur yathā // ST_2.34a
+
+dṛṣṭe priyatame rāgād anyayā saha jalpati 
+sakhyākhyāte'thavā doṣe māno'yaṃ madhyamo yathā // ST_2.35
+
+vāco vāgmini kiṃ tavādya paruṣāḥ subhru bhruvor vibhramairviśrāntaṃ kuta eva lola-nayane kiṃ lohite locane 
+svedaḥ kiṃ nu ghanastani stana-taṭe muktā-phalānāṃ tulāṃ dhatte muñca ruṣaṃ mamātra dayite leśo'pi nāsty āgasaḥ // ST_2.35a
+
+savilāsaṃ sphurac-cakṣuḥ vīkṣamāṇe parāṃ priye 
+kiṃcid anya-manaskena jāyate sa laghur yathā // ST_2.36
+
+mām eva tāḍaya nitambini yady akasmāt kopo bhavet tava mukhaṃ tu nijaṃ kim etat 
+ānīyate śaśadharānukṛtiṃ kapolapālīplutena ghana-kajjala-netra-vārā // ST_2.36a
+
+deśa-kāla-balāt kopaḥ prāyaśaḥ sarva-yoṣitām 
+jāyate sukha-sādhyo'yaṃ kṛcchra-sādhyaś ca kāmibhiḥ // ST_2.37
+
+prajvalitojjvala-dīpaṃ rati-gṛham indūjjvalaṃ ca saudhatalam &
+madhu-vidhurī-kṛta-madhu-kara-madhuradhva-nibodhitaṃ ca kamala-vanam // ST_2.38
+
+ity-ādiṣu pradeśeṣu māninī-nāma-saṃśayam 
+manyur gurutaro 'py āśu sukha-sādhyo bhaved yathā // ST_2.39
+
+madhu-samaya-śaśa-dharodaya-kandarpa-madādhikeṣu kāleṣu &
+māno manasvinīnām atisukhasādhyo bhaved bhūmnā // ST_2.40
+
+dūtī-janasya parato laghur api doṣo gurūyate prāyaḥ &
+abhinava-doṣāvasāre tathaiva vanitā-janasya yathā // ST_2.41
+
+sāma dānaṃ ca bhedaḥ syād upekṣā praṇatis tathā 
+tathā prasaṅga-vidhvaṃso daṇḍaḥ śṛṅgāra-hānaye // ST_2.42
+
+tasyāḥ prasādane sadbhir upāyāḥ ṣaṭ prakīrtitāḥ 
+sundarās te nidarśyante sahodāhṛtibhir yathā // ST_2.43
+
+avinīto 'pi pālyo 'haṃ tvayā subhru kṣamābhṛtā 
+iti vāṇī bhaved yatra tatsāmeti nigadyate // ST_2.44
+
+alaṃkārādikaṃ dadyān nāyako yatra tuṣṭaye 
+uddiśya kāraṇaṃ kiṃcid dānaṃ lubdhāsu tad yathā // ST_2.45
+
+yasmin parijanaṃ tasyāḥ samāvarjya prasādataḥ 
+tenaiva labhate kāntāṃ kāntā-bhedaḥ sa ucyate // ST_2.46
+
+prasādana-vidhiṃ tyaktvā vākyair anyārtha-sūcakaiḥ 
+yasmin prasādyate yoṣid upekṣā sā matā yathā // ST_2.47
+
+etat kiṃ nanu karṇa-bhūṣaṇa-mayaṃ hāraḥ sukāñcī navābaddhā kācid iyaṃ tvayādya tilakaḥ ślāghyaḥ priye kalpitaḥ 
+pratyaṅgaṃ spṛśateti tat-kṣaṇa-bhavad-romāñca-mālāñcitātanvī mānam upekṣayaiva śanakair dhūrtena saṃmocitā // ST_2.47a
+
+kevalaṃ dainyam ālambya pāda-pātānnatir matā 
+abhīṣṭā sā bhṛśaṃ strīṇāṃ lalitā ca bhaved yathā // ST_2.48
+
+akasmāj jāyate yatra bhaya-harṣādi-bhāvanā 
+so'yaṃ prasaṅga-vidhvaṃsaḥ kopa-bhraṃśātmako yathā // ST_2.49
+
+kathaṃ mamorasi kṛta-pakṣa-niḥsvanaḥ śilīmukho'patad iti jalpati priye 
+nivṛtya kiṃ kim idam iti bruvāṇayā sa-sādhvasaṃ kupitam aloki kāntayā // ST_2.49a
+
+yathottaraṃ valīyāṃsa ity upāyāḥ prasādane 
+ādyās trayo ghanaṃ kāryā vidagdhaiḥ paścimāḥ kvacit // ST_2.50
+
+nātikhedayitavyo'yaṃ priyaḥ pramadayā kvacit 
+mānaś ca viralaḥ kāryaḥ praṇāmotsava-siddhaye // ST_2.51
+
+ity upāyān prayuñjīta nāyikāpi priyaṃ prati 
+kulajā nerṣyate kiṃ tu tatrānyat-kāraṇaṃ bhavet // ST_2.52
+
+snehaṃ vinā bhayaṃ na syān nerṣyā ca praṇayaṃ vinā 
+tasmān māna-prakāro'yaṃ dvayoḥ prema-prakāśakaḥ // ST_2.53
+
+priya-subhaga-dayita-vallabha-nātha-svāmīśa-kānta-candra-mukhāḥ &
+dayita manorama ramaṇī-jīvita ity ādi nāma syāt // ST_2.54
+
+prītau bhartari sudṛśām aprītau punar amūni śaṭha-dhṛṣṭau &
+nirlajja-durācārau niṣṭhura-duḥśīlavānādi // ST_2.55
+
+garvād vyasana-tyāgād vipriya-karaṇāc ca niṣṭhurālāpāt &
+lobhād atipravāsāt strīṇāṃ dveṣyaḥ priyo bhavati // ST_2.56
+
+para-deśaṃ vrajed yasmin kutaścit kāraṇāt priyaḥ 
+sa pravāsa iti khyātaḥ kaṣṭāvastho dvayor api // ST_2.57
+
+dṛṣṭaṃ ketaka-dhūli-dhūsaram idaṃ vyoma kramād vīkṣitāḥ kaccāntāś ca śilīndhra-kandala-bhṛtaḥ soḍhāḥ kadambānilāḥ 
+sakhyaḥ saṃvṛṇutāśru muñcata bhayaṃ kasmān mudevākulā etān apy adhunāsmi vajraghaṭitā nūnaṃ sahiṣye dhanān // ST_2.57a
+
+kāmaṃ karṇa-kaṭuḥ kuto'timadhuraḥ kekā-ravaḥ kekināṃ meghāś cāmṛta-dhāriṇo'pi vihitāḥ prāyo viṣa-syandinaḥ 
+unmīlan-nava-kandalāvalir asau sahyāpy asahyāyate tat kiṃ yad viparītam atra na kṛtaṃ tasyā viyogena me // ST_2.57b
+
+kārśya-jāgara-mālinyacintādyaṃ yatra jāyate 
+avasthā vividhāḥ strīṇāṃ mṛtyuś ced avadheḥ paraḥ // ST_2.58
+
+adyaiva yat pratipad-udgata-candra-lekhāsakhyaṃ tvayā vapur idaṃ gamitaṃ varākyāḥ 
+kṛṣṇe gate kusuma-sāyaka tat prabhāte bāṇāvaliṃ kathaya kutra vimokṣyasi tvam // ST_2.58a
+
+niḥśvāsaiḥ saha sāmprataṃ sakhi gatā vṛddhiṃ dhruvaṃ rātrayaḥ sārdhaṃ locana-vāriṇā vigalitaṃ yat prāktanaṃ me sukham 
+prāṇāśā tanutām upaiti ca muhur nūnaṃ tanu-spardhayā kandarpaḥ param eka eva vijayī yāte'pi kānte sthitaḥ // ST_2.58b
+
+nīrāgo'dhara-pallavo'timalinā veṇī dṛśau nāñjite mlāyad-bāla-mṛṇālikā-dhavalatām ālambate'ṅga-cchaviḥ 
+itthaṃ subhru visaṃsthulāpi viraha-vyāpād vimardād iyaṃ sakhyeva sthira-śobhayā dṛḍhataraṃ pratyaṅgam āliṅgitā // ST_2.58c
+
+kiṃ tatra nāsti rajanī kiṃ vā candro na suṣṭhu-ruciḥ &
+yena sakhi vallabhām api na smarati sa māṃ videśa-ruciḥ // ST_2.58d
+
+prasara śiśirāmodaṃ kaundaṃ samīra samīraya prakaṭaya śaśinn āśāḥ kāmaṃ manoja samullasa 
+avadhi-divasaḥ pūrṇaḥ sakhyo vimuñcata tat-kathāṃ hṛdayam adhunā kiñcit kartuṃ mamānyad ihecchati // ST_2.58e
+
+ity ādi-virahāvasthāḥ puṃso'pi hi bhavanti tāḥ 
+kandarpa-śara-pātādyā mā bhūvan vairiṇām api // ST_2.59
+
+yatraikasmin vipanne'nyo mṛtakalpo'pi tad-gatam 
+nāyakaḥ pralapet premṇā karuṇo'asau smṛto yathā // ST_2.60
+
+dagdhā snigdha-vadhū-vilāsa-kadalī vīṇā samunmūlitā pītā pañcama-kākalī-kavalitā śīta-dyūteḥ kaumudī 
+pluṣṭāḥ spaṣṭmaneka-ratna-nivahā nālaṃ rateḥ kevalaṃ kandarpaṃ haratā hareṇa bhuvanaṃ niḥsāram etat kṛtam // ST_2.60a
+
+vaktraṃ candramasā dṛśau mṛga-gaṇaiḥ keśāḥ kalāpi-vrajair mātaṅgaiḥ stana-maṇḍalaṃ bhuja-yugollāso mṛṇālair api 
+saugandhyaṃ malayānilena balinā tanvī vibhajyeti sā sarvair niṣkaruṇair hṛtā dhruvam aho daivena kiṃcin na me // ST_2.60b
+
+iyatīṃ subhagāvasthāṃ gato'si yasyāḥ kṛte smarātaṅkāt &
+mūrcchāṃ harāmi sā tava gata-puṇyā nayana-salilena // ST_2.60c
+
+pāśo vipāśita upāhita eṣa sāndraḥ karpūra-reṇur upagūḍham uro natāṅgi 
+pāpena yena gamiteti daśām amuṣmin mūrchā-virāma-lalitaṃ mayi dhehi cakṣuḥ // ST_2.60d
+
+glāno muktāśrur udvignaḥ srastāṅgo mukta-cetanaḥ 
+sa-cinto dainya-bhāg asminn evaṃ prāyo jano bhavet // ST_2.61
+
+keṣāṃcit karuṇa-bhrāntiḥ kāruṇyād atra jāyate 
+etasya mithunāvasthāṃ vismṛtya rati-mūlajām // ST_2.62
+
+strī-puṃsayor bhaved eṣa sāpekṣaḥ saṃgame punaḥ 
+śṛṅgāra-vacana-prāyaḥ karuṇaḥ syāt sa cānyathā // ST_2.63
+
+tasmāc chṛṅgāra evāyaṃ karuṇenānumoditaḥ 
+saundaryaṃ sutarāṃ dhatte nibaddho viralaṃ budhaiḥ // ST_2.64
+
+kārur dāsī naṭī dhātrī prātiveśyā ca śilpinī 
+bālā pravrajitā ceti strīnāṃ jñeyaḥ sakhījanaḥ // ST_2.65
+
+kalā-kauśalam utsāho bhaktiś cittajñatā smṛtiḥ 
+mādhuryaṃ narma-vijñānaṃ vāgmitā ceti tad-guṇāḥ // ST_2.66
+
+vinodo maṇḍanaṃ śikṣo[u]pālambho'tha prasādanam 
+saṅgamo virahāśvāsaḥ sakhī-karmeti tad yathā // ST_2.67
+
+mayā ko'yaṃ mugdhe kathaya likhitaḥ satvara-sakhīvacaḥ śrutvety uccair vinihita-dṛśā citra-phalake 
+na vaktuṃ tanvaṅgyā śakitam atha coddāma-vidalatkadambākāreṇa priya iti samākhyāyi vapuṣā // ST_2.67a
+
+pratyaṅgaṃ prati karma narma-parayā kṛtvādhirūḍhaṃ smarādautsukyaṃ pravilokya mohana-vidhau cāturyam ālokya ca 
+sadyo yāvaka-maṇḍanaṃ na racitaṃ pāde kuraṅgī-dṛśā smerāntā viśada-cchade ca śayane dṛṣṭiḥ samāropitā // ST_2.67b
+
+nīrandhraṃ parirabhyate priyatamo bhūyastarāṃ cumbyate tad bāḍhaṃ kriyate yad asya rucitaṃ cāṭūccakais tanyate 
+sakhyā mugdha-vadhūr iyaṃ rati-vidhau yatnena saṃśikṣitā nribhrāntaṃ guruṇā punaḥ śata-guṇaṃ puṣpeṣuṇā kāritā // ST_2.67c
+
+subhaga bhagavatā hṛdye tasyā jvalat-smara-pāvake'py abhiniveśatā premādhikyaṃ cirāt prakaṭīkṛtam 
+tava tu hṛdaye śīte'py evaṃ sadaiva sukhāptaye mama sahacarī sā niḥsnehā manāg api na sthitā // ST_2.67d
+
+ko'yaṃ vimuñca kuru nātha vaco madīyam āśvāsaya smara-kṛśānu-kṛśāṃ kṛśāṅgīm 
+ekākinī kaṭhina-tāraka-rāja-kāntyā pañcatvam āśu nanu yāsyati sā varākī // ST_2.67e
+
+amuṃ dadhe'ṃśukam aham atra pādape yuvām alaṃ nibhṛtam ihaiva tiṣṭhatām 
+rahaḥ-sthayor idam abhidhāya kāminoḥ svayaṃ yayau nipuṇa-sakhī latāntaram // ST_2.67f
+
+sphurati yad idam uccair locanaṃ tanvi vāmaṃ stana-taṭam api dhatte cāru-romāñca-mālām 
+kalayati ca yad-antaḥ-kampatāmūru-kāṇḍaṃ nanu vadati tad adya preyasā saṃgamaṃ te // ST_2.67g
+
+ity ādi vividhaṃ sakhyo vyāpāraṃ kurvate sadā 
+yoṣitāṃ mantra-sarvasvanidhāna-kalaśopamāḥ // ST_2.68
+
+itthaṃ viracanīyo'yaṃ śṛṅgāraḥ kavibhiḥ sadā 
+anena rahitaṃ kāvyaṃ prāyo nīrasam ucyate // ST_2.69
+
+itthaṃ vicārya pracura-prayogānyo'muṃ nibadhnāti rasaṃ rasajñaḥ 
+tat-kāvyam āropya padaṃ vidagdhavaktreṣu viśvaṃ paribambhramīti // ST_2.70
+
+iti śrī-rudra-bhaṭṭa-viracite śṛṅgāra-tilakābhidhāne kāvya-rasālaṅkāre vipralambho nāma dvitīyaḥ paricchedaḥ
+(ST_2)
+
+
+tṛtīya paricchedaḥ
+
+vikṛtāṅga-vacaḥ-kṛtyaveṣebhyo jāyate rasaḥ 
+hāsyo'yaṃ hāsa-mūlatvāt pātra-traya-gato yathā // ST_3.1
+
+kiñcid-vikasitair gaṇḍaiḥ kiñcid visphāritekṣaṇaiḥ 
+kiñcid-lakṣya-dvijaiḥ so'yam uttamānāṃ bhaved yathā // ST_3.2
+
+pāṇau kaṅkaṇam utphaṇaḥ phaṇipatir netraṃ jvalat-pāvakaṃ kaṇṭhaḥ kuṇṭhita-kāla-kūṭa-kuṭilo vastraṃ gajendrājinam 
+gaurī-locana-lobhanāya subhago veṣo varasyeti me gaṇḍollāsa-vibhāvitaḥ paśupater hāsodgamaḥ pātu vaḥ // ST_3.2a
+
+madhyamānāṃ bhavaty eṣa vivṛtānana-paṅkajaḥ 
+nīcānāṃ nipatad-bāṣpaḥ śrūyamāṇa-dhvanir yathā // ST_3.3
+
+mugdhe tvaṃ subhage na vetsi madana-vyāpāram adyāpi taṃ nūnaṃ te jalajaiṣiṇāyam alinā dṛṣṭo na bhartādharaḥ 
+sakhyaivaṃ hasitaṃ vadhūṃ prati tathā sānandam āvirbhavadvaktrāntargata-sīdhu-vāsa-rasikair bhṛṅgair yathā dhāvitam // ST_3.3a
+
+tyaktvā guñja-phalāni mauktikamayī bhūṣā staneṣv āhitā strīṇāṃ kaṣṭam idaṃ kṛtaṃ sarasijaṃ karṇe na barhi-cchadam 
+itthaṃ nātha tavāridhāmni śavarair ālokya citra-sthitiṃ bāspārdrīkṛta-locanaiḥ sphuṭa-ravaṃ dāraiḥ samaṃ hasyate // ST_3.3b
+
+asmin sakhī-karāghātanetrollāsāṅga-vartanam 
+nāsākapola-vispando mukha-rāgaś ca jāyate // ST_3.4
+
+śokātmā karuṇo jñeyaḥ priya-bhṛtya-dhana-kṣayāt 
+tatretthaṃ nāyako daivahataḥ syād duḥkha-bhājanam // ST_3.5
+
+bhartā saṃgara eva mṛtyu-vasatiṃ prāptaḥ samaṃ bandhubhir yūnāṃ kāmam iyaṃ dunoti ca mano vaidhavya-bhāvād vadhūḥ 
+bālo dustyaja eka eva ca śiśuḥ kaṣṭaṃ kṛtaṃ vedhasā jīvāmīti mahīpate pralapati tvad-vairi-sīmantinī // ST_3.5a
+
+bhūpāto daiva-nindā ca rodanaṃ dīna-niḥsvanaḥ 
+śarīra-tāḍanaṃ moho vaivarṇyaṃ cātra jāyate // ST_3.6
+
+krodhātmako bhaved raudraḥ pratiśatrūn amarṣataḥ 
+rakṣaḥ-prāyo bhaved atra nāyako'tyugra-vigrahaḥ // ST_3.7
+
+yaḥ prāṇāpahatiḥ kṛtā mama pituḥ kṣudrair yudhi kṣatriyai rāmo'haṃ ramaṇīr vihāya balavan niḥśeṣam eṣāṃ haṭhāt 
+bhāsvat-prauḍha-kuṭhāra-koṭi-ghaṭanā-kāṇḍa-truṭat-kandharā sroto'ntaḥ-sruta-visra-śoṇita-bharaiḥ kuryāṃ krudhāṃ nirvṛtim // ST_3.7a
+
+mukharāgāyudhotkṣepasveda-kampādhara-grahāḥ 
+śakti-śaṃsā karāghāto bhrukuṭī cātra jāyate // ST_3.8
+
+utsāhātmā bhaved vīro dayā-dānāji-pūrvakaḥ 
+trividho nāyakas tatra jāyate sattva-saṃyutaḥ // ST_3.9
+
+gāmbhīryaudārya-saundaryaśaurya-dhairyādi-bhūṣitaḥ 
+āvarjita-jano janyanirvyūḍha-prauḍha-vikramaḥ // ST_3.10
+
+ayi vihaṅga varāka kapotakaṃ vimṛja dhehi dhṛtiṃ mama medasā 
+śibir ahaṃ bhavatā vidito na kiṃ sakala-sattva-samuddharaṇa-kṣamaḥ // ST_3.10a
+
+sukhito'si hare nūnaṃ bhuvana-traya-mātra-labdhi-toṣeṇa 
+balir arthitado'smi yato na yācitaḥ kiṃcid apy adhikam // ST_3.10b
+
+yatrairāvaṇa-danta-tīvra-musalair eraṇḍa-kāṇḍāyitaṃ vajreṇāpi vikīrṇa-vahnitatinā mārṇālanālāyitam 
+mad-vakṣasy avalambya kiṃcid adhunā tad vismṛtaṃ vajriṇā yuddhaṃ yady avalambate sa tu punaḥ sajjo'smy ahaṃ rāvaṇaḥ // ST_3.10c
+
+dhṛti-garvauddhatya-mati-smṛti-romāñcā bhavanti cāmuṣmin &
+vividhā vākya-kṣepāḥ sotsāhāmarṣa-vegāś ca // ST_3.11
+
+bhayānako bhaya-sthāyibhāvo'sau jāyate rasaḥ 
+śabdāder vikṛtād voḍhaṃ bāla-strī-nīca-nāyakaḥ // ST_3.12
+
+śrutvā tūrya-ninādaṃ dvāre bhaya-cakita-lalita-bāhu-lataḥ &
+dhanyasya lagati kaṇṭhe mugdha-śiśur dhūli-dhūsaritaḥ // ST_3.12a
+
+praṇaya-kalaha-saṅgān manyubhājā nirastaḥ prakaṭita-caṭu-koṭiḥ pāda-padmānato'pi 
+nava-jaladhara-garjer bhītayāsau kayācit truṭita-tarala-hāraṃ sasvaje prāṇanāthaḥ // ST_3.12b
+
+kampoparuddha-sarvāṅgair galat-svedoda-bindubhiḥ 
+tvad-ārabdhair mahī-nātha vairibhir vanitāyitam // ST_3.12c
+
+vaivarṇyam aśru saṃtrāso hasta-pādādi-kampanam 
+svedāsya-śoṣa-dik-prekṣāsaṃbhramāś ca prakīrtitāḥ // ST_3.13
+
+jugupsā-prakṛtir jñeyo bībhatso'hṛdya-darśanāt 
+śravaṇāt kīrtanād vāpi pūty ādi-viṣayād yathā // ST_3.14
+
+luṭhat-kṛmi-kalevaraṃ sravad-asṛg-vasāvāsitaṃ viśīrṇa-śava-saṃtati-prasarad-ugra-gandhānvitam 
+bhramat-pracura-patrikaṃ trika-vivarti-nṛtya-kriyāpravīṇa-guṇa-kauṇapaṃ paribabhau paretājiram // ST_3.14a
+
+nāsāpracchādanaṃ vaktrakūṇanaṃ gātra-saṃvṛtiḥ 
+niṣṭhīvanādi cātra syād udvegād uttameṣv api // ST_3.15
+
+vismayātmādbhuto jñeyo raso rasa-vicakṣaṇaiḥ 
+māyendrajāla-divya-strīvipinādy-udbhavo yathā // ST_3.16
+
+satyaṃ hṛtā tvayā haṃsa vanitānām iyaṃ gatiḥ 
+bhramanty etās tathāpy etad indrajālaṃ tad adbhutam // ST_3.16a
+
+gadgadaḥ sādhuvādaś ca svedaḥ pulaka-vepathū 
+dṛṣṭer niśalatāratvaṃ vikāsaś cātra jāyate // ST_3.17
+
+samyag jñānodbhavaḥ śāntaḥ samatvāt sarva-jantuṣu 
+gateccho nāyakas tatra tamorāga-parikṣayāt // ST_3.18
+
+dhanam aharahar dattaṃ svīyaṃ yathārthitam arthine kṛtam arikulaṃ nārī-śeṣaṃ sva-khaḍga-vijṛmbhitaiḥ 
+praṇayini jane rāgodrikte ratir vihitā ciraṃ kim aparam ataḥ kartavyaṃ nas tanāv api nādaraḥ // ST_3.18a
+
+nirālambaṃ mano hy atra bāḍham ātmani tiṣṭhati 
+sukhe necchā tathā duḥkhe'py udvego nātra jāyate // ST_3.19
+
+aṣṭāv amī rasāḥ pūrvaṃ ye proktās tatra niścitam 
+pratyanīkau rasau dvau dvau tat-samparkaṃ vivarjayet // ST_3.20
+
+śṛṅgāra-bībhatsa-rasau tathā vīra-bhayānakau 
+raudrādbhutau tathā hāsyakaruṇau vairiṇau mithaḥ // ST_3.21
+
+hāsyo bhavati śṛṅgārāt karuṇo raudra-karmataḥ 
+adbhutaś ca tathā vīrād bībhatsāc ca bhayānakaḥ // ST_3.22
+
+yau janya-janakāv etau rasāv uktau manīṣibhiḥ 
+yuktyā kṛto'pi saṃbhedas tayor bāḍhaṃ na duṣyati // ST_3.23
+
+kecid rasa-vibhāgeṣu bhāvāḥ pūrvaṃ pradarśitāḥ 
+svātantryeṇeha kīrtyante ramyās te kṛtināṃ matāḥ // ST_3.24
+
+ratyādaya ime bhāvā rasābhiprāya-sūcakāḥ 
+pañcāśat-sthāyi-saṃcārisāttvikās tān nibodhata // ST_3.25
+
+śṛṅgārādi-raseṣv eva bhāvā ratyādayaḥ smṛtāḥ 
+pratyekaṃ sthairyato'nye ca taryastriṃśac-carāḥ smṛtāḥ // ST_3.26
+
+prāyo'navasthite citte bhāvāḥ saṃkīrṇa-saṃbhavāḥ 
+bāhulyena nigadyante tathāpy ete yathā sthitāḥ // ST_3.27
+
+śaṅkāsūyā bhayaṃ glānir vyādhiś cintā smṛtir dhṛtiḥ 
+autsukyaṃ vismayo harṣo vrīḍonmādo madas tathā // ST_3.28
+
+viṣādo jaḍatā nidrā[a]vahitthaṃ cāpalaṃ smṛtiḥ 
+iti bhāvāḥ prayoktavyā śṛṅgāre vyabhicāriṇaḥ // ST_3.29
+
+śramaś capalatā nidrā svapno glānis tathaiva ca 
+śaṅkāsūyāvahitthaṃ ca hāsye bhāvā bhavanty amī // ST_3.30
+
+dainyaṃ cintā tathā glānir nirvedo jaḍatā-smṛtiḥ 
+vyādhiś ca karuṇe jñeyā bhāvā bhāva-viśāradaiḥ // ST_3.31
+
+harṣo'sūyā tathā garva utsāho mada eva ca 
+cāpalyam ugratā vego raudre bhāvāḥ prakīrtitāḥ // ST_3.32
+
+amarṣaḥ pratibodhaś ca vitarko'tha matir dhṛtiḥ 
+krodho'sūyāśru saṃmoha āvego romaharṣaṇam // ST_3.33
+
+garvo madas tathogratvaṃ bhāvā vīre bhavanty amī 
+saṃtrāso maraṇaṃ caiva vacanīyaṃ bhayānake // ST_3.34
+
+apasmāro viṣādaś ca bhayaṃ vego matir madaḥ 
+unmādaś ceti vijñeyā bhāvā bībhatsa-saṃbhavāḥ // ST_3.35
+
+āvego jaḍatā moho vismayo harṣaṇaṃ matiḥ 
+iti bhāvān nibadhnanti rase'sminn adbhute budhāḥ // ST_3.36
+
+evaṃ saṃcāriṇo bhāvā jñeyāḥ pratirasaṃ sthitāḥ 
+sāttvikās tu bhavanty ete sarve sarva-rasāśrayāḥ // ST_3.37
+
+yā nṛtya-gīta-pramadopabhogaveṣāṅga-saṅkīrtana-cāru-bandhā 
+mādhurya-yuktālpa-samāsa-ramyā vāṇī smṛtāsāv iha kaiśikīti // ST_3.38
+
+śṛṅgāra-hāsya-karuṇarasānāṃ parivṛddhaye 
+eṣā vṛttiḥ paryoktavyā prayatnena budhair yathā // ST_3.39
+
+saundaryaṃ śaśa-lāñchanasya kavibhir mithyaiva tad varṇyate saubhāgyaṃ kva nu paṅkajasya rajanī-saṃbhoga-bhagna-tviṣaḥ 
+ity ālocya cirāya cāru ruci-mantrasyat-kuraṅgī-dṛśo vīkṣete nava-yauvanonnata-mukhau manye stanāvānanam // ST_3.39a
+
+hasteṣuḥ kusumāyudhasya lalitaṃ rāga-śriyo locanaṃ saubhāgyaika-gṛhaṃ vilāsa-nikaṣo vaidagdhya-siddhi-dhvajaḥ 
+sākṣīdaṃ mada-bāndhavasya nibhṛtaṃ kasyāpi līlā-nidheḥ kakṣāntar-nakha-maṇḍanaṃ sakhi navaṃ pracchādyatāṃ vāsasā // ST_3.39b
+
+samullasat-kāñcana-kuṇḍalojjvalaprabhāpi tāpāya babhūva yeṣv alam 
+vilāsinī-ramya-mukhāmbujanmasu prajajvalus teṣv akṛśāḥ kṛśānavaḥ // ST_3.39c
+
+yā citra-yuddha-bhrama-śastra-pātamāyendrajāla-pluti-lāṅghitāḍhyā 
+ojasvi-gurv-akṣara-bandha-gāḍhā jñeyā budhaiḥ sārabhaṭīti vṛttiḥ // ST_3.40
+
+raudre bhayānake caiva bībhatse ca vicakṣaṇaiḥ 
+kāvya-śobhākarī vṛttir iyam itthaṃ prayujyate // ST_3.41
+
+śastroddārita-kumbhi-kumbha-vigalad-raktākta-muktā-phalaṃ sphāra-sphūrjita-kānti-kalpita-bṛhac-cañcac-catuṣkāyitam 
+krodhoddhāvita-dhīra-dhoraṇa-lasaat-khaḍgāgram ugrāgrahaṃ yuddhaṃ siddha-vadhū-gṛhīta-subhaṭaṃ jātaṃ tadā durdharam // ST_3.41a
+
+nāyaṃ garji-ravo gabhīra-paruṣaṃ tūryaṃ tadīyaṃ tv idaṃ naite bhīma-bhujaṅga-bhoga-rucayo meghā ime tad-rajāḥ 
+itthaṃ nātha navāmbu-vāha-samaye tvat-sainya-śaṅkākulā mlāyad-vaktra-ruco virodhi-vanitāstrasyanti naśyanti ca // ST_3.41b
+
+pibann asṛk svadan māṃsam ākarṣann antra-mālikām 
+kabandha-saṅkule kroṣṭā bhramaty eṣa mahā-raṇe // ST_3.41c
+
+harṣa-pradhānādhika-sattva-vṛttis tyāgottarodāra-vaco-manojñā 
+āścarya-saṃpat-subhagā ca yā syāt sā sātvatī nāma matātra vṛttiḥ // ST_3.42
+
+nātigūḍhārtha-saṃpattiḥ śravya-śabda-manoramā 
+vīre raudre'dbhute śānte vṛttir eṣā matā yathā // ST_3.43
+
+lakṣmyās tvaṃ janako nidhiś ca payasāṃ niḥśeṣa-ratnākaro maryādā-niratas tvam eva jaladhe brūte'tra ko'nyādṛśam 
+kiṃ tv ekasya gṛhaṃ gatasya baḍavā-vahneḥ sadā tṛṣṇayā klāntasyodara-pūraṇe'pi na saho yat tan manāṅ madhyamam // ST_3.43a
+
+sphāritotkaṭa-kaṭhora-tārakākīrṇa- vahni-kaṇa-saṃtatiḥ krudhā &
+durnimitta-taḍid-ākṛtir babhau dṛṣṭir iṣṭa-samarāṃśu-mālinaḥ // ST_3.43b
+
+atyadbhutaṃ narādhipa tava kīrtir dhavalayanty api jaganti &
+raktān karoti suhṛdo malinayati ca vairi-vadanāni // ST_3.43c
+
+nivṛtta-viṣayāsaṅgamadhunā sucirāya me 
+ātmany eva samādhānaṃ manaḥ kevalam icchati // ST_3.43d
+
+pradhāna-puruṣa-prāyā sad-vakrokti-nirantarā 
+bhāratīyaṃ bhaved vṛttir vīrahāsyādbhutāśrayā // ST_3.44
+
+janma-deha-vadha-bandhanādikaṃ tulyam etad itaraiḥ samaṃ satām 
+yat tathāpi vipulācalāḥ śriyaḥ sāhasaika-paratātra kāraṇam // ST_3.44a
+
+yaśodākṛta-rakṣasya śāsitur bhuvana-druhām 
+bālye nibhṛta-gambhīro harer hāsaḥ punātu vaḥ // ST_3.44b
+
+nirbhayo'py eṣa bhūpālas tad dadāti dviṣāṃ yudhi 
+asat teṣu yaśaḥ śubhram ādatte cedam adbhutam // ST_3.44c
+
+ity ādi ramyāḥ pravilokya vṛttīr dṛṣṭvā nibandhāṃś ca mahā-kavīnām 
+ālokya vaicitryam idaṃ vidadhyāt kāvyaṃ kaviḥ sajjana-citta-cauram // ST_3.45
+
+virasaṃ pratyanīkaṃ ca duḥsandhāna-rasaṃ tathā 
+nīrasaṃ pātra-duṣṭaṃ ca kāvyaṃ sadbhir na śasyate // ST_3.46
+
+vihāya jananī-mṛtyuśokaṃ mugdhe mayā saha 
+yauvanaṃ mānaya spaṣṭam ityādi virasaṃ matam // ST_3.47
+
+prabandhe nīyate yatra rasa eko nirantaram 
+mahatīṃ vṛddhim icchanti nīrasaṃ tac ca kecana // ST_3.48
+
+nakha-kṣatocchalat-pūtipluta-gaṇḍa-sthalaṃ ratau 
+pibāmi vadanaṃ tasyāḥ pratyanīkaṃ tad ucyate // ST_3.49
+
+tām evānucitāṃ gaccha jvalitā tvat-kṛte tu yā 
+kiṃ te kṛtyaṃ mayā dhūrta duḥsandhāna-rasaṃ tv idam // ST_3.50
+
+durjano dayitaḥ kāmaṃ mano mlānaṃ manobhavaḥ 
+kṛśo viyoga-taptāyās tasyā ity ādi nīrasam // ST_3.51
+
+mugdhā vyājaṃ vinā veśyā kanyeyaṃ nipuṇā ratau 
+kula-strī sarvadā dhṛṣṭā pātra-duṣṭaṃ tv idaṃ matam // ST_3.52
+
+anyeṣv api raseṣv ete doṣā varjyā manīṣibhiḥ 
+yat samparkān na yāty eva kāvyaṃ rasa-paramparām // ST_3.53
+
+iti mayā kathitena pathāmunā rasa-viśeṣam aśeṣam upeyuṣā 
+lalita-pādapadāsadalaṅkṛtiḥ kṛta-dhiyām iha vāgvanitāyate // ST_3.54
+
+śṛṅgāra-tilako nāma grantho'yaṃ grathito mayā 
+vyutpattaye niṣevantu kavayaḥ kāminaś ca ye // ST_3.55
+
+kānyā kāvya-kathā kīdṛg vaidagdhī ko rasāgamaḥ 
+kiṃ goṣṭhī-maṇḍanaṃ hanta śṛṅgāra-tilakaṃ vinā // ST_3.56
+
+tripura-vadhād eva gatām ullāsam umāṃ samasta-deva-natām &
+śṛṅgāra-tilaka-vidhinā punar api rudraḥ prasādayati // ST_3.57
+
+iti śrī-rudra-bhaṭṭa-viracite śṛṅgāra-tilakābhidhāne kāvya-rasālaṅkāre hāsyādi-rasa-nirūpaṇaṃ nāma tṛtīyaḥ paricchedaḥ
+(ST_3)

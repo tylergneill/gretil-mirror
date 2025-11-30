@@ -1,0 +1,73 @@
+Svāgatasūtra
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_svAgatasUtra.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Klaus Wille
+## Contribution: Klaus Wille
+## Date of this version: 2020-07-31
+
+## Source: 
+   - E. Waldschmidt: "Ein zweites Daśabalasūtra". In: Mitteilungen des Instituts für Orientforschung 6 (1958), pp. 392-397 [reprint in: E. Waldschmidt. Von Ceylon bis Turfan, Schriften zur Geschichte, Literatur, Religion und Kunst des indischen Kulturraumes (Festgabe zum 70. Geburtstag). Göttingen 1967, pp. 357-362].
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Svāgatasūtra = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from svagata_tu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Svagatasutra
+Based on the ed. by E. Waldschmidt: "Ein zweites Daśabalasūtra". In: Mitteilungen des Instituts für Orientforschung 6 (1958), pp. 392-397
+[reprint in: E. Waldschmidt. Von Ceylon bis Turfan, Schriften zur Geschichte, Literatur, Religion und Kunst des indischen Kulturraumes (Festgabe zum 70. Geburtstag). Göttingen 1967, pp. 357-362].
+Input by Klaus Wille
+[GRETIL-Version: 2018-08-02]
+ABBREVIATIONS
+SBhV = The Gilgit Manuscript of the Saṅghabhedavastu, 2 vols., ed. R. Gnoli, Roma 1977-1978 (Serie Orientale Roma, 49).
+SHT = Sanskrithandschriften aus den Turfanfunden, ed. E. Waldschmidt et al., Wiesbaden/Stuttgart 1965, 1968, 1971, 1980, 1985, 1989, 1995, 2000, 2004, 2008, 2012, 2017 (Verzeichnis der Orientalischen Handschriften in Deutschland, X, 1-12).
+MARKUP
+restored passagesremarks' =avagraha, not written in the MS
++ = lost akṣara
+.. = illegible akṣara
+/// = leaf broken off here
+/ = single daṇḍa
+// = double daṇḍa
+TRANSLITERATION
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+svāgatasūtra
+
+1 śrāvastyāṃ / cf. sht iv (additions) 881r1: /// bhagavāṃ śrāvastyāṃ viharati sma jetavane ///
+
+2 svāgataṃ vo bhikṣavaḥ / supravrajyā vo bhikṣavaḥ / lābhā sulabdhā / kadācit karhicid āryāyatane pratyājāti indriyair avikalatā ajaḍatā aneḍamūkatā ahastasaṃvācakatā pratibalatā subhāṣitadurbhāṣitānāṃ dharmāṇām artham ājñātum / cf. sht iv (additions) 881r2: /// svāgataṃ vo bhikṣavaḥ supravrajyaṃ sulabdhā ///; r3: /// + .. indriyair avikalatā ajaḍatā + ///; sbhv ii 209.8-12: svāgataṃ vo bhikṣavaḥ supravrajitaṃ (ms °to); sulabdho vo manuṣyapratilambhaḥ; kadācit karhicid āryāyatane pratyājātiḥ, indriyair avikalatā, ajaḍatā, aneḍamūkatā, ahastasaṃvācikatā, pratibalatā subhāṣitadurbhāṣitānāṃ dharmāṇām artham ājñātuṃ
+
+3 ahaṃ caitarhi śāstā loke utpannas tathāgato 'rhāṃ samyaksaṃbuddho vidyācaraṇasaṃpannaḥ sugato lokavid anuttara puruṣadamyasārathiḥ śāstā devamanuṣyāṇāṃ buddho bhagavāṃ / cf. sht iv (additions) 881v1: /// lokavid anuttaraḥ puruṣadamyasārathiḥ ///
+
+4 dharmaś ca deśyate aupaśamikaḥ pārinirvāṇikaḥ saṃbodhagāmī sugatapraveditaḥ / yad utāsmiṃ satīdaṃ bhavaty asyotpādād idam utpadyate /
+
+yad utāvidyāpratyayāḥ saṃskārā yāvat samudayo nirodhaś ca bhavati /
+
+5 tad idaṃ bhikṣavaḥ sudurlabhadurlabhaṃ yat kadācit karhicid āryāyatane pratyājāti indriyair avikalatā yāvat samudayo nirodhaś ca bhavati /
+
+6 tasmāt tarhi bhikṣava ātmārthaṃ samanupaśyadbhiḥ parārthañ cobhayārthaṃ ca yāvad evaṃ vo bhikṣavaḥ śikṣitavyam //
+
+7 svāgatasūtraṃ / samāptaḥ //

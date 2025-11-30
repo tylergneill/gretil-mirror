@@ -1,0 +1,3793 @@
+Nārāyaṇīya (Mahābhārata 12.321-339)
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nArAyaNIya.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Peter Schreiner
+## Contribution: Peter Schreiner
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Reinhold Grünendahl; Angelika Malinar; Thomas Oberlies; Peter Schreiner: Narayaniya-Studien. Herausgegeben von Peter Schreiner. Wiesbaden: Harrassowitz, 1997. (Purana Research Publications Tuebingen 5).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Nārāyaṇīya = MBh,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from naray_bu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Narayaniya (Mahabharata 12.321-339)
+Input by Peter Schreiner
+Analytic version (BHELA conventions)
+This file is based on the package NARAYANIYA.ZIP accompanying
+the following book:
+Reinhold Gruenendahl ; Angelika Malinar ; Thomas Oberlies ; Peter
+Schreiner: Narayaniya-Studien. Herausgegeben von Peter Schreiner.
+Wiesbaden: Harrassowitz, 1997.
+(Purana Research Publications Tuebingen ; 5)
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+gṛhastho brahmacārī vā vānaprastho 'tha bhikṣukaḥ 
+ya icchet siddhim āsthātuṃ devatāṃ kāṃ yajeta saḥ // MBh_12,321.1
+
+kuto hy asya dhruvaḥ svargaḥ kuto niḥśreyasaṃ param 
+vidhinā kena juhuyād daivaṃ pitryaṃ tathaiva ca // MBh_12,321.2
+
+muktaś ca kāṃ gatiṃ gacchen mokṣaś caiva kimātmakaḥ 
+svargataś caiva kiṃ kuryād yena na cyavate divaḥ // MBh_12,321.3
+
+devatānāṃ ca ko devaḥ pitṝṇāṃ ca tathā pitā 
+tasmāt parataraṃ yac ca tan me brūhi pitāmaha // MBh_12,321.4
+
+gūḍhaṃ māṃ praśnavit praśnaṃ pṛcchase tvam ihānagha 
+na hy eṣa tarkayā śakyo vaktuṃ varṣaśatair api // MBh_12,321.5
+
+ṛte devaprasādād vā rājañ jñānāgamena vā 
+gahanaṃ hy etad ākhyānaṃ vyākhyātavyaṃ tavārihan // MBh_12,321.6
+
+atrāpy udāharantīmam itihāsaṃ purātanam 
+nāradasya ca saṃvādam ṛṣer nārāyaṇasya ca // MBh_12,321.7
+
+nārāyaṇo hi viśvātmā caturmūrtiḥ sanātanaḥ 
+dharmātmajaḥ saṃbabhūva pitaivaṃ me 'bhyabhāṣata // MBh_12,321.8
+
+kṛte yuge mahārāja purā svāyaṃbhuve 'ntare 
+naro nārāyaṇaś caiva hariḥ kṛṣṇas tathaiva ca // MBh_12,321.9
+
+tebhyo nārāyaṇanarau tapas tepatur avyayau 
+badary-āśramam āsādya śakaṭe kanakāmaye // MBh_12,321.10
+
+aṣṭacakraṃ hi tad yānaṃ bhūtayuktaṃ manoramam 
+tatrādyau lokanāthau tau kṛśau dhamanisaṃtatau // MBh_12,321.11
+
+tapasā tejasā caiva durnirīkṣau surair api 
+yasya prasādaṃ kurvāte sa devau draṣṭum arhati // MBh_12,321.12
+
+nūnaṃ tayor anumate hṛdi hṛcchayacoditaḥ 
+mahāmeror gireḥ śṛṅgāt pracyuto gandhamādanam // MBh_12,321.13
+
+nāradaḥ sumahadbhūtaṃ lokān sarvān acīcarat 
+taṃ deśam agamad rājan badary-āśramam āśugaḥ_1 // MBh_12,321.14
+
+tayor āhnikavelāyāṃ tasya kautūhalaṃ tv abhūt 
+idaṃ tadāspadaṃ kṛtsnaṃ yasmiṃl lokāḥ pratiṣṭhitāḥ // MBh_12,321.15
+
+sadevāsuragandharvāḥ sar1ṣikiṃnaralelihāḥ 
+ekā mūrtir iyaṃ pūrvaṃ jātā bhūyaś caturvidhā // MBh_12,321.16
+
+dharmasya kulasaṃtāno mahān ebhir vivardhitaḥ 
+aho hy anugṛhīto 'dya dharma ebhiḥ surair iha 
+naranārāyaṇābhyāṃ ca kṛṣṇena hariṇā tathā // MBh_12,321.17
+
+tatra kṛṣṇo hariś caiva kasmiṃścit kāraṇāntare 
+sthitau dharmottarau hy etau tathā tapasi dhiṣṭhitau // MBh_12,321.18
+
+etau hi paramaṃ dhāma kānayor āhnikakriyā 
+pitarau sarvabhūtānāṃ daivataṃ ca yaśasvinau 
+kāṃ devatāṃ nu yajataḥ pitṝn vā kān mahāmatī // MBh_12,321.19
+
+iti saṃcintya manasā bhaktyā nārāyaṇasya ha 
+sahasā prādur abhavat samīpe devayos tadā // MBh_12,321.20
+
+kṛte daive ca pitrye ca tatas tābhyāṃ nirīkṣitaḥ 
+pūjitaś caiva vidhinā yathāproktena śāstrataḥ // MBh_12,321.21
+
+taṃ dṛṣṭvā mahad āścaryam apūrvaṃ vidhivistaram 
+upopaviṣṭaḥ suprīto nārado bhagavān ṛṣiḥ // MBh_12,321.22
+
+nārāyaṇaṃ saṃnirīkṣya prasannenāntarātmanā 
+namas kṛtvā mahādevam idaṃ vacanam abravīt // MBh_12,321.23
+
+vedeṣu sapurāṇeṣu sāṅgopāṅgeṣu gīyase 
+tvam ajaḥ śāśvato dhātā mato 'mṛtam anuttamam 
+pratiṣṭhitaṃ bhūtabhavyaṃ tvayi sarvam idaṃ jagat // MBh_12,321.24
+
+catvāro hy āśramā deva sarve gārhasthyamūlakāḥ 
+yajante tvām aharahar nānāmūrtisamāsthitam // MBh_12,321.25
+
+pitā mātā ca sarvasya jagataḥ śāśvato guruḥ 
+kaṃ tv adya yajase devaṃ pitaraṃ kaṃ na vidmahe // MBh_12,321.26
+
+avācyam etad vaktavyam ātmaguhyaṃ sanātanam 
+tava bhaktimato brahman vakṣyāmi tu yathātatham // MBh_12,321.27
+
+yat tat sūkṣmam avijñeyam avyaktam acalaṃ dhruvam 
+indriyair indriyārthaiś ca sarvabhūtaiś ca varjitam // MBh_12,321.28
+
+sa hy antarātmā bhūtānāṃ kṣetrajñaś ceti kathyate 
+triguṇavyatirikto 'sau puruṣaś ceti kalpitaḥ 
+tasmād avyaktam utpannaṃ triguṇaṃ dvijasattama // MBh_12,321.29
+
+avyaktā vyaktabhāvasthā yā sā prakṛtir avyayā 
+tāṃ yonim āvayor viddhi yo 'sau sada-sadātmakaḥ 
+āvābhyāṃ pūjyate 'sau hi daive pitrye ca kalpite // MBh_12,321.30
+
+nāsti tasmāt paro 'nyo hi pitā devo 'tha vā dvijaḥ 
+ātmā hi nau sa vijñeyas tatas taṃ pūjayāvahe // MBh_12,321.31
+
+tenaiṣā prathitā brahman maryādā lokabhāvinī 
+daivaṃ pitryaṃ ca kartavyam iti tasyānuśāsanam // MBh_12,321.32
+
+brahmā sthāṇur manur dakṣo bhṛgur dharmas tapo damaḥ 
+marīcir aṅgirāatriś ca pulastyaḥ pulahaḥ kratuḥ // MBh_12,321.33
+
+vasiṣṭhaḥ parameṣṭhī ca vivasvān soma eva ca 
+kardamaś cāpi yaḥ proktaḥ krodho vikrīta eva ca // MBh_12,321.34
+
+ekaviṃśatir utpannās te prajāpatayaḥ smṛtāḥ 
+tasya devasya maryādāṃ pūjayanti sanātanīm // MBh_12,321.35
+
+daivaṃ pitryaṃ ca satataṃ tasya vijñāya tattvataḥ 
+ātmaprāptāni ca tato jānanti dvijasattamāḥ // MBh_12,321.36
+
+svargasthā api ye kecit taṃ namasyanti dehinaḥ 
+te tatprasādād gacchanti tenādiṣṭaphalāṃ gatim // MBh_12,321.37
+
+ye hīnāḥ saptadaśabhir guṇaiḥ karmabhir eva ca 
+kalāḥ pañcadaśa tyaktvā te muktā iti niścayaḥ // MBh_12,321.38
+
+muktānāṃ tu gatir brahman kṣetrajña iti kalpitaḥ 
+sa hi sarvagataś caiva nirguṇaś caiva kathyate // MBh_12,321.39
+
+dṛśyate jñānayogena āvāṃ ca prasṛtau tataḥ 
+evaṃ jñātvā tam ātmānaṃ pūjayāvaḥ sanātanam // MBh_12,321.40
+
+taṃ vedāś cāśramāś caiva nānātanusamāsthitāḥ 
+bhaktyā saṃpūjayanty ādyaṃ gatiṃ caiṣāṃ dadāti saḥ // MBh_12,321.41
+
+ye tu tadbhāvitā loke ekāntitvaṃ samāsthitāḥ 
+etad abhyadhikaṃ teṣāṃ yat te taṃ praviśanty uta // MBh_12,321.42
+
+iti guhyasamuddeśas tava nārada kīrtitaḥ 
+bhaktyā premṇā ca viprar1ṣe asmadbhaktyā ca te śrutaḥ // MBh_12,321.43
+
+sa evam ukto dvipadāṃ variṣṭho
+nārāyaṇenottamapuruṣeṇa
+jagāda vākyaṃ dvipadāṃ variṣṭhaṃ
+nārāyaṇaṃ lokahitādhivāsam MBh_12,322.1
+
+yadartham ātmaprabhaveha janma
+tavottamaṃ dharmagṛhe caturdhā
+tat sādhyatāṃ lokahitārtham adya
+gacchāmi draṣṭuṃ prakṛtiṃ tavādyām MBh_12,322.2
+
+vedāḥ svadhītā mama lokanātha
+taptaṃ tapo nānṛtam uktapūrvam
+pūjāṃ gurūṇāṃ satataṃ karomi
+parasya guhyaṃ na ca bhinnapūrvam MBh_12,322.3
+
+guptāni catvāri yathāgamaṃ me
+śatrau ca mitre ca samo 'smi nityam
+taṃ cādidevaṃ satataṃ prapanna
+ekāntabhāvena vṛṇomy ajasram
+ebhir viśeṣaiḥ pariśuddhasattvaḥ
+kasmān na paśyeyam anantam īśam MBh_12,322.4
+
+tat pārameṣṭhyasya vaco niśamya
+nārāyaṇaḥ sātvatadharmagoptā MBh_12,322.5
+
+gaccheti taṃ nāradam uktavān sa
+saṃpūjayitvātmavidhikriyābhiḥ MBh_12,322.5
+
+tato visṛṣṭaḥ parameṣṭhiputraḥ
+so 'bhyarcayitvā tam ṛṣiṃ purāṇam
+kham utpapātottamavegayuktas
+tato 'dhimerau sahasā nililye MBh_12,322.6
+
+tatrāvatasthe ca munir muhūrtam
+ekāntam āsādya gireḥ sa śṛṅge
+ālokayann uttarapaścimena
+dadarśa cātyadbhutarūpayuktam MBh_12,322.7
+
+kṣīrodadher uttarato hi dvīpaḥ
+śvetaḥ sa nāmnā prathito viśālaḥ
+meroḥ sahasraiḥ sa hi yojanānāṃ
+dvātriṃśatordhvaṃ kavibhir niruktaḥ MBh_12,322.8
+
+atīndriyāś cānaśanāś ca tatra
+niṣpandahīnāḥ susugandhinaś ca
+śvetāḥ pumāṃso gatasarvapāpāś
+cakṣurmuṣaḥ pāpakṛtāṃ narāṇām MBh_12,322.9
+
+vajrāsthikāyāḥ samamānonmānā
+divyānvayarūpāḥ śubhasāropetāḥ
+chattrākṛtiśīrṣā meghaughaninādāḥ
+satpuṣkaracatuṣkā rājīvaśatapādāḥ MBh_12,322.10
+
+ṣaṣṭyā dantair yuktāḥ śuklair aṣṭābhir daṃṣṭrābhir ye 
+jihvābhir ye viṣvagvaktraṃ lelihyante sūryaprakhyam // MBh_12,322.11
+
+bhaktyā devaṃ viśvotpannaṃ yasmāt sarve lokāḥ sūtāḥ 
+vedā dharmā munayaḥ śāntā devāḥ sarve tasya visargāḥ // MBh_12,322.12
+
+atīndriyā nirāhārā aniṣpandāḥ sugandhinaḥ 
+kathaṃ te puruṣā jātāḥ kā teṣāṃ gatir uttamā // MBh_12,322.13
+
+ye vimuktā bhavantīha narā bharatasattama 
+teṣāṃ lakṣaṇam etad dhi yac chvetadvīpavāsinām // MBh_12,322.14
+
+tasmān me saṃśayaṃ chindhi paraṃ kautūhalaṃ hi me 
+tvaṃ hi sarvakathārāmas tvāṃ caivopāśritā vayam // MBh_12,322.15
+
+vistīrṇaiṣā kathā rājañ śrutā me pitṛsaṃnidhau 
+saiṣā tava hi vaktavyā kathāsāro hi sa smṛtaḥ // MBh_12,322.16
+
+rājoparicaro nāma babhūvādhipatir bhuvaḥ 
+ākhaṇḍalasakhaḥ khyāto bhakto nārāyaṇaṃ harim // MBh_12,322.17
+
+dhārmiko nityabhaktaś ca pitṝn nityam atandritaḥ 
+sāmrājyaṃ tena saṃprāptaṃ nārāyaṇavarāt purā // MBh_12,322.18
+
+sātvataṃ vidhim āsthāya prāksūryamukhaniḥsṛtam 
+pūjayām āsa deveśaṃ taccheṣeṇa pitāmahān // MBh_12,322.19
+
+pitṛśeṣeṇa viprāṃś ca saṃvibhajyāśritāṃś ca saḥ 
+śeṣānnabhuk satyaparaḥ sarvabhūteṣv ahiṃsakaḥ 
+sarvabhāvena bhaktaḥ sa devadevaṃ janārdanam // MBh_12,322.20
+
+tasya nārāyaṇe bhaktiṃ vahato 'mitrakarśana 
+ekaśayyāsanaṃ śakro dattavān devarāṭ svayam // MBh_12,322.21
+
+ātmā rājyaṃ dhanaṃ caiva kalatraṃ vāhanāni ca 
+etad bhagavate sarvam iti tat prekṣitaṃ sadā // MBh_12,322.22
+
+kāmyanaimittikā-jasraṃ yajñiyāḥ paramakriyāḥ 
+sarvāḥ sātvatam āsthāya vidhiṃ cakre samāhitaḥ // MBh_12,322.23
+
+pañcarātravido mukhyās tasya gehe mahātmanaḥ 
+prāyaṇaṃ bhagavatproktaṃ bhuñjate cāgrabhojanam // MBh_12,322.24
+
+tasya praśāsato rājyaṃ dharmeṇā-mitraghātinaḥ 
+nānṛtā vāk samabhavan mano duṣṭaṃ na cābhavat 
+na ca kāyena kṛtavān sa pāpaṃ param aṇv api // MBh_12,322.25
+
+ye hi te munayaḥ khyātāḥ sapta citraśikhaṇḍinaḥ 
+tair ekamatibhir bhūtvā yat proktaṃ śāstram uttamam // MBh_12,322.26
+
+marīcir atryaṅgirasau pulastyaḥ pulahaḥ kratuḥ 
+vasiṣṭhaś ca mahātejā ete citraśikhaṇḍinaḥ // MBh_12,322.27
+
+sapta prakṛtayo hy etās tathā svāyaṃbhuvo 'ṣṭamaḥ 
+etābhir dhāryate lokas tābhyaḥ śāstraṃ viniḥsṛtam // MBh_12,322.28
+
+ekāgramanaso dāntā munayaḥ saṃyame ratāḥ  MBh_12,322.29
+
+idaṃ śreya idaṃ brahma idaṃ hitam anuttamam 
+lokān saṃcintya manasā tataḥ śāstraṃ pracakrire // MBh_12,322.29
+
+tatra dharmārthakāmā hi mokṣaḥ paścāc ca kīrtitaḥ 
+maryādā vividhāś caiva divi bhūmau ca saṃsthitāḥ // MBh_12,322.30
+
+ārādhya tapasā devaṃ hariṃ nārāyaṇaṃ prabhum 
+divyaṃ varṣasahasraṃ vai sarve te ṛṣibhiḥ saha // MBh_12,322.31
+
+nārāyaṇānuśāstā hi tadā devī sarasvatī 
+viveśa tān ṛṣīn sarvāṃl lokānāṃ hitakāmyayā // MBh_12,322.32
+
+tataḥ pravartitā samyak tapovidbhir dvijātibhiḥ 
+śabde cārthe ca hetau ca eṣā prathamasargajā // MBh_12,322.33
+
+ādāv eva hi tac chāstram oṃkārasvarabhūṣitam 
+ṛṣibhir bhāvitaṃ tatra yatra kāruṇiko hy asau // MBh_12,322.34
+
+tataḥ prasanno bhagavān anirdiṣṭaśarīragaḥ_1 
+ṛṣīn uvāca tān sarvān adṛśyaḥ puruṣottamaḥ // MBh_12,322.35
+
+kṛtaṃ śatasahasraṃ hi ślokānām idam uttamam 
+lokatantrasya kṛtsnasya yasmād dharmaḥ pravartate // MBh_12,322.36
+
+pravṛttau ca nivṛttau ca yonir etad bhaviṣyati 
+ṛgyajuḥsāmabhir juṣṭam atharvāṅgirasais tathā // MBh_12,322.37
+
+tathāpramāṇaṃ hi mayā kṛto brahmā prasādajaḥ 
+rudraś ca krodhajo viprā yūyaṃ prakṛtayas tathā // MBh_12,322.38
+
+sūryācandramasau vāyur bhūmir āpo 'gnir eva ca 
+sarve ca nakṣatragaṇā yac ca bhūtābhiśabditam // MBh_12,322.39
+
+adhikāreṣu vartante yathāsvam brahmavādinaḥ 
+sarve pramāṇaṃ hi yathā tathaitac chāstram uttamam // MBh_12,322.40
+
+bhaviṣyati pramāṇaṃ vai etan madanuśāsanam 
+asmāt pravakṣyate dharmān manuḥ svāyaṃbhuvaḥ svayam // MBh_12,322.41
+
+uśanā bṛhaspatiś caiva yadotpannau bhaviṣyataḥ 
+tadā pravakṣyataḥ śāstraṃ yuṣmanmatibhir uddhṛtam // MBh_12,322.42
+
+svāyaṃbhuveṣu dharmeṣu śāstre cośanasā kṛte 
+bṛhaspatimate_1 caiva lokeṣu pravicārite // MBh_12,322.43
+
+yuṣmatkṛtam idaṃ śāstraṃ prajāpālo vasus tataḥ 
+bṛhaspatisakāśād vai prāpsyate dvijasattamāḥ // MBh_12,322.44
+
+sa hi madbhāvito rājā madbhaktaś ca bhaviṣyati 
+tena śāstreṇa lokeṣu kriyāḥ sarvāḥ kariṣyati // MBh_12,322.45
+
+etad dhi sarvaśāstrāṇāṃ śāstram uttamasaṃjñitam 
+etad arthyaṃ ca dharmyaṃ ca yaśasyaṃ caitad uttamam // MBh_12,322.46
+
+asya pravartanāc caiva prajāvanto bhaviṣyatha 
+sa ca rājā śriyā yukto bhaviṣyati mahān vasuḥ // MBh_12,322.47
+
+saṃsthite tu nṛpe_2 tasmiñ śāstram etat sanātanam 
+antar dhāsyati tat satyam etad vaḥ kathitaṃ mayā // MBh_12,322.48
+
+etāvad uktvā vacanam adṛśyaḥ puruṣottamaḥ 
+visṛjya tān ṛṣīn sarvān kāmapi prasthito diśam // MBh_12,322.49
+
+tatas te lokapitaraḥ sarvalokārthacintakāḥ 
+prāvartayanta tac chāstraṃ dharmayoniṃ sanātanam // MBh_12,322.50
+
+utpanne āṅgirase caiva yuge prathamakalpite 
+sāṅgopaniṣadaṃ śāstraṃ sthāpayitvā bṛhaspatau // MBh_12,322.51
+
+jagmur yathepsitaṃ deśaṃ tapase kṛtaniścayāḥ 
+dhāraṇāt sarvalokānāṃ sarvadharmapravartakāḥ // MBh_12,322.52
+
+tato 'tīte mahākalpe utpanne 'ṅgirasaḥ sute 
+babhūvur nirvṛtā devā jāte devapurohite // MBh_12,323.1
+
+bṛhad brahma mahac ceti śabdāḥ paryāyavācakāḥ 
+ebhiḥ samanvito rājan guṇair vidvān bṛhaspatiḥ // MBh_12,323.2
+
+tasya śiṣyo babhūvāgryo rājoparicaro vasuḥ 
+adhītavāṃs tadā śāstraṃ samyak citraśikhaṇḍijam // MBh_12,323.3
+
+sa rājā bhāvitaḥ pūrvaṃ daivena vidhinā vasuḥ 
+pālayām āsa pṛthivīṃ divam ākhaṇḍalo yathā // MBh_12,323.4
+
+tasya yajño mahān āsīd aśvamedho mahātmanaḥ 
+bṛhaspatir upādhyāyas tatra hotā babhūva ha // MBh_12,323.5
+
+prajāpatisutāś cātra sadasyās tv abhavaṃs trayaḥ 
+ekataś ca dvitaś caiva tritaś caiva mahar2ṣayaḥ // MBh_12,323.6
+
+dhanuṣākṣo 'tha raibhyaś ca arvāvasuparāvasū 
+ṛṣir medhātithiś caiva tāṇḍyaś caiva mahān ṛṣiḥ // MBh_12,323.7
+
+ṛṣiḥ śaktir mahābhāgas tathā vedaśirāś ca yaḥ 
+kapilaś ca ṛṣiśreṣṭhaḥ śālihotrapitāmahaḥ // MBh_12,323.8
+
+ādyaḥ kaṭhas taittiriś ca vaiśaṃpāyanapūrvajaḥ 
+kaṇvo 'tha devahotraś ca ete ṣoḍaśa kīrtitāḥ 
+saṃbhṛtāḥ sarvasaṃbhārās tasmin rājan mahākratau // MBh_12,323.9
+
+na tatra paśughāto 'bhūt sa rājaivaṃ sthito 'bhavat 
+ahiṃsraḥ śucir akṣudro nirāśīḥ karmasaṃstutaḥ 
+āraṇyakapadodgītā bhāgās tatropakalpitāḥ // MBh_12,323.10
+
+prītas tato 'sya bhagavān devadevaḥ purātanaḥ 
+sākṣāt taṃ darśayām āsa so 'dṛśyo 'nyena kenacit // MBh_12,323.11
+
+svayaṃ bhāgam upāghrāya puroḍāśaṃ gṛhītavān 
+adṛśyena hṛto bhāgo devena harimedhasā // MBh_12,323.12
+
+bṛhaspatis tataḥ kruddhaḥ sruvam udyamya vegitaḥ 
+ākāśaṃ ghnan sruvaḥ pātai roṣād aśrūṇy avartayat // MBh_12,323.13
+
+uvāca coparicaraṃ mayā bhāgo 'yam udyataḥ 
+grāhyaḥ svayaṃ hi devena matpratyakṣaṃ na saṃśayaḥ // MBh_12,323.14
+
+udyatā yajñabhāgā hi sākṣāt prāptāḥ surair iha 
+kimartham iha na prāpto darśanaṃ sa harir vibhuḥ // MBh_12,323.15
+
+tataḥ sa taṃ samuddhūtaṃ bhūmipālo mahān vasuḥ 
+prasādayām āsa muniṃ sadasyās te ca sarvaśaḥ // MBh_12,323.16
+
+ūcuś cainam asaṃbhrāntā na roṣaṃ kartum arhasi  MBh_12,323.17
+
+naiṣa dharmaḥ kṛtayuge yas tvaṃ roṣam acīkṛthāḥ // MBh_12,323.17
+
+aroṣaṇo hy asau devo yasya bhāgo 'yam udyataḥ 
+na sa śakyas tvayā draṣṭum asmābhir vā bṛhaspate 
+yasya prasādaṃ kurute sa vai taṃ draṣṭum arhati // MBh_12,323.18
+
+ekatadvitatritā ūcuḥ: vayaṃ hi brahmaṇaḥ putrā mānasāḥ parikīrtitāḥ 
+gatā niḥśreyasārthaṃ hi kadācid diśam uttarām // MBh_12,323.19
+
+taptvā varṣasahasrāṇi catvāri tapa uttamam 
+ekapādasthitāḥ samyak kāṣṭhabhūtāḥ samāhitāḥ // MBh_12,323.20
+
+meror uttarabhāge tu kṣīrodasyānukūlataḥ 
+sa deśo yatra nas taptaṃ tapaḥ paramadāruṇam 
+kathaṃ paśyemahi vayaṃ devaṃ nārāyaṇaṃ tv iti // MBh_12,323.21
+
+tato vratasyāvabhṛthe vāg uvācā-śarīriṇī  MBh_12,323.22
+
+sutaptaṃ vas tapo viprāḥ prasannenāntarātmanā // MBh_12,323.22
+
+yūyaṃ jijñāsavo bhaktāḥ kathaṃ drakṣyatha taṃ prabhum 
+kṣīrodadher uttarataḥ śvetadvīpo mahāprabhaḥ // MBh_12,323.23
+
+tatra nārāyaṇaparā mānavāś candravarcasaḥ 
+ekāntabhāvopagatās te bhaktāḥ puruṣottamam // MBh_12,323.24
+
+te sahasrārciṣaṃ devaṃ praviśanti sanātanam 
+atīndriyā nirāhārā aniṣpandāḥ sugandhinaḥ // MBh_12,323.25
+
+ekāntinas te puruṣāḥ śvetadvīpanivāsinaḥ 
+gacchadhvaṃ tatra munayas tatrātmā me prakāśitaḥ // MBh_12,323.26
+
+atha śrutvā vayaṃ sarve vācaṃ tām aśarīriṇīm 
+yathākhyātena mārgeṇa taṃ deśaṃ pratipedire // MBh_12,323.27
+
+prāpya śvetaṃ mahādvīpaṃ taccittās taddidṛkṣavaḥ  MBh_12,323.28
+
+tato no dṛṣṭiviṣayas tadā pratihato 'bhavat // MBh_12,323.28
+
+na ca paśyāma puruṣaṃ tattejohṛtadarśanāḥ 
+tato naḥ prādur abhavad vijñānaṃ devayogajam // MBh_12,323.29
+
+na kilā-taptatapasā śakyate draṣṭum añjasā 
+tataḥ punar varṣaśataṃ taptvā tātkālikaṃ mahat // MBh_12,323.30
+
+vratāvasāne suśubhān narān dadṛśire vayam 
+śvetāṃś candrapratīkāśān sarvalakṣaṇalakṣitān // MBh_12,323.31
+
+nityāñjalikṛtān brahma japataḥ prāgudaṅmukhān 
+mānaso nāma sa japo japyate tair mahātmabhiḥ 
+tenaikāgramanastvena prīto bhavati vai hariḥ // MBh_12,323.32
+
+yā bhaven muniśārdūla bhāḥ sūryasya yugakṣaye 
+ekaikasya prabhā tādṛk sābhavan mānavasya ha // MBh_12,323.33
+
+tejonivāsaḥ sa dvīpa iti vai menire vayam 
+na tatrābhyadhikaḥ kaścit sarve te samatejasaḥ_1 // MBh_12,323.34
+
+atha sūryasahasrasya prabhāṃ yugapadutthitām 
+sahasā dṛṣṭavantaḥ sma punar eva bṛhaspate // MBh_12,323.35
+
+sahitāś cābhyadhāvanta tatas te mānavā drutam 
+kṛtāñjalipuṭāḥ hṛṣṭā nama ity eva vādinaḥ // MBh_12,323.36
+
+tato 'bhivadatāṃ teṣām aśrauṣma vipulaṃ dhvanim 
+baliḥ kilopahriyate tasya devasya tair naraiḥ // MBh_12,323.37
+
+vayaṃ tu tejasā tasya sahasā hṛtacetasaḥ 
+na kiṃcid api paśyāmo hatadṛṣṭibalendriyāḥ // MBh_12,323.38
+
+ekas tu śabdo 'virataḥ śruto 'smābhir udīritaḥ  MBh_12,323.39
+
+jitaṃ te puṇḍarīkākṣa namas te viśvabhāvana // MBh_12,323.39
+
+namas te 'stu hṛṣīkeśa mahāpuruṣapūrvaja 
+iti śabdaḥ śruto 'smābhiḥ śikṣā-kṣarasamīritaḥ // MBh_12,323.40
+
+etasminn antare vāyuḥ sarvagandhavahaḥ śuciḥ 
+divyāny uvāha puṣpāṇi karmaṇyāś cauṣadhīs tathā // MBh_12,323.41
+
+tair iṣṭaḥ_2 pañcakālajñair harir ekāntibhir naraiḥ 
+nūnaṃ tatrāgato devo yathā tair vāg udīritā  MBh_12,323.42
+
+vayaṃ tv enaṃ na paśyāmo mohitās tasya māyayā // MBh_12,323.42
+
+mārute saṃnivṛtte ca balau ca pratipādite 
+cintāvyākulitātmāno jātāḥ smo 'ṅgirasāṃ vara // MBh_12,323.43
+
+mānavānāṃ sahasreṣu teṣu vai śuddhayoniṣu 
+asmān na kaścin manasā cakṣuṣā vāpy apūjayat // MBh_12,323.44
+
+te 'pi svasthā munigaṇā ekabhāvam anuvratāḥ 
+nāsmāsu dadhire bhāvaṃ brahmabhāvam anuṣṭhitāḥ // MBh_12,323.45
+
+tato 'smān supariśrāntāṃs tapasā cāpi karśitān 
+uvāca khasthaṃ kimapi bhūtaṃ tatrā-śarīrakam // MBh_12,323.46
+
+dṛṣṭā vaḥ puruṣāḥ śvetāḥ sarvendriyavarjitāḥ 
+dṛṣṭo bhavati deveśa ebhir dṛṣṭair dvijottamāḥ // MBh_12,323.47
+
+gacchadhvaṃ munayaḥ sarve yathāgatam ito 'cirāt 
+na sa śakyo abhaktena draṣṭuṃ devaḥ kathaṃcana // MBh_12,323.48
+
+kāmaṃ kālena mahatā ekāntitvaṃ samāgataiḥ 
+śakyo draṣṭuṃ sa bhagavān prabhāmaṇḍaladurdṛśaḥ // MBh_12,323.49
+
+mahat kāryaṃ tu kartavyaṃ yuṣmābhir dvijasattamāḥ 
+itaḥ kṛtayuge 'tīte viparyāsaṃ gate_1 'pi ca // MBh_12,323.50
+
+vaivasvate 'ntare viprāḥ prāpte tretāyuge tataḥ 
+surāṇāṃ kāryasiddhyarthaṃ sahāyā vai bhaviṣyatha // MBh_12,323.51
+
+tatas tad adbhutaṃ vākyaṃ niśamyaivaṃ sma somapa_1 
+tasya prasādāt prāptāḥ smo deśam īpsitam añjasā // MBh_12,323.52
+
+evaṃ sutapasā caiva havyakavyais tathaiva ca 
+devo 'smābhir na dṛṣṭaḥ sa kathaṃ tvaṃ draṣṭum arhasi 
+nārāyaṇo mahad bhūtaṃ viśvasṛg ghavyakavyabhuk // MBh_12,323.53
+
+evam ekatavākyena dvitatritamatena ca 
+anunītaḥ sadasyaiś ca bṛhaspatir udāradhīḥ 
+samānīya tato yajñaṃ daivataṃ samapūjayat // MBh_12,323.54
+
+samāptayajño rājāpi prajāḥ pālitavān vasuḥ 
+brahmaśāpād divo bhraṣṭaḥ praviveśa mahīṃ tataḥ // MBh_12,323.55
+
+antarbhūmigataś caiva satataṃ dharmavatsalaḥ 
+nārāyaṇaparo bhūtvā nārāyaṇapadaṃ jagau // MBh_12,323.56
+
+tasyaiva ca prasādena punar evotthitas tu saḥ 
+mahītalād gataḥ sthānaṃ brahmaṇaḥ samanantaram 
+parāṃ gatim anuprāpta iti naiṣṭhikam añjasā // MBh_12,323.57
+
+yadā bhakto bhagavata āsīd rājā mahāvasuḥ 
+kimarthaṃ sa paribhraṣṭo viveśa vivaraṃ bhuvaḥ // MBh_12,324.1
+
+atrāpy udāharantīmam itihāsaṃ purātanam 
+ṛṣīṇāṃ caiva saṃvādaṃ tridaśānāṃ ca bhārata // MBh_12,324.2
+
+ajena yaṣṭavyam iti devāḥ prāhur dvijottamān 
+sa ca chāgo hy ajo jñeyo nānyaḥ paśur iti sthitiḥ // MBh_12,324.3
+
+ṛṣaya ūcuḥ: bījair yajñeṣu yaṣṭavyam iti vai vaidikī śrutiḥ 
+ajasaṃjñāni bījāni chāgaṃ na ghnantum arhatha // MBh_12,324.4
+
+naiṣa dharmaḥ satāṃ devā yatra vadhyeta vai paśuḥ 
+idaṃ kṛtayugaṃ śreṣṭhaṃ kathaṃ vadhyeta vai paśuḥ // MBh_12,324.5
+
+teṣāṃ saṃvadatām evam ṛṣīṇāṃ vibudhaiḥ saha 
+mārgāgato nṛpa_2-śreṣṭhas taṃ deśaṃ prāptavān vasuḥ 
+antarikṣacaraḥ śrīmān samagrabalavāhanaḥ // MBh_12,324.6
+
+taṃ dṛṣṭvā sahasāyāntaṃ vasuṃ te tv antarikṣagam_1 
+ūcur dvijātayo devān eṣa chetsyati saṃśayam // MBh_12,324.7
+
+yajvā dānapatiḥ śreṣṭhaḥ sarvabhūtahitapriyaḥ 
+kathaṃ svid anyathā brūyād vākyam eṣa mahān vasuḥ // MBh_12,324.8
+
+evaṃ te saṃvidaṃ kṛtvā vibudhā ṛṣayas tathā 
+apṛcchan sahasābhyetya vasuṃ rājānam antikāt // MBh_12,324.9
+
+bho rājan kena yaṣṭavyam ajenāho svid auṣadhaiḥ 
+etan naḥ saṃśayaṃ chindhi pramāṇaṃ no bhavān mataḥ // MBh_12,324.10
+
+sa tān kṛtāñjalir bhūtvā paripapraccha vai vasuḥ 
+kasya vaḥ ko mataḥ pakṣo brūta satyaṃ samāgatāḥ // MBh_12,324.11
+
+ṛṣaya ūcuḥ: dhānyair yaṣṭavyam ity eṣa pakṣo 'smākaṃ narādhipa 
+devānāṃ tu paśuḥ pakṣo mato rājan vadasva naḥ // MBh_12,324.12
+
+devānāṃ tu mataṃ jñātvā vasunā pakṣasaṃśrayāt 
+chāgenājena yaṣṭavyam evam uktaṃ vacas tadā // MBh_12,324.13
+
+kupitās te tataḥ sarve munayaḥ sūryavarcasaḥ 
+ūcur vasuṃ vimānasthaṃ devapakṣārthavādinam // MBh_12,324.14
+
+surapakṣo gṛhītas te yasmāt tasmād divaḥ pata 
+adyaprabhṛti te rājan nākāśe vihitā gatiḥ 
+asmacchāpābhighātena mahīṃ bhittvā pravekṣyasi // MBh_12,324.15
+
+tatas tasmin muhūrte 'tha rājoparicaras tadā 
+adho vai saṃbabhūvāśu bhūmer vivarago_1 nṛpaḥ_2 
+smṛtis tv enaṃ na prajahau tadā nārāyaṇājñayā // MBh_12,324.16
+
+devās tu sahitāḥ sarve vasoḥ śāpavimokṣaṇam 
+cintayām āsur avyagrāḥ sukṛtaṃ hi nṛpasya_2 tat // MBh_12,324.17
+
+anenāsmatkṛte rājñā śāpaḥ prāpto mahātmanā 
+asya pratipriyaṃ kāryaṃ sahitair no divaukasaḥ // MBh_12,324.18
+
+iti buddhyā vyavasyāśu gatvā niścayam īśvarāḥ 
+ūcus taṃ hṛṣṭamanaso rājoparicaraṃ tadā // MBh_12,324.19
+
+brahmaṇyadevaṃ tvaṃ bhaktaḥ surāsuraguruṃ harim 
+kāmaṃ sa tava tuṣṭātmā kuryāc chāpavimokṣaṇam // MBh_12,324.20
+
+mānanā tu dvijātīnāṃ kartavyā vai mahātmanām 
+avaśyaṃ tapasā teṣāṃ phalitavyaṃ nṛpa_2-uttama // MBh_12,324.21
+
+yatas tvaṃ sahasā bhraṣṭa ākāśān medinītalam  MBh_12,324.22
+
+ekaṃ tv anugrahaṃ tubhyaṃ dadmo vai nṛpa_2-sattama // MBh_12,324.22
+
+yāvat tvaṃ śāpadoṣeṇa kālam āsiṣyase 'nagha 
+bhūmer vivarago_1 bhūtvā tāvantaṃ kālam āpsyasi 
+yajñeṣu suhutāṃ viprair vasordhārāṃ mahātmabhiḥ // MBh_12,324.23
+
+prāpsyase 'smadanudhyānān mā ca tvāṃ glānir āspṛśet 
+na kṣutpipāse rājendra bhūmeś cchidre bhaviṣyataḥ // MBh_12,324.24
+
+vasordhārānupītatvāt tejasāpyāyitena ca  MBh_12,324.25
+
+sa devo 'smadvarāt prīto brahmalokaṃ hi neṣyati // MBh_12,324.25
+
+evaṃ dattvā varaṃ rājñe sarve tatra divaukasaḥ  MBh_12,324.26
+
+gatāḥ svabhavanaṃ devā ṛṣayaś ca tapodhanāḥ // MBh_12,324.26
+
+cakre ca satataṃ pūjāṃ viṣvaksenāya bhārata 
+japyaṃ jagau ca satataṃ nārāyaṇamukhodgatam // MBh_12,324.27
+
+tatrāpi pañcabhir yajñaiḥ pañcakālān ariṃdama 
+ayajad dhariṃ surapatiṃ bhūmer vivarago_1 'pi san // MBh_12,324.28
+
+tato 'sya tuṣṭo bhagavān bhaktyā nārāyaṇo hariḥ 
+ananyabhaktasya satas tatparasya jitātmanaḥ // MBh_12,324.29
+
+varado bhagavān viṣṇuḥ samīpasthaṃ dvijottamam 
+garutmantaṃ mahāvegam ābabhāṣe smayann iva // MBh_12,324.30
+
+dvijottama mahābhāga gamyatāṃ vacanān mama 
+samrāḍ rājā vasur nāma dharmātmā māṃ samāśritaḥ // MBh_12,324.31
+
+brāhmaṇānāṃ prakopena praviṣṭo vasudhātalam 
+mānitās te tu viprendrās tvaṃ tu gaccha dvijottama // MBh_12,324.32
+
+bhūmer vivarasaṃguptaṃ garuḍeha mamājñayā 
+adhaścaraṃ nṛpa_2-śreṣṭhaṃ khecaraṃ kuru māciram // MBh_12,324.33
+
+garutmān atha vikṣipya pakṣau mārutavegavān 
+viveśa vivaraṃ bhūmer yatrāste vāgyato vasuḥ // MBh_12,324.34
+
+tata enaṃ samutkṣipya sahasā vinatāsutaḥ  MBh_12,324.35
+
+utpapāta nabhas tūrṇaṃ tatra cainam amuñcata // MBh_12,324.35
+
+tasmin muhūrte saṃjajñe rājoparicaraḥ punaḥ 
+saśarīro gataś caiva brahmalokaṃ nṛpa_2-uttamaḥ // MBh_12,324.36
+
+evaṃ tenāpi kaunteya vāgdoṣād devatājñayā 
+prāptā gatir ayajvārhā dvijaśāpān mahātmanā // MBh_12,324.37
+
+kevalaṃ puruṣas tena sevito harir īśvaraḥ 
+tataḥ śīghraṃ jahau śāpaṃ brahmalokam avāpa ca // MBh_12,324.38
+
+etat te sarvam ākhyātaṃ te bhūtā mānavā yathā 
+nārado 'pi yathā śvetaṃ dvīpaṃ sa gatavān ṛṣiḥ 
+tat te sarvaṃ pravakṣyāmi śṛṇuṣvaikamanā nṛpa_2 // MBh_12,324.39
+
+prāpya śvetaṃ mahādvīpaṃ nārado bhagavān ṛṣiḥ 
+dadarśa tān eva narāñ śvetāṃś candraprabhāñ śubhān // MBh_12,325.1
+
+pūjayām āsa śirasā manasā taiś ca pūjitaḥ 
+didṛkṣur japyaparamaḥ sarvakṛcchradharaḥ sthitaḥ // MBh_12,325.2
+
+bhūtvaikāgramanā vipra ūrdhvabāhur mahāmuniḥ 
+stotraṃ jagau sa viśvāya nirguṇāya mahātmane // MBh_12,325.3
+
+namas te devadeva (1)
+niṣkriya (2)
+nirguṇa (3)
+lokasākṣin (4)
+kṣetrajña (5)
+ananta (6)
+puruṣa (7)
+mahāpuruṣa (8)
+triguṇa (9)
+pradhāna (10)
+amṛta (11)
+vyoma (12)
+sanātana (13)
+sada-sadvyaktā-vyakta (14)
+ṛtadhāman (15)
+pūrvādideva (16)
+vasuprada (17)
+prajāpate (18)
+suprajāpate (19)
+vanaspate (20)
+mahāprajāpate (21)
+ūrjaspate (22)
+vācaspate (23)
+manaspate (24)
+jagatpate (25)
+divaspate (26)
+marutpate (27)
+salilapate (28)
+pṛthivīpate (29)
+dikpate (30)
+pūrvanivāsa (31)
+brahmapurohita (32)
+brahmakāyika (33)
+mahākāyika (34)
+mahārājika (35)
+caturmahārājika (36)
+ābhāsura (37)
+mahābhāsura (38)
+saptamahābhāsura (39)
+yāmya (40)
+mahāyāmya (41)
+saṃjñāsaṃjña (42)
+tuṣita (43)
+mahātuṣita (44)
+pratardana (45)
+parinirmita (46)
+vaśavartin (47)
+aparinirmita (48)
+yajña (49)
+mahāyajña (50)
+yajñasaṃbhava (51)
+yajñayone (52)
+yajñagarbha (53)
+yajñahṛdaya (54)
+yajñastuta (55)
+yajñabhāgahara (56)
+pañcayajñadhara (57)
+pañcakālakartṛgate_2 (58)
+pañcarātrika (59)
+vaikuṇṭha (60)
+aparājita (61)
+mānasika (62)
+paramasvāmin (63)
+susnāta (64)
+haṃsa (65)
+paramahaṃsa (66)
+paramayājñika (67)
+sāṃkhyayoga (68)
+amṛteśaya (69)
+hiraṇyeśaya (70)
+vedeśaya (71)
+kuśeśaya (72)
+brahmeśaya (73)
+padmeśaya (74)
+viśveśvara (75)
+tvaṃ jagadanvayaḥ (76)
+tvaṃ jagatprakṛtiḥ (77)
+tavāgnir āsyam (78)
+vaḍavāmukho 'gniḥ (79)
+tvam āhutiḥ (80)
+tvaṃ sārathiḥ (81)
+tvaṃ vaṣaṭkāraḥ (82)
+tvam oṃkāraḥ (83)
+tvaṃ manaḥ (84)
+tvaṃ candramāḥ (85)
+tvaṃ cakṣur ādyam (86)
+tvaṃ sūryaḥ (87)
+tvaṃ diśāṃ gajaḥ (88)
+digbhāno (89)
+hayaśiraḥ (90)
+prathamatrisauparṇa (91)
+pañcāgne (92)
+triṇāciketa (93)
+ṣaḍaṅgavidhāna (94)
+prāgjyotiṣa (95)
+jyeṣṭhasāmaga (96)
+sāmikavratadhara (97)
+atharvaśiraḥ (98)
+pañcamahākalpa (99)
+phenapa_1-ācārya (100)
+vālakhilya (101)
+vaikhānasa (102)
+abhagnayoga (103)
+abhagnaparisaṃkhyāna (104)
+yugāde (105)
+yugamadhya (106)
+yuganidhana (107)
+ākhaṇḍala (108)
+prācīnagarbha (109)
+kauśika (110)
+puruṣṭuta (111)
+puruhūta (112)
+viśvarūpa (113)
+anantagate_2 (114)
+anantabhoga (115)
+ananta (116)
+anāde (117)
+amadhya (118)
+avyaktamadhya (119)
+avyaktanidhana (120)
+vratāvāsa (121)
+samudrādhivāsa (122)
+yaśovāsa (123)
+tapovāsa (124)
+lakṣmy-āvāsa (125)
+vidyāvāsa (126)
+kīrtyāvāsa (127)
+śrīvāsa (128)
+sarvāvāsa (129)
+vāsudeva (130)
+sarvacchandaka (131)
+harihaya (132)
+harimedha (133)
+mahāyajñabhāgahara (134)
+varaprada (135)
+yamaniyamamahāniyamakṛcchrātikṛcchramahākṛcchrasarvakṛcchraniyamadhara (136)
+nivṛttadharmapravacanagate_2 (137)
+pravṛttavedakriya (138)
+aja (139)
+sarvagate_2 (140)
+sarvadarśin (141)
+agrāhya (142)
+acala (143)
+mahāvidhūte (144)
+māhātmyaśarīra (145)
+pavitra (146)
+mahāpavitra (147)
+hiraṇmaya (148)
+bṛhat (149)
+apratarkya (150)
+avijñeya (151)
+brahmāgrya (152)
+prajāsargakara (153)
+prajānidhanakara (154)
+mahāmāyādhara (155)
+citraśikhaṇḍin (156)
+varaprada (157)
+puroḍāśabhāgahara (158)
+gatādhvan (159)
+chinnatṛṣṇa (160)
+chinnasaṃśaya (161)
+sarvatonivṛtta (162)
+brāhmaṇarūpa (163)
+brāhmaṇapriya (164)
+viśvamūrte (165)
+mahāmūrte (166)
+bāndhava (167)
+bhaktavatsala (168)
+brahmaṇyadeva (169)
+bhakto 'haṃ tvāṃ didṛkṣuḥ (170)
+ekāntadarśanāya namo namaḥ (171) MBh_12,325.4
+
+evaṃ stutaḥ sa bhagavān guhyais tathyaiś ca nāmabhiḥ 
+taṃ muniṃ darśayām āsa nāradaṃ viśvarūpadhṛk // MBh_12,326.1
+
+kiṃcic candraviśuddhātmā kiṃcic candrād viśeṣavān 
+kṛśānuvarṇaḥ kiṃcic ca kiṃcid dhiṣṇyākṛtiḥ prabhuḥ // MBh_12,326.2
+
+śukapatravarṇaḥ kiṃcic ca kiṃcit sphaṭikasaprabhaḥ 
+nīlāñjanacayaprakhyo jātarūpaprabhaḥ kvacit // MBh_12,326.3
+
+pravālāṅkuravarṇaś ca śvetavarṇaḥ kvacid babhau 
+kvacit suvarṇavarṇābho vaiḍūryasadṛśaḥ kvacit // MBh_12,326.4
+
+nīlavaiḍūryasadṛśa indranīlanibhaḥ kvacit 
+mayūragrīvāvarṇābho muktāhāranibhaḥ kvacit // MBh_12,326.5
+
+etān varṇān bahuvidhān rūpe bibhrat sanātanaḥ 
+sahasranayanaḥ śrīmāñ śataśīrṣaḥ sahasrapāt // MBh_12,326.6
+
+sahasrodarabāhuś ca avyakta iti ca kvacit 
+oṃkāram udgiran vaktrāt sāvitrīṃ ca tadanvayām // MBh_12,326.7
+
+śeṣebhyaś caiva vaktrebhyaś caturvedodgataṃ vasu  MBh_12,326.8
+
+āraṇyakaṃ jagau devo harir nārāyaṇo vaśī // MBh_12,326.8
+
+vedīṃ kamaṇḍaluṃ darbhān maṇirūpān athopalān 
+ajinaṃ daṇḍakāṣṭhaṃ ca jvalitaṃ ca hutāśanam 
+dhārayām āsa deveśo hastair yajñapatis tadā // MBh_12,326.9
+
+taṃ prasannaṃ prasannātmā nārado dvijasattamaḥ 
+vāgyataḥ prayato bhūtvā vavande parameśvaram 
+tam uvāca nataṃ mūrdhnā devānām ādir avyayaḥ // MBh_12,326.10
+
+ekataś ca dvitaś caiva tritaś caiva mahar2ṣayaḥ 
+imaṃ deśam anuprāptā mama darśanalālasāḥ // MBh_12,326.11
+
+na ca māṃ te dadṛśire na ca drakṣyati kaścana 
+ṛte hy ekāntikaśreṣṭhāt tvaṃ caivaikāntiko mataḥ // MBh_12,326.12
+
+mamaitās tanavaḥ śreṣṭhā jātā dharmagṛhe dvija 
+tās tvaṃ bhajasva satataṃ sādhayasva yathāgatam // MBh_12,326.13
+
+vṛṇīṣva ca varaṃ vipra mattas tvaṃ yam ihecchasi 
+prasanno 'haṃ tavādyeha viśvamūrtir ihā-vyayaḥ // MBh_12,326.14
+
+adya me tapaso deva yamasya niyamasya ca 
+sadyaḥ phalam avāptaṃ vai dṛṣṭo yad bhagavān mayā // MBh_12,326.15
+
+vara eṣa mamātyantaṃ dṛṣṭas tvaṃ yat sanātanaḥ 
+bhagavān viśvadṛk siṃhaḥ sarvamūrtir mahāprabhuḥ // MBh_12,326.16
+
+evaṃ saṃdarśayitvā tu nāradaṃ parameṣṭhijam 
+uvāca vacanaṃ bhūyo gaccha nārada māciram MBh_12,326.17
+
+ime hy anindriyāhārā madbhaktāś candravarcasaḥ 
+ekāgrāś cintayeyur māṃ naiṣāṃ vighno bhaved iti // MBh_12,326.18
+
+siddhāś caite mahābhāgāḥ purā hy ekāntino 'bhavan 
+tamorajovinirmuktā māṃ pravekṣyanty asaṃśayam // MBh_12,326.19
+
+na dṛśyaś cakṣuṣā yo 'sau na spṛśyaḥ sparśanena ca 
+na ghreyaś caiva gandhena rasena ca vivarjitaḥ // MBh_12,326.20
+
+sattvaṃ rajas tamaś caiva na guṇās taṃ bhajanti vai 
+yaś ca sarvagataḥ sākṣī lokasyātmeti kathyate // MBh_12,326.21
+
+bhūtagrāmaśarīreṣu naśyatsu na vinaśyati 
+ajo nityaḥ śāśvataś ca nirguṇo niṣkalas tathā // MBh_12,326.22
+
+dvir dvādaśebhyas tattvebhyaḥ khyāto yaḥ pañcaviṃśakaḥ 
+puruṣo niṣkriyaś caiva jñānadṛśyaś ca kathyate // MBh_12,326.23
+
+yaṃ praviśya bhavantīha muktā vai dvijasattama 
+sa vāsudevo vijñeyaḥ paramātmā sanātanaḥ // MBh_12,326.24
+
+paśya devasya māhātmyaṃ mahimānaṃ ca nārada  MBh_12,326.25
+
+śubhā-śubhaiḥ karmabhir yo na lipyati kadācana // MBh_12,326.25
+
+sattvaṃ rajas tamaś caiva guṇān etān pracakṣate 
+ete sarvaśarīreṣu tiṣṭhanti vicaranti ca // MBh_12,326.26
+
+etān guṇāṃs tu kṣetrajño bhuṅkte naibhiḥ sa bhujyate  MBh_12,326.27
+
+nirguṇo guṇabhuk caiva guṇasraṣṭā guṇādhikaḥ // MBh_12,326.27
+
+jagatpratiṣṭhā devar1ṣe pṛthivy apsu pralīyate 
+jyotiṣy āpaḥ pralīyante jyotir vāyau pralīyate // MBh_12,326.28
+
+khe vāyuḥ pralayaṃ yāti manasy ākāśam eva ca  MBh_12,326.29
+
+mano hi paramaṃ bhūtaṃ tad avyakte pralīyate // MBh_12,326.29
+
+avyaktaṃ puruṣe brahman niṣkriye saṃpralīyate 
+nāsti tasmāt parataraṃ puruṣād vai sanātanāt // MBh_12,326.30
+
+nityaṃ hi nāsti jagati bhūtaṃ sthāvarajaṅgamam 
+ṛte tam ekaṃ puruṣaṃ vāsudevaṃ sanātanam 
+sarvabhūtātmabhūto hi vāsudevo mahābalaḥ // MBh_12,326.31
+
+pṛthivī vāyur ākāśam āpo jyotiś ca pañcamam 
+te sametā mahātmānaḥ śarīram iti saṃjñitam // MBh_12,326.32
+
+tadāviśati yo brahmann adṛśyo laghuvikramaḥ 
+utpanna eva bhavati śarīraṃ ceṣṭayan prabhuḥ // MBh_12,326.33
+
+na vinā dhātusaṃghātaṃ śarīraṃ bhavati kvacit 
+na ca jīvaṃ vinā brahman dhātavaś ceṣṭayanty uta // MBh_12,326.34
+
+sa jīvaḥ parisaṃkhyātaḥ śeṣaḥ saṃkarṣaṇaḥ prabhuḥ 
+tasmāt sanatkumāratvaṃ yo labheta svakarmaṇā // MBh_12,326.35
+
+yasmiṃś ca sarvabhūtāni pralayaṃ yānti saṃkṣaye 
+sa manaḥ sarvabhūtānāṃ pradyumnaḥ paripaṭhyate // MBh_12,326.36
+
+tasmāt prasūto yaḥ kartā kāryaṃ kāraṇam eva ca 
+yasmāt sarvaṃ prabhavati jagat sthāvarajaṅgamam 
+so 'niruddhaḥ sa īśāno vyaktiḥ sā sarvakarmasu // MBh_12,326.37
+
+yo vāsudevo bhagavān kṣetrajño nirguṇātmakaḥ 
+jñeyaḥ sa eva bhagavāñ jīvaḥ saṃkarṣaṇaḥ prabhuḥ // MBh_12,326.38
+
+saṃkarṣaṇāc ca pradyumno manobhūtaḥ sa ucyate 
+pradyumnād yo 'niruddhas tu so 'haṃkāro maheśvaraḥ // MBh_12,326.39
+
+mattaḥ sarvaṃ saṃbhavati jagat sthāvarajaṅgamam 
+akṣaraṃ ca kṣaraṃ caiva sac cā-sac caiva nārada // MBh_12,326.40
+
+māṃ praviśya bhavantīha muktā bhaktās tu ye mama 
+ahaṃ hi puruṣo jñeyo niṣkriyaḥ pañcaviṃśakaḥ // MBh_12,326.41
+
+nirguṇo niṣkalaś caiva nirdvaṃdvo niṣparigrahaḥ 
+etat tvayā na vijñeyaṃ rūpavān iti dṛśyate 
+icchan muhūrtān naśyeyam īśo 'haṃ jagato guruḥ // MBh_12,326.42
+
+māyā hy eṣā mayā sṛṣṭā yan māṃ paśyasi nārada 
+sarvabhūtaguṇair yuktaṃ naivaṃ tvaṃ jñātum arhasi 
+mayaitat kathitaṃ samyak tava mūrticatuṣṭayam // MBh_12,326.43
+
+siddhā hy ete mahābhāgā narā hy ekāntino 'bhavan 
+tamorajobhyāṃ nirmuktāḥ pravekṣyanti ca māṃ mune // MBh_12,326.44
+
+ahaṃ kartā ca kāryaṃ ca kāraṇaṃ cāpi nārada 
+ahaṃ hi jīvasaṃjño vai mayi jīvaḥ samāhitaḥ 
+maivaṃ te buddhir atrābhūd dṛṣṭo jīvo mayeti ca // MBh_12,326.45
+
+ahaṃ sarvatrago_1 brahman bhūtagrāmāntarātmakaḥ 
+bhūtagrāmaśarīreṣu naśyatsu na naśāmy aham // MBh_12,326.46
+
+hiraṇyagarbho lokādiś caturvaktro niruktagaḥ_1 
+brahmā sanātano devo mama bahvarthacintakaḥ // MBh_12,326.47
+
+paśyaikādaśa me rudrān dakṣiṇaṃ pārśvam āsthitān 
+dvādaśaiva tathādityān vāmaṃ pārśvaṃ samāsthitān // MBh_12,326.48
+
+agrataś caiva me paśya vasūn aṣṭau surottamān 
+nāsatyaṃ caiva dasraṃ ca bhiṣajau paśya pṛṣṭhataḥ // MBh_12,326.49
+
+sarvān prajāpatīn paśya paśya sapta ṛṣīn api 
+vedān yajñāṃś ca śataśaḥ paśyā-mṛtam athauṣadhīḥ // MBh_12,326.50
+
+tapāṃsi niyamāṃś caiva yamān api pṛthagvidhān 
+tathāṣṭaguṇam aiśvaryam ekasthaṃ paśya mūrtimat // MBh_12,326.51
+
+śriyaṃ lakṣmīṃ ca kīrtiṃ ca pṛthivīṃ ca kakudminīm 
+vedānāṃ mātaraṃ paśya matsthāṃ devīṃ sarasvatīm // MBh_12,326.52
+
+dhruvaṃ ca jyotiṣāṃ śreṣṭhaṃ paśya nārada khecaram 
+ambhodharān samudrāṃś ca sarāṃsi saritas tathā // MBh_12,326.53
+
+mūrtimantaḥ pitṛgaṇāṃś caturaḥ paśya sattama 
+trīṃś caivemān guṇān paśya matsthān mūrtivivarjitān // MBh_12,326.54
+
+devakāryād api mune pitṛkāryaṃ viśiṣyate 
+devānāṃ ca pitṝṇāṃ ca pitā hy eko 'ham āditaḥ // MBh_12,326.55
+
+ahaṃ hayaśiro bhūtvā samudre paścimottare 
+pibāmi suhutaṃ havyaṃ kavyaṃ ca śraddhayānvitam // MBh_12,326.56
+
+mayā sṛṣṭaḥ purā brahmā madyajñam ayajat svayam 
+tatas tasmai varān prīto dadāv aham anuttamān // MBh_12,326.57
+
+matputratvaṃ ca kalpādau lokādhyakṣatvam eva ca 
+ahaṃkārakṛtaṃ caiva nāma paryāyavācakam // MBh_12,326.58
+
+tvayā kṛtāṃ ca maryādāṃ nātikrāmyati kaścana 
+tvaṃ caiva varado brahman varepsūnāṃ bhaviṣyasi // MBh_12,326.59
+
+surāsuragaṇānāṃ ca ṛṣīṇāṃ ca tapodhana 
+pitṝṇāṃ ca mahābhāga satataṃ saṃśitavrata 
+vividhānāṃ ca bhūtānāṃ tvam upāsyo bhaviṣyasi // MBh_12,326.60
+
+prādurbhāvagataś cāhaṃ surakāryeṣu nityadā 
+anuśāsyas tvayā brahman niyojyaś ca suto yathā // MBh_12,326.61
+
+etāṃś cānyāṃś ca rucirān brahmaṇe 'mitatejase  MBh_12,326.62
+
+ahaṃ dattvā varān prīto nivṛttiparamo 'bhavam // MBh_12,326.62
+
+nirvāṇaṃ sarvadharmāṇāṃ nivṛttiḥ paramā smṛtā 
+tasmān nivṛttim āpannaś caret sarvāṅganirvṛtaḥ // MBh_12,326.63
+
+vidyāsahāyavantaṃ mām ādityasthaṃ sanātanam 
+kapilaṃ prāhur ācāryāḥ sāṃkhyaniścitaniścayāḥ // MBh_12,326.64
+
+hiraṇyagarbho bhagavān eṣa chandasi suṣṭutaḥ 
+so 'haṃ yogagatir brahman yogaśāstreṣu śabditaḥ // MBh_12,326.65
+
+eṣo 'haṃ vyaktim āgamya tiṣṭhāmi divi śāśvataḥ 
+tato yugasahasrānte saṃhariṣye jagat punaḥ 
+kṛtvātmasthāni bhūtāni sthāvarāṇi carāṇi ca // MBh_12,326.66
+
+ekākī vidyayā sārdhaṃ vihariṣye dvijottama 
+tato bhūyo jagat sarvaṃ kariṣyāmīha vidyayā // MBh_12,326.67
+
+asmanmūrtiś caturthī yā sāsṛjac cheṣam avyayam 
+sa hi saṃkarṣaṇaḥ proktaḥ pradyumnaṃ so 'py ajījanat // MBh_12,326.68
+
+pradyumnād aniruddho 'haṃ sargo mama punaḥ punaḥ 
+aniruddhāt tathā brahmā tatrādikamalodbhavaḥ // MBh_12,326.69
+
+brahmaṇaḥ sarvabhūtāni carāṇi sthāvarāṇi ca 
+etāṃ sṛṣṭiṃ vijānīhi kalpādiṣu punaḥ punaḥ // MBh_12,326.70
+
+yathā sūryasya gaganād udayāstamayāv iha 
+naṣṭau punar balāt kālae ānayaty amitadyutiḥ  MBh_12,326.71
+
+tathā balād ahaṃ pṛthvīṃ sarvabhūtahitāya vai // MBh_12,326.71
+
+sattvair ākrāntasarvāṅgāṃ naṣṭāṃ sāgaramekhalām 
+ānayiṣyāmi svaṃ sthānaṃ vārāhaṃ rūpam āsthitaḥ // MBh_12,326.72
+
+hiraṇyākṣaṃ haniṣyāmi daiteyaṃ balagarvitam 
+nārasiṃhaṃ vapuḥ kṛtvā hiraṇyakaśipuṃ punaḥ 
+surakārye haniṣyāmi yajñaghnaṃ ditinandanam // MBh_12,326.73
+
+virocanasya balavān baliḥ putro mahāsuraḥ  MBh_12,326.74
+
+bhaviṣyati sa śakraṃ ca svarājyāc cyāvayiṣyati // MBh_12,326.74
+
+trailokye 'pahṛte tena vimukhe ca śacīpatau 
+adityāṃ dvādaśaḥ putraḥ saṃbhaviṣyāmi kaśyapāt // MBh_12,326.75
+
+tato rājyaṃ pradāsyāmi śakrāyā-mitatejase 
+devatāḥ sthāpayiṣyāmi sveṣu sthāneṣu nārada 
+baliṃ caiva kariṣyāmi pātālatalavāsinam // MBh_12,326.76
+
+tretāyuge bhaviṣyāmi rāmo bhṛgukulodvahaḥ  MBh_12,326.77
+
+kṣatraṃ cotsādayiṣyāmi samṛddhabalavāhanam // MBh_12,326.77
+
+saṃdhau tu samanuprāpte tretāyāṃ dvāparasya ca 
+rāmo dāśarathir bhūtvā bhaviṣyāmi jagatpatiḥ // MBh_12,326.78
+
+tritopaghātād vairūpyam ekato 'tha dvitas tathā 
+prāpsyato vānaratvaṃ hi prajāpatisutāv ṛṣī // MBh_12,326.79
+
+tayor ye tv anvaye jātā bhaviṣyanti vanaukasaḥ  MBh_12,326.80
+
+te sahāyā bhaviṣyanti surakārye mama dvija // MBh_12,326.80
+
+tato rakṣaḥpatiṃ ghoraṃ pulastyakulapāṃsanam 
+haniṣye rāvaṇaṃ saṃkhye sagaṇaṃ lokakaṇṭakam // MBh_12,326.81
+
+dvāparasya kaleś caiva saṃdhau paryavasānike 
+prādurbhāvaḥ kaṃsahetor māthurāyāṃ bhaviṣyati // MBh_12,326.82
+
+tatrāhaṃ dānavān hatvā subahūn devakaṇṭakān 
+kuśasthalīṃ kariṣyāmi nivāsaṃ dvārakāṃ purīm // MBh_12,326.83
+
+vasānas tatra vai puryām aditer vipriyaṃkaram 
+haniṣye narakaṃ bhaumaṃ muraṃ pīṭhaṃ ca dānavam // MBh_12,326.84
+
+prāgjyotiṣapuraṃ ramyaṃ nānādhanasamanvitam 
+kuśasthalīṃ nayiṣyāmi hatvā vai dānavottamān // MBh_12,326.85
+
+śaṃkaraṃ ca mahāsenaṃ bāṇapriyahitaiṣiṇam 
+parājeṣyāmy athodyuktau devalokanamaskṛtau // MBh_12,326.86
+
+tataḥ sutaṃ baler jitvā bāṇaṃ bāhusahasriṇam 
+vināśayiṣyāmi tataḥ sarvān saubhanivāsinaḥ // MBh_12,326.87
+
+yaḥ kālayavanaḥ khyāto gargatejoabhisaṃvṛtaḥ 
+bhaviṣyati vadhas tasya matta eva dvijottama // MBh_12,326.88
+
+jarāsaṃdhaś ca balavān sarvarājavirodhakaḥ 
+bhaviṣyaty asuraḥ sphīto bhūmipālo girivraje 
+mama buddhiparispandād vadhas tasya bhaviṣyati // MBh_12,326.89
+
+samāgateṣu baliṣu pṛthivyāṃ sarvarājasu 
+vāsaviḥ susahāyo vai mama hy eko bhaviṣyati // MBh_12,326.90
+
+evaṃ lokā vadiṣyanti naranārāyaṇāv ṛṣī 
+udyuktau dahataḥ kṣatraṃ lokakāryārtham īśvarau // MBh_12,326.91
+
+kṛtvā bhārāvataraṇaṃ vasudhāyā yathepsitam  MBh_12,326.92
+
+sarvasātvatamukhyānāṃ dvārakāyāś ca sattama 
+kariṣye pralayaṃ ghoram ātmajñātivināśanam // MBh_12,326.92
+
+karmāṇy aparimeyāni caturmūrtidharo hy aham 
+kṛtvā lokān gamiṣyāmi svān ahaṃ brahmasatkṛtān // MBh_12,326.93
+
+haṃso hayaśirāś caiva prādurbhāvā dvijottama  MBh_12,326.94
+
+yadā vedaśrutir naṣṭā mayā pratyāhṛtā tadā 
+savedāḥ saśrutīkāś ca kṛtāḥ pūrvaṃ kṛte yuge // MBh_12,326.94
+
+atikrāntāḥ purāṇeṣu śrutās te yadi vā kvacit 
+atikrāntāś ca bahavaḥ prādurbhāvā mamottamāḥ 
+lokakāryāṇi kṛtvā ca punaḥ svāṃ prakṛtiṃ gatāḥ // MBh_12,326.95
+
+na hy etad brahmaṇā prāptam īdṛśaṃ mama darśanam 
+yat tvayā prāptam adyeha ekāntagatabuddhinā // MBh_12,326.96
+
+etat te sarvam ākhyātaṃ brahman bhaktimato mayā 
+purāṇaṃ ca bhaviṣyaṃ ca sarahasyaṃ ca sattama // MBh_12,326.97
+
+evaṃ sa bhagavān devo viśvamūrtidharo 'vyayaḥ 
+etāvad uktvā vacanaṃ tatraivāntaradhīyata // MBh_12,326.98
+
+nārado 'pi mahātejāḥ prāpyānugraham īpsitam 
+naranārāyaṇau draṣṭuṃ prādravad badarāśramam // MBh_12,326.99
+
+idaṃ mahopaniṣadaṃ caturvedasamanvitam 
+sāṃkhyayogakṛtaṃ tena pañcarātrānuśabditam // MBh_12,326.100
+
+nārāyaṇamukhodgītaṃ nārado 'śrāvayat punaḥ 
+brahmaṇaḥ sadane tāta yathā dṛṣṭaṃ yathā śrutam // MBh_12,326.101
+
+etad āścaryabhūtaṃ hi māhātmyaṃ tasya dhīmataḥ 
+kiṃ brahmā na vijānīte yataḥ śuśrāva nāradāt // MBh_12,326.102
+
+pitāmaho hi bhagavāṃs tasmād devād anantaraḥ 
+kathaṃ sa na vijānīyāt prabhāvam amitaujasaḥ // MBh_12,326.103
+
+mahākalpasahasrāṇi mahākalpaśatāni ca 
+samatītāni rājendra sargāś ca pralayāś ca ha // MBh_12,326.104
+
+sargasyādau smṛto brahmā prajāsargakaraḥ prabhuḥ 
+jānāti devapravaraṃ bhūyaś cāto 'dhikaṃ nṛpa_2 
+param ātmānam īśānam ātmanaḥ prabhavaṃ tathā // MBh_12,326.105
+
+ye tv anye brahmasadane siddhasaṃghāḥ samāgatāḥ 
+tebhyas tac chrāvayām āsa purāṇaṃ vedasaṃmitam // MBh_12,326.106
+
+teṣāṃ sakāśāt sūryaś ca śrutvā vai bhāvitātmanām 
+ātmānugāmināṃ brahma śrāvayām āsa bhārata // MBh_12,326.107
+
+ṣaṭṣaṣṭir hi sahasrāṇi ṛṣīṇāṃ bhāvitātmanām 
+sūryasya tapato lokān nirmitā ye puraḥsarāḥ 
+teṣām akathayat sūryaḥ sarveṣāṃ bhāvitātmanām // MBh_12,326.108
+
+sūryānugāmibhis tāta ṛṣibhis tair mahātmabhiḥ 
+merau samāgatā devāḥ śrāvitāś cedam uttamam // MBh_12,326.109
+
+devānāṃ tu sakāśād vai tataḥ śrutvāsito dvijaḥ 
+śrāvayām āsa rājendra pitṝṇāṃ munisattamaḥ // MBh_12,326.110
+
+mama cāpi pitā tāta kathayām āsa śaṃtanuḥ 
+tato mayaitac chrutvā ca kīrtitaṃ tava bhārata // MBh_12,326.111
+
+surair vā munibhir vāpi purāṇaṃ yair idaṃ śrutam 
+sarve te paramātmānaṃ pūjayanti punaḥ punaḥ // MBh_12,326.112
+
+idam ākhyānam ārṣeyaṃ pāraṃparyāgataṃ nṛpa_2 
+nā-vāsudevabhaktāya tvayā deyaṃ kathaṃcana // MBh_12,326.113
+
+matto 'nyāni ca te rājann upākhyānaśatāni vai 
+yāni śrutāni dharmyāṇi teṣāṃ sāro 'yam uddhṛtaḥ // MBh_12,326.114
+
+surāsurair yathā rājan nirmathyā-mṛtam uddhṛtam 
+evam etat purā vipraiḥ kathā-mṛtam ihoddhṛtam // MBh_12,326.115
+
+yaś cedaṃ paṭhate nityaṃ yaś cedaṃ śṛṇuyān naraḥ 
+ekāntabhāvopagata ekānte susamāhitaḥ // MBh_12,326.116
+
+prāpya śvetaṃ mahādvīpaṃ bhūtvā candraprabho naraḥ 
+sa sahasrārciṣaṃ devaṃ praviśen nātra saṃśayaḥ // MBh_12,326.117
+
+mucyed ārtas tathā rogāc chrutvemām āditaḥ kathām 
+jijñāsur labhate kāmān bhakto bhaktagatiṃ vrajet // MBh_12,326.118
+
+tvayāpi satataṃ rājann abhyarcyaḥ puruṣottamaḥ  MBh_12,326.119
+
+sa hi mātā pitā caiva kṛtsnasya jagato guruḥ // MBh_12,326.119
+
+brahmaṇyadevo bhagavān prīyatāṃ te sanātanaḥ 
+yudhiṣṭhira mahābāho mahābāhur janārdanaḥ // MBh_12,326.120
+
+śrutvaitad ākhyānavaraṃ dharmarāḍ janamejaya 
+bhrātaraś cāsya te sarve nārāyaṇaparāabhavan // MBh_12,326.121
+
+jitaṃ bhagavatā tena puruṣeṇeti bhārata 
+nityaṃ japyaparā bhūtvā sarasvatīm udīrayan // MBh_12,326.122
+
+yo hy asmākaṃ guruḥ śreṣṭhaḥ kṛṣṇadvaipāyano muniḥ 
+sa jagau paramaṃ japyaṃ nārāyaṇam udīrayan // MBh_12,326.123
+
+gatvāntarikṣāt satataṃ kṣīrodam amṛtāśayam 
+pūjayitvā ca deveśaṃ punar āyāt svam āśramam // MBh_12,326.124
+
+kathaṃ sa bhagavān devo yajñeṣv agraharaḥ prabhuḥ 
+yajñadhārī ca satataṃ vedavedāṅgavit tathā // MBh_12,327.1
+
+nivṛttaṃ cāsthito dharmaṃ kṣemī bhāgavatapriyaḥ 
+pravṛttidharmān vidadhe sa eva bhagavān prabhuḥ // MBh_12,327.2
+
+kathaṃ pravṛttidharmeṣu bhāgārhā devatāḥ kṛtāḥ 
+kathaṃ nivṛttidharmāś ca kṛtā vyāvṛttabuddhayaḥ // MBh_12,327.3
+
+etaṃ naḥ saṃśayaṃ vipra chindhi guhyaṃ sanātanam 
+tvayā nārāyaṇakathā śrutā vai dharmasaṃhitā // MBh_12,327.4
+
+ime sabrahmakā lokāḥ sasurāsuramānavāḥ 
+kriyāsv abhyudayoktāsu saktā dṛśyanti sarvaśaḥ 
+mokṣaś coktas tvayā brahman nirvāṇaṃ paramaṃ sukham // MBh_12,327.5
+
+ye ca muktā bhavantīha puṇyapāpavivarjitāḥ 
+te sahasrārciṣaṃ devaṃ praviśantīti śuśrumaḥ // MBh_12,327.6
+
+aho hi duranuṣṭheyo mokṣadharmaḥ sanātanaḥ 
+yaṃ hitvā devatāḥ sarvā havyakavyabhujo 'bhavan // MBh_12,327.7
+
+kiṃ nu brahmā ca rudraś ca śakraś ca balabhit prabhuḥ 
+sūryas tārādhipo vāyur agnir varuṇa eva ca 
+ākāśaṃ jagatī caiva ye ca śeṣā divaukasaḥ // MBh_12,327.8
+
+pralayaṃ na vijānanti ātmanaḥ parinirmitam 
+tatas te nāsthitā mārgaṃ dhruvam akṣayam avyayam // MBh_12,327.9
+
+smṛtvā kālaparīmāṇaṃ pravṛttiṃ ye samāsthitāḥ 
+doṣaḥ kālaparīmāṇe mahān eṣa kriyāvatām // MBh_12,327.10
+
+etan me saṃśayaṃ vipra hṛdi śalyam ivārpitam 
+chindhītihāsakathanāt paraṃ kautūhalaṃ hi me // MBh_12,327.11
+
+kathaṃ bhāgaharāḥ proktā devatāḥ kratuṣu dvija 
+kimarthaṃ cādhvare brahmann ijyante tridivaukasaḥ // MBh_12,327.12
+
+ye ca bhāgaṃ pragṛhṇanti yajñeṣu dvijasattama 
+te yajanto mahāyajñaiḥ kasya bhāgaṃ dadanti vai // MBh_12,327.13
+
+aho gūḍhatamaḥ praśnas tvayā pṛṣṭo janeśvara 
+nā-taptatapasā hy eṣa nā-vedaviduṣā tathā 
+nā-purāṇavidā cāpi śakyo vyāhartum añjasā // MBh_12,327.14
+
+hanta te kathayiṣyāmi yan me pṛṣṭaḥ purā guruḥ 
+kṛṣṇadvaipāyano vyāso vedavyāso mahān ṛṣiḥ // MBh_12,327.15
+
+sumantur jaiminiś caiva pailaś ca sudṛḍhavrataḥ 
+ahaṃ caturthaḥ śiṣyo vai pañcamaś ca śukaḥ smṛtaḥ // MBh_12,327.16
+
+etān samāgatān sarvān pañca śiṣyān damānvitān 
+śaucācārasamāyuktāñ jitakrodhāñ jitendriyān // MBh_12,327.17
+
+vedān adhyāpayām āsa mahābhāratapañcamān 
+merau girivare ramye siddhacāraṇasevite // MBh_12,327.18
+
+teṣām abhyasyatāṃ vedān kadācit saṃśayo 'bhavat  MBh_12,327.19
+
+eṣa vai yas tvayā pṛṣṭas tena teṣāṃ prakīrtitaḥ 
+tataḥ śruto mayā cāpi tavākhyeyo 'dya bhārata // MBh_12,327.19
+
+śiṣyāṇāṃ vacanaṃ śrutvā sarvā-jñānatamonudaḥ 
+parāśarasutaḥ śrīmān vyāso vākyam uvāca ha // MBh_12,327.20
+
+mayā hi sumahat taptaṃ tapaḥ paramadāruṇam 
+bhūtaṃ bhavyaṃ bhaviṣyac ca jānīyām iti sattamāḥ // MBh_12,327.21
+
+tasya me taptatapaso nigṛhītendriyasya ca 
+nārāyaṇaprasādena kṣīrodasyānukūlataḥ // MBh_12,327.22
+
+traikālikam idaṃ jñānaṃ prādurbhūtaṃ yathepsitam 
+tac chṛṇudhvaṃ yathājñānaṃ vakṣye saṃśayam uttamam 
+yathā vṛttaṃ hi kalpādau dṛṣṭaṃ me jñānacakṣuṣā // MBh_12,327.23
+
+paramātmeti yaṃ prāhuḥ sāṃkhyayogavido janāḥ 
+mahāpuruṣasaṃjñāṃ sa labhate svena karmaṇā // MBh_12,327.24
+
+tasmāt prasūtam avyaktaṃ pradhānaṃ tad vidur budhāḥ 
+avyaktād vyaktam utpannaṃ lokasṛṣṭyartham īśvarāt // MBh_12,327.25
+
+aniruddho hi lokeṣu mahān ātmeti kathyate 
+yo 'sau vyaktatvam āpanno nirmame ca pitāmaham 
+so 'haṃkāra iti proktaḥ sarvatejomayo hi saḥ // MBh_12,327.26
+
+pṛthivī vāyur ākāśam āpo jyotiś ca pañcamam 
+ahaṃkāraprasūtāni mahābhūtāni bhārata // MBh_12,327.27
+
+mahābhūtāni sṛṣṭvātha tadguṇān nirmame punaḥ 
+bhūtebhyaś caiva niṣpannā mūrtimanto 'ṣṭa tāñ śṛṇu // MBh_12,327.28
+
+marīcir aṅgirāś cātriḥ pulastyaḥ pulahaḥ kratuḥ 
+vasiṣṭhaś ca mahātmā vai manuḥ svāyaṃbhuvas tathā 
+jñeyāḥ prakṛtayo 'ṣṭau tā yāsu lokāḥ pratiṣṭhitāḥ // MBh_12,327.29
+
+vedān vedāṅgasaṃyuktān yajñān yajñāṅgasaṃyutān  MBh_12,327.30
+
+nirmame lokasiddhyarthaṃ brahmā lokapitāmahaḥ 
+aṣṭābhyaḥ prakṛtibhyaś ca jātaṃ viśvam idaṃ jagat // MBh_12,327.30
+
+rudro roṣātmako jāto daśānyān so 'sṛjat svayam 
+ekādaśaite rudrās tu vikārāḥ puruṣāḥ smṛtāḥ // MBh_12,327.31
+
+te rudrāḥ prakṛtiś caiva sarve caiva surar1ṣayaḥ 
+utpannā lokasiddhyarthaṃ brahmāṇaṃ samupasthitāḥ // MBh_12,327.32
+
+vayaṃ hi sṛṣṭā bhagavaṃs tvayā vai prabhaviṣṇunā 
+yena yasminn adhīkāre vartitavyaṃ pitāmaha // MBh_12,327.33
+
+yo 'sau tvayā vinirdiṣṭo adhikāro 'rthacintakaḥ 
+paripālyaḥ kathaṃ tena so 'dhikāro 'dhikāriṇā // MBh_12,327.34
+
+pradiśasva balaṃ tasya yo 'dhikārārthacintakaḥ 
+evam ukto mahādevo devāṃs tān idam abravīt // MBh_12,327.35
+
+sādhv ahaṃ jñāpito devā yuṣmābhir bhadram astu vaḥ 
+mamāpy eṣā samutpannā cintā yā bhavatāṃ matā // MBh_12,327.36
+
+lokatantrasya kṛtsnasya kathaṃ kāryaḥ parigrahaḥ 
+kathaṃ balakṣayo na syād yuṣmākaṃ hy ātmanaś ca me // MBh_12,327.37
+
+itaḥ sarve 'pi gacchāmaḥ śaraṇaṃ lokasākṣiṇam 
+mahāpuruṣam avyaktaṃ sa no vakṣyati yad dhitam // MBh_12,327.38
+
+tatas te brahmaṇā sārdham ṛṣayo vibudhās tathā 
+kṣīrodasyottaraṃ kūlaṃ jagmur lokahitārthinaḥ // MBh_12,327.39
+
+te tapaḥ samupātiṣṭhan brahmoktaṃ vedakalpitam 
+sa mahāniyamo nāma tapaścaryā sudāruṇā // MBh_12,327.40
+
+ūrdhvaṃ dṛṣṭir bāhavaś ca ekāgraṃ ca mano 'bhavat 
+ekapādasthitāḥ samyak kāṣṭhabhūtāḥ samāhitāḥ // MBh_12,327.41
+
+divyaṃ varṣasahasraṃ te tapas taptvā tad uttamam 
+śuśruvur madhurāṃ vāṇīṃ vedavedāṅgabhūṣitām // MBh_12,327.42
+
+bho bhoḥ sabrahmakā devā ṛṣayaś ca tapodhanāḥ 
+svāgatenārcya vaḥ sarvāñ śrāvaye vākyam uttamam // MBh_12,327.43
+
+vijñātaṃ vo mayā kāryaṃ tac ca lokahitaṃ mahat 
+pravṛttiyuktaṃ kartavyaṃ yuṣmatprāṇopabṛṃhaṇam // MBh_12,327.44
+
+sutaptaṃ vas tapo devā mamārādhanakāmyayā 
+bhokṣyathāsya mahāsattvās tapasaḥ phalam uttamam // MBh_12,327.45
+
+eṣa brahmā lokaguruḥ sarvalokapitāmahaḥ 
+yūyaṃ ca vibudhaśreṣṭhā māṃ yajadhvaṃ samāhitāḥ // MBh_12,327.46
+
+sarve bhāgān kalpayadhvaṃ yajñeṣu mama nityaśaḥ 
+tathā śreyo vidhāsyāmi yathādhīkāram īśvarāḥ // MBh_12,327.47
+
+śrutvaitad devadevasya vākyaṃ hṛṣṭatanūruhāḥ 
+tatas te vibudhāḥ sarve brahmā te ca mahar2ṣayaḥ // MBh_12,327.48
+
+vedadṛṣṭena vidhinā vaiṣṇavaṃ kratum āharan 
+tasmin sattre tadā brahmā svayaṃ bhāgam akalpayat 
+devā devar1ṣayaś caiva sarve bhāgān akalpayan // MBh_12,327.49
+
+te kārtayugadharmāṇo bhāgāḥ paramasatkṛtāḥ 
+prāpur ādityavarṇaṃ taṃ puruṣaṃ tamasaḥ param 
+bṛhantaṃ sarvagaṃ_1 devam īśānaṃ varadaṃ prabhum // MBh_12,327.50
+
+tato 'tha varado devas tān sarvān amarān sthitān 
+aśarīro babhāṣedaṃ vākyaṃ khastho maheśvaraḥ // MBh_12,327.51
+
+yena yaḥ kalpito bhāgaḥ sa tathā samupāgataḥ 
+prīto 'haṃ pradiśāmy adya phalam āvṛttilakṣaṇam // MBh_12,327.52
+
+etad vo lakṣaṇaṃ devā matprasādasamudbhavam 
+yūyaṃ yajñair ijyamānāḥ samāptavaradakṣiṇaiḥ 
+yuge yuge bhaviṣyadhvaṃ pravṛttiphalabhoginaḥ // MBh_12,327.53
+
+yajñair ye cāpi yakṣyanti sarvalokeṣu vai surāḥ 
+kalpayiṣyanti vo bhāgāṃs te narā vedakalpitān // MBh_12,327.54
+
+yo me yathā kalpitavān bhāgam asmin mahākratau 
+sa tathā yajñabhāgārho vedasūtre mayā kṛtaḥ // MBh_12,327.55
+
+yūyaṃ lokān dhārayadhvaṃ yajñabhāgaphaloditāḥ 
+sarvārthacintakā loke yathādhīkāranirmitāḥ // MBh_12,327.56
+
+yāḥ kriyāḥ pracariṣyanti pravṛttiphalasatkṛtāḥ 
+tābhir āpyāyitabalā lokān vai dhārayiṣyatha // MBh_12,327.57
+
+yūyaṃ hi bhāvitā loke sarvayajñeṣu mānavaiḥ 
+māṃ tato bhāvayiṣyadhvam eṣā vo bhāvanā mama // MBh_12,327.58
+
+ityarthaṃ nirmitā vedā yajñāś cauṣadhibhiḥ saha 
+ebhiḥ samyak prayuktair hi prīyante devatāḥ kṣitau // MBh_12,327.59
+
+nirmāṇam etad yuṣmākaṃ pravṛttiguṇakalpitam 
+mayā kṛtaṃ suraśreṣṭhā yāvat kalpakṣayād iti 
+cintayadhvaṃ lokahitaṃ yathādhīkāram īśvarāḥ // MBh_12,327.60
+
+marīcir aṅgirāś cātriḥ pulastyaḥ pulahaḥ kratuḥ 
+vasiṣṭha iti saptaite mānasā nirmitā hi vai // MBh_12,327.61
+
+ete vedavido mukhyā vedācāryāś ca kalpitāḥ 
+pravṛttidharmiṇaś caiva prājāpatyena kalpitāḥ // MBh_12,327.62
+
+ayaṃ kriyāvatāṃ panthā vyaktībhūtaḥ sanātanaḥ 
+aniruddha iti prokto lokasargakaraḥ prabhuḥ // MBh_12,327.63
+
+sanaḥ sanatsujātaś ca sanakaḥ sasanandanaḥ 
+sanatkumāraḥ kapilaḥ saptamaś ca sanātanaḥ // MBh_12,327.64
+
+saptaite mānasāḥ proktā ṛṣayo brahmaṇaḥ sutāḥ 
+svayamāgatavijñānā nivṛttaṃ dharmam āsthitāḥ // MBh_12,327.65
+
+ete yogavido mukhyāḥ sāṃkhyadharmavidas tathā 
+ācāryā mokṣaśāstre ca mokṣadharmapravartakāḥ // MBh_12,327.66
+
+yato 'haṃ prasṛtaḥ pūrvam avyaktāt triguṇo mahān 
+tasmāt parataro yo 'sau kṣetrajña iti kalpitaḥ 
+so 'haṃ kriyāvatāṃ panthāḥ punarāvṛttidurlabhaḥ // MBh_12,327.67
+
+yo yathā nirmito jantur yasmin yasmiṃś ca karmaṇi 
+pravṛttau vā nivṛttau vā tatphalaṃ so 'śnute 'vaśaḥ // MBh_12,327.68
+
+eṣa lokagurur brahmā jagadādikaraḥ prabhuḥ 
+eṣa mātā pitā caiva yuṣmākaṃ ca pitāmahaḥ 
+mayānuśiṣṭo bhavitā sarvabhūtavarapradaḥ // MBh_12,327.69
+
+asya caivānujo rudro lalāṭād yaḥ samutthitaḥ 
+brahmānuśiṣṭo bhavitā sarvatrasavarapradaḥ // MBh_12,327.70
+
+gacchadhvaṃ svān adhīkārāṃś cintayadhvaṃ yathāvidhi 
+pravartantāṃ kriyāḥ sarvāḥ sarvalokeṣu māciram // MBh_12,327.71
+
+pradṛśyantāṃ ca karmāṇi prāṇināṃ gatayas tathā 
+parinirmitakālāni āyūṃṣi ca surottamāḥ // MBh_12,327.72
+
+idaṃ kṛtayugaṃ nāma kālaḥ śreṣṭhaḥ pravartate  MBh_12,327.73
+
+ahiṃsyā yajñapaśavo yuge 'smin naitad anyathā 
+catuṣpāt sakalo dharmo bhaviṣyaty atra vai surāḥ // MBh_12,327.73
+
+tatas tretāyugaṃ nāma trayī yatra bhaviṣyati 
+prokṣitā yatra paśavo vadhaṃ prāpsyanti vai makhe 
+tatra pādacaturtho vai dharmasya na bhaviṣyati // MBh_12,327.74
+
+tato vai dvāparaṃ nāma miśraḥ kālo bhaviṣyati 
+dvipādahīno dharmaś ca yuge tasmin bhaviṣyati // MBh_12,327.75
+
+tatas tiṣye 'tha saṃprāpte yuge kalipuraskṛte 
+ekapādasthito dharmo yatra tatra bhaviṣyati // MBh_12,327.76
+
+devā ūcuḥ: ekapādasthite dharme yatrakvacanagāmini 
+kathaṃ kartavyam asmābhir bhagavaṃs tad vadasva naḥ // MBh_12,327.77
+
+yatra vedāś ca yajñāś ca tapaḥ satyaṃ damas tathā 
+ahiṃsādharmasaṃyuktāḥ pracareyuḥ surottamāḥ 
+sa vai deśaḥ sevitavyo mā vo 'dharmaḥ padā spṛśet // MBh_12,327.78
+
+[x d7 t g1-3.6:: guravo yatra pūjyante !sādhuvṛttāḥ śamānvitāḥ MBh_12,327.79
+
+te 'nuśiṣṭā bhagavatā devāḥ sar1ṣigaṇās tathā 
+namaskṛtvā bhagavate jagmur deśān yathepsitān // MBh_12,327.79
+
+gateṣu tridivaukaḥsu brahmaikaḥ paryavasthitaḥ 
+didṛkṣur bhagavantaṃ tam aniruddhatanau sthitam // MBh_12,327.80
+
+taṃ devo darśayām āsa kṛtvā hayaśiro mahat 
+sāṅgān āvartayan vedān kamaṇḍalugaṇitradhṛk // MBh_12,327.81
+
+tato 'śvaśirasaṃ dṛṣṭvā taṃ devam amitaujasam 
+lokakartā prabhur brahmā lokānāṃ hitakāmyayā // MBh_12,327.82
+
+mūrdhnā praṇamya varadaṃ tasthau prāñjalir agrataḥ 
+sa pariṣvajya devena vacanaṃ śrāvitas tadā // MBh_12,327.83
+
+lokakāryagatīḥ sarvās tvaṃ cintaya yathāvidhi 
+dhātā tvaṃ sarvabhūtānāṃ tvaṃ prabhur jagato guruḥ 
+tvayy āveśitabhāro 'haṃ dhṛtiṃ prāpsyāmy athāñjasā // MBh_12,327.84
+
+yadā ca surakāryaṃ te aviṣahyaṃ bhaviṣyati 
+prādurbhāvaṃ gamiṣyāmi tadātmajñānadeśikaḥ // MBh_12,327.85
+
+evam uktvā hayaśirās tatraivāntaradhīyata 
+tenānuśiṣṭo brahmāpi svaṃ lokam acirād gataḥ // MBh_12,327.86
+
+evam eṣa mahābhāgaḥ padmanābhaḥ sanātanaḥ 
+yajñeṣv agraharaḥ prokto yajñadhārī ca nityadā // MBh_12,327.87
+
+nivṛttiṃ cāsthito dharmaṃ gatim akṣayadharmiṇām 
+pravṛttidharmān vidadhe kṛtvā lokasya citratām // MBh_12,327.88
+
+sa ādiḥ sa madhyaḥ sa cāntaḥ prajānāṃ
+sa dhātā sa dheyaḥ sa kartā sa kāryam
+yugānte sa suptaḥ susaṃkṣipya lokān
+yugādau prabuddho jagad dhy utsasarja MBh_12,327.89
+
+tasmai namadhvaṃ devāya nirguṇāya guṇātmane 
+ajāya viśvarūpāya dhāmne sarvadivaukasām // MBh_12,327.90
+
+mahābhūtādhipataye rudrāṇāṃ pataye tathā 
+ādityapataye caiva vasūnāṃ pataye tathā // MBh_12,327.91
+
+aśvibhyāṃ pataye caiva marutāṃ pataye tathā 
+vedayajñādhipataye vedāṅgapataye 'pi ca // MBh_12,327.92
+
+samudravāsine nityaṃ haraye muñjakeśine 
+śāntaye sarvabhūtānāṃ mokṣadharmānubhāṣiṇe // MBh_12,327.93
+
+tapasāṃ tejasāṃ caiva pataye yaśaso 'pi ca 
+vācaś ca pataye nityaṃ saritāṃ pataye tathā // MBh_12,327.94
+
+kapardine varāhāya ekaśṛṅgāya dhīmate 
+vivasvate 'śvaśirase caturmūrtidhṛte sadā // MBh_12,327.95
+
+guhyāya jñānadṛśyāya akṣarāya kṣarāya ca 
+eṣa devaḥ saṃcarati sarvatragatir avyayaḥ // MBh_12,327.96
+
+evam etat purā dṛṣṭaṃ mayā vai jñānacakṣuṣā 
+kathitaṃ tac ca vaḥ sarvaṃ mayā pṛṣṭena tattvataḥ // MBh_12,327.97
+
+kriyatām madvacaḥ śiṣyāḥ sevyatāṃ harir īśvaraḥ 
+gīyatāṃ vedaśabdaiś ca pūjyatāṃ ca yathāvidhi // MBh_12,327.98
+
+ity uktās tu vayaṃ tena vedavyāsena dhīmatā 
+sarve śiṣyāḥ sutaś cāsya śukaḥ paramadharmavit // MBh_12,327.99
+
+sa cāsmākam upādhyāyaḥ sahāsmābhir viśāṃ pate 
+caturvedodgatābhiś ca ṛgbhis tam abhituṣṭuve // MBh_12,327.100
+
+etat te sarvam ākhyātaṃ yan māṃ tvaṃ paripṛcchasi 
+evaṃ me 'kathayad rājan purā dvaipāyano guruḥ // MBh_12,327.101
+
+yaś cedaṃ śṛṇuyān nityaṃ yaś cedaṃ parikīrtayet 
+namo bhagavate kṛtvā samāhitamanā naraḥ // MBh_12,327.102
+
+bhavaty arogo dyutimān balarūpasamanvitaḥ 
+āturo mucyate rogād baddho mucyeta bandhanāt // MBh_12,327.103
+
+kāmakāmī labhet kāmaṃ dīrgham āyur avāpnuyāt 
+brāhmaṇaḥ sarvavedī syāt kṣatriyo vijayī bhavet 
+vaiśyo vipulalābhaḥ syāc chūdraḥ sukham avāpnuyāt // MBh_12,327.104
+
+aputro labhate putraṃ kanyā caivepsitaṃ patim 
+lagnagarbhā vimucyeta garbhiṇī janayet sutam 
+vandhyā prasavam āpnoti putrapautrasamṛddhimat // MBh_12,327.105
+
+kṣemeṇa gacched adhvānam idaṃ yaḥ paṭhate pathi 
+yo yaṃ kāmaṃ kāmayate sa tam āpnoti ca dhruvam // MBh_12,327.106
+
+idaṃ mahar2ṣer vacanaṃ viniścitaṃ
+mahātmanaḥ puruṣavarasya kīrtanam
+samāgamaṃ car7ṣidivaukasām imaṃ
+niśamya bhaktāḥ susukhaṃ labhante MBh_12,327.107
+
+astauṣīd yair imaṃ vyāsaḥ saśiṣyo madhusūdanam 
+nāmabhir vividhair eṣāṃ niruktaṃ bhagavan mama // MBh_12,328.1
+
+vaktum arhasi śuśrūṣoḥ prajāpatipater hareḥ 
+śrutvā bhaveyaṃ yat pūtaḥ śaraccandra ivā-malaḥ // MBh_12,328.2
+
+śṛṇu rājan yathācaṣṭa phalgunasya harir vibhuḥ 
+prasannātmātmano nāmnāṃ niruktaṃ guṇakarmajam // MBh_12,328.3
+
+nāmabhiḥ kīrtitais tasya keśavasya mahātmanaḥ 
+pṛṣṭavān keśavaṃ rājan phalgunaḥ paravīrahā // MBh_12,328.4
+
+bhagavan bhūtabhavyeśa sarvabhūtasṛg avyaya 
+lokadhāma jagannātha lokānām abhayaprada // MBh_12,328.5
+
+yāni nāmāni te deva kīrtitāni mahar2ṣibhiḥ 
+vedeṣu sapurāṇeṣu yāni guhyāni karmabhiḥ // MBh_12,328.6
+
+teṣāṃ niruktaṃ tvatto 'haṃ śrotum icchāmi keśava 
+na hy anyo vartayen nāmnāṃ niruktaṃ tvām ṛte prabho // MBh_12,328.7
+
+ṛgvede sayajurvede tathaivātharvasāmasu 
+purāṇe sopaniṣade tathaiva jyotiṣe 'rjuna // MBh_12,328.8
+
+sāṃkhye ca yogaśāstre ca āyurvede tathaiva ca 
+bahūni mama nāmāni kīrtitāni mahar2ṣibhiḥ // MBh_12,328.9
+
+gauṇāni tatra nāmāni karmajāni ca kānicit 
+niruktaṃ karmajānāṃ ca śṛṇuṣva prayato 'nagha 
+kathyamānaṃ mayā tāta tvaṃ hi me 'rdhaṃ smṛtaḥ purā // MBh_12,328.10
+
+namo 'tiyaśase tasmai dehināṃ paramātmane 
+nārāyaṇāya viśvāya nirguṇāya guṇātmane // MBh_12,328.11
+
+yasya prasādajo brahmā rudraś ca krodhasaṃbhavaḥ 
+yo 'sau yonir hi sarvasya sthāvarasya carasya ca // MBh_12,328.12
+
+aṣṭādaśaguṇaṃ yat tat sattvaṃ sattvavatāṃ vara 
+prakṛtiḥ sā parā mahyaṃ rodasī yogadhāriṇī 
+ṛtā satyā-marā-jayyā lokānām ātmasaṃjñitā // MBh_12,328.13
+
+tasmāt sarvāḥ pravartante sargapralayavikriyāḥ 
+tato yajñaś ca yaṣṭā ca purāṇaḥ puruṣo virāṭ 
+aniruddha iti prokto lokānāṃ prabhavāpyayaḥ // MBh_12,328.14
+
+brāhme rātrikṣaye prāpte tasya hy amitatejasaḥ_1 
+prasādāt prādur abhavat padmaṃ padmanibhekṣaṇa 
+tatra brahmā samabhavat sa tasyaiva prasādajaḥ // MBh_12,328.15
+
+ahnaḥ kṣaye lalāṭāc ca suto devasya vai tathā 
+krodhāviṣṭasya saṃjajñe rudraḥ saṃhārakārakaḥ // MBh_12,328.16
+
+etau dvau vibudhaśreṣṭhau prasādakrodhajau smṛtau 
+tadādeśitapanthānau sṛṣṭisaṃhārakārakau 
+nimittamātraṃ tāv atra sarvaprāṇivarapradau // MBh_12,328.17
+
+kapardī jaṭilo muṇḍaḥ śmaśānagṛhasevakaḥ 
+ugravratadharo rudro yogī tripuradāruṇaḥ // MBh_12,328.18
+
+dakṣakratuharaś caiva bhaganetraharas tathā 
+nārāyaṇātmako jñeyaḥ pāṇḍaveya yuge yuge // MBh_12,328.19
+
+tasmin hi pūjyamāne vai devadeve maheśvare 
+saṃpūjito bhavet pārtha devo nārāyaṇaḥ prabhuḥ // MBh_12,328.20
+
+aham ātmā hi lokānāṃ viśvānāṃ pāṇḍunandana 
+tasmād ātmānam evāgre rudraṃ saṃpūjayāmy aham // MBh_12,328.21
+
+yady ahaṃ nārcayeyaṃ vai īśānaṃ varadaṃ śivam 
+ātmānaṃ nārcayet kaścit iti me bhāvitaṃ manaḥ 
+mayā pramāṇaṃ hi kṛtaṃ lokaḥ samanuvartate // MBh_12,328.22
+
+pramāṇāni hi pūjyāni tatas taṃ pūjayāmy aham 
+yas taṃ vetti sa māṃ vetti yo 'nu taṃ sa hi mām anu // MBh_12,328.23
+
+rudro nārāyaṇaś caiva sattvam ekaṃ dvidhākṛtam 
+loke carati kaunteya vyaktisthaṃ sarvakarmasu // MBh_12,328.24
+
+na hi me kenacid deyo varaḥ pāṇḍavanandana 
+iti saṃcintya manasā purāṇaṃ viśvam īśvaram 
+putrārtham ārādhitavān ātmānam aham ātmanā // MBh_12,328.25
+
+na hi viṣṇuḥ praṇamati kasmaicid vibudhāya tu 
+ṛtae ātmānam eveti tato rudraṃ bhajāmy aham // MBh_12,328.26
+
+sabrahmakāḥ sarudrāś ca sendrā devāḥ sahar7ṣibhiḥ 
+arcayanti suraśreṣṭhaṃ devaṃ nārāyaṇaṃ harim // MBh_12,328.27
+
+bhaviṣyatāṃ vartatāṃ ca bhūtānāṃ caiva bhārata 
+sarveṣām agraṇīr viṣṇuḥ sevyaḥ pūjyaś ca nityaśaḥ // MBh_12,328.28
+
+namasva havyadaṃ viṣṇuṃ tathā śaraṇadaṃ nama 
+varadaṃ namasva kaunteya havyakavyabhujaṃ nama // MBh_12,328.29
+
+caturvidhā mama janā bhaktā evaṃ hi te śrutam 
+teṣām ekāntinaḥ śreṣṭhās te caivānanyadevatāḥ 
+aham eva gatis teṣāṃ nirāśīḥkarmakāriṇām // MBh_12,328.30
+
+ye ca śiṣṭās trayo bhaktāḥ phalakāmā hi te matāḥ 
+sarve cyavanadharmāṇaḥ pratibuddhas tu śreṣṭhabhāk // MBh_12,328.31
+
+brahmāṇaṃ śitikaṇṭhaṃ ca yāś cānyā devatāḥ smṛtāḥ 
+prabuddhavaryāḥ sevante mām evaiṣyanti yatparam 
+bhaktaṃ prati viśeṣas te eṣa pārthānukīrtitaḥ // MBh_12,328.32
+
+tvaṃ caivāhaṃ ca kaunteya naranārāyaṇau smṛtau 
+bhārāvataraṇārthaṃ hi praviṣṭau mānuṣīṃ tanum // MBh_12,328.33
+
+jānāmy adhyātmayogāṃś ca yo 'haṃ yasmāc ca bhārata 
+nivṛttilakṣaṇo dharmas tathābhyudayiko 'pi ca // MBh_12,328.34
+
+narāṇām ayanaṃ khyātam aham ekaḥ sanātanaḥ 
+āpo nārā iti proktā āpo vai narasūnavaḥ 
+ayanaṃ mama tat pūrvam ato nārāyaṇo hy aham // MBh_12,328.35
+
+chādayāmi jagad viśvaṃ bhūtvā sūrya ivāṃśubhiḥ 
+sarvabhūtādhivāsaś ca vāsudevas tato hy aham // MBh_12,328.36
+
+gatiś ca sarvabhūtānāṃ prajānāṃ cāpi bhārata 
+vyāptā me rodasī pārtha kāntiś cābhyadhikā mama // MBh_12,328.37
+
+adhibhūtāni cānte 'haṃ tad icchaṃś cāsmi bhārata 
+kramaṇāc cāpy ahaṃ pārtha viṣṇur ity abhisaṃjñitaḥ // MBh_12,328.38
+
+damāt siddhiṃ parīpsanto māṃ janāḥ kāmayanti hi 
+divaṃ corvīṃ ca madhyaṃ ca tasmād dāmodaro hy aham // MBh_12,328.39
+
+pṛśnir ity ucyate cānnaṃ vedā āpo 'mṛtaṃ tathā 
+mamaitāni sadā garbhe pṛśnigarbhas tato hy aham // MBh_12,328.40
+
+ṛṣayaḥ prāhur evaṃ māṃ tritakūpābhipātitam 
+pṛśnigarbha tritaṃ pāhīty ekatadvitapātitam // MBh_12,328.41
+
+tataḥ sa brahmaṇaḥ putra ādyo ṛṣivaras tritaḥ 
+uttatārodapānād vai pṛśnigarbhānukīrtanāt // MBh_12,328.42
+
+sūryasya tapato lokān agneḥ somasya cāpy uta 
+aṃśavo ye prakāśante mama te keśasaṃjñitāḥ 
+sarvajñāḥ keśavaṃ tasmān mām āhur dvijasattamāḥ // MBh_12,328.43
+
+svapatnyām āhito garbha utathyena mahātmanā 
+utathye 'ntarhite caiva kadācid devamāyayā 
+bṛhaspatir athāvindat tāṃ patnīṃ tasya bhārata // MBh_12,328.44
+
+tato vai tam ṛṣiśreṣṭhaṃ maithunopagataṃ tathā 
+uvāca garbhaḥ kaunteya pañcabhūtasamanvitaḥ // MBh_12,328.45
+
+pūrvāgato 'haṃ varada nārhasy ambāṃ prabādhitum 
+etad bṛhaspatiḥ śrutvā cukrodha ca śaśāpa ca // MBh_12,328.46
+
+maithunopagato yasmāt tvayāhaṃ vinivāritaḥ 
+tasmād andho jāsyasi tvaṃ macchāpān nātra saṃśayaḥ // MBh_12,328.47
+
+sa śāpād ṛṣimukhyasya dīrghaṃ tama upeyivān 
+sa hi dīrghatamā nāma nāmnā hy āsīd ṛṣiḥ purā // MBh_12,328.48
+
+vedān avāpya caturaḥ sāṅgopāṅgān sanātanān 
+prayojayām āsa tadā nāma guhyam idaṃ mama // MBh_12,328.49
+
+ānupūrvyeṇa vidhinā keśaveti punaḥ punaḥ 
+sa cakṣuṣmān samabhavad gautamaś cābhavat punaḥ // MBh_12,328.50
+
+evaṃ hi varadaṃ nāma keśaveti mamārjuna 
+devānām atha sarveṣām ṛṣīṇāṃ ca mahātmanām // MBh_12,328.51
+
+agniḥ somena saṃyukta ekayoni mukhaṃ kṛtam 
+agnīṣomātmakaṃ tasmāj jagat kṛtsnaṃ carā-caram // MBh_12,328.52
+
+api hi purāṇe bhavati
+ekayonyātmakāv agnīṣomau
+devāś cāgnimukhā iti
+ekayonitvāc ca parasparaṃ mahayanto lokān dhārayata iti MBh_12,328.53
+
+agnīṣomau kathaṃ pūrvam ekayonī pravartitau 
+eṣa me saṃśayo jātas taṃ chindhi madhusūdana // MBh_12,329.1
+
+hanta te vartayiṣyāmi purāṇaṃ pāṇḍunandana 
+ātmatejoudbhavaṃ pārtha śṛṇuṣvaikamanā mama // MBh_12,329.2
+
+saṃprakṣālanakāle 'tikrānte caturthe yugasahasrānte(MBh_12.329.3/1)
+
+avyakte sarvabhūtapralaye sthāvarajaṅgame(MBh_12.329.3/2)
+
+jyotirdharaṇivāyurahite 'ndhe tamasi jalaikārṇave loke(MBh_12.329.3/3)
+
+tama ity evābhibhūte 'saṃjñake 'dvitīye pratiṣṭhite(MBh_12.329.3/4)
+
+naiva rātryāṃ na divase na sati nā-sati na vyakte nā-vyakte vyavasthite(MBh_12.329.3/5)
+
+etasyām avasthāyāṃ nārāyaṇaguṇāśrayād akṣayād ajarād anindriyād agrāhyād asaṃbhavāt satyād ahiṃsrāl lalāmād vividhapravṛttiviśeṣāt(MBh_12.329.3/6)
+
+akṣayād ajarā-marād amūrtitaḥ sarvavyāpinaḥ sarvakartuḥ śāśvatāt tamasaḥ puruṣaḥ prādurbhūto harir avyayaḥ(MBh_12.329.3/7)
+
+nidarśanam api hy atra bhavati(MBh_12.329.4/1)
+
+nāsīd aho na rātrir āsīt(MBh_12.329.4/2)
+
+na sad āsīn nā-sad āsīt(MBh_12.329.4/3)
+
+tama eva purastād abhavad viśvarūpam(MBh_12.329.4/4)
+
+sā viśvasya jananīty evam asyārtho 'nubhāṣyate(MBh_12.329.4/5)
+
+tasyedānīṃ tamaḥsaṃbhavasya puruṣasya padmayoner brahmaṇaḥ prādurbhāve sa puruṣaḥ prajāḥ sisṛkṣamāṇo netrābhyām agnīṣomau sasarja(MBh_12.329.5/1)
+
+tato bhūtasarge pravṛtte prajākramavaśād brahmakṣatram upātiṣṭhat(MBh_12.329.5/2)
+
+yaḥ somas tad brahma yad brahma te brāhmaṇāḥ(MBh_12.329.5/3)
+
+yo 'gnis tat kṣatraṃ kṣatrād brahma balavattaram(MBh_12.329.5/4)
+
+kasmād iti lokapratyakṣaguṇam etat tad yathā(MBh_12.329.5/5)
+
+brāhmaṇebhyaḥ paraṃ bhūtaṃ notpannapūrvam(MBh_12.329.5/6)
+
+dīpyamāne 'gnau juhotīti kṛtvā bravīmi(MBh_12.329.5/7)
+
+bhūtasargaḥ kṛto brahmaṇā bhūtāni ca pratiṣṭhāpya trailokyaṃ dhāryatae iti(MBh_12.329.5/8)
+
+mantravādo 'pi hi bhavati(MBh_12.329.6/1)
+
+tvam agne yajñānāṃ hotā viśveṣām(MBh_12.329.6/2)
+
+hito devebhir mānuṣe jane iti(MBh_12.329.6/3)
+
+nidarśanaṃ cātra bhavati(MBh_12.329.6/4)
+
+viśveṣām agne yajñānāṃ hoteti(MBh_12.329.6/5)
+
+hito devair mānuṣair jagata iti(MBh_12.329.6/6)
+
+agnir hi yajñānāṃ hotā kartā(MBh_12.329.6/7)
+
+sa cāgnir brahma(MBh_12.329.6/8)
+
+na hy ete mantrād dhavanam asti(MBh_12.329.7/1)
+
+na vinā puruṣaṃ tapaḥ saṃbhavati(MBh_12.329.7/2)
+
+havir mantrāṇāṃ saṃpūjā vidyate devamanuṣyāṇām anena tvaṃ hoteti niyuktaḥ(MBh_12.329.7/3)
+
+ye ca mānuṣā hotrādhikārās te ca(MBh_12.329.7/4)
+
+brāhmaṇasya hi yājanaṃ vidhīyate na kṣatravaiśyayor dvijātyoḥ(MBh_12.329.7/5)
+
+tasmād brāhmaṇā hy agnibhūtā yajñān udvahanti(MBh_12.329.7/6)
+
+yajñā devāṃs tarpayanti devāḥ pṛthivīṃ bhāvayanti(MBh_12.329.7/7)
+
+śatapathe hi brāhmaṇaṃ bhavati(MBh_12.329.8/1)
+
+agnau samiddhe sa juhoti yo vidvān brāhmaṇamukhe dānāhutiṃ juhoti(MBh_12.329.8/2)
+
+evam apy agnibhūtā brāhmaṇā vidvāṃso 'gniṃ bhāvayanti(MBh_12.329.8/3)
+
+agnir viṣṇuḥ sarvabhūtāny anupraviśya prāṇān dhārayati(MBh_12.329.8/4)
+
+api cātra sanatkumāragītāḥ ślokā bhavanti(MBh_12.329.8/5)
+
+viśvaṃ brahmāsṛjat pūrvaṃ sarvādir niravaskaram 
+brahmaghoṣair divaṃ tiṣṭhanty amarā brahmayonayaḥ // MBh_12,329.9
+
+brāhmaṇānāṃ matir vākyaṃ karma śraddhā tapāṃsi ca 
+dhārayanti mahīṃ dyāṃ ca śaityād vāry amṛtaṃ yathā // MBh_12,329.10
+
+nāsti satyāt paro dharmo nāsti mātṛsamo guruḥ 
+brāhmaṇebhyaḥ paraṃ nāsti pretya ceha ca bhūtaye // MBh_12,329.11
+
+naiṣām ukṣā vardhate nota vāhā
+na gargaro mathyate saṃpradāne
+apadhvastā dasyubhūtā bhavanti
+yeṣāṃ rāṣṭre brāhmaṇā vṛttihīnāḥ MBh_12,329.12
+
+vedapurāṇetihāsaprāmāṇyān nārāyaṇamukhodgatāḥ sarvātmānaḥ sarvakartāraḥ sarvabhāvanāś ca brāhmaṇāḥ(MBh_12.329.13/1)
+
+vāksamakālaṃ hi tasya devasya varapradasya brāhmaṇāḥ prathamaṃ prādurbhūtā brāhmaṇebhyaś ca śeṣā varṇāḥ prādurbhūtāḥ(MBh_12.329.13/2)
+
+itthaṃ ca surāsuraviśiṣṭā brāhmaṇā yadā mayā brahmabhūtena purā svayam evotpāditāḥ surāsuramahar2ṣayo bhūtaviśeṣāḥ sthāpitā nigṛhītāś ca(MBh_12.329.13/3)
+
+ahalyādharṣaṇanimittaṃ hi gautamād dhariśmaśrutām indraḥ prāptaḥ(MBh_12.329.14/1)
+
+kauśikanimittaṃ cendro muṣkaviyogaṃ meṣavṛṣaṇatvaṃ cāvāpa(MBh_12.329.14/2)
+
+aśvinor grahapratiṣedhodyatavajrasya puraṃdarasya cyavanena stambhito bāhuḥ(MBh_12.329.14/3)
+
+kratuvadhaprāptamanyunā ca dakṣeṇa bhūyas tapasā cātmānaṃ saṃyojya netrākṛtir anyā lalāṭe rudrasyotpāditā(MBh_12.329.14/4)
+
+tripuravadhārthaṃ dīkṣām abhyupagatasya rudrasyośanasā śiraso jaṭā utkṛtya prayuktāḥ(MBh_12.329.15/1)
+
+tataḥ prādurbhūtā bhujagāḥ_1(MBh_12.329.15/2)
+
+tair asya bhujagaiḥ_1 pīḍyamānaḥ kaṇṭho nīlatām upanītaḥ(MBh_12.329.15/3)
+
+pūrve ca manvantare svāyaṃbhuve nārāyaṇahastabandhagrahaṇān nīlakaṇṭhatvam eva vā(MBh_12.329.15/4)
+
+amṛtotpādane puraścaraṇatām upagatasyāṅgiraso bṛhaspater upaspṛśato na prasādaṃ gatavatyaḥ kilāpaḥ(MBh_12.329.16/1)
+
+atha bṛhaspatir apāṃ cukrodha(MBh_12.329.16/2)
+
+yasmān mamopaspṛśataḥ kaluṣībhūtā na prasādam upagatās tasmād adyaprabhṛti jhaṣamakaramatsyakacchapajantusaṃkīrṇāḥ kaluṣībhavateti(MBh_12.329.16/3)
+
+tadāprabhṛty āpo yādobhiḥ saṃkīrṇāḥ saṃvṛttāḥ(MBh_12.329.16/4)
+
+viśvarūpo vai tvāṣṭraḥ purohito devānām āsīt svasrīyo 'surāṇām(MBh_12.329.17/1)
+
+sa pratyakṣaṃ devebhyo bhāgam adadat paroakṣam asurebhyaḥ(MBh_12.329.17/2)
+
+atha hiraṇyakaśipuṃ puraskṛtya_1 viśvarūpamātaraṃ svasāram asurā varam ayācanta(MBh_12.329.18/1)
+
+he svasar ayaṃ te putras tvāṣṭro viśvarūpas triśirā devānāṃ purohitaḥ pratyakṣaṃ devebhyo bhāgam adadat paroakṣam asmākam(MBh_12.329.18/2)
+
+tato devā vardhante vayaṃ kṣīyāmaḥ(MBh_12.329.18/3)
+
+tad enaṃ tvaṃ vārayitum arhasi tathā yathāsmān bhajed iti(MBh_12.329.18/4)
+
+atha viśvarūpaṃ nandanavanam upagataṃ mātovāca(MBh_12.329.19/1)
+
+putra kiṃ parapakṣavardhanas tvaṃ mātulapakṣaṃ nāśayasi(MBh_12.329.19/2)
+
+nārhasy evaṃ kartum iti(MBh_12.329.19/3)
+
+sa viśvarūpo mātur vākyam anatikramaṇīyam iti matvā saṃpūjya hiraṇyakaśipum agāt(MBh_12.329.19/4)
+
+hairaṇyagarbhāc ca vasiṣṭhād dhiraṇyakaśipuḥ śāpaṃ prāptavān(MBh_12.329.20/1)
+
+yasmāt tvayānyo vṛto hotā tasmād asamāptayajñas tvam apūrvāt sattvajātād vadhaṃ prāpsyasīti(MBh_12.329.20/2)
+
+tacchāpadānād dhiraṇyakaśipuḥ prāptavān vadham(MBh_12.329.20/3)
+
+viśvarūpo mātṛpakṣavardhano 'tyarthaṃ tapasy abhavat(MBh_12.329.21/1)
+
+tasya vratabhaṅgārtham indro bahvīḥ śrīmatyo 'psaraso niyuyoja(MBh_12.329.21/2)
+
+tāś ca dṛṣṭvā manaḥ kṣubhitam tasyābhavat tāsu cāpsaraḥsu nacirād eva sakto 'bhavat(MBh_12.329.21/3)
+
+saktaṃ cainaṃ jñātvāpsarasa ūcur gacchāmahe vayaṃ yathāgatam iti(MBh_12.329.21/4)
+
+tās tvāṣṭra uvāca(MBh_12.329.22/1)
+
+kva gamiṣyatha āsyatām tāvan mayā saha śreyo bhaviṣyatīti(MBh_12.329.22/2)
+
+tās tam abruvan(MBh_12.329.22/3)
+
+vayaṃ devastriyo 'psarasa indraṃ varadaṃ purā prabhaviṣṇuṃ vṛṇīmahae iti(MBh_12.329.22/4)
+
+atha tā viśvarūpo 'bravīd adyaiva sendrā devā na bhaviṣyantīti(MBh_12.329.23/1)
+
+tato mantrāñ jajāpa(MBh_12.329.23/2)
+
+tair mantraiḥ prāvardhata triśirāḥ(MBh_12.329.23/3)
+
+ekenāsyena sarvalokeṣu dvijaiḥ kriyāvadbhir yajñeṣu suhutaṃ somaṃ papāv ekenāpa ekena sendrān devān(MBh_12.329.23/4)
+
+athendras taṃ vivardhamānaṃ somapānāpyāyitasarvagātraṃ dṛṣṭvā cintām āpede(MBh_12.329.23/5)
+
+devāś ca te sahendreṇa brahmāṇam abhijagmur ūcuś ca(MBh_12.329.24/1)
+
+viśvarūpeṇa sarvayajñeṣu suhutaḥ somaḥ pīyate(MBh_12.329.24/2)
+
+vayam abhāgāḥ saṃvṛttāḥ(MBh_12.329.24/3)
+
+asurapakṣo vardhate vayaṃ kṣīyāmaḥ(MBh_12.329.24/4)
+
+tad arhasi no vidhātuṃ śreyo yad anantaram iti(MBh_12.329.24/5)
+
+tān brahmovāca ṛṣir bhārgavas tapas tapyate dadhīcaḥ(MBh_12.329.25/1)
+
+sa yācyatāṃ varaṃ yathā kalevaraṃ jahyāt(MBh_12.329.25/2)
+
+tasyāsthibhir vajraṃ kriyatām iti(MBh_12.329.25/3)
+
+devās tatrāgacchan yatra dadhīco bhagavān ṛṣis tapas tepe(MBh_12.329.26/1)
+
+sendrā devās tam abhigamyocur bhagavaṃs tapasaḥ kuśalam avighnaṃ ceti(MBh_12.329.26/2)
+
+tān dadhīca uvāca svāgataṃ bhavadbhyaḥ kiṃ kriyatām(MBh_12.329.26/3)
+
+yad vakṣyatha tat kariṣyāmīti(MBh_12.329.26/4)
+
+te tam abruvañ śarīraparityāgaṃ lokahitārthaṃ bhagavān kartum arhatīti(MBh_12.329.26/5)
+
+atha dadhīcas tathaivā-vimanāḥ sukhaduḥkhasamo mahāyogī ātmānaṃ samādhāya śarīraparityāgaṃ cakāra(MBh_12.329.26/6)
+
+tasya paramātmany avasṛte tāny asthīni dhātā saṃgṛhya vajram akarot(MBh_12.329.27/1)
+
+tena vajreṇā-bhedyenā-pradhṛṣyeṇa brahmāsthisaṃbhūtena viṣṇupraviṣṭenendro viśvarūpaṃ jaghāna(MBh_12.329.27/2)
+
+śirasāṃ cāsya chedanam akarot(MBh_12.329.27/3)
+
+tasmād anantaraṃ viśvarūpagātramathanasaṃbhavaṃ tvaṣṭrotpāditam evāriṃ vṛtram indro jaghāna(MBh_12.329.27/4)
+
+tasyāṃ dvaidhībhūtāyāṃ brahmavadhyāyāṃ bhayād indro devarājyaṃ parityajya apsusaṃbhavāṃ śītalāṃ mānasasarogatāṃ nalinīṃ apsu(MBh_12.329.28/1)
+
+tatra caiśvaryayogād aṇumātro bhūtvā bisagranthiṃ praviveśa(MBh_12.329.28/2)
+
+atha brahmavadhyābhayapranaṣṭe trailokyanāthe śacīpatau jagad anīśvaraṃ babhūva(MBh_12.329.29/1)
+
+devān rajas tamaś cāviveśa(MBh_12.329.29/2)
+
+mantrā na prāvartanta mahar2ṣīṇāṃ(MBh_12.329.29/3)
+
+rakṣāṃsi prādur abhavan(MBh_12.329.29/4)
+
+brahma cotsādanaṃ jagāma(MBh_12.329.29/5)
+
+anindrāś cā-balā lokāḥ supradhṛṣyā babhūvuḥ(MBh_12.329.29/6)
+
+atha devā ṛṣayaś cāyuṣaḥ putraṃ nahuṣaṃ nāma devarājatve 'bhiṣiṣicuḥ(MBh_12.329.30/1)
+
+nahuṣaḥ pañcabhiḥ śatair jyotiṣāṃ lalāṭe jvaladbhiḥ sarvatejoharais triviṣṭapaṃ pālayāṃ babhūva(MBh_12.329.30/2)
+
+atha lokāḥ prakṛtim āpedire svasthāś ca babhūvuḥ(MBh_12.329.30/3)
+
+athovāca nahuṣaḥ(MBh_12.329.31/1)
+
+sarvaṃ māṃ śakropabhuktam upasthitam ṛte śacīm iti(MBh_12.329.31/2)
+
+sa evam uktvā śacīsamīpam agamad uvāca cainām(MBh_12.329.31/3)
+
+subhage 'ham indro devānāṃ bhajasva mām iti(MBh_12.329.31/4)
+
+taṃ śacī pratyuvāca(MBh_12.329.31/5)
+
+prakṛtyā tvaṃ dharmavatsalaḥ somavaṃśodbhavaś ca(MBh_12.329.31/6)
+
+nārhasi parapatnīdharṣaṇaṃ kartum iti(MBh_12.329.31/7)
+
+tām athovāca nahuṣaḥ(MBh_12.329.32/1)
+
+aindraṃ padam adhyāsyate mayā(MBh_12.329.32/2)
+
+aham indrasya rājyaratnaharo nātrā-dharmaḥ kaścit tvam indrabhukteti(MBh_12.329.32/3)
+
+sā tam uvāca(MBh_12.329.32/4)
+
+asti mama kiṃcid vratam aparyavasitam(MBh_12.329.32/5)
+
+tasyāvabhṛthe tvām upagamiṣyāmi kaiścid evāhobhir iti(MBh_12.329.32/6)
+
+sa śacyaivam abhihito nahuṣo jagāma(MBh_12.329.32/7)
+
+atha śacī duḥkhaśokārtā bhartṛdarśanalālasā nahuṣabhayagṛhītā bṛhaspatim upāgacchat(MBh_12.329.33/1)
+
+sa ca tām abhigatāṃ dṛṣṭvaiva dhyānaṃ praviśya bhartṛkāryatatparāṃ jñātvā bṛhaspatir uvāca(MBh_12.329.33/2)
+
+anenaiva vratena tapasā cānvitā devīṃ varadām upaśrutim āhvaya(MBh_12.329.33/3)
+
+sā tavendraṃ darśayiṣyatīti(MBh_12.329.33/4)
+
+sātha mahāniyamam āsthitā devīṃ varadām upaśrutiṃ mantrair āhvayat(MBh_12.329.34/1)
+
+sopaśrutiḥ śacīsamīpam agāt(MBh_12.329.34/2)
+
+uvāca cainām iyam asmi tvayopahūtopasthitā kiṃ te priyaṃ karavāṇīti(MBh_12.329.34/3)
+
+tāṃ mūrdhnā praṇamyovāca śacī bhagavaty arhasi me bhartāraṃ darśayituṃ tvaṃ satyā matā ceti(MBh_12.329.34/4)
+
+saināṃ mānasaṃ saro 'nayat(MBh_12.329.34/5)
+
+tatrendraṃ bisagranthigatam adarśayat(MBh_12.329.34/6)
+
+tām indraḥ patnīṃ kṛśāṃ glānāṃ ca dṛṣṭvā cintayāṃ babhūva(MBh_12.329.35/1)
+
+aho mama mahad duḥkham idam adyopagatam(MBh_12.329.35/2)
+
+naṣṭaṃ hi mām iyam anviṣyopāgamad duḥkhārteti(MBh_12.329.35/3)
+
+tām indra uvāca kathaṃ vartayasīti(MBh_12.329.35/4)
+
+sā tam uvāca(MBh_12.329.35/5)
+
+nahuṣo mām āhvayati(MBh_12.329.35/6)
+
+kālaś cāsya mayā kṛta iti(MBh_12.329.35/7)
+
+tām indra uvāca(MBh_12.329.36/1)
+
+gaccha(MBh_12.329.36/2)
+
+nahuṣas tvayā vācyo 'pūrveṇa mām ṛṣiyuktena yānena tvam adhirūḍha udvahasva(MBh_12.329.36/3)
+
+indrasya hi mahānti vāhanāni manasaḥ priyāṇy adhirūḍhāni mayā(MBh_12.329.36/4)
+
+tvam anyenopayātum arhasīti(MBh_12.329.36/5)
+
+saivam uktā hṛṣṭā jagāma(MBh_12.329.36/6)
+
+indro 'pi bisagranthim evāviveśa bhūyaḥ(MBh_12.329.36/7)
+
+athendrāṇim abhyāgatāṃ dṛṣṭvovāca nahuṣaḥ pūrṇaḥ sa kāla iti(MBh_12.329.37/1)
+
+taṃ śacy abravīc chakreṇa yathoktam(MBh_12.329.37/2)
+
+sa mahar2ṣiyuktaṃ vāhanam adhirūḍhaḥ śacīsamīpam upāgacchat(MBh_12.329.37/3)
+
+atha maitrāvaruṇiḥ kumbhayonir agastyo mahar2ṣīn vikriyamāṇāṃs tān nahuṣeṇāpaśyat(MBh_12.329.38/1)
+
+padbhyāṃ ca tenāspṛśyata(MBh_12.329.38/2)
+
+tataḥ sa nahuṣam abravīd akāryapravṛtta pāpa patasva mahīm(MBh_12.329.38/3)
+
+sarpo bhava yāvad bhūmir girayaś ca tiṣṭheyus tāvad iti(MBh_12.329.38/4)
+
+sa mahar2ṣivākyasamakālam eva tasmād yānād avāpatat(MBh_12.329.38/5)
+
+athānindraṃ punas trailokyam abhavat(MBh_12.329.39/1)
+
+tato devā ṛṣayaś ca bhagavantaṃ viṣṇuṃ śaraṇam indrārthe 'bhijagmuḥ(MBh_12.329.39/2)
+
+ūcuś cainaṃ bhagavann indraṃ brahmavadhyābhibhūtaṃ trātum arhasīti(MBh_12.329.39/3)
+
+tataḥ sa varadas tān abravīd aśvamedhaṃ yajñaṃ vaiṣṇavaṃ śakro 'bhiyajatu(MBh_12.329.39/4)
+
+tataḥ svaṃ sthānaṃ prāpsyatīti(MBh_12.329.39/5)
+
+tato devā ṛṣayaś cendraṃ nāpaśyan yadā tadā śacīm ūcur gaccha subhage indram ānayasveti(MBh_12.329.40/1)
+
+sā punas tat saraḥ samabhyagacchat(MBh_12.329.40/2)
+
+indraś ca tasmāt sarasaḥ samutthāya bṛhaspatim abhijagāma(MBh_12.329.40/3)
+
+bṛhaspatiś cāśvamedhaṃ mahākratuṃ śakrāyāharat(MBh_12.329.40/4)
+
+tataḥ kṛṣṇasāraṅgaṃ medhyam aśvam utsṛjya vāhanaṃ tam eva kṛtvā indraṃ marutpatiṃ bṛhaspatiḥ svasthānaṃ prāpayām āsa(MBh_12.329.40/5)
+
+tataḥ sa devarāḍ devair ṛṣibhiḥ stūyamānas triviṣṭapastho niṣkalmaṣo babhūva(MBh_12.329.41/1)
+
+brahmavadhyāṃ caturṣu sthāneṣu vanitāgnivanaspatigoṣu vyabhajat(MBh_12.329.41/2)
+
+evaṃ indro brahmatejaḥprabhāvopabṛṃhitaḥ śatruvadhaṃ kṛtvā svasthānaṃ prāpitaḥ(MBh_12.329.41/3)
+
+ākāśagaṅgāgataś ca purā bharadvājo mahar2ṣir upāspṛśaṃs trīn kramān kramatā viṣṇunābhyāsāditaḥ(MBh_12.329.42/1)
+
+sa bharadvājena sasalilena pāṇinorasi tāḍitaḥ salakṣaṇoraskaḥ saṃvṛttaḥ(MBh_12.329.42/2)
+
+bhṛguṇā mahar2ṣiṇā śapto 'gniḥ sarvabhakṣatvam upanītaḥ //(MBh_12.329.43/1)
+
+aditir vai devānām annam apacad etad bhuktvāsurān haniṣyantīti(MBh_12.329.44/1)
+
+tatra budho vratacaryāsamāptāv āgacchat(MBh_12.329.44/2)
+
+aditiṃ cāvocad bhikṣāṃ dehīti(MBh_12.329.44/3)
+
+tatra devaiḥ pūrvam etat prāśyaṃ nānyenety aditir bhikṣāṃ nādāt(MBh_12.329.44/4)
+
+atha bhikṣāpratyākhyānaruṣitena budhena brahmabhūtena vivasvato dvitīye janmany aṇḍasaṃjñitasyāṇḍaṃ māritam adityāḥ(MBh_12.329.44/5)
+
+sa mārtaṇḍo vivasvān abhavac chrāddhadevaḥ(MBh_12.329.44/6)
+
+dakṣasya vai duhitaraḥ ṣaṣṭir āsan(MBh_12.329.45/1)
+
+tābhyaḥ kaśyapāya trayodaśa prādād daśa dharmāya daśa manave saptaviṃśatim indave(MBh_12.329.45/2)
+
+tāsu tulyāsu nakṣatrākhyāṃ gatāsu somo rohiṇyām abhyadhikāṃ prītim akarot(MBh_12.329.45/3)
+
+tatas tāḥ śeṣāḥ patnya īrṣyāvatyaḥ pituḥ samīpaṃ somo rohiṇīm adhikaṃ bhajatīti(MBh_12.329.45/4)
+
+so 'bravīd yakṣmainam āvekṣyatīti(MBh_12.329.45/5)
+
+dakṣaśāpāt somaṃ rājānaṃ yakṣmāviveśa(MBh_12.329.46/1)
+
+sa yakṣmaṇāviṣṭo dakṣam agamat(MBh_12.329.46/2)
+
+dakṣaś cainam abravīn na samaṃ vartasae iti(MBh_12.329.46/3)
+
+tatrar7ṣayaḥ somam abruvan kṣīyase yakṣmaṇā(MBh_12.329.46/4)
+
+paścimasyāṃ diśi samudre hiraṇyasarastīrtham(MBh_12.329.46/5)
+
+tatra gatvātmānam abhiṣecayasveti(MBh_12.329.46/6)
+
+athāgacchat somas tatra hiraṇyasarastīrtham(MBh_12.329.46/7)
+
+gatvā cātmānaḥ snapanam akarot (!)(MBh_12.329.46/8)
+
+snātvā cātmānaṃ pāpmano mokṣayām āsa (!)(MBh_12.329.46/9)
+
+tatra cāvabhāsitas tīrthe yadā somas tadāprabhṛti tīrthaṃ tat prabhāsam iti nāmnā khyātaṃ babhūva (!)(MBh_12.329.46/91)
+
+tacchāpād adyāpi kṣīyate somo 'māvāsyāntarasthaḥ (!)(MBh_12.329.46/92)
+
+paurṇamāsīmātre_1 'dhiṣṭhito meghalekhāpraticchannaṃ vapur darśayati (!)(MBh_12.329.46/93)
+
+meghasadṛśaṃ varṇam agamat tad asya śaśalakṣma vimalam abhavat(MBh_12.329.46/94)
+
+sthūlaśirā mahar2ṣir meroḥ prāguttare digbhāge tapas tepe(MBh_12.329.47/1)
+
+tasya tapas tapyamānasya sarvagandhavahaḥ śucir vāyur vivāyamānaḥ śarīram aspṛśat(MBh_12.329.47/2)
+
+sa tapasā tāpitaśarīraḥ kṛśo vāyunopavījyamāno hṛdayaparitoṣam agamat(MBh_12.329.47/3)
+
+tatra tasyānilavyajanakṛtaparitoṣasya sadyo vanaspatayaḥ puṣpaśobhāṃ na darśitavanta iti sa etāñ śaśāpa na sarvakālaṃ puṣpavanto bhaviṣyatheti(MBh_12.329.47/4)
+
+nārāyaṇo lokahitārthaṃ vaḍavāmukho nāma mahar2ṣiḥ purābhavat(MBh_12.329.48/1)
+
+tasya merau tapas tapyataḥ samudra āhūto nāgataḥ(MBh_12.329.48/2)
+
+tenā-marṣitenātmagātroṣmaṇā samudraḥ stimitajalaḥ kṛtaḥ(MBh_12.329.48/3)
+
+svedaprasyandanasadṛśaś cāsya lavaṇabhāvo janitaḥ(MBh_12.329.48/4)
+
+uktaś cā-peyo bhaviṣyasi(MBh_12.329.48/5)
+
+etac ca te toyaṃ vaḍavāmukhasaṃjñitena pīyamānaṃ madhuraṃ bhaviṣyati(MBh_12.329.48/6)
+
+tad etad adyāpi vaḍavāmukhasaṃjñitenānuvartinā toyaṃ sāmudraṃ pīyate(MBh_12.329.48/7)
+
+himavato girer duhitaram umāṃ rudraś cakame(MBh_12.329.49/1)
+
+bhṛgur api ca mahar2ṣir himavantam āgamyābravīt kanyām umāṃ me dehīti(MBh_12.329.49/2)
+
+tam abravīd dhimavān abhilaṣito varo rudra iti(MBh_12.329.49/3)
+
+tam abravīd bhṛgur yasmāt tvayāhaṃ kanyāvaraṇakṛtabhāvaḥ pratyākhyātas tasmān na ratnānāṃ bhavān bhājanaṃ bhaviṣyatīti(MBh_12.329.49/4)
+
+adyaprabhṛty etad avasthitam ṛṣivacanam(MBh_12.329.49/5)
+
+tad evaṃvidhaṃ māhātmyaṃ brāhmaṇānām(MBh_12.329.50/1)
+
+kṣatram api śāśvatīm avyayāṃ pṛthivīṃ patnīm abhigamya bubhuje(MBh_12.329.50/2)
+
+tad etad brahmāgnīṣomīyam(MBh_12.329.50/3)
+
+tena jagad dhāryate(MBh_12.329.50/4)
+
+sūryācandramasau śaśvat keśair me aṃśusaṃjñitaiḥ 
+bodhayaṃs tāpayaṃś caiva jagad uttiṣṭhataḥ pṛthak // MBh_12,330.1
+
+bodhanāt tāpanāc caiva jagato harṣaṇaṃ bhavet 
+agnīṣomakṛtair ebhiḥ karmabhiḥ pāṇḍunandana 
+hṛṣīkeśo 'ham īśāno varado lokabhāvanaḥ // MBh_12,330.2
+
+iḍopahūtayogena hare bhāgaṃ kratuṣv aham 
+varṇaś ca me hariśreṣṭhas tasmād dharir ahaṃ smṛtaḥ // MBh_12,330.3
+
+dhāma sāro hi lokānām ṛtaṃ caiva vicāritam 
+ṛtadhāmā tato vipraiḥ satyaś cāhaṃ prakīrtitaḥ // MBh_12,330.4
+
+naṣṭāṃ ca dharaṇīṃ pūrvam avindaṃ vai guhāgatām 
+govinda iti māṃ devā vāgbhiḥ samabhituṣṭuvuḥ // MBh_12,330.5
+
+śipiviṣṭeti cākhyāyāṃ hīnaromā ca yo bhavet 
+tenāviṣṭaṃ hi yat kiṃcic chipiviṣṭaṃ hi tat smṛtam // MBh_12,330.6
+
+yāsko mām ṛṣir avyagro naikayajñeṣu gītavān 
+śipiviṣṭa iti hy asmād guhyanāmadharo hy aham // MBh_12,330.7
+
+stutvā māṃ śipiviṣṭeti yāsko ṛṣir udāradhī udāradhīḥ 
+matprasādād adho naṣṭaṃ niruktam abhijagmivān // MBh_12,330.8
+
+na hi jāto na jāye 'haṃ na janiṣye kadācana 
+kṣetrajñaḥ sarvabhūtānāṃ tasmād aham ajaḥ smṛtaḥ // MBh_12,330.9
+
+noktapūrvaṃ mayā kṣudram aslīlaṃ vā kadācana 
+ṛtā brahmasutā sā me satyā devī sarasvatī // MBh_12,330.10
+
+sac cā-sac caiva kaunteya mayāveśitam ātmani 
+pauṣkare brahmasadane satyaṃ mām ṛṣayo viduḥ // MBh_12,330.11
+
+sattvān na cyutapūrvo 'haṃ sattvaṃ vai viddhi matkṛtam 
+janmanīhābhavat sattvaṃ paurvikaṃ me dhanaṃjaya // MBh_12,330.12
+
+nirāśīḥkarmasaṃyuktaṃ sātvataṃ māṃ prakalpaya 
+sātvatajñānadṛṣṭo 'haṃ sātvataḥ sātvatāṃ patiḥ // MBh_12,330.13
+
+kṛṣāmi medinīṃ pārtha bhūtvā kārṣṇāyaso mahān 
+kṛṣṇo varṇaś ca me yasmāt tasmāt kṛṣṇo 'ham arjuna // MBh_12,330.14
+
+mayā saṃśleṣitā bhūmir adbhir vyoma ca vāyunā 
+vāyuś ca tejasā sārdhaṃ vaikuṇṭhatvaṃ tato mama // MBh_12,330.15
+
+nirvāṇaṃ paramaṃ saukhyaṃ dharmo 'sau para ucyate 
+tasmān na cyutapūrvo 'ham acyutas tena karmaṇā // MBh_12,330.16
+
+pṛthivīnabhasī cobhe viśrute viśvalaukike 
+tayoḥ saṃdhāraṇārthaṃ hi mām adhoakṣajam añjasā // MBh_12,330.17
+
+niruktaṃ vedaviduṣo ye ca śabdārthacintakāḥ 
+te māṃ gāyanti prāgvaṃśe adhoakṣaja iti sthitiḥ // MBh_12,330.18
+
+śabda ekamatair eṣa vyāhṛtaḥ paramar1ṣibhiḥ 
+nānyo hy adhoakṣajo loke ṛte nārāyaṇaṃ prabhum // MBh_12,330.19
+
+ghṛtaṃ mamārciṣo loke jantūnāṃ prāṇadhāraṇam 
+ghṛtārcir aham avyagrair vedajñaiḥ parikīrtitaḥ // MBh_12,330.20
+
+trayo hi dhātavaḥ khyātāḥ karmajā iti ca smṛtāḥ 
+pittaṃ śleṣmā ca vāyuś ca eṣa saṃghāta ucyate // MBh_12,330.21
+
+etaiś ca dhāryate jantur etaiḥ kṣīṇaiś ca kṣīyate 
+āyurvedavidas tasmāt tridhātuṃ māṃ pracakṣate // MBh_12,330.22
+
+vṛṣo hi bhagavān dharmaḥ khyāto lokeṣu bhārata 
+naighaṇṭukapadākhyātaṃ viddhi māṃ vṛṣam uttamam // MBh_12,330.23
+
+kapir varāhaḥ śreṣṭhaś ca dharmaś ca vṛṣa ucyate 
+tasmād vṛṣākapiṃ prāha kaśyapo māṃ prajāpatiḥ // MBh_12,330.24
+
+na cādiṃ na madhyaṃ tathā naiva cāntaṃ
+kadācid vidante surāś cāsurāś ca
+anādyo hy amadhyas tathā cāpy anantaḥ
+pragīto 'ham īśo vibhur lokasākṣī MBh_12,330.25
+
+śucīni śravaṇīyāni śṛṇomīha dhanaṃjaya 
+na ca pāpāni gṛhṇāmi tato 'haṃ vai śuciśravāḥ // MBh_12,330.26
+
+ekaśṛṅgaḥ purā bhūtvā varāho divyadarśanaḥ 
+imām uddhṛtavān bhūmim ekaśṛṅgas tato hy aham // MBh_12,330.27
+
+tathaivāsaṃ trikakudo vārāhaṃ rūpam āsthitaḥ 
+trikakut tena vikhyātaḥ śarīrasya tu māpanāt // MBh_12,330.28
+
+viriñca iti yaḥ proktaḥ kapilajñānacintakaiḥ 
+sa prajāpatir evāhaṃ cetanāt sarvalokakṛt // MBh_12,330.29
+
+vidyāsahāyavantaṃ mām ādityasthaṃ sanātanam 
+kapilaṃ prāhur ācāryāḥ sāṃkhyā niścitaniścayāḥ // MBh_12,330.30
+
+hiraṇyagarbho dyutimān eṣa yaś chandasi stutaḥ 
+yogaiḥ saṃpūjyate nityaṃ sa evāhaṃ vibhuḥ smṛtaḥ // MBh_12,330.31
+
+ekaviṃśatiśākhaṃ ca ṛgvedaṃ māṃ pracakṣate 
+sahasraśākhaṃ yat sāma ye vai vedavido janāḥ 
+gāyanty āraṇyake viprā madbhaktās te 'pi durlabhāḥ // MBh_12,330.32
+
+ṣaṭpañcāśatam aṣṭau ca saptatriṃśatam ity uta 
+yasmiñ śākhā yajurvede so 'ham ādhvaryave smṛtaḥ // MBh_12,330.33
+
+pañcakalpam atharvāṇaṃ kṛtyābhiḥ paribṛṃhitam 
+kalpayanti hi māṃ viprā atharvāṇavidas tathā // MBh_12,330.34
+
+śākhābhedāś ca ye kecid yāś ca śākhāsu gītayaḥ 
+svaravarṇasamuccārāḥ sarvāṃs tān viddhi matkṛtān // MBh_12,330.35
+
+yat tad dhayaśiraḥ pārtha samudeti varapradam 
+so 'ham evottare bhāge kramā-kṣaravibhāgavit // MBh_12,330.36
+
+rāmādeśitamārgeṇa matprasādān mahātmanā 
+pāñcālena kramaḥ prāptas tasmād bhūtāt sanātanāt 
+bābhravyagotraḥ sa babhau prathamaḥ kramapāragaḥ_1 // MBh_12,330.37
+
+nārāyaṇād varaṃ labdhvā prāpya yogam anuttamam 
+kramaṃ praṇīya śikṣāṃ ca praṇayitvā sa gālavaḥ // MBh_12,330.38
+
+kaṇḍarīko 'tha rājā ca brahmadattaḥ pratāpavān 
+jātīmaraṇajaṃ duḥkhaṃ smṛtvā smṛtvā punaḥ punaḥ 
+saptajātiṣu mukhyatvād yogānāṃ saṃpadaṃ gataḥ // MBh_12,330.39
+
+purāhaṃ ātmajaḥ pārtha prathitaḥ kāraṇāntare 
+dharmasya kuruśārdūla tato 'haṃ dharmajaḥ smṛtaḥ // MBh_12,330.40
+
+naranārāyaṇau pūrvaṃ tapas tepatur avyayam 
+dharmayānaṃ samārūḍhau parvate gandhamādane // MBh_12,330.41
+
+tatkālasamayaṃ caiva dakṣayajño babhūva ha 
+naivākalpayad bhāgaṃ dakṣo rudrasya bhārata // MBh_12,330.42
+
+tato dadhīcivacanād dakṣayajñam apāharat 
+sasarja śūlaṃ krodhena prajvalantaṃ muhur muhuḥ // MBh_12,330.43
+
+tacchūlaṃ bhasmasāt kṛtvā dakṣayajñaṃ savistaram 
+āvayoḥ sahasāgacchad badary-āśramam antikāt 
+vegena mahatā pārtha patan nārāyaṇorasi // MBh_12,330.44
+
+tataḥ svatejasāviṣṭāḥ keśā nārāyaṇasya ha 
+babhūvur muñjavarṇās tu tato 'haṃ muñjakeśavān // MBh_12,330.45
+
+tac ca śūlaṃ vinirdhūtaṃ huṃkāreṇa mahātmanā 
+jagāma śaṃkarakaraṃ nārāyaṇasamāhatam // MBh_12,330.46
+
+atha rudra upādhāvat tāv ṛṣī tapasānvitau 
+tata enaṃ samuddhūtaṃ kaṇṭhe jagrāha pāṇinā 
+nārāyaṇaḥ sa viśvātmā tenāsya śitikaṇṭhatā // MBh_12,330.47
+
+atha rudravighātārtham iṣīkāṃ jagṛhe naraḥ 
+mantraiś ca saṃyuyojāśu so 'bhavat paraśur mahān // MBh_12,330.48
+
+kṣiptaś ca sahasā rudre khaṇḍanaṃ prāptavāṃs tadā 
+tato 'haṃ khaṇḍaparaśuḥ smṛtaḥ paraśukhaṇḍanāt // MBh_12,330.49
+
+asmin yuddhe tu vārṣṇeya trailokyamathane tadā 
+jayaṃ kaḥ prāptavāṃs tatra śaṃsaitan me janārdana // MBh_12,330.50
+
+tayoḥ saṃlagnayor yuddhe rudranārāyaṇātmanoḥ 
+udvignāḥ sahasā kṛtsnā lokāḥ sarve 'bhavaṃs tadā // MBh_12,330.51
+
+nāgṛhṇāt pāvakaḥ śubhraṃ makheṣu suhutaṃ haviḥ 
+vedā na pratibhānti sma ṛṣīṇāṃ bhāvitātmanām // MBh_12,330.52
+
+devān rajas tamaś caiva samāviviśatus tadā 
+vasudhā saṃcakampe 'tha nabhaś ca vipaphāla ha // MBh_12,330.53
+
+niṣprabhāṇi ca tejāṃsi brahmā caivāsanāc cyutaḥ 
+agāc choṣaṃ samudraś ca himavāṃś ca vyaśīryata // MBh_12,330.54
+
+tasminn evaṃ samutpanne nimitte pāṇḍunandana 
+brahmā vṛto devagaṇair ṛṣibhiś ca mahātmabhiḥ 
+ājagāmāśu taṃ deśaṃ yatra yuddham avartata // MBh_12,330.55
+
+sāñjalipragraho bhūtvā caturvaktro niruktagaḥ_1 
+uvāca vacanaṃ rudraṃ lokānām astu vai śivam 
+nyasyāyudhāni viśveśa jagato hitakāmyayā // MBh_12,330.56
+
+yad akṣaram athā-vyaktam īśaṃ lokasya bhāvanam 
+kūṭasthaṃ kartṛnirdvaṃdvam akarteti ca yaṃ viduḥ // MBh_12,330.57
+
+vyaktibhāvagatasyāsya ekā mūrtir iyaṃ śivā 
+naro nārāyaṇaś caiva jātau dharmakulodvahau // MBh_12,330.58
+
+tapasā mahatā yuktau devaśreṣṭhau mahāvratau 
+ahaṃ prasādajas tasya kasmiṃścit kāraṇāntare 
+tvaṃ caiva krodhajas tāta pūrvasarge sanātanaḥ // MBh_12,330.59
+
+mayā ca sārdhaṃ varadaṃ vibudhaiś ca mahar2ṣibhiḥ 
+prasādayāśu lokānāṃ śāntir bhavatu māciram // MBh_12,330.60
+
+brahmaṇā tv evam uktas tu rudraḥ krodhāgnim utsṛjan 
+prasādayām āsa tato devaṃ nārāyaṇaṃ prabhum 
+śaraṇaṃ ca jagāmādyaṃ vareṇyaṃ varadaṃ harim // MBh_12,330.61
+
+tato 'tha varado devo jitakrodho jitendriyaḥ 
+prītimān abhavat tatra rudreṇa saha saṃgataḥ // MBh_12,330.62
+
+ṛṣibhir brahmaṇā caiva vibudhaiś ca supūjitaḥ 
+uvāca devam īśānam īśaḥ sa jagato hariḥ // MBh_12,330.63
+
+yas tvāṃ vetti sa māṃ vetti yas tvām anu sa mām anu 
+nāvayor antaraṃ kiṃcin mā te bhūd buddhir anyathā // MBh_12,330.64
+
+adyaprabhṛti śrīvatsaḥ śūlāṅko 'yaṃ bhavatv ayam 
+mama pāṇyaṅkitaś cāpi śrīkaṇṭhas tvaṃ bhaviṣyasi // MBh_12,330.65
+
+evaṃ lakṣaṇam utpādya parasparakṛtaṃ tadā 
+sakhyaṃ caivā-tulaṃ kṛtvā rudreṇa sahitāv ṛṣī 
+tapas tepatur avyagrau visṛjya tridivaukasaḥ // MBh_12,330.66
+
+eṣa te kathitaḥ pārtha nārāyaṇajayo mṛdhe 
+nāmāni caiva guhyāni niruktāni ca bhārata 
+ṛṣibhiḥ kathitānīha yāni saṃkīrtitāni te // MBh_12,330.67
+
+evaṃ bahuvidhai rūpaiś carāmīha vasuṃdharām 
+brahmalokaṃ ca kaunteya golokaṃ ca sanātanam 
+mayā tvaṃ rakṣito yuddhe mahāntaṃ prāptavāñ jayam // MBh_12,330.68
+
+yas tu te so 'grato yāti yuddhe saṃpratyupasthite 
+taṃ viddhi rudraṃ kaunteya devadevaṃ kapardinam // MBh_12,330.69
+
+kālaḥ sa eva kathitaḥ krodhajeti mayā tava 
+nihatāṃs tena vai pūrvaṃ hatavān asi vai ripūn // MBh_12,330.70
+
+aprameyaprabhāvaṃ taṃ devadevam umāpatim 
+namasva devaṃ prayato viśveśaṃ haram avyayam // MBh_12,330.71
+
+brahman sumahad ākhyānaṃ bhavatā parikīrtitam 
+yac chrutvā munayaḥ sarve vismayaṃ paramaṃ gatāḥ // MBh_12,331.1
+
+idaṃ śatasahasrād dhi bhāratākhyānavistarāt 
+āmathya matimanthena jñānodadhim anuttamam // MBh_12,331.2
+
+navanītaṃ yathā dadhno malayāc candanaṃ yathā 
+āraṇyakaṃ ca vedebhya oṣadhibhyo 'mṛtaṃ yathā // MBh_12,331.3
+
+samuddhṛtam idaṃ brahman kathā-mṛtam anuttamam 
+taponidhe tvayoktaṃ hi nārāyaṇakathāśrayam // MBh_12,331.4
+
+sa hīśo bhagavān devaḥ sarvabhūtātmabhāvanaḥ 
+aho nārāyaṇaṃ tejo durdarśaṃ dvijasattama // MBh_12,331.5
+
+yatrāviśanti kalpānte sarve brahmādayaḥ surāḥ 
+ṛṣayaś ca sagandharvā yac ca kiṃcic carā-caram 
+na tato 'sti paraṃ manye pāvanaṃ divi ceha ca // MBh_12,331.6
+
+sarvāśramābhigamanaṃ sarvatīrthāvagāhanam 
+na tathā phaladaṃ cāpi nārāyaṇakathā yathā // MBh_12,331.7
+
+sarvathā pāvitāḥ smeha śrutvemām āditaḥ kathām 
+harer viśveśvarasyeha sarvapāpapraṇāśanīm // MBh_12,331.8
+
+na citraṃ kṛtavāṃs tatra yad āryo me dhanaṃjayaḥ 
+vāsudevasahāyo yaḥ prāptavāñ jayam uttamam // MBh_12,331.9
+
+na cāsya kiṃcid aprāpyaṃ manye lokeṣv api triṣu 
+trailokyanātho viṣṇuḥ sa yasyāsīt sāhyakṛt sakhā // MBh_12,331.10
+
+dhanyāś ca sarvae evāsan brahmaṃs te mama pūrvakāḥ 
+hitāya śreyase caiva yeṣām āsīj janārdanaḥ // MBh_12,331.11
+
+tapasāpi na dṛśyo hi bhagavāṃl lokapūjitaḥ 
+yaṃ dṛṣṭavantas te sākṣāc chrīvatsāṅkavibhūṣaṇam // MBh_12,331.12
+
+tebhyo dhanyataraś caiva nāradaḥ parameṣṭhijaḥ 
+na cālpatejasam ṛṣiṃ vedmi nāradam avyayam  MBh_12,331.13
+
+śvetadvīpaṃ samāsādya yena dṛṣṭaḥ svayaṃ hariḥ // MBh_12,331.13
+
+devaprasādānugataṃ vyaktaṃ tat tasya darśanam 
+yad dṛṣṭavāṃs tadā devam aniruddhatanau sthitam // MBh_12,331.14
+
+badarīm āśramaṃ yat tu nāradaḥ prādravat punaḥ 
+naranārāyaṇau draṣṭuṃ kiṃ nu tatkāraṇaṃ mune // MBh_12,331.15
+
+śvetadvīpān nivṛttaś ca nāradaḥ parameṣṭhijaḥ 
+badarīm āśramaṃ prāpya samāgamya ca tāv ṛṣī // MBh_12,331.16
+
+kiyantaṃ kālam avasat kāḥ kathāḥ pṛṣṭavāṃś ca saḥ 
+śvetadvīpād upāvṛtte tasmin vā sumahātmani // MBh_12,331.17
+
+kim abrūtāṃ mahātmānau naranārāyaṇāv ṛṣī 
+tad etan me yathātattvaṃ sarvam ākhyātum arhasi // MBh_12,331.18
+
+namo bhagavate tasmai vyāsāyā-mitatejase 
+yasya prasādād vakṣyāmi nārāyaṇakathām imām // MBh_12,331.19
+
+prāpya śvetaṃ mahādvīpaṃ dṛṣṭvā ca harim avyayam 
+nivṛtto nārado rājaṃs tarasā merum āgamat 
+hṛdayenodvahan bhāraṃ yad uktaṃ paramātmanā // MBh_12,331.20
+
+paścād asyābhavad rājann ātmanaḥ sādhvasaṃ mahat 
+yad gatvā dūram adhvānaṃ kṣemī punar ihāgataḥ // MBh_12,331.21
+
+tato meroḥ pracakrāma parvataṃ gandhamādanam 
+nipapāta ca khāt tūrṇaṃ viśālāṃ badarīm anu // MBh_12,331.22
+
+tataḥ sa dadṛśe devau purāṇāv ṛṣisattamau 
+tapaś carantau sumahad ātmaniṣṭhau mahāvratau // MBh_12,331.23
+
+tejasābhyadhikau sūryāt sarvalokavirocanāt 
+śrīvatsalakṣaṇau pūjyau jaṭāmaṇḍaladhāriṇau // MBh_12,331.24
+
+jālapādabhujau_2 tau tu pādayoś cakralakṣaṇau 
+vyūḍhoraskau dīrghabhujau_2 tathā muṣkacatuṣkiṇau // MBh_12,331.25
+
+ṣaṣṭidantāv aṣṭadaṃṣṭrau meghaughasadṛśasvanau 
+svāsyau pṛthulalāṭau ca suhanū subhrunāsikau // MBh_12,331.26
+
+ātapatreṇa sadṛśe śirasī devayos tayoḥ 
+evaṃ lakṣaṇasaṃpannau mahāpuruṣasaṃjñitau // MBh_12,331.27
+
+tau dṛṣṭvā nārado hṛṣṭas tābhyāṃ ca pratipūjitaḥ 
+svāgatenābhibhāṣyātha pṛṣṭaś cānāmayaṃ tadā // MBh_12,331.28
+
+babhūvāntargatamatir nirīkṣya puruṣottamau 
+sadogatās tatra ye vai sarvabhūtanamaskṛtāḥ // MBh_12,331.29
+
+śvetadvīpe mayā dṛṣṭās tādṛśāv ṛṣisattamau 
+iti saṃcintya manasā kṛtvā cābhipradakṣiṇam 
+upopaviveśe tatra pīṭhe kuśamaye śubhe // MBh_12,331.30
+
+tatas tau tapasāṃ vāsau yaśasāṃ tejasām api 
+ṛṣī śamadamopetau kṛtvā pūrvāhṇikaṃ vidhim // MBh_12,331.31
+
+paścān nāradam avyagrau pādyārghyābhyāṃ prapūjya ca 
+pīṭhayoś copaviṣṭau tau kṛtātithyāhnikau nṛpa_2 // MBh_12,331.32
+
+teṣu tatropaviṣṭeṣu sa deśo 'bhivyarājata 
+ājyāhutimahājvālair yajñavāṭo 'gnibhir yathā // MBh_12,331.33
+
+atha nārāyaṇas tatra nāradaṃ vākyam abravīt 
+sukhopaviṣṭaṃ viśrāntaṃ kṛtātithyaṃ sukhasthitam // MBh_12,331.34
+
+apīdānīṃ sa bhagavān paramātmā sanātanaḥ 
+śvetadvīpe tvayā dṛṣṭa āvayoḥ prakṛtiḥ parā // MBh_12,331.35
+
+dṛṣṭo me puruṣaḥ śrīmān viśvarūpadharo 'vyayaḥ 
+sarve hi lokās tatrasthās tathā devāḥ sahar1ṣibhiḥ 
+adyāpi cainaṃ paśyāmi yuvāṃ paśyan sanātanau // MBh_12,331.36
+
+yair lakṣaṇair upetaḥ sa harir avyaktarūpadhṛk 
+tair lakṣaṇair upetau hi vyaktarūpadharau yuvām // MBh_12,331.37
+
+dṛṣṭau mayā yuvāṃ tatra tasya devasya pārśvataḥ 
+iha caivāgato 'smy adya visṛṣṭaḥ paramātmanā // MBh_12,331.38
+
+ko hi nāma bhavet tasya tejasā yaśasā śriyā 
+sadṛśas triṣu lokeṣu ṛte dharmātmajau yuvām // MBh_12,331.39
+
+tena me kathitaṃ pūrvaṃ nāma kṣetrajñasaṃjñitam 
+prādurbhāvāś ca kathitā bhaviṣyanti hi ye yathā // MBh_12,331.40
+
+tatra ye puruṣāḥ śvetāḥ pañcendriyavivarjitāḥ 
+pratibuddhāś ca te sarve bhaktāś ca puruṣottamam // MBh_12,331.41
+
+te 'rcayanti sadā devaṃ taiḥ sārdhaṃ ramate ca saḥ 
+priyabhakto hi bhagavān paramātmā dvijapriyaḥ // MBh_12,331.42
+
+ramate so 'rcyamāno hi sadā bhāgavatapriyaḥ 
+viśvabhuk sarvago_1 devo bāndhavo bhaktavatsalaḥ 
+sa kartā kāraṇaṃ caiva kāryaṃ cātibaladyutiḥ // MBh_12,331.43
+
+tapasā yojya so ātmānaṃ śvetadvīpāt paraṃ hi yat 
+teja ity abhivikhyātaṃ svayaṃbhāsāvabhāsitam // MBh_12,331.44
+
+śāntiḥ sā triṣu lokeṣu siddhānāṃ bhāvitātmanām 
+etayā śubhayā buddhyā naiṣṭhikaṃ vratam āsthitaḥ // MBh_12,331.45
+
+na tatra sūryas tapati na somo 'bhivirājate 
+na vāyur vāti deveśe tapaś carati duścaram // MBh_12,331.46
+
+vedīm aṣṭatalotsedhāṃ bhūmāv āsthāya viśvabhuk 
+ekapādasthito deva ūrdhvabāhur udaṅmukhaḥ 
+sāṅgān āvartayan vedāṃs tapas tepe suduścaram // MBh_12,331.47
+
+yad brahmā ṛṣayaś caiva svayaṃ paśupatiś ca yat 
+śeṣāś ca vibudhaśreṣṭhā daityadānavarākṣasāḥ // MBh_12,331.48
+
+nāgāḥ suparṇā gandharvāḥ siddhā rājar1ṣayaś ca ye 
+havyaṃ kavyaṃ ca satataṃ vidhipūrvaṃ prayuñjate 
+kṛtsnaṃ tat tasya devasya caraṇāv upatiṣṭhati // MBh_12,331.49
+
+yāḥ kriyāḥ saṃprayuktās tu ekāntagatabuddhibhiḥ 
+tāḥ sarvāḥ śirasā devaḥ pratigṛhṇāti vai svayam // MBh_12,331.50
+
+na tasyānyaḥ priyataraḥ pratibuddhair mahātmabhiḥ 
+vidyate triṣu lokeṣu tato 'smy aikāntikaṃ gataḥ 
+iha caivāgatas tena visṛṣṭaḥ paramātmanā // MBh_12,331.51
+
+evaṃ me bhagavān devaḥ svayam ākhyātavān hariḥ 
+āsiṣye tatparo bhūtvā yuvābhyāṃ saha nityaśaḥ // MBh_12,331.52
+
+naranārāyaṇāv ūcatuḥ: dhanyo 'sy anugṛhīto 'si yat te dṛṣṭaḥ svayaṃ prabhuḥ 
+na hi taṃ dṛṣṭavān kaścit padmayonir api svayam // MBh_12,332.1
+
+avyaktayonir bhagavān durdarśaḥ puruṣottamaḥ 
+nāradaitad dhi te satyaṃ vacanaṃ samudāhṛtam // MBh_12,332.2
+
+nāsya bhaktaiḥ priyataro loke kaścana vidyate 
+tataḥ svayaṃ darśitavān svam ātmānaṃ dvijottamam // MBh_12,332.3
+
+tapo hi tapyatas tasya yat sthānaṃ paramātmanaḥ 
+na tat saṃprāpnute kaścid ṛte hy āvāṃ dvijottama // MBh_12,332.4
+
+yā hi sūryasahasrasya samastasya bhaved dyutiḥ 
+sthānasya sā bhavet tasya svayaṃ tena virājatā // MBh_12,332.5
+
+tasmād uttiṣṭhate vipra devād viśvabhuvaḥ pateḥ 
+kṣamā kṣamāvatāṃ śreṣṭha yayā bhūmis tu yujyate // MBh_12,332.6
+
+tasmāc cottiṣṭhate devāt sarvabhūtahito rasaḥ 
+āpo yena hi yujyante dravatvaṃ prāpnuvanti ca // MBh_12,332.7
+
+tasmād eva samudbhūtaṃ tejo rūpaguṇātmakam 
+yena sma yujyate sūryas tato lokān virājate // MBh_12,332.8
+
+tasmād devāt samudbhūtaḥ sparśas tu puruṣottamāt 
+yena sma yujyate vāyus tato lokān vivāty asau // MBh_12,332.9
+
+tasmāc cottiṣṭhate śabdaḥ sarvalokeśvarāt prabhoḥ 
+ākāśaṃ yujyate yena tatas tiṣṭhaty asaṃvṛtam // MBh_12,332.10
+
+tasmāt cottiṣṭhate devāt sarvabhūtagataṃ manaḥ 
+candramā yena saṃyuktaḥ prakāśaguṇadhāraṇaḥ // MBh_12,332.11
+
+ṣaḍbhūtotpādakaṃ nāma tat sthānaṃ vedasaṃjñitam 
+vidyāsahāyo yatrāste bhagavān havyakavyabhuk // MBh_12,332.12
+
+ye hi niṣkalmaṣā loke puṇyapāpavivarjitāḥ 
+teṣāṃ vai kṣemam adhvānaṃ gacchatāṃ dvijasattama 
+sarvalokatamohantā ādityo dvāram ucyate // MBh_12,332.13
+
+ādityadagdhasarvāṅgā adṛśyāḥ kenacit kvacit 
+paramāṇubhūtā bhūtvā tu taṃ devaṃ praviśanty uta // MBh_12,332.14
+
+tasmād api vinirmuktā aniruddhatanau sthitāḥ 
+manobhūtās tato bhūyaḥ pradyumnaṃ praviśanty uta // MBh_12,332.15
+
+pradyumnāc cāpi nirmuktā jīvaṃ saṃkarṣaṇaṃ tathā 
+viśanti viprapravarāḥ sāṃkhyā bhāgavataiḥ saha // MBh_12,332.16
+
+tatas traiguṇyahīnās te paramātmānam añjasā 
+praviśanti dvijaśreṣṭha kṣetrajñaṃ nirguṇātmakam 
+sarvāvāsaṃ vāsudevaṃ kṣetrajñaṃ viddhi tattvataḥ // MBh_12,332.17
+
+samāhitamanaskāś ca niyatāḥ saṃyatendriyāḥ 
+ekāntabhāvopagatā vāsudevaṃ viśanti te // MBh_12,332.18
+
+āvām api ca dharmasya gṛhe jātau dvijottama 
+ramyāṃ viśālām āśritya tapa ugraṃ samāsthitau // MBh_12,332.19
+
+ye tu tasyaiva devasya prādurbhāvāḥ surapriyāḥ 
+bhaviṣyanti trilokasthās teṣāṃ svastīty ato dvija // MBh_12,332.20
+
+vidhinā svena yuktābhyāṃ yathāpūrvaṃ dvijottama 
+āsthitābhyāṃ sarvakṛcchraṃ vrataṃ samyak tad uttamam // MBh_12,332.21
+
+āvābhyām api dṛṣṭas tvaṃ śvetadvīpe tapodhana 
+samāgato bhagavatā saṃjalpaṃ kṛtavān yathā // MBh_12,332.22
+
+sarvaṃ hi nau saṃviditaṃ trailokye sacarā-care 
+yad bhaviṣyati vṛttaṃ vā vartate vā śubhā-śubham // MBh_12,332.23
+
+etac chrutvā tayor vākyaṃ tapasy ugre 'bhyavartata 
+nāradaḥ prāñjalir bhūtvā nārāyaṇaparāyaṇaḥ // MBh_12,332.24
+
+jajāpa vidhivan mantrān nārāyaṇagatān bahūn 
+divyaṃ varṣasahasraṃ hi naranārāyaṇāśrame // MBh_12,332.25
+
+avasat sa mahātejā nārado bhagavān ṛṣiḥ 
+tam evābhyarcayan devaṃ naranārāyaṇau ca tau // MBh_12,332.26
+
+kasyacit tv atha kālasya nāradaḥ parameṣṭhijaḥ 
+daivaṃ kṛtvā yathānyāyaṃ pitryaṃ cakre tataḥ param // MBh_12,333.1
+
+tatas taṃ vacanaṃ prāha jyeṣṭho dharmātmajaḥ prabhuḥ 
+ka ijyate dvijaśreṣṭha daive pitrye ca kalpite // MBh_12,333.2
+
+tvayā matimatāṃ śreṣṭha tan me śaṃsa yathāgamam 
+kim etat kriyate karma phalaṃ cāsya kim iṣyate // MBh_12,333.3
+
+tvayaitat kathitaṃ pūrvaṃ daivaṃ kartavyam ity api 
+daivataṃ ca paro yajñaḥ paramātmā sanātanaḥ // MBh_12,333.4
+
+tatas tadbhāvito nityaṃ yaje vaikuṇṭham avyayam 
+tasmāc ca prasṛtaḥ pūrvaṃ brahmā lokapitāmahaḥ // MBh_12,333.5
+
+mama vai pitaraṃ prītaḥ parameṣṭhy apy ajījanat 
+ahaṃ saṃkalpajas tasya putraḥ prathamakalpitaḥ // MBh_12,333.6
+
+yajāmy ahaṃ pitṝn sādho nārāyaṇavidhau kṛte 
+evaṃ sa eva bhagavān pitā mātā pitāmahaḥ 
+ijyate pitṛyajñeṣu mayā nityaṃ jagatpatiḥ // MBh_12,333.7
+
+śrutiś cāpy aparā deva putrān hi pitaro 'yajan 
+vedaśrutiḥ praṇaṣṭā ca punar adhyāpitā sutaiḥ 
+tatas te mantradāḥ putrāḥ pitṛtvam upapedire // MBh_12,333.8
+
+nūnaṃ puraitad viditaṃ yuvayor bhāvitātmanoḥ 
+putrāś ca pitaraś caiva parasparam apūjayan // MBh_12,333.9
+
+trīn piṇḍān nyasya vai pṛthvyāṃ pūrvaṃ dattvā kuśān iti 
+kathaṃ tu piṇḍasaṃjñāṃ te pitaro lebhire purā // MBh_12,333.10
+
+naranārāyaṇāv ūcatuḥ: imāṃ hi dharaṇīṃ pūrvaṃ naṣṭāṃ sāgaramekhalām 
+govinda ujjahārāśu vārāhaṃ rūpam āśritaḥ // MBh_12,333.11
+
+sthāpayitvā tu dharaṇīṃ sve sthāne puruṣottamaḥ 
+jalakardamaliptāṅgo lokakāryārtham udayataḥ // MBh_12,333.12
+
+prāpte cāhnikakāle sa madhyaṃdinagate_1 ravau 
+daṃṣṭrāvilagnān mṛtpiṇḍān vidhūya sahasā prabhuḥ 
+sthāpayām āsa vai pṛthvyāṃ kuśān āstīrya nārada // MBh_12,333.13
+
+sa teṣv ātmānam uddiśya pitryaṃ cakre yathāvidhi 
+saṃkalpayitvā trīn piṇḍān svenaiva vidhinā prabhuḥ // MBh_12,333.14
+
+ātmagātroṣmasaṃbhūtaiḥ snehagarbhais tilair api 
+prokṣyāpavargaṃ deveśaḥ prāṅmukhaḥ kṛtavān svayam // MBh_12,333.15
+
+maryādāsthāpanārthaṃ ca tato vacanam uktavān 
+ahaṃ hi pitaraḥ sraṣṭum udyato lokakṛt svayam // MBh_12,333.16
+
+tasya cintayataḥ sadyaḥ pitṛkāryavidhiṃ param 
+daṃṣṭrābhyāṃ pravinirdhūtā mamaite dakṣiṇāṃ diśam 
+āśritā dharaṇīṃ piṇḍās tasmāt pitara eva te // MBh_12,333.17
+
+trayo mūrtivihīnā vai piṇḍamūrtidharās tv ime 
+bhavantu pitaro loke mayā sṛṣṭāḥ sanātanāḥ // MBh_12,333.18
+
+pitā pitāmahaś caiva tathaiva prapitāmahaḥ 
+aham evātra vijñeyas triṣu piṇḍeṣu saṃsthitaḥ // MBh_12,333.19
+
+nāsti matto 'dhikaḥ kaścit ko vābhyarcyo mayā svayam 
+ko vā mama pitā loke aham eva pitāmahaḥ // MBh_12,333.20
+
+pitāmahapitā caiva aham evātra kāraṇam 
+ity evam uktvā vacanaṃ devadevo vṛṣākapiḥ // MBh_12,333.21
+
+varāhaparvate vipra dattvā piṇḍān savistarān 
+ātmānaṃ pūjayitvaiva tatraivā-darśanaṃ gataḥ // MBh_12,333.22
+
+etadarthaṃ śubhamate pitaraḥ piṇḍasaṃjñitāḥ 
+labhante satataṃ pūjāṃ vṛṣākapivaco yathā // MBh_12,333.23
+
+ye yajanti pitṝn devān gurūṃś caivātithīṃs tathā 
+gāś caiva dvijamukhyāṃś ca pṛthivīṃ mātaraṃ tathā 
+karmaṇā manasā vācā viṣṇum eva yajanti te // MBh_12,333.24
+
+antargataḥ sa bhagavān sarvasattvaśarīragaḥ_1 
+samaḥ sarveṣu bhūteṣu īśvaraḥ sukhaduḥkhayoḥ 
+mahān mahātmā sarvātmā nārāyaṇa iti śrutaḥ // MBh_12,333.25
+
+śrutvaitan nārado vākyaṃ naranārāyaṇeritam 
+atyantabhaktimān deve ekāntitvam upeyivān // MBh_12,334.1
+
+proṣya varṣasahasraṃ tu naranārāyaṇāśrame 
+śrutvā bhagavadākhyānaṃ dṛṣṭvā ca harim avyayam 
+himavantaṃ jagāmāśu yatrāsya svaka āśramaḥ // MBh_12,334.2
+
+tāv api khyātatapasau naranārāyaṇāv ṛṣī 
+tasminn evāśrame ramye tepatus tapa uttamam // MBh_12,334.3
+
+tvam apy amitavikrāntaḥ pāṇḍavānāṃ kulodvahaḥ 
+pāvitātmādya saṃvṛttaḥ śrutvemām āditaḥ kathām // MBh_12,334.4
+
+naiva tasya paro loko nāyaṃ pārthivasattama 
+karmaṇā manasā vācā yo dviṣyād viṣṇum avyayam // MBh_12,334.5
+
+majjanti pitaras tasya narake śāśvatīḥ samāḥ 
+yo dviṣyād vibudhaśreṣṭhaṃ devaṃ nārāyaṇaṃ harim // MBh_12,334.6
+
+kathaṃ nāma bhaved dveṣya ātmā lokasya kasyacit 
+ātmā hi puruṣavyāghra jñeyo viṣṇur iti sthitiḥ // MBh_12,334.7
+
+ya eṣa gurur asmākam ṛṣir gandhavatīsutaḥ 
+tenaitat kathitaṃ tāta māhātmyaṃ paramātmanaḥ 
+tasmāc chrutaṃ mayā cedaṃ kathitaṃ ca tavānagha // MBh_12,334.8
+
+kṛṣṇadvaipāyanaṃ vyāsaṃ viddhi nārāyaṇaṃ prabhum 
+ko hy anyaḥ puruṣavyāghra mahābhāratakṛd bhavet 
+dharmān nānāvidhāṃś caiva ko brūyāt tam ṛte prabhum // MBh_12,334.9
+
+vartatāṃ te mahāyajño yathā saṃkalpitas tvayā 
+saṃkalpitāśvamedhas tvaṃ śrutadharmaś ca tattvataḥ // MBh_12,334.10
+
+etat tu mahad ākhyānaṃ śrutvā pārikṣito nṛpaḥ_2 
+tato yajñasamāptyarthaṃ kriyāḥ sarvāḥ samārabhat // MBh_12,334.11
+
+nārāyaṇīyam ākhyānam etat te kathitaṃ mayā  MBh_12,334.12
+
+nāradena purā rājan gurave me niveditam 
+ṛṣīṇāṃ pāṇḍavānāṃ ca śṛṇvatoḥ kṛṣṇabhīṣmayoḥ // MBh_12,334.12
+
+sa hi paramagurur bhuvanapatir
+dharaṇidharaḥ śamaniyamanidhiḥ
+śrutivinayanidhir dvijaparamahitas
+tava bhavatu gatir harir amarahitaḥ MBh_12,334.13
+
+tapasāṃ nidhiḥ sumahatāṃ mahato
+yaśasaś ca bhājanam ariṣṭakahā
+ekāntināṃ śaraṇado 'bhayado gatido 'stu vaḥ sa makhabhāgaharas triguṇātigaḥ MBh_12,334.14
+
+catuṣpañcadharaḥ pūrteṣṭayoś ca phalabhāgaharaḥ
+vidadhāti nityam ajito 'tibalo
+gatim ātmagāṃ_1 sukṛtinām ṛṣiṇām MBh_12,334.15
+
+taṃ lokasākṣiṇam ajaṃ puruṣaṃ
+ravivarṇam īśvaragatiṃ bahuśaḥ
+praṇamadhvam ekamatayo yatayaḥ
+salilodbhavo 'pi tam ṛṣiṃ praṇataḥ MBh_12,334.16
+
+sa hi lokayonir amṛtasya padaṃ
+sūkṣmaṃ purāṇam acalaṃ paramam
+tat sāṃkhyayogibhir udāradhṛtaṃ
+buddhyā yatātmabhir viditaṃ satatam MBh_12,334.17
+
+śrutaṃ bhagavatas tasya māhātmyaṃ paramātmanaḥ 
+janma dharmagṛhe caiva naranārāyaṇātmakam 
+mahāvarāhasṛṣṭā ca piṇḍotpattiḥ purātanī // MBh_12,335.1
+
+pravṛttau ca nivṛttau ca yo yathā parikalpitaḥ 
+sa tathā naḥ śruto brahman kathyamānas tvayānagha // MBh_12,335.2
+
+yac ca tat kathitaṃ pūrvaṃ tvayā hayaśiro mahat 
+havyakavyabhujo viṣṇor udakpūrve mahodadhau 
+tac ca dṛṣṭaṃ bhagavatā brahmaṇā parameṣṭhinā // MBh_12,335.3
+
+kiṃ tad utpāditaṃ pūrvaṃ hariṇā lokadhāriṇā 
+rūpaṃ prabhāvamahatām apūrvaṃ dhīmatāṃ vara // MBh_12,335.4
+
+dṛṣṭvā hi vibudhaśreṣṭham apūrvam amitaujasam 
+tad aśvaśirasaṃ puṇyaṃ brahmā kim akaron mune // MBh_12,335.5
+
+etan naḥ saṃśayaṃ brahman purāṇajñānasaṃbhavam 
+kathayasvottamamate mahāpuruṣanirmitam 
+pāvitāḥ sma tvayā brahman puṇyāṃ kathayatā kathām // MBh_12,335.6
+
+kathayiṣyāmi te sarvaṃ purāṇaṃ vedasaṃmitam 
+jagau yad bhagavān vyāso rājño dharmasutasya vai // MBh_12,335.7
+
+śrutvāśvaśiraso mūrtiṃ devasya harimedhasaḥ 
+utpannasaṃśayo rājā tam eva samacodayat // MBh_12,335.8
+
+yat tad darśitavān brahmā devaṃ hayaśirodharam 
+kimarthaṃ tat samabhavad vapur devopakalpitam // MBh_12,335.9
+
+yat kiṃcid iha loke vai dehabaddhaṃ viśāṃ pate 
+sarvaṃ pañcabhir āviṣṭaṃ bhūtair īśvarabuddhijaiḥ // MBh_12,335.10
+
+īśvaro hi jagatsraṣṭā prabhur nārāyaṇo virāṭ 
+bhūtāntarātmā varadaḥ saguṇo nirguṇo 'pi ca 
+bhūtapralayam avyaktaṃ śṛṇuṣva nṛpa_2-sattama // MBh_12,335.11
+
+dharaṇyām atha līnāyām apsu caikārṇave purā 
+jyotirbhūte jale cāpi līne jyotiṣi cānile // MBh_12,335.12
+
+vāyau cākāśasaṃlīne ākāśe ca manoanuge 
+vyakte manasi saṃlīne vyakte cā-vyaktatāṃ gate_1 // MBh_12,335.13
+
+avyakte puruṣaṃ yāte puṃsi sarvagate_1 'pi ca 
+tama evābhavat sarvaṃ na prājñāyata kiṃcana // MBh_12,335.14
+
+tamaso brahma saṃbhūtaṃ tamomūlam ṛtātmakam 
+tad viśvabhāvasaṃjñāntaṃ pauruṣīṃ tanum āsthitam // MBh_12,335.15
+
+so 'niruddha iti proktas tat pradhānaṃ pracakṣate 
+tad avyaktam iti jñeyaṃ triguṇaṃ nṛpa_2-sattama // MBh_12,335.16
+
+vidyāsahāyavān devo viṣvakseno hariḥ prabhuḥ  MBh_12,335.17
+
+apsv eva śayanaṃ cakre nidrāyogam upāgataḥ 
+jagataś cintayan sṛṣṭiṃ citrāṃ bahuguṇodbhavām // MBh_12,335.17
+
+tasya cintayataḥ sṛṣṭiṃ mahān ātmaguṇaḥ smṛtaḥ 
+ahaṃkāras tato jāto brahmā śubhacaturmukhaḥ 
+hiraṇyagarbho bhagavān sarvalokapitāmahaḥ // MBh_12,335.18
+
+padme 'niruddhāt saṃbhūtas tadā padmanibhekṣaṇaḥ 
+sahasrapatre dyutimān upaviṣṭaḥ sanātanaḥ // MBh_12,335.19
+
+dadṛśe 'dbhutasaṃkāśe lokān āpomayān prabhuḥ 
+sattvasthaḥ parameṣṭhī sa tato bhūtagaṇān sṛjat // MBh_12,335.20
+
+pūrvam eva ca padmasya patre sūryāṃśusaprabhe 
+nārāyaṇakṛtau bindū apām āstāṃ guṇottarau // MBh_12,335.21
+
+tāv apaśyat sa bhagavān anādinidhano 'cyutaḥ 
+ekas tatrābhavad bindur madhvābho ruciraprabhaḥ // MBh_12,335.22
+
+sa tāmaso madhur jātas tadā nārāyaṇājñayā 
+kaṭhinas tv aparo binduḥ kaiṭabho rājasas tu saḥ // MBh_12,335.23
+
+tāv abhyadhāvatāṃ śreṣṭhau tamorajaguṇānvitau 
+balavantau gadāhastau padmanālānusāriṇau // MBh_12,335.24
+
+dadṛśāte 'ravindasthaṃ brahmāṇam amitaprabham 
+sṛjantaṃ prathamaṃ vedāṃś caturaś cāruvigrahān // MBh_12,335.25
+
+tato vigrahavantau tau vedān dṛṣṭvāsurottamau 
+sahasā jagṛhatur vedān brahmaṇaḥ paśyatas tadā // MBh_12,335.26
+
+atha tau dānavaśreṣṭhau vedān gṛhya sanātanān 
+rasāṃ viviśatus tūrṇam udakpūrve mahodadhau // MBh_12,335.27
+
+tato hṛteṣu vedeṣu brahmā kaśmalam āviśat 
+tato vacanam īśānaṃ prāha vedair vinākṛtaḥ // MBh_12,335.28
+
+vedā me paramaṃ cakṣur vedā me paramaṃ balam 
+vedā me paramaṃ dhāma vedā me brahma cottamam // MBh_12,335.29
+
+mama vedā hṛtāḥ sarve dānavābhyāṃ balād itaḥ 
+andhakārā hi me lokā jātā vedair vinākṛtāḥ 
+vedān ṛte hi kiṃ kuryāṃ lokān vai sraṣṭum udyataḥ // MBh_12,335.30
+
+aho bata mahad duḥkhaṃ vedanāśanajaṃ mama 
+prāptaṃ dunoti hṛdayaṃ tīvraśokāya randhayan // MBh_12,335.31
+
+ko hi śokārṇave magnaṃ mām ito 'dya samuddharet 
+vedāṃs tān ānayen naṣṭān kasya cāhaṃ priyo bhave // MBh_12,335.32
+
+ity evaṃ bhāṣamāṇasya brahmaṇo nṛpa_2-sattama 
+hareḥ stotrārtham udbhūtā buddhir buddhimatāṃ vara 
+tato jagau paraṃ japyaṃ sāñjalipragrahaḥ prabhuḥ // MBh_12,335.33
+
+namas te brahmahṛdaya namas te mama pūrvaja 
+lokādya bhuvanaśreṣṭha sāṃkhyayoganidhe vibho // MBh_12,335.34
+
+vyaktā-vyaktakarā-cintya kṣemaṃ panthānam āsthita 
+viśvabhuk sarvabhūtānām antarātmann ayonija // MBh_12,335.35
+
+ahaṃ prasādajas tubhyaṃ lokadhāmne svayaṃbhuve 
+tvatto me mānasaṃ janma prathamaṃ dvijapūjitam // MBh_12,335.36
+
+cākṣuṣaṃ vai dvitīyaṃ me janma cāsīt purātanam 
+tvatprasādāc ca me janma tṛtīyaṃ vācikaṃ mahat // MBh_12,335.37
+
+tvattaḥ śravaṇajaṃ cāpi caturthaṃ janma me vibho 
+nāsikyaṃ cāpi me janma tvattaḥ pañcamam ucyate // MBh_12,335.38
+
+aṇḍajaṃ cāpi me janma tvattaḥ ṣaṣṭhaṃ vinirmitam 
+idaṃ ca saptamaṃ janma padmajaṃ me 'mitaprabha // MBh_12,335.39
+
+sarge sarge hy ahaṃ putras tava triguṇavarjitaḥ 
+prathitaḥ puṇḍarīkākṣa pradhānaguṇakalpitaḥ // MBh_12,335.40
+
+tvam īśvarasvabhāvaś ca svayaṃbhūḥ puruṣottamaḥ 
+tvayā vinirmito 'haṃ vai vedacakṣur vayoatigaḥ // MBh_12,335.41
+
+te me vedā hṛtāś cakṣur andho jāto 'smi jāgṛhi 
+dadasva cakṣuṣī mahyaṃ priyo 'haṃ te priyo 'si me // MBh_12,335.42
+
+evaṃ stutaḥ sa bhagavān puruṣaḥ sarvatomukhaḥ 
+jahau nidrām atha tadā vedakāryārtham udyataḥ 
+aiśvareṇa prayogeṇa dvitīyāṃ tanum āsthitaḥ // MBh_12,335.43
+
+sunāsikena kāyena bhūtvā candraprabhas tadā 
+kṛtvā hayaśiraḥ śubhraṃ vedānām ālayaṃ prabhuḥ // MBh_12,335.44
+
+tasya mūrdhā samabhavad dyauḥ sanakṣatratārakā 
+keśāś cāsyābhavan dīrghā raver aṃśusamaprabhāḥ // MBh_12,335.45
+
+karṇāv ākāśapātāle lalāṭaṃ bhūtadhāriṇī 
+gaṅgā sarasvatī puṇyā bhruvāv āstāṃ mahānadī // MBh_12,335.46
+
+cakṣuṣī somasūryau te nāsā saṃdhyā punaḥ smṛtā 
+oṃkāras tv atha saṃskāro vidyuj jihvā ca nirmitā // MBh_12,335.47
+
+dantāś ca pitaro rājan somapā iti viśrutāḥ 
+goloko brahmalokaś ca oṣṭhāv āstāṃ mahātmanaḥ 
+grīvā cāsyābhavad rājan kālarātrir guṇottarā // MBh_12,335.48
+
+etad dhayaśiraḥ kṛtvā nānāmūrtibhir āvṛtam 
+antardadhe sa viśveśo viveśa ca rasāṃ prabhuḥ // MBh_12,335.49
+
+rasāṃ punaḥ praviṣṭaś ca yogaṃ paramam āsthitaḥ 
+śaikṣaṃ svaraṃ samāsthāya om iti prāsṛjat svaram // MBh_12,335.50
+
+sa svaraḥ sānunādī ca sarvagaḥ_1 snigdha eva ca 
+babhūvāntarmahībhūtaḥ sarvabhūtaguṇoditaḥ // MBh_12,335.51
+
+tatas tāv asurau kṛtvā vedān samayabandhanān 
+rasātale vinikṣipya yataḥ śabdas tato drutau // MBh_12,335.52
+
+etasminn antare rājan devo hayaśirodharaḥ 
+jagrāha vedān akhilān rasātalagatān hariḥ 
+prādāc ca brahmaṇe bhūyas tataḥ svāṃ prakṛtiṃ gataḥ // MBh_12,335.53
+
+sthāpayitvā hayaśira udakpūrve mahodadhau 
+vedānām ālayaś cāpi babhūvāśvaśirās tataḥ // MBh_12,335.54
+
+atha kiṃcid apaśyantau dānavau madhukaiṭabhau 
+punar ājagmatus tatra vegitau paśyatāṃ ca tau 
+yatra vedā vinikṣiptās tat sthānaṃ śūnyam eva ca // MBh_12,335.55
+
+tata uttamam āsthāya vegaṃ balavatāṃ varau 
+punar uttasthatuḥ śīghraṃ rasānām ālayāt tadā 
+dadṛśāte ca puruṣaṃ tam evādikaraṃ prabhum // MBh_12,335.56
+
+śvetaṃ candraviśuddhābham aniruddhatanau sthitam 
+bhūyo 'py amitavikrāntaṃ nidrāyogam upāgatam // MBh_12,335.57
+
+ātmapramāṇaracite apām upari kalpite 
+śayane nāgabhogāḍhye jvālāmālāsamāvṛte // MBh_12,335.58
+
+niṣkalmaṣeṇa sattvena saṃpannaṃ ruciraprabham 
+taṃ dṛṣṭvā dānavendrau tau mahāhāsam amuñcatām // MBh_12,335.59
+
+ūcatuś ca samāviṣṭau rajasā tamasā ca tau 
+ayaṃ sa puruṣaḥ śvetaḥ śete nidrām upāgataḥ // MBh_12,335.60
+
+anena nūnaṃ vedānāṃ kṛtam āharaṇaṃ rasāt 
+kasyaiṣa ko nu khalv eṣa kiṃ ca svapiti bhogavān // MBh_12,335.61
+
+ity uccāritavākyau tau bodhayām āsatur harim 
+yuddhārthinau tu vijñāya vibuddhaḥ puruṣottamaḥ // MBh_12,335.62
+
+nirīkṣya cāsurendrau tau tato yuddhe mano dadhe  MBh_12,335.63
+
+atha yuddhaṃ samabhavat tayor nārāyaṇasya ca // MBh_12,335.63
+
+rajastamoviṣṭatanū tāv ubhau madhukaiṭabhau 
+brahmaṇopacitiṃ kurvañ jaghāna madhusūdanaḥ // MBh_12,335.64
+
+tatas tayor vadhenāśu vedāpaharaṇena ca 
+śokāpanayanaṃ cakre brahmaṇaḥ puruṣottamaḥ // MBh_12,335.65
+
+tataḥ parivṛto brahmā hatārir vedasatkṛtaḥ 
+nirmame sa tadā lokān kṛtsnān sthāvarajaṅgamān // MBh_12,335.66
+
+dattvā pitāmahāyāgryāṃ buddhiṃ lokavisargikīm 
+tatraivāntardadhe devo yata evāgato hariḥ // MBh_12,335.67
+
+tau dānavau harir hatvā kṛtvā hayaśiras tanum 
+punaḥ pravṛttidharmārthaṃ tām eva vidadhe tanum // MBh_12,335.68
+
+evam eṣa mahābhāgo babhūvāśvaśirā hariḥ 
+paurāṇam etad ākhyātaṃ rūpaṃ varadaṃ aiśvaram // MBh_12,335.69
+
+yo hy etad brāhmaṇo nityaṃ śṛṇuyād dhārayeta vā 
+na tasyādhyayanaṃ nāśam upagacchet kadācana // MBh_12,335.70
+
+ārādhya tapasogreṇa devaṃ hayaśirodharam 
+pāñcālena kramaḥ prāpto rāmeṇa pathi deśite // MBh_12,335.71
+
+etad dhayaśiro rājann ākhyānaṃ tava kīrtitam 
+purāṇaṃ vedasamitaṃ yan māṃ tvaṃ paripṛcchasi // MBh_12,335.72
+
+yāṃ yām icchet tanuṃ devaḥ kartuṃ kāryavidhau kvacit 
+tāṃ tāṃ kuryād vikurvāṇaḥ svayam ātmānam ātmanā // MBh_12,335.73
+
+eṣa vedanidhiḥ śrīmān eṣa vai tapaso nidhiḥ 
+eṣa yogaś ca sāṃkhyaṃ ca brahma cāgryaṃ harir vibhuḥ // MBh_12,335.74
+
+nārāyaṇaparā vedā yajñā nārāyaṇātmakāḥ 
+tapo nārāyaṇaparaṃ nārāyaṇaparā gatiḥ // MBh_12,335.75
+
+nārāyaṇaparaṃ satyam ṛtaṃ nārāyaṇātmakam 
+nārāyaṇaparo dharmaḥ punarāvṛttidurlabhaḥ // MBh_12,335.76
+
+pravṛttilakṣaṇaś caiva dharmo nārāyaṇātmakaḥ 
+nārāyaṇātmako gandho bhūmau śreṣṭhatamaḥ smṛtaḥ // MBh_12,335.77
+
+apāṃ caiva guṇo rājan raso nārāyaṇātmakaḥ 
+jyotiṣāṃ ca guṇo rūpaṃ smṛtaṃ nārāyaṇātmakam // MBh_12,335.78
+
+nārāyaṇātmakaś cāpi sparśo vāyuguṇaḥ smṛtaḥ 
+nārāyaṇātmakaś cāpi śabda ākāśasaṃbhavaḥ // MBh_12,335.79
+
+manaś cāpi tato bhūtam avyaktaguṇalakṣaṇam 
+nārāyaṇaparaḥ kālo jyotiṣām ayanaṃ ca yat // MBh_12,335.80
+
+nārāyaṇaparā kīrtiḥ śrīś ca lakṣmīś ca devatāḥ 
+nārāyaṇaparaṃ sāṃkhyaṃ yogo nārāyaṇātmakaḥ // MBh_12,335.81
+
+kāraṇaṃ puruṣo yeṣāṃ pradhānaṃ cāpi kāraṇam 
+svabhāvaś caiva karmāṇi daivaṃ yeṣāṃ ca kāraṇam // MBh_12,335.82
+
+pañcakāraṇasaṃkhyāto niṣṭhā sarvatra vai hariḥ 
+tattvaṃ jijñāsamānānāṃ hetubhiḥ sarvatomukhaiḥ // MBh_12,335.83
+
+tattvam eko mahāyogī harir nārāyaṇaḥ prabhuḥ 
+sabrahmakānāṃ lokānām ṛṣīṇāṃ ca mahātmanām // MBh_12,335.84
+
+sāṃkhyānāṃ yogināṃ cāpi yatīnām ātmavedinām 
+manīṣitaṃ vijānāti keśavo na tu tasya te // MBh_12,335.85
+
+ye kecit sarvalokeṣu daivaṃ pitryaṃ ca kurvate 
+dānāni ca prayacchanti tapyanti ca tapo mahat // MBh_12,335.86
+
+sarveṣām āśrayo viṣṇur aiśvaraṃ vidhim āsthitaḥ 
+sarvabhūtakṛtāvāso vāsudeveti cocyate // MBh_12,335.87
+
+ayaṃ hi nityaḥ paramo mahar2ṣir
+mahāvibhūtir guṇavān nirguṇākhyaḥ
+guṇaiś ca saṃyogam upaiti śīghraṃ
+kālo yathar2tāv ṛtusaṃprayuktaḥ MBh_12,335.88
+
+naivāsya vindanti gatiṃ mahātmano
+na cāgatiṃ kaścid ihānupaśyati
+jñānātmakāḥ saṃyamino mahar2ṣayaḥ
+paśyanti nityaṃ puruṣaṃ guṇādhikam MBh_12,335.89
+
+aho hy ekāntinaḥ sarvān prīṇāti bhagavān hariḥ 
+vidhiprayuktāṃ pūjāṃ ca gṛhṇāti bhagavān svayam // MBh_12,336.1
+
+ye tu dagdhendhanā loke puṇyapāpavivarjitāḥ 
+teṣāṃ tvayābhinirdiṣṭā pāraṃparyāgatā gatiḥ // MBh_12,336.2
+
+caturthyāṃ caiva te gatyāṃ gacchanti puruṣottamam 
+ekāntinas tu puruṣā gachanti paramaṃ padam // MBh_12,336.3
+
+nūnam ekāntadharmo 'yaṃ śreṣṭho nārāyaṇapriyaḥ 
+agatvā gatayas tisro yad gacchanty avyayaṃ harim // MBh_12,336.4
+
+sahopaniṣadān vedān ye viprāḥ samyag āsthitāḥ 
+paṭhanti vidhim āsthāya ye cāpi yatidharmiṇaḥ // MBh_12,336.5
+
+tebhyo viśiṣṭāṃ jānāmi gatim ekāntināṃ nṛṇām 
+kenaiṣa dharmaḥ kathito devena ṛṣiṇāpi vā // MBh_12,336.6
+
+ekāntināṃ ca kā caryā kadā cotpāditā vibho 
+etan me saṃśayaṃ chindhi paraṃ kautūhalaṃ hi me // MBh_12,336.7
+
+samupoḍheṣv anīkeṣu kurupāṇḍavayor mṛdhe 
+arjune vimanaske ca gītā bhagavatā svayam // MBh_12,336.8
+
+āgatiś ca gatiś caiva pūrvaṃ te kathitā mayā 
+gahano hy eṣa dharmo vai durvijñeyo 'kṛtātmabhiḥ // MBh_12,336.9
+
+saṃmitaḥ sāmavedena puraivādiyuge kṛtaḥ 
+dhāryate svayam īśena rājan nārāyaṇena ha // MBh_12,336.10
+
+etam arthaṃ mahārāja pṛṣṭaḥ pārthena nāradaḥ 
+ṛṣimadhye mahābhāgaḥ śṛṇvatoḥ kṛṣṇabhīṣmayoḥ // MBh_12,336.11
+
+guruṇā ca mamāpy eṣa kathito nṛpa_2-sattama 
+yathā tu kathitas tatra nāradena tathā śṛṇu // MBh_12,336.12
+
+yadāsīn mānasaṃ janma nārāyaṇamukhodgatam 
+brahmaṇaḥ pṛthivīpāla tadā nārāyaṇaḥ svayam 
+tena dharmeṇa kṛtavān daivaṃ pitryaṃ ca bhārata // MBh_12,336.13
+
+phenapā_1 ṛṣayaś caiva taṃ dharmaṃ pratipedire 
+vaikhānasāḥ phenapebhyo_1 dharmam etaṃ prapedire 
+vaikhānasebhyaḥ somas tu tataḥ so 'ntardadhe punaḥ // MBh_12,336.14
+
+yadāsīc cākṣuṣaṃ janma dvitīyaṃ brahmaṇo nṛpa_2 
+tadā pitāmahāt somād etaṃ dharmam ajānata 
+nārāyaṇātmakaṃ rājan rudrāya pradadau ca saḥ // MBh_12,336.15
+
+tato yogasthito rudraḥ purā kṛtayuge nṛpa_2 
+vālakhilyān ṛṣīn sarvān dharmam etam apāṭhayat 
+antardadhe tato bhūyas tasya devasya māyayā // MBh_12,336.16
+
+tṛtīyaṃ brahmaṇo janma yadāsīd vācikaṃ mahat 
+tatraiṣa dharmaḥ saṃbhūtaḥ svayaṃ nārāyaṇān nṛpa_2 // MBh_12,336.17
+
+suparṇo nāma tam ṛṣiḥ prāptavān puruṣottamāt 
+tapasā vai sutaptena damena niyamena ca // MBh_12,336.18
+
+triḥ parikrāntavān etat suparṇo dharmam uttamam 
+yasmāt tasmād vrataṃ hy etat trisauparṇam ihocyate // MBh_12,336.19
+
+ṛgvedapāṭhapaṭhitaṃ vratam etad dhi duścaram 
+suparṇāc cāpy adhigato dharma eṣa sanātanaḥ // MBh_12,336.20
+
+vāyunā dvipadāṃ śreṣṭha prathito jagad āyuṣā 
+vāyoḥ sakāśāt prāptaś ca ṛṣibhir vighasāśibhiḥ // MBh_12,336.21
+
+tebhyo mahodadhiś cainaṃ prāptavān dharmam uttamam 
+tataḥ so 'ntardadhe bhūyo nārāyaṇasamāhitaḥ // MBh_12,336.22
+
+yadā bhūyaḥ śravaṇajā sṛṣṭir āsīn mahātmanaḥ 
+brahmaṇaḥ puruṣavyāghra tatra kīrtayataḥ śṛṇu // MBh_12,336.23
+
+jagat sraṣṭumanā devo harir nārāyaṇaḥ svayam 
+cintayām āsa puruṣaṃ jagat sargakaraṃ prabhuḥ // MBh_12,336.24
+
+atha cintayatas tasya karṇābhyāṃ puruṣaḥ sṛtaḥ 
+prajāsargakaro brahmā tam uvāca jagatpatiḥ // MBh_12,336.25
+
+sṛja prajāḥ putra sarvā mukhataḥ pādatas tathā 
+śreyas tava vidhāsyāmi balaṃ tejaś ca suvrata // MBh_12,336.26
+
+dharmaṃ ca matto gṛhṇīṣva sātvataṃ nāma nāmataḥ 
+tena sarvaṃ kṛtayugaṃ sthāpayasva yathāvidhi // MBh_12,336.27
+
+tato brahmā namaś cakre devāya harimedhase 
+dharmaṃ cāgryaṃ sa jagrāha sarahasyaṃ sasaṃgraham 
+āraṇyakena sahitaṃ nārāyaṇamukhodgatam // MBh_12,336.28
+
+upadiśya tato dharmaṃ brahmaṇe 'mitatejase 
+taṃ kārtayugadharmāṇaṃ nirāśīḥkarmasaṃjñitam 
+jagāma tamasaḥ pāraṃ yatrā-vyaktaṃ vyavasthitam // MBh_12,336.29
+
+tato 'tha varado devo brahmalokapitāmahaḥ 
+asṛjat sa tadā lokān kṛtsnān sthāvarajaṅgamān // MBh_12,336.30
+
+tataḥ prāvartata tadā ādau kṛtayugaṃ śubham 
+tato hi sātvato dharmo vyāpya lokān avasthitaḥ // MBh_12,336.31
+
+tenaivādyena dharmeṇa brahmā lokavisargakṛt 
+pūjayām āsa deveśaṃ hariṃ nārāyaṇaṃ prabhum // MBh_12,336.32
+
+dharmapratiṣṭhāhetoś ca manuṃ svārociṣaṃ tataḥ 
+adhyāpayām āsa tadā lokānāṃ hitakāmyayā // MBh_12,336.33
+
+tataḥ svārociṣaḥ putraṃ vayaṃ śaṅkhapadaṃ nṛpa_2 
+adhyāpayat purā-vyagraḥ sarvalokapatir vibhuḥ // MBh_12,336.34
+
+tataḥ śaṅkhapadaś cāpi putram ātmajam aurasam 
+diśāpālaṃ sudharmāṇam adhyāpayata bhārata 
+tataḥ so 'ntardadhe bhūyaḥ prāpte tretāyuge punaḥ // MBh_12,336.35
+
+nāsikyajanmani purā brahmaṇaḥ pārthivottama 
+dharmam etaṃ svayaṃ devo harir nārāyaṇaḥ prabhuḥ 
+ujjagārāravindākṣo brahmaṇaḥ paśyatas tadā // MBh_12,336.36
+
+sanatkumāro bhagavāṃs tataḥ prādhītavān nṛpa_2 
+sanatkumārād api ca vīraṇo vai prajāpatiḥ 
+kṛtādau kuruśārdūla dharmam etam adhītavān // MBh_12,336.37
+
+vīraṇaś cāpy adhītyainaṃ raucyāya manave dadau 
+raucyaḥ putrāya śuddhāya suvratāya sumedhase // MBh_12,336.38
+
+kukṣināmne 'tha pradadau diśāṃ pālāya dharmiṇe 
+tataḥ so 'ntardadhe bhūyo nārāyaṇamukhodgataḥ // MBh_12,336.39
+
+aṇḍaje janmani punar brahmaṇe hariyonaye 
+eṣa dharmaḥ samudbhūto nārāyaṇamukhāt punaḥ // MBh_12,336.40
+
+gṛhīto brahmaṇā rājan prayuktaś ca yathāvidhi 
+adhyāpitāś ca munayo nāmnā barhiṣado nṛpa_2 // MBh_12,336.41
+
+barhiṣadbhyaś ca saṃkrāntaḥ sāmavedāntagaṃ_1 dvijam 
+jyeṣṭhaṃ nāmnābhivikhyātaṃ jyeṣṭhasāmavrato hariḥ // MBh_12,336.42
+
+jyeṣṭhāc cāpy anusaṃkrānto rājānam avikampanam 
+antardadhe tato rājann eṣa dharmaḥ prabhor hareḥ // MBh_12,336.43
+
+yad idaṃ saptamaṃ janma padmajaṃ brahmaṇo nṛpa_2 
+tatraiṣa dharmaḥ kathitaḥ svayaṃ nārāyaṇena hi // MBh_12,336.44
+
+pitāmahāya śuddhāya yugādau lokadhāriṇe 
+pitāmahaś ca dakṣāya dharmam etaṃ purā dadau // MBh_12,336.45
+
+tato jyeṣṭhe tu dauhitre prādād dakṣo nṛpa_2-uttama 
+āditye savitur jyeṣṭhe vivasvāñ jagṛhe tataḥ // MBh_12,336.46
+
+tretāyugādau ca punar vivasvān manave dadau 
+manuś ca lokabhūtyarthaṃ sutāyekṣvākave dadau // MBh_12,336.47
+
+ikṣvākuṇā ca kathito vyāpya lokān avasthitaḥ 
+gamiṣyati kṣayānte ca punar nārāyaṇaṃ nṛpa_2 // MBh_12,336.48
+
+vratināṃ cāpi yo dharmaḥ sa te pūrvaṃ nṛpa_2-uttama 
+kathito harigītāsu samāsavidhikalpitaḥ // MBh_12,336.49
+
+nāradena tu saṃprāptaḥ sarahasyaḥ sasaṃgrahaḥ 
+eṣa dharmo jagannāthāt sākṣān nārāyaṇān nṛpa_2 // MBh_12,336.50
+
+evam eṣa mahān dharma ādyo rājan sanātanaḥ 
+durvijñeyo duṣkaraś ca sātvatair dhāryate sadā // MBh_12,336.51
+
+dharmajñānena caitena suprayuktena karmaṇā 
+ahiṃsādharmayuktena prīyate harir īśvaraḥ // MBh_12,336.52
+
+ekavyūhavibhāgo vā kvacid dvivyūhasaṃjñitaḥ 
+trivyūhaś cāpi saṃkhyātaś caturvyūhaś ca dṛśyate // MBh_12,336.53
+
+harir eva hi kṣetrajño nirmamo niṣkalas tathā 
+jīvaś ca sarvabhūteṣu pañcabhūtaguṇātigaḥ // MBh_12,336.54
+
+manaś ca prathitaṃ rājan pañcendriyasamīraṇam 
+eṣa lokanidhir dhīmān eṣa lokavisargakṛt // MBh_12,336.55
+
+akartā caiva kartā ca kāryaṃ kāraṇam eva ca 
+yathecchati tathā rājan krīḍate puruṣo 'vyayaḥ // MBh_12,336.56
+
+eṣa ekāntidharmas te kīrtito nṛpa_2-sattama 
+mayā guruprasādena durvijñeyo 'kṛtātmabhiḥ 
+ekāntino hi puruṣā durlabhā bahavo nṛpa_2 // MBh_12,336.57
+
+yady ekāntibhir ākīrṇaṃ jagat syāt kurunandana 
+ahiṃsakair ātmavidbhiḥ sarvabhūtahite rataiḥ 
+bhavet kṛtayugaprāptir āśīḥkarmavivarjitaiḥ // MBh_12,336.58
+
+evaṃ sa bhagavān vyāso gurur mama viśāṃ pate 
+kathayām āsa dharmajño dharmarājñe dvijottamaḥ // MBh_12,336.59
+
+ṛṣīṇāṃ saṃnidhau rājañ śṛṇvatoḥ kṛṣṇabhīṣmayoḥ 
+tasyāpy akathayat pūrvaṃ nāradaḥ sumahātapāḥ // MBh_12,336.60
+
+devaṃ paramakaṃ brahma śvetaṃ candrābham acyutam 
+yatra caikāntino yānti nārāyaṇaparāyaṇāḥ // MBh_12,336.61
+
+evaṃ bahuvidhaṃ dharmaṃ pratibuddhair niṣevitam 
+na kurvanti kathaṃ viprā anye nānāvrate sthitāḥ // MBh_12,336.62
+
+tisraḥ prakṛtayo rājan dehabandheṣu nirmitāḥ 
+sāttvikī rājasī caiva tāmasī ceti bhārata // MBh_12,336.63
+
+dehabandheṣu puruṣaḥ śreṣṭhaḥ kurukulodvaha 
+sāttvikaḥ puruṣavyāghra bhaven mokṣārthaniścitaḥ // MBh_12,336.64
+
+atrāpi sa vijānāti puruṣaṃ brahmavartinam 
+nārāyaṇaparo mokṣas tato vai sāttvikaḥ smṛtaḥ // MBh_12,336.65
+
+manīṣitaṃ ca prāpnoti cintayan puruṣottamam 
+ekāntabhaktiḥ satataṃ nārāyaṇaparāyaṇaḥ // MBh_12,336.66
+
+manīṣiṇo hi ye kecid yatayo mokṣakāṅkṣiṇaḥ 
+teṣāṃ vai chinnatṛṣṇānāṃ yogakṣemavaho hariḥ // MBh_12,336.67
+
+jāyamānaṃ hi puruṣaṃ yaṃ paśyen madhusūdanaḥ 
+sāttvikas tu sa vijñeyo bhaven mokṣe ca niścitaḥ // MBh_12,336.68
+
+sāṃkhyayogena tulyo hi dharma ekāntasevitaḥ 
+nārāyaṇātmake mokṣe tato yānti parāṃ gatim // MBh_12,336.69
+
+nārāyaṇena dṛṣṭaś ca pratibuddho bhavet pumān 
+evam ātmecchayā rājan pratibuddho na jāyate // MBh_12,336.70
+
+rājasī tāmasī caiva vyāmiśre prakṛtī smṛte 
+tadātmakaṃ hi puruṣaṃ jāyamānaṃ viśāṃ pate 
+pravṛttilakṣaṇair yuktaṃ nāvekṣati hariḥ svayam // MBh_12,336.71
+
+paśyaty enaṃ jāyamānaṃ brahmā lokapitāmahaḥ 
+rajasā tamasā caiva mānuṣaṃ samabhiplutam // MBh_12,336.72
+
+kāmaṃ devāś ca ṛṣayaḥ sattvasthā nṛpa_2-sattama 
+hīnāḥ sattvena sūkṣmeṇa tato vaikārikāḥ smṛtāḥ // MBh_12,336.73
+
+kathaṃ vaikāriko gacchet puruṣaḥ puruṣottamam  MBh_12,336.74
+
+susūkṣmasattvasaṃyuktaṃ saṃyuktaṃ tribhir akṣaraiḥ 
+puruṣaḥ puruṣaṃ gacchen niṣkriyaḥ pañcaviṃśakam // MBh_12,336.75
+
+evam ekaṃ sāṃkhyayogaṃ vedāraṇyakam eva ca 
+parasparāṅgāny etāni pañcarātraṃ ca kathyate 
+eṣa ekāntināṃ dharmo nārāyaṇaparātmakaḥ // MBh_12,336.76
+
+yathā samudrāt prasṛtā jalaughās
+tam eva rājan punar āviśanti
+ime tathā jñānamahājalaughā
+nārāyaṇaṃ vai punar āviśanti MBh_12,336.77
+
+eṣa te kathito dharmaḥ sātvato yadubāndhava 
+kuruṣvainaṃ yathānyāyaṃ yadi śaknoṣi bhārata // MBh_12,336.78
+
+evaṃ hi sumahābhāgo nārado gurave mama 
+śvetānāṃ yatinām āha ekāntagatim avyayām // MBh_12,336.79
+
+vyāsaś cākathayat prītyā dharmaputrāya dhīmate 
+sa evāyaṃ mayā tubhyam ākhyātaḥ prasṛto guroḥ // MBh_12,336.80
+
+itthaṃ hi duścaro dharma eṣa pārthivasattama 
+yathaiva tvaṃ tathaivānye na bhajanti vimohitāḥ // MBh_12,336.81
+
+kṛṣṇa eva hi lokānāṃ bhāvano mohanas tathā 
+saṃhārakārakaś caiva kāraṇaṃ ca viśāṃ pate // MBh_12,336.82
+
+sāṃkhyaṃ yogaṃ pañcarātraṃ vedāraṇyakam eva ca 
+jñānāny etāni brahmar1ṣe lokeṣu pracaranti ha // MBh_12,337.1
+
+kim etāny ekaniṣṭhāni pṛthaṅniṣṭhāni vā mune 
+prabrūhi vai mayā pṛṣṭaḥ pravṛttiṃ ca yathākramam // MBh_12,337.2
+
+jajñe bahujñaṃ param atyudāraṃ
+yaṃ dvīpamadhye sutam ātmavantam
+parāśarād gandhavatī mahar2ṣiṃ
+tasmai namo 'jñānatamonudāya MBh_12,337.3
+
+pitāmahādyaṃ pravadanti ṣaṣṭhaṃ
+mahar2ṣim ārṣeyavibhūtiyuktam
+nārāyaṇasyāṃśajam ekaputraṃ
+dvaipāyanaṃ vedamahānidhānam MBh_12,337.4
+
+tam ādikāleṣu mahāvibhūtir
+nārāyaṇo brahmamahānidhānam
+sasarja putrārtham udāratejā
+vyāsaṃ mahātmānam ajaḥ purāṇaḥ MBh_12,337.5
+
+tvayaiva kathitaḥ pūrvaṃ saṃbhavo dvijasattama 
+vasiṣṭhasya sutaḥ śaktiḥ śakteḥ putraḥ parāśaraḥ // MBh_12,337.6
+
+parāśarasya dāyādaḥ kṛṣṇadvaipāyano muniḥ 
+bhūyo nārāyaṇasutaṃ tvam evainaṃ prabhāṣase // MBh_12,337.7
+
+kim ataḥ pūrvajaṃ janma vyāsasyā-mitatejasaḥ_1 
+kathayasvottamamate_2 janma nārāyaṇodbhavam // MBh_12,337.8
+
+vedārthān vettukāmasya dharmiṣṭhasya taponidheḥ 
+guror me jñānaniṣṭhasya himavatpādae āsataḥ // MBh_12,337.9
+
+kṛtvā bhāratam ākhyānaṃ tapaḥśrāntasya dhīmataḥ 
+śuśrūṣāṃ tatparā rājan kṛtavanto vayaṃ tadā // MBh_12,337.10
+
+sumantur jaiminiś caiva pailaś ca sudṛḍhavrataḥ 
+ahaṃ caturthaḥ śiṣyo vai śuko vyāsātmajas tathā // MBh_12,337.11
+
+ebhiḥ parivṛto vyāsaḥ śiṣyaiḥ pañcabhir uttamaiḥ 
+śuśubhe himavatpāde bhūtair bhūtapatir yathā // MBh_12,337.12
+
+vedān āvartayan sāṅgān bhāratārthāṃś ca sarvaśaḥ 
+tam ekamanasaṃ dāntaṃ yuktā vayam upāsmahe // MBh_12,337.13
+
+kathāntare 'tha kasmiṃścit pṛṣṭo 'smābhir dvijottamaḥ 
+vedārthān bhāratārthāṃś ca janma nārāyaṇāt tathā // MBh_12,337.14
+
+sa pūrvam uktvā vedārthān bhāratārthāṃś ca tattvavit 
+nārāyaṇād idaṃ janma vyāhartum upacakrame // MBh_12,337.15
+
+śṛṇudhvam ākhyānavaram etad ārṣeyam uttamam 
+ādikālodbhavaṃ viprās tapasādhigataṃ mayā // MBh_12,337.16
+
+prāpte prajāvisarge vai saptame padmasaṃbhave 
+nārāyaṇo mahāyogī śubhā-śubhavivarjitaḥ // MBh_12,337.17
+
+sasṛje nābhitaḥ putraṃ brahmāṇam amitaprabham 
+tataḥ sa prādur abhavad athainaṃ vākyam abravīt // MBh_12,337.18
+
+mama tvaṃ nābhito jātaḥ prajāsargakaraḥ prabhuḥ 
+sṛja prajās tvaṃ vividhā brahman sajaḍapaṇḍitāḥ // MBh_12,337.19
+
+sa evam ukto vimukhaś cintāvyākulamānasaḥ 
+praṇamya varadaṃ devam uvāca harim īśvaram // MBh_12,337.20
+
+kā śaktir mama deveśa prajāḥ sraṣṭuṃ namo 'stu te 
+aprajñāvān ahaṃ deva vidhatsva yad anantaram // MBh_12,337.21
+
+sa evam ukto bhagavān bhūtvāthāntarhitas tataḥ 
+cintayām āsa deveśo buddhiṃ buddhimatāṃ varaḥ // MBh_12,337.22
+
+svarūpiṇī tato buddhir upatasthe hariṃ prabhum 
+yogena caināṃ niryogaḥ svayaṃ niyuyuje tadā // MBh_12,337.23
+
+sa tām aiśvaryayogasthāṃ buddhiṃ śaktimatīṃ satīm 
+uvāca vacanaṃ devo buddhiṃ vai prabhur avyayaḥ // MBh_12,337.24
+
+brahmāṇaṃ praviśasveti lokasṛṣṭyarthasiddhaye 
+tatas tam īśvarādiṣṭā buddhiḥ kṣipraṃ viveśa sā // MBh_12,337.25
+
+athainaṃ buddhisaṃyuktaṃ punaḥ sa dadṛśe hariḥ 
+bhūyaś cainaṃ vacaḥ prāha sṛjemā vividhāḥ prajāḥ // MBh_12,337.26
+
+evam uktvā sa bhagavāṃs tatraivāntaradhīyata 
+prāpa caiva muhūrtena svasthānaṃ devasaṃjñitam // MBh_12,337.27
+
+tāṃ caiva prakṛtiṃ prāpya ekībhāvagato 'bhavat 
+athāsya buddhir abhavat punar anyā tadā kila // MBh_12,337.28
+
+sṛṣṭā imāḥ prajāḥ sarvā brahmaṇā parameṣṭhinā 
+daityadānavagandharvarakṣogaṇasamākulāḥ 
+jātā hīyaṃ vasumatī bhārākrāntā tapasvinī // MBh_12,337.29
+
+bahavo balinaḥ pṛthvyāṃ daityadānavarākṣasāḥ 
+bhaviṣyanti tapoyuktā varān prāpsyanti cottamān // MBh_12,337.30
+
+avaśyam eva taiḥ sarvair varadānena darpitaiḥ 
+bādhitavyāḥ suragaṇā ṛṣayaś ca tapodhanāḥ 
+tatra nyāyyam idaṃ kartuṃ bhārāvataraṇaṃ mayā // MBh_12,337.31
+
+atha nānāsamudbhūtair vasudhāyāṃ yathākramam 
+nigraheṇa ca pāpānāṃ sādhūnāṃ pragraheṇa ca // MBh_12,337.32
+
+imāṃ tapasvinīṃ satyāṃ dhārayiṣyāmi medinīm 
+mayā hy eṣā hi dhriyate pātālasthena bhoginā // MBh_12,337.33
+
+mayā dhṛtā dhārayati jagad dhi sacarā-caram 
+tasmāt pṛthvyāḥ paritrāṇaṃ kariṣye saṃbhavaṃ gataḥ // MBh_12,337.34
+
+evaṃ sa cintayitvā tu bhagavān madhusūdanaḥ 
+rūpāṇy anekāny asṛjat prādurbhāvabhavāya saḥ // MBh_12,337.35
+
+vārāhaṃ nārasiṃhaṃ ca vāmanaṃ mānuṣaṃ tathā 
+ebhir mayā nihantavyā durvinītāḥ surārayaḥ // MBh_12,337.36
+
+atha bhūyo jagatsraṣṭā bhoḥśabdenānunādayan 
+sarasvatīm uccacāra tatra sārasvato 'bhavat // MBh_12,337.37
+
+apāntaratamā nāma suto vāksaṃbhavo vibhoḥ 
+bhūtabhavyabhaviṣyajñaḥ satyavādī dṛḍhavrataḥ // MBh_12,337.38
+
+tam uvāca nataṃ mūrdhnā devānām ādir avyayaḥ 
+vedākhyāne śrutiḥ kāryā tvayā matimatāṃ vara 
+tasmāt kuru yathājñaptaṃ mayaitad vacanaṃ mune // MBh_12,337.39
+
+tena bhinnās tadā vedā manoḥ svāyaṃbhuve 'ntare 
+tatas tutoṣa bhagavān haris tenāsya karmaṇā 
+tapasā ca sutaptena yamena niyamena ca // MBh_12,337.40
+
+manvantareṣu putra tvam evaṃ lokapravartakaḥ 
+bhaviṣyasy acalo brahmann apradhṛṣyaś ca nityaśaḥ // MBh_12,337.41
+
+punas tiṣye ca saṃprāpte kuravo nāma bhāratāḥ 
+bhaviṣyanti mahātmāno rājānaḥ prathitā bhuvi // MBh_12,337.42
+
+teṣāṃ tvattaḥ prasūtānāṃ kulabhedo bhaviṣyati 
+parasparavināśārthaṃ tvām ṛte dvijasattama // MBh_12,337.43
+
+tatrāpy anekadhā vedān bhetsyase tapasānvitaḥ 
+kṛṣṇe yuge ca saṃprāpte kṛṣṇavarṇo bhaviṣyasi // MBh_12,337.44
+
+dharmāṇāṃ vividhānāṃ ca kartā jñānakaras tathā 
+bhaviṣyasi tapoyukto na ca rāgād vimokṣyase // MBh_12,337.45
+
+vītarāgaś ca putras te paramātmā bhaviṣyati 
+maheśvaraprasādena naitad vacanam anyathā // MBh_12,337.46
+
+yaṃ mānasaṃ vai pravadanti putraṃ
+pitāmahasyottamabuddhiyuktam
+vasiṣṭham agryaṃ tapaso nidhānaṃ
+yaś cāpi sūryaṃ vyatiricya bhāti MBh_12,337.47
+
+tasyānvaye cāpi tato mahar2ṣiḥ
+parāśaro nāma mahāprabhāvaḥ
+pitā sa te vedanidhir variṣṭho
+mahātapā vai tapaso nivāsaḥ
+kānīnagarbhaḥ pitṛkanyakāyāṃ
+tasmād ṛṣes tvaṃ bhavitā ca putraḥ MBh_12,337.48
+
+bhūtabhavyabhaviṣyāṇāṃ chinnasarvārthasaṃśayaḥ 
+ye hy atikrāntakāḥ pūrvaṃ sahasrayugaparyayāḥ // MBh_12,337.49
+
+tāṃś ca sarvān mayoddiṣṭān drakṣyase tapasānvitaḥ 
+punar drakṣyasi cānekasahasrayugaparyayān // MBh_12,337.50
+
+anādinidhanaṃ loke cakrahastaṃ ca māṃ mune 
+anudhyānān mama mune naitad vacanam anyathā // MBh_12,337.51
+
+śanaiścaraḥ sūryaputro bhaviṣyati manur mahān 
+tasmin manvantare caiva saptar1ṣigaṇapūrvakaḥ 
+tvam eva bhavitā vatsa matprasādān na saṃśayaḥ // MBh_12,337.52
+
+evaṃ sārasvatam ṛṣim apāntaratamaṃ tadā 
+uktvā vacanam īśānaḥ sādhayasvety athābravīt // MBh_12,337.53
+
+so 'haṃ tasya prasādena devasya harimedhasaḥ 
+apāntaratamā nāma tato jāto ājñayā hareḥ 
+punaś ca jāto vikhyāto vasiṣṭhakulanandanaḥ // MBh_12,337.54
+
+tad etat kathitaṃ janma mayā pūrvakam ātmanaḥ 
+nārāyaṇaprasādena tathā nārāyaṇāṃśajam // MBh_12,337.55
+
+mayā hi sumahat taptaṃ tapaḥ paramadāruṇam 
+purā matimatāṃ śreṣṭhāḥ parameṇa samādhinā // MBh_12,337.56
+
+etad vaḥ kathitaṃ sarvaṃ yan māṃ pṛcchatha putrakāḥ 
+pūrvajanma bhaviṣyaṃ ca bhaktānāṃ snehato mayā // MBh_12,337.57
+
+eṣa te kathitaḥ pūrvaṃ saṃbhavo 'smadguror nṛpa_2 
+vyāsasyā-kliṣṭamanaso yathā pṛṣṭaḥ punaḥ śṛṇu // MBh_12,337.58
+
+sāṃkhyaṃ yogaṃ pañcarātraṃ vedāḥ pāśupataṃ tathā 
+jñānāny etāni rājar1ṣe viddhi nānāmatāni vai // MBh_12,337.59
+
+sāṃkhyasya vaktā kapilaḥ paramar1ṣiḥ sa ucyate 
+hiraṇyagarbho yogasya vettā nānyaḥ purātanaḥ // MBh_12,337.60
+
+apāntaratamāś caiva vedācāryaḥ sa ucyate 
+prācīnagarbhaṃ tam ṛṣiṃ pravadantīha kecana // MBh_12,337.61
+
+umāpatir bhūtapatiḥ śrīkaṇṭho brahmaṇaḥ sutaḥ 
+uktavān idam avyagro jñānaṃ pāśupataṃ śivaḥ // MBh_12,337.62
+
+pañcarātrasya kṛtsnasya vettā tu bhagavān svayam 
+sarveṣu ca nṛpa_2-śreṣṭha jñāneṣv eteṣu dṛśyate // MBh_12,337.63
+
+yathāgamaṃ yathājñānaṃ niṣṭhā nārāyaṇaḥ prabhuḥ 
+na cainam evaṃ jānāti tamobhūtā viśāṃ pate // MBh_12,337.64
+
+tam eva śāstrakartāraṃ pravadanti manīṣiṇaḥ 
+niṣṭhāṃ nārāyaṇam ṛṣiṃ nānyo 'stīti ca vādinaḥ // MBh_12,337.65
+
+niḥsaṃśayeṣu sarveṣu nityaṃ vasati vai hariḥ 
+sasaṃśayān hetubalān nādhyāvasati mādhavaḥ // MBh_12,337.66
+
+pañcarātravido ye tu yathākramaparā nṛpa_2 
+ekāntabhāvopagatās te hariṃ praviśanti vai // MBh_12,337.67
+
+sāṃkhyaṃ ca yogaṃ ca sanātane dve
+vedāś ca sarve nikhilena rājan
+sarvaiḥ samastair ṛṣibhir nirukto
+nārāyaṇo viśvam idaṃ purāṇam MBh_12,337.68
+
+śubhā-śubhaṃ karma samīritaṃ yat
+pravartate sarvalokeṣu kiṃcit
+tasmād ṛṣes tad bhavatīti vidyād
+divy antarikṣe bhuvi cāpsu cāpi MBh_12,337.69
+
+bahavaḥ puruṣā brahmann utāho eka eva tu 
+ko hy atra puruṣaḥ śreṣṭhaḥ ko vā yonir ihocyate // MBh_12,338.1
+
+bahavaḥ puruṣā loke sāṃkhyayogavicāriṇām 
+naitad icchanti puruṣam ekaṃ kurukulodvaha // MBh_12,338.2
+
+bahūnāṃ puruṣāṇāṃ ca yathaikā yonir ucyate 
+tathā taṃ puruṣaṃ viśvaṃ vyākhyāsyāmi guṇādhikam // MBh_12,338.3
+
+namaskṛtvā tu gurave vyāsāyā-mitatejase 
+tapoyuktāya dāntāya vandyāya paramar1ṣaye // MBh_12,338.4
+
+idaṃ puruṣasūktaṃ hi sarvavedeṣu pārthiva 
+ṛtaṃ satyaṃ ca vikhyātam ṛṣisiṃhena cintitam // MBh_12,338.5
+
+utsargeṇāpavādena ṛṣibhiḥ kapilādibhiḥ 
+adhyātmacintām āśritya śāstrāṇy uktāni bhārata // MBh_12,338.6
+
+samāsatas tu yad vyāsaḥ puruṣaikatvam uktavān 
+tat te 'haṃ saṃpravakṣyāmi prasādād amitaujasaḥ // MBh_12,338.7
+
+atrāpy udāharantīmam itihāsaṃ purātanam 
+brahmaṇā saha saṃvādaṃ tryambakasya viśāṃ pate // MBh_12,338.8
+
+kṣīrodasya samudrasya madhye hāṭakasaprabhaḥ 
+vaijayanta iti khyātaḥ parvatapravaro nṛpa_2 // MBh_12,338.9
+
+tatrādhyātmagatiṃ deva ekākī pravicintayan 
+vairājasadane nityaṃ vaijayantaṃ niṣevate // MBh_12,338.10
+
+atha tatrāsatas tasya caturvaktrasya dhīmataḥ 
+lalāṭaprabhavaḥ putraḥ śiva āgād yadṛcchayā 
+ākāśenaiva yogīśaḥ purā trinayanaḥ prabhuḥ // MBh_12,338.11
+
+tataḥ khān nipapātāśu dharaṇīdharamūrdhani 
+agrataś cābhavat prīto vavande cāpi pādayoḥ // MBh_12,338.12
+
+taṃ pādayor nipatitaṃ dṛṣṭvā savyena pāṇinā 
+utthāpayām āsa tadā prabhur ekaḥ prajāpatiḥ // MBh_12,338.13
+
+uvāca cainaṃ bhagavāṃś cirasyāgatam ātmajam 
+svāgataṃ te mahābāho diṣṭyā prāpto 'si me 'ntikam // MBh_12,338.14
+
+kaccit te kuśalaṃ putra svādhyāyatapasoḥ sadā 
+nityam ugratapās tvaṃ hi tataḥ pṛcchāmi te punaḥ // MBh_12,338.15
+
+tvatprasādena bhagavan svādhyāyatapasor mama 
+kuśalaṃ cā-vyayaṃ caiva sarvasya jagatas tathā // MBh_12,338.16
+
+ciradṛṣṭo hi bhagavān vairājasadane mayā 
+tato 'haṃ parvataṃ prāptas tv imaṃ tvatpādasevitam // MBh_12,338.17
+
+kautūhalaṃ cāpi hi me ekāntagamanena te 
+naitat kāraṇam alpaṃ hi bhaviṣyati pitāmaha // MBh_12,338.18
+
+kiṃ nu tat sadanaṃ śreṣṭhaṃ kṣutpipāsāvivarjitam 
+surāsurair adhyuṣitam ṛṣibhiś cā-mitaprabhaiḥ // MBh_12,338.19
+
+gandharvair apsarobhiś ca satataṃ saṃniṣevitam 
+utsṛjyemaṃ girivaram ekākī prāptavān asi // MBh_12,338.20
+
+brahmovāca: vaijayanto girivaraḥ satataṃ sevyate mayā 
+atraikāgreṇa manasā puruṣaś cintyate virāṭ // MBh_12,338.21
+
+bahavaḥ puruṣā brahmaṃs tvayā sṛṣṭāḥ svayaṃbhuvā 
+sṛjyante cāpare brahman sa caikaḥ puruṣo virāṭ // MBh_12,338.22
+
+ko hy asau cintyate brahmaṃs tvayā vai puruṣottamaḥ 
+etan me saṃśayaṃ brūhi mahat kautūhalaṃ hi me // MBh_12,338.23
+
+brahmovāca: bahavaḥ puruṣāḥ putra ye tvayā samudāhṛtāḥ 
+evam etad atikrāntaṃ draṣṭavyaṃ naivam ity api 
+ādhāraṃ tu pravakṣyāmi ekasya puruṣasya te // MBh_12,338.24
+
+bahūnāṃ puruṣāṇāṃ sa yathaikā yonir ucyate 
+tathā taṃ puruṣaṃ viśvaṃ paramaṃ sumahattamam 
+nirguṇaṃ nirguṇā bhūtvā praviśanti sanātanam // MBh_12,338.25
+
+brahmovāca: śṛṇu putra yathā hy eṣa puruṣaḥ śāśvato 'vyayaḥ 
+akṣayaś cā-prameyaś ca sarvagaś ca nirucyate // MBh_12,339.1
+
+na sa śakyas tvayā draṣṭuṃ mayānyair vāpi sattama 
+saguṇo nirguṇo viśvo jñānadṛśyo hy asau smṛtaḥ // MBh_12,339.2
+
+aśarīraḥ śarīreṣu sarveṣu nivasaty asau 
+vasann api śarīreṣu na sa lipyati karmabhiḥ // MBh_12,339.3
+
+mamāntarātmā tava ca ye cānye dehasaṃjñitāḥ 
+sarveṣāṃ sākṣibhūto 'sau na grāhyaḥ kenacit kvacit // MBh_12,339.4
+
+viśvamūrdhā viśvabhujo viśvapādākṣināsikaḥ 
+ekaś carati kṣetreṣu svairacārī yathāsukham // MBh_12,339.5
+
+kṣetrāṇi hi śarīrāṇi bījāni ca śubhā-śubhe 
+tāni vetti sa yogātmā tataḥ kṣetrajña ucyate // MBh_12,339.6
+
+nāgatir na gatis tasya jñeyā bhūtena kenacit 
+sāṃkhyena vidhinā caiva yogena ca yathākramam // MBh_12,339.7
+
+cintayāmi gatiṃ cāsya na gatiṃ vedmi cottamām 
+yathājñānaṃ tu vakṣyāmi puruṣaṃ taṃ sanātanam // MBh_12,339.8
+
+tasyaikatvaṃ mahattvaṃ hi sa caikaḥ puruṣaḥ smṛtaḥ 
+mahāpuruṣaśabdaṃ sa bibharty ekaḥ sanātanaḥ // MBh_12,339.9
+
+eko hutāśo bahudhā samidhyate(MBh_12.339.10/1)
+
+ekaḥ sūryas tapasāṃ yonir ekā(MBh_12.339.10/2)
+
+eko vāyur bahudhā vāti loke(MBh_12.339.10/3)
+
+mahodadhiś cāmbhasāṃ yonir ekaḥ(MBh_12.339.10/4)
+
+puruṣaś caiko nirguṇo viśvarūpas(MBh_12.339.10/5)
+
+taṃ nirguṇaṃ puruṣaṃ cāviśanti(MBh_12.339.10/6)
+
+hitvā guṇamayaṃ sarvaṃ karma hitvā śubhā-śubham 
+ubhe satyānṛte tyaktvā evaṃ bhavati nirguṇaḥ // MBh_12,339.11
+
+acintyaṃ cāpi taṃ jñātvā bhāvasūkṣmaṃ catuṣṭayam 
+vicared yo yatir yattaḥ sa gacchet puruṣaṃ prabhum // MBh_12,339.12
+
+evaṃ hi paramātmānaṃ kecid icchanti paṇḍitāḥ 
+ekātmānaṃ tathātmānam apare 'dhyātmacintakāḥ // MBh_12,339.13
+
+tatra yaḥ paramātmā hi sa nityaṃ nirguṇaḥ smṛtaḥ 
+sa hi nārāyaṇo jñeyaḥ sarvātmā puruṣo hi saḥ 
+na lipyate phalaiś cāpi padmapatram ivāmbhasā // MBh_12,339.14
+
+karmātmā tv aparo yo 'sau mokṣabandhaiḥ sa yujyate 
+sasaptadaśakenāpi rāśinā yujyate hi saḥ 
+evaṃ bahuvidhaḥ proktaḥ puruṣas te yathākramam // MBh_12,339.15
+
+yat tat kṛtsnaṃ lokatantrasya dhāma(MBh_12.339.16/1)
+
+vedyaṃ paraṃ bodhanīyaṃ saboddhṛ(MBh_12.339.16/2)
+
+mantā mantavyaṃ prāśitā prāśitavyaṃ(MBh_12.339.16/3)
+
+ghrātā ghreyaṃ sparśitā sparśanīyam(MBh_12.339.16/4)
+
+draṣṭā draṣṭavyaṃ śrāvitā śrāvaṇīyaṃ
+jñātā jñeyaṃ saguṇaṃ nirguṇaṃ ca
+yad vai proktaṃ guṇasāmyaṃ pradhānaṃ
+nityaṃ caitac chāśvataṃ cā-vyayaṃ ca MBh_12,339.17
+
+yad vai sūte dhātur ādyaṃ nidhānaṃ
+tad vai viprāḥ pravadante 'niruddham
+yad vai loke vaidikaṃ karma sādhu
+āśīryuktaṃ tad dhi tasyopabhojyam MBh_12,339.18
+
+devāḥ sarve munayaḥ sādhu dāntās
+taṃ prāgyajñair yajñabhāgaṃ yajante
+ahaṃ brahmā ādya īśaḥ prajānāṃ
+tasmāj jātas tvaṃ ca mattaḥ prasūtaḥ
+matto jagaj jaṅgamaṃ sthāvaraṃ ca
+sarve vedāḥ sarahasyā hi putra MBh_12,339.19
+
+caturvibhaktaḥ puruṣaḥ sa krīḍati yathecchati 
+evaṃ sa eva bhagavāñ jñānena pratibodhitaḥ // MBh_12,339.20
+
+etat te kathitaṃ putra yathāvad anupṛcchataḥ 
+sāṃkhyajñāne tathā yoge yathāvad anuvarṇitam // MBh_12,339.21

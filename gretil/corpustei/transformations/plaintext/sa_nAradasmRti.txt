@@ -1,0 +1,2903 @@
+Nāradasmṛti
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAradasmRti.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Yasuke Ikari
+## Contribution: Yasuke Ikari
+## Date of this version: 2020-01-07
+
+## Source: 
+   - Richard W. Lariviere: The Nāradasmṛti. Critically edited with an introduction, annotated translation, and appendices. Philadelphia 1989 (University of Pennsylvania studies on South Asia 4-5).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Nāradasmṛti = NarS,
+   - a pragmatic abbreviation of the part: mātrikā = m, vyavahārapadāni = v, pariśiṣṭam = p,
+   - the number of the chapter in arabic numerals,
+   - the number of the verse.
+
+## Notes:
+   
+
+   The sandhi-analysis has been converted from BHELA-style encoding and resolves only vowel-sandhis.
+
+
+
+# Text
+
+
+1. mātṛkā
+
+
+1. vyavahāraḥ
+
+dharmaikatānāḥ puruṣā yadāsan satyavādinaḥ /
+tadā na vyavahāro 'bhūn na dveṣo nāpi matsaraḥ // NarS_m1.1
+
+naṣṭe dharme manuṣyeṣu vyavahāraḥ pravartate /
+draṣṭā ca vyavahārāṇāṃ rājā daṇḍadharaḥ kṛtaḥ // NarS_m1.2
+
+likhitaṃ sākṣiṇaś cātra dvau vidhī saṃprakīrtitau /
+saṃdigdhārthaviśuddhyarthaṃ dvayor vivadamānayoḥ // NarS_m1.3
+
+sottaro 'nuttaraś caiva sa vijñeyo dvilakṣaṇaḥ /
+sottaro 'bhyadhiko yatra vilekhāpūrvakaḥ paṇaḥ // NarS_m1.4
+
+vivāde sottarapaṇe dvayor yas tatra hīyate /
+sa paṇaṃ svakṛtaṃ dāpyo vinayaṃ ca parājaye // NarS_m1.5
+
+sāras tu vyavahārāṇāṃ pratijñā samudāhṛtā /
+taddhānau hīyate vādī taraṃs tām uttaro bhavet // NarS_m1.6
+
+kulāni śreṇayaś caiva gaṇāś cādhikṛto nṛpaḥ /
+pratiṣṭhā vyavahārāṇāṃ gurvebhyas tūttarottaram // NarS_m1.7
+
+sa catuṣpāc catuḥsthānaś catuḥsādhana eva ca /
+caturhitaś caturvyāpī catuṣkārī ca kīrtyate // NarS_m1.8
+
+aṣṭāṅgo 'ṣṭādaśapadaḥ śataśākhas tathaiva ca /
+triyonir dvyabhiyogaś ca dvidvāro dvigatis tathā // NarS_m1.9
+
+dharmaś ca vyavahāraś ca caritraṃ rājaśāsanam /
+catuṣpād vyavahāro 'yam uttaraḥ pūrvabādhakaḥ // NarS_m1.10
+
+tatra satye sthito dharmo vyavahāras tu sākṣiṣu /
+caritraṃ pustakaraṇe rājājñāyāṃ tu śāsanam // NarS_m1.11
+
+sāmādyupāyasādhyatvāc catuḥsādhana ucyate /
+caturṇām āśramāṇāṃ ca rakṣaṇāt sa caturhitaḥ // NarS_m1.12
+
+kartṝn atho sākṣiṇaś ca sabhyān rājānam eva ca /
+vyāpnoti pādaśo yasmāc caturvyāpī tataḥ smṛtaḥ // NarS_m1.13
+
+dharmasyārthasya yaśaso lokapaktes tathaiva ca /
+caturṇāṃ karaṇād eṣāṃ catuṣkārī prakīrtitaḥ // NarS_m1.14
+
+rājā sapuruṣaḥ sabhyāḥ śāstraṃ gaṇakalekhakau /
+hiraṇyam agnir udakam aṣṭāṅgaḥ sa udāhṛtaḥ // NarS_m1.15
+
+ṛṇādānaṃ hy upanidhiḥ saṃbhūyotthānam eva ca /
+dattasya punar ādānam aśuśrūṣābhyupetya ca // NarS_m1.16
+
+vetanasyānapākarma tathaivāsvāmivikrayaḥ /
+vikrīyāsaṃpradānaṃ ca krītvānuśaya eva ca // NarS_m1.17
+
+samayasyānapākarma vivādaḥ kṣetrajas tathā /
+strīpuṃsayoś ca saṃbandho dāyabhāgo 'tha sāhasam // NarS_m1.18
+
+vākpāruṣyaṃ tathaivoktaṃ daṇḍapāruṣyam eva ca /
+dyūtaṃ prakīrṇakaṃ caivety aṣṭādaśapadaḥ smṛtaḥ // NarS_m1.19
+
+eṣām eva prabhedo 'nyaḥ śatam aṣṭottaraṃ smṛtam /
+kriyābhedān manuṣyāṇāṃ śataśākho nigadyate // NarS_m1.20
+
+kāmāt krodhāc ca lobhāc ca tribhyo yasmāt pravartate /
+triyoniḥ kīrtyate tena trayam etad vivādakṛt // NarS_m1.21
+
+dvyabhiyogas tu vijñeyaḥ śaṅkātattvābhiyogataḥ /
+śaṅkāsatāṃ tu saṃsargāt tattvaṃ hoḍhādidarśanāt // NarS_m1.22
+
+pakṣadvayābhisaṃbandhād dvidvāraḥ samudāhṛtaḥ /
+pūrvavādas tayoḥ pakṣaḥ pratipakṣas taduttaram // NarS_m1.23
+
+bhūtacchalānusāritvād dvigatiḥ sa udāhṛtaḥ /
+bhūtaṃ tattvārthasaṃyuktaṃ pramādābhihitaṃ chalam // NarS_m1.24
+
+tatra śiṣṭaṃ chalaṃ rājā marṣayed dharmasādhanaḥ /
+bhūtam eva prapadyeta dharmamūlā yataḥ śriyaḥ // NarS_m1.25
+
+dharmeṇoddharato rājño vyavahārān kṛtātmanaḥ /
+saṃbhavanti guṇāḥ sapta sapta vahner ivārciṣaḥ // NarS_m1.26
+
+dharmaś cārthaś ca kīrtiś ca lokapaktir upagrahaḥ /
+prajābhyo bahumānaś ca svarge sthānaṃ ca śāśvatam // NarS_m1.27
+
+tasmād dharmāsanaṃ prāpya rājā vigatamatsaraḥ /
+samaḥ syāt sarvabhūteṣu bibhrad vaivasvataṃ vratam // NarS_m1.28
+
+dharmaśāstraṃ puraskṛtya prāḍvivākamate sthitaḥ /
+samāhitamatiḥ paśyed vyavahārān anukramāt // NarS_m1.29
+
+āgamaḥ prathamaṃ kāryo vyavahārapadaṃ tataḥ /
+vivitsā nirṇayaś caiva darśanaṃ syāc caturvidham // NarS_m1.30
+
+dharmaśāstrārthaśāstrābhyām avirodhena mārgataḥ /
+samīkṣamāṇo nipuṇaṃ vyavahāragatiṃ nayet // NarS_m1.31
+
+yathā mṛgasya viddhasya vyādho mṛgapadaṃ nayet /
+kakṣe śoṇitaleśena tathā dharmapadaṃ nayet // NarS_m1.32
+
+yatra vipratipattiḥ syād dharmaśāstrārthaśāstrayoḥ /
+arthaśāstroktam utsṛjya dharmaśāstroktam ācāret // NarS_m1.33
+
+dharmaśāstravirodhe tu yuktiyukto 'pi dharmataḥ /
+vyavahāro hi balavān dharmas tenāvahīyate // NarS_m1.34
+
+sūkṣmo hi bhagavān dharmaḥ parokṣo durvicāraṇaḥ /
+ataḥ pratyakṣamārgeṇa vyavahāragatiṃ nayet // NarS_m1.35
+
+yāty acauro 'pi cauratvaṃ cauraś cāyāty acauratām /
+acauraś cauratāṃ prāpto māṇḍavyo vyavahārataḥ // NarS_m1.36
+
+strīṣu rātrau bahir grāmād antarveśmany arātiṣu /
+vyavahāraḥ kṛto 'py eṣu punaḥ kartavyatām iyāt // NarS_m1.37
+
+gahanatvād vivādānām asāmarthyāt smṛter api /
+ṛṇādiṣu haret kālaṃ kāmaṃ tattvabubhutsayā // NarS_m1.38
+
+gobhūhiraṇyastrīsteyapāruṣyātyayikeṣu ca /
+sāhaseṣv abhiśāpe ca sadya eva vivādayet // NarS_m1.39
+
+anāvedya tu yo rājñe saṃdigdhe 'rthe pravartate /
+prasahya sa vineyaḥ syāt sa cāsyārtho na sidhyati // NarS_m1.40
+
+vaktavye 'rthe na tiṣṭhantam utkrāmantaṃ ca tadvacaḥ /
+āsedhayed vivādārthī yāvad āhvānadarśanam // NarS_m1.41
+
+sthānāsedhaḥ kālakṛtaḥ pravāsāt karmaṇas tathā /
+caturvidhaḥ syād āsedho nāsiddhas taṃ vilaṅghayet // NarS_m1.42
+
+nadīsaṃtārakāntāradurdeśopaplavādiṣu /
+āsiddhas taṃ parāsedham utkrāman nāparādhnuyāt // NarS_m1.43
+
+āsedhakāla āsiddha āsedham yo vyatikramet /
+sa vineyo 'nyathā kurvann āseddhā daṇḍabhāg bhavet // NarS_m1.44
+
+nirveṣṭukāmo rogārto yiyakṣur vyasane sthitaḥ /
+abhiyuktas tathānyena rājakāryodyatas tathā // NarS_m1.45
+
+gavāṃ pracāre gopālāḥ sasyabandhe kṛṣīvalāḥ /
+śilpinaḥ cāpi tatkālam āyudhīyāś ca vigrahe // NarS_m1.46
+
+aprāptavyavahāraś ca dūto dānonmukho vratī /
+viṣamasthaś ca nāsedhyo na cainān āhvayen nṛpaḥ // NarS_m1.47
+
+nābhiyukto 'bhiyuñjīta tam atīrtvārtham anyataḥ /
+na cābhiyuktam anyena na viddhaṃ veddhum arhati // NarS_m1.48
+
+yam artham abhiyuñjīta na taṃ viprakṛtiṃ nayet /
+nānyat pakṣāntaraṃ gacched gacchan pūrvāt sa hīyate // NarS_m1.49
+
+na ca mithyābhiyuñjīta doṣo mithyābhiyoginaḥ /
+yas tatra vinayaḥ proktaḥ so 'bhiyoktāram āvrajet // NarS_m1.50
+
+sāpadeśaṃ haran kālam abruvaṃś cāpi saṃsadi /
+uktvā vaco vibruvaṃś ca hīyamānasya lakṣaṇam // NarS_m1.51
+
+palāyate ya āhūtaḥ prāptaś ca vivaden na yaḥ /
+vineyaḥ sa bhaved rājñā hīna eva sa vādataḥ // NarS_m1.52
+
+nirṇiktavyavahāreṣu pramāṇam aphalaṃ bhavet /
+likhitaṃ sākṣiṇo vāpi pūrvam āveditaṃ na cet // NarS_m1.53
+
+yathā pakveṣu dhānyeṣu niṣphalāḥ prāvṛṣo guṇāḥ /
+nirṇiktavyavahārāṇāṃ pramāṇam aphalaṃ tathā // NarS_m1.54
+
+abhūtam apy abhihitaṃ prāptakālaṃ parīkṣyate /
+yat tu pramādān nocyeta tad bhūtam api hīyate // NarS_m1.55
+
+tīritaṃ cānuśiṣṭaṃ ca yo manyeta vidharmataḥ /
+dviguṇaṃ daṇḍam āsthāya tat kāryaṃ punar uddharet // NarS_m1.56
+
+durdṛṣṭe vyavahāre tu sabhyās taṃ daṇḍam āpnuyuḥ /
+na hi jātu vinā daṇḍaṃ kaścin mārge 'vatiṣṭhate // NarS_m1.57
+
+rāgād ajñānato vāpi lobhād vā yo 'nyathā vadet /
+sabhyo 'sabhyaḥ sa vijñeyas taṃ rājā vinayed bhṛśam // NarS_m1.58
+
+kiṃtu rājñā viśeṣeṇa svadharmam anurakṣatā /
+manuṣyacittavaicitryāt parīkṣyā sādhvasādhutā // NarS_m1.59
+
+puruṣāḥ santi ye lobhāt prabrūyuḥ sākṣyam anyathā /
+santi cānye durātmānaḥ kūṭalekhyakṛto janāḥ // NarS_m1.60
+
+ataḥ parīkṣyam ubhayam etad rājñā viśeṣataḥ /
+lekhyācāreṇa likhitaṃ sākṣyācāreṇa sākṣiṇaḥ // NarS_m1.61
+
+asatyāḥ satyasaṃkāśāḥ satyāś cāsatyadarśanāḥ /
+dṛśyante vividhā bhāvās tasmād yuktaṃ parīkṣaṇam // NarS_m1.62
+
+talavad dṛśyate vyoma khadyoto havyavāḍ iva /
+na talaṃ vidyate vyomni na khadyote hutāśanaḥ // NarS_m1.63
+
+tasmāt pratyakṣadṛṣṭo 'pi yuktam arthaḥ parīkṣitum /
+parīkṣya jñāpayan arthān na dharmāt parihīyate // NarS_m1.64
+
+evaṃ paśyan sadā rājā vyavahārān samāhitaḥ /
+vitatyeha yaśo dīptaṃ bradhnasyāpnoti viṣṭapam // NarS_m1.65
+
+
+2. bhāṣā
+
+suniścitabalādhānas tv arthī svārthapracoditaḥ /
+lekhayet pūrvapakṣaṃ tu kṛtakāryaviniścayaḥ // NarS_m2.1
+
+pūrvapakṣaśrutārthas tu pratyarthī tadanantaram /
+pūrvapakṣārthasaṃbandhaṃ pratipakṣaṃ niveśayet // NarS_m2.2
+
+śvo lekhanaṃ vā sa labhet tryahaṃ saptāham eva vā /
+arthī tṛtīyapāde tu yuktaṃ sadyo dhruvaṃ jayī // NarS_m2.3
+
+mithyā saṃpratipattir vā pratyavaskandam eva vā /
+prāṅnyāyavidhisādhyaṃ vā uttaraṃ syāc caturvidham // NarS_m2.4
+
+mithyaitan nābhijānāmi tadā tatra na saṃnidhiḥ /
+ajātaś cāsmi tatkāla evaṃ mithyā caturvidhā // NarS_m2.5
+
+mithyā ca viparītaṃ ca punaḥ śabdasamāgamam /
+pūrvapakṣārthasaṃbandham uttaraṃ syāc caturvidham // NarS_m2.6
+
+bhāṣāyā uttaraṃ yāvat pratyarthī na niveśayet /
+arthī tu lekhayet tāvad yāvad vastu vivakṣitam // NarS_m2.7
+
+anyārtham arthahīnaṃ ca pramāṇāgamavarjitam /
+lekhyaṃ hīnādhikaṃ bhraṣṭaṃ bhāṣādoṣās tūdāhṛtāḥ // NarS_m2.8
+
+labdhavyaṃ yena yad yasmāt sa tat tasmād avāpnuyāt /
+na tv anyo 'nyad athānyasmād ity anyārtham idaṃ tridhā // NarS_m2.9
+
+manasāham api dhyātas tvanmitreṇeha śatruvat /
+ato 'nyathā mahākṣāntyā tvam ihāvedito mayā // NarS_m2.10
+
+dravyapramāṇahīnaṃ yat phalopāśrayavarjitam /
+pramāṇavarjitaṃ nāma lekhyadoṣaṃ tad utsṛjet // NarS_m2.11
+
+āgamavarjitaṃ doṣaṃ pūrvapāde vivarjayet /
+ekasya bahubhiḥ sārdhaṃ purarāṣṭravirodhakam // NarS_m2.12
+
+bindumātrāpadavarṇeṣv ekāvidhiṣṭayā (?) /
+hīnādhikā bhaved vyarthā tāṃ yatnena vivarjayet // NarS_m2.13
+
+bhraṣṭaṃ tu duḥsthitaṃ yat syāj jalatailādibhir hatam /
+bhāṣāyāṃ tad api spaṣṭaṃ vispaṣṭārthaṃ vivarjayet // NarS_m2.14
+
+satyā bhāṣā na bhavati yady api syāt pratiṣṭhitā /
+bahiś ced bhraśyate dharmān niyatād vyavahārikāt // NarS_m2.15
+
+gandhamādanasaṃsthasya mayāsyāsīt tad arpitam /
+vyavahārikadharmasya bāhyam etan na sidhyati // NarS_m2.16
+
+anyākṣaraniveśena anyārthagamanena ca /
+ākulaṃ ca kriyādānaṃ kriyā caivākulā bhavet // NarS_m2.17
+
+rāgādīnāṃ yad ekena kopitaḥ karaṇe vadet /
+tad ādau tu likhet sarvaṃ vādinaḥ phalakādiṣu // NarS_m2.18
+
+nirākulāvabodhāya dharmasthaiḥ suvicāritam /
+tasmād anyad vyapohyaṃ syād vādinaḥ phalakādiṣu // NarS_m2.19
+
+vādibhyām abhyanujñātaṃ śeṣaṃ ca phalake sthitam /
+sasākṣikaṃ likheyus te pratipattiṃ ca vādinoḥ // NarS_m2.20
+
+vādibhyāṃ likhitāc cheṣaṃ yat punar vādinā smṛtam /
+tat pratyākalitaṃ nāma svapāde tasya likhyate // NarS_m2.21
+
+arthinā saṃniyukto vā pratyarthiprahito 'pi vā /
+yo yasyārthe vivadate tayor jayaparājayau // NarS_m2.22
+
+yo na bhrātā na ca pitā na putro na niyogakṛt /
+parārthavādī daṇḍyaḥ syād vyavahāre 'pi vibruvan // NarS_m2.23
+
+pūrvavādaṃ parityajya yo 'nyam ālambate punaḥ /
+vādasaṃkramaṇāj jñeyo hīnavādī sa vai naraḥ // NarS_m2.24
+
+sarveṣv api vivādeṣu vākchale nāpahīyate /
+paśustrībhūmyṛṇādāne śāsyo 'py arthān na hīyate // NarS_m2.25
+
+abhiyukto 'bhiyogasya yadi kuryād apahnavam /
+abhiyoktā diśed deśyaṃ pratyavaskandito na cet // NarS_m2.26
+
+pūrvapāde hi likhitaṃ yathākṣaram aśeṣataḥ /
+arthī tṛtīyapāde tu kriyayā pratipādayet // NarS_m2.27
+
+kriyāpi dvividhā proktā mānuṣī daivikī tathā /
+mānuṣī lekhyasākṣibhyāṃ dhaṭādir daivikī smṛtā // NarS_m2.28
+
+divā kṛte kāryavidhau grāmeṣu nagareṣu vā /
+saṃbhave sākṣiṇāṃ caiva divyā na bhavati kriyā // NarS_m2.29
+
+araṇye nirjane rātrāv antarveśmani sāhase /
+nyāsasyāpahnave caiva divyā saṃbhavati kriyā // NarS_m2.30
+
+kāraṇapratipattyā ca pūrvapakṣe virodhite /
+abhiyuktena vai bhāvyaṃ vijñeyaṃ pūrvapakṣavat // NarS_m2.31
+
+palāyate ya āhūto maunī sākṣiparājitaḥ /
+svayam abhyupapannaś ca avasannaś caturvidhaḥ // NarS_m2.32
+
+anyavādī kriyādveṣī nopasthātā niruttaraḥ /
+āhūtaprapalāyī ca hīnaḥ pañcavidhaḥ smṛtaḥ // NarS_m2.33
+
+maṇayaḥ padmarāgādyā dīnārādi hiraṇmayam /
+muktāvidrumaśaṅkhādyāḥ praduṣṭāḥ svāmigāminaḥ // NarS_m2.34
+
+gandhamālyam adattaṃ tu bhūṣaṇaṃ vāsa eva vā /
+pāduketi rājoktaṃ tad ākrāman vadham arhati // NarS_m2.35
+
+paṇyamūlyaṃ bhṛtir nyāso daṇḍo yac cāvahārakam /
+vṛthādānākṣikapaṇā vardhante nāvivakṣitāḥ // NarS_m2.36
+
+mithyābhiyogino ye syur dvijānāṃ śūdrayonayaḥ /
+teṣāṃ jihvāṃ samutkṛtya rājā śūle vidhāpayet // NarS_m2.37
+
+ājñā lekhaḥ paṭṭakaḥ śāsanaṃ vā ādhiḥ pattraṃ vikrayo vā krayo vā /
+rājñe kuryāt pūrvam āvedanaṃ yas tasya jñeyaḥ pūrvapakṣaḥ vidhijñaiḥ // NarS_m2.38
+
+sākṣikadūṣaṇe kāryaṃ pūrvasākṣiviśodhanam /
+śuddheṣu sākṣiṣu tataḥ paścāt sākṣyaṃ viśodhayet // NarS_m2.39
+
+sākṣisabhyāvasannānāṃ dūṣaṇe darśanaṃ punaḥ /
+svacaryāvasitānāṃ tu nāsti paunarbhavo vidhiḥ // NarS_m2.40
+
+svayam abhyupapanno 'pi svacaryāvasito 'pi san /
+kriyāvasanno 'py arheta paraṃ sabhyāvadhāraṇam // NarS_m2.41
+
+pakṣān utsārya kāryas tu sabhyaiḥ kāryaviniścayaḥ /
+anutsāritanirṇikte virodhaḥ pretya ceha ca // NarS_m2.42
+
+sabhair eva jitaḥ paścād rājñā śāsyaḥ svaśāstrataḥ /
+jayine cāpi deyaṃ syād yathāvaj jayapatrakam // NarS_m2.43
+
+vyavahāramukhaṃ caitat pūrvam uktaṃ svayaṃbhuvā /
+mukhaśuddhau hi śuddhiḥ syād vyavahārasya nānyathā // NarS_m2.44
+
+
+3. sabhā
+
+niyuktena tu vaktavyam apakṣapatitaṃ vacaḥ // NarS_m3.1
+
+yuktarūpaṃ bruvan sabhyo nāpnuyād dveṣakilbiṣe /
+bruvāṇas tv anyathā sabhyas tad evobhayam āpnuyāt // NarS_m3.2
+
+rājā tu dhārmikān sabhyān niyuñjyāt suparīkṣitān /
+vyavahāradhuraṃ voḍhuṃ ye śaktāḥ sadgavā iva // NarS_m3.3
+
+dharmaśāstrārthakuśalāḥ kulīnāḥ satyavādinaḥ /
+samāḥ śatrau ca mitre ca nṛpateḥ syuḥ sabhāsadaḥ // NarS_m3.4
+
+tatpratiṣṭhaḥ smṛto dharmo dharmamūlaś ca pārthivaḥ /
+saha sadbhir ato rājā vyavahārān viśodhayet // NarS_m3.5
+
+śuddheṣu vyavahāreṣu śuddhiṃ yānti sabhāsadaḥ /
+śuddhiś ca teṣāṃ dharmād dhi dharmam eva vadet tataḥ // NarS_m3.6
+
+yatra dharmo hy adharmeṇa satyaṃ yatrānṛtena ca /
+hanyate prekṣamāṇānāṃ hatās tatra sabhāsadaḥ // NarS_m3.7
+
+viddho dharmo hy adharmeṇa sabhāṃ yatropatiṣṭhate /
+na ced viśalyaḥ kriyate viddhās tatra sabhāsadaḥ // NarS_m3.8
+
+sabhā vā na praveṣṭavyā vaktavyaṃ vā samañjasam /
+abruvan vibruvan vāpi naro bhavati kilbiṣī // NarS_m3.9
+
+ye tu sabhyāḥ sabhāṃ gatvā tūṣṇīṃ dhyāyanta āsate /
+yathāprāptaṃ na bruvate sarve te 'nṛtavādinaḥ // NarS_m3.10
+
+pādo 'dharmasya kartāraṃ pādaḥ sākṣiṇam ṛcchati /
+pādaḥ sabhāsadaḥ sarvān pādo rājānam ṛcchati // NarS_m3.11
+
+rājā bhavaty anenās tu mucyante ca sabhāsadaḥ /
+eno gacchati kartāraṃ nindārho yatra nindyate // NarS_m3.12
+
+andho matsyān ivāśnāti nirapekṣaḥ sakaṇṭakān /
+parokṣam arthavaikalyād bhāṣate yaḥ sabhāṃ gataḥ // NarS_m3.13
+
+tasmāt sabhyaḥ sabhāṃ prāpya rāgadveṣavivarjitaḥ /
+vacas tathāvidhaṃ brūyād yathā na narakaṃ patet // NarS_m3.14
+
+yathā śalyaṃ bhiṣag vidvān uddhared yantrayuktitaḥ /
+prāḍvivākas tathā śalyam uddhared vyavahārataḥ // NarS_m3.15
+
+yatra sabhyo janaḥ sarvaḥ sādhv etad iti manyate /
+sa niḥśalyo vivādaḥ syāt saśalyaḥ syād ato 'nyathā // NarS_m3.16
+
+na sā sabhā yatra na santi vṛddhā vṛddhā na te ye na vadanti dharmam /
+nāsau dharmo yatra na satyam asti na tat satyaṃ yac chalenānuviddham // NarS_m3.17
+
+
+2. vyavahārapadāni
+
+
+1. ṛṇādānam
+
+ṛṇaṃ deyam adeyaṃ ca yena yatra yathā ca yat /
+dānagrahaṇadharmāc ca ṛṇādānam iti smṛtam // NarS_v1.01
+
+pitary uparate putrā ṛṇaṃ dadyur yathāṃśataḥ /
+vibhaktā hy avibhaktā vā yas tām udvahate dhuram // NarS_v1.02
+
+pitṛvyeṇāvibhaktena bhrātrā vā yad ṛṇaṃ kṛtam /
+mātrā vā yat kuṭumbārthe dadyus tad rikthino 'khilam // NarS_v1.03
+
+kramād avyāhataṃ prāptaṃ putrair yan narṇam uddhṛtam /
+dadyuḥ paitāmahaṃ pautrās tac caturthān nivartate // NarS_v1.04
+
+icchanti pitaraḥ putrān svārthahetor yatas tataḥ /
+uttamarṇādhamarṇebhyo mām ayaṃ mocayiṣyati // NarS_v1.05
+
+ataḥ putreṇa jātena svārtham utsṛjya yatnataḥ /
+pitā mokṣitavya ṛṇād yathā na narakaṃ patet // NarS_v1.06
+
+tapasvī cāgnihotrī ca ṛṇavān mriyate yadi /
+tapaś caivāgnihotraṃ ca sarvaṃ tad dhanināṃ dhanam // NarS_v1.07
+
+na putrarṇaṃ pitā dadyād dadyāt putras tu paitṛkam /
+kāmakrodhasurādyūtaprātibhāvyakṛtaṃ vinā // NarS_v1.08
+
+pitur eva niyogād yat kuṭumbabharaṇāya ca /
+kṛtaṃ vā yad ṛṇaṃ kṛcchre dadyāt putrasya tat pitā // NarS_v1.09
+
+śiṣyāntevāsidāsastrīvaiyāvṛttyakaraiś ca yat /
+kuṭumbahetor utkṣiptaṃ voḍhavyaṃ tat kuṭumbinā // NarS_v1.10
+
+nārvāg viṃśatimād varṣāt pitari proṣite sutaḥ /
+ṛṇaṃ dadyāt pitṛvye vā jyeṣṭhe bhrātary athāpi vā // NarS_v1.11
+
+dāpyaḥ pararṇam eko 'pi jīvatsv adhikṛtaiḥ kṛtam /
+preteṣu tu na tatputraḥ pararṇaṃ dātum arhati // NarS_v1.12
+
+na strī patikṛtaṃ dadyād ṛṇaṃ putrakṛtaṃ tathā /
+abhyupetād ṛte yadvā saha patyā kṛtaṃ bhavet // NarS_v1.13
+
+dadyād aputrā vidhavā niyuktā yā mumūrṣuṇā /
+yo vā tadriktham ādadyād yato riktham ṛṇaṃ tataḥ // NarS_v1.14
+
+na ca bhāryākṛtam ṛṇaṃ kathaṃcit patyur ābhavet /
+āpatkṛtād ṛte puṃsāṃ kuṭumbārtho hi vistaraḥ // NarS_v1.15
+
+anyatra rajakavyādhagopaśauṇḍikayoṣitām /
+teṣāṃ tatpratyayā vṛttiḥ kuṭumbaṃ ca tadāśrayam // NarS_v1.16
+
+putriṇī tu samutsṛjya putraṃ strī yānyam āśrayet /
+ṛkthaṃ tasyā haret sarvaṃ niḥsvāyāḥ putra eva tu // NarS_v1.17
+
+yā tu sapradhanaiva strī sāpatyā cānyam āśrayet /
+so 'syā dadyād ṛṇaṃ bhartur utsṛjed vā tathaiva tām // NarS_v1.18
+
+adhanasya hy aputrasya mṛtasyopaiti yaḥ striyam /
+ṛṇaṃ voḍhuḥ sa bhajate tad evāsya dhanaṃ smṛtam // NarS_v1.19
+
+dhanastrīhāriputrāṇām ṛṇabhāg yo dhanaṃ haret /
+putro 'satoḥ strīdhaninoḥ strīhārī dhaniputrayoḥ // NarS_v1.20
+
+uttamā svairiṇī yā syād uttamā ca punarbhuvām /
+ṛṇaṃ tayoḥ patikṛtaṃ dadyād yas tām upāśnute // NarS_v1.21
+
+strīkṛtāny apramāṇāni kāryāṇy āhur anāpadi /
+viśeṣato gṛhakṣetradānādhamanavikrayāḥ // NarS_v1.22
+
+etāny api pramāṇāni bhartā yady anumanyate /
+putraḥ patyur abhāve vā rājā vā patiputrayoḥ // NarS_v1.23
+
+bhartrā prītena yad dattaṃ striyai tasmin mṛte 'pi tat /
+sā yathākāmam aśnīyād dadyād vā sthāvarād ṛte // NarS_v1.24
+
+tathā dāsakṛtaṃ kāryam akṛtaṃ paricakṣate /
+anyatra svāmisaṃdeśān na dāsaḥ prabhur ātmanaḥ // NarS_v1.25
+
+putreṇa ca kṛtaṃ kāryaṃ yat syāt pitur anicchataḥ /
+tad apy akṛtam evāhur dāsaḥ putraś ca tau samau // NarS_v1.26
+
+aprāptavyavahāraś cet svatantro 'pi hi na rṇabhāk /
+svātantryaṃ tu smṛtaṃ jyeṣṭhe jyaiṣṭhyaṃ guṇavayaḥkṛtam // NarS_v1.27
+
+trayaḥ svatantrā loke 'smin rājācāryas tathaiva ca /
+prati prati ca varṇānāṃ sarveṣāṃ svagṛhe gṛhī // NarS_v1.28
+
+asvatantrāḥ prajāḥ sarvāḥ svatantraḥ pṛthivīpatiḥ /
+asvatantraḥ smṛtaḥ śiṣya ācārye tu svatantratā // NarS_v1.29
+
+asvatantrāḥ striyaḥ putrā dāsāś ca saparigrahāḥ /
+svatantras tatra tu gṛhī yasya yat syāt kramāgatam // NarS_v1.30
+
+garbhasthaiḥ sadṛśo jñeya ā varṣād aṣṭamāc chiṣuḥ /
+bāla ā ṣoḍaśāj jñeyaḥ pogaṇḍaś cāpi śabdyate // NarS_v1.31
+
+parato vyavahārajñaḥ svatantraḥ pitarau vinā /
+jīvator asvatantraḥ syāj jarayāpi samanvitaḥ // NarS_v1.32
+
+tayor api pitā śreyān bījaprādhānyadarśanāt /
+abhāve bījino mātā tadabhāve tu pūrvajaḥ // NarS_v1.33
+
+svatantrāḥ sarva evaite paratantreṣu sarvadā /
+anuśiṣṭau visarge ca vikraye ceśvarā matāḥ // NarS_v1.34
+
+yad bālaḥ kurute kāryam asvatantras tathaiva ca /
+akṛtaṃ tad iti prāhuḥ śāstre śāstravido janāḥ // NarS_v1.35
+
+svatantro 'pi hi yat kāryaṃ kuryād aprakṛtiṃ gataḥ /
+tad apy akṛtam evāhur asvatantraḥ sa hetutaḥ // NarS_v1.36
+
+kāmakrodhābhiyuktārtabhayavyasanapīḍitāḥ /
+rāgadveṣaparītāś ca jñeyās tv aprakṛtiṃ gatāḥ // NarS_v1.37
+
+kule jyeṣṭhas tathā śreṣṭhaḥ prakṛtisthaś ca yo bhavet /
+tatkṛtaṃ syāt kṛtaṃ kāryaṃ nāsvatantrakṛtaṃ kṛtam // NarS_v1.38
+
+dhanamūlāḥ kriyāḥ sarvā yatnas tatsādhane mataḥ /
+rakṣaṇaṃ vardhanaṃ bhoga iti tasya vidhiḥ kramāt // NarS_v1.39
+
+tat punas trividhaṃ jñeyaṃ śuklaṃ śabalam eva ca /
+kṛṣṇaṃ ca tasya vijñeyaḥ prabhedaḥ saptadhā pṛthak // NarS_v1.40
+
+śrutaśauryatapaḥkanyāśiṣyayājyānvayāgatam /
+dhanaṃ saptavidhaṃ śuklam udayo 'py asya tadvidhaḥ // NarS_v1.41
+
+kusīdakṛṣivāṇijyaśulkaśilpānuvṛttibhiḥ /
+kṛtopakārād āptaṃ ca śabalaṃ samudāhṛtam // NarS_v1.42
+
+pārśvikadyūtadautyārtipratirūpakasāhasaiḥ /
+vyājenopārjitaṃ yac ca tat kṛṣṇaṃ samudāhṛtam // NarS_v1.43
+
+tena krayo vikrayaś ca dānaṃ grahaṇam eva ca /
+vividhāś ca pravartante kriyāḥ saṃbhoga eva ca // NarS_v1.44
+
+yathāvidhena dravyeṇa yat kiṃcit kurute naraḥ /
+tathāvidham avāpnoti sa phalaṃ pretya ceha ca // NarS_v1.45
+
+tat punar dvādaśavidhaṃ prativarṇāśrayāt smṛtam /
+sādhāraṇaṃ syāt trividhaṃ śeṣaṃ navavidhaṃ smṛtam // NarS_v1.46
+
+kramāgataṃ prītidāyaḥ prāptaṃ ca saha bhāryayā /
+aviśeṣeṇa varṇānāṃ sarveṣāṃ trividhaṃ dhanam // NarS_v1.47
+
+vaiśeṣikaṃ dhanaṃ jñeyaṃ brāhmaṇasya trilakṣaṇam /
+pratigraheṇa yallabdhaṃ yājyataḥ śiṣyatas tathā // NarS_v1.48
+
+trividhaṃ kṣatriyasyāpi prāhur vaiśeṣikaṃ dhanam /
+yuddhopalabdhaṃ kāraś ca daṇḍaś ca vyavahārataḥ // NarS_v1.49
+
+vaiśeṣikaṃ dhanaṃ jñeyaṃ vaiśyasyāpi trilakṣaṇam /
+kṛṣigorakṣavāṇijyaiḥ śūdrasyaibhyas tv anugrahāt // NarS_v1.50
+
+sarveṣām eva varṇānām eṣa dharmyo dhanāgamaḥ /
+viparyayād adharmyaḥ syān na ced āpad garīyasī // NarS_v1.51
+
+āpatsv anantarā vṛttir brāhmaṇasya vidhīyate /
+vaiśyavṛttis tataś coktā na jaghanyā kathaṃcana // NarS_v1.52
+
+na kathaṃcana kurvīta brāhmaṇaḥ karma vārṣalam /
+vṛṣalaḥ karma na brāhmaṃ patanīye hi te tayoḥ // NarS_v1.53
+
+utkṛṣṭaṃ cāpakṛṣṭaṃ ca tayoḥ karma na vidyate /
+madhyame karmaṇī hitvā sarvasādhāraṇe hi te // NarS_v1.54
+
+āpadaṃ brāhmaṇas tīrtvā kṣatravṛttyā hṛtair dhanaiḥ /
+utsṛjet kṣatravṛttiṃ tāṃ kṛtvā pāvanam ātmanaḥ // NarS_v1.55
+
+tasyām eva tu yo vṛttau brāhmaṇo ramate rasāt /
+kāṇḍapṛṣṭhaś cyuto mārgāt so 'pāṅkteyaḥ prakīrtitaḥ // NarS_v1.56
+
+vaiśyavṛttāv avikreyaṃ brāhmaṇasya payo dadhi /
+ghṛtaṃ madhu madhūcchiṣṭaṃ lākṣākṣārarasāsavāḥ // NarS_v1.57
+
+māṃsaudanatilakṣaumasomapuṣpaphalapalāḥ /
+manuṣyaviṣaśastrāmbulavaṇāpūpavīrudhaḥ // NarS_v1.58
+
+nīlīkauṣeyacarmāsthikutapaikaśaphā mṛdaḥ /
+udaśvitkeśapiṇyākaśākādyauṣadhayas tathā // NarS_v1.59
+
+brāhmaṇasya tu vikreyaṃ śuṣkaṃ dāru tṛṇāni ca /
+gandhadravyairakāvetratūlamūlatuśād ṛte // NarS_v1.60
+
+svayaṃ śīrṇaṃ ca vidalaṃ phalānāṃ badareṅgude /
+rajjuḥ kārpāsikaṃ sūtraṃ tac ced avikṛtaṃ bhavet // NarS_v1.61
+
+aśaktau bheṣajasyārthe yajñahetos tathaiva ca /
+yady avaśyaṃ tu vikreyās tilā dhānyena tatsāmāḥ // NarS_v1.62
+
+avikreyāṇi vikrīṇan brāhmaṇaḥ pracyutaḥ pathaḥ /
+mārge punar avasthāpya rājñā daṇḍena bhūyasā // NarS_v1.63
+
+pramāṇāni pramāṇasthaiḥ paripālyāni yatnataḥ /
+sīdanti hi pramāṇāni pramāṇair avyavasthitaiḥ // NarS_v1.64
+
+likhitaṃ sākṣiṇo bhuktiḥ pramāṇaṃ trividhaṃ smṛtaṃ /
+dhanasvīkaraṇe yena dhanī dhanam upāśnute // NarS_v1.65
+
+likhitaṃ balavan nityaṃ jīvantas tv eva sākṣiṇaḥ /
+kālātiharaṇād bhuktir iti śāstreṣu niścayaḥ // NarS_v1.66
+
+trividhasyāsya dṛṣṭasya pramāṇasya yathākramam /
+pūrvaṃ pūrvaṃ guru jñeyaṃ bhuktir ebhyo garīyasī // NarS_v1.67
+
+vidyamāne 'pi likhite jīvatsv api hi sākṣiṣu /
+viśeṣataḥ sthāvarāṇāṃ yan na bhuktaṃ na tat sthiram // NarS_v1.68
+
+bhujyamānān parair arthān yaḥ svān maurkhyād upekṣate /
+samakṣaṃ jīvato 'py asya tān bhuktiḥ kurute vaśe // NarS_v1.69
+
+yatkiṃcid daśa varṣāṇi saṃnidhau prekṣate dhanī /
+bhujyamānaṃ parais tūṣṇīṃ na sa tal labdhum arhati // NarS_v1.70
+
+upekṣāṃ kurvatas tasya tūṣṇīṃ bhūtasya tiṣṭhataḥ /
+kāle 'tipanne pūrvokte vyavahāro na sidhyati // NarS_v1.71
+
+ajaḍaś ced apogaṇḍo viṣaye cāsya bhujyate /
+bhuktaṃ tad vyavahāreṇa bhoktā tad dhanam arhati // NarS_v1.72
+
+ādhiḥ sīmā bāladhanaṃ nikṣepopanidhī striyaḥ /
+rājasvaṃ śrotriyasvaṃ ca nopabhogena jīryate // NarS_v1.73
+
+pratyakṣaparibhogāc ca svāmino dvidaśāḥ samāḥ /
+ādhyādīny api jīryante strīnarendradhanād ṛte // NarS_v1.74
+
+strīdhanaṃ ca narendrāṇāṃ na kadācana jīryate /
+anāgamaṃ bhujyamānaṃ vatsarāṇāṃ śatair api // NarS_v1.75
+
+nirbhogo yatra dṛśyeta na dṛśyetāgamaḥ kvacit /
+āgamaḥ kāraṇaṃ tatra na bhogas tatra kāraṇam // NarS_v1.76
+
+anāgamaṃ bhujyate yan na tad bhogo 'tivartate /
+prete tu bhoktari dhanaṃ yāti tadvaṃśyabhogyatām // NarS_v1.77
+
+āhartaivābhiyuktaḥ sann arthānām uddharet padam /
+bhuktir eva viśuddhiḥ syāt prāptānāṃ pitṛtaḥ kramāt // NarS_v1.78
+
+anvāhitaṃ hṛtaṃ nyastaṃ balāvaṣṭabdhaṃ yācitam /
+apratyakṣaṃ ca yad bhuktaṃ ṣaḍ etāny āgamaṃ vinā // NarS_v1.79
+
+tathārūḍhavivādasya pretasya vyavahāriṇaḥ /
+putreṇa so 'rthaḥ saṃśodhyo na taṃ bhogo 'tivartate // NarS_v1.80
+
+yad vināgamam apy ūrdhvaṃ bhuktaṃ pūrvais tribhir bhavet /
+na tac chakyam apākartuṃ kramāt tripuruṣāgatam // NarS_v1.81
+
+santo 'pi na pramāṇaṃ syur mṛte dhanini sākṣiṇaḥ /
+anyatra śrāvitaṃ yat syāt svayam āsannamṛtyunā // NarS_v1.82
+
+na hi pratyarthini prete pramāṇaṃ sākṣiṇāṃ vacaḥ /
+sākṣimat karaṇaṃ tatra pramāṇaṃ syād viniścaye // NarS_v1.83
+
+śrāvitas tv ātureṇāpi yas tv artho dharmasaṃhitaḥ /
+mṛte 'pi tatra sākṣī syāt ṣaṭsu cānvāhitādiṣu // NarS_v1.84
+
+kriya rṇādiṣu sarveṣu balavaty uttarottarā /
+pratigrahādhikrīteṣu pūrvā pūrvā garīyasī // NarS_v1.85
+
+sthānalābhanimittaṃ hi dānagrahaṇam iṣyate /
+tat kusīdam iti proktaṃ tena vṛttiḥ kusīdinām // NarS_v1.86
+
+kāyikā kālikā caiva kāritā ca tathā smṛtā /
+cakravṛddhiś ca śāstreṣu tasya vṛddhiś caturvidhā // NarS_v1.87
+
+kāyāvirodhinī śaśvat paṇapādyā tu kāyikā /
+pratimāsaṃ sravati yā vṛddhiḥ sā kālikā smṛtā // NarS_v1.88
+
+vṛddhiḥ sā kāritā nāma ya rṇikena svayaṃkṛtā /
+vṛddher api punar vṛddhiś cakravṛddhir udāhṛtā // NarS_v1.89
+
+ṛṇānāṃ sārvabhaumo 'yaṃ vidhir vṛddhikaraḥ smṛtaḥ /
+deśācāravidhis tv anyo yatra rṇam avatiṣṭhati // NarS_v1.90
+
+dviguṇaṃ triguṇaṃ caiva tathānyasmiṃś caturguṇam /
+tathāṣṭaguṇam anyasmin deśe deśe 'vatiṣṭhate // NarS_v1.91
+
+hiraṇyadhānyavastrāṇāṃ vṛddhir dvitricaturguṇā /
+ghṛtasyāṣṭaguṇā vṛddhiḥ strīpaśūnāṃ ca saṃtatiḥ // NarS_v1.92
+
+sūtrakarpāsakiṇvānāṃ trapuṣaḥ sīsakasya ca /
+āyudhānāṃ ca sarveṣāṃ carmaṇas tāmralohayoḥ // NarS_v1.93
+
+anyeṣāṃ caiva sarveṣām iṣṭakānāṃ tathaiva ca /
+akṣayyā vṛddhir eteṣāṃ manur āha prajāpatiḥ // NarS_v1.94
+
+tailānāṃ caiva sarveṣāṃ madyānāṃ madhusarpiṣām /
+vṛddhir aṣṭaguṇā jñeyā guḍasya lavaṇasya ca // NarS_v1.95
+
+na vṛddhiḥ prītidattānāṃ syād anākāritā kvacit /
+anākāritam apy ūrdhvaṃ vatsarārdhād vivardhate // NarS_v1.96
+
+eṣa vṛddhividhiḥ proktaḥ prativṛddhasya dharmataḥ /
+vṛddhis tu yoktā dhānyānāṃ vārdhuṣyaṃ tad udāhṛtam // NarS_v1.97
+
+āpadaṃ nistared vaiśyaḥ kāmaṃ vārdhuṣakarmaṇā /
+āpatsv api hi kaṣṭāsu brāhmaṇasya na vārdhuṣam // NarS_v1.98
+
+brāhmaṇasya tu yad deyaṃ sānvayasya na cāsti saḥ /
+svakulyasyāsya nivapet tadabhāve 'sya bandhuṣu // NarS_v1.99
+
+yadā tu na svakulyāḥ syur na ca saṃbandhibāndhavāḥ /
+tadā dadyāt svajātibhyas teṣv asatsv apsu nikṣipet // NarS_v1.100
+
+gṛhītvopagataṃ dadyād ṛṇikāyodayaṃ dhanī /
+adadad yācyamānas tu śeṣahānim avāpnuyāt // NarS_v1.101
+
+lekhyaṃ dadyād ṛṇe śuddhe tadabhāve pratiśravam /
+dhanikarṇikayor evaṃ viśuddhiḥ syāt parasparam // NarS_v1.102
+
+viśrambhahetū dvāv atra pratibhūr ādhir eva ca /
+likhitaṃ sākṣiṇaś ca dve pramāṇe vyaktikārake // NarS_v1.103
+
+upasthānāya dānāya pratyayāya tathaiva ca /
+trividhaḥ pratibhūr dṛṣṭas triṣv evārtheṣu sūribhiḥ // NarS_v1.104
+
+ṛṇiṣv apratikurvatsu pratyaye vā vivādite /
+pratibhūs tad ṛṇaṃ dadyād anupasthāpayaṃs tathā // NarS_v1.105
+
+bahavaś cet pratibhuvo dadyus te 'rthaṃ yathākṛtam /
+arthe 'viśeṣite hy eṣu dhaninaś chandataḥ kriyā // NarS_v1.106
+
+yaṃ cārthaṃ pratibhūr dadyād dhanikenopapīḍitaḥ /
+ṛṇikas taṃ pratibhuve dviguṇaṃ pratipādayet // NarS_v1.107
+
+adhikriyata ity ādhiḥ sa vijñeyo dvilakṣaṇaḥ /
+kṛtakālopaneyaś ca yāvaddeyodyatas tathā // NarS_v1.108
+
+sa punar dvividhaḥ prokto gopyo bhogyas tathaiva ca /
+pratidānaṃ tathaivāsya lābhahānir viparyaye // NarS_v1.109
+
+pramādād dhaninas tadvad ādhau vikṛtim āgate /
+vinaṣṭe mūlanāśaḥ syād daivarājakṛtād ṛte // NarS_v1.110
+
+rakṣyamāṇo 'pi yatrādhiḥ kāleneyād asāratām /
+ādhir anyo 'dhikartavyo deyaṃ vā dhanine dhanam // NarS_v1.111
+
+atha śaktivihīnaḥ syād ṛṇī kālaviparyayāt /
+śakyaprekṣam ṛṇaṃ dāpyaḥ kāle kāle yathodayam // NarS_v1.112
+
+śakto vā yadi daurātmyān na dadyād dhanine dhanam /
+rājñā dāpayitavyaḥ syād gṛhītvāṃśaṃ tu viṃśakam // NarS_v1.113
+
+naśyed ṛṇaparīmāṇaṃ kāleneha rṇikasya cet /
+jātisaṃjñādhivāsānām āgamo lekhyataḥ smṛtaḥ // NarS_v1.114
+
+lekhyaṃ tu dvividhaṃ jñeyaṃ svahastānyakṛtaṃ tathā /
+asākṣimat sākṣimac ca siddhir deśasthites tayoḥ // NarS_v1.115
+
+deśācārāviruddhaṃ yad vyaktādhikṛtalakṣaṇam /
+tat pramāṇaṃ smṛtaṃ lekhyam aviluptakramākṣaram // NarS_v1.116
+
+mattābhiyuktastrībālabalātkārakṛtaṃ ca yat /
+tad apramāṇakaraṇaṃ bhītopadhikṛtaṃ tathā // NarS_v1.117
+
+mṛtāḥ syuḥ sākṣiṇo yatra dhanikarṇikalekhakāḥ /
+tad apy apārthaṃ likhitam ṛte tv ādheḥ sthirāśrayāt // NarS_v1.118
+
+ādhir yo dvividhaḥ prokto jaṅgamaḥ sthāvaras tathā /
+siddhir atrobhayasyāsya bhogo yady asti nānyathā // NarS_v1.119
+
+darśitaṃ pratikālaṃ yac chrāvitaṃ śrāvitaṃ ca yat /
+lekhyaṃ sidhyati sarvatra mṛteṣv api hi sākṣiṣu // NarS_v1.120
+
+aśrutārtham adṛṣṭārthaṃ vyavahārārtham eva ca /
+na lekhyaṃ siddhim āpnoti jīvatsv api hi sākṣiṣu // NarS_v1.121
+
+lekhye deśāntaranyaste dagdhe durlikhite hṛte /
+satas tatkālakaraṇam asato dṛṣṭadarśanam // NarS_v1.122
+
+yasmin syāt saṃśayo lekhye bhūtābhūtakṛte kvacit /
+tatsvahastakriyācihnaprāptiyuktibhir uddharet // NarS_v1.123
+
+lekhyaṃ yac cānyanāmāṅkaṃ hetvantarakṛtaṃ bhavet /
+vipratyaye parīkṣyaṃ tat saṃbandhāgamahetubhiḥ // NarS_v1.124
+
+likhitaṃ likhitenaiva sākṣimat sākṣibhir haret /
+sākṣibhyo likhitaṃ śreyo likhitena tu sākṣiṇaḥ // NarS_v1.125
+
+chinnabhinnahṛtonmṛṣṭanaṣṭadurlikhiteṣu ca /
+kartavyam anyal lekhyaṃ syād eṣa lekhyavidhiḥ smṛtaḥ // NarS_v1.126
+
+saṃdigdheṣu tu kāryeṣu dvayor vivadamānayoḥ /
+dṛṣṭaśrutānubhūtatvāt sākṣibhyo vyaktidarśanam // NarS_v1.127
+
+samakṣadarśanāt sākṣī vijñeyaḥ śrotracakṣuṣoḥ /
+śrotrasya yat paro brūte cakṣuṣaḥ kāyakarma yat // NarS_v1.128
+
+ekādaśavidhaḥ sākṣī sa tu dṛṣṭo manīṣibhiḥ /
+kṛtaḥ pañcavidhas teṣāṃ ṣaḍvidho 'kṛta ucyate // NarS_v1.129
+
+likhitaḥ smāritaś caiva yadṛcchābhijña eva ca /
+gūḍhaś cottarasākṣī ca sākṣī pañcavidhaḥ smṛtaḥ // NarS_v1.130
+
+akṛtaḥ ṣaḍvidhaś cāpi sūribhiḥ parikīrtitaḥ /
+grāmaś ca prāḍvivākaś ca rājā ca vyavahāriṇām // NarS_v1.131
+
+kāryeṣv abhyantaro yaḥ syād arthinā prahitaś ca yaḥ /
+kulaṃ kulavivādeṣu bhaveyus te 'pi sākṣiṇaḥ // NarS_v1.132
+
+kulīnā ṛjavaḥ śuddhā janmataḥ karmato 'rthataḥ /
+tryavarāḥ sākṣiṇo 'nindyāḥ śucayaḥ syuḥ subuddhayaḥ // NarS_v1.133
+
+brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrā ye cāpy aninditāḥ /
+prativarṇaṃ bhaveyus te sarve sarveṣu vā punaḥ // NarS_v1.134
+
+śreṇīṣu śreṇipuruṣāḥ sveṣu vargeṣu vargiṇaḥ /
+bahirvāsiṣu bāhyāś ca striyaḥ striṣu ca sākṣiṇaḥ // NarS_v1.135
+
+śreṇyādiṣu tu vargeṣu kaścic ced dveṣyatām iyāt /
+tebhya eva na sākṣī syād dveṣṭāraḥ sarva eva te // NarS_v1.136
+
+asākṣy api hi śāstreṣu dṛṣṭaḥ pañcavidho budhaiḥ /
+vacanād doṣato bhedāt svayamukter mṛtāntaraḥ // NarS_v1.137
+
+śrotriyādyā vacanataḥ stenādyā doṣadarśanāt /
+bhedād vipratipattiḥ syād vivāde yatra sākṣiṇaḥ // NarS_v1.138
+
+svayamukter anirdiṣṭaḥ svayam evaitya yo vadet /
+mṛtāntaro 'rthini prete mumūrṣuśrāvitād ṛte // NarS_v1.139
+
+śrotriyās tāpasā vṛddhā ye ca pravrajitā narāḥ /
+asākṣiṇas te vacanān nātra hetur udāhṛtaḥ // NarS_v1.140
+
+stenāḥ sāhasikāś caṇḍāḥ kitavā vadhakās tathā /
+asākṣiṇas te duṣṭatvāt teṣu satyaṃ na vidyate // NarS_v1.141
+
+rājñā parigṛhīteṣu sākṣiṣv ekārthaniścaye /
+vacanaṃ yatra bhidyate te syur bhedād asākṣiṇaḥ // NarS_v1.142
+
+anirdiṣṭas tu sākṣitve svayam evaitya yo vadet /
+sūcīty uktaḥ sa śāstreṣu na sa sākṣitvam arhati // NarS_v1.143
+
+yo 'rthaḥ śrāvayitavyaḥ syāt tasminn asati cārthini /
+kva tad vadatu sākṣitvam ity asākṣī mṛtāntaraḥ // NarS_v1.144
+
+dvayor vivadator arthe dvayoḥ satsu ca sākṣiṣu /
+pūrvapakṣo bhaved yasya bhaveyus tasya sākṣiṇaḥ // NarS_v1.145
+
+ādharyaṃ pūrvapakṣasya yasminn arthe vaśād bhavet /
+praṣṭavyāḥ sākṣiṇas tatra vivāde prativādinaḥ // NarS_v1.146
+
+na pareṇa samuddiṣṭam upeyāt sākṣiṇaṃ rahaḥ /
+bhedayet taṃ na cānyena hīyetaivaṃ samācaran // NarS_v1.147
+
+sākṣy uddiṣṭo yadi preyād gacched vāpi digantaram /
+tacchrotāraḥ pramāṇaṃ syuḥ pramāṇaṃ hy uttarakriyā // NarS_v1.148
+
+sudīrgheṇāpi kālena likhitaṃ siddhim āpnuyāt /
+jānatā cātmanā lekhyaṃ ajānānas tu lekhayet // NarS_v1.149
+
+siddhir uktāṣṭamād varṣāt smāritasyeha sākṣiṇaḥ /
+ā pañcamāt tathā siddhir yadṛcchopagatasya tu // NarS_v1.150
+
+ā tṛtīyāt tathā varṣāt siddhir gūḍhasya sākṣiṇaḥ /
+ā vai saṃvatsarāt siddhiṃ vadanty uttarasākṣiṇaḥ // NarS_v1.151
+
+athavā kālaniyamo na dṛṣṭaḥ sākṣiṇaṃ prati /
+smṛtyapekṣaṃ hi sākṣitvam āhuḥ śāstravido janāḥ // NarS_v1.152
+
+yasya nopahatā puṃsaḥ smṛtiḥ śrotraṃ ca nityaśaḥ /
+sudīrgheṇāpi kālena sa sākṣī sākṣyam arhati // NarS_v1.153
+
+asākṣipratyayās tv anye ṣaḍvivādāḥ prakīrtitāḥ /
+lakṣaṇāny eva sākṣitvaṃ eṣām āhur manīṣiṇaḥ // NarS_v1.154
+
+ulkāhasto 'gnido jñeyaḥ śastrapāṇis tu ghātakaḥ /
+keśākeśigṛhītaś ca yugapat pāradārikaḥ // NarS_v1.155
+
+kuddālapāṇir vijñeyaḥ setubhettā samīpagaḥ /
+tathā kuṭhārapāṇiś ca vanachettā prakīrtitaḥ // NarS_v1.156
+
+abhyagracihno vijñeyo daṇḍapāruṣyakṛn naraḥ /
+asākṣipratyayā hy ete pāruṣye tu parīkṣaṇam // NarS_v1.157
+
+kaścit kṛtvātmanaś cihnaṃ dveṣāt param upadravet /
+hetvarthagatisāmarthyais tatra yuktaṃ parīkṣaṇam // NarS_v1.158
+
+nārthasaṃbandhino nāptā na sahāyā na vairiṇaḥ /
+na dṛṣṭadoṣāḥ praṣṭavyāś na vyādhyārtā na dūṣitāḥ // NarS_v1.159
+
+dāsanaikṛtikāśraddhavṛddhastrībālacākrikāḥ /
+mattonmattapramattārtakitavagrāmayājakāḥ // NarS_v1.160
+
+mahāpathikasāmudravaṇikpravrajitāturāḥ /
+lubdhakaśrotriyācārahīnaklībakuśīlavāḥ // NarS_v1.161
+
+nāstikavrātyadārāgnityāgino 'yājyayājakāḥ /
+ekasthālīsahāyāricarajñātisanābhayaḥ // NarS_v1.162
+
+prāgdṛṣṭadoṣaśailūṣa viṣajīvyahituṇḍikāḥ /
+garadāgnidakīnāśaśūdrāputropapātikāḥ // NarS_v1.163
+
+klāntasāhasikaśrāntanirdhanāntyāvasāyinaḥ /
+bhinnavṛttāsamāvṛttajaḍatailikamūlikāḥ // NarS_v1.164
+
+bhūtāviṣṭanṛpadviṣṭa varṣanakṣatrasūcakāḥ /
+aghaśaṃsyātmavikretṛhīnāṅgabhagavṛttayaḥ // NarS_v1.165
+
+kunakhī śyāvadan śvitrimitradhrukśaṭhaśauṇḍikāḥ /
+aindrajālikalubdhogra śreṇīgaṇavirodhinaḥ // NarS_v1.166
+
+vadhakṛccitrakṛnmaṅkhaḥ patitaḥ kūṭakārakaḥ /
+kuhakaḥ pratyavasitas taskaro rājapūruṣaḥ // NarS_v1.167
+
+manuṣyaviṣaśastrāmbulavaṇāpūpavīrudhām /
+vikretā brāhmaṇaś caiva dvijo vārdhuṣikaś ca yaḥ // NarS_v1.168
+
+cyutaḥ svadharmāt kulikaḥ stāvako hīnasevakaḥ /
+pitrā vivadamānaś ca bhedakṛc cety asākṣiṇaḥ // NarS_v1.169
+
+asākṣiṇo ye nirdiṣṭā dāsanaikṛtikādayaḥ /
+kāryagauravam āsādya bhaveyus te 'pi sākṣiṇaḥ // NarS_v1.170
+
+sāhaseṣu ca sarveṣu steyasaṃgrahaṇeṣu ca /
+pāruṣyayoś cāpy ubhayor na parīkṣeta sākṣiṇaḥ // NarS_v1.171
+
+teṣām api na bālaḥ syān naiko na strī na kūṭakṛt /
+na bāndhavo na cārātir brūyus te sākṣyam anyathā // NarS_v1.172
+
+bālo 'jñānād asatyāt strī pāpābhyāsāc ca kūṭakṛt /
+vibrūyād bāndhavaḥ snehād vairaniryātanād ariḥ // NarS_v1.173
+
+athavānumato yaḥ syād dvayor vivadamānayoḥ /
+asākṣy eko 'pi sākṣitve praṣṭavyaḥ syāt sa saṃsadi // NarS_v1.174
+
+yas tv ātmadoṣabhinnatvād asvastha iva lakṣyate /
+sthānāt sthānāntaraṃ gacched ekaikaṃ copadhāvati // NarS_v1.175
+
+kāsate 'nibhṛto 'kasmād abhīkṣṇaṃ niśvasaty api /
+bhūmiṃ likhati pādābhyāṃ bāhu vāso dhunoti ca // NarS_v1.176
+
+bhidyate mukhavarṇo 'sya lalāṭaṃ svidyate tathā /
+śoṣam āgacchataś coṣṭhāv ūrdhvaṃ tiryak ca vīkṣate // NarS_v1.177
+
+tvaramāṇa ivābaddham apṛṣṭo bahu bhāṣate /
+kūṭasākṣī sa vijñeyas taṃ pāpaṃ vinayen nṛpaḥ // NarS_v1.178
+
+śrāvayitvā ca yo 'nyebhyaḥ sākṣitvaṃ tad vinihnute /
+sa vineyo bhṛśataraṃ kūṭasākṣyadhiko hi saḥ // NarS_v1.179
+
+āhūya sākṣiṇaḥ pṛcchen niyamya śapathair bhṛśam /
+samastān viditācārān vijñātārthān pṛthak pṛthak // NarS_v1.180
+
+satyena śāpayed vipraṃ kṣatriyaṃ vāhanāyudhaiḥ /
+gobījakāñcanair vaiśyaṃ śūdraṃ sarvais tu pātakaiḥ // NarS_v1.181
+
+purāṇair dharmavacanaiḥ satyamāhātmyakīrtanaiḥ /
+anṛtasyāpavādaiś ca bhṛśam uttrāsya sākṣiṇaḥ // NarS_v1.182
+
+nagno muṇḍaḥ kapālena bhikṣārthī kṣutpipāsitaḥ /
+dīnaḥ śatrugṛhaṃ gacched yaḥ sākṣyam anṛtaṃ vadet // NarS_v1.183
+
+nagare pratiruddhaḥ san bahirdvāre bubhukṣitaḥ /
+amitrān bhūyaśaḥ paśyed yaḥ sākṣyam anṛtaṃ vadet // NarS_v1.184
+
+yāṃ rātrim adhivinnā strī yāṃ caivākṣaparājitaḥ /
+yāṃ ca bhārābhitaptāṅgo durvivaktā sa tāṃ vaset // NarS_v1.185
+
+sākṣī sākṣyasamuddeśe gokarṇaśithilaṃ caran /
+sahasraṃ vāruṇān pāśān ātmani pratimuñcati // NarS_v1.186
+
+tasya varṣaśate pūrṇe pāśam ekaṃ pramucyate /
+evaṃ sa bandhanāt tasmān mucyate niyutāḥ samāḥ // NarS_v1.187
+
+yāvato bāndhavāṃs yasmin hanti sākṣye 'nṛtaṃ vadan /
+tāvataḥ saṃkhyayā tasmin śṛṇu saumyānupūrvaśaḥ // NarS_v1.188
+
+pañca paśvanṛte hanti daśa hanti gavānṛte /
+śatam aśvānṛte hanti sahasraṃ puruṣānṛte // NarS_v1.189
+
+hanti jātān ajātāṃś ca hiraṇyārthe 'nṛtaṃ vadan /
+sarvaṃ bhūmyanṛte hanti mā sma bhūmyanṛtaṃ vadīḥ // NarS_v1.190
+
+ekam evādvitīyaṃ tat prāhuḥ pāvanam ātmanaḥ /
+satyaṃ svargasya sopānaṃ pārāvārasya naur iva // NarS_v1.191
+
+aśvamedhasahasraṃ ca satyaṃ ca tulayā dhṛtam /
+aśvamedhasahasrād dhi satyam eva viśiṣyate // NarS_v1.192
+
+varaṃ kūpaśatād vāpi varaṃ vāpīśatāt kratuḥ /
+varaṃ kratuśatāt putraḥ satyaṃ putraśatād varam // NarS_v1.193
+
+bhūr dhārayati satyena satyenodeti bhāskaraḥ /
+satyena vāyuḥ pavate satyenāpaḥ sravanti ca // NarS_v1.194
+
+satyam eva paraṃ dānaṃ satyam eva paraṃ tapaḥ /
+satyam eva paro dharmo lokānām iti naḥ śrutam // NarS_v1.195
+
+satyaṃ devāḥ samāsena manuṣyās tv anṛtaṃ smṛtam /
+ihaiva tasya devatvaṃ yasya satye sthitā matiḥ // NarS_v1.196
+
+satyaṃ brūhy anṛtaṃ tyaktvā satyena svargam eṣyasi /
+uktvānṛtaṃ mahāghoraṃ narakaṃ pratipatsyate // NarS_v1.197
+
+nirayeṣu ca te śaśvaj jihvām utkṛtya dāruṇāḥ /
+asibhiḥ śātayiṣyanti balino yamakiṃkarāḥ // NarS_v1.198
+
+śūlair bhetsyanti cākruddhāḥ krośantam aparāyaṇam /
+avākśirasam utkṣipya kṣepsyanty agnihradeṣu ca // NarS_v1.199
+
+anubhūya ca duḥkhās tāś ciraṃ narakavedanāḥ /
+iha yāsyasy abhavyāsu gṛdhrakākādiyoniṣu // NarS_v1.200
+
+jñātvaitān anṛte doṣāñ jñātvā satye ca sadguṇān /
+satyaṃ vadoddharātmānaṃ mātmānaṃ pātayiṣyasi // NarS_v1.201
+
+na bāndhavā na suhṛdo na dhanāni mahānty api /
+alaṃ tārayituṃ śaktās tamasy ugre nimajjataḥ // NarS_v1.202
+
+pitaras tv avalambante tvayi sākṣitvam āgate /
+tārayiṣyati kiṃvāsmān ātmānaṃ pātayiṣyati // NarS_v1.203
+
+satyam ātmā manuṣyasya satye sarvaṃ pratiṣṭhitam /
+sarvathaivātmanātmānaṃ śreyasā yojayiṣyasi // NarS_v1.204
+
+yāṃ ca rātrim ajaniṣṭhā yāṃ rātriṃ ca mariṣyasi /
+vṛthā tadantaraṃ te syāt kuryāś cet satyam anyathā // NarS_v1.205
+
+nāsti satyāt paro dharmo nānṛtāt pātakaṃ param /
+sākṣidharme viśeṣeṇa satyam eva vadet tataḥ // NarS_v1.206
+
+yaḥ parārthe praharati svāṃ vācaṃ puruṣādhamaḥ /
+ātmārthe kiṃ na kuryāt sa pāpo narakanirbhayaḥ // NarS_v1.207
+
+arthā vai vāci niyatā vāṅmūlā vāgviniḥsṛtāḥ /
+yo hy etāṃ stenayed vācaṃ sa sarvasteyakṛn naraḥ // NarS_v1.208
+
+sākṣivipratipattau tu pramāṇaṃ bahavo yataḥ /
+tatsāmye śucayo grāhyās tatsāmye smṛtimattarāḥ // NarS_v1.209
+
+smṛtimatsākṣisāmyaṃ tu vivāde yatra dṛśyate /
+sūkṣmatvāt sākṣidharmasya sākṣyaṃ vyāvartate punaḥ // NarS_v1.210
+
+nirdiṣṭeṣv arthajāteṣu sākṣī cet sākṣyam āgataḥ /
+na brūyād akṣarasamaṃ na tan nigaditaṃ bhavet // NarS_v1.211
+
+deśakālavayodravyapramāṇākṛtijātiṣu /
+yatra vipratipattiḥ syāt sākṣyaṃ tad asad ucyate // NarS_v1.212
+
+ūnam abhyadhikaṃ cārthaṃ prabrūyur yatra sākṣiṇaḥ /
+tad apy anuktaṃ vijñeyam eṣa sākṣyavidhiḥ smṛtaḥ // NarS_v1.213
+
+pramādād dhanino yatra na syāl lekhyaṃ na sākṣiṇaḥ /
+arthaṃ cāpahnuyād vādī tatroktas trividho vidhiḥ // NarS_v1.214
+
+codanā pratikālaṃ ca yuktileśas tathaiva ca /
+tṛtīyaḥ śapathaś coktas tair evaṃ sādhayet kramāt // NarS_v1.215
+
+abhīkṣṇaṃ codyamāno yaḥ pratihanyān na tadvacaḥ /
+tricatuḥpañcakṛtvo vā parato 'rthaṃ tam āvahet // NarS_v1.216
+
+codanāpratighāte tu yuktileśais tam anviyāt /
+deśakālārthasaṃbandhaparimāṇakriyādibhiḥ // NarS_v1.217
+
+yuktiṣv apy asamarthāsu śapathair enam ardayet /
+arthakālabalāpekṣam agnyambusukṛtādibhiḥ // NarS_v1.218
+
+dīptāgnir yaṃ na dahati yam antardhārayanty āpaḥ /
+sa taraty abhiśāpaṃ taṃ kilbiṣī syād viparyaye // NarS_v1.219
+
+strīṇāṃ śīlābhiyogeṣu steyasāhasayor api /
+eṣa eva vidhir dṛṣṭaḥ sarvārthāpahnaveṣu ca // NarS_v1.220
+
+śapathā hy api devānām ṛṣīṇām api ca smṛtāḥ /
+vasiṣṭhaḥ śapathaṃ śepe yātudhāne tu śaṅkitaḥ // NarS_v1.221
+
+saptarṣayas tathendrāya puṣkarārthe samāgatāḥ /
+śepuḥ śapatham avyagrāḥ parasparaviśuddhaye // NarS_v1.222
+
+ayuktaṃ sāhasaṃ kṛtvā pratyāpattiṃ bhajeta yaḥ /
+brūyāt svayaṃ vā sadasi tasyārdhavinayaḥ smṛtaḥ // NarS_v1.223
+
+gūhamānas tu daurātmyād yadi pāpaṃ sa jīyate /
+sabhyāś cātra na tuṣyanti tīvro daṇḍaś ca pātyate // NarS_v1.224
+
+
+2. nikṣipaḥ
+
+svadravyaṃ yatra viśrambhān nikṣipaty aviśaṅkitaḥ /
+nikṣepo nāma tat proktaṃ vyavahārapadaṃ budhaiḥ // NarS_v2.01
+
+anyadravyavyavahitaṃ dravyam avyākṛtaṃ ca yat /
+nikṣipyate paragṛhe tad aupanidhikaṃ smṛtam // NarS_v2.02
+
+sa punar dvividhaḥ proktaḥ sākṣimān itaras tathā /
+pratidānaṃ tathaivāsya pratyayaḥ syād viparyaye // NarS_v2.03
+
+yācyamānas tu yo dātrā nikṣepaṃ na prayacchati /
+daṇḍyaḥ sa rājñā dāpyaś ca naṣṭe dāpyaś ca tatsamam // NarS_v2.04
+
+yaś cārthaṃ sādhayet tena nikṣeptur ananujñayā /
+tatrāpi daṇḍyaḥ sa bhavet tac ca sodayam āvahet // NarS_v2.05
+
+grahītuḥ saha yo 'rthena naṣṭo naṣṭaḥ sa dāyinaḥ /
+daivarājakṛte tadvan na cet taj jihmakāritam // NarS_v2.06
+
+eṣa eva vidhir dṛṣṭo yācitānvāhitādiṣu /
+śilpiṣūpanidhau nyāse pratinyāse tathaiva ca // NarS_v2.07
+
+pratigṛhṇāti pogaṇḍaṃ yaś ca sapradhanaṃ naraḥ /
+tasyāpy eṣa bhaved dharmaḥ ṣaḍ ete vidhayaḥ samāḥ // NarS_v2.08
+
+
+3. saṃbhūyasamutthānam
+
+vaṇikprabhṛtayo yatra karma saṃbhūya kurvate /
+tat saṃbhūyasamutthānaṃ vyavahārapadaṃ smṛtam // NarS_v3.01
+
+phalahetor upāyena karma saṃbhūya kurvatām /
+ādhārabhūtaḥ prakṣepas tenottiṣṭheyur aṃśataḥ // NarS_v3.02
+
+samo 'tirikto hīno vā yatrāṃśo yasya yādṛśaḥ /
+kṣayavyayau tathā vṛddhis tasya tatra tathāvidhāḥ // NarS_v3.03
+
+bhāṇḍapiṇḍavyayoddhārabhārasārānvavekṣaṇam /
+kuryus te 'vyabhicāreṇa samaye sve vyavasthitāḥ // NarS_v3.04
+
+pramādān nāśitaṃ dāpyaḥ pratiṣiddhakṛtaṃ ca yat /
+asaṃdiṣṭaś ca yat kuryāt sarvaiḥ saṃbhūyakāribhiḥ // NarS_v3.05
+
+daivataskararājotthe vyasane samupasthite /
+yas tat svaśaktyā saṃrakṣet tasyāṃśo daśamaḥ smṛtaḥ // NarS_v3.06
+
+ekasya cet syād vyasanaṃ dāyādo 'sya tad āpnuyāt /
+anyo vāsati dāyāde śaktāś cet sarva eva vā // NarS_v3.07
+
+ṛtvijāṃ vyasane 'py evam anyas tat karma nistaret /
+labheta dakṣiṇābhāgaṃ sa tasmāt saṃprakalpitam // NarS_v3.08
+
+ṛtvig yājyam aduṣṭaṃ yas tyajed anapakāriṇam /
+aduṣṭaṃ va rtvijaṃ yājyo vineyau tāv ubhāv api // NarS_v3.09
+
+ṛtvik tu trividho dṛṣṭaḥ pūrvajuṣṭaḥ svayaṃkṛtaḥ /
+yadṛcchayā ca yaḥ kuryād ārtvijyaṃ prītipūrvakam // NarS_v3.10
+
+kramāgateṣv eṣa dharmo vṛteṣv ṛtvikṣu ca svayam /
+yādṛcchike tu saṃyājye tattyāge nāsti kilbiṣam // NarS_v3.11
+
+śulkasthānaṃ vaṇik prāptaḥ śulkaṃ dadyād yathopagam /
+na tad vyatihared rājñāṃ balir eṣa prakalpitaḥ // NarS_v3.12
+
+śulkasthānaṃ pariharan na kāle krayavikrayī /
+mithyoktvā ca parīmāṇaṃ dāpyo 'ṣṭaguṇam atyayam // NarS_v3.13
+
+kaścic cet saṃcaran deśāt preyād abhyāgato vaṇik /
+rājāsya bhāṇḍaṃ tad rakṣet yāvad dāyādadarśanam // NarS_v3.14
+
+dāyāde 'sati bandhubhyo jñātibhyo vā tad arpayet /
+tadabhāve suguptaṃ tad dhārayed daśatīḥ samāḥ // NarS_v3.15
+
+asvāmikam adāyādaṃ daśavarṣasthitaṃ tataḥ /
+rājā tad ātmasāt kuryād evaṃ dharmo na hīyate // NarS_v3.16
+
+
+4. dattāpradānikam
+
+dattvā dravyam asamyag yaḥ punar ādātum icchati /
+dattāpradānikaṃ nāma tad vivādapadaṃ smṛtam // NarS_v4.01
+
+adeyam atha deyaṃ ca dattaṃ cādattam eva ca /
+vyavahāreṣu vijñeyo dānamārgaś caturvidhaḥ // NarS_v4.02
+
+tatra hyaṣṭāv adeyāni deyam ekavidhaṃ smṛtam /
+dattaṃ saptavidhaṃ vidyād adattaṃ ṣoḍaśātmakam // NarS_v4.03
+
+anvāhitaṃ yācitakam ādhiḥ sādhāraṇaṃ ca yat /
+nikṣepaḥ putradāraṃ ca sarvasvaṃ cānvaye sati // NarS_v4.04
+
+āpatsv api hi kaṣṭāsu vartamānena dehinā /
+adeyāny āhur ācāryā yac cānyasmai pratiśrutam // NarS_v4.05
+
+kuṭumbabharaṇād dravyaṃ yatkiṃcid atiricyate /
+tad deyam upahṛtyānyad dadad doṣam avāpnuyāt // NarS_v4.06
+
+paṇyamūlyaṃ bhṛtis tuṣṭyā snehāt pratyupakārataḥ /
+strīśulkānugrahārthaṃ ca dattaṃ dānavido viduḥ // NarS_v4.07
+
+adattaṃ tu bhayakrodhaśokavegarujānvitaiḥ /
+tathotkocaparīhāsavyatyāsacchalayogataḥ // NarS_v4.08
+
+bālamūḍhāsvatantrārtamattonmattāpavarjitam /
+kartā mamāyaṃ karmeti pratilābhecchayā ca yat // NarS_v4.09
+
+apātre pātram ity ukte kārye cādharmasaṃhite /
+yad dattaṃ syād avijñānād adattaṃ tad api smṛtam // NarS_v4.10
+
+gṛhṇāty adattaṃ yo lobhād yaś cādeyaṃ prayacchati /
+adattādāyako daṇḍyas tathādeyasya dāyakaḥ // NarS_v4.11
+
+
+5. abhyupetyāśuśrūṣā
+
+abhyupetya tu śuśrūṣāṃ yas tāṃ na pratipadyate /
+aśuśrūṣābhyupetyaitad vivādapadam ucyate // NarS_v5.01
+
+śuśrūṣakaḥ pañcavidhaḥ śāstre dṛṣṭo manīṣibhiḥ /
+caturvidhaḥ karmakaras teṣāṃ dāsās tripañcakāḥ // NarS_v5.02
+
+śiṣyāntevāsibhṛtakāś caturthas tv adhikarmakṛt /
+ete karmakarāḥ proktā dāsās tu gṛhajādayaḥ // NarS_v5.03
+
+sāmānyam asvatantratvam eṣām āhur manīṣiṇaḥ /
+jātikarmakṛtas tūkto viśeṣo vṛttir eva ca // NarS_v5.04
+
+karmāpi dvividhaṃ jñeyam aśubhaṃ śubham eva ca /
+aśubhaṃ dāsakarmoktaṃ śubhaṃ karmakṛtāṃ smṛtam // NarS_v5.05
+
+gṛhadvārāśucisthānarathyāvaskaraśodhanam /
+guhyāṅgasparśanocchiṣṭaviṇmūtragrahaṇojjhanam // NarS_v5.06
+
+iṣṭataḥ svāminaś cāṅgair upasthānam athāntataḥ /
+aśubhaṃ karma vijñeyaṃ śubham anyad ataḥ param // NarS_v5.07
+
+ā vidyāgrahaṇāc chiṣyaḥ śuśrūṣet prayato gurum /
+tadvṛttir gurudāreṣu guruputre tathaiva ca // NarS_v5.08
+
+brahmacārī cared bhaikṣam adhaḥśāyy analaṅkṛtaḥ /
+jaghanyaśāyī sarveṣāṃ pūrvotthāyī guror gṛhe // NarS_v5.09
+
+nāsaṃdiṣṭaḥ pratiṣṭheta tiṣṭhed vāpi guruṃ kvacit /
+saṃdiṣṭaḥ karma kurvīta śaktaś ced avicārayan // NarS_v5.10
+
+yathākālam adhīyīta yāvan na vimanā guruḥ /
+āsīno 'dho guroḥ kūrce phalake vā samāhitaḥ // NarS_v5.11
+
+anuśāsyaś ca guruṇā na ced anuvidhīyate /
+avadhenāthavā hanyāt rajjvā veṇudalena vā // NarS_v5.12
+
+bhṛśaṃ na tāḍayed enaṃ nottamāṅge na vakṣasi /
+anuśāsyātha viśvāsyaḥ śāsyo rājñānyathā guruḥ // NarS_v5.13
+
+samāvṛttaś ca gurave pradāya gurudakṣiṇām /
+pratīyāt svagṛhān eṣā śiṣyavṛttir udāhṛtā // NarS_v5.14
+
+svaśilpam icchann āhartuṃ bāndhavānām anujñayā /
+ācāryasya vased ante kālaṃ kṛtvā suniścitam // NarS_v5.15
+
+ācāryaḥ śikṣayed enaṃ svagṛhād dattabhojanam /
+na cānyat kārayet karma putravac cainam ācaret // NarS_v5.16
+
+śikṣayantam aduṣṭaṃ ca yas tv ācāryaṃ parityajet /
+balād vāsayitavyaḥ syād vadhabandhau ca so 'rhati // NarS_v5.17
+
+śikṣito 'pi kṛtaṃ kālam antevāsī samāpnuyāt /
+tatra karma ca yat kuryād ācāryasyaiva tatphalam // NarS_v5.18
+
+gṛhītaśilpaḥ samaye kṛtvācāryaṃ pradakṣiṇam /
+śaktitaś cānumānyainam antevāsī nivartayet // NarS_v5.19
+
+bhṛtakas trividho jñeya uttamo madhyamo 'dhamaḥ /
+śaktibhaktyanurūpā syād eṣāṃ karmāśrayā bhṛtiḥ // NarS_v5.20
+
+uttamas tv āyudhīyo 'tra madhyamas tu kṛṣīvalaḥ /
+adhamo bhāravāhaḥ syād ity evaṃ trividho bhṛtaḥ // NarS_v5.21
+
+artheṣv adhikṛto yaḥ syāt kuṭumbasya tathopari /
+so 'dhikarmakaro jñeyaḥ sa ca kauṭumbikaḥ smṛtaḥ // NarS_v5.22
+
+śubhakarmakarās tv ete catvāraḥ samudāhṛtāḥ /
+jaghanyakarmabhājas tu śeṣā dāsās tripañcakāḥ // NarS_v5.23
+
+gṛhajātas tathā krīto labdho dāyād upāgataḥ /
+anākālabhṛtas tadvad ādhattaḥ svāminā ca yaḥ // NarS_v5.24
+
+mokṣito mahataś carṇāt prāpto yuddhāt paṇe jitaḥ /
+tavāham ity upagataḥ pravrajyāvasitaḥ kṛtaḥ // NarS_v5.25
+
+bhaktadāsaś ca vijñeyas tathaiva vaḍavābhṛtaḥ /
+vikretā cātmanaḥ śāstre dāsāḥ pañcadaśā smṛtāḥ // NarS_v5.26
+
+tatra pūrvaś caturvargo dāsatvān na vimucyate /
+prasādād svāmino 'nyatra dāsyam eṣāṃ kramāgatam // NarS_v5.27
+
+yaś caiṣāṃ svāminaṃ kaścin mokṣayet prāṇasaṃśayāt /
+dāsatvāt sa vimucyeta putrabhāgaṃ labheta ca // NarS_v5.28
+
+anākālabhṛto dāsyān mucyate goyugaṃ dadat /
+saṃbhakṣitaṃ yad durbhikṣe na tac chudhyeta karmaṇā // NarS_v5.29
+
+ādhatto 'pi dhanaṃ dattvā svāmī yady enam uddharet /
+athopagamayed enaṃ sa vikrītād anantaraḥ // NarS_v5.30
+
+dattvā tu sodayam ṛṇaṃ ṛṇī dāsyāt pramucyate /
+kṛtakālābhyupagamāt kṛtako 'pi vimucyate // NarS_v5.31
+
+tavāham ity upagato yuddhaprāptaḥ paṇe jitaḥ /
+pratiśīrṣapradānena mucyate tulyakarmaṇā // NarS_v5.32
+
+rājña eva tu dāsaḥ syāt pravrajyāvasito naraḥ /
+na tasya pratimokṣo 'sti na viśuddhiḥ kathaṃcana // NarS_v5.33
+
+bhaktasyopekṣaṇāt sadyo bhaktadāsaḥ pramucyate /
+nigrahād vaḍavāyāś ca mucyate vaḍavābhṛtaḥ // NarS_v5.34
+
+vikrīṇīte ya ātmānaṃ svatantraḥ san narādhamaḥ /
+sa jaghanyataras teṣāṃ naiva dāsyāt pramucyate // NarS_v5.35
+
+caurāpahṛtavikrītā ye ca dāsīkṛtā balāt /
+rājñā mokṣayitavyās te dāsatvaṃ teṣu neṣyate // NarS_v5.36
+
+varṇānāṃ prātilomyena dāsatvaṃ na vidhīyate /
+svadharmatyāgino 'nyatra dāravad dāsatā matā // NarS_v5.37
+
+tavāham iti cātmānaṃ yo 'svatantraḥ prayacchati /
+na sa taṃ prāpnuyāt kāmaṃ pūrvasvāmī labheta tam // NarS_v5.38
+
+adhanās traya evoktā bhāryā dāsas tathā sutaḥ /
+yat te samadhigacchanti yasya te tasya tad dhanam // NarS_v5.39
+
+svadāsam icched yaḥ kartum adāsaṃ prītamānasaḥ /
+skandhād ādāya tasyāpi bhindyāt kumbhaṃ sahāmbhasā // NarS_v5.40
+
+akṣatābhiḥ sapuṣpābhir mūrdhany enam avākiret /
+adāsa iti coktvā triḥ prāṅmukhaṃ tam athotsṛjet // NarS_v5.41
+
+tataḥprabhṛti vaktavyaḥ svāmyanugrahapālitaḥ /
+bhojyānnaḥ pratigṛhyaś ca bhavaty abhimataś ca saḥ // NarS_v5.42
+
+
+6. vetanasyānapākarma
+
+bhṛtānāṃ vetanasyokto dānādānavidhikramaḥ /
+vetanasyānapākarma tad vivādapadaṃ smṛtam // NarS_v6.1
+
+bhṛtāya vetanaṃ dadyāt karmasvāmī yathākramam /
+ādau madhye 'vasāne vā karmaṇo yad viniścitam // NarS_v6.2
+
+bhṛtāvaniścitāyāṃ tu daśabhāgaṃ samāpnuyuḥ /
+lābhagobījasasyānāṃ vaṇiggopakṛṣībalāḥ // NarS_v6.3
+
+karmopakaraṇaṃ caiṣāṃ kriyāṃ prati yad āhṛtam /
+āptabhāvena kurvīta na jihmena samācaret // NarS_v6.4
+
+karmākurvan pratiśrutya kāryo dattvā bhṛtiṃ balāt /
+bhṛtiṃ gṛhītvākurvāṇo dviguṇāṃ bhṛtim āvahet // NarS_v6.5
+
+kāle 'pūrṇe tyajet karma bhṛtināśo 'sya cārhati /
+svāmidoṣād apākrāman yāvat kṛtam avāpnuyāt // NarS_v6.6
+
+bhṛtiṣaḍbhāgam ābhāṣya pathi yugyakṛtaṃ tyajan /
+adadat kārayitvā tu karmaivaṃ sodayāṃ bhṛtim // NarS_v6.7
+
+anayan bhāṭayitvā tu bhāṇḍavān yānavāhane /
+dāpyo bhṛticaturbhāgaṃ samam ardhapathe tyajan // NarS_v6.8
+
+anayan vāhako 'py evaṃ bhṛtihānim avāpnuyāt /
+dviguṇāṃ tu bhṛtiṃ dāpyaḥ prasthāne vighnam ācaran // NarS_v6.9
+
+bhāṇḍaṃ vyasanam āgacched yadi vāhakadoṣataḥ /
+dāpyo yat tatra naṣṭaṃ syād daivarājakṛtād ṛte // NarS_v6.10
+
+gavāṃ śatād vatsatarī dhenuḥ syād dviśatād bhṛtiḥ /
+prati samvatsaraṃ gope sadohaś cāṣṭame 'hani // NarS_v6.11
+
+upānayet gā gopāya pratyahaṃ rajanīkṣaye /
+cīṛṇāḥ pītāś ca tā gopaḥ sāyāhne pratyupānayet // NarS_v6.12
+
+syāc ced govyasanaṃ gopo vyāyacchet tatra śaktitaḥ /
+aśaktas tūrṇam āgamya svāmine tan nivedayet // NarS_v6.13
+
+avyāyac channavikrośan svāmine cānivedayan /
+voḍhum arhati gopas tāṃ vinayaṃ cāpi rājani // NarS_v6.14
+
+naṣṭavinaṣṭaṃ kṛmibhiḥ śvahataṃ viṣame mṛtam /
+hīnaṃ puruṣakāreṇa gopāyaiva nipātayet // NarS_v6.15
+
+ajāvike tathāruddhe vṛkaiḥ pāle tv anāyati /
+yat prasahya vṛko hanyāt pāle tatkilbiṣam bhavet // NarS_v6.16
+
+tāsāṃ caivāniruddhānāṃ carantīnāṃ mitho vane /
+yām utpatya vṛko hanyān na pālas tatra kilbiṣī // NarS_v6.17
+
+vighuṣya tu hṛtaṃ caurair na pālo dātum arhati /
+yadi deśe ca kāle ca svāminaḥ svasya śaṃsati // NarS_v6.18
+
+etena sarvapālānāṃ vivādaḥ samudāhṛtaḥ /
+mṛteṣu ca viśuddhiḥ syāt pālasyāṅkādidarśanāt // NarS_v6.19
+
+śulkaṃ gṛhītvā paṇyastrī necchantī dvis tad āvahet /
+aprayacchaṃs tadā śulkam anubhūya pumān striyam // NarS_v6.20
+
+ayonau kramate yas tu bahubhir vāpi vāsayet /
+śulkam aṣṭaguṇaṃ dāpyo vinayas tāvad eva ca // NarS_v6.21
+
+parājire gṛhaṃ kṛtvā stomaṃ dattvā vaset tu yaḥ /
+sa tad gṛhītvā nirgacchet tṛṇakāṣṭheṣṭakādikam // NarS_v6.22
+
+stomavāhīni bhāṇḍāni pūrṇakālāny upānayet /
+grahītur ābhaved bhagnaṃ naṣṭaṃ cānyatra saṃplavāt // NarS_v6.23
+
+
+7. asvāmivikrayaḥ
+
+nikṣiptaṃ vā paradravyaṃ naṣṭaṃ labdhvāpahṛtya vā /
+vikrīyate 'samakṣaṃ yad vijñeyo 'svāmivikrayaḥ // NarS_v7.1
+
+dravyam asvāmivikrītaṃ prāpya svāmī samāpnuyāt /
+prakāśaṃ krayataḥ śuddhiḥ kretuḥ steyaṃ rahaḥ krayāt // NarS_v7.2
+
+asvāmyanumatād dāsād asataś ca janād rahaḥ /
+hīnamūlyam avelāyāṃ krīṇaṃs taddoṣabhāg bhavet // NarS_v7.3
+
+na gūhetāgamaṃ kretā śuddhis tasya tadāgamāt /
+viparyaye tulyadoṣaḥ steyadaṇḍaṃ ca so 'rhati // NarS_v7.4
+
+vikretā svāmine 'rthaṃ ca kretur mūlyaṃ ca tatkṛtam /
+dadyād daṇḍaṃ tathā rājñe vidhir asvāmivikraye // NarS_v7.5
+
+pareṇa nihitaṃ labdhvā rājany upaharen nidhim /
+rājagāmī nidhiḥ sarvaḥ sarveṣāṃ brāhmaṇād ṛte // NarS_v7.6
+
+brāhmaṇo 'pi nidhiṃ labdhvā kṣipraṃ rājñe nivedayet /
+tena dattaṃ ca bhūñjīta stenaḥ syād anivedayan // NarS_v7.7
+
+svam apy arthaṃ tathā naṣṭaṃ labdhvā rājñe nivedayet /
+gṛhṇīyāt tatra taṃ śuddham aśuddhaṃ syāt tato 'nyathā // NarS_v7.8
+
+
+8. krītānuśayaḥ
+
+vikrīya paṇyaṃ mūlyena kretur yan na pradīyate /
+vikrīyāsaṃpradānaṃ tad vivādapadam ucyate // NarS_v8.1
+
+loke 'smin dvividhaṃ dravyaṃ jaṅgamaṃ sthāvaraṃ tathā /
+krayavikrayadharmeṣu sarvaṃ tat paṇyam ucyate // NarS_v8.2
+
+ṣaḍvidhas tasya tu budhair dānādānavidhiḥ smṛtaḥ /
+gaṇimaṃ tulimaṃ meyaṃ kriyayā rūpataḥ śriyā // NarS_v8.3
+
+vikrīya paṇyaṃ mūlyena kretur yo na prayacchati /
+sthāvarasya kṣayaṃ dāpyo jaṅgamasya kriyāphalam // NarS_v8.4
+
+arghaś ced apahīyeta sodayaṃ paṇyam āvahet /
+sthāyinām eṣa niyamo diglābho digvicāriṇām // NarS_v8.5
+
+upahanyeta vā paṇyaṃ dahyetāpahriyeta vā /
+vikretur eva so 'nartho vikrīyāsamprayacchataḥ // NarS_v8.6
+
+nirdoṣaṃ darśayitvā tu sadoṣaṃ yaḥ prayacchati /
+mūlyaṃ taddviguṇaṃ dāpyo vinayaṃ tāvad eva ca // NarS_v8.7
+
+tathānyahaste vikrīya yo 'nyasmai saṃprayacchati /
+so 'pi taddviguṇaṃ dāpyo vineyas tāvad eva ca // NarS_v8.8
+
+dīyamānaṃ na gṛhṇāti krītaṃ paṇyaṃ ca yaḥ krayī /
+vikrīṇānas tad anyatra vikretā nāparādhnuyāt // NarS_v8.9
+
+dattamūlyasya paṇyasya vidhir eṣa prakīrtitaḥ /
+adatte 'nyatra samayān na vikretur atikramaḥ // NarS_v8.10
+
+lābhārthe vaṇijāṃ sarvapaṇyeṣu krayavikrayaḥ /
+sa ca lābho 'rgham āsādya mahān bhavati vā na vā // NarS_v8.11
+
+tasmād deśe ca kāle ca vaṇig arghaṃ parākramet /
+na jihmena pravarteta śreyān evaṃ vaṇikpathaḥ // NarS_v8.12
+
+
+9. vikrīyāsaṃpradānam
+
+krītvā mūlyena yaḥ paṇyaṃ kretā na bahu manyate /
+krītvānuśaya ity etad vivādapadam ucyate // NarS_v9.1
+
+krītvā mūlyena yat paṇyaṃ duṣkrītaṃ manyate krayī /
+vikretuḥ pratideyaṃ tat tasminn evāhny avikṣatam // NarS_v9.2
+
+dvitīye 'hni dadat kretā mūlyāt triṃśāṃśam āvahet /
+dviguṇaṃ tat tṛtīye 'hni parataḥ kretur eva tat // NarS_v9.3
+
+kretā paṇyaṃ parīkṣeta prāk svayaṃ guṇadoṣataḥ /
+parīkṣyābhimataṃ krītaṃ vikretur na bhavet punaḥ // NarS_v9.4
+
+tryahād dohyaṃ parīkṣeta pañcāhād vāhyam eva tu /
+muktāvajrapravālānāṃ saptāhaṃ syāt parīkṣaṇam // NarS_v9.5
+
+dvipadām ardhamāsaṃ syāt puṃsāṃ taddviguṇaṃ striyāḥ /
+daśāhaṃ sarvabījānām ekāhaṃ lohavāsasām // NarS_v9.6
+
+paribhuktaṃ ca yad vāsaḥ kliṣṭarūpaṃ malīmasam /
+sadoṣam api vikrītaṃ vikretur na bhavet punaḥ // NarS_v9.7
+
+mūlyāṣṭabhāgo hīyeta sakṛd dhautasya vāsasaḥ /
+dviḥ pādas tris tribhāgas tu catuḥkṛtvo 'rdham eva ca // NarS_v9.8
+
+ardhakṣayāt tu parataḥ pādāṃśāpacayaḥ kramāt /
+yāvat kṣīṇadaśaṃ jīrṇaṃ jīrṇasyāniyamaḥ kṣaye // NarS_v9.9
+
+lohānām api sarveṣāṃ hetur agnikriyāvidhau /
+kṣayaḥ saṃskriyamāṇānāṃ teṣāṃ dṛṣṭo 'gnisaṃgamāt // NarS_v9.10
+
+suvarṇasya kṣayo nāsti rajate dvipalaṃ śatam /
+śatam aṣṭapalaṃ jñeyaṃ kṣayas syāt trapusīsayoḥ // NarS_v9.11
+
+tāmre pañcapalaṃ vidyād vikārā ye ca tanmayāḥ /
+taddhātūnām anekatvād ayaso 'niyamaḥ kṣaye // NarS_v9.12
+
+tāntavasya ca saṃskāre kṣayavṛddhī udāhṛte /
+sūtrakārpāsikorṇānāṃ vṛddhir daśapalaṃ śatam // NarS_v9.13
+
+sthūlasūtravatāṃ teṣāṃ madhyānāṃ pañcakaṃ śatam /
+tripalaṃ tu susūkṣmāṇām antaḥkṣaya udāhṛtaḥ // NarS_v9.14
+
+triṃśāṃśo romaviddhasya kṣayaḥ karmakṛtasya tu /
+kauṣeyavalkalānāṃ tu naiva vṛddhir na ca kṣayaḥ // NarS_v9.15
+
+krītvā nānuśayaṃ kuryād vaṇik paṇyavicakṣaṇaḥ /
+vṛddhikṣayau tu jānīyāt paṇyānām āgamaṃ tathā // NarS_v9.16
+
+
+10.samayasyānapākarma
+
+pāṣaṇḍanaigamādīnāṃ sthitiḥ samaya ucyate /
+samayasyānapākarma tad vivādapadaṃ smṛtam // NarS_v10.1
+
+pāṣaṇḍanaigamaśreṇīpūgavrātagaṇādiṣu /
+saṃrakṣet samayaṃ rājā durge janapade tathā // NarS_v10.2
+
+yo dharmaḥ karma yac caiṣām upasthānavidhiś ca yaḥ /
+yac caiṣāṃ vṛttyupādānam anumanyeta tat tathā // NarS_v10.3
+
+pratikūlaṃ ca yad rājñaḥ prakṛtyavamataṃ ca yat /
+bādhakaṃ ca yad arthānāṃ tat tebhyo vinivartayet // NarS_v10.4
+
+mithaḥ saṃghātakaraṇam ahitaṃ śastradhāraṇam /
+parasparopaghātaṃ ca teṣāṃ rājā na marṣayet // NarS_v10.5
+
+pṛthag gaṇāṃś ca ye bhindyus te vineyā viśeṣataḥ /
+āvaheyur bhayaṃ ghoraṃ vyādhivat te hy upekṣitāḥ // NarS_v10.6
+
+doṣavat karaṇaṃ yat syād anāmnāyaprakalpitam /
+pravṛttam api tad rājā śreyaskāmo nivartayet // NarS_v10.7
+
+
+11. kṣetrajavivādaḥ
+
+setukedāramaryādāvikṛṣṭākṛṣṭaniścayāḥ /
+kṣetrādhikārā yatra syur vivādaḥ kṣetrajas tu saḥ // NarS_v11.1
+
+kṣetrasīmāvirodheṣu sāmantebhyo viniścayaḥ /
+nagaragrāmagaṇino ye ca vṛddhatamā narāḥ // NarS_v11.2
+
+grāmasīmāsu ca bahir ye syus tatkṛṣijīvinaḥ /
+gopaśākunikavyādhā ye cānye vanagocarāḥ // NarS_v11.3
+
+samunnayeyus te sīmāṃ lakṣaṇair upalakṣitām /
+tuṣāṅgārakapālaiś ca kumbhair āyatanair drumaiḥ // NarS_v11.4
+
+abhijñātaiś ca valmīkasthalanimnonnatādibhiḥ /
+kedārārāmamārgaiś ca purāṇaiḥ setubhis tathā // NarS_v11.5
+
+nimnagāpahṛtotsṛṣṭanaṣṭacihnāsu bhūmiṣu /
+tatpradeśānumānāc ca pramāṇair bhogadarśanaiḥ // NarS_v11.6
+
+atha ced anṛtaṃ brūyuḥ sāmantās tadviniścaye /
+sarve pṛthak pṛthag daṇḍyā rājñā madhyamasāhasam // NarS_v11.7
+
+gaṇavṛddhādayas tv anye daṇḍaṃ dāpyāḥ pṛthak pṛthak /
+vineyāḥ prathamena syuḥ sāhasenānṛte sthitāḥ // NarS_v11.8
+
+naikaḥ samunnayet sīmāṃ naraḥ pratyayavān api /
+gurutvād asya dharmasya kriyaiṣā bahuṣu sthitā // NarS_v11.9
+
+ekaś ced unnayet sīmāṃ sopavāsaḥ samāhitaḥ /
+raktamālyāmbaradharaḥ kṣitim āropya mūrdhani // NarS_v11.10
+
+yadā ca na syur jñātāraḥ sīmāyā na ca lakṣaṇam /
+tadā rājā dvayoḥ sīmām uddhared iṣṭataḥ svayam // NarS_v11.11
+
+etenaiva gṛhodyānanipānāyatanādiṣu /
+vivādavidhir ākhyātas tathā grāmāntareṣu ca // NarS_v11.12
+
+avaskarasthalaśvabhrabhramasyandanikādibhiḥ /
+catuṣpathasurasthānarathyāmārgān na rodhayet // NarS_v11.13
+
+parakṣetrasya madhye tu setur na pratiṣidhyate /
+mahāguṇo 'lpabādhaś ca vṛddhir iṣṭā kṣaye sati // NarS_v11.14
+
+setus tu dvididho jñeyaḥ kheyo bandhyas tathaiva ca /
+toyapravartanān kheyo bandhyaḥ syāt tannivartanāt // NarS_v11.15
+
+nāntareṇodakaṃ sasyaṃ naśyed abhyudakena tu /
+ya evānudake doṣaḥ sa evābhyudake smṛtaḥ // NarS_v11.16
+
+pūrvapravṛttam utsannam apṛṣṭvā svāminaṃ tu yaḥ /
+setuṃ pravartayet kaścin na sa tatphalabhāg bhavet // NarS_v11.17
+
+mṛte tu svāmini punas tadvaṃśye vāpi mānave /
+rājānam āmantrya tataḥ prakuryāt setukarma tat // NarS_v11.18
+
+ato 'nyathā kleśabhāk syān mṛgavyādhānudarśanāt /
+iṣavas tasya naśyanti yo viddham anuvidhyati // NarS_v11.19
+
+aśaktapretanaṣṭeṣu kṣetrikeṣv anivāritaḥ /
+kṣetraṃ ced vikṛṣet kaścid aśnuvīta sa tatphalam // NarS_v11.20
+
+vikṛṣyamāṇe kṣetre cet kṣetrikaḥ punar āvrajet /
+khilopacāraṃ tat sarvaṃ dattvā svakṣetram āpnuyāt // NarS_v11.21
+
+tadaṣṭabhāgāpacayād yāvat sapta gatāḥ samāḥ /
+saṃprāpte tv aṣṭame varṣe bhuktaṃ kṣetraṃ labheta saḥ // NarS_v11.22
+
+saṃvatsareṇārdhakhilaṃ khilaṃ tad vatsarais tribhiḥ /
+pañcavarṣāvasannaṃ tu syāt kṣetram aṭavīsamam // NarS_v11.23
+
+kṣetraṃ tripuruṣaṃ yat syād gṛhaṃ vā syāt kramāgatam /
+rājaprasādād anyatra na tadbhogaḥ paraṃ nayet // NarS_v11.24
+
+utkramya tu vṛtiṃ yatra sasyaghāto gavādibhiḥ /
+pālaḥ śāsyo bhavet tatra na cec chaktyā nivārayet // NarS_v11.25
+
+samūlasasyanāśe tu tatsvāmī samam āpnuyāt /
+vadhena pālo mucyeta daṇḍaṃ svāmini pātayet // NarS_v11.26
+
+gauḥ prasūtā daśāhāt ca mahokṣājāvikuñjarāḥ /
+nivāryās tu prayatnena teṣāṃ svāmī na daṇḍabhāk // NarS_v11.27
+
+māṣaṃ gāṃ dāpayed daṇḍaṃ dvau māṣau mahiṣīṃ tathā /
+ajāvike savatse tu daṇḍaḥ syād ardhamāṣakaḥ // NarS_v11.28
+
+adaṇḍyā hastino 'śvāś ca prajāpālā hi te smṛtāḥ /
+adaṇḍyā garbhiṇī gauś ca sūtikā cābhisāriṇī // NarS_v11.29
+
+proktas tu dvir niṣaṇṇānāṃ vasantyāṃ tu caturguṇam /
+pratyakṣacārakāṇāṃ tu cauradaṇḍaḥ smṛṭas tathā // NarS_v11.30
+
+yā naṣṭāḥ pāladoṣeṇa gāvaḥ kṣetraṃ samāśritāḥ /
+na tatra gomino daṇḍaḥ pālas taṃ daṇḍam arhati // NarS_v11.31
+
+rājagrāhagṛhīto vā vajrāśanihato 'pi vā /
+atha sarpeṇa daṣṭo vā giry agrāt patito 'pi vā // NarS_v11.32
+
+siṃhavyāghrahato vāpi vyādhibhiḥ caiva pātitaḥ /
+na tatra doṣaḥ pālasya na ca doṣo 'sti gominām // NarS_v11.33
+
+gobhis tu bhakṣitaṃ dhānyaṃ yo naraḥ pratimārgati /
+sāmantasya śado deyo dhānyaṃ yat tatra vāpitam /
+gavatraṃ gomine deyaṃ dhānyaṃ tatkarṣikasya tu // NarS_v11.34
+
+grāmopānte ca yat kṣetraṃ vivītānte mahāpathe /
+anāvṛte cet tannāśe na pālasya vyatikramaḥ // NarS_v11.35
+
+pathi kṣetre vṛtiḥ kāryā yām uṣṭro nāvalokayet /
+na laṅghayet paśur nāśvo na bhidyād yāṃ ca sūkaraḥ // NarS_v11.36
+
+gṛhaṃ kṣetraṃ ca vijñeyaṃ vāsahetuḥ kuṭumbinām /
+tasmāt tan nākṣiped rājā tad dhi mūlaṃ kuṭumbinām // NarS_v11.37
+
+vṛddhe janapade rājño dharmaḥ kośaś ca vardhate /
+hīyate hīyamāne ca vṛddhihetum ataḥ śrayet // NarS_v11.38
+
+
+12. strīpuṃsayogaḥ
+
+vivāhādividhiḥ strīṇāṃ yatra puṃsāṃ ca kīrtyate /
+strīpuṃsayoganāmaitad vivādapadam ucyate // NarS_v12.1
+
+strīpuṃsayos tu saṃbandhād varaṇaṃ prāg vidhīyate /
+varaṇād grahaṇaṃ pāṇeḥ saṃskāro 'tha dvilakṣaṇaḥ // NarS_v12.2
+
+tayor aniyataṃ proktaṃ varaṇaṃ doṣadarśanāt /
+pāṇigrahaṇamantrābhyāṃ niyataṃ dāralakṣaṇam // NarS_v12.3
+
+brāhmaṇakṣatriyaviśāṃ śūdrāṇāṃ ca parigrahe /
+svajātyā śreyasī bhāryā svajātyaś ca patiḥ striyāḥ // NarS_v12.4
+
+brāhmaṇasyānulomyena striyo 'nyās tisra eva tu /
+śūdrāyāḥ prātilomyena tathānye patayas trayaḥ // NarS_v12.5
+
+dve bhārye kṣatriyasyānye vaiśyasyaikā prakīrtitā /
+vaiśyāyā dvau patī jñeyāv eko 'nyaḥ kṣatriyāpatiḥ // NarS_v12.6
+
+ā saptamāt pañcamād vā bandhubhyaḥ pitṛmātṛtāḥ /
+avivāhyāḥ sagotrāḥ syuḥ samānapravarās tathā // NarS_v12.7
+
+parīkṣyaḥ puruṣaḥ puṃstve nijair evāṅgalakṣaṇaiḥ /
+pumāṃś ced avikalpena sa kanyāṃ labdhum arhati // NarS_v12.8
+
+subaddhajatrujānvasthiḥ subaddhāṃsaśirodharaḥ /
+sthūlaghāṭas tanūrutvag avilagnagatisvaraḥ // NarS_v12.9
+
+viṭ cāsya plavate nāpsu hlādi mūtraṃ ca phenilam /
+pumān syāṃl lakṣaṇair etair viparītais tu paṇḍakaḥ // NarS_v12.10
+
+caturdaśavidhaḥ śāstre sa tu dṛṣṭo manīṣibhiḥ /
+cikitsyaś cācikitsyaś ca teṣām ukto vidhiḥ kramāt // NarS_v12.11
+
+nisargapaṇḍo vadhriś ca pakṣapaṇḍas tathaiva ca /
+abhiśāpād guro rogād devakrodhāt tathaiva ca // NarS_v12.12
+
+īrṣyāpaṇḍaś ca sevyaś ca vātaretā mukhebhagaḥ /
+ākṣipto moghabījaś ca śālīno 'nyapatis tathā // NarS_v12.13
+
+tatrādyāv apratīkarau pakṣākhyo māsam ācaret /
+anukramāt trayasyāsya kālaḥ saṃvatsaraḥ smṛtaḥ // NarS_v12.14
+
+īrṣyāpaṇḍādayo ye 'nye catvāraḥ samudāhṛtāḥ /
+saṃtyaktavyāḥ patitavat kṣatayonyā api striyāḥ // NarS_v12.15
+
+ākṣiptamoghabījābhyām patyāv apratikarmaṇi /
+patir anyaḥ smṛto nāryā vatsaraṃ saṃpratīkṣya tu // NarS_v12.16
+
+śālīnasyāpi dhṛṣṭastrīsaṃyogād bhajyate dhvajaḥ /
+taṃ hīnavegam anyastrībālādyābhir upakramet // NarS_v12.17
+
+anyasyām yo manuṣyaḥ syād amanuṣyaḥ svayoṣiti /
+labheta sānyaṃ bhartāram etat kāryaṃ prajāpateḥ // NarS_v12.18
+
+apatyārthaṃ striyaḥ sṛṣṭāḥ strī kṣetraṃ bījinaḥ prajāḥ /
+kṣetraṃ bījavate deyaṃ nābījī kṣetram arhati // NarS_v12.19
+
+pitā dadyāt svayaṃ kanyām bhrātā vānumate pituḥ /
+mātāmaho mātulaś ca sakulyā bāndhavās tathā // NarS_v12.20
+
+mātābhāve tu sarveṣāṃ prakṛtau yadi vartate /
+tasyām aprakṛtisthāyāṃ dadyuḥ kanyāṃ svajātayaḥ // NarS_v12.21
+
+yadā tu naiva kaścit syāt kanyā rājānam āvrajet /
+anujñayā tasya varaṃ pratītya varayet svayam // NarS_v12.22
+
+savarṇam anurūpaṃ ca kularūpavayaḥśrutaiḥ /
+saha dharmaṃ caret tena putrāṃś cotpādayet tataḥ // NarS_v12.23
+
+pratigṛhya ca yaḥ kanyāṃ naro deśāntaraṃ vrajet /
+trīn ṛtūn samatikramya kanyānyaṃ varayed varam // NarS_v12.24
+
+kanyā nartum upekṣeta bāndhavebhyo nivedayet /
+te cen na dadyus tāṃ bhartre te syur bhrūṇahabhiḥ samāḥ // NarS_v12.25
+
+yāvantaś ca rtavas tasyāḥ samatītā patiṃ vinā /
+tāvatyo bhrūṇahatyāḥ syus tasya yo na dadāti tām // NarS_v12.26
+
+ato 'pravṛtte rajasi kanyāṃ dadyāt pitā sakṛt /
+mahad enaḥ spṛśed enam anyathaiṣa vidhiḥ satām // NarS_v12.27
+
+sakṛd aṃśo nipatati sakṛt kanyā pradīyate /
+sakṛd āha dadānīti trīṇy etāni sakṛt sakṛt // NarS_v12.28
+
+brāhmādiṣu vivāheṣu pañcasv eṣu vidhiḥ smṛtaḥ /
+guṇāpekṣaṃ bhaved dānam āsurādiṣu ca triṣu // NarS_v12.29
+
+kanyāyām prāptaśulkāyāṃ jyāyāṃś ced vara āvrajet /
+dharmārthakāmasaṃyuktaṃ vācyaṃ tatrānṛtaṃ bhavet // NarS_v12.30
+
+nāduṣṭāṃ dūṣayet kanyāṃ nāduṣṭaṃ dūṣayed varam /
+doṣe tu sati nāgaḥ syād anyonyaṃ tyajatos tayoḥ // NarS_v12.31
+
+dattvā nyāyena yaḥ kanyāṃ varāya na dadāti tām /
+aduṣṭaś ced varo rājñā sa daṇḍyas tatra coravat // NarS_v12.32
+
+yas tu doṣavatīṃ kanyām anākhyāya prayacchati /
+tasya kuryān nṛpo daṇḍaṃ pūrvasāhasacoditam // NarS_v12.33
+
+akanyeti tu yaḥ kanyāṃ brūyād dveṣeṇa mānavaḥ /
+sa śataṃ prāpnuyād daṇḍaṃ tasyā doṣam adarśayan // NarS_v12.34
+
+pratigṛhya tu yaḥ kanyām aduṣṭām utsṛjed varaḥ /
+vineyaḥ so 'py akāmo 'pi kanyāṃ tām eva codvahet // NarS_v12.35
+
+dīrghakutsitarogārtā vyaṅgā saṃsṛṣṭamaithunā /
+dhṛṣṭānyagatabhāvā ca kanyādoṣāḥ prakīrtitāḥ // NarS_v12.36
+
+unmattaḥ patitaḥ klībo durbhagas tyaktabāndhavaḥ /
+kanyādoṣau ca yau pūrvau eṣa doṣagaṇo vare // NarS_v12.37
+
+aṣṭau vivāhā varṇānāṃ saṃskārārthaṃ prakīrtitāḥ /
+brāhmas tu prathamas teṣāṃ prājāpatyas tathaiva ca // NarS_v12.38
+
+ārṣaś caivātha daivaś ca gāndharvaś cāsuras tathā /
+rākṣaso 'nantaras tasmāt paiśācas tv aṣṭamaḥ smṛtaḥ // NarS_v12.39
+
+satkṛtyāhūya kanyāṃ tu brāhme dadyād tv alaṃkṛtām /
+saha dharmaṃ carety uktvā prājāpatyo vidhīyate // NarS_v12.40
+
+vastragomithune dattvā vivāhas tv ārṣa ucyate /
+antarvedyāṃ tu daivaḥ syād ṛtvije karma kurvate // NarS_v12.41
+
+icchantīm icchate prāhur gāndharvo nāma pañcamam /
+vivāhas tv āsuro jñeyaḥ śulkasaṃvyavahārataḥ // NarS_v12.42
+
+prasahya haraṇād ukto vivāho rākṣasas tathā /
+suptamattopagamanāt paiśācas tv aṣṭamo 'dhamaḥ // NarS_v12.43
+
+eṣāṃ tu dharmyās catvāro brāhmādyāḥ samudāhṛtāḥ /
+sādhāraṇaḥ syād gāndharvas trayo 'dharmyās tv ataḥ pare // NarS_v12.44
+
+parapūrvāḥ striyas tv anyāḥ sapta proktā yathākramam /
+punarbhūs trividhā tāsāṃ svairiṇī tu caturvidhā // NarS_v12.45
+
+kanyaivākṣatayonir yā pāṇigrahaṇadūṣitā /
+punarbhūḥ prathamā soktā punaḥ saṃskāram arhati // NarS_v12.46
+
+kaumāraṃ patim utsṛjya yānyaṃ puruṣam āśritā /
+punaḥ patyur gṛham yāyāt sā dvitīyā prakīrtitā // NarS_v12.47
+
+asatsu devareṣu strī bāndhavair yā pradīyate /
+savarṇāyāsapiṇḍāya sā tṛtīyā prakīrtitā // NarS_v12.48
+
+strī prasūtāprasūtā vā patyāv eva tu jīvati /
+kāmāt samāśrayed anyaṃ prathamā svairiṇī tu sā // NarS_v12.49
+
+mṛte bhartari yā prāptān devarān apy apāsya tu /
+upagacchet paraṃ kāmāt sā dvitīyā prakīrtitā // NarS_v12.50
+
+prāptā deśād dhanakrītā kṣutpipāsāturā ca yā /
+tavāham ity upagatā sā tṛtīyā prakīrtitā // NarS_v12.51
+
+deśadharmān apekṣya strī gurubhir yā pradīyate /
+utpannasāhasānyasmai sāntyā vai svairiṇī smṛtā // NarS_v12.52
+
+punarbhuvāṃ eṣa vidhiḥ svairiṇīnāṃ ca kīrtitaḥ /
+pūrvā pūrvājaghanyāsāṃ śreyasī tūttarottarā // NarS_v12.53
+
+apatyam utpādayitus tāsāṃ yā śulkato hṛtā /
+aśulkopanatāyāṃ tu kṣetrikasyaiva tat phalam // NarS_v12.54
+
+kṣetrikasya yad ajñātaṃ kṣetre bījaṃ pradīyate /
+na tatra bījino bhāgaḥ kṣetrikasyaiva tad bhavet // NarS_v12.55
+
+oghavātāhṛtaṃ bījaṃ kṣetre yasya prarohati /
+phalabhug yasya tat kṣetraṃ na bījī phalabhāg bhavet // NarS_v12.56
+
+mahokṣo janayed vatsān yasya goṣu vraje caran /
+tasya te yasya tā gāvo moghaṃ syanditam ārṣabham // NarS_v12.57
+
+kṣetrikānumataṃ bījaṃ yasya kṣetre pramucyate /
+tadapatyaṃ dvayor eva bījikṣetrikayor matam // NarS_v12.58
+
+narte kṣetraṃ bhavet sasyaṃ na ca bījaṃ vināsti tat /
+ato 'patyaṃ dvayor iṣṭaṃ pitur mātuś ca dharmataḥ // NarS_v12.59
+
+nāthavatyā paragṛhe saṃyuktasya striyā saha /
+dṛṣṭaṃ saṃgrahaṇaṃ tajjñair nāgatāyāḥ svayaṃ gṛhe // NarS_v12.60
+
+praduṣṭatyaktadārasya klībasya kṣamakasya ca /
+svecchayopeyuṣo dārān na doṣaḥ sāhaso bhavet // NarS_v12.61
+
+parastriyā sahākāle 'deśe vā bhavato mithaḥ /
+sthānasaṃbhāṣaṇāmodās trayaḥ saṃgrahaṇakramāḥ // NarS_v12.62
+
+nadīnāṃ saṃgame tīrtheṣv ārāmeṣu vaneṣu ca /
+strī pumāṃś ca sameyātāṃ grāhyaṃ saṃgrahaṇaṃ bhavet // NarS_v12.63
+
+dūtīprasthāpanaiś caiva lekhāsaṃpreṣaṇair api /
+anyair api vyabhicāraiḥ sarvaṃ saṃgrahaṇaṃ smṛtam // NarS_v12.64
+
+striyaṃ spṛśed adeśe yaḥ spṛṣṭo vā marśayet tathā /
+parasparasyānumate tac ca saṃgrahaṇaṃ bhavet // NarS_v12.65
+
+bhakṣair vā yadi vā bhojyair vastrair mālyais tathaiva ca /
+saṃpreṣyamānair gandhaiś ca sarvaṃ saṃgrahaṇaṃ smṛtam // NarS_v12.66
+
+darpād vā yadi vā mohāc chlāghayā vā svayaṃ vadet /
+mameyaṃ bhuktapūrveti sarvaṃ saṃgrahaṇaṃ smṛtam // NarS_v12.67
+
+pāṇau yaś ca nigṛhṇīyad veṇyāṃ vastrāntare 'pi vā /
+tiṣṭha tiṣṭheti vā bruyāt sarvaṃ saṃgrahaṇaṃ smṛtam // NarS_v12.68
+
+svajātyatikrame puṃsāṃ uktam uttamasāhasam /
+viparyaye madhyamas tu prātilome pramāpaṇam // NarS_v12.69
+
+kanyāyām asakāmāyāṃ dvyāṅgulasyāvakartanam /
+uttamāyāṃ vadhas tv eva sarvasvaharaṇaṃ tathā // NarS_v12.70
+
+sakāmāyāṃ tu kanyāyāṃ savarṇe nāsty atikramaḥ /
+kiṃtv alaṃkṛtya satkṛtya sa evaināṃ samudvahet // NarS_v12.71
+
+mātā mātṛṣvasā śvaśrūr mātulānī pitṛṣvasā /
+pitṛvyasakhiśiṣyastrī bhaginī tatsakhī snuṣā // NarS_v12.72
+
+duhitācāryabhāryā ca sagotrā śaraṇāgatā /
+rājñī pravrajitā dhātrī sādhvī varṇottamā ca yā // NarS_v12.73
+
+āsām anyatamāṃ gatvā gurutalpaga ucyate /
+śiśnasyotkartanaṃ daṇḍo nānyas tatra vidhīyate // NarS_v12.74
+
+paśuyonyām atikrāman vineyaḥ sa damaṃ śatam /
+madhyamaṃ sāhasaṃ goṣu tad evāntyāvasāyiṣu // NarS_v12.75
+
+agamyāgāminaḥ śāsti daṇḍo rājñā pracoditaḥ /
+prāyaścittavidhāv atra prāyaścittaṃ viśodhanam // NarS_v12.76
+
+svairiṇy abrāhmaṇī veśyā dāsī niṣkāsinī ca yā /
+gamyāḥ syur ānulomyena striyo na pratilomataḥ // NarS_v12.77
+
+āsv eva tu bhujiṣyāsu doṣaḥ syāt paradāravat /
+gamyā api hi nopeyās tāś ced anyaparigrahāḥ // NarS_v12.78
+
+anutpannaprajāyās tu patiḥ preyād yadi striyāḥ /
+niyuktā gurubhir gacched devaraṃ putrakāmyayā // NarS_v12.79
+
+sa ca tāṃ pratipadyeta tathaivā putrajanmataḥ /
+putre jāte nivarteta viplavaḥ syād ato 'nyathā // NarS_v12.80
+
+ghṛtenābhyajya gātrāṇi tailenāvikṛtena vā /
+mukhān mukhaṃ pariharan gātrair gātrāṇy asaṃspṛśan // NarS_v12.81
+
+striyaṃ putravatīṃ vandhyāṃ nīrajaskām anicchantīm /
+na gacched garbhiṇīṃ nindyām aniyuktāṃ ca bandhubhiḥ // NarS_v12.82
+
+aniyuktā tu yā nārī devarāj janayet sutam /
+jārajātam arikthīyaṃ tam āhur dharmavādinaḥ // NarS_v12.83
+
+tathāniyukto bhāryāyāṃ yavīyāñ jyāyaso vrajet /
+yavīyaso vā yo jyāyān ubhau tau gurutalpagau // NarS_v12.84
+
+kule tadavaśeṣe tu saṃtānārthaṃ na kāmataḥ /
+niyukto gurubhir gacched bhrātṛbhāryāṃ yavīyasaḥ // NarS_v12.85
+
+avidyamāne tu gurau rājño vācyaḥ kulakṣayaḥ /
+tatas tadvacanād gacched anuśiṣya striyā saha // NarS_v12.86
+
+pūrvoktenaiva vidhinā snātāṃ puṃsavane śuciḥ /
+sakṛd ā garbhādhānād vā kṛte garbhe snuṣaiva sā // NarS_v12.87
+
+ato 'nyathā vartamānaḥ pumān strī vāpi kāmataḥ /
+vineyau subhṛśaṃ rājñā kilbiṣī syād anigrahāt // NarS_v12.88
+
+īrṣyāsūyasamutthe tu saṃrambhe rāgahetuke /
+dampatī vivadeyātāṃ na jñātiṣu na rājani // NarS_v12.89
+
+anyonyaṃ tyajator nāgaḥ syād anyonyaviruddhayoḥ /
+strīpuṃsayor nigūḍhāyā vyabhicārād ṛte striyāḥ // NarS_v12.90
+
+vyabhicāre striyā mauṇḍyam adhaḥśayanam eva ca /
+kadannaṃ vā kuvāsaś ca karma cāvaskaroñjhanam // NarS_v12.91
+
+strīdhanabhraṣṭasarvasvāṃ garbhavisraṃsinīṃ tathā /
+bhartuś ca vadham icchantīṃ striyaṃ nirvāsayed gṛhāt // NarS_v12.92
+
+anarthaśīlāṃ satataṃ tathaivāpriyavādinīm /
+pūrvāśinīṃ ca yā bhartuḥ striyaṃ nirvāsayed budhaḥ // NarS_v12.93
+
+vandhyāṃ strījananīṃ nindyāṃ pratikulāṃ ca sarvadā /
+kāmato nābhinandeta kurvann evaṃ sa doṣabhāk // NarS_v12.94
+
+anukūlām avāgduṣṭāṃ dakṣāṃ sādhvīṃ prajāvatīm /
+tyajan bhāryām avasthāpyo rājñā daṇḍena bhūyasā // NarS_v12.95
+
+ajñātadoṣeṇoḍhā yā nirgatā nānyam āśritā /
+bandhubhiḥ sā niyoktavyā nirbandhuḥ svayam āśrayet // NarS_v12.96
+
+naṣṭe mṛte pravrajite klībe ca patite patau /
+pañcasv āpatsu nārīṇāṃ patir anyo vidhīyate // NarS_v12.97
+
+aṣṭau varṣāṇy udīkṣeta brāhmaṇī proṣitaṃ patim /
+aprasūtā tu catvāri parato 'nyaṃ samāśrayet // NarS_v12.98
+
+kṣatriyā ṣaṭ samās tiṣṭhed aprasūtā samātrayam /
+vaiśyā prasūtā catvāri dve same tv itarā vaset // NarS_v12.99
+
+na śūdrāyāḥ smṛtaḥ kālo na ca dharmavyatikramaḥ /
+viśeṣato 'prasūtāyāḥ saṃvatsaraparā sthitiḥ // NarS_v12.100
+
+apravṛttau smṛtaḥ dharma eṣa proṣitayoṣitām /
+jīvati śrūyamāṇe tu syād eṣa dviguṇo vidhiḥ // NarS_v12.101
+
+prajāpravṛttau bhūtānāṃ sṛṣṭir eṣā prajāpateḥ /
+ato 'nyagamane strīṇām evaṃ doṣo na vidyate // NarS_v12.102
+
+ānulomyena varṇānāṃ yaj janma sa vidhiḥ smṛtaḥ /
+prātilomyena yaj janma sa jñeyo varṇasaṃkaraḥ // NarS_v12.103
+
+anantaraḥ smṛtaḥ putraḥ putra ekāntaras tathā /
+dvyantaraś cānulomyena tathaiva pratilomataḥ // NarS_v12.104
+
+ugraḥ pāraśavaś caiva niṣādaś cānulomataḥ /
+uttamebhyas trayas tribhyaḥ śūdrāputrāḥ prakīrtitāḥ // NarS_v12.105
+
+brāhmaṇyā api cāṇḍālasūtavaidehakā api /
+aparebhyas trayas tribhyā vijñeyaḥ pratilomataḥ // NarS_v12.106
+
+ambaṣṭho māgadhaś caiva kṣattā ca kṣatriyāsutāḥ /
+ānulomyena tatraiko dvau jñeyau pratilomataḥ // NarS_v12.107
+
+vaiśyāputrās tu dauṣṣantayavanāyogavā api /
+prātilomyena yatraiko dvau jñeyau cānulomajau // NarS_v12.108
+
+sūtādyāḥ pratilomās tu ye jātipratilomajāḥ /
+te saṃkarāḥ śvapākādyās teṣāṃ triḥ saptako gaṇaḥ // NarS_v12.109
+
+savarṇo brāhmaṇīputraḥ kṣatriyāyām anantaraḥ /
+ambaṣṭhograu tathā putrāv evaṃ kṣatriyavaiśyayoḥ // NarS_v12.110
+
+ekāntaras tu dauṣṣanto vaiśyāyāṃ brāhmaṇāt sutaḥ /
+śūdrāyāṃ kṣatriyāt tadvan niṣādo nāma jāyate // NarS_v12.111
+
+śūdrā pāraśavaṃ sūte brāhmaṇād uttaraṃ sutam /
+ānulomyena varṇānāṃ putrā hy ete prakīrtitāḥ // NarS_v12.112
+
+sūtaś ca māgadhaś caiva putrāv āyogavas tathā /
+prātilomyena varṇānāṃ tadvad ete 'py anantarāḥ // NarS_v12.113
+
+anantaraḥ smṛtaḥ sūto brāhmaṇyāṃ kṣatriyāt sutaḥ /
+māgadhāyogavau tadvad dvī putrau vaiśyaśūdrayoḥ // NarS_v12.114
+
+brāhmaṇy ekāntaraṃ vaiśyāt sūte vaidehakaṃ sutam /
+kṣattāraṃ kṣatriyā śūdrāt putram ekāntaraṃ tathā // NarS_v12.115
+
+dvyantaraḥ prātilomyena pāpiṣṭhaḥ sati saṃkare /
+cāṇḍālo jāyate śūdrād brāhmaṇī yatra muhyati // NarS_v12.116
+
+rājñā parīkṣyaṃ na yathā jāyate varṇasaṃkaraḥ /
+tasmād rājñā viśeṣeṇa trayī rakṣyā tu saṃkarāt // NarS_v12.117
+
+
+13.dāyabhāgaḥ
+
+vibhāgo 'rthasya pitryasya putrair yatra prakalpyate /
+dāyabhāga iti proktaṃ tad vivādapadaṃ budhaiḥ // NarS_v13.1
+
+pitary ūrdhvaṃ mṛte putrā vibhajeyur dhanaṃ pituḥ /
+mātur duhitaro 'bhāve duhitāraṃ tadanvayaḥ // NarS_v13.2
+
+mātur nivṛtte rajasi prattāsu bhaginīṣu ca /
+niraṣṭe vāpy amaraṇe pitary uparataspṛhe // NarS_v13.3
+
+pitaiva vā svayaṃ putrān vibhajed vayasi sthitaḥ /
+jyeṣṭhaṃ śreṣṭhavibhāgena yathā vāsya matir bhavet // NarS_v13.4
+
+bibhṛyād vecchataḥ sarvāñ jyeṣṭho bhrātā yathā pitā /
+bhrātā śaktaḥ kaniṣṭho vā śaktyapekṣaḥ kule kriyā // NarS_v13.5
+
+śauryabhāryādhane hitvā yac ca vidyādhanaṃ bhavet /
+trīṇy etāny avibhājyāni prasādo yaś ca paitṛkaḥ // NarS_v13.6
+
+mātrā ca svadhanaṃ dattaṃ yasmai syāt prītipūrvakam /
+tasyāpy eṣa vidhir dṛṣṭo mātāpīṣṭe yathā pitā // NarS_v13.7
+
+adhyagnyadhyāvahanikaṃ bhartṛdāyas tathaiva ca /
+bhrātṛmātṛpitṛbhyaś ca ṣaḍvidhaṃ strīdhanaṃ smṛtam // NarS_v13.8
+
+strīdhanaṃ tadapatyānāṃ bhartṛgāmy aprajāsu ca /
+brāhmādiṣu catuḥṣv āhuḥ pitṛgāmītareṣu tu // NarS_v13.9
+
+kuṭumbaṃ bibhṛyād bhrātur yo vidyām adhigacchataḥ /
+bhāgaṃ vidyādhanāt tasmāt sa labhetāśruto 'pi san // NarS_v13.10
+
+vaidyo 'vaidyāya nākāmo dadyād aṃśaṃ svato dhanāt /
+pitṛdravyaṃ tad āśritya na cet tena tad āhṛtam // NarS_v13.11
+
+dvāv āṃśau pratipadyeta vibhajann ātmanaḥ pitā /
+samāṃśabhāginī mātā putrāṇāṃ syān mṛte patau // NarS_v13.12
+
+jyeṣṭhāyāṃśo 'dhiko deyaḥ jyeṣṭhāya tu varaḥ smṛtaḥ /
+samāṃśabhājaḥ śeṣāḥ syur aprattā bhaginī tathā // NarS_v13.13
+
+kṣetrajeṣv api putreṣu tadvaj jāteṣu dharmataḥ /
+varṇāvareṣv aṃśahānir ūḍhājāteṣv anukramāt // NarS_v13.14
+
+pitraiva tu vibhaktā ye hīnādhikasamair dhanaiḥ /
+teṣāṃ sa eva dharmaḥ syāt sarvasya hi pitā prabhuḥ // NarS_v13.15
+
+kānīnaś ca sahoḍhaś ca gūḍhāyāṃ yaś ca jāyate /
+teṣāṃ voḍhāpitā jñeyas te ca bhāgaharāḥ smṛtāḥ // NarS_v13.16
+
+ajñātapitṛko yaś ca kānīno 'nūḍhamātṛkaḥ /
+mātāmahāya dadyāt sa piṇḍaṃ rikthaṃ hareta ca // NarS_v13.17
+
+jātā ye tv aniyuktāyām ekena bahubhis tathā /
+arikthabhājas te sarve bījinām eva te sutāḥ // NarS_v13.18
+
+dadyus te bījine piṇḍaṃ mātā cec chulkato hṛtā /
+aśulkopagatāyāṃ tu piṇḍadā voḍhur eva te // NarS_v13.19
+
+pitṛdviṭ patitaḥ paṇḍo yaś ca syād aupapātikaḥ /
+aurasā api naite 'ṃśaṃ labheran kṣetrajāḥ kutaḥ // NarS_v13.20
+
+dīrghatīvrāmayagrastā jaḍonmattāndhapaṅgavaḥ /
+bhartavyāḥ syuḥ kule caite tatputrās tv aṃśabhāginaḥ // NarS_v13.21
+
+dvirāmuṣyāyaṇā dadyur dvābhyāṃ piṇḍodake pṛthak /
+rikthād ardhāṃśam ādadyur bījikṣetrikayos tathā // NarS_v13.22
+
+saṃsṛṣṭināṃ tu yo bhāgas teṣām eva sa iṣyate /
+ato 'nyathāṃśabhājo hi nirbījiṣv itarān iyāt // NarS_v13.23
+
+bhrātām aprajaḥ preyāt kaścic cet pravrajet tu vā /
+vibhajeyur dhanaṃ tasya śeṣās tu strīdhanaṃ vinā // NarS_v13.24
+
+bharaṇam cāsya kurvīran strīṇām ā jīvitakṣayāt /
+rakṣanti śayyāṃ bhartuś ced ācchindyur itarāsu tu // NarS_v13.25
+
+syād yasya duhitā tasyāḥ pitraṃśo bharaṇe mataḥ /
+ā saṃskārād bhajed enāṃ parato bibhṛyāt patiḥ // NarS_v13.26
+
+mṛte bhartary aputrāyāḥ patipakṣaḥ prabhuḥ striyāḥ /
+viniyogātmarakṣāsu bharaṇe ca sa īśvaraḥ // NarS_v13.27
+
+parikṣīṇe patikule nirmaṇuṣye nirāśraye /
+tatsapiṇḍeṣu vāsatsu pitṛpakṣaḥ prabhuḥ striyāḥ // NarS_v13.28
+
+pakṣadvayāvasāne tu rājā bhartā smṛtaḥ striyāḥ /
+sa tasyā bharaṇaṃ kuryān nigṛhṇīyāt pathaś cyutām // NarS_v13.29
+
+svātantryād vipraṇaśyanti kule jātā api striyaḥ /
+asvātantryam atas tāsāṃ prajāpatir akalpayat // NarS_v13.30
+
+pitā rakṣati kaumāre bhartā rakṣati yauvane /
+putrā rakṣanti vaidhavye na strī svātantryam arhati // NarS_v13.31
+
+yac chiṣṭaṃ pitṛdāyebhyo dattva rṇaṃ paitṛkaṃ ca yat /
+bhrātṛbhis tad vibhaktavyam ṛṇī na syād yathā pitā // NarS_v13.32
+
+yeṣāṃ ca na kṛtāḥ pitrā saṃskāravidhayaḥ kramāt /
+kartavyā bhrātṛbhis teṣāṃ paitṛkād eva te dhanāt // NarS_v13.33
+
+avidyamāne pitrye 'rthe svāṃśād uddhṛtya vā punaḥ /
+avaśyakāryāḥ saṃskārā bhrātaraṃ pūrvasaṃskṛtaiḥ // NarS_v13.34
+
+kuṭumbārtheṣu codyuktas tatkāryaṃ kurute ca yaḥ /
+sa bhrātṛbhir bṛṃhaṇīyo grāsāchādanavāhanaiḥ // NarS_v13.35
+
+vibhāgadharmasaṃdehe dāyādānāṃ vinirṇaye /
+jñātibhir bhāgalekhyaiś ca pṛthakkāryapravartanāt // NarS_v13.36
+
+bhrātām avibhaktānām eko dharmaḥ pravartate /
+vibhāge sati dharmo 'pi bhaved eṣāṃ pṛthak pṛthak // NarS_v13.37
+
+dānagrahaṇapaśvannagṛhakṣetraparigrahāḥ /
+vibhaktānāṃ pṛthag jñeyāḥ pākadharmāgamavyayāḥ // NarS_v13.38
+
+sākṣitvaṃ prātibhāvyaṃ ca dānaṃ grahaṇam eva ca /
+vibhaktā bhrātaraḥ kūryur nāvibhaktā parasparam // NarS_v13.39
+
+yeṣām etāḥ kriyā loke pravartante svarikthinām /
+vibhaktān avagaccheyur lekhyam apy antareṇa tān // NarS_v13.40
+
+yady ekajātā bahavaḥ pṛthagdharmāḥ pṛthakkriyāḥ /
+pṛthakkarmaguṇopetā na te kṛtyeṣu saṃmatāḥ // NarS_v13.41
+
+svān bhāgān yadi dadyus te vikrīṇīrann athāpi vā /
+kuryur yatheṣṭaṃ tat sarvam īśante svadhanasya te // NarS_v13.42
+
+aurasaḥ kṣetrajaś caiva putrikāputra eva ca /
+kānīnaś ca sahoḍhaś ca gūḍhotpannas tathaiva ca // NarS_v13.43
+
+paunarbhavo 'paviddhaś ca labdhaḥ krītaḥ kṛtas tathā /
+svayaṃ copagataḥ putrā dvādaśaita udāhṛtāḥ // NarS_v13.44
+
+teṣāṃ ṣaḍ bandhudāyādāḥ ṣaḍ adāyādabāndhavāḥ /
+pūrvaḥ pūrvaḥ smṛtaḥ śreyāj jaghanyo yo ya uttaraḥ // NarS_v13.45
+
+kramād dhy ete prapadyeran mṛte pitari taddhanam /
+jyāyaso jyāyaso 'bhāve jaghanyas tad avāpnuyāt // NarS_v13.46
+
+putrābhāve tu duhitā tulyasaṃtānadarśanāt /
+putraś ca duhitā coktau pituḥ saṃtānakārakau // NarS_v13.47
+
+abhāve tu duhitṝṇāṃ sakulyā bāndhavās tataḥ /
+tataḥ sajātyāḥ sarveṣām abhāve rājagāmi tat // NarS_v13.48
+
+anyatra brāhmaṇāt kiṃtu rājā dharmaparāyaṇaḥ /
+sa strīṇāṃ jīvanaṃ dadyād eṣa dāyavidhiḥ smṛtaḥ // NarS_v13.49
+
+
+14. sāhasam
+
+sahasā kriyate karma yatkiṃcid baladarpitaiḥ /
+tat sāhasam iti proktaṃ saho balam ihocyate // NarS_v14.1
+
+tat punas trividhaṃ jñeyaṃ prathamaṃ madhyamaṃ tathā /
+uttamaṃ ceti śāstreṣu tasyoktaṃ lakṣaṇaṃ pṛthak // NarS_v14.2
+
+phalamūlodakādīnāṃ kṣetropakaraṇasya ca /
+bhaṅgākṣepopamardādyaiḥ prathamaṃ sāhasaṃ smṛtam // NarS_v14.3
+
+vāsaḥpaśvannapānānām gṛhopakaraṇasya ca /
+etenaiva prakāreṇa madhyamaṃ sāhasaṃ smṛtam // NarS_v14.4
+
+vyāpādo viṣaśastrād yaiḥ paradārapradharṣaṇam /
+prāṇoparodhi yac cānyad uktam uttamasāhasam // NarS_v14.5
+
+tasya daṇḍaḥ kriyāpekṣaḥ prathamasya śatāvaraḥ /
+madhyamasya tu śāstrajñair jñeyaḥ pañcaśatāvaraḥ // NarS_v14.6
+
+vadhaḥ sarvasvaharaṇaṃ purān nirvāsanāṅkane /
+tadaṅgaccheda ity ukto daṇḍa uttamasāhase // NarS_v14.7
+
+aviśeṣeṇa sarveṣām eṣa daṇḍavidhiḥ smṛtaḥ /
+vadhād ṛte brāhmaṇasya na vadhaṃ brāhmaṇo 'rhati // NarS_v14.8
+
+śiraso muṇḍanaṃ daṇḍas tasya nirvāsanaṃ purāt /
+lalāṭe cābhiśastāṅkaḥ prayāṇaṃ gardabhena ca // NarS_v14.9
+
+syātāṃ saṃvyavahāryau tau dhṛtadaṇḍau tu pūrvayoḥ /
+dhṛtadaṇḍo 'py asaṃbhojyo jñeya uttamasāhase // NarS_v14.10
+
+tasyaiva bhedaḥ steyaṃ syād viśeṣas tatra cocyate /
+atisāhasam ākramya steyam āhuś chalena tu // NarS_v14.11
+
+tad api trividhaṃ proktaṃ dravyāpekṣaṃ manīṣibhiḥ /
+kṣudramadhyottamānāṃ tu dravyāṇām apakarṣaṇāt // NarS_v14.12
+
+mṛdbhāṇḍāsanakhaṭvāsthidārucarmatṛṇādi yat /
+śamīdhānyamudgādīni kṣudradravyam udāhṛtam // NarS_v14.13
+
+vāsaḥ kauśeyavarjaṃ ca govarjaṃ paśavas tathā /
+hiraṇyavarjaṃ lohaṃ ca madhyaṃ vrīhiyavā api // NarS_v14.14
+
+hiraṇyaratnakauśeyastrīpuṃgogajavājinaḥ /
+devabrāhmaṇarājñāṃ ca dravyaṃ vijñeyam uttamam // NarS_v14.15
+
+upāyair vividhair eṣāṃ chalayitvāpakarṣaṇam /
+suptapramattamattebhyaḥ steyam āhur manīṣiṇaḥ // NarS_v14.16
+
+sahoḍhagrahaṇāt steyaṃ hoḍhe 'saty upabhogataḥ /
+śaṅkā tv asajjanaikārthyād anāyavyayatas tathā // NarS_v14.17
+
+bhaktāvakāśadātāraḥ stenānāṃ ye prasarpatām /
+śaktāś ca ya upekṣante te 'pi taddoṣabhāginaḥ // NarS_v14.18
+
+utkrośatāṃ janānāṃ ca hriyamāṇe dhane 'pi ca /
+śrutvā ye nābhidhāvanti te 'pi taddoṣabhāginaḥ // NarS_v14.19
+
+sāhaseṣu ya evoktas triṣu daṇḍo manīṣibhiḥ /
+sa eva daṇḍaḥ steye 'pi dravyeṣu triṣv anukramāt // NarS_v14.20
+
+gavādiṣu praṇaṣṭeṣu dravyeṣv apahṛteṣu vā /
+padenānveṣaṇaṃ kuryur ā mūlāt tadvido janāḥ // NarS_v14.21
+
+grāme vraje vivīte vā yatra saṃnipatet padam /
+voḍhavyaṃ tad bhavet tena na cet so 'nyatra tan nayet // NarS_v14.22
+
+pade pramūḍhe bhagne vā viṣamatvāj janāntike /
+yas tv āsannataro grāmo vrajo vā tatra pātayet // NarS_v14.23
+
+same 'dhvani dvayor yatra tena prāyo 'śucir janaḥ /
+pūrvāpadānair dṛṣṭo vā saṃsṛṣṭo vā durātmabhiḥ // NarS_v14.24
+
+grāmeṣv anveṣaṇaṃ kuryuś caṇḍālavadhakādayaḥ /
+rātrisaṃcāriṇo ye ca bahiḥ kuryur bahiścarāḥ // NarS_v14.25
+
+steneṣv alabhyamāneṣu rājā dadyāt svakād dhanāt /
+upekṣamāṇo hy enasvī dharmād arthāc ca hīyate // NarS_v14.26
+
+
+15-16. vāgdaṇḍapāruṣye
+
+deśajātikulādīnām ākrośanyaṅgasaṃhitam /
+yad vacaḥ pratikūlārthaṃ vākpāruṣyaṃ tad ucyate // NarS_v15-16.1
+
+niṣṭhurāślīlatīvratvāt tad api trividhaṃ smṛtam /
+gauravānukramād asya daṇḍo 'py atra kramād guruḥ // NarS_v15-16.2
+
+sākṣepaṃ niṣṭhuraṃ jñeyam aślīlaṃ nyaṅgasaṃyutam /
+pātanīyair upakrośais tīvram āhur manīṣiṇaḥ // NarS_v15-16.3
+
+paragātreṣv abhidroho hastapādāyudhādibhiḥ /
+bhasmādibhiś copaghāto daṇḍapāruṣyam ucyate // NarS_v15-16.4
+
+tasyāpi dṛṣṭaṃ traividhyaṃ mṛdumadhyottamaṃ kramāt /
+avagūraṇaniḥsaṅgapātanakṣatadarśanaiḥ // NarS_v15-16.5
+
+hīnamadhyottamānāṃ tu dravyāṇām samatikramāt /
+trīṇy eva sāhasāny āhus tatra kaṇṭakaśodhanam // NarS_v15-16.6
+
+vidhiḥ pañcavidhas tūkta etayor ubhayor api /
+viśuddhir daṇḍabhāktvaṃ ca tatra saṃbadhyate yathā // NarS_v15-16.7
+
+pāruṣye sati saṃrambhād utpanne kṣubdhayor dvayoḥ /
+sa manyate yaḥ kṣamate daṇḍabhāg yo 'tivartate // NarS_v15-16.8
+
+pāruṣyadoṣāvṛtayor yugapat saṃpravṛttayoḥ /
+viśeṣaś cen na dṛśyeta vinayaḥ syāt samas tayoḥ // NarS_v15-16.9
+
+pūrvam ākṣārayed yas tu niyataṃ syāt sa doṣabhāk /
+paścād yaḥ so 'py asatkārī pūrve tu vinayo guruḥ // NarS_v15-16.10
+
+dvayor āpannayos tulyam anubadhnāti yaḥ punaḥ /
+sa tayor daṇḍam āpnoti pūrvo vā yadi vetaraḥ // NarS_v15-16.11
+
+śvapākapaṇḍacaṇḍālavyaṅgeṣu vadhavṛttiṣu /
+hastipavrātyadāreṣu gurvācāryāṅganāsu ca // NarS_v15-16.12
+
+maryādātikrame sadyo ghāta evānuśāsanam /
+na ca taddaṇḍapāruṣye doṣam āhur manīṣiṇaḥ // NarS_v15-16.13
+
+yam eva hy ativarterann ete santaṃ janaṃ nṛṣu /
+sa eva vinayaṃ kuryān na tadvinayabhāṅ nṛpaḥ // NarS_v15-16.14
+
+malā hy ete manuṣyeṣu dhanam eṣāṃ malātmakam /
+api tān ghātayed rājā nārthadaṇḍena daṇḍayet // NarS_v15-16.15
+
+śataṃ brāhmaṇam ākruśya kṣatriyo daṇḍam arhati /
+vaiśyo 'dhyardhaṃ śataṃ dve vā śūdras tu vadham arhati // NarS_v15-16.16
+
+vipraḥ pañcāśataṃ daṇḍyaḥ kṣatriyasyābhiśaṃsane /
+vaiśye syād ardhapañcāśac chūdre dvādaśako damaḥ // NarS_v15-16.17
+
+samavarṇadvijātīnāṃ dvādaśaiva vyatikrame /
+vādeṣv avacanīyeṣu tad eva dviguṇaṃ bhavet // NarS_v15-16.18
+
+kāṇam apy athavā khañjam anyaṃ vāpi tathāvidham /
+tathyenāpi bruvan dāpyo rājñā kārṣāpaṇāvaram // NarS_v15-16.19
+
+na kilbiṣeṇāpavadec chāstrataḥ kṛtapāvanam /
+na rājñā dhṛtadaṇḍaṃ ca daṇḍabhāk tadvyatikramāt // NarS_v15-16.20
+
+loke 'smin dvāv avaktavyāv adaṇḍyau ca prakīrtitau /
+brāhmaṇaś caiva rājā ca tau hīdaṃ bibhṛto jagat // NarS_v15-16.21
+
+patitaṃ patitety uktvā cauraṃ caureti vā punaḥ /
+vacanāt tulyadoṣaḥ syān mithyā dvir doṣatāṃ vrajet // NarS_v15-16.22
+
+nāmajātigrahaṃ teṣām abhidroheṇa kurvataḥ /
+nikheyo 'yomayaḥ śaṅkuḥ śūdrasyāṣṭādaśāṅgulaḥ // NarS_v15-16.23
+
+dharmāpadeśaṃ darpeṇa dvijānām asya kurvataḥ /
+taptam āsecayet tailaṃ vaktre śrotre ca pārthivaḥ // NarS_v15-16.24
+
+yenāṅgenāvaro varṇo brāhmaṇasyāparādhnuyāt /
+tad aṅgaṃ tasya chettavyam evaṃ śuddhim avāpnuyāt // NarS_v15-16.25
+
+sahāsanam abhiprepsur utkṛṣṭasyāvakṛṣṭajaḥ /
+kaṭyāṃ kṛṭāṅko nirvāsyaḥ sphigdeśaṃ vāsya kartayet // NarS_v15-16.26
+
+avaniṣṭhīvato darpād dvāv oṣṭhau chedayen nṛpaḥ /
+avamūtrayataḥ śiśnam avaśardhayato gudam // NarS_v15-16.27
+
+keśeṣu gṛhṇato hastau chedayed avicārayan /
+pādayor nāsikāyāṃ ca grīvāyāṃ vṛṣaṇeṣu ca // NarS_v15-16.28
+
+upakruśya tu rājānaṃ vartmani sve vyavasthitam /
+jihvāchedād bhavec chuddhiḥ sarvasvaharaṇena vā // NarS_v15-16.29
+
+rājani prahared yas tu kṛtāgasy api durmatiḥ /
+śūle tam agnau vipaced brahmahatyāśatādhikam // NarS_v15-16.30
+
+putrāparādhe na pitā na śvavāñ śuni daṇḍabhāk /
+na markaṭe ca tatsvāmī tair eva prahito na cet // NarS_v15-16.31
+
+
+17.dyūtasamāhvayam
+
+akṣavardhraśalākādyair devanaṃ jihmakāritam /
+paṇakrīḍā vayobhiś ca padaṃ dyūtasamāhvayam // NarS_v17.1
+
+sabhikaḥ kārayed dyūtaṃ deyaṃ dadyāc ca tatkṛtam /
+daśakaṃ tu śataṃ vṛddhis tasya syād dyūtakāritā // NarS_v17.2
+
+dvirabhyastāḥ patanty akṣā glahe yasyākṣadevinaḥ /
+jayaṃ tasyāparasyāhuḥ kitavasya parājayam // NarS_v17.3
+
+kitaveṣv eva tiṣṭheyuḥ kitavāḥ saṃśayaṃ prati /
+ta eva tasya draṣṭāraḥ syus ta eva ca sākṣiṇaḥ // NarS_v17.4
+
+aśuddhaḥ kitavo nānyad āśrayed dyūtamaṇḍalam /
+pratihanyān na sabhikaṃ dāpayet tat svam iṣṭataḥ // NarS_v17.5
+
+kūṭākṣadevinaḥ pāpān nirbhajed dyūtamaṇḍalāt /
+kaṇṭhe 'kṣamālām āsajya sa hy eṣāṃ vinayaḥ smṛtaḥ // NarS_v17.6
+
+
+18. prakīrṇakam
+
+prakīrṇake punar jñeyā vyavahārā nṛpāśrayāḥ /
+rājñām ājñāpratīghātas tatkarmakaraṇaṃ tathā // NarS_v18.1
+
+purapradānaṃ saṃbhedaḥ prakṛtīnāṃ tathaiva ca /
+pāṣaṇḍanaigamaśreṇīgaṇadharmaviparyayāḥ // NarS_v18.2
+
+pitṛputravivādaś ca prāyaścittavyatikramaḥ /
+pratigrahavilopaś ca kopa āśramiṇām api // NarS_v18.3
+
+varṇasaṃkaradoṣaś ca tadvṛttiniyamas tathā /
+na dṛṣṭaṃ yac ca pūrveṣu tat sarvaṃ syāt prakīrṇake // NarS_v18.4
+
+rājā tv avahitaḥ sarvān āśramān paripālayet /
+upāyaiḥ śāstravihitaiś caturbhiḥ prakṛtais tathā // NarS_v18.5
+
+yo yo varṇo 'vahīyeta yo vodrekam anuvrajet /
+taṃ taṃ dṛṣṭvā svato mārgāt pracyutaṃ sthāpayet pathi // NarS_v18.6
+
+aśāstrokteṣu cānyeṣu pāpayukteṣu karmasu /
+prasamīkṣyātmano rājā daṇḍaṃ daṇḍyeṣu pātayet // NarS_v18.7
+
+śrutismṛtiviruddhaṃ ca janānām ahitaṃ ca yat /
+na tat pravartayed rājā pravṛttaṃ ca nivartayet // NarS_v18.8
+
+nyāyāpetaṃ yad anyena rājñājñānakṛtaṃ ca yat /
+tad apy anyāyavihitaṃ punar nyāye niveśayet // NarS_v18.9
+
+rājñā pravartitān dharmān yo naro nānupālayet /
+daṇḍyaḥ sa pāpo vadhyaś ca lopayan rājaśāsanam // NarS_v18.10
+
+āyudhāny āyudhīyānāṃ vāhyādīn vāhyajīvinām /
+veśyāstrīṇām alaṃkāraṃ vādyātodyāni tadvidām // NarS_v18.11
+
+yac ca yasyopakaraṇaṃ yena jīvanti kārukāḥ /
+sarvasvaharaṇe 'py etān na rājā hartum arhati // NarS_v18.12
+
+anādiś cāpy anantaś ca dvipadāṃ pṛthivīpatiḥ /
+dīptimatvāc chucitvāc ca yadi na syāt pathaś cyutaḥ // NarS_v18.13
+
+yadi rājā na sarveṣāṃ varṇānāṃ daṇḍadhāraṇam /
+kuryāt patho vyapetānāṃ vinaśyeyur imāḥ prajāḥ // NarS_v18.14
+
+brāhmaṇyaṃ brāhmaṇo jahyāt kṣatriyaḥ kṣātram utsṛjet /
+svakarma jahyād vaiśyas tu śūdraḥ sarvān viśeṣayet // NarS_v18.15
+
+rājānaś cen nābhaviṣyan pṛthivyāṃ daṇḍadhāraṇam /
+śūle matsyān ivāpakṣyan durbalān balavattarāḥ // NarS_v18.16
+
+satām anugraho nityam asatāṃ nigrahas tathā /
+eṣa dharmaḥ smṛto rājñām arthaś cāmitrapīḍanāt // NarS_v18.17
+
+na lipyate yathā vahnir dahañ chaśvad imāḥ prajāḥ /
+na lipyate tathā rājā daṇḍaṃ daṇḍyeṣu pātayan // NarS_v18.18
+
+ājñā tejaḥ pārthivānāṃ sā ca vāci pratiṣṭhitā /
+te yad brūyur asat sad vā sa dharmo vyavahāriṇām // NarS_v18.19
+
+rājā nāma caraty eṣa bhūmau sākṣāt sahasradṛk /
+na tasyājñām atikramya saṃtiṣṭheran prajāḥ kvacit // NarS_v18.20
+
+rakṣādhikārād īśatvād bhūtānugrahadarśanāt /
+yad eva rājā kurute tat pramāṇam iti sthitiḥ // NarS_v18.21
+
+nirguṇo 'pi yathā strīṇāṃ pūjya eva patiḥ sadā /
+prajānāṃ viguṇo 'py evaṃ pūjya eva narādhipaḥ // NarS_v18.22
+
+tapaḥkrītāḥ prajā rājñā prabhur āsāṃ tato nṛpaḥ /
+tatas tadvacasi stheyaṃ vārtā cāsāṃ tadāśrayā // NarS_v18.23
+
+pañca rūpāṇi rājāno dhārayanty amitaujasaḥ /
+agner indrasya somasya yamasya dhanadasya ca // NarS_v18.24
+
+kāraṇād animittaṃ vā yadā krodhavaśaṃ gataḥ /
+prajā dahati bhūpālas tadāgnir abhidhīyate // NarS_v18.25
+
+yadā tejaḥ samālambya vijigīṣur udāyudhaḥ /
+abhiyāti parān rājā tadendraḥ sa udāhṛtaḥ // NarS_v18.26
+
+vigatakrodhasaṃtāpo hṛṣṭarūpo yadā nṛpaḥ /
+prajānāṃ darśanaṃ yāti soma ity ucyate tadā // NarS_v18.27
+
+dharmāsanagataḥ śrīmān daṇḍaṃ dhatte yadā nṛpaḥ /
+samaḥ sarveṣu bhūteṣu tadā vaivasvataḥ yamaḥ // NarS_v18.28
+
+yadā tv arthiguruprājñabhṛtyādīn avanīpatiḥ /
+anugṛhṇāti dānena tadā sa dhanadaḥ smṛtaḥ // NarS_v18.29
+
+tasmāt taṃ nāvajānīyān nākrośen na viśeṣayet /
+ājñāyāṃ cāsya tiṣṭheta mṛtyuḥ syāt tadvyatikramāt // NarS_v18.30
+
+tasya vṛttiḥ prajārakṣā vṛddhaprājñopasevanam /
+darśanaṃ vyavahārāṇām ātmanaś cābhirakṣaṇam // NarS_v18.31
+
+brāhmaṇān upaseveta nityaṃ rājā samāhitaḥ /
+saṃyuktaṃ brāhmaṇaiḥ kṣatraṃ mūlaṃ lokābhirakṣaṇe // NarS_v18.32
+
+brāhmaṇasyāparīhāro rājanyāsanam agrataḥ /
+prathamaṃ darśanaṃ prātaḥ sarvebhyaś cābhivādanam // NarS_v18.33
+
+agraṃ navebhyaḥ sasyebhyo mārgadānaṃ ca gacchataḥ /
+bhaikṣahetoḥ parāgāre praveśas tv anivāritaḥ // NarS_v18.34
+
+samitpuṣpodakādāneṣv asteyaṃ saparigrahāt /
+anākṣepaḥ parebhyaś ca saṃbhāṣaś ca parastriyā // NarS_v18.35
+
+nadīṣv avetanas tāraḥ pūrvam uttaraṇaṃ tathā /
+tareṣv aśulkadānaṃ ca na ced vāṇijyam asya tat // NarS_v18.36
+
+vartamāno 'dhvani śrānto gṛhṇann anivasan svayam /
+brāhmaṇo nāparādhnoti dvāv ikṣū pañca mūlakān // NarS_v18.37
+
+nābhiśastān na patitān na dviṣo na ca nāstikāt /
+na sopadhān nānimittaṃ na dātāraṃ prapīḍya ca // NarS_v18.38
+
+arthānāṃ bhūribhāvāc ca deyatvāc ca mahātmanām /
+śreyān pratigraho rājñāṃ anyeṣāṃ brāhmaṇād ṛte // NarS_v18.39
+
+brāhmaṇaś caiva rājā ca dvāv apy etau dhṛtavratau /
+naitayor antaraṃ kiṃcit prajādharmābhirakṣaṇāt // NarS_v18.40
+
+dharmajñasya kṛtajñasya rakṣārthaṃ śāsato 'śucīn /
+medhyam eva dhanaṃ prāhus tīkṣṇasyāpi mahīpateḥ // NarS_v18.41
+
+śucīnām aśucīnāṃ ca saṃnipāto yathāmbhasām /
+samudre samatāṃ yāti tadvad rājño dhanāgamaḥ // NarS_v18.42
+
+yathā cāgnau sthitaṃ dīpte śuddhim āyāti kāñcanam /
+evam evāgamā sarve śuddhim āyānti rājasu // NarS_v18.43
+
+ya eva kaścit svadravyaṃ brāhmaṇebhyaḥ prayacchati /
+tad rājñāpy anumantavyam eṣa dharmaḥ sanātanaḥ // NarS_v18.44
+
+anyaprakārād ucitād bhūmeḥ ṣaḍbhāgasaṃjñitāt /
+baliḥ sa tasya vihitaḥ prajāpālanavetanam // NarS_v18.45
+
+śakyaṃ tat punar ādātuṃ yad abrāhmaṇasātkṛtam /
+brāhmaṇāya tu yad dattaṃ na tasya haraṇaṃ punaḥ // NarS_v18.46
+
+dānam adhyayanaṃ yajñas tasya karma trilakṣaṇam /
+yājanādhyāpane vṛttis tṛtīyas tu pratigrahaḥ // NarS_v18.47
+
+svakarmaṇi dvijas tiṣṭhed vṛttim āhārayet kṛtām /
+nāsadbhyaḥ pratigṛhṇīyād varṇebhyo niyame 'sati // NarS_v18.48
+
+aśucir vacanād yasya śucir bhavati puruṣaḥ /
+śuciś caivāśuciḥ sadyaḥ kathaṃ rājā na daivatam // NarS_v18.49
+
+vidur ya eva devatvaṃ rājño hy amitatejasaḥ /
+tasya te pratigṛhṇanto na lipyante dvijātayaḥ // NarS_v18.50
+
+loke 'smin maṅgalāny aṣṭau brāhmaṇo gaur hutāśanaḥ /
+hiraṇyaṃ sarpir āditya āpo rājā tathāṣṭamaḥ // NarS_v18.51
+
+etāni satataṃ paśyen namasyed arcayec ca tān /
+pradakṣiṇaṃ ca kurvīta tathā hy āyur na hīyate // NarS_v18.52
+
+
+3. pariśiṣṭam
+
+
+19. steyam
+
+dvividhās taskarā jñeyāḥ paradravyāpahāriṇaḥ /
+prakāśāś cāprakāśāś ca tān vidyād ātmavān nṛpaḥ // NarS_p19.1
+
+prakāśavañcakās tatra kūṭamānatulāśritāḥ /
+utkoṭakāḥ sāhasikāḥ kitavāḥ paṇyayoṣitaḥ // NarS_p19.2
+
+pratirūpakarāś caiva maṅgaloddeśavṛttayaḥ /
+ity evamādayo jñeyāḥ prakāśalokavañcakāḥ // NarS_p19.3
+
+aprakāśāś ca vijñeyā bahirabhyantarāśritāḥ /
+suptān pramattāṃś ca narā muṣṇanty ākramya caiva te // NarS_p19.4
+
+deśagrāmagṛhaghnāś ca pathighnā granthimocakāḥ /
+ity evamādayo jñeyā aprakāśāś ca taskarāḥ // NarS_p19.5
+
+tān viditvā sukuśalaiś cārais tatkarmakāribhiḥ /
+anusṛtya gṛhītavyā gūḍhapraṇihitair naraiḥ // NarS_p19.6
+
+sabhāprapāpūpaśālāveśamadyānnavikrayāḥ /
+catuṣpathāś caityavṛkṣāḥ samājāḥ prekṣaṇāni ca // NarS_p19.7
+
+śūnyāgārāṇy araṇyāni devatāyatanāni ca /
+cārair vineyāny etāni cauragrahaṇatatparaiḥ // NarS_p19.8
+
+tathaivānye praṇihitāḥ śraddheyāś citravādinaḥ /
+carā hy utsāhayeyus tāṃs taskarān pūrvataskarāḥ // NarS_p19.9
+
+annapānasamādānaiḥ samājotsavadarśanaiḥ /
+tathā cauryāpadeśaiś ca kuryus teṣāṃ samāgamam // NarS_p19.10
+
+ye tatra nopasarpanti sṛtāḥ praṇihitā api /
+te 'bhisārya gṛhītavyāḥ saputrapaśubāndhavāḥ // NarS_p19.11
+
+yāṃs tatra caurān gṛhṇīyāt tān vitāḍya viḍambya ca /
+avaghuṣya ca sarvatra vadhyāś citravadhena te // NarS_p19.12
+
+na tv ahoḍhānvitāś caurā rājñā vadhyā hy anāgamāḥ /
+sahoḍhān sopakaraṇān kṣipraṃ caurān praśāsayet // NarS_p19.13
+
+svadeśaghātino ye syus tathā panthāvarodhinaḥ /
+teṣāṃ sarvasvam ādāya bhūyo nindāṃ prakalpayet // NarS_p19.14
+
+ahoḍhān vimṛśec caurān gṛhītān pariśaṅkayā /
+bhayopadhābhiś citrābhir brūyus tathā yathākṛtam // NarS_p19.15
+
+deśaṃ kālaṃ diśaṃ jātiṃ nāma vā saṃpratiśrayam /
+kṛtyaṃ karmakarā vā syuḥ praṣṭavyās te vinigrahe // NarS_p19.16
+
+varṇasvarākārabhedāt sasaṃdigdhanivedanāt /
+adeśakāladṛṣṭatvād vāsasyāpy aviśodhanāt // NarS_p19.17
+
+asadvyayāt pūrvacauryād asatsaṃsargakāraṇāt /
+leśair apy avagantavyā na hoḍhenaiva kevalam // NarS_p19.18
+
+dasyuvṛtte yadi nare śaṅkā syāt taskare 'pi vā /
+yadi spṛśyeta leśena kāryaḥ syāc chapathaḥ tataḥ // NarS_p19.19
+
+caurāṇāṃ bhaktadā ye syus tathāgnyudakadāyakāḥ /
+āvāsadā deśikadās tathaivottaradāyakāḥ // NarS_p19.20
+
+kretāraś caiva bhāṇḍānāṃ pratigrāhiṇa eva ca /
+samadaṇḍāḥ smṛtā hy ete ye ca pracchādayanti tān // NarS_p19.21
+
+rāṣṭreṣu rāṣṭrādhikṛtāḥ sāmantāś caiva coditāḥ /
+abhyāghāteṣu madhyasthā yathā caurās tathaiva te // NarS_p19.22
+
+gocare yasya muṣyeta tena caurāḥ prayatnataḥ /
+mṛgyā dāpyo 'nyathā moṣaṃ padaṃ yadi na nirgatam // NarS_p19.23
+
+nirgate tu pade tasmin naṣṭe 'nyatra nipātite /
+sāmantān mārgapālāṃś ca dikpālāṃś caiva dāpayet // NarS_p19.24
+
+gṛhe vai muṣite rājā cauragrāhāṃs tu dāpayet /
+ārakṣakān rāṣṭrikāṃś ca yadi cauro na labhyate // NarS_p19.25
+
+yadi vā dāpyamānānāṃ tasmin moṣe tu saṃśayaḥ /
+muṣitaḥ śapathaṃ śāpyo moṣe vaiśodhyakāraṇāt // NarS_p19.26
+
+acaure dāpite moṣaṃ cauryavaiśodhyakāraṇāt /
+caure labdhe labheyus te dviguṇaṃ pratipāditāḥ // NarS_p19.27
+
+caurahṛtaṃ prayatnena sarūpaṃ pratipādayet /
+tadabhāve tu mūlyaṃ syād daṇḍaṃ dāpyaś ca tatsamam // NarS_p19.28
+
+kāṣṭhakāṇḍatṛṇādīnāṃ mṛnmayānāṃ tathaiva ca /
+veṇuvaiṇavabhāṇḍānāṃ vetrasnāyvasthicarmaṇām // NarS_p19.29
+
+śākaharitamūlānāṃ haraṇe phalapuṣpayoḥ /
+gorasekṣuvikārāṇāṃ tathā lavaṇatailayoḥ // NarS_p19.30
+
+pakvānnānāṃ kṛtānnānāṃ madyānām āmiṣasya ca /
+sarveṣām alpamūlyānāṃ mūlyāt pañcaguṇo damaḥ // NarS_p19.31
+
+tulādharimameyānāṃ gaṇimānāṃ ca sarvaśaḥ /
+ebhyas tūtkṛṣṭamūlyānāṃ mūlyād daśaguṇo damaḥ // NarS_p19.32
+
+dhānyaṃ daśabhyaḥ kumbhebhyo harato 'bhyadhikaṃ vadhaḥ /
+nyūnaṃ tv ekādaśaguṇaṃ daṇḍaṃ dāpyo 'bravīn manuḥ // NarS_p19.33
+
+suvarṇarajatādīnām uttamānāṃ ca vāsasām /
+ratnānāṃ caiva mukhyānāṃ śatād abhyadhikaṃ vadhaḥ // NarS_p19.34
+
+puruṣaṃ harataḥ pātyo daṇḍa uttamasāhasaḥ /
+sarvasvaṃ strīṃ tu harataḥ kanyāṃ tu harato vadhaḥ // NarS_p19.35
+
+mahāpaśūn stenayato daṇḍa uttamasāhasaḥ /
+madhyamo madhyamapaśuṃ pūrvaḥ kṣudrapaśuṃ haran // NarS_p19.36
+
+caturviṃśāvaraḥ pūrvaḥ paraḥ ṣaṇṇavatir bhavet /
+śatāni pañca tu paro madhyamo dviśatāvaraḥ // NarS_p19.37
+
+sahasraṃ tūttamo jñeyaḥ paraḥ pañcaśatāvaraḥ /
+trividhaḥ sāhaseṣv eva daṇḍaḥ proktaḥ svayaṃbhuvā // NarS_p19.38
+
+prathame granthibhedānām aṅgulyaṅguṣṭhayor vadhaḥ /
+dvitīye caiva taccheṣaṃ daṇḍaḥ pūrvaś ca sāhasaḥ // NarS_p19.39
+
+goṣu brāhmaṇasaṃsthāsu sthūrāyāś chedanaṃ bhavet /
+dāsīṃ tu harato nityam ardhapādavikartanam // NarS_p19.40
+
+yena yena viśeṣeṇa stenāṅgena viceṣṭate /
+tat tad evāsya chettavyaṃ tan manor anuśāsanam // NarS_p19.41
+
+garīyasi garīyāṃsam agarīyasi vā punaḥ /
+stene nipātayed daṇḍaṃ na yathā prathame tathā // NarS_p19.42
+
+daśa sthānāni daṇḍasya manuḥ svāyaṃbhuvo 'bravīt /
+triṣu varṇeṣu yāni syur brāhmaṇo rakṣitaḥ sadā // NarS_p19.43
+
+upastham udaraṃ jihvā hastau pādau ca pañcamam /
+cakṣur nāsā ca karṇau ca dhanaṃ dehas tathaiva ca // NarS_p19.44
+
+aparādhaṃ parijñāya deśakālau ca tattvataḥ /
+sārānubandhāv ālokya daṇḍān etān prakalpayet // NarS_p19.45
+
+na mitrakāraṇād rājñā vipulād vā dhanāgamāt /
+utsraṣṭavyaḥ sāhasikas tyaktātmā manur abravīt // NarS_p19.46
+
+yāvān avadhyasya vadhe tāvān vadhyasya mokṣaṇe /
+bhavaty adharmo nṛpater dharmas tu viniyacchataḥ // NarS_p19.47
+
+na jātu brāhmaṇaṃ hanyāt sarvapāpeṣv api sthitam /
+nirvāsaṃ kārayet kāmam iti dharmo vyavasthitaḥ // NarS_p19.48
+
+sarvasvaṃ vā hared rājā caturthaṃ vāvaśeṣayet /
+bhṛtyebhyo 'nusmaran dharmaṃ prājāpatyam iti sthitiḥ // NarS_p19.49
+
+brāhmaṇasyāparādhe tu catuḥsv aṅko vidhīyate /
+gurutalpe surāpāne steye brāhmaṇahiṃsane // NarS_p19.50
+
+gurutalpe bhagaḥ kāryaḥ surāpāne dhvajaḥ smṛtaḥ /
+steye tu śvapadaṃ kṛtvā śikhipittena kūṭayet // NarS_p19.51
+
+viśirāḥ puruṣaḥ kāryo lalāṭe bhrūṇaghātinaḥ /
+asaṃbhāṣyaś ca kartavyas tan manor anuśāsanam // NarS_p19.52
+
+rājā stenena gantavyo muktakeśena dhāvatā /
+ācakṣāṇena tatsteyam evaṃ kartāsmi śādhi mām // NarS_p19.53
+
+anenā bhavati stenaḥ svakarmapratipādanāt /
+rājānaṃ tat spṛśed ena utsṛjantaṃ sakilbiṣam // NarS_p19.54
+
+rājabhir dhṛtadaṇḍās tu kṛtvā pāpāni mānavāḥ /
+nirmalāḥ svargam āyānti santaḥ sukṛtino yathā // NarS_p19.55
+
+śāsanād vā vimokṣād vā steno mucyate kilbiṣāt /
+aśāsanāt tu tad rājā stenasyāpnoti kilbiṣam // NarS_p19.56
+
+gurur ātmavatāṃ śāstā śāstā rājā durātmanām /
+atha pracchannapāpānāṃ śāstā vaivasvato yamaḥ // NarS_p19.57
+
+aṣṭāpādyaṃ tu śūdrasya steye bhavati kilbiṣam /
+dvir aṣṭāpādyaṃ vaiśyasya dvātriṃśat kṣatriyasya tu // NarS_p19.58
+
+brāhmaṇasya catuḥṣaṣṭīty evaṃ svāyaṃbhuvo 'bravīt /
+tatrāpi ca viśeṣeṇa vidvatsv abhyadhikaṃ bhavet // NarS_p19.59
+
+śārīraś cārthadaṇḍaś ca daṇḍas tu dvividhaḥ smṛtaḥ /
+śārīrā daśadhā proktā arthadaṇḍās tv anekadhā // NarS_p19.60
+
+kākaṇyādis tv arthadaṇḍaḥ sarvasvāntas tathaiva ca /
+śārīras tv avarodhādir jīvitāntas tathaiva ca // NarS_p19.61
+
+kākaṇyādis tu yo daṇḍaḥ sa tu māṣāparaḥ smṛtaḥ /
+māṣāvarādyo yaḥ proktaḥ kārṣāpaṇaparas tu saḥ // NarS_p19.62
+
+kārṣāpaṇāparādyas tu catuḥkārṣāpaṇaḥ paraḥ /
+dvyavaro 'ṣṭāparaś cānyas tryavaro dvādaśottaraḥ // NarS_p19.63
+
+kārṣāpaṇādyā ye proktāḥ sarve te syuś caturguṇāḥ /
+evam anye tu vijñeyāḥ prāk ca te pūrvasāhasāt // NarS_p19.64
+
+kārṣāpaṇo dakṣiṇasyāṃ diśi raupyaḥ pravartate /
+paṇair nibaddhaḥ pūrvasyāṃ ṣoḍaśaiva paṇāḥ sa tu // NarS_p19.65
+
+māṣo viṃśatibhāgas tu jñeyaḥ kārṣāpaṇasya tu /
+kākaṇī tu caturbhāgo māṣasya ca paṇasya ca // NarS_p19.66
+
+pāñcanadyāḥ pradeśe tu saṃjñā yā vyāvahārikī /
+kārṣāpaṇapramāṇaṃ tu nibaddham iha vai tayā // NarS_p19.67
+
+kārṣāpaṇo 'ṇḍikā jñeyāś catasras tās tu dhānakaḥ /
+taddvādaśa suvarṇasya dīnāraś citrakaḥ smṛtaḥ // NarS_p19.68
+
+vārttāṃ trayīṃ cāpy atha daṇḍanītim rājānuvartet saṃtatāpramattaḥ /
+hanyād upāyair nipuṇair gṛhītān pure ca rāṣṭre nigṛhṇīyāt pāpān // NarS_p19.69
+
+
+20. divyāni
+
+yadā sākṣī na vidyate vivāde vadatāṃ nṛṇām /
+tadā divyaiḥ parīkṣeta śapathaiś ca pṛthagvidhaiḥ // NarS_p20.1
+
+satyaṃ vāhanaśastrāṇi gobījarajatāni ca /
+devatāpitṛpādāś ca dattāni sukṛtāni ca // NarS_p20.2
+
+mahāparādhe divyāni dāpayet tu mahīpatiḥ /
+alpeṣu ca naraḥ śreṣṭhaḥ śapathaiḥ śāpayen naram // NarS_p20.3
+
+ete hi śapathāḥ proktāḥ sukarās svalpasaṃśaye /
+sāhaseṣv abhiśāpe ca vidhir divyaḥ prakīrtitaḥ // NarS_p20.4
+
+saṃdigdhe 'rthe 'bhiyuktānāṃ pracchanneṣu viśeṣataḥ /
+divyaḥ pañcavidho jñeya ity āha bhagavān manuḥ // NarS_p20.5
+
+dhaṭo 'gnir udakaṃ caiva viṣaṃ kośaś ca pañcamaḥ /
+uktāny etāni divyāni dūṣitānāṃ viśodhane // NarS_p20.6
+
+saṃdigdheṣv abhiyuktānāṃ viśuddhyarthaṃ mahātmanā /
+nāradena punaḥ proktāḥ satyānṛtavibhāvanāḥ /
+vādino 'numatenainaṃ kārayen nānyathā budhaḥ // NarS_p20.7
+
+caturhastau tulāpādāv ucchrayeṇa prakīrtitau /
+ṣaḍḍhastaṃ tu tayor dṛṣṭaṃ pramāṇaṃ parimāṇataḥ // NarS_p20.8
+
+pādayor antaraṃ hastaṃ bhaved adhyardham eva ca /
+śikyadvayaṃ samāsajya dhaṭe karkaṭake dṛḍhe // NarS_p20.9
+
+tulayitvā naraṃ pūrvaṃ cihnaṃ kuryād dhaṭasya tu /
+kakṣāsthānena taṃ tulyam avatārya tato dhaṭāt // NarS_p20.10
+
+samayaiḥ parigṛhyainaṃ punar āropayen naraḥ /
+tasminn evaṃ kṛte sā cet kakṣe sthāpya suniścalā // NarS_p20.11
+
+tulito yadi vardheta śuddhaḥ syān nātre saṃśayaḥ /
+samo vā hīyamāno vā na viśuddho bhaven naraḥ // NarS_p20.12
+
+dharmaparyāyavacanair dhaṭa ity abhidhīyase /
+tvaṃ vetsi sarvabhūtānāṃ pāpāni sukṛtāni ca /
+tvam eva dhaṭa jānīṣe na vidur yāni mānuṣāḥ // NarS_p20.13
+
+vyavahārābhiśasto 'yaṃ mānuṣas tulyate tathā /
+tad eva saṃśayāpannaṃ dharmatas trātum arhasi // NarS_p20.14
+
+ata ūrdhvaṃ pravakṣyāmi lohasya vidhim uttamam /
+dvātriṃśadaṅgulāni tu maṇḍalān maṇḍalāntaram // NarS_p20.15
+
+aṣṭābhir maṇḍalair evam aṅgulānāṃ śatadvayam /
+caturviṃśat samākhyātaṃ saṃkhyātattvārthadarśibhiḥ // NarS_p20.16
+
+kalpitair maṇḍalair evam uṣitasya śucer api /
+saptāśvatthasya pattrāṇi sūtreṇāveṣṭya hastayoḥ // NarS_p20.17
+
+vidadhyāt taptalohasya pañcāśatpalam saṃmitam /
+hastābhyāṃ piṇḍam ādāya śanaiḥ saptapadaṃ vrajet // NarS_p20.18
+
+na maṇḍalam atikrāmen nāpy arvāk pādayet padam /
+na ca pātayetāprāptaḥ yāvadbhūmir prakalpitā // NarS_p20.19
+
+tīrtvānena vidhānena maṇḍalāni samāhitaḥ /
+adagdhaḥ sarvato yas tu sa viśuddho bhaven naraḥ // NarS_p20.20
+
+bhayād vā pātayate yas tv adagdho yo vibhāvyate /
+punas taṃ hārayel lohaṃ sthitir eṣā purātanī /
+anena vidhinā kāryo hutāśasamayaḥ smṛtaḥ // NarS_p20.21
+
+tvam agne sarvabhūtānām antaścarasi sākṣivat /
+sukṛtaṃ duḥkṛtaṃ loken(a) ajñātaṃ vidyate tvayā // NarS_p20.22
+
+pracchannāni manuṣyāṇāṃ pāpāni sukṛtāni ca /
+yathāvad eva jānīṣe na vidur yāni mānuṣāḥ // NarS_p20.23
+
+vyavahārābhiśasto 'yaṃ puruṣaḥ śuddhim icchati /
+tad enaṃ saṃśayāpannaṃ dharmatas trātum arhasi // NarS_p20.24
+
+ataḥ paraṃ pravakṣyāmi toyasya vidhim uttamam /
+nātikrūreṇa dhanuṣā prerayet sāyakatrayam // NarS_p20.25
+
+madhyamas tu śaro grāhyaḥ puruṣeṇa yavīyasā /
+pratyānītasya tasyātha sa viśuddho bhaven naraḥ // NarS_p20.26
+
+anyathā na viśuddhaḥ syād ekāṅgam api darśayet /
+sthānād anyatra vā gacched yasmin pūrvaṃ niveṣitaḥ // NarS_p20.27
+
+striyas tu na balāt kāryā na pumān api durbalaḥ /
+bhīrutvād yoṣito mṛtyuḥ kṛśasyāpi balāt kuryāt /
+sahasā prāpnuyāt sarvāṃs tasmād etān na majjayet // NarS_p20.28
+
+toyamadhye manuṣyasya gṛhītvorū susaṃyataḥ // NarS_p20.29
+
+satyānṛtavibhāgasya toyāgnī spaṣṭakṛttamau /
+yataś cāgnir abhūd asmāt tatas toyaṃ viśiṣyate // NarS_p20.30
+
+kriyate dharmatattvajñair dūṣitānāṃ viśodhanam /
+tasmāt satyena bhagavañ jaleśa trātum arhasi // NarS_p20.31
+
+ataḥ paraṃ pravakṣyāmi viṣasya vidhim uttamam /
+tulayitvā viṣaṃ pūrvaṃ deyam etad dhimāgame // NarS_p20.32
+
+na pūrvāhṇe na madhyāhne na saṃdhyāyāṃ tu dharmavit /
+śaradgrīṣmavasanteṣu varṣāsu ca na dāpayet // NarS_p20.33
+
+bhagnaṃ ca dāritaṃ caiva dhūpitaṃ miśritaṃ tathā /
+kālakūṭam alaṃbuṃ ca viṣaṃ yatnena varjayet // NarS_p20.34
+
+śārṅgahaimavataṃ śastaṃ gandhavarṇarasānvitam /
+mahādoṣavate deyaṃ rājñā tattvabubhutsayā // NarS_p20.35
+
+na bālāturavṛddheṣu naiva svalpāparādhiṣu /
+viṣasya tu yavān sapta dadyāc chodye ghṛtaplutān // NarS_p20.36
+
+viṣasya palaṣaḍbhāgād bhāgo viṃśatimas tu yaḥ /
+tam aṣṭabhāgahīnaṃ tu śodhye dadyād ghṛtaplutam // NarS_p20.37
+
+yathoktena vidhānena viprān sprṣṭvānumoditaḥ /
+sopavāsaś ca khādeta devabrāhmaṇasaṃnidhau // NarS_p20.38
+
+viṣaṃ vegaklamāpetaṃ sukhena yadi jīryate /
+viśuddham iti taṃ jñātvā rājā satkṛtya mokṣayet // NarS_p20.39
+
+tvaṃ viṣa brahmaṇaḥ putraḥ satyadharmaratau sthitaḥ /
+śodhayainaṃ naraṃ pāpāt satyenāsyāmṛtībhava // NarS_p20.40
+
+ataḥ paraṃ pravakṣyāmi kośasya vidhim uttamam // NarS_p20.41
+
+pūrvāhṇe sopavāsasya snātasyārdrapaṭasya ca /
+saśūkasyāvyasaninaḥ kośapānaṃ vidhīyate // NarS_p20.42
+
+yadbhaktaḥ so 'bhiyuktaḥ syāt taddaivatyaṃ tu pāyayet /
+saptāhād yasya dṛśyate dvisaptāhena vā punaḥ /
+pratyātmikaṃ tu yatkiṃcit saiva tasya vibhāvanā // NarS_p20.43
+
+dvisaptāhāt paraṃ yasya mahad vā vaikṛtaṃ bhavet /
+nābhiyojyaḥ sa viduṣāṃ kṛtakālavyatikramāt // NarS_p20.44
+
+mahāparādhe nirdharme kṛtaghne klībakutsite /
+nāstikavrātyadāseṣu kośapānaṃ vivarjayet // NarS_p20.45
+
+yathoktena prakāreṇa pañca divyāni dharmavit /
+dadyād rājābhiyuktānāṃ pretya ceha ca nandati // NarS_p20.46
+
+na viṣaṃ brāhmaṇe dadyān na lohaṃ kṣatriyo haret /
+na nimajjyāpsu vaiśyaś ca śūdraḥ kośaṃ na pāyayet // NarS_p20.47
+
+varṣāsu na viṣaṃ dadyāt hemante nāpsu majjayet /
+na lohaṃ hārayed grīṣme na kośaṃ pāyayen niśi // NarS_p20.48
+
+nāradīyadharmaśāstraḥ samāptaḥ.

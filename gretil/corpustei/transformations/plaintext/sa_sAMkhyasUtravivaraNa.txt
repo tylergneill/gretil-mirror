@@ -1,0 +1,312 @@
+Sāṃkhyasūtravivaraṇa a commentary on the Tattvasamāsa, an abstract of Sāṃkhya philosophy in (23-) 25 sūtras.
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_sAMkhyasUtravivaraNa.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Dhaval Patel
+## Contribution: Dhaval Patel
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Vindhyesvari Prasada Dvivedin in: Samkhyasangrahah (Chowkhamba Sanskrit Series, 50,2 [fasc. 286], pp. 105-116).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Sāṃkhyasūtravivaraṇa = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from tsc_vivu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Samkhyasutravivarana,
+a commentary on the Tattvasamāsa, an abstract of Sāṃkhya philosophy in (23-) 25 sūtras.
+Based on the ed. by Vindhyesvari Prasada Dvivedin in: Samkhyasangrahah
+(Chowkhamba Sanskrit Series, 50,2 [fasc. 286], pp. 105-116)
+Input by Dhaval Patel
+BOLD for Tattvasamāsa (added; not in the printed text)
+_______________________________________________________________
+PRELIMINARY NOTE:
+The division of the Tattvasamāsa underlying the Sāṃkhyasūtravivaraṇa is as follows
+(for alternative divisions see other commentaries):
+aṣṭau prakṛtayaḥ || Tats_1 ||
+
+ṣoḍaśa vikārāḥ || Tats_2 ||
+
+puruṣaḥ || Tats_3 ||
+
+traiguṇyam || Tats_4 ||
+
+saṃcaraḥ || Tats_5 || pratisaṃcaraḥ || Tats_6 ||
+
+adhyātmam || Tats_7 || adhibhūtam || Tats_8 || adhidaivam || Tats_9 ||
+
+pañcābhibuddhayaḥ || Tats_10 ||
+
+pañca karmayonayaḥ || Tats_11 ||
+
+pañca vāyavaḥ || Tats_12 ||
+
+pañca karmātmānaḥ || Tats_13 ||
+
+pañcaparvāvidyā || Tats_14 ||
+
+aṣṭaviṃśatidhāśaktiḥ || Tats_15 ||
+
+navadhā tuṣṭiḥ || Tats_16 || aṣṭadhā siddhiḥ || Tats_17 ||
+
+daśa mūlikārthāḥ || Tats_18 ||
+
+anugrahasargaḥ || Tats_19 ||
+
+caturdaśavidho bhūtasargaḥ || Tats_20 ||
+
+trividho bandhaḥ || Tats_21 ||
+
+trividho mokṣaḥ || Tats_22 ||
+
+trividhaṃ pramāṇam || Tats_23 ||
+
+_______________________________________________________________
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+sāṃkhyasūtravivaraṇam |
+
+śrīkapilāya namaḥ |
+
+prakṛtiṃ puruṣaṃ natvā sāṃkhyasūtre vidhīyate /
+saṃkṣepato vivaraṇamavivekāpanuttaye //
+
+iha khalu bhagavān kapilo munirāsuraye 'nukampayā pañcaviṃśatitattvānyupadiśya sūtrayāmāsa |
+
+[aṣṭau prakṛtayaḥ || tats_1 ||]
+
+aṣṭau prakṛtaya ityādi / kāḥ punastā ityucyante / pradhānaṃ mahānahaṃkārastanmātrāṇi ca / pradhānaṃ prakṛtiravyaktamavyākṛtaṃ cetyanarthāntaram / mahān mahattatvaṃ buddhiradhyavasāyalakṣaṇam / ahaṃkāro 'bhimānalakṣaṇo vaikṛtikastaijaso bhūtādiśceti trividhaḥ / tanmātrāṇi tu pañca śabdatanmātramākāśahetuḥ / sparśatanmātraṃ vāyuyoniḥ / rūpatanmātraṃ tejoyoniḥ / rasatanmātramapprakṛtiḥ / gandhatanmātraṃ pṛthivīhetuḥ / iti pañcatanmātrāṇi ityaṣṭau prakṛtayaḥ /
+
+[ṣoḍaśa vikārāḥ || tats_2 ||]
+
+ke punarvikārāḥ kati | ṣoḍaśavikārāḥ | ekādaśendriyāṇi pañca mahābhūtāni ca | 
+tatra śrotratvakcakṣūrasanaghrāṇākhyāni buddhīndriyāṇi śabdasparśarūparasagandhālocanavṛttīni |
+vākpāṇipādapāyūpasthāni karmendriyāṇi vacanādānaviharaṇotsargānandavṛttīni |
+jñānakriyāśaktidvayātmakaṃ saṅkalpavikalpalakṣaṇaṃ mana ityekādaśendriyāṇi |
+bhūtāni cākāśavāyutejaḥsalilapṛthivīlakṣaṇāni pañceti ṣoḍaśavikārāḥ ||
+
+
+[puruṣaḥ || tats_3 ||]
+
+atha kaḥ puruṣaḥ ityucyate |
+puruṣo 'nekastriguṇarahito vivekī aviṣayo 'sādhāraṇo 'prasavadharmā cetanaḥ sākṣī kevalo madhyastho draṣṭā 'kartā ca ||
+
+atha ke punastrayo guṇā ityucyante |
+
+[traiguṇyam || tats_4 ||]
+
+traiguṇyaṃ sattvaṃ rajastama iti | 
+traya eva guṇāstraiguṇyam |
+sattvaṃ nāma pāṭavamārdavalāghavaprasannatābhisaṅgaprītituṣṭyanīhāsantoṣādilakṣaṇamanantabhedaṃ samāsataḥ sukhāvaham |
+rajo nāma śokatāpakhedastambhodgamodvegaroṣamānādilakṣaṇamanantabhedaṃ samāsato duḥkhāvaham |
+tamo nāmācchādanāvaraṇabībhatsadainyagauravālasyanidrāpramādādilakṣaṇamanantabhedaṃ samāsato mohātmakaṃ etat traiguṇyaṃ vyākhyātam ||
+
+
+sattvaṃ prakāśakaṃ vindyādrajo vindyāt pravartakam /
+vināśakaṃ tamo vindyāt traiguṇyaṃ nāma sañjñitam //
+
+[saṃcaraḥ || tats_5 ||]
+
+[pratisaṃcaraḥ || tats_6 ||]
+
+atrāha kaḥ sañcaraḥ pratisañcaraśceti | ucyate | utpattiḥ sañcaraḥ | pralayaḥ pratisañcaraḥ | tatrotpattirnāmāvyaktāt samupadiṣṭāt sarvajagataḥ pareṇa rūpeṇādhiṣṭhānātmakāt mahān mahato 'haṃkāraḥ | sa ca trividhaḥ | vaikṛtiko bhūtādistaijasaśceti | tatra vaikṛtādindriyāṇyutpadyante bhūtādestanmātrāṇi taijasādubhayam indriyāṇi tanmātrāṇi ceti | tanmātrebhyo bhūtāni | ayaṃ sañcaraḥ | pratisañcaro nāma bhūtāni tanmātreṣu līyante | tanmātrāṇīndriyāṇi cāhaṃkāre | ahaṃkāro buddhau | 
+buddhiravyakte |
+tato 'vyaktaṃ tu kvacinna līyate kasmāt anutpannatvāt |
+ityevaṃ pratisañcaraḥ |
+evametau sañcarapratisañcarau vyākhyātau ||
+
+
+[adhyātmam || tats_7 ||]
+
+[adhibhūtam || tats_8 ||]
+
+[adhidaivam || tats_9 ||]
+
+atrāha kiṃvidhamadhyātmamadhibhūtamadhidaivataṃ ca | atrocyate | buddhiradhyātmam | bodhayitavyamadhibhūtam | brahmā tatrādidaivatam | ahaṃkāro 'dhyātmam | abhimantavyamadhibhūtam | rudrastatrādhidaivatam | manodhyātmaṃ saṃkalpamadhibhūtam | candrastatrādidaivatam | śrotramadhyātmam | sparśayitavyamadhibhūtam | vāyustatrādhidaivatam | cakṣuradhyātmam | darśayitavyamadhibhūtam | sūryastatrādidaivatam | jihvādhyātmam | rasayitavyamadhibhūtam | varuṇastatrādhidaivatam | nāsādhyātmam | ghrātavyamadhibhūtam | pṛthivī tatrādhidaivatam | vāgadhyātmam | vaktavyamadhibhūtam | agnistatrādhidaivatam | pāṇiradhyātmam | ādātavyamadhibhūtam | indrastatrādhidaivatam | pādāvadhyātmam | gantavyamadhibhūtam | viṣṇustatrādhidaivatam | pāyuradhyātmam | utsraṣṭāvyamadhibhūtam | mitrastatrādhidaivatam | upasthamadhyātmam | ānandayitavyamadhibhūtam | 
+prajāpatistatrādhidaivatam |
+evameva trayodaśakaraṇasyādhyātmamadhibhūtamadhidaivaṃ ca vyākhyātam |
+kāni catvārītyata āha ceti |
+trīṇi guṇarūpāṇi caturthamadhidaivatamityarthaḥ ||
+
+
+catvāri yo vedayate yathāvad guṇasvarūpāṇyadhidaivataṃ ca /
+vimuktapāpmā gatadoṣasaṅgo guṇāṃstu bhuṅkte na guṇaiḥ sa bhujyate //
+
+[pañcābhibuddhayaḥ || tats_10 ||]
+
+atha kāstā abhibuddhaya ityucyante | pañcābhibuddhayaḥ | buddhirabhimāna icchā kartavyaṃ tatkriyā ceti | abhimukhī buddhirabhibuddhiḥ | idaṃ karaṇīyametyetadadhyavasāyo buddhiḥ kriyātmaparāmarśasvarūpapratyayaḥ | abhimukho māno 'haṃ karomītyahaṃkāro 'bhimānaḥ | buddhikriyā icchā vāñchā | 
+kartavyaṃ saṃkalpo manaso vṛttiḥ |
+kriyā etadvastusvarūpamiti kartavyālocanaṃ yadbuddhīndriyāṇāṃ sā kriyā |
+itthametat kartavyamiti yatpravṛttiḥ karmendriyāṇāṃ sā kriyeti |
+evametāha pañcābhibuddhayo vyākhyātāḥ ||
+
+
+[pañca karmayonayaḥ || tats_11 ||]
+
+atha kāḥ pañcakarmayonayaḥ ucyante | dhṛtiḥ śraddhā sukhā avividiṣā vividiṣā ceti pañca karmayonayaḥ |
+
+vāci karmaṇi kāye ca pratītiryābhirajyate /
+tanniṣṭhastatpratiṣṭhaśca dhṛteretaddhi lakṣaṇam //
+
+anasūyā brahmacaryaṃ yajanaṃ yājanaṃ tapaḥ /
+pratigraho 'trahomaśca śraddhāyā lakṣaṇaṃ smṛtam //
+
+sukhārthī yastu seveta vidyākarmatapāṃsi ca /
+prāyaścittaparo nityaṃ sukheyaṃ parikīrtitā //
+
+viṣadhūmamūrchitavadavividiṣā | vividiṣā dhyāyināṃ prajñāyoniḥ |
+
+ekatvaṃ ca pṛthaktvaṃ ca nityaṃ cedamacetanam /
+sūkṣmaṃ satkāryamakṣobhyaṃ jñeyā vividiṣā hi sā //
+
+kāryakāraṇakṣamakarā vividiṣā prākṛtikā vṛttiḥ |
+dhṛtiḥ śraddhā sukhā avividiṣā catasro bandhāya vividiṣaikā mokṣāya iti pañca karmayonayo vyākhyātāḥ ||
+
+[pañca vāyavaḥ || tats_12 ||]
+
+atrāha ke te pañcavāyavaḥ |
+ucyante |
+prāṇo 'pānaḥ samānaśca udāno vyāna eva ca /
+ityete vāyavaḥ pañca śarīreṣu śarīriṇām //
+
+tatra prāṇo nāma vāyuryo 'yaṃ mukhanāsikādhiṣṭhānaprāṇanāt krameṇānanāt prāṇa ityabhidhīyate | apāno nāma vāyurnābheradhiṣṭhātā apanayanādadhogamanāccāpāna ityabhidhīyate | 
+samāno nāma vāyurhṛdadhiṣṭhātā samanāt samagamanācca samāna ityabhidhīyate |
+udāno nāma vāyuḥ kaṇṭhādhiṣṭhātā ūrdhvaṃ gamanācca udāna ityabhidhīyate |
+vyāno nāma vāyuḥ sandhyadhiṣṭhātā prāṇādijṛmbhaṇācca vyāna ityabhidhīyate |
+iti pañcavāyavo vyākhyātāḥ ||
+
+
+[pañca karmātmānaḥ || tats_13 ||]
+
+āha ke te pañcakarmātmānaḥ ucyante | vaikārikastaijaso bhūtādiśca sānumāno niranumānaśceti | tatra vaikārikaḥ śubhakarmakartā | taijaso 'śubhakarmakartā | 
+bhūtādirmūḍhakarmakartā |
+sānumānaḥ śubhamūḍhakarmakartā |
+niranumāno 'śubhamūḍhakarmakartā |
+ityete pañcakarmakartāro vyākhyātāḥ ||
+
+
+[pañcaparvāvidyā || tats_14 ||]
+
+āha kā sā pañcaparvāvidyeti | ucyate | tamo moho mahāmohastāmisro 'ndhatāmisraśceti | tatra tamomohāvubhāvetāvaṣṭātmākau | mahāmoho daśātmakaḥ | tāmisrāndhatāmisrau cāṣṭādaśātmākau | tatra tamo nāmāṣṭāsu prakṛtiṣvavyaktabuddhyahaṃkārapañcatanmātrasañjñitāsu anātmasvātmajñānābhimānastama ityabhidhīyate | moho nāmāṇimādyaṣṭāguṇaiśvaryaprāptaye yobhimāna utpadyate sa moha ityabhidhīyate | 
+mahāmoho nāma dṛṣṭānuśravikeṣu viṣayeṣu daśasu nivṛtteṣu mukto 'hamiti manyate sa mahāmoha ityabhidhīyate |
+tāmisro nāma aṣṭaguṇaiśvarye 'ṇimādye daśavidhe ca viṣaye pratihatasya duḥkhamutpadyate 'sau tāmisra ityabhidhīyate |
+andhatāmisro nāma aṇimādyaṣṭaguṇaiśvarye daśavidhe ca viṣaye siddhe maraṇakāle ca yo viṣādaḥ pratyapadyate so 'ndhatāmisra ityabhidhīyate |
+evameṣā pañcaparvā 'vidyā dviṣaṣṭibhedā vyākhyātā ||
+
+
+[aṣṭaviṃśatidhāśaktiḥ || tats_15 ||]
+
+atrāha kāṣṭāviṃśatidhāśaktiḥ | atrocyate | ekādaśendriyavadhāḥ saptadaśabuddhivadhāḥ | eṣāṣṭāviṃśatidhāśaktiḥ | tatrendriyavadhāstāvat | badhirastvakbadhiraḥ andhaḥ jaḍajihvaḥ ajighraḥ mūkaḥ kuṇiḥ paṅguḥ napuṃsakaḥ ūrdhvavāyuyuktaḥ amanāḥ | taduktam |
+
+bādhiryaṃ kuṣṭhitāndhastvaṃ jaḍatā 'jighratā tathā /
+mūkatā kauṇyapaṅgutvaṃ klaibyodāvartamattatāḥ //
+
+etedindriyadvārā buddhereva vadhāḥ | sākṣādbuddhivadhā yathā |
+
+[navadhā tuṣṭiḥ || tats_16 ||]
+
+[aṣṭadhā siddhiḥ || tats_17 ||]
+
+navavidhatuṣṭivaikalyāt aṣṭavidhāsiddhavaikalyācca saptadaśabuddhivadhā ityaṣṭāviṃśatidhāśaktiḥ ||
+
+kā punarnavadhā tuṣṭiḥ ucyate | catasra ādyātmikyastuṣṭayaḥ bāhyāḥ pañca | ādyāḥ prakṛtyupādānakālabhāgyākhyāḥ | prakṛtyaiva muktiḥ kiṃ punaḥ sādhanairiti tuṣṭiḥ prakṛtyākhyā ambho nāma | 
+sādhanaiḥ saṃnyāsādibhirupāttaistuṣṭiḥ sādhānākhyā salilaṃ nāma |
+kālenaiva muktyādikaṃ setsyati kiṃ duḥkhaiḥ saṃnyāsādisādhanairiti tuṣṭiḥ kālākhyā 'gho nāma |
+yā tu bhāgyādeva sarvaṃ setsyati kiṃ sādhanādidhyānādikleśairiti sā bhāgyākhyā tuṣṭirnāma |
+bāhyāḥ śabdādiviṣayavairāgyāstuṣṭayaḥ arjanarakṣaṇakṣayabhogahiṃsādoṣadarśanaṃ vairāgyahetuḥ pañcavidhastadbhedena pañcatuṣṭayaḥ ||
+
+
+atha kāḥ siddhayaḥ ucyante | aṣṭau siddhayaḥ | ucyante | adhyayanaṃ tāraṃ nāma siddhiḥ | tato 'rthajñānaṃ sutāraṃ nāma | tatastarkeṇārthaparīkṣaṇaṃ tāratāraṃ nāma siddhiḥ | tataḥ parīkṣakasaṃvādanaṃ ramyakaṃ nāma | tato vivekakhyātiḥ sadāmuditaṃ nāma | 
+etāḥ pañca gauṇyaḥ siddhayaḥ |
+duḥkhatrayavighātāstāstrayo mukhyāḥ siddhayaḥ |
+pramodamuditamodanāmākhyāḥ phalamityaṣṭau siddhayaḥ |
+tuṣṭisiddhīnāṃ viparyayāt saptadaśadhā vuddhivadhāḥ ||
+
+
+[daśa mūlikārthāḥ || tats_18 ||]
+
+ke punarmaulikārthāḥ katidhā ucyante | daśadhā maulikārthāha | ekatvamarthavattvaṃ pārārthyaṃ pradhānasya | anyatvamakartṛtvaṃ bahutvaṃ puruṣasya | astitvaṃ yogo viyogaścetyubhayayoḥ | śeṣavṛttiḥ pariśiṣṭatvaṃ pralaye tadubhayayoḥ |
+
+taduktam
+pradhānāstitvamekatvamarthavattvaṃ yathārthatā /
+pārārthyaṃ ca tathā naikyaṃ viyogo yoga eva ca //
+
+śeṣavṛttirakartṛtvaṃ maulikārthāḥ smṛtā daśa //
+
+iti |
+
+[anugrahasargaḥ || tats_19 ||]
+
+atrāha ko 'nugrahasargaḥ | anugṛhṇāti pratyayabhūtādisargaṃ yaḥ sargaḥ so 'nugrahasargaḥ | tanmātrasarga evāsau viśeṣāparanāmā | ke viśeṣāḥ kiyantaśca | ucyante | liṅgadehāha sthūladehāḥ sthūlabhūtāni ca | tatra liṅgaṃ sthūladehāt pūrvamutpannamavyāhataṃ sthūlanāśe 'pyanaśvaram | 
+mahadahaṃkārendriyatanmātrātmakam |
+dharmādharmajñānājñānavairāgyāvairāgyaiśvaryānaiśvaryākhyabhāvavāsitaṃ saṃsarati |
+sthūlabhūtāni tu bhūgolasamudravahniśiśumārabrahmāṇḍavirāṭādīni |
+sthūladehāḥ ke katividhāśceti ucyate ||
+
+
+[caturdaśavidho bhūtasargaḥ || tats_20 ||]
+
+caturdaśavidho bhūtasargaḥ | tatrāṣṭāvikalpo daivastairyagyonaḥ pañcadhā mānuṣya ekavidhaḥ brāhmaḥ prājāpatyaḥ paitre gāndharvo yākṣo rākṣasaḥ paiśācāśca daivasargaḥ paśumṛgasarīsṛpasthāvarāḥ tiraścāṃ sargaḥ | brāhmaṇādijātibhede 'pi saṃsthāne viśeṣābhāvāt ekavidho mānuṣya iti caturdaśavidhāḥ sthūladehāḥ |
+
+[trividho bandhaḥ || tats_21 ||]
+
+kaḥ punarbandhaḥ katidhā ca | trividho bandhaḥ | kāḥ punastā vidhā ucyante | prākṛtiko vaikṛtiko dākṣaṇikaśca bandhaḥ | prakṛtimātmānaṃ jñātvā taccintanāt prākṛtikaḥ atrocyate pūrṇavarṣasahasraṃ tu tiṣṭhantyavyaktacintakā iti | 
+mahadādīnātmatvena jñātvā taccintanādvaikārikaḥ |
+atrocyate |
+daśamanvantarāṇīha tiṣṭhantīndriyacintakāḥ /
+bhautikāstu śataṃ pūrṇaṃ sahasraṃ cābhimānikāḥ //
+
+
+bauddhā daśasahasrāṇi tiṣṭhanti vigatajvarāḥ /
+
+amī videhāḥ | iṣṭāpūrttī dakṣiṇā tannimitto dākṣaṇikaḥ atrocyate / svargasthā narakaṃ yānti nārakāśca triviṣṭapamiti /
+
+gatāgataṃ kāmakāmā labhanta iti ca | ata eva hi triṣvapi bandheṣu ekaikāpāye tatastato mokṣa iti |
+
+[trividho mokṣaḥ || tats_22 ||]
+
+trividho mokṣaḥ | karmaṇo vikārāt prākṛtaśca mokṣaḥ | yaduktam |
+
+prākṛtena ca bandhena tathā vaikārikeṇa ca /
+dakṣiṇābhistṛtīyena vṛddho nānyena mucyate //
+
+iti |
+
+atha kutastyānāṃ tattvānāṃ siddhiḥ | pramāṇāditi brūmaḥ |
+
+[trividhaṃ pramāṇam || tats_23 ||]
+
+tatra pramāṇaṃ kiṃ katividhama vā ucyate trividhaṃ pramāṇam | tisro vidhā yasyeti trividham | kāstā vidhāḥ | ucyate | dṛṣṭamanumānamāptavacanaṃ ca | arthasannikṛṣṭendriyajo niścayo dṛṣṭam | indriyāṇi pañca cakṣurādīni manaśca | vyāptipakṣadharmatājñānapūrvakamanumānam | tacca trividham | pūrvavat śeṣavat sāmānyato dṛṣṭaṃ ca | pūrvavadyathā kardamena pūrvavṛttavṛṣṭyanumānam | śeṣavadyathā | samudrātapalamudakaṃ(?) kṣāramupalabhya śeṣasyāpi kṣāratvānumānam | sāmānyato dṛṣṭāṃ ca yathā | rūpādyupalabhya tadupalabdheḥ kāraṇasyānumānam | rūpādyupalabdhayaḥ karaṇasādhyāḥ kriyatvāt chidikriyāvat | āptaśrutirāptavacanaṃ ca | yathārthavākyajārthaviṣayodhyavasāya iti yāvat | prāvādukodbhāvitānāṃ tu upamānārthāpattisambhavābhāvaitihyapratibhānāmityukteṣvevāntarbhāvaḥ | yat tadyathā gaurgavayastatheti vākyam | tadjñānanidhīrāgama eva | gavayepi gosadṛśasya gavayaśabdo vācaka iti pratyayaḥ soyamanumānametatsaṅketagraharūpatvāt | yad gavayasya cakṣuḥsannikṛṣṭagosādṛśyajñānaṃ tatpratyakṣameva | ata eva smaryamāṇāyāṃ gavi sādṛśyajñānaṃ pratyakṣam | gogavayayoḥ sādṛśyasya gavayāntaravarttibhūyovayavasāmānyarūpasya yogarūpasyaikatvādityupamānaṃ na mānāntaram | jīvato gṛhābhāvadarśanena bahirbhāvakalpanādityarthāpattiranumānameva | sambhavopi khāryādau droṇāḍhakaprasthādyavagamarūpo 'numānameva | iha bhūtale ghaṭo nāstītyādirabhāvāvagamo 'pi pratyakṣameveti nābhāvaḥ pṛthak pramāṇam | anirdiṣṭapravaktṛkaṃ pravādamātramaitihyamapīha vaṭe yakṣaḥ prativasatītyapramāṇameva | āptamūlatve tvāgama eva | dvāravatī puṇyabhūmiriti śruteḥ tatra vasataḥ śreyāṃsastatra gamane puṇyaṃ bhavatītyādibuddhirjāyamānā pratibhā | yatrocyate | 
+anuktamapyūhati paṇḍito jana iti |
+sā tu prāyeṇa pramāṇameva |
+ārṣaṃ tu darśanaṃ pratyakṣameva |
+yā pratibhā sāpyanumānameva ||
+
+
+trayoviṃśatisūtrairhi sarvaśāstrārthasaṃgrahaḥ /
+kṛto munivareṇātra yathāmati sacīvṛtaḥ(?) //
+
+iti sāṃkhyasūtravivaraṇākhyā kāpilasūtravṛttiḥ samāptā ||

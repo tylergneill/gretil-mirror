@@ -1,0 +1,231 @@
+Nāgārjuna: Acintyastava
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-acintyastava.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Richard Mahoney
+## Contribution: Richard Mahoney
+## Date of this version: 2020-07-31
+
+## Source: 
+   - .
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Acintyastava = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from nagast_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Nagarjuna:
+Acintyastava
+Version: 0.1a
+Last updated: Sun May 18 14:08:36 NZST 2003
+Text input by Richard Mahoney: r.mahoney@comnet.net.nz
+Latest Version:
+ http://homepages.comnet.co.nz/~r-mahoney/ratna_text/ratna_text.html
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+pratītyajānāṃ bhāvānāṃ naiḥsvābhāvyaṃ jagāda yaḥ |
+taṃ namāmy asamajñānam acintyam anidarśanam || nagast_01
+
+yathā tvayā mahāyāne dharmanairātmyam ātmanā |
+viditaṃ deśitaṃ tadvad dhīmadbhyaḥ karuṇāvaśāt || nagast_02
+
+pratyayebhyaḥ samutpannam anutpannaṃ tvayoditam |
+svabhāvena na taj jātam iti śūnyaṃ prakāśitam || nagast_03
+
+yadvac chabdaṃ pratītyeha pratiśabdasamudbhavaḥ |
+māyāmarīcivac cāpi tathā bhavasamudbhavaḥ || nagast_04
+
+māyāmarīcigandharvanagarapratibimbakāḥ |
+yady ajātāḥ saha svapnair na syāt taddarśanādikam || nagast_05
+
+hetupratyayasaṃbhūtā yathaite kṛtakāḥ smṛtāḥ |
+tadvat pratyayajaṃ viśvaṃ tvayoktaṃ nātha sāṃvṛtam || nagast_06
+
+asty etat kṛtakaṃ sarvaṃ yat kiṃcid bālalāpanam |
+riktamuṣṭipratīkāśam ayathārthaprakāśitam || nagast_07
+
+kṛtakaṃ vastu no jātaṃ tadā kiṃ vārtamānikam |
+kasya nāśād atītaṃ syād utpitsuḥ kim apekṣate || nagast_08
+
+svasmān na jāyate bhāvaḥ parasmān nobhayād api |
+na san nāsan na sadasan kutaḥ kasyodayas tadā || nagast_09
+
+ajāte na svabhāvo 'sti kutaḥ svasmāt samudbhavaḥ |
+svabhāvābhāvasiddhyaiva parasmād apy asaṃbhavah || nagast_10
+
+svatve sati paratvaṃ syāt paratve svatvam iṣyate |
+āpekṣikī tayoḥ siddhiḥ pārāvāram ivoditā || nagast_11
+
+yadā nāpekṣate kiṃ cit kutaḥ kiṃ cit tadā bhavet |
+yadā nāpekṣate dīrghaṃ kuto hrasvādikaṃ tadā || nagast_12
+
+astitve sati nāstitvaṃ dīrghe hrasvaṃ tathā sati |
+nāstitve sati cāstitvaṃ yat tasmād ubhayaṃ na sat || nagast_13
+
+ekatvaṃ ca tathānekam atītānāgatādi ca |
+saṃkleśo vyavadānaṃ ca samyaṅmithyā svataḥ kutaḥ || nagast_14
+
+svata eva hi yo nāsti bhāvaḥ sarvo 'sti kas tadā |
+para ity ucyate yo 'yaṃ na vinā svasvabhāvataḥ || nagast_15
+
+na svabhāvo 'sti bhāvānāṃ parabhāvo 'sti no yadā |
+bhāvagrahagrahāveśaḥ paratantro 'sti kas tadā || nagast_16
+
+ādāv eva samaṃ jātāḥ svabhāvena ca nirvṛtāḥ |
+anutpannāś ca tattvena tasmād dharmās tvayoditāḥ || nagast_17
+
+niḥsvabhāvās tvayā dhīman rūpādyāḥ saṃprakāśitāḥ |
+phenabudbudamāyābhramarīcikadalīsamāḥ || nagast_18
+
+indriyair upalabdhaṃ yat tat tattvena bhaved yadi |
+jātās tattvavido bālās tattvajñānena kiṃ tadā || nagast_19
+
+jaḍatvam apramāṇatvam athāvyākṛtatām api |
+viparītaparijñānam indriyānāṃ tvam ūcivān || nagast_20
+
+ajñānenāvṛto yena yathāvan na prapadyate |
+lokas tena yathābhūtam iti matvā tvayoditam || nagast_21
+
+astīti śāśvatī dṛṣtir nāstīty ucchedadarśanam |
+tenāntadvayanirmukto dharmo 'yaṃ deśitas tvayā || nagast_22
+
+catuṣkoṭivinirmuktās tena dharmās tvayoditāḥ |
+vijñānasyāpy avijñeyā vācāṃ kim uta gocarāḥ || nagast_23
+
+svapnendrajālikodbhūtaṃ dvicandrodvīkṣaṇaṃ yathā |
+bhūtaṃ tadvastu no bhūtaṃ tathā dṛṣṭaṃ jagat tvayā || nagast_24
+
+utpannaś ca sthito naṣṭaḥ svapne yadvat sutas tathā |
+na cotpannaḥ sthito naṣṭa ukto loko 'rthatas tvayā || nagast_25
+
+kāraṇāt saṃbhavo dṛṣṭo yathā svapne tathetaraḥ |
+saṃbhavaḥ sarvabhāvānāṃ vibhavo 'pi matas tathā || nagast_26
+
+rāgādijaṃ yathā duḥkhaṃ saṃkleśasaṃsṛtī tathā |
+saṃbhārapūraṇān muktiḥ svapnavad bhāṣitā tvayā || nagast_27
+
+jātaṃ tathaiva no jātam āgataṃ gatam ity api |
+baddho muktas tathā jñānī dvayam icchen na tattvavit || nagast_28
+
+utpattir yasya naivāsti tasya kā nirvṛtir bhavet |
+māyāgajaprakāśatvād ādiśāntatvam arthataḥ || nagast_29
+
+utpanno 'pi na cotpanno yadvan māyāgajo mataḥ |
+utpannaṃ ca tathā viśvam anutpannaṃ ca tattvataḥ || nagast_30
+
+ameyair aprameyānāṃ pratyekaṃ nirvṛtiḥ kṛtā |
+lokanāthair hi sattvānāṃ na kaś cin mocitaś ca taiḥ || nagast_31
+
+te ca sattvāś ca no jātā ye nirvānti na te sphuṭam |
+na kaś cin mocitaḥ kaiś cid iti proktaṃ mahāmune || nagast_32
+
+māyākārakṛtaṃ yadvad vastuśūnyaṃ tathetarat |
+vastuśūnyaṃ jagat sarvaṃ tvayoktaṃ kārakas tathā || nagast_33
+
+kārako 'pi kṛto 'nyena kṛtatvaṃ nātivartate |
+atha vā tatkriyākartṛ kārakasya prasajyate || nagast_34
+
+nāmamātraṃ jagat sarvam ity uccair bhāṣitaṃ tvayā |
+abhidhānāt pṛthagbhūtam abhidheyaṃ na vidyate || nagast_35
+
+kalpanāmātram ity asmāt sarvadharmāḥ prakāśitāḥ |
+kalpanāpy asatī proktā yayā śūnyaṃ vikalpyate || nagast_36
+
+bhāvābhāvadvayātītam anatītaṃ ca kutra cit |
+na ca jñānaṃ na ca jñeyaṃ na cāsti na ca nāsti yat || nagast_37
+
+yan na caikaṃ na cānekaṃ nobhayaṃ na ca nobhayam |
+anālayam athāvyaktam acintyam anidarśanam || nagast_38
+
+yan nodeti na ca vyeti nocchedi na ca śāśvatam |
+tad ākāśapratīkāśaṃ nākṣarajñānagocaram || nagast_39
+
+yaḥ pratītyasamutpādaḥ śūnyatā saiva te matā |
+tathāvidhaś ca saddharmas tatsamaś ca tathāgataḥ || nagast_40
+
+tat tattvaṃ paramārtho 'pi tathatā dravyam iṣyate |
+bhūtaṃ tad avisaṃvādi tadbodhād buddha ucyate || nagast_41
+
+buddhānāṃ sattvadhātoś ca tenābhinnatvam arthataḥ |
+ātmanaś ca pareṣāṃ ca samatā tena te matā || nagast_42
+
+bhāvebhyaḥ śūnyatā nānyā na ca bhāvo 'sti tāṃ vinā |
+tasmāt pratītyajā bhāvās tvayā śūnyāḥ prakāśitāḥ || nagast_43
+
+hetupratyayasaṃbhūtā paratantrā ca saṃvṛtiḥ |
+paratantra iti proktaḥ paramārthas tv akṛtrimaḥ || nagast_44
+
+svabhāvaḥ prakṛtis tattvaṃ dravyaṃ vastu sad ity api |
+nāsti vai kapito bhāvo paratantras tu vidyate || nagast_45
+
+astīti kalpite bhāve samāropas tvayoditaḥ |
+nāstīti kṛtakocchedād ucchedaś ca prakāśitaḥ || nagast_46
+
+tattvajñānena nocchedo na ca śāśvatatā matā |
+vastuśūnyaṃ jagat sarvaṃ marīcipratimaṃ matam || nagast_47
+
+mṛgatṛṣṇājalaṃ yadvan nocchedi na ca śāśvatam |
+tadvat sarvaṃ jagat proktaṃ nocchedi na ca śāśvatam || nagast_48
+
+dravyam utpadyate yasya tasyocchedādikaṃ bhavet |
+antavān nāntavāṃś cāpi lokas tasya prasajyate || nagast_49
+
+jñāne sati yathā jñeyaṃ jñeye jñānaṃ tathā sati |
+yatrobhayam anutpannam iti buddhaṃ tadāsti kim || nagast_50
+
+iti māyādidṛṣtāntaiḥ sphuṭam uktvā bhiṣagvaraḥ |
+deśayām āsa saddharmaṃ sarvadṛṣṭicikitsakam || nagast_51
+
+etat tat paramaṃ tattvaṃ niḥsvabhāvārthadeśanā |
+bhāvagrahagṛhītānāṃ cikitseyam anuttarā || nagast_52
+
+dharmayājñika tenaiva dharmayajño niruttaraḥ |
+abhīkṣṇam iṣṭas trailokye niṣkapāṭo nirargalaḥ || nagast_53
+
+vastugrāhabhayocchedī kutīrthyamṛgabhīkaraḥ |
+nairātmyasiṃhanādo 'yam adbhuto naditas tvayā || nagast_54
+
+śūnyatādharmagambhīrā dharmabherī parāhatā |
+naiḥsvābhāvyamahānādo dharmaśaṅkhaḥ prapūritaḥ || nagast_55
+
+dharmayautukam ākhyātaṃ buddhānāṃ śāsanāmṛtam |
+nītārtham iti nirdiṣṭaṃ dharmāṇāṃ śūnyataiva hi || nagast_56
+
+yā tūtpādanirodhādisattvajīvādideśanā |
+neyārthā ca tvayā nātha bhāṣitā saṃvṛtiś ca sā || nagast_57
+
+prajñāpāramitāmbhodher yo 'tyantam pāram āgataḥ |
+sa puṇyaguṇaratnāḍhyas tvadguṇārṇavapāragaḥ || nagast_58
+
+iti stutvā jagannātham acintyam anidarśanam |
+yad avāptaṃ mayā puṇyaṃ tenāstu tvatsamaṃ jagat || nagast_59
+
+|| ity acintyastavaḥ samāptaḥ ||
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+copyright (c) 2003 by chr. lindtner - denmark
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

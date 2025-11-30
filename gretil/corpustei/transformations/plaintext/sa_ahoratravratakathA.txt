@@ -1,0 +1,496 @@
+Ahoratravratakathā
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_ahoratravratakathA.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Klaus Wille
+## Contribution: Klaus Wille
+## Date of this version: 2020-07-31
+
+## Source: 
+   - R. Handurukande, Three Sanskrit Texts on Caitya Worship ḥ In Relation to the Ahorātravrata, Tokyo 2000 (Studia Philologica Buddhica, Monograph Series, 16).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Ahoratravratakathā = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from ahovk1_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Ahoratravratakatha = Avk
+Based on the edition by R. Handurukande, Three Sanskrit Texts on Caitya Worship ḥ In Relation to the Ahorātravrata, Tokyo 2000
+(Studia Philologica Buddhica, Monograph Series, 16).
+Input by Klaus Wille (Göttingen)
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+ahorātravratakathā
+
+oṃ namaḥ śrīdharmadhātave /
+
+ākāśanirmalo bhūto niṣprapañcaguṇāśrayaḥ /
+pañcaskandhātmakaḥ śāntas tasmai stūpātmane namaḥ // avk_1 //
+
+evaṃ mayā śrutam ekasmin samaye buddho bhagavāñ chrāvastyāṃ viharati sma jetavane 'nāthapiṇḍadasyārāme mahatā bhikṣusaṃghena sārdham anekair devanāgayakṣagandharvāsuragaruḍakinnaramahoragaiḥ sthavirabhikṣuvītarāgasaṃghair bodhisattvaśatasahasraiḥ saṃbahulaiś ca śrāvakair daśabhir lokapālaiś caturmahārājakāyikair anekaiś caturvarṇakair manuṣyair anekaśatasahasraiḥ parivāraiḥ parivṛtaiḥ / tasmin sabhāmaṇḍale sarve dharmaśravaṇikā lokā bhagavantam abhivīkṣya caityavratakathām anudhyāyantaḥ samāsthitāḥ / atha khalu subhūtiḥ sthaviraḥ svāsanāt samutthāyaikāṃsam uttarāsaṅgaṃ kṛtvā triḥ pradakṣiṇīkṛtya savyajānubimbaṃ bhuvi sthāpya bhagavantaṃ praṇamyaitad avocat /
+
+ahorātravrataṃ nātha kasmin kāle pravartate /
+tadvidhiṃ ca kathaṃ brūhi tat sarvaṃ jagatāṃ prabho // avk_2 //
+
+bhagavān āha /
+
+sādhu sādhu subhūte tvaṃ śṛṇu sattvānukampaka /
+ahorātravrataṃ nityaṃ tadvidhiṃ kathitaṃ mayā // avk_3 //
+
+āsīt pūrvavideheṣu nāmnā gandhavatī purī /
+tasyāṃ rājā mahātejā indrapṛṣṭo mahāprabhuḥ // avk_4 //
+
+so 'ntaḥpure sabhāṃ kṛtvā vasubandhuṃ jagadgurum /
+praṇamya sahasotthāya papraccha vidhivan mudā // avk_5 //
+
+śrotum icchāmi tat sarvaṃ yad vratānāṃ samuttamam /
+yasya puṇyaprabhāvena sattvā yānti sunirvṛtim // avk_6 //
+
+tat sarvaṃ gadatāṃ dhīra sarvasattvānukampaka /
+bhavatā cānupālyo 'yaṃ lokaś ca duṣkṛtākulaḥ // avk_7 //
+
+vasubandhur uvāca /
+
+śṛṇu rājan mayā khyātaṃ vratānāṃ vratam uttamam /
+ahorātravrataṃ pūrvaṃ vipaśyinā prabhāṣitam // avk_8 //
+
+aśvinīpūrṇamāsyāṃ tu vrataṃ kuryād mahodayam /
+caityaṃ saṃpūjayec chuddhaḥ ṣoḍaśair vidhibhis tathā // avk_9 //
+
+bhojanānte trayodaśyāṃ kuryād dantādiśodhanam /
+caturdaśyāṃ viśeṣeṇa kṣurakarmāṇi kārayet // avk_10 //
+
+snānaṃ kṛtvā ca tīrtheṣu śucivastrāvṛtaḥ sudhīḥ /
+madhyāhne pūjayec caityaṃ pradīpaṃ ca pradāpayet // avk_11 //
+
+sūrye ṣaṣṭhagate bhāge prāśayec ca kṣīrodanam /
+punar śaucādikaṃ kṛtvā dharmaṃ ca śruṇuyān mudā // avk_12 //
+
+pratyūṣe pūrṇamāsyāṃ tu snātvā vrataṃ samārabhet /
+ādau bhūmitalaṃ śodhya dharmaśālāṃ prakārayet // avk_13 //
+
+gandhodakaiḥ suśītaiś ca caityapuṃgavaṃ snāpayet /
+gokṣīraiḥ pañcaratnaiś ca śilābhasmābhilepayet // avk_14 //
+
+catvāraś ca dhvajāḥ sthāpyā vitānaṃ saha cāmaraiḥ /
+digmālā vividhaiḥ puṣpair lambayec ca jinālaye // avk_15 //
+
+tadanu vratam ārabhya guruṃ vajradharaṃ namet /
+triratnaśaraṇaṃ kṛtvā dhyāpayed dharmadhātukam // avk_16 //
+
+dharmadhātumayaṃ caityaṃ jinānāṃ gṛham uttamam /
+anādibuddha-m-ākhyātaṃ sarvatathāgatālayam /
+sarvadevālayaṃ caityam ārādhya vratam ācaret // avk_17 //
+
+sahasradalapadmasthaṃ candrabimbaprabhāsvaram /
+raktaṃ bhoḥkārasaṃbhūtaṃ caturmukhaṃ virājitam // avk_18 //
+
+raktagauramukhaṃ mūlaṃ dakṣiṇe kuṅkumāruṇam /
+paścime padmaraktaṃ ca [!] uttare pītaraktakam // avk_19 //
+
+aṣṭabhujaṃ virājantaṃ vāgīśvaraṃ jagadgurum /
+dhanurbāṇadharaṃ dvābhyāṃ pāśāṅkuśadharaṃ tathā /
+prajñāpustaṃ tathā khaḍgaṃ vajraghaṇṭāṃ tathāparaiḥ // avk_20 //
+
+sarvarasasamāyuktaṃ lalitāsanasaṃsthitam /
+divyābharaṇabhūṣāṅgaṃ pañcabuddhamukūṭinam // avk_21 //
+
+vāgīśvaraṃ mahāśuklaṃ sarvadharmapratiṣṭhitam /
+evaṃ svahṛdi saṃbhāvya puraḥ sthāpya prapūjayet // avk_22 //
+
+pādyācamanam arghaṃ ca dattvā bhaktisamanvitaḥ /
+jalajaiḥ sthalajaiḥ puṣpaiḥ sugandhaiḥ pañcagandhakaiḥ // avk_23 //
+
+sāṃyojikaiḥ sugandhaiś ca sudhūpair dhūpanais tathā /
+ghṛtaprayuktadīpaiś ca naivedyair divyabhojanaiḥ // avk_24 //
+
+chattradhvajapatākābhir nṛtyagītasuvādanaiḥ /
+phalamūlādibhiḥ pattraiḥ pūgatāmbūlakais tathā // avk_25 //
+
+nānauṣadhisamāyuktair divyair mānuṣyakais tathā /
+kundapuṣpākṣatair dūrvair lājayā pañcaratnakaiḥ // avk_26 //
+
+kṣīraiḥ śaṃkhasupuṣpārghaṃ pradadyāc caityapuṃgave /
+dhāraṇīṃ caiva stotraṃ ca paṭhed gītaṃ ca gāyayet // avk_27 //
+
+pradakṣiṇāsahasraṃ ca yāvat kuryāt pramoditaḥ /
+rātriṃ divā susaṃpūrṇaṃ pracarec ca pradakṣiṇām // avk_28 //
+
+yatra devālaye tīrthe sarvān devān prapūjayet / hīnajātiprasaṅgaṃ ca sparśanaṃ naiva kārayet // avk_29 / 
+sparśite saṃcaret snātvā pañcagavyena śodhayet /
+asparśe 'pi caret snānaṃ trisaṃdhyaṃ saṃcared vratī // avk_30 //
+
+
+{cd add the following after 'śodhayet' : śucikrama tathā dharmam uttamam ahorātravrataṃ //
+
+vāravṛddhau na kartavyaṃ samarthenāpi kārayet //
+
+nidrāsevitaṃ nidrāṃ kṛtvā viśrāmasevitaṃ viśrāmaṃ kṛtvā rājan tathā vrataṃ kārayed doṣakam 'sti tasmān na kārayet // avk_30* //} 
+
+ahorātraṃ susaṃpūrṇaṃ na nidrāṃ kārayed vratī /
+caityadhyānasamāyuktaḥ japan stotraṃ paṭhaṃś caret // avk_31 //
+
+nānāgītamahotsāhair nṛtyair vādyaiḥ sughoṣakaiḥ /
+hāhākāraiḥ samullāsaiḥ kārayet saṃpradakṣiṇām // avk_32 //
+
+viśrāmaṃ vā na kuryāc ca khedaṃ vā vratamānasaḥ /
+ahorātre susaṃpūrṇe prātaḥ snātvā vrataṃ caret // avk_33 //
+
+caityapūjāṃ yathā kṛtvā gurupūjāṃ samācaret /
+annaṃ vastraṃ suvarṇaṃ ca vrīhiratnāni bhūṣitān // avk_34 //
+
+ācāryāya pradātavyā yathāśakti subhaktitaḥ /
+yajñaṃ kuryāt tato vajrī vrataṃ pūrṇaṃ prapūrayet // avk_35 //
+
+abhiṣekaṃ tato dattvā pañcasūtraṃ ghaṭaṃ tathā /
+pratyekaṃ vratināṃ dattvā āśīrvādyaṃ pradāpayet // avk_36 //
+
+kaumārīpūjanaṃ kṛtvā śeṣānnaṃ ca prabhuñjayet /
+dadhiśarkarasaṃyuktaṃ pañcāmṛtaṃ subhojanam // avk_37 //
+
+gaṇacakraṃ tataḥ kuryād vidhijñas tadvidhiṃ yathā /
+ity evaṃ vratarājaṃ tad yaḥ kuryāc chuddhamānasaḥ // avk_38 //
+
+vipulaṃ bhogam ābhujya sarvasukhasamanvitaḥ /
+paratra sukham āpnoti dharmaloke mahīpate // avk_39 //
+
+indrapṛṣṭa uvāca /
+
+bhagavan sarvavin nātha punar vaktuṃ tvam arhasi /
+saṃsāre bahudhā jātis teṣāṃ pracāraṇaṃ katham // avk_40 //
+
+vratapūjāphalaṃ sarvaṃ kālaṃ ca samayaṃ dinam /
+kutra sthāne vrataṃ kāryaṃ tat sarvaṃ vada sāṃpratam // avk_41 //
+
+vasubandhur uvāca /
+
+śṛṇu rājan mahābhāga saṃkṣepād gaditaṃ mayā /
+svayaṃbhuvo viśeṣeṇa sthāne puṇyaṃ mahottamam // avk_42 //
+
+tadabhāve svadeśeṣu sthāvare caityapuṃgave /
+tadabhāve svayaṃ kṛtvā kārayitvāparais tathā // avk_43 //
+
+suvarṇena kṛte vāpi ratnaiś cānyaiś ca dhātubhiḥ /
+pāṣāṇena tathā kāṣṭhair iṣṭikāmṛnmayais tathā // avk_44 //
+
+vālukaudanapiṇḍena kṛte paṭṭe ca citrite /
+devālaye nadītīre tīrthe puṇye mahītale // avk_45 //
+
+dharmaśālāṃ viśodhyādau yathāvidhi vrataṃ caret /
+puṣpākṣatasugandhaiś ca vāriṇā caityapuṃgave // avk_46 //
+
+arghaṃ dadyād raveḥ pūrvaṃ puṣpaṃ kṣipet salājakam /
+maṇḍalaṃ pañcadevānāṃ likhed gomayavāriṇā // avk_47 //
+
+avandhyākṣarayuktena adbhir vratīn susiñcayet /
+havargāntākṣarair mantrair vratimūrdhni pratiṣṭhitam // avk_48 //
+
+oṃ āḥ hūm iti mantreṇa diśobandhaṃ satarjitam /
+aṅganyāsaṃ karanyāsaṃ kṛtvā guruṃ ca vandayet // avk_49 //
+
+puṣpākṣataṃ kare dhṛtvā kṣipet puṣpāñjalitrayam /
+pañcabhūtasamutpannaṃ padmakarṇikasaṃsthitam // avk_50 //
+
+āvāhayed dharmadhātuṃ vāgīśvaraṃ samujjvalam /
+jñānarūpaṃ samākṛṣya saṃsthāpya samaye 'rcayet // avk_51 //
+
+āvāhayāmi tvaṃ nātha tiṣṭha tatra manohare /
+sthiro bhava sadā mā gāḥ sāṃnidhyaṃ kuru sthāvare // avk_52 //
+
+dugdhākṣatāmbusaṃyuktaṃ navaratnāni hāṭakaiḥ /
+śaṅkhasthaṃ pratigṛhṇātu arghaṃ dattaṃ mayā mudā // avk_53 //
+
+paṭṭavastrāṇi divyāni cīvarāṇi mahāprabho /
+nānāraṅgavicitrāṇi pratigṛhṇātu modatām // avk_54 //
+
+candanaṃ malayodbhūtaṃ kastūrikuṅkumādikam /
+śaileyaṃ ghanasāraṃ ca gṛhyatām anumodatām // avk_55 //
+
+jalajān sthalajān divyān pañcavarṇena granthitān /
+sumodavāsanāyuktān puṣpān gṛhya pramodatām // avk_56 //
+
+dhūpo 'yaṃ ghrāṇasaṃtarpo divyagandhasuyojitaḥ /
+pradattas tava toṣārthaṃ gṛhyatāṃ bhaktavatsala // avk_57 //
+
+dīpo 'yaṃ harati dhvāntaṃ sarvatimiranāśakaḥ /
+ghṛtatailasamujjvālo mayā dattaḥ pragṛhyatām // avk_58 //
+
+annaṃ caturvidhaṃ nātha rasānāṃ ṣaḍvidhaṃ tathā /
+ghṛtādyān śarkarāhārān bhuñjatāṃ ca sukhaṃ mama // avk_59 //
+
+nānāphalasumodyaṃ ca koṣakāraṇḍavādikam /
+skandhamūlādikaṃ pattraṃ gṛhāṇa pratimodatām // avk_60 //
+
+tāmbūlapūgasaṃyuktaṃ karpūranirmalāni ca /
+divyauṣadhigaṇādīni gṛhyatāṃ hitakāṅkṣayā // avk_61 //
+
+lājākṣataphalārcaiva dūrvākundāni bhaktitaḥ /
+prakṣiptāni mayā tubhyaṃ gṛhāṇa hitamānasaḥ // avk_62 //
+
+sauvarṇādikṛtaṃ chattraṃ dhvajāni vividhāni ca /
+patākādīni sarvāṇi pragṛhya jina modatām // avk_63 //
+
+dhīmān pujāṃ tathā kṛtva stotram evaṃ ca kārayet /
+jinendratoṣaṇārthāya kārayec ca pradakṣiṇām // avk_64 //
+
+dharmadhātumayaṃ caityaṃ sarvalokasvarūpiṇam /
+ālayaṃ sarvabuddhānāṃ jinadhātuṃ namāmy aham // avk_65 //
+
+namas te jinadhātūnāṃ pratyakṣaṃ samalīlayā /
+triyānasamayānandaṃ satataṃ tvāṃ samāśraye // avk_66 //
+
+jinajaṃ sakalasthaṃ ca puṇyakṣetraṃ namāmy aham /
+pavitrajanasukhārthaṃ sevitārthapradāyakam // avk_67 //
+
+praṇamāmi muniśreṣṭhaṃ maṅgalārthapradāyakam /
+janānāṃ bhayahantāraṃ lokanāthaṃ maheśvaram // avk_68 //
+
+devatāḥ sarvalokasthāḥ saṃbhūtā jinamaṇḍale /
+dadyāt tebhyo baliṃ tuṣṭyā pūjābhaktyarcanair ataḥ // avk_69 //
+
+{cd add the following after vs. 69 śaucasobhanādikaṃ kṛtvā vratinaḥ maurikuṇḍalasarvābharaṇagāṃgopayādivastra śobhayen mālāpuṣpa lohayen maṇḍalī prajvālayen vistareṇopaḍoṣita gandhāya te 'grata dhūpayet sarvapāpaprasamanaṃ bhavati} 
+
+bahumaṅgalavādyais ca chattrasindūrapātrayā /
+ācāryaḥ svastivākyaiś ca kārayec ca mahotsavam // avk_70 //
+
+aśvinīpūrṇamāsyāṃ tu (...) ravivāsare /
+āyuṣmatīyute yoge praśastaś ca viśeṣataḥ // avk_71 //
+
+yaḥ prakuryād vrataṃ tasmin vipulaṃ bhogam āpnuyāt /
+paratra sukhasaṃprāpto jinaloke mahīpate // avk_72 //
+
+śṛṇu rājan mahābhāga vakṣye pūjāphalaṃ punaḥ /
+yena saṃsthāpitaṃ caityaṃ vītaśoko bhaved asau /
+māyāmohavinirmuktas trimalenāviliptitaḥ // avk_73 //
+
+pañcāmṛtaiś candanagandhagarbhair ye snāpayantī jinacaityabimbam /
+mandākinītoyasugandhagandhais te cāpsarobhī ratim āvahanti // avk_74 //
+
+ye dhūpayanti kṣaṇam atra lokāḥ śokā na teṣāṃ prabhavanti jātu /
+surāsuraiḥ pūjitapādapadmāḥ sugandhamālyāmbarabhūṣitāṅgāḥ // avk_75 //
+
+sugandham asmā upaḍhaukayanti prasannacittā manujā ajasram /
+sugandhidehā ravibhānudīptā bhavanti lokāḥ paramārthalokāḥ // avk_76 //
+
+ye kuṅkumādyai racitaṃ suvastraṃ dadanti ye caityatathāgatebhyaḥ /
+śītārtiduḥkhaṃ na hi jātu teṣāṃ taddhetutaḥ koṣaviśālasāram // avk_77 //
+
+aśeṣapuṣpaṃ jalajaṃ bhavantaṃ śvetāruṇaśyāmasupītakṛṣṇam /
+samantabhadrāya viśālavaṃśam ārogyasaukhyaṃ prabhavanti dānāt // avk_78 //
+
+śraddhāratā ye manujā udārair mālāsugandhair bahupuṣpayuktaiḥ /
+caranti pūjāṃ bahubhaktitas te samastasaukhyāni labhanti loke // avk_79 //
+
+netrābhirāmā bahuratnakoṣā narādhipair arcitapādapadmāḥ /
+jñānapradīpāhatamohajālā ye dīpamālā racayanti buddhe // avk_80 //
+
+naivedyam asmai pradadāti loke yo bhaktiyuktaḥ surasaṃ sugandhim /
+balī viśiṣṭo naracakracūḍāmaṇyarcitāṅghrī nṛpasevyamānaḥ // avk_81 //
+
+phalamūlādikaṃ dattvā caityeṣu bhaktimānasaḥ /
+yatheṣṭaṃ phalam āpnoti nirogī sukhavān sadā // avk_82 //
+
+rogādibhiḥ prabaladuḥkhakarair vimuktāḥ snigdhānanāḥ kanakatulyamanojñavarṇāḥ /
+rājyaṃ hi yad vigatakaṇṭakam āpnuvanti bhaiṣajyadānavidhinā tad uśanti caitye // avk_83 //
+
+tāmbūlādigaṇaṃ dattvā rūpavān sukhavāñ chuciḥ /
+divyāṅganā manohārī rājalakṣmīm avāpnuyāt // avk_84 //
+
+vitānam uccair vitanoti caitye dhanyas triloke paripūjanīyaḥ /
+viśālavaṃśo guṇarakṣaṇīyo jāto mahādīptaśarīrabhāsaḥ // avk_85 //
+
+dhvajān patākān abhiropayanti ye caityabimbe khalu bhaktiyuktāḥ /
+mahīśvarās te jitaduṣṭasaṃghā bhavanti nāthā divi bhūtale ca // avk_86 //
+
+chattrāṇi nānāmaṇibhir mahārhaiḥ saṃpādayanty āttamanā dadanti /
+caityeṣu bhūmīśvaravṛndavandyāḥ śrīsaṃyutā dharmaratā bhavanti // avk_87 //
+
+vīṇādibhir ghaṇṭamṛdaṅgavādyaiḥ śṛṅgaiś ca śaṅkhādisudivyaghoṣaiḥ /
+saṃghoṣaṇāṃ ye vitaranti caitye te 'bhijñayā pañcabhir āśrayante // avk_88 //
+
+mahotsāhakarair gītaiḥ sumanojñasvarair jine /
+nṛtyaṃ ca kārayen nityaṃ kuryāc ca divyaghoṣaṇām // avk_89 //
+
+te narāḥ susvarā bhonti sundarā divi bhūtale /
+divyaśrotrā mahāvijñāḥ suśabdaṃ śṛṇuyuḥ sadā // avk_90 //
+
+nṛtyagītādikaṃ kṛtvā caityabimbe jinālaye /
+vandyamānāḥ sugotrāś ca niṣpāpāś ca bahuśrutāḥ // avk_91 //
+
+dīrghāyuṣkāḥ sahasrākṣā nirāpadāḥ guṇāśrayāḥ /
+grahavyādhivimuktāṅgā bhavanti te śubhākarāḥ // avk_92 //
+
+trāsāya duṣṭasattvānāṃ rakṣārthaṃ ca jinālaye /
+śastrahastāḥ sthitā ye ca jinabhaktisamanvitāḥ // avk_93 //
+
+āyuṣmanto nirogāś ca putrapautrīsamanvitāḥ /
+bhāgyavanto dhanāḍhyāś ca gacchanty ante jinālayam // avk_94 //
+
+dūrvākundākṣatān puṣpān lājayā saha bhaktimān /
+prakṣipej jinacaityeṣu svastivākyam udāharan // avk_95 //
+
+durgatiṃ nābhijānāti sukulī lokanandanaḥ /
+sarvavidyāgurur vandyaś cānte mokṣam avāpnuyāt // avk_96 //
+
+ye ramamuktāmaṇivajrahemaṃ rūpyaṃ suvarṇādikadhātudānāt /
+vinaṣṭaśokāḥ subhagāḥ suvaṃśāḥ pūrṇendriyāḥ pūrṇamanorathāḥ syuḥ // avk_97 //
+
+ye śuddhacittāḥ stutim ācaranti gadyātmikāṃ padyamayīṃ vicitrām /
+te śabdasaṃghān bahuvādyajātān śṛṇvanti gītān surabhāminīnām // avk_98 //
+
+yāvatī bhūmir ākrāntā hy adhaḥ kāñcanacakrataḥ /
+yojanānāṃ sahasrāṇi rāśibhyaḥ parikīrtitāḥ // avk_99 //
+
+yāvatyo vālukās tatra tāvatyaḥ parisaṃkhyayā /
+rājā bhavati vīreśaś cakravartī mahītale // avk_100 //
+
+ye jātamātrāḥ prabhutāṃ prayānti śreṣṭhīkule janma sadaiva yeṣām /
+hastyaśvayānaiś ca paribhramanti kṛtvātra te caityavarapraṇāmam // avk_101 //
+
+akāra-m-ādyakṣaramantrarājair balyūpahāraṃ khalu yo hi dadyāt /
+tasmai sudevāḥ sagaṇāḥ sutṛptā dāsyanti satkarmaphalābhilāṣam // avk_102 //
+
+yasmin sudhālepam udācaranti te rogaśokādivimuktadehāḥ /
+dhaneśvarā dīrghatarāyuṣas te narāmarāṇāṃ subhagā bhavanti // avk_103 //
+
+ye buddham uddiśya mahānti nityaṃ kurvanti mṛdgomayalepanāni /
+bhaktyā suśuddhā jalamaṇḍalaṃ vā labhanti te rājabalaṃ subhāgyāḥ // avk_104 //
+
+stūpāṅgaṇaṃ dhātuvaraṃ vihāraṃ ye śodhayantīha narāḥ prayatnaiḥ /
+nirmālyam ebhyaś ca samuddharanti te hemavarṇāḥ sudṛśo bhavanti // avk_105 //
+
+pradakṣiṇāṃ ye vitaranti tasmin bhavanti jātismaralābhinas te /
+suvarṇavarṇā bahuputrapautrāḥ pūjyā manuṣyāmaranāthasaṃgḥaiḥ // avk_106
+
+ālasyenāpi yaḥ kuryāj jinālayapradakṣiṇām /
+pade pade suvarṇaikakarṣadānaphalaṃ labhet // avk_107 //
+
+brahmakṣatriyavaiśyānāṃ sacchūdrāṇāṃ prapūjanam /
+tebhyo vihīnajātīnām adhikāro na pūjane // avk_108 //
+
+gandhapuṣpadvijātīnāṃ ... ca pūjayet /
+gandhapuṣpadvijātīnāṃ viśeṣeṇa prakathyate // avk_109 //
+
+chattrāvarohaṇaṃ rājñāṃ vaiśyānāṃ tv annaḍhaukane /
+dhvajapātākavastreṣu śudrāṇāṃ ca pracakṣyate // avk_110 //
+
+svarṇakārā lohakārāḥ kāṃsyakṛtkṛṣikādayaḥ /
+eteṣāṃ ceha hastena caityapuṃgavapūjanam // avk_111 //
+
+taṇḍulī vyañjanī cāpi krayavikrayakāriṇaḥ /
+etaiḥ svavṛttivastūni ḍhaukanīyāni bhaktitaḥ // avk_112 //
+
+śaulinī dhvananavartī māṃsavartī tathā surī /
+etair dīpaḥ pradātavyaḥ kuladharmapramāṇataḥ // avk_113 //
+
+carmakāraś ca mātaṅgo niyogī rajako dhvajī /
+etaiś ca dūrataḥ sthitvā vandanīyo jinālayaḥ // avk_114 //
+
+ṣaṭtriṃśajjātibhir evaṃ svakulavṛtticāraṇaiḥ /
+anyaiś ca vividhair nityaṃ pūjyo mānyo jinālayaḥ // avk_115 //
+
+yeṣāṃ vratavikāro na pūjane jinapuṃgave /
+etaiḥ pradakṣiṇāṃ kṛtvā vandanīyaḥ svabhaktitaḥ // avk_116 //
+
+evaṃ bhūyaś cared dharmī vratarājam aharniśam /
+tasya puṇyaṃ yathā proktaṃ kuṣṭhavyādhikṣayaṃ vrajet // avk_117 //
+
+pañcānantaryapāpāni yāsyanty api na saṃśayaḥ /
+kiṃ punaś cānyapāpāni janmāntarakṛtāny api // avk_118 //
+
+na hī sa vidyate rājan sarvatra bhuvaneṣv api /
+ahorātravrataṃ puṇyaṃ yo 'nyathātvaṃ kariṣyati // avk_119 //
+
+śravād api haret pāpaṃ darśanāt puṇyam āpnuyāt /
+anumodāt tathā caivaṃ vratināṃ tu kim ucyate // avk_120 //
+
+vratināṃ saptabhāgāni kṛtvā puṇyaṃ viśāradaḥ /
+ekabhāgaṃ labhed rājā caikaṃ tu sārathījanaḥ /
+sarvasattvasya caikaṃ hi tac cheṣaṃ labhate vratī // avk_121 //
+
+iti śrutvā guror vākyam indrapṛṣṭo mahāprabhuḥ //
+tataḥ sattvahitārthāya vrataṃ kartuṃ samudyataḥ // avk_122 //
+vārāṇasīpuraṃ gatvā vasubandhuvaco yathā /
+vihāraṃ ca pratiṣṭhāpya caityarājaṃ jinālayam /
+saṃghabhojyaṃ tataḥ kṛtvā yayau svargaṃ janaiḥ sudhīḥ // avk_123 //
+
+tato bhikṣavo bhagavantam etad ūcuḥ /
+
+bhagavan muniśārdūla punar vaktuṃ tvam arhasi /
+kena kena purā nātha vratarājam idaṃ kṛtam // avk_124 //
+
+bhagavān āha /
+
+purā svargeṣu śakreṇa ahorātravrataṃ kṛtam /
+sa ṣaṭpāramitāṃ dhārya caityarājam apūjayat /
+pradakṣiṇāṃ sadā kṛtvā yathāvidhi mahotsavaiḥ // avk_125 //
+
+pātāle ca purā vīro daityendro balavān abhūt /
+nirghoṣadamano nāma devāsurapramardakaḥ // avk_126 //
+
+indraṃ svarge nirākṛtya pṛthivīm avadhāritam /
+tenāsurasahāyena trailokyaṃ svavaśe kṛtam // avk_127 //
+
+pṛthivīmaṇḍalaṃ gatvā gato 'sau maghavatpurim /
+indrapṛṣṭamahāsthāne devatāpratimāṃ sthitām /
+pañcapradakṣiṇāṃ kṛtvā prajñāpārasthito 'bhavat // avk_128 //
+
+pātāleṣu punar gatvā so 'carat tad vratottamam /
+nāginyo nāgarājāś ca pātāleṣv acaraṃs tathā // avk_129 //
+
+nāgaiḥ phaṇavibhūṣābhir devanāgendrakalpitam /
+pūjitaṃ satataṃ bhaktyā caityarājaṃ vidhānataḥ // avk_130 //
+
+ṛṣayaś ca purā sapta jalāśrayapratiṣṭhitam /
+pupūjuḥ jinadhātusthaṃ vidhibhiś ca viśāradāḥ // avk_131 //
+
+nāginyo viṣadarpāndhāḥ pūjyamānāñ jinālayam /
+tāpitān kārayām āsur viṣāṅgāraiḥ pradāhanaiḥ // avk_132 //
+
+tatas taiḥ śāpitā evaṃ nāginyaḥ śambukāḥ khalu /
+bhavadhvaṃ saptajanmāni punaś caityasya sevakāḥ // avk_133 //
+
+tataś cānte punaḥ prāpya mānuṣyaṃ puṇyabhāvataḥ /
+eṣā sā nāyakā yā tu dharmadakṣaṃ patiṃ labhet // avk_134 //
+
+tatas ta vañcitāḥ sarvāḥ śambukā dharmamānasāḥ /
+dhānyāṃ pradakṣiṇāṃ cakrur bhāvayantyo jinālayam // avk_135 //
+
+tataḥ puṇyānubhāvena devyaḥ saptakumārikāḥ /
+bhūtā rājasutā dhanyāḥ prālabhan paramaṃ padam // avk_136 //
+
+tāsām ekā vratī nāmnā dharmadakṣapativratā /
+tasyāḥ puṇyaprabhāvena dharmadakṣo 'labhad vratam // avk_137 //
+
+dharmadakṣo mahārājā yathāvidhi vrataṃ caran /
+bhāryayā saha dharmātmā sukhāvatyāṃ mahīpatiḥ // avk_138 //
+
+ity evaṃ bhikṣavo jñātvā vratānāṃ vratam uttamam /
+caityasevā sadā kāryā vratapuṇyapracāraṇaiḥ // avk_139 //
+
+caityavratasamaṃ puṇyaṃ nāsti satyaṃ tribhūvane /
+tasmāc caityaḥ sadā vandyaḥ pūjanīyaḥ prayatnataḥ // avk_140 //
+
+ity ahoratravratakathā

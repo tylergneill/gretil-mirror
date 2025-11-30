@@ -1,0 +1,5152 @@
+Bhaṭṭi: Rāvaṇavadha (= Bhaṭṭikāvya)
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhaTTi-rAvaNavadha.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: n.n.
+## Contribution: n.n.
+## Date of this version: 2020-07-31
+
+## Source: 
+   - .
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Rāvaṇavadha = Bhk,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bhattiku.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Bhatti: Ravanavadha (Bhattikavya)
+[Verse numbers of the Nirnaya Sagara edition (1887) added mechanically!]
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+bhk_1
+
+abhūn nṛpo vibudha-sakhaḥ paraṃ-tapaḥ śrutā'nvito daśa-ratha ityudāhṛtaḥ,
+guṇair varaṃ bhuvana-hitac-chalena yaṃ sanā-tanaḥ pitaramupāgamat svayam. Bhk_1.1
+
+so'dhyaiṣṭa vedāṃs, tri-daśānayaṣṭa, pit npārīt, samamaṃsta bandhūn,
+vyajeṣṭa ṣaḍ-vargamaraṃsta nītau, sa-mūla-ghātaṃ nyavadhīdarīṃś ca. Bhk_1.2
+
+vasūni toyaṃ ghana-vad vyakārīt, sahā''sanaṃ gotra-bhidā'dhyavātsīt,
+na tryambakādanyamupāsthitā'sau, yaśāṃsi sarveṣu-bhṛtāṃ nirāstat. Bhk_1.3
+
+puṇyo mahā-brahma-samūha-juṣṭaḥ saṃtarpaṇo nāka-sadāṃ vareṇyaḥ
+jajvāla loka-sthitaye sa rājā yathā'dhvare vahnirabhipraṇītaḥ. Bhk_1.4
+
+sa puṇya-kīrtiḥ śata-manyu-kalpo mahendra-loka-pratimāṃ samṛddhyā
+adhyāsta sarvartu-sukhāmayodhyā- madhyāsitāṃ brahmabhiriddha-bodhaiḥ. Bhk_1.5
+
+nirmāṇa-dakṣasya samīhiteṣu sīmeva padmā''sana-kauśalasya
+ūrdhva-sphurad-ratna-gabhastibhir yā sthitā'vahasyeva puraṃ maghonaḥ. Bhk_1.6
+
+sad-ratna-muktā-phala-vajra-bhāñji vicitra-dhātūni sa-kānanāni
+strībhir yutānyapsarasāmivaughair meroḥ śirāṃsīva gṛhāṇi yasyām. Bhk_1.7
+
+antar-niviṣṭojjvala-ratna-bhāso gavākṣa-jālairabhiniṣpatantyaḥ
+himā'dri-ṭaṅkādiva bhānti yasyāṃ gaṅgā'mbu-pāta-pratimā gṛhebhyaḥ Bhk_1.8
+
+dharmyāsu kāmā'rtha-yaśas-karīṣu matāsu loke'dhigatāsu kāle
+vidyāsu vidvāniva so'bhireme patnīṣu rājā tisṛṣūttamāsu. Bhk_1.9
+
+putrīyatā tena varā'ṅganābhi- rānāyi vidvān kratuṣu kriyāvān
+vipaktrima-jñāna-gatir manasvī mānyo muniḥ svāṃ puramṛṣya śṛṅgaḥ Bhk_1.10
+
+aihiṣṭa taṃ kārayituṃ kṛtā''tmā kratuṃ nṛpaḥ putra-phalaṃ munīndram,
+jñānā''śayas tasya tato vyatānīt sa karmaṭhaḥ karma sutā'nubandham. Bhk_1.11
+
+rakṣāṃsi vedīṃ parito nirāstha- daṅgānyayākṣīdbhitaḥ pradhānam,
+śeṣāṇyahauṣīt suta-saṃpade ca, varaṃ vareṇyo nṛpateramārgīt. Bhk_1.12
+
+niṣṭāṃ gate daktrima-sabhaya-toṣe vihitrime karmaṇi rāja-patnyaḥ
+prāśur hutocchiṣṭamudāra-vaṃśyās tisraḥ prasotuṃ caturaḥ su-putrān. Bhk_1.13
+
+kausalyayā'sāvi sukhena rāmaḥ prāk, kekayī-to bharatas tato'bhūt,
+prāsoṣṭa śatru-ghnamudāra-ceṣṭa- mekā sumitrā saha lakṣmaṇena. Bhk_1.14
+
+ārcīd dvi-jātīn paramā'rtha-vindā- nudejayān bhūta-gaṇān nyaṣedhīt,
+vidvānupāneṣṭa ca tān sva-kāle yatir vaśiṣṭo yamināṃ variṣṭhaḥ. Bhk_1.15
+
+vedo'ṅgavāṃstaurakhilo'dhyagāyi śastrāṇyupāyaṃsata jitvarāṇi,
+te bhinna-vṛttīnyapi mānasāni samaṃ janānāṃ guṇino'dhyavātsuḥ, Bhk_1.16
+
+tato-bhyagād gādhi-sutaḥ kṣitīndraṃ rakṣobhirabhyāhata-karma-vṛttiḥ
+rāmaṃ varītuṃ parirakṣaṇā-rthaṃ, rājā''jihat taṃ madhuparka-pāṇiḥ. Bhk_1.17
+
+aiṣīḥ punar-janma-jayāya yat tvaṃ, rūpā''di-bodhān nyavṛtac ca yat te,
+tattvānyabuddhāḥ pratinūni yena, dhyānaṃ nṛpas tacchivamityavādīt. Bhk_1.18
+
+ākhyan munis tasya śivaṃ samādher, vighnanti rakṣāṃsi vane kratūṃśca,
+tāni dviṣad-vīrya-nirākariṣṇus tṛṇeḍhu rāmaḥ saha lakṣmaṇena. Bhk_1.19
+
+sa śuśruvāṃstad-vacanaṃ mumoha rājā'sahiṣṇuḥ suta-viprayogam,
+ahaṃyunā'tha kṣiti-paḥ śubhaṃyu- rūce vacas tāpasa-kuñjareṇa. Bhk_1.20
+
+mayā tvamāpthāḥ śaraṇaṃ bhayeṣu, vayaṃ tvayā'pyāpsmahi dharma-vṛddhyai,
+kṣatraṃ dvija-tvaṃ ca parasparā'rthaṃ, śaṅkāṃ kṛthā mā, prahiṇu-sva-sūnum. Bhk_1.21
+
+ghāniṣyate tena mahān vipakṣaḥ, sthāyiṣyate yena raṇe purastāt,
+mā māṃ mahā''tman paribhūr-yogye na mad-vidho nyasyati bhāramagryam. Bhk_1.22
+
+krudhyan kulaṃ dhakṣyati vipra-vahnir, yāsyan sutas tapsyati māṃ sa-manyum,
+itthaṃ nṛpaḥ pūrvamavāluloce, tato'nujajñe gamanaṃ sutasya. Bhk_1.23
+
+āśīrbhirabhyarcya muniḥ kṣitīndraṃ prītaḥ pratasthe punarāśramāya,
+taṃ pṛṣṭha-taḥ praṣṭhamiyāya namro hiṃsreṣu-dīptā''pta-dhanuḥ kumāraḥ. Bhk_1.24
+
+prayāsyataḥ puṇya-vanāya jiṣṇo- rāmasya rociṣṇu-mukhasya ghṛṣṇuḥ
+trai-māturaḥ kṛtsna-jitā'stra-śastraḥ sadhryaṅ rataḥ śreyasi lakṣmaṇo'bhūt. Bhk_1.25
+
+iṣu-mati raghu-siṃhe dandaśūkāñ jighāṃsau dhanuraribhira-sahyaṃ muṣṭi-pīḍaṃ dadhāne
+vrajati, pura-taruṇyo baddha-citrā'ṅgulitre kathamapi guru-śokān mā rudan māṅgalikyaḥ Bhk_1.26
+
+atha jagaduranīcai-rāśiṣas tasya viprās, tumula-kala-ninādaṃ tūryamājaghnuranye,
+abhimata-phala-śaṃsī cāru pusphora bāhus, taruṣu cukuvuruccaiḥ pakṣiṇaś cā'nukūlāḥ. Bhk_1.27
+
+bhk_2
+
+vanaspatīnāṃ sarasāṃ nadīnāṃ tejasvināṃ kāntibhṛtāṃ diśāṃ ca
+niryāya tasyāḥ sa puraḥ samantā cchriyaṃ dadhānāṃ śaradaṃ dadarśa. Bhk_2.1
+
+taraṅga-saṅgāc capalaiḥ palāśair jvālā-śriyaṃ sā'tiśayāṃ dadhanti
+sa-dhūma-dīptā'gni-rucīni rejus tāmrotpalānyākula-ṣaṭ-padāni. Bhk_2.2
+
+bimbā''gatais tīra-vanaiḥ samṛddhiṃ nijāṃ vilokyā'pahṛtāṃ payobhiḥ
+kūlāni sā''marṣatayeva tenuḥ saroja-lakṣmīṃ sthala-padma-hāsaiḥ. Bhk_2.3
+
+niśā-tuṣārair nayanā'mbu-kalpaiḥ patrā-'nta-paryāgaladaccha-binduḥ
+upārurodeva nadat-pataṅgaḥ kumudvatīṃ tīra-tarur dinā''dau. Bhk_2.4
+
+vanāni toyāni ca netra-kalpaiḥ puṣpaiḥ sarojaiś ca nilīna-bhṛṅgaiḥ
+parasparāṃ vismayavanti lakṣmī- mālokayāñcakrurivā''dareṇa. Bhk_2.5
+
+prabhāta-vātāha''ti-kampitā''kṛtiḥ kumudvatī-reṇu-piśaṅga-vigraham
+nirāsa bhṛṅgaṃ kupiteva padminī, na māninī saṃsahate 'nya-saṅgamam. Bhk_2.6
+
+dattā'vadhānaṃ madhu-lehi-gītau praśānta-ceṣṭaṃ hariṇaṃ jighāṃsuḥ
+ākarṇayannutsuka-haṃsa-nādān lakṣye samādhiṃ na dadhe mṛgāvit. Bhk_2.7
+
+girer nitambe marutā vibhinnaṃ toyā'vaśeṣeṇa himā''bhamabhram
+sarin-mukhā'bhyuccayamādadhānaṃ śailā'dhipasyā'nucakāra lakṣmīm. Bhk_2.8
+
+garjan hariḥ sā'mbhasi śaila-kuñje pratidhvanīnātma-kṛtān niśamya
+kramaṃ babandha kramituṃ sa-kopaḥ pratarkayannanya-mṛgendra-nādān. Bhk_2.9
+
+adṛkṣatā 'mbhāṃsi navotpalāni, rutāni cā 'śroṣata ṣaṭ-padānām,
+āghrāyi vān gandha-vahaḥ su-gandhas tenā'ravinda-vyatiṣaṅga-vāṃś ca. Bhk_2.10
+
+latā'nupātaṃ kusumānyagṛhṇāt sa, nadyavaskandamupāspṛśac ca,
+kutūhalāc, cāru-śilopaveśaṃ kākutstha īṣat smayamāna āsta. Bhk_2.11
+
+tigmāṃśu-raśmic-churitānya-dūrāt prāñci prabhāte salilānyapaśyat
+gabhasti-dhārābhiriva drutāni tejāṃsi bhānor bhuvi saṃbhṛtāni. Bhk_2.12
+
+dig-vyāpinīr locana-lobhanīyā mṛjā'nvayāḥ snehamiva sravantīḥ
+ṛjvā''yatāḥ śasya-viśeṣa-paṅktīs tutoṣa paśyan vitṛṇā'ntarālāḥ. Bhk_2.13
+
+viyoga-duḥkhā'nubhavā'nabhijñaiḥ kāle nṛpāṃ'śaṃ vihitaṃ dadadbhiḥ
+āhārya-śobhā-rahitairamāyai- raikṣiṣṭa pumbhiḥ pracitān sa goṣṭhān Bhk_2.14
+
+strī-bhūṣaṇaṃ ceṣṭitama-pragalbhaṃ cārūṇya-vakrāṇyapi vīkṣitāni
+ṛjūṃśca viśvāsa-kṛtaḥ svabhāvān gopā'ṅganānāṃ mumude vilokya. Bhk_2.15
+
+vivṛtta-pārśvaṃ rucirā'ṅgahāraṃ samudvahac-cāru-nitamba-ramyam
+āmandra-mantha-dhvani-datta-tālaṃ gopā'ṅganā-nṛtyamanandayat tam. Bhk_2.16
+
+vicitramuccaiḥ plavamānamārāt kutūhalaṃ trasnu tatāna tasya
+meghā'tyayopātta-vanopaśobhaṃ kadambakaṃ vātamajaṃ mṛgāṇām. Bhk_2.17
+
+sitā'ravinda-pracayeṣu ca līnāḥ saṃsakta-peṇeṣu ca saikateṣu
+kundā'vadātāḥ kalahaṃsa-mālāḥ pratīyīre śrotra-sukhair ninādaiḥ. Bhk_2.18
+
+na taj jalaṃ, yan na su-cāru-paṅkajaṃ, na paṅkajaṃ tad, yada-līna-ṣaṭ-padam,
+na ṣaṭ-pado'sau, na juguñja yaḥ kalaṃ; na guñjitaṃ tan, na jahāra yan manaḥ. Bhk_2.19
+
+taṃ yāyajūkāḥ saha bhikṣu-mukhyais tapaḥ-kṛśāḥ śāntyudakumbha-hastāḥ,
+yāyāvarāḥ puṣpa-phalena cā 'nye prāṇarcurarcyā jagadarcanīyam. Bhk_2.20
+
+vidyāmathainaṃ vijayāṃ jayāṃ ca rakṣo-gaṇaṃ kṣipnuma-vikṣatā''tmā
+adhyāpipad gādhi-suto yathāvan nighātayiṣyan yudhi yātudhānān. Bhk_2.21
+
+āyodhane sthāyukamastrajāta- mamoghamabhyarṇa-mahā''havāya
+dadau vadhāya kṣaṇadācarāṇāṃ tasmai muniḥ śreyasi jāgarūkaḥ Bhk_2.22
+
+taṃ vipra-darśaṃ kṛta-ghāta-yatnā yāntaṃ vane rātricarī ḍuḍhauke,
+jighāṃsu-vedaṃ dhṛta-bhāsurā'stram tāṃ tāḍakā''khyāṃ nijaghāna rāmaḥ. Bhk_2.23
+
+athā ''luloke huta-dhūma-ketu- śikhā'ñjana-snigdha-samṛddha-śākham
+tapovanaṃ prādhyayanā'bhibhūta- samuccarac-cāru-pataktri-śiñjam. Bhk_2.24
+
+kṣudrān na jakṣur hariṇān mṛgendrā, viśaśvase pakṣi-gaṇaiḥ samantāt,
+nannamyamānāḥ phala-ditsayeva cakāśire tatra latā vilolāḥ. Bhk_2.25
+
+apūpujan viṣṭara-pādya-mālyai- rātithya-niṣṇā vana-vāsi-mukhyāḥ,
+pratyagrahīṣṭāṃ madhuparka-miśraṃ tāvāsanā''di kṣiti-pālaputrau. Bhk_2.26
+
+daityā'bhibhūtasya yuvāmavoḍhaṃ magnasya dorbhir bhuvanasya bhāram,
+havīṃṣi saṃpratyapi rakṣataṃ, tau tapodhanairitthamabhāṣiṣātām. Bhk_2.27
+
+tān pratyavādīdatha rāghvo'pi--, yathepsitaṃ prastuta karma dharmyam,
+tapo-maruddhir bhavatāṃ śarā'gniḥ saṃdhukṣyatāṃ no'ri-samindhaneṣu. Bhk_2.28
+
+pratuṣṭuvuḥ karma tataḥ prakwxlqqptais te yajñiyair dravya-gaṇair yathāvat,
+dakṣiṇya-diṣṭaṃ kṛtamārtvijīnais tad yātudhānaiś cicite prasarpat. Bhk_2.29
+
+āpiṅga-rūkṣordhva-śirasya-bālaiḥ śirāla-jaṅghair giri-kūṭa-daghnaiḥ
+tataḥ kṣapā'ṭaiḥ pṛthu-piṅgalā'kṣaiḥ khaṃ prāvṛṣeṇyairiva cā''naśe'bdaiḥ. Bhk_2.30
+
+adhijya-cāpaḥ sthira-bāhu-muṣṭi- rudañcitā'kṣo'ñcita-dakṣiṇoruḥ
+tān lakṣmaṇaḥ sannata-vāma-jaṅgho jaghāna śuddheṣura-manda-karṣī. Bhk_2.31
+
+gādheya-diṣṭaṃ virasaṃ rasantaṃ rāmo 'pi māyācaṇamastracuñcuḥ
+sthāsnuṃ raṇe smera-mukho jagāda mārīcamuccair vacanaṃ mahā'rtham. Bhk_2.32
+
+ātmaṃbharis tvaṃpiśitair narāṇāṃ phalegrahīn haṃsi vanaspatīnām,
+śauvastikatvaṃ vibhavā na yeṣāṃ vrajanti, teṣāṃ dayase na kasmāt. Bhk_2.33
+
+admo dvijān, devayajīn nihanmaḥ, kurmaḥ puraṃ preta-narā'dhivāsam,
+dharmo hyayaṃ dāśarathe ! nijo no, naivā'dhyakāriṣmahi veda-vṛtte. Bhk_2.34
+
+dharmo'sti satyaṃ tava rākṣasā'ya- manyo vyatiste tu mamā'pi dharmaḥ,
+brahma-dviṣas te praṇihanmi yena, rājanya-vṛttir dhṛta-kārmukeṣuḥ. Bhk_2.35
+
+itthaṃ-pravādaṃ yudhi saṃprahāraṃ pracakratū rāma-niśā-vihārau,
+tṛṇāya matvā raghu-nandano 'tha bāṇena rakṣaḥ pradhanān nirāsthat. Bhk_2.36
+
+jagmuḥ prasādaṃ dvija-mānasāni, dyaur varṣukā puṣpa-cayaṃ babhūva,
+nir-vyājamijyā vavṛte. vacaś ca bhūyo babhāṣe muninā kumāraḥ Bhk_2.37
+
+mahīyyamānā bhavatā 'timātraṃ surā'dhvare ghasmara-jitvareṇa
+divo'pi vajrā''yudha-bhūṣaṇāyā hriṇīyate vīra-vatī na bhūmiḥ. Bhk_2.38
+
+balir babandhe, jaladhir mamanthe, jahre'mṛtaṃ, daitya-kulaṃ vijigyo,
+kalpā'nta-duḥsthā vasudhā tathohe yenaiṣa bhāro'ti-gurur na tasya. Bhk_2.39
+
+iti bruvāṇo madhuraṃ hitaṃ ca tamāñjihan maithila-yajña-bhūmim
+rāmaṃ muniḥ prīta-manā makhā'nte yaśāṃsi rājñāṃ nijighṛkṣayiṣyan. Bhk_2.40
+
+etau sma mitrā-varuṇau kimetau, kimaśvinau soma-rasaṃ pipāsū,
+janaṃ samastaṃ janakā''śrama-sthaṃ rūpeṇa tāvaujihatāṃ nṛ-siṃhau. Bhk_2.41
+
+ajigrahat taṃ janako dhanus tad "yenā'rdidad daitya-puraṃ pinākī",
+jijñāsamāno balamasya bāhvor. hasannabhāṅkṣvīd raghu-nandanas tat. Bhk_2.42
+
+tato nadī-ṣṇān pathikān giri-jñā- nāhvāyakān bhūmi-paterayodhyām
+ditsuḥ sutāṃ yodha-harais turaṅgair vyasarjayan maithila-martya-mukhyaḥ. Bhk_2.43
+
+kṣipraṃ tato 'dhvanya-turaṅga-yāyī yaviṣṭha-vad vṛddha-tamo 'pi rājā
+ākhyāyakebhyaḥ śruta-sūnu-vṛtti- ra-glāna-yāno mithilāmagacchat. Bhk_2.44
+
+vṛndiṣṭhamārcīd vasudhā-dhipānāṃ taṃ preṣṭhametaṃ guru-vad gariṣṭham
+sadṛṅ-mahāntaṃ sukṛtā'dhivāsaṃ baṃhiṣṭha-kīrtiṃ yaśasā variṣṭham. Bhk_2.45
+
+tri-varga-pārīṇamasau bhavanta- madhyāsayannāsanamekamindraḥ
+viveka-dṛśva-tvamagāt surāṇāṃ, taṃ maithilo vākyamidaṃ babhāṣe. Bhk_2.46
+
+hiraṇmayī sāla-lateva jaṅgamā cyutā divaḥ sthāsnurivā'cira-prabhā
+śaśāṅkaṃ-kānteradhidevatā''kṛtiḥ sutā dade tasya sutāya maithilī. Bhk_2.47
+
+labdhā tato viśvajanīna-vṛttis- tāmātmanīnāmudavoḍha rāmaḥ
+sad-ratna-muktā-phala-bharma-śobhāṃ saṃbaṃhayantīm raghu-vargya-lakṣmīm. Bhk_2.48
+
+su-prātamāsādita-saṃmadaṃ tad vandārubhiḥ saṃstutamabhyayodhyam
+aśvīya-rājanyaka-hāstikā''ḍhya- magāt sa-rājaṃ balamadhvanīnam. Bhk_2.49
+
+viśaṅkaṭo vakṣasi bāṇa-pāṇiḥ saṃpanna-tāla-dvayasaḥ purastāt
+bhīṣmo dhanuṣmānupajānvaratni- raiti sma rāmaḥ pathi jāmadagnyaḥ. Bhk_2.50
+
+uccairasau rāghavamāhvatedaṃ dhanuḥ sa-bāṇaṃ kuru, sā'tiyāsīḥ.
+parākrama-jñaḥ priya-santatis taṃ namraḥ kṣitīndro 'nuninīṣurūce. Bhk_2.51
+
+aneka-śo nirjita-rājakas tvaṃ, pit natārpsīr nṛpa-rakta-toyaiḥ,
+saṃkṣipya saṃrambhama-sadū-vipakṣaṃ, kā ''sthā 'rbhake 'smiṃstava rāma ! rāme. Bhk_2.52
+
+ajīgaṇad daśarathaṃ na vākyaṃ yadā sa darpeṇa, tadā kumāraḥ
+dhanur vyakārkṣīd guru-bāṇa-garbhaṃ, lokānalāvīd vijitāṃśca tasya. Bhk_2.53
+
+jite nṛpā'rau, sumanībhavanti śabdāyamānānya-śanair-śaṅkam
+vṛddhasya rājño 'numate balāni jagāhire 'neka-mukhāni mārgān. Bhk_2.54
+
+atha puru-java-yogān nedayad dūra-saṃsthaṃ davayadati-rayeṇa prāptamurvī-vibhāgam
+klama-rahitamacetan nīrajīkārita-kṣmāṃ, balamupahita-śobhāṃ tūrṇamāyādayodhyām. Bhk_2.55
+
+bhk_3
+
+vadhena saṃkhye piśitā'śanānāṃ kṣatrā'ntakasyā 'bhibhavena caiva
+āḍhyaṃbhaviṣṇur yaśasā kumāraḥ priyaṃbhaviṣṇur na sa yasya nā''sīt. Bhk_3.1
+
+tataḥ sucetīkṛta-paura-bhṛtyo "rājye 'bhiṣekṣye sutamitya-nīcaiḥ
+āghoṣayan bhūmi-patiḥ samastaṃ bhūyo'pi lokaṃ sumanīcakāra. Bhk_3.2
+
+ādikṣadādīpta-kṛśānu-kalpaṃ siṃhāsanaṃ tasya sa-pāda-pīṭham
+santapta-cāmīkara-valgu-vajraṃ vibhāga-vinyasta-mahārgha-ratnam. Bhk_3.3
+
+prāsthāpayat pūga-kṛtān sva-poṣaṃ pṛṣṭān prayatnād dṛḍha-gātra-bandhān
+sa-bharma-kumbhān puruṣān samantāt patkāṣiṇas tīrtha-jalā'rthamāśu. Bhk_3.4
+
+ukṣān pracakrur nagarasya mārgān, dhvajān babandhur, mumucuḥ kha-dhūpān,
+diśaśca puṣpaiścakarur vicitrai- rartheṣu rājñā nipuṇā niyuktāḥ Bhk_3.5
+
+mātāmahā''vāsamupeyivāṃsaṃ mohāda-pṛṣṭvā bharataṃ tadānīm
+tat kekayī soḍhuma-śaknuvānā vavāra rāmasya vana-prayāṇam. Bhk_3.6
+
+karṇe-japairāhita-rājya-lobhā straiṇena nītā vikṛtiṃ laghimnā
+rāma-pravāse vyamṛśan na doṣaṃ janā'pavādaṃ sa-narendra-mṛtyum Bhk_3.7
+
+vasūni deśāṃśca nivartayiṣyan rāmaṃ nṛpaḥ saṃgiramāṇa eva
+tayā 'vajajñe, bharatā'bhiśeko viṣāda-śaṅkuśca matau nicakhne. Bhk_3.8
+
+tataḥ pravivrājayiṣuḥ kumāra- mādikṣadasyā 'bhigamaṃ vanāya
+saumitri-sītā'nucarasya rājā sumantra-netreṇa rathena śocan. Bhk_3.9
+
+kecin ninindur nṛpama-praśāntaṃ, vicukruśuḥ kecana sā'sramuccaiḥ,
+ūcus tathā 'nye bharatasya māyāṃ, dhik kekayīmityaparo jagāda. Bhk_3.10
+
+"gato vanaṃ śvo bhaviteti rāmaḥ," śokena dehe janatā 'timātram,
+dhīrās tu tatra cyuta-manyavo 'nye dadhuḥ kumārā'nugame manāṃsi. Bhk_3.11
+
+prasthāsyamānāvupaseduṣas tau śośucyamānānidamūcatus tān,
+"kiṃ śocatehā 'bhyudaye batā 'smān niyoga-lābhena pituḥ kṛtā'rthān, Bhk_3.12
+
+asṛṣṭa yo, yaśca bhayeṣvarakṣīd, yaḥ sarvadā 'smānapuṣat sva-poṣam,
+mahopakārasya kimasti tasya tucchena yānena vanasya mokṣaḥ, Bhk_3.13
+
+vidyut-praṇāśaṃ sa varaṃ pranaṣṭo, yadvordhva-śoṣaṃ tṛṇa-vad viśuṣkaḥ,
+arthe durāpe kimuta pravāse na śāsane 'vāsthita yo gurūṇām. Bhk_3.14
+
+paurā ! nivartadhvamiti nyagādīt, "tātasya śokā'panudā bhaveta,
+mā darśatā'nyaṃ bharataṃ ca matto," nivartayetyāha rathaṃ sma sūtam Bhk_3.15
+
+jñātveṅgitair gatvaratāṃ janānā- mekāṃ śayitvā rajanīṃ sa-pauraḥ
+rakṣan vane-vāsa-kṛtād bhayāt tān prātaś chalenā 'pajagāma rāmaḥ Bhk_3.16
+
+asrākṣurasraṃ karuṇaṃ ruvanto, muhurmuhur nyaśvasiṣuḥ kapoṣṇam,
+hā rāma ! hā kaṣṭamiti brunvataḥ parāṅ-mukhais te nyavṛtan manobhiḥ Bhk_3.17
+
+sūto 'pi gaṅgā-salilaiḥ pavitvā sahā''śvamātmānamanalpa-manyuḥ
+sa-sītayo rāghavayoradhīyan śvasan kaduṣṇaṃ puramāviveśa. Bhk_3.18
+
+pratīya sā pūr dadṛśe janena dyaur bhānu-śītāṃśu-vinākṛteva
+rājanya-nakṣatra-samanvitā 'pi śokā'ndhakāra-kṣata-sarva-ceṣṭā. Bhk_3.19
+
+vilokya rāmeṇa vinā sumantra- macyoṣṭa satvān nṛ-patiś cyutā''śaḥ
+madhūni naiṣīd vyalipan na gandhair, mano-rame na vyavasiṣṭa vastre. Bhk_3.20
+
+āsiṣṭa naikatra śucā, vyaraṃsīt kṛtā'kṛtebhyaḥ kṣiti-pāla-bhāg-bhyaḥ,
+sa candanośīra-mṛṇāla-digdhaḥ śokā-gninā 'gād dyu-nivāsa-bhūyam. Bhk_3.21
+
+vicukruśur bhūmi-pater mahiṣyaḥ, keśāṃl luluñcuḥ, sva-vapūṃṣi jaghnuḥ,
+vibhūṣaṇānyunmumucuḥ, kṣamāyā petur, babhañjur valayāni caiva. Bhk_3.22
+
+tāḥ sāntvayantī bharata-pratīkṣā taṃ bandhu-tā nyakṣipadāśu taile,
+dūtāṃśca rājā''tmajamāninīṣūn prāsthāpayan mantri-matena yūnaḥ. Bhk_3.23
+
+"supto nabhastaḥ patitaṃ nirīkṣāṃ- cakre vivasvantamadhaḥ sphurantam,"
+ākhyad vasan mātṛ-kule sakhibhyaḥ paśyan pramādaṃ bharato 'pi rājñaḥ. Bhk_3.24
+
+aśiśravannātyayikaṃ tametya dūtā yadā 'rthaṃ prayiyāsayantaḥ,
+āṃhiṣṭa jātā'ñjihiṣas tadā 'sā- vutkaṇṭhamāno bharato gurūṇām. Bhk_3.25
+
+bandhūnaśāṅkiṣṭa samākulutvā- dāseduṣaḥ sneha-vaśādapāyam,
+gomāyu-sāraṅga-gaṇāś ca samyaṅ nā 'yāsiṣur, bhīmamarāsiṣuśca. Bhk_3.26
+
+sa proṣivānetya puraṃ pravekṣyan śuśrāva ghoṣaṃ na janaugha-janyam,
+ākarṇayāmāsa na veda-nādān, na copalebhe vaṇijāṃ paṇā'yān. Bhk_3.27
+
+cakranduruccair nṛ-patiṃ sametya taṃ mātaro 'bhyarṇamupāgatā'srāḥ,
+purohitā'mātya-mukhāś ca yodhā vivṛddha-manyu-pratipūrṇa-manyā. Bhk_3.28
+
+didṛkṣamāṇaḥ paritaḥ sa-sītaṃ rāmaṃ yadā naikṣata lakṣmaṇaṃ ca,
+rorudyamānaḥ sa tadā'bhyapṛcchad, yathāvadākhyannatha vṛttamasmai. Bhk_3.29
+
+ābaddha-bhīma-bhrukuṭī-vibhaṅgaḥ śeśvīyamānā'ruṇa-raudra-netraḥ
+uccairupālabdha sa kekayīṃ ca, śoke muhuś cāvirataṃ nyamāṅkṣīt. Bhk_3.30
+
+nṛpā''tmajau cikliśatuḥ sa-sītau, mamāra rājā, vi-dhavā bhavatyaḥ,
+śocyā vayaṃ, bhūra-nṛpā, laghutvaṃ kekayyupajñaṃ bata bahvanartham. Bhk_3.31
+
+naitan mataṃ matkamiti bruvāṇaḥ sahasra-śo 'sau śapathānaśapyat
+udvāśyamānaḥ pitaraṃ sa-rāmaṃ luṭhyan sa-śoko bhuvi rorudā-vān. Bhk_3.32
+
+taṃ susthayantaḥ sacivā narendraṃ didhakṣayantaḥ samudūhurārāt
+antyā''hutiṃ hāvayituṃ sa-viprāś cicīṣayanto'dhvara-pātra-jātam. Bhk_3.33
+
+udakṣipan paṭṭa-dukūla-ketū- navādayan veṇu-mṛdaṅga-kāṃsyam,
+kambūṃś ca tārānadhaman samantāt, tathā''nayan kuṅkuma-candanāni. Bhk_3.34
+
+śrotrā'kṣi-nāsā-vadanaṃ sa-rukmaṃ kṛtvā'jine prāk-śirasaṃ nidhāya
+sañcitya pātrāṇi yathā-vidhāna- mṛtvig juhāva jvalitaṃ citā'gnim Bhk_3.35
+
+kṛteṣu piṇḍodaka-sañcayeṣu, hitvā'bhiṣekaṃ prakṛtaṃ prajābhiḥ
+pratyāninīṣur vinayena rāmaṃ prāyādaraṇyaṃ bharataḥ sa-pauraḥ. Bhk_3.36
+
+śīghrāyamāṇaiḥ kakubho'śnuvānair janaira-panthānamupetya sṛptaiḥ
+śokāda-bhūṣairapi bhūś cakāsā- ñcakāra nāgendra-rathā'śva-miśraiḥ. Bhk_3.37
+
+uccikyire puṣpa-phalaṃ vanāni, sasnuḥ pit n pipriyurāpagāsu,
+āreṭuritvā pulinānyaśaṅkaṃ, chāyāṃ samāśritya viśaśramuśca. Bhk_3.38
+
+saṃprāpya tīraṃ tamasā''pagāyā gaṅgā'mbu-samparka-viśuddhi-bhājaḥ
+vigāhituṃ yāmunamabmu puṇyaṃ yayur niruddha-śramavṛttayas te. Bhk_3.39
+
+īyur bharadvāja-muner niketaṃ, yasmin viśaśrāma sametya rāmaḥ
+cyutā'śanāyaḥ phalavad-vibhūtyā vysyannudanyāṃ śiśiraiḥ payobhiḥ. Bhk_3.40
+
+vācaṃ-yamān sthaṇḍila-śāyinaś ca yuyukṣamāṇānaniśaṃ mumukṣūn
+adhyāpayantaṃ vinayāt praṇemuḥ padgā bharadvāja-muniḥ sa-śiṣyaṃ. Bhk_3.41
+
+ātithyamebhyaḥ parinirvivapsoḥ kalpa-drumā yoga-balena pheluḥ,
+dhāma-prathimno mradimā'nvitāni vāsāṃsi ca drāghima-vantyudūhuḥ Bhk_3.42
+
+ājñāṃ pratīṣur, vinayādupāsthur, jaguḥ sarāgaṃ, nanṛtuḥ sa-hāvam,
+sa-vibhramaṃ nemurudāramucus tilottamā''dyā vanitāśca tasmin. Bhk_3.43
+
+vastrā'nna-pānaṃ śayanaṃ ca nānā kṛtvā'vakāśe ruci-saṃprakwxlqqptam
+tān prīti-mānāha munis tataḥ sma "nivadhvamādhvaṃ, pibatā'tta śedhvam. Bhk_3.44
+
+te bhuktavantaḥ su-sukhaṃ vasitvā vāsāṃsyuṣitvā rajanīṃ prabhāte
+drutaṃ samadhvā ratha-vāji-nāgair mandākinīṃ ramya-vanāṃ samīyuḥ. Bhk_3.45
+
+vaikhānasebhyaḥ śruta-rāma-vārtās tato viśiñjāna-pataktri-saṅgham
+abhraṃ-lihā'graṃ ravi-mārga-bhaṅgam ānaṃhire 'driṃ prati citra-kūṭam. Bhk_3.46
+
+dṛṣṭvorṇuvānān kakubho balaughān vitatya śārṅgaṃ kavacaṃ pinahya
+tasthau sisaṃgrāmayiṣuḥ śiteṣuḥ saumitrirakṣi-bhruvamujjihānaḥ Bhk_3.47
+
+śuklottarāsaṅga-bhṛto vi-śastrān pādaiḥ śanairāpatataḥ pra-manyūn
+auhiṣṭa tān vīta-viruddha-buddhīn vivandiṣūn dāśarathiḥ sva-vargyān Bhk_3.48
+
+sa-mūla-kāṣaṃ cakaṣū rudanto rāmā'ntikaṃ bṛṃhita-manyu-vegāḥ
+āvedayantaḥ kṣiti-pālamuccaiḥ- kāraṃ mṛtaṃ rāma-viyoga-śokāt Bhk_3.49
+
+ciraṃ ruditvā karuṇaṃ sa-śabdaṃ gotrā'bhidhāyaṃ saritaṃ sametya
+madhye-jalād rāghava-lakṣmaṇābhyāṃ prattaṃ jalaṃ dvyañjalamantike'pām. Bhk_3.50
+
+"araṇya-yāne su-kare pitā mā prāyuṅkta, rājye bata duṣ-kare tvām,
+mā gāḥ śucaṃ vīra !, bharaṃ vahā 'mum," ābhāṣi rāmeṇa vacaḥ kanīyān. Bhk_3.51
+
+"kṛtī śrutī vṛddha-mateṣu dhīmāṃs tvaṃ paitṛkaṃ ced vacanaṃ na kuryāḥ,
+vicchidyamāne 'pi kule parasya puṃsaḥ kathaṃ syādiha putra-kāmyā. Bhk_3.52
+
+asmākamuktaṃ bahu manyase ced, yadīśiṣe tvaṃ na mayi sthite ca,
+jihreṣya-tiṣṭhan yadi tāta-vākye, jahīhi śaṅkāṃ, vraja, śādhi pṛthvīm." Bhk_3.53
+
+"vṛddhaurasāṃ rājya-dhurāṃ pravoḍhuṃ kathaṃ kanīyānahamutsaheya,
+mā māṃ prayukthāḥ kula-kīrti-lope," prāha sma rāmaṃ bharato'pi dharymam. Bhk_3.54
+
+"ūrjas-valaṃ hasti-turaṅgametad, amūni ratnāni ca rāja-bhāñji,
+rājanyakaṃ caitadahaṃ kṣitīndras tvayi sthite syāmiti śāntamaitat." Bhk_3.55
+
+iti nigaditavantaṃ rāghavas taṃ jagāda "vraja bharata ! gṛhītvā pāduke tvaṃ madīye,
+cyuta-nikhila-viśaṅkaḥ pūjyamāno janaughaiḥ sakala-bhuvana-rājyaṃ kārayā 'sman-matena" Bhk_3.56
+
+bhk_4
+
+nivṛtte bharate dhī-mānatre rāmas tapo-vanam
+prapede, pūjitas tasmin daṇḍakāraṇyamīyivān. Bhk_4.1
+
+aṭāṭyamāno 'raṇyānīṃ sa-sītaḥ saha-lakṣmaṇaḥ
+balād bubhukṣuṇotkṣipya jahre bhīmena rakṣasā. Bhk_4.2
+
+avāk-śirasamut-pādaṃ kṛtāntenā 'pi dur-damam
+bhaṅktvā bhujau virādhā''khyaṃ taṃ tau bhuvi nicakhnatuḥ. Bhk_4.3
+
+āṃhiṣātāṃ raghu-vyāghrau śarabhaṅgā''śramaṃ tataḥ
+adhyāsitaṃ śriyā brāhmyā śaraṇyaṃ śaraṇaiṣiṇām. Bhk_4.4
+
+puro rāmasya juhavāñcakāra jvalane vapuḥ
+śarabhaṅgaḥ pradiśyā''rāt sutīkṣṇa-muniḥ-ketanam Bhk_4.5
+
+"yūyaṃ samaiṣyathetyasmi nnāsiṣmahi vayaṃ vane,
+dṛṣṭāḥ stha, svasti vo, yāmaḥ sva-puṇya-vijitāṃ gatim" Bhk_4.6
+
+tasmin kṛśānu-sād-bhūte sutīkṣṇa-muni-sannidhau
+uvāsa parṇa-śālāyāṃ bhramannaniśamā''śramān, Bhk_4.7
+
+vaneṣu vāsateyeṣu nivasan parṇa-saṃstaraḥ
+śayyotthāyaṃ mṛgān vidhyannātitheyo vicakrame Bhk_4.8
+
+ṛg-yajuṣamadhīyānān sāmānyāṃśca samarcayan
+bubhuje deva-sāt-kṛtvā śūlyamukhyaṃ ca hema-vān. Bhk_4.9
+
+vasānas tantraka-nibhe sarvāṅgīṇe taru-tvacau
+kāṇḍīraḥ khāḍgakaḥ śārṅgī rakṣan viprāṃstanutra-vān Bhk_4.10
+
+hitvā''śitaṅgavīnāni phalair yeṣvāśitambhavam,
+teṣvasau dandaśūkā'rir vaneśvānabhra nir-bhayaḥ. Bhk_4.11
+
+vrātīna-vyāla-dīprā'straḥ sutvanaḥ paripūjayan
+parṣadvalān mahā-brahmairāṭa naikaṭikā''śramān. Bhk_4.12
+
+paredyavyadya pūrvedyuranyedyuś cā'pi cintayan
+vṛddhi-kṣayau munīndrāṇāṃ priyaṃ-bhāvuka-tāmagāt. Bhk_4.13
+
+ā-tiṣṭhad-gu japan sandhyā prakrāntāmāyatīgavam
+prātastarāṃ patatribhyaḥ prabuddhaḥ praṇaman ravim. Bhk_4.14
+
+dadṛśe parṇa-śālāyāṃ rākṣasyā 'bhīkayā 'tha saḥ,
+bhāryoḍhaṃ tamavajñāya tasthe saumitraye'sakau. Bhk_4.15
+
+dadhānā vali-bhaṃ madhyaṃ karṇa-jāha-vilocanā
+vāka-tvacenā'ti-sarveṇa candra-lekheva pakṣatau Bhk_4.16
+
+su-pād dvi-rad-nāsorūr mṛdu-pāṇi-talā'ṅguliḥ
+prathimānaṃ dadhānena jaghanena ghanena sā Bhk_4.17
+
+un-nasaṃ dadhatī vaktraṃ śuddha-dal-lola-kuṇḍalam
+kurvāṇā paśyataḥ śaṃyūn sragviṇī su-hasā''nanā Bhk_4.18
+
+prāpya cañcūryamāṇā patīyantī raghūttamam
+anukā prārthayāñcakre priyā-kartuṃ priyaṃ-vadā. Bhk_4.19
+
+"saumitre ! māmupāyaṃsthāḥ kamrāmicchur vaśaṃ-vadām
+tvad-bhogīnāṃ saha-carīma-śaṅkaḥ puruṣā''yuṣam." Bhk_4.20
+
+tāmuvāca sa-"gauṣṭhīne vane strī-puṃsa-bhīṣaṇe
+a-sūryaṃ-paśya-rūpā tvaṃ kima-bhīrurarāryase. Bhk_4.21
+
+mānuṣānabhilaṣyantī rociṣṇur divya-dharmiṇī
+tvamapsarāyamāṇeha sva-tantrā kathamañcasi. Bhk_4.22
+
+ugraṃ-paśyā''kulo 'raṇye śālīna-tva-vivarjitā
+kāmuka-prārthanā-paṭvī pativatnī kathaṃ na vā. Bhk_4.23
+
+rāghavaṃ parṇa-śālāyāmicchā 'nurahasaṃ patim,
+yaḥ svāmī mama kāntā-vānaupakarṇika-locanaḥ Bhk_4.24
+
+vapuś cāndanikaṃ yasya, kārṇaveṣṭakikaṃ mukham,
+saṃgrāme sarva-karmīṇau pāṇī yasyaupajānukau. Bhk_4.25
+
+baddho dur-bala-rakṣā'rthamasir yenopanīvikaḥ,
+yaś cāpamāśmana-prakhyaṃ seṣuṃ dhatte'nya-dur-vaham. Bhk_4.26
+
+jetā yajña-druhāṃ saṃkhye dharma-santāna-sūr vane
+prāpya dāra-gavānāṃ yaḥ munīnāma-bhayaṃ sadā" Bhk_4.27
+
+tato vāvṛtyamānā 'sau rāma-śālāṃ nyavikṣata,
+"māmupāyaṃsta rāme"ti vadantī sā''daraṃ vacaḥ Bhk_4.28
+
+"a-strīko 'sāvahaṃ strī-mān, sa puṣyati-tarāṃ tava
+patir"ityabravīd rāmas"tameva vraja, mā mucaḥ." Bhk_4.29
+
+lakṣmaṇaṃ 'sā vṛṣasyantī mahokṣaṃ gaurivā 'gamat
+manmathā''yudha-sampāta-vyathyamāna-matiḥ punaḥ. Bhk_4.30
+
+tasyāḥ sāsadyamānāyā lolūyā-vān raghūttamaḥ
+asiṃ kaukṣeyamudyamya cakārā'pa-nasaṃ mukham. Bhk_4.31
+
+"ahaṃ śūrpa-ṇakhā nāmnā nūnaṃ nā 'jñāyiṣi tvayā,
+daṇḍo 'yaṃ kṣetriyo yena mayyapātī"ti sā 'bravīt. Bhk_4.32
+
+paryaśāpsīd divi-ṣṭhā 'sau saṃdarśya bhaya-daṃ vapuḥ
+apisphavac ca bandhūnāṃ ninaṅkṣur vikramaṃ muhuḥ Bhk_4.33
+
+khara-dūṣaṇayor bhrātroḥ paryadeviṣṭa sā puraḥ,
+vijigrāhayiṣū rāmaṃ daṇḍakāraṇya-vāsinoḥ Bhk_4.34
+
+"kṛte saubhāgineyasya bharatasya vivāsitau
+pitrā daurbhāgineyau yau, paśyataṃ ceṣṭitaṃ tayoḥ. Bhk_4.35
+
+mama rāvaṇa-nāthāyā bhaginyā yuvayoḥ punaḥ
+ayaṃ tāpasakād dhvaṃsaḥ, kṣamadhvaṃ, yadi vaḥ kṣamam. Bhk_4.36
+
+a-saṃskṛtrima-saṃvyānāvanuptrima-phalāśinau
+a-bhṛtrima-parīvārau paryabhūtāṃ tathāpi mām." Bhk_4.37
+
+"śvaḥśreyasamavāptāsi" bhrātṛbhyāṃ pratyabhāṇi sā
+prāṇivas tava mānā'rthaṃ, vrajā''śvasihi, mā rudaḥ. Bhk_4.38
+
+jakṣimo 'naparādhe'pi narān naktaṃ-divaṃ vayam,
+kutas-tyaṃ bhīru ! yat tebhyo druhyadbhyo 'pi kṣamāmahe." Bhk_4.39
+
+tau caturdaśa-sāhasrabalau niryayatus tataḥ
+pāraśvadhika-dhānuṣka-śāktika-prāsikā'nvitau. Bhk_4.40
+
+atha sampatato bhīmān viśikhai rāma-lakṣmaṇau
+bahu-mūrdhno dvi-mūrdhāṃśca tri-mūrdhāś cā 'hatāṃ mṛdhe. Bhk_4.41
+
+tair vṛkṇa-rugṇa-sambhugna-kṣuṇṇa-bhinna-vipanna-kaiḥ.
+nimagnodvigna-saṃhrīṇaiḥ papre dīnaiś ca medinī. Bhk_4.42
+
+ke-cid vepathumāseduranye davathumuttamam,
+sa-raktaṃ vamathuṃ kecid, bhrājathuṃ na ca ke-cana. Bhk_4.43
+
+mṛgayumiva mṛgo 'tha dakṣiṇermā, diśamiva dāha-vatīṃ marāvudanyan,
+raghu-tanayamupāyayau tri-mūrdho, viśabhṛdivogra-mukhaṃ patatri-rājam, Bhk_4.44
+
+śita-viśikha-nikṛttakṛtsna-vaktraḥ kṣiti-bhṛdiva kṣiti-kampa-kīrṇa-śṛṅgaḥ
+bhayamupanidadhe sa rākṣasānām a-khila-kula-kṣaya-pūrva-liṅga-tulyaḥ. Bhk_4.45
+
+bhk_5
+
+nirākariṣṇū vartiṣṇū vardhiṣṇū parato raṇam
+utpatiṣṇū sahiṣṇū ca ceratuḥ khara-dūṣaṇau. Bhk_5.1
+
+tau khaḍga-musala-prāsa-cakra-bāṇa-gadā-karau
+akārṣṭāmāyudha-cchāyaṃ rajaḥ-santamase raṇe. Bhk_5.2
+
+atha tīkṣṇā''yasair bānairadhi-marma raghūttamau
+vyādhaṃ vyādhama-mūḍhau tau yama-sāc-cakratur dviṣau. Bhk_5.3
+
+hata-bandhur jagāmā 'sau tataḥ śūrpa-ṇakhā vanāt
+pāre-samudraṃ laṅkāyāṃ vasantaṃ rāvaṇāṃ patim. Bhk_5.4
+
+saṃprāpya rākṣasa-sabhaṃ cakranda krodha-vihvalā,
+nāma-grāmamarodīt sā bhrātarau rāvaṇā'ntike. Bhk_5.5
+
+"daṇḍakānadhyavāttāṃ yau vīra ! rakṣaḥ-prakāṇḍakau,
+nṛbhyāṃ saṃkhye'kṛśātāṃ tau sa-bhṛtyau bhūmi-vardhnau. Bhk_5.6
+
+vigrahas tava śakreṇa bṛhaspati-purodhasā
+sārdhaṃ kumāra-senānyā, śūnyaś cā'sīti ko nayaḥ Bhk_5.7
+
+yadyahaṃ nātha ! nā 'yāsyaṃ vi-nāsā hata-bāndhavā,
+nā 'jñāsyas tvamidaṃ sarvaṃ pramādyaṃś cāra-dur-balaḥ. Bhk_5.8
+
+kariṣyamāṇaṃ vijñeyaṃ kāryaṃ, kiṃ nu kṛtaṃ paraiḥ,
+apakāre kṛte 'pyajño vijigīṣur na vā bhavān. Bhk_5.9
+
+vṛtas tvaṃ pātre-samitaiḥ khaṭvā''rūḍhaḥ pramāda-vān
+pāna-śauṇḍaḥ śriyaṃ netā nā 'tyantīna-tvamunmanāḥ Bhk_5.10
+
+adhvareṣvagnicitvatsu somasutvata āśramān
+attuṃ mahendriyaṃ bhāgameti duścyavano 'dhunā, Bhk_5.11
+
+āmikṣīyaṃ dadhi-kṣīraṃ puroḍāśyaṃ tathauṣadham
+havir haiyaṅgavīnaṃ ca nā'pyupaghnanti rākṣasāḥ Bhk_5.12
+
+yuva-jānir dhanuś-pāṇir bhūmi-ṣṭhaḥ kha-vicāriṇaḥ
+rāmo yajña-druho hanti kāla-kalpa-śilīmukhaḥ Bhk_5.13
+
+māṃsānyoṣṭhā'valopyāni sādhanīyāni devatāḥ
+aśnanti, rāmād rakṣāṃsi bibhyaśruvate diśaḥ Bhk_5.14
+
+kuru buddhiṃ kuśā'griyāmanukāmīna-tāṃ tyaja,
+lakṣmīṃ paramparīṇāṃ tvaṃ putra-pautrīṇa-tāṃ naya. Bhk_5.15
+
+sahāya-vanta udyuktā bahavo nipuṇāś ca yām
+śriyamāśāsate, lolāṃ tāṃ haste-kṛtya mā śvasīḥ Bhk_5.16
+
+lakṣmīḥ puṃ-yogamāśaṃsuḥ kulaṭeva kutūhalāt
+antike 'pi sthitā patyuś chalenā'nyaṃ nirīkṣate. Bhk_5.17
+
+yoṣid-vṛndārikā tasya dayitā haṃsa-gāminī
+dūrvā-kāṇḍamiva śyāmā nyagrodha-parimaṇḍalā. Bhk_5.18
+
+nā''syaṃ paśyati yas tasyā, niṃste danta-cchadaṃ na vā,
+saṃśṛṇoti na coktāni, mithyā''sau nihitendriyaḥ. Bhk_5.19
+
+sāro 'sāvindriyā'rthānāṃ, yasyā 'sau tasya nandathuḥ,
+talpe kāntā'ntaraiḥ sārdhaṃ manye 'haṃ dhiṅ nimajjathum. Bhk_5.20
+
+na taṃ paśyāmi, yasyā 'sau bhaven nodejayā mateḥ
+trailokyenā'pi vindas tvaṃ tāṃ krītvā sukṛtī bhava. Bhk_5.21
+
+naivendrāṇī, na rudrāṇī, na mānavī na rohiṇī,
+varuṇānī na, nā 'gnāyī tasyāḥ sīmantinī samā." Bhk_5.22
+
+pratyūce rākṣasendras tām "āśvasihi, bibheṣi kim,
+tyaja naktañcari ! kṣobhaṃ, vācāṭe ! rāvaṇo hyaham. Bhk_5.23
+
+māmupāsta didṛkṣā-vān yāṣṭīka-vyāhato hariḥ
+ājñā-lābhonmukho dūrāt kākṣeṇā 'nādarekṣitaḥ Bhk_5.24
+
+virugṇo-dagra-ghārā'gnaḥ kuliśo mama vakṣasi
+a-bhinnaṃ śata-dhā ''tmānaṃ manyate balinaṃ balī. Bhk_5.25
+
+kṛtvā laṅkādrumā''lānamahamairāvataṃ gajam
+bandhane 'nupayogi-tvān nataṃ tṛṇa-vadatyajam. Bhk_5.26
+
+āhopuruṣikāṃ paśya mama, sad-ratna-kānti-bhiḥ
+dhvastā'ndhakāre 'pi pure pūrṇendoḥ sannidhiḥ sadā. Bhk_5.27
+
+hṛta-ratnaś cyutodyogo rakṣobhyaḥ kara-do divi
+pūtakratāyīmabhyeti sa-trapaḥ kiṃ na gotra-bhit. Bhk_5.28
+
+a-tulya-mahasā sārdhaṃ rāmeṇa mama vigrahaḥ
+trapā-karas, tathāpyeṣa yatiṣye tad-vinigrahe." Bhk_5.29
+
+utpatya khaṃ daśa-grīvo mano-yāyī śitā'stra-bhṛt
+samudra-savidhā''vāsaṃ mārīcaṃ prati cakrame. Bhk_5.30
+
+sampatya tat-sanīḍe-sau taṃ vṛttāntamaṣiṣravat,
+trasnunā'tha śrutā'rthena tenā'gādi daśā''nanaḥ. Bhk_5.31
+
+"antardhatsva raghu-vyāghrāt tasmāt tvaṃ rākṣaseśvara !,
+yo raṇne durupasthāno hasta-rodhaṃ dadhad dhanuḥ, Bhk_5.32
+
+bhavantaṃ kārtavīryo yo hīna-sandhimacīkarat,
+jigāya tasya hantāraṃ sa rāmaḥ sārvalaukikam. Bhk_5.33
+
+yamā''sya-dṛśvarī tasya tāḍakā vetti vikramam.
+śūraṃ-manyo raṇāc cā'haṃ nirastaḥ siṃha-nardinā. Bhk_5.34
+
+na tvaṃ tenā 'nvabhāviṣṭhā, nā 'nvabhāvi tvayā 'pyasau,
+anubhūto mayā cā 'sau, tena cā 'nvabhaviṣyaham, Bhk_5.35
+
+adhyaṅ śastra-bhṛtāṃ rāmo, nyañcas taṃ prāpya mad-vidhāḥ,
+sa kanyā-śulkamabhanaṅ mithilāyāṃ makhe dhanuḥ Bhk_5.36
+
+saṃ-vittaḥ saha-yudhvānau tac-chaktiṃ khara-dūṣaṇau,
+yajvānaś ca sa-sutvāno, yānagopīn makheṣu saḥ. Bhk_5.37
+
+sukha-jātaḥ surā-pīto nṛ-jagdho mālya-dhārayaḥ
+adhi-laṅkaṃ striyo dīvya, mā ''rabdhā bali-vigraham." Bhk_5.38
+
+taṃbhītaṃ-kāramākruśya rāvaṇaḥ pratyabhāṣata
+"yāta-yāmaṃ vijitavān sa rāmaṃ yadi, kiṃ tataḥ Bhk_5.39
+
+aghāni tāḍakā tena lajjā-bhaya-vibhūṣaṇā,
+strī-jane yadi tac chlāghyaṃ, dhig lokaṃ kṣudra-mānasam. Bhk_5.40
+
+yad gehe-nardinamasau śarair bhīrumabhāyayat
+ku-brahma-yajña-ke rāmo bhavantaṃ, pauruṣaṃ na tat. Bhk_5.41
+
+cira-kāloṣitaṃ jīrṇaṃ kīṭa-niṣkuṣitaṃ dhanuḥ
+kiṃ citraṃ yadi rāmeṇa bhagnaṃ kṣatriya-kā'ntike. Bhk_5.42
+
+vana-tāpasa-ke vīrau vipakṣe galitā''darau
+kiṃ citraṃ yadi sā'vajñau mamratuḥ khara-dūṣaṇau. Bhk_5.43
+
+tvaṃ ca bhīruḥ su-durbuddhe ! nityaṃ śaraṇa-kāmyasi,
+guṇāṃś cā'pahnuṣe'smākaṃ, stauṣi śatrūṃś ca naḥ sadā. Bhk_5.44
+
+śīrṣac-chedyamato'haṃ tvā karomi kṣiti-vardhanam,
+kārayiṣyāmi vā kṛtyaṃ vijighṛkṣur vanaukasau. Bhk_5.45
+
+tamudyata-niṣātā'siṃ pratyuvāca jijīviṣuḥ
+mārīco 'nunayaṃs trāsād "abhyamitryo bhavāmi te. Bhk_5.46
+
+harāmi rāma-saumitrī mṛgo bhūtvā mṛga-dyuvau,
+udyogamabhyamitrīṇo yatheṣṭaṃ tvaṃ ca saṃ-tanu." Bhk_5.47
+
+tataś citrīyamāṇo 'sau hema-ratna-mayo mṛgaḥ
+yathāmukhīnaḥ sītāyāḥ pupluve bahu lobhayan. Bhk_5.48
+
+tenā 'dudyūṣayad rāmaṃ mṛgeṇa mṛga-locanā
+maithilī vipuloraskaṃ prāvuvūrṣur mṛgā'jinam. Bhk_5.49
+
+yoga-kṣema-karaṃ kṛtvā sītāyā lakṣmaṇaṃ tataḥ
+mṛgasyā'nupadī rāmo jagāma gaja-vikramaḥ Bhk_5.50
+
+sthāyaṃ sthāyaṃ kvacid yāntaṃ krāntvā krāntvā sthitaṃ kvacit
+vīkṣamāṇo mṛgaṃ rāmaś citra-vṛttiṃ visiṣmiye. Bhk_5.51
+
+ciraṃ kliśitvā marmā-vid rāmo vilubhita-plavam
+śabdāyamānamavyātsīt bhaya-daṃ kṣaṇadā-caram. Bhk_5.52
+
+śrutvā visphūrjathu-prakhyaṃ ninādaṃ paridevinī
+matvā kaṣṭa-śritaṃ rāmaṃ saumitriṃ gantumaijihat. Bhk_5.53
+
+"eṣa prāvṛṣi-jā'mbho-da- nādī bhrātā virauti te,
+jñāteyaṃ kuru saumitre ! bhayāt trāyasva rāghavam." Bhk_5.54
+
+"rāma-saṃghuṣitaṃ naitan, mṛgasyaiva vivañciṣoḥ
+rāma-svanita-saṅkāśaḥ svān", ityavadat sa tām. Bhk_5.55
+
+"āpyāna-skandha-kaṇṭhāṃ'saṃ ruṣitaṃ sahituṃ raṇe
+prorṇuvantaṃ diśo bāṇaiḥ kākutsthaṃ bhīru ! kaḥ kṣamaḥ Bhk_5.56
+
+dehaṃ bibhnakṣura-strā'gnau mṛgaḥ prāṇair dideviṣan
+jyā-ghṛṣṭa-kaṭhinā'ṅguṣṭhaṃ rāmamāyān mumūrṣayā. Bhk_5.57
+
+śatrūn bhīṣayamāṇaṃ taṃ rāmaṃ vismāpayeta kaḥ,
+mā sma bhaiṣīs, tvayā 'dyaiva kṛtā'rtho drakṣyate patiḥ" Bhk_5.58
+
+"yāyās tvamiti kāmo me, gantumutsahase na ca,
+icchuḥ kāmayituṃ tvaṃ mām", ityasau jagade tayā. Bhk_5.59
+
+mṛṣodyaṃ pravadantīṃ tāṃ satya-vadyo raghūttamaḥ
+niragāt "śatru-hastaṃ tvaṃ yāsyasī"ti śapan vaśī. Bhk_5.60
+
+gate tasmin, jala-śuciḥ śuddha-dan rāvaṇaḥ śikhī
+jañjapūko 'kṣa-mālā-vān dhārayo mṛdalābunaḥ Bhk_5.61
+
+kamaṇḍalu-kapālena śirasā ca mṛjā-vatā
+saṃvastrya lākṣike vastre mātrāḥ saṃbhāṇḍya daṇḍa-vān Bhk_5.62
+
+adhīyannātma-vid vidyāṃ dhārayan maskari-vratam
+vadan bahvaṅguli-sphoṭaṃ bhrū-kṣepaṃ ca vilokayan Bhk_5.63
+
+saṃdidarśayiṣuḥ sāma nijuhnūṣuḥ kṣapāṭa-tām
+caṃkramā-vān samāgatya sītāmūce"sukhābhava." Bhk_5.64
+
+sāyaṃ-tanīṃ tithi-praṇyaḥ paṅkajānāṃ divā-tanīm
+kāntiṃ kāntyā sadā-tanyā hrepayantī śuci-smitā. Bhk_5.65
+
+kā tvamekākinī bhīru ! niranvaya-jane vane,
+kṣudhyanto 'pyaghasan vyālās tvāma-pālāṃ kathaṃ na vā. Bhk_5.66
+
+hṛdayaṃ-gama-mūrtis tvaṃ subhagaṃ-bhāvukaṃ vanam
+kurvāṇā bhīmamapyetad vadā 'bhyaiḥ kena hetunā. Bhk_5.67
+
+sukṛtaṃ priya-kārī tvaṃ kaṃ harasyupatiṣṭhase,
+puṇya-kṛc cāṭu-kāras te kiṅkaraḥ surateṣu kaḥ. Bhk_5.68
+
+pari-paryudadhe rūpamā-dyu-lokāc ca dur-labham.
+bhāvatkaṃ dṛṣṭavatsvetadasmāsvadhi su-jīvitam. Bhk_5.69
+
+āpīta-madhukā bhṛṅgaiḥ sudivevā'ravindinī
+sat-parimala-lakṣmīkā nā '-puṃskā'sīti me matiḥ. Bhk_5.70
+
+mithyaiva śrīḥ śriyaṃ-manyā, śrīman-manyo mṛṣā hariḥ,
+sākṣāt-kṛtyā'bhimanye'haṃ tvāṃ harantīṃ śriyaṃ śriyaḥ Bhk_5.71
+
+nodakaṇṭhiṣyatā 'tyarthaṃ, tvāmaikṣiṣyata cet smaraḥ,
+khelāyannaniśaṃ nāpi sajūḥ-kṛtya ratiṃ vaset, Bhk_5.72
+
+valgūyantīṃ vilokya tvāṃ strī na mantūyatīha kā,
+kāntiṃ nā'bhimanāyeta ko vā sthāṇu-samo 'pi te. Bhk_5.73
+
+duḥkhāyate janaḥ sarvāh, sa evaikaḥ sukhāyate,
+yasyotsukāyamānā tvaṃ na pratīpāyase'ntike. Bhk_5.74
+
+kaḥ. paṇḍitāyamānas tvā- mādāyā''miṣa-sannibhām
+trasyan vairāyamāṇebhyaḥ śūnyamanvavasad vanam." Bhk_5.75
+
+ojāyamānā tasyā 'rdhyaṃ praṇīya janakā''tmajā
+uvāca daśamūrdhānaṃ sā''darā gadgadaṃ vacaḥ Bhk_5.76
+
+"mahā-kulīna aikṣvāke vaṃśe dāśarathir mama
+pituḥ priyaṃ-karo bhartā kṣemaṃ-kāras tapasvinām. Bhk_5.77
+
+nihantā vaira-kārāṇāṃ satāṃ bahu-karaḥ sadā
+pāraśvadhika-rāmasya śakteranta-karo raṇe Bhk_5.78
+
+adhvareṣviṣṭināṃ pātā pūrtī karmasu sarvadā
+pitur niyogād rāja-tvaṃ hitvā yo'bhyāgamad vanam Bhk_5.79
+
+pitatri-kroṣṭu-juṣṭāni rakṣāṃsi bhaya-de vane
+yasya bāṇa-nikṛttāni śreṇī-bhūtāni śerate. Bhk_5.80
+
+dīvyamānaṃ śitān bāṇānasyamānaṃ mahā-gadāḥ
+nighnānaṃ śātravān rāmaṃ kathaṃ tvaṃ nā'vagacchasi. Bhk_5.81
+
+bhrātari nyasya yāto māṃ mṛgāvin mṛgayāmasau,
+eṣituṃ preṣito yāto mayā tasyā 'nu-jo vanam Bhk_5.82
+
+athā ''yasyan kaṣāyā'kṣaḥ syanna-sveda-kaṇolbaṇaḥ
+saṃdarṣitā''ntarākūtas tāmavādīd daśānanaḥ, Bhk_5.83
+
+"kṛte kāniṣṭhineyasya jyaiṣṭhineyaṃ vivāsitam
+ko nagna-muṣita-prakhyaṃ bahu manyeta rāghavam. Bhk_5.84
+
+rākṣasān baṭu-yajñeṣu piṇḍī-śūrān nirastavān
+yadyasau kūpa-māṇḍūki ! tavaitāvati kaḥ smayaḥ Bhk_5.85
+
+mat-parākrama-saṃkṣipta-rājya-bhoga-paricchadaḥ
+yuktaṃ mamaiva kiṃ vaktuṃ daridrāti yathā hariḥ Bhk_5.86
+
+nir-laṅko vimadaḥ svāmī dhanānāṃ hṛta-puṣpakaḥ
+adhyāste 'ntar-giraṃ yasmāt, kas tan nā 'vaiti kāraṇam. Bhk_5.87
+
+bhinna-nauka iva dhyāyan mat-to bibhyad yamaḥ svayam
+kṛṣṇi-mānaṃ dadhānena mukhenā ''ste nirudyatiḥ Bhk_5.88
+
+samudropatyakā haimī parvatā'dhityakā purī
+ratna-pārāyaṇaṃ nāmnā laṅketi mama maithili ! Bhk_5.89
+
+āvāse sikta-saṃmṛṣṭe gandhais tvaṃ lipta-vāsitā
+ārpitoru-sugandhi-srak tasyāṃ vasa mayā saha. Bhk_5.90
+
+saṃgaccha pauṃsni ! straiṇaṃ māṃ yuvānaṃ taruṇī śubhe !
+rāghavaḥ proṣya-pāpīyān, jahīhi tama-kiṃ-canam. Bhk_5.91
+
+aśnīta-pibatīyantī prasitā smara-karmaṇi
+vaśe-kṛtya daśa-grīvaṃ modasva vara-mandire. Bhk_5.92
+
+mā sma bhūr grāhiṇī bhīru ! gantumutsāhinī bhava,
+udbhāsinī ca bhūtvā me vakṣaḥsaṃmārdinī bhava." Bhk_5.93
+
+tāṃ prātikūlikīṃ matvā jihīrṣur bhīma-vigrahaḥ
+bāhūpapīḍamāśliṣya jagāhe dyāṃ niśā-caraḥ Bhk_5.94
+
+trasyantīṃ tāṃ samādāya yato rātriṃ-carā''layam
+tūṣṇīṃ-bhūya bhayādāsāṃcakrire mṛgapakṣiṇaḥ Bhk_5.95
+
+uccai rārasyamānāṃ tāṃ kṛpaṇāṃ rāma-lakṣmaṇau
+jaṭāyuḥ prāpa pakṣīndraḥ paruṣaṃ rāvaṇaṃ vadan. Bhk_5.96
+
+iti prakīrṇa-kāṇḍaḥ prathamaḥ samāptaḥ
+
+ataḥ paramadhikāra-kāṇḍam
+
+"dviṣan ! vane-carā'gryāṇāṃ tvamādāya-caro vane
+agre-saro jaghanyānāṃ mā bhūḥ pūrva-saro mama. Bhk_5.97
+
+yaśas-kara-samācāraṃ khyātaṃ bhūvi dayā-karam
+piturvākya-karaṃ rāmaṃ dhik tvāṃ dunvantama-trapam Bhk_5.98
+
+ahamanta-karo nūnaṃ dhvāntasyeva divā-karaḥ
+tava rākṣasa ! rāmasya neyaḥ karma-karopamaḥ Bhk_5.99
+
+satāmaruṣ-karaṃ pakṣī vaira-kāraṃ narā'śinam
+hantuṃ kalaha-kāro'sau śabda-kāraḥ papāta kham. Bhk_5.100
+
+ataḥ paraṃ prakīrṇakāḥ
+
+dhunvan sarva-pathīnaṃ khe vitānaṃ pakṣayorasau
+māṃsa-śoṇita-saṃdarśaṃ tuṇḍa-ghātamayudhyata. Bhk_5.101
+
+na bibhāya, na jihrāya, na caklāma, na vivyathe
+āghnāno vidhyamāno vā raṇān nivavṛte na ca. Bhk_5.102
+
+piśāca-mukha-dhaureyaṃ sa-cchatra-kavacaṃ ratham
+yudhi kad-ratha-vad bhīmaṃbabhañja dhvaja-śālinam Bhk_5.103
+
+ataḥ paraṃ āmadhikāraḥ
+
+saṃtrāsayāṃcakārā'riṃ, surān piprāya paśyataḥ,
+sa tyājayāṃcakārā'riṃ sītāṃ viṃśati-bāhunā. Bhk_5.104
+
+a-sīto rāvaṇaḥ kāsāṃcakre śastrair nirākulaḥ,
+bhūyas taṃ bhedikāṃcakre nakha-tuṇḍā''yudhaḥ kha-gaḥ. Bhk_5.105
+
+hantuṃ krodha-vaśādīhāṃcakrāte tau paraspasam,
+na vā palāyāṃcakre vir dayāṃcakre na rākṣasaḥ. Bhk_5.106
+
+upāsāṃcakrire draṣṭuṃ deva-gandharva-kinnarāḥ,
+chalena pakṣau lolūyāṃcakre kravyāt patatriṇaḥ Bhk_5.107
+
+praluṭhitamavanau vilokya kṛttaṃ daśa-vadanaḥ kha-carottamaṃ prahṛṣyan
+ratha-varamadhiruhya bhīma-dhuryaṃ sva-puramagāt parigṛhya rāma-kāntām. Bhk_5.108
+
+bhk_6
+
+oṣāṃcakāra kāmā'gnir daśā-vaktramahar-niśam.
+vidāṃcakāra vaidehīṃ rāmādanya-nirutsukām. Bhk_6.1
+
+prajāgarāṃcakārārerīhāsvaniśamādarāt,
+prabibhayāṃcakārā 'sau kākutsthādabhiśaṅkitaḥ. Bhk_6.2
+
+na jihrayāṃcakārā 'tha sītāmabhyartha tarjitaḥ.
+nāpyūrjāṃ bibharāmāsa vaidehyāṃ prasito bhṛśam. Bhk_6.3
+
+vidāṃkurvantu rāmasya vṛttamityavadat svakān,
+rakṣāṃsi rakṣituṃ sītāmāśiṣac ca prayatnavān. Bhk_6.4
+
+atha prakīrṇakāḥ
+
+rāmo 'pi hata-mārīco nivartsyan khara-nādinaḥ
+kroṣṭūn samaśṛṇot krūrān rasato 'śubha-śaṃsinaḥ Bhk_6.5
+
+āśaṅkamāno vaidehīṃ khāditāṃ nihatāṃ mṛtām
+sa śatru-ghnasya sodaryaṃ dūrādāyāntamaikṣata. Bhk_6.6
+
+sītāṃ saumitriṇā tyaktāṃ sadhrīcīṃ trasnumekikāṃ
+vijñāyā 'maṃsta kākutsthaḥ"kṣaye kṣemaṃ sadurlabham." Bhk_6.7
+
+ataḥ paraṃ duhādiḥ
+
+so'pṛcchal lakṣmaṇaṃ sītāṃ yācamānaḥ śivaṃ surān,
+rāmaṃ yathāsthitaṃ sarvaṃ brātā brūte sma vihvalaḥ Bhk_6.8
+
+saṃdṛśya śaraṇaṃ śūnyaṃ bhikṣamāṇo vanaṃ priyām
+prāṇān duhannivā ''tmānaṃ śokaṃ cittamavārudhat. Bhk_6.9
+
+"gatā syādavacinvānā kusumānyāśrama-drumān.
+ā yatra tāpasān dharmaṃ sutīkṣṇaḥ śāsti, tatra sā. Bhk_6.10
+
+ataḥ paraṃ prakīrṇakāḥ
+
+āḥ, kaṣṭaṃ, bata, hī-citraṃ, hūṃ, mātar, daivatāni dhik,
+hā pitaḥ !, kvā 'si he su-bhru !," bahvevaṃ vilalāpa saḥ, Bhk_6.11
+
+ihā ''siṣṭhā 'śayiṣṭeha sā, sa-khelamito 'gamat,
+aglāsīt saṃsmarannitthaṃ maithilyā bharatā'grajaḥ. Bhk_6.12
+
+"idaṃ naktaṃ-tanaṃ dāma pauṣpametad divā-tanam,
+śucevodbadhya śākhāyāṃ praglāyati tayā vinā, Bhk_6.13
+
+aikṣiṣmahi muhuḥ suptāṃ yāṃ mṛtā ''śaṅkayā vayam,
+a-kāle durmaramaho, yaj jīvāmas tayā vinā, Bhk_6.14
+
+a-kṣemaḥ parihāso 'yaṃ. parīkṣāṃ mā kṛthā mama,
+matto mā 'ntirdhathāḥ sīte ! mā raṃsthā jīvitena naḥ, Bhk_6.15
+
+ataḥ paraṃ sijadhikāraḥ
+
+ahaṃ nyavadhiṣaṃ bhīmaṃ rākṣasaṃ krūra vikramam,
+mā ghukṣaḥ patyurātmānaṃ, mā na ślikṣaḥ priyaṃ priye. Bhk_6.16
+
+mā sma drākṣīr mṛṣā doṣaṃ, bhaktaṃ mā māticikliśaḥ,
+śailaṃ nyaśiśriyad vāmā, nadīṃ, nu pratyadudruvat. Bhk_6.17
+
+ai vācaṃ dehi. dhairyaṃ nas tava hetorasusruvat.
+tvaṃ no matimivā 'ghāsīr naṣṭā, prāṇānivā'dadhaḥ. Bhk_6.18
+
+rudato 'śiśvayac cakṣu rāsyaṃ hetos tavā 'śvayīt,
+mriye 'haṃ, māṃ nirāsthaś cen, mā na vocaś cikīrṣitam. Bhk_6.19
+
+lakṣmaṇā ''cakṣva, yadyākhyat sā kiñcit kopa-kāraṇam,
+doṣe pratisamādhāna majñāte kriyatāṃ katham. Bhk_6.20
+
+iha sā vyalipad gandhaiḥ, snāntīhā'bhyaṣicaj jalaiḥ,
+ihā 'haṃ draṣṭumāhvaṃ tāṃ," smarannevaṃ mumoha saḥ Bhk_6.21
+
+tasyā 'lipata śokā'gniḥ svāntaṃ kāṣṭhamiva jvalan,
+aliptevā 'nilaḥ śīto vane taṃ, na tvajihladat. Bhk_6.22
+
+snānabhyaṣicatā 'mbho 'sau rudan dayitayā vinā
+tathā 'bhyaṣikta vārīṇi pitṛbhyaḥ śoka-mūrcchitaḥ Bhk_6.23
+
+tathā '' rto 'pi kriyāṃ dharmyāṃ sa kāle nā 'mucat kvacit,
+mahatāṃ hi kriyā nityā chidre naivā 'vasīdati. Bhk_6.24
+
+āhvāsta sa muhuḥ śūrān, muhurāhvata rākṣasān,
+"eta sītādruhaḥ saṃkhye, pratyartayata rāghavam, Bhk_6.25
+
+sva-poṣamapuṣad yuṣmān yā pakṣi-mṛga-śāvakāḥ !
+adyutac cendunā sārdhaṃ, tāṃ prabrūta, gatā yataḥ." Bhk_6.26
+
+girimanvasṛpad rāmo lipsur janaka-saṃbhavām,
+tasminnāyodhanaṃ vṛttaṃ lakṣmaṇāyā'śiṣan mahat Bhk_6.27
+
+"sītāṃ jighāṃsū saumitre ! rākṣasāvāratāṃ dhruvam,
+idaṃ śoṇitamabhyagraṃ saprahāre 'cyutat tayoḥ. Bhk_6.28
+
+idaṃ kavacamacyotīt, sā'śvo 'yaṃ cūrṇīto rathaḥ,
+ehyamuṃ girimanveṣṭumavagāhāvahe drutam Bhk_6.29
+
+manyur manye mamā 'stambhīd, viṣādo 'stabhadudyatim,
+ajārīdiva ca prajñā, balaṃ śokāt tathājarat. Bhk_6.30
+
+gṛdhrasyehāśvatāṃ pakṣau kṛtau, vīkṣasva lakṣmaṇa !
+jighatsor nūnamāpādi dhvaṃso 'yaṃ tāṃ niśā-carāt." Bhk_6.31
+
+kruddho 'dīpi raghu-vyāghro, rakta-netro 'jani kṣaṇāt,
+ubodhi duḥsthaṃ trailokyaṃ, dīptairāpūri bhānu-vat. Bhk_6.32
+
+atāyyasyottamaṃ satvamapyāyi kṛta-kṛtya-vat,
+upācāyiṣṭa sāmarthyaṃ tasya saṃrambhiṇo mahat. Bhk_6.33
+
+adohīva viṣādo 'sya, samaruddheva vikramaḥ,
+samabhāvi ca kopena, nyaśvasīc cā''yataṃ muhuḥ. Bhk_6.34
+
+athā ''lambya dhanū rāmo jagarja gaja-vikramaḥ,
+"ruṇadhmi savitur mārgaṃ, bhinadmi kula-parvatān. Bhk_6.35
+
+riṇacmi jaladhes toyaṃ, vivinacmi divaḥ surān,
+kṣuṇadmi sarpān pātāle, chinadmi kṣaṇadā-carān. Bhk_6.36
+
+yamaṃ yunajmi kālena samindhāno 'stra-kauśalam,
+śuṣka-peṣaṃ pinaṣmyurvīmakhindānaḥ sva-tejasā Bhk_6.37
+
+bhūtiṃ tṛṇadmi yakṣāṇāṃ, hinasmīndrasya vikramam,
+bhanajmi sarva-maryādās, tanacmi vyoma vistṛtam Bhk_6.38
+
+na tṛṇehmīti loko 'yaṃ māṃ vinte niṣ-parākram,"
+evaṃ vadan dāśarathirapṛṇag dhanuśā śaraṃ. Bhk_6.39
+
+nyavartayat sumitrā-bhūs taṃ cikīrṣuṃ jagat-kṣayam,
+aikṣetāmāśramādārād girikalpaṃ patatriṇam Bhk_6.40
+
+taṃ sītā-ghātinaṃ matvā hantuṃ rāmo 'bhyadhāvata,
+"mā vadhiṣṭhā jaṭāyuṃ māṃ sītāṃ rāmā 'hamaikṣiṣi." Bhk_6.41
+
+upāsthitaivamukte taṃ sakhāyaṃ rāghavaḥ pituḥ,
+papraccha jānakī-vārtāṃ saṃgrāmaṃ ca patatriṇam. Bhk_6.42
+
+tato rāvaṇamākhyāya dviṣantaṃ patatāṃ varaḥ
+
+vraṇa-vedanayā glāyan mamāra giri-kandare,
+tasyāgnyambu-kriyāṃ kṛtvā pratasthāte punar vanam. Bhk_6.43
+
+satvānajasraṃ ghoreṇa balā'pakarṣamaśnatā
+kṣudhyatā jagṛhāte tau rakṣasā dīrgha-bāhunā. Bhk_6.44
+
+bhujau cakṛtatus tasya nistriṃśābhyāṃ raghūttmau,
+sa chinna-bāhurapatad vihvalo hvalayan bhuvam. Bhk_6.45
+
+iti prakīrṇakāḥ
+
+atha kṛtyā'dhikāraḥ
+
+praṣṭavyaṃ pṛcchatas tasya kathanīyamavīvacat
+ātmānaṃ vana-vāsaṃ ca jeyaṃ cā 'riṃ raghūttamaḥ Bhk_6.46
+
+"labhyā kathaṃ nu vaidehī, śakyo draṣṭuṃ kathaṃ ripuḥ,
+sahyaḥ kathaṃ viyogaś ca, gadyametat tvayā mama." Bhk_6.47
+
+"ahaṃ rāma ! śriyaḥ putro madya-pīta iva bhraman,
+pāpa-caryo muneḥ śāpāj jāta" ityavadat sa tam. Bhk_6.48
+
+"prayātas tava yamyatvaṃ śastra-pūto bravīmi te,
+rāvaṇena hṛtā sītā laṅkāṃ nītā surāriṇā. Bhk_6.49
+
+ṛṣyamūke 'navadyo 'sti paṇya-bhrātṛ-vadhaḥ kapiḥ
+sugrīvo nāma, varyo 'sau bhavatā cāru-vikramaḥ. Bhk_6.50
+
+tena vahyena hantāsi tvamaryaṃ puruṣā'śinām
+rākṣasaṃ krūra-karmāṇaṃ śakrā'riṃ dūra-vāsinam. Bhk_6.51
+
+āste smaran sa kāntāyā hṛtāyā vālinā kapiḥ
+vṛṣo yathopasaryāyā goṣṭhe gor daṇḍa-tāḍitaḥ. Bhk_6.52
+
+tena saṅgatamāryeṇa rāmā 'jaryaṃ kuru drutam.
+laṅkāṃ prāpya tataḥ pāpaṃ daśa-grīvaṃ haniṣyasi. Bhk_6.53
+
+anṛtodyaṃ na tatrāsti, satya-vadyaṃ bravīmyaham.
+mitra-bhūyaṃ gatas tasya ripu-hatyāṃ kariṣyasi. Bhk_6.54
+
+ādṛtyas tena vṛtyena stutyo juṣyeṇa saṃgataḥ
+ityaḥ śiṣyeṇa guruvad gṛdhyamarthamavāpsyasi. Bhk_6.55
+
+nā'kheyaḥ sāgaro 'pyanyas tasya sad-bhṛtya-śālinaḥ,
+manyus tasya tvayā mārgyo, mṛjyaḥ śokaś ca tena te." Bhk_6.56
+
+sa rājasūyayājīva tejasā sūrya-sannibhaḥ
+a-mṛṣodyaṃ vadan rucyo jagāhe dyāṃ niśā-caraḥ Bhk_6.57
+
+a-kṛṣṭa-pacyāḥ paśyantau tato dāśarathī latāḥ
+ratnā'nna-pāna-kupyānāmāṭatur naṣṭasaṃsmṛtī. Bhk_6.58
+
+samuttarantāva-vyathyau nadān bhidyoddhya-sannibhān
+sidhya-tārāmiva khyātāṃ śabarīmāpatur vane. Bhk_6.59
+
+vasānāṃ valkale śūddhe vipūyaiḥ kṛta-mekhalām
+kṣāmāmañjana-piṇḍā''bhā daṇdinīmajinā ''starām Bhk_6.60
+
+pragṛhya-pada-vat sādhvīṃ spaṣṭa-rūpāma-vikriyām
+a-gṛhyāṃ vīta-kāma-tvād deva-gṛhyāma-ninditām Bhk_6.61
+
+dharma-kṛtya-ratāṃ nityama-kṛṣya-phala-bhojanām
+dṛṣṭvā tāmamucad rāmo yugyā''yāta iva śramam. Bhk_6.62
+
+sa tāmūce 'tha-"kaccit tvamamāvāsyā-samanvaye
+pit ṇāṃ kuruṣe kāryama-pākyaiḥ svādubhiḥ phalaiḥ Bhk_6.63
+
+avaśya-pāvyaṃ pavase kaccit tvaṃ deva-bhāgghviḥ,
+āsāvyamadhvare somaṃ dvijaiḥ kaccin namasyasi. Bhk_6.64
+
+ācāmyaṃ saṃdhyayoḥ kaccit satyak te na prahīyate,
+kaccidagnimivā ''nāyyaṃ kāle saṃmanyase 'tithim. Bhk_6.65
+
+na praṇāyyo janaḥ kaccin nikāyyaṃ te 'dhitiṣṭhati
+deva-kārya-vighātāya dharmadrohī mahodaye ! Bhk_6.66
+
+kuṇḍa-pāyya-vatāṃ kaccidagnicityā-vatāṃ tathā
+kathābhī ramase nityamupacāyya-vatāṃ śubhe ! Bhk_6.67
+
+atha prakīrṇakāḥ
+
+vardhate te tapo bhīru ! vyajeṣṭhā vighna-nāyakān,
+ajaiṣīḥ kāmasaṃmohau, saṃprāpthā vinayena vā. Bhk_6.68
+
+nā ''yasyasi tapasyantī, gurūn samyagatūtuṣaḥ
+yamān nodavijiṣṭhās tvaṃ, nijāya tapase 'tuṣaḥ" Bhk_6.69
+
+athā'rdhyaṃ madhuparkā''dyamupanīyā ''darādasau
+arcayitvā phalairarcyau sarvatrā ''khyadanāmayam. Bhk_6.70
+
+ataḥ paraṃ kṛdadhikāraḥ
+
+"sakhyasya tava sugrīvaḥ kārakaḥ kapi-nandanaḥ,
+drutaṃ draṣṭāsi maithilpāḥ," saivamuktvā tiro 'bhavat. Bhk_6.71
+
+nandanāni munīndrāṇāṃ ramaṇāni vanaukasām
+vanāni bhejatur vīrau tataḥ pāmpāni rāghavau. Bhk_6.72
+
+"bhṛṅgā''lī-kokila-kruṅbhir vāśanaiḥ paśya lakṣmaṇa !
+rocanair bhūṣitāṃ pampā- masmākaṃ hṛdayāvidham Bhk_6.73
+
+paribhāvīṇi tārāṇāṃ paśya manthīni cetasām
+udbhāsīni jale-jāni dunvanty-adayitaṃ janam Bhk_6.74
+
+sarvatra dayitā'dhīnaṃ su-vyaktaṃ rāmaṇīyakam
+yena jātaṃ priyā'pāye kad-vadaṃ haṃsa-kokilam. Bhk_6.75
+
+pakṣibhir vitṛdair yūnā śākhibhiḥ kusumotkiraiḥ
+a-jño yo, yasya vā nā 'sti priyaḥ, praglo bhaven na saḥ. Bhk_6.76
+
+dhvanīnāmuddhamairebhir madhūnāmuddhayair bhṛśam
+ājighraiḥ puṣpa-gandhānāṃ patagair glapitā vayam. Bhk_6.77
+
+dhārayaiḥ kusumormīṇāṃ pārayair bādhituṃ janān
+śākhibhir hā hatā bhūyo hṛdayānāmudejayaiḥ Bhk_6.78
+
+dadair duḥkhasya mādṛgbhyo dhāyairāmodamuttamam
+limpairiva tanor vātaiś cetayaḥ syāj jvalo na kaḥ. Bhk_6.79
+
+avaśyāya-kaṇā''srāvāś cāru-muktā-phala-tviṣaḥ
+kurvanti citta-saṃsrāvaṃ calat-parṇā'gra-saṃbhṛtāḥ Bhk_6.80
+
+avasāyo bhaviṣyāmi duḥkhasyā 'sya kadā nvaham,
+na jīvasyā 'vahāro māṃ karoti sukhinaṃ yamaḥ Bhk_6.81
+
+dahye 'haṃ madhuno lehair dāvairugrair yathā giriḥ,
+nāyaḥ ko'tra sa, yena syāṃ batā 'haṃ vigata-jvaraḥ Bhk_6.82
+
+samāviṣṭaṃ graheṇeva grāheṇevā ''ttamarṇave
+dṛṣṭvā gṛhān smarasyeva vanā'ntān mama mānasam Bhk_6.83
+
+vātā''hati-calac-chākhā nartakā iva śākhinaḥ
+duḥsahā hī parikṣiptāḥ kvaṇadbhirali-gāthakaiḥ. Bhk_6.84
+
+eka-hāyana-sāraṅga-gatī raghu-kulottamau
+lavakau śatru-śaktīnāmṛṣyamūkamagacchatām. Bhk_6.85
+
+tau vāli-praṇidhī matvā sugrīvo 'cintayat kapiḥ,
+"bandhunā vigṛhīto'haṃ bhūyāsaṃ jīvakaḥ katham." Bhk_6.86
+
+sa śatru-lāvau manvāno rāghavau malayaṃ girim
+jagāma sa-parīvāro vyoma-māyamivotthitam. Bhk_6.87
+
+śarma-daṃ mārutiṃ dūtaṃ viṣama-sthaḥ kapi-dvipam
+śokā'panudama-vyagraṃ prāyuṅkta kapi-kuñjaraḥ. Bhk_6.88
+
+viśvāsa-prada-veṣo 'sau pathi-prajñaḥ samāhitaḥ
+citta-saṃkhyo jigīṣūṇāmutpapāta nabhas-talam Bhk_6.89
+
+surā-pairiva ghūrṇadbhiḥ śākhibhiḥ pavanā''hataiḥ
+ṛṣyamūkamagād bhṛṅgaiḥ pragītaṃ sāma-gairiva. Bhk_6.90
+
+taṃ mano-haramāgatya giriṃ varma-harau kapiḥ
+vīrau sukhā ''haro 'vocad bhikṣur bhikṣārha-vigrahaḥ. Bhk_6.91
+
+"balināvamūmadrīndraṃ yuvāṃ stambe-ramāviva
+ācakṣāthāṃ mithaḥ kasmācchaṅkareṇā 'pi durgamam Bhk_6.92
+
+vyāptaṃ guhā-śayaiḥ krūraiḥ kravyādbhiḥ sa-niśācaraiḥ
+tuṅga-śaila-taru-channaṃ mānuṣāṇāma-gocaram. Bhk_6.93
+
+satvamejaya-siṃhā''ḍhyān stanaṃ-dhāya-sama-tviṣau
+kathaṃ nāḍiṃdhamān mārgānāgatau viṣamopalān. Bhk_6.94
+
+attīrṇau vā kathaṃ bhīmāḥ saritaḥ kūlamudvahāḥ,,
+āsāditau kathaṃ brūtaṃ na gajaiḥ kūlamudrujaiḥ. Bhk_6.95
+
+rāmo 'vocaddhanūmantam "āvāmabhraṃ-lihaṃ girim
+aiva vidvan! pituḥ kāmāt pāntāvalpaṃ-pacān munīn. Bhk_6.96
+
+a-mitaṃ-pacamīśānaṃ sarva-bhogīṇamuttamam
+āvayoḥ pitaraṃ viddhi khyātaṃ daśarthaṃ bhuvi. Bhk_6.97
+
+chalena dayitā 'raṇyād rakṣasā 'ruṃ-tudena naḥ
+a-sūryaṃ-paśyayā mūrtyā hṛtā, tāṃ mṛgayāvahe." Bhk_6.98
+
+pratyūce māruti rāmam "asti vālīti vānaraḥ"
+śamayedapi saṃgrāme yo lalāṭaṃ-tapaṃ ravim. Bhk_6.99
+
+ugraṃ-paśyena sugrīvas tena bhrātā nirākṛtaḥ,
+tasya mitrīyato dūtaḥ saṃprāpto 'smi vaśaṃ-vadaḥ Bhk_6.100
+
+priyaṃ-vado 'pi naivā 'haṃ bruve mithyā paraṃ-tapa !,
+sakhyā tena daśa-grīvaṃ nihantāsi dviṣaṃ-tapam. Bhk_6.101
+
+vācaṃ-yamo'hamanṛte satyametad bravīmi te,
+ehi, sarvaṃ-sahaṃ mitraṃ sugrīvaṃ kuru vānaram." Bhk_6.102
+
+sarvaṃ-kaṣa-yaśaḥ-śākhaṃ rāma-kalpa-taruṃ kapiḥ
+ādāyā' bhraṃ-kaṣaṃ prāyān malayaṃ phala-śālinam. Bhk_6.103
+
+meghaṃ-karamivāyāntamṛtuṃ rāmaṃ klamānvitāḥ
+dṛṣṭvā mene nasugrīvo vāli-bhānuṃ bhayaṃ-karam. Bhk_6.104
+
+upāgnyakurutāṃ sakhyamanyonyasya priyaṃ-karau,
+kṣemaṃ-karāṇi kāryāṇi paryālocayatāṃ tataḥ. Bhk_6.105
+
+āśitaṃ-bhavamutkruṣṭaṃ valgitaṃ śayitaṃ sthitam
+bahvamanyata kākutsthaḥ kapīnāṃ svecchayā kṛtam Bhk_6.106
+
+tato baliṃ-dama-prakhyaṃ kapi-viśvaṃ-bharā'dhipam
+sugrīvaḥ prābravīd rāmaṃ vālino yudhi vikramam Bhk_6.107
+
+"vasuṃ-dharāyāṃ kṛtsnāyāṃ nā'sti vāli-samo balī,
+hṛdayaṃ-gamametat tvāṃ bravīmi, na parābhavam. Bhk_6.108
+
+dūra-gairanta-gair bāṇair bhavānatyanta-gaḥ śriyaḥ
+api saṃkrandanasya syāt kruddhaḥ, kimuta vālinaḥ Bhk_6.109
+
+vareṇa tu muner vālī saṃjāto dasyuho raṇe
+a-vārya-prasaraḥ prātarudyanniva tamo'pahaḥ Bhk_6.110
+
+atipriyatvān na hi me kātaraṃ pratipadyate
+ceto vāli-vadhaṃ rāma ! kleśāpahamupasthitam. Bhk_6.111
+
+śīrṣa-ghātinamāyātamarīṇāṃ tvāṃ vilokayan
+patighnī-lakṣmaṇopatāṃ manye'haṃ vālinaḥ śriyam. Bhk_6.112
+
+śatrughnān yudhi hastighno girīn kṣipyanna-kṛtrimān
+śilpibhiḥ pāṇighaiḥ kruddhas tvayā jayyo 'bhyupāya-vān. Bhk_6.113
+
+āḍhyaṃ-karaṇa-vikrānto mahiṣasya suradviṣaḥ
+priyaṃ-karaṇamindrasya duṣkaraṃ kṛtavān vadham. Bhk_6.114
+
+priyaṃbhāvukatāṃ yātas taṃ kṣipan yojanaṃ mṛtam
+svarge priyaṃ-bhaviṣṇuś ca krtsnaṃ śakto 'pyabādhayan", Bhk_6.115
+
+jijñāsoḥ śaktimastrāṇāṃ rāmo nyūna-dhiyaḥ kapeḥ
+abhīnat pratipattyarthaṃ sapta vyoma spṛśas tarūn. Bhk_6.116
+
+tato vāli-paśau vadhye rāma-rtvig-jita-sādhvasaḥ
+abhyabhūn nilayaṃ bhrātuḥ sugrīvo ninadan dadhṛk. Bhk_6.117
+
+guhāyā niragād vālī siṃho mṛgamiva dyuvan
+bhrātaraṃ yuṅ bhiyaḥ saṃkhye ghoṣeṇā ''pūrayan diśaḥ Bhk_6.118
+
+vyāyacchamānayor mūḍho bhede sadṛśayos tayoḥ
+bāṇamudyatamāyaṃsīdikṣvāku-kula-nandanaḥ. Bhk_6.119
+
+ṛṣyamūkamagāt klantaḥ kapir mṛga-sadṛg drutam
+kiṣkindhā'drisadā''tyarthaṃ niṣpiṣṭaḥ koṣṇamucchvasan. Bhk_6.120
+
+kṛtvā vāli-druhaṃ rāmo mālayā sa-viśeṣaṇam.
+aṅgada-svaṃ punar hantuṃ kapighnā''hvāyayad raṇe. Bhk_6.121
+
+tayor vānara-senānyoḥ saṃprahāre tanucchidam
+vālino dūra-bhāg rāmo bāṇaṃ prāṇā'damatyajat Bhk_6.122
+
+vālinaṃ patitaṃ dṛṣṭvā vānarā ripu-ghātinam
+bāndhavā''krośino bhejuranāthāḥ kakubho daśa Bhk_6.123
+
+dhig dāśarathimityūcur munayo vana-vartinaḥ.
+upeyur madhu-pāyinyaḥ krośantyas taṃ kapi-striyaḥ. Bhk_6.124
+
+rāmamuccairupālabdha śūra-mānī kapi-prabhuḥ
+vraṇa-vedanayā glāyansādhuṃ-manyama-sādhuvat. Bhk_6.125
+
+"mṛṣā 'si tvaṃ havir-yājī rāghava ! chadma-tāpasaḥ
+anya-vyāsakta-ghātitvād brahmaghnāṃ pāpa-saṃmitaḥ. Bhk_6.126
+
+pāpa-kṛt sukṛtāṃ madhye rājñaḥ puṇyakṛtaḥ sutaḥ
+māmapāpaṃ durācāra ! kiṃ nihatyā 'bhidhāsyasi. Bhk_6.127
+
+agni-cit soma-sud rājā ratha-cakra-cidā''diṣu
+analeṣviṣṭavān kasmān na tvayā 'pekṣitaḥ pitā. Bhk_6.128
+
+māṃsa-vikrayiṇaḥ karma vyādhasyā 'pi vigarhitam
+māṃ ghnatā bhavatā 'kāri niḥṣaṅkaṃ pāpa-dṛṣvanā. Bhk_6.129
+
+buddhipūrvaṃ dhruvan na tvā rāja-kṛtvā pitā khalam
+sahayudhvānamanyena yo 'hino māmanāgasam Bhk_6.130
+
+pañca pañcanakhā bhakṣyā ye proktāḥ kṛta-jair dvijaiḥ,
+kauśalyā-ja ! śaśā''dīnāṃ teṣāṃ naiko 'pyahaṃ kapiḥ. Bhk_6.131
+
+kathaṃ duṣṭhuḥ svayaṃ dharme prajās tvaṃ pālayiṣyasi,
+ātmā'nujasya jihreṣi saumitres tvaṃ kathaṃ na vā. Bhk_6.132
+
+manye kiṃ-jamahaṃ ghnantaṃ tvāma-kṣattriya-je raṇe
+lakṣmaṇā 'dhija ! durvṛtta ! prayuktamanujena naḥ". Bhk_6.133
+
+pratyūce vālinaṃ rāmo"nā 'kṛtaṃ kṛtavānaham
+yajvabhiḥ sutvabhiḥ pūvair jaradbhiś ca kapīṣvara ! Bhk_6.134
+
+te hi jālair gale pāśais tiraścāmupaseduṣām
+ūṣuṣāṃ para-dāraiś ca sārdhaṃ nidhanamaiṣiṣuḥ. Bhk_6.135
+
+ahaṃ tu ṣuṣruvānbhrātrā striyaṃ bhuktāṃ kanīyasā
+upeyivānanūcānair ninditas-tvaṃ latā-mṛga ! Bhk_6.136
+
+anvanaiṣīt tato vālī trapā-vāniva rāghavam.
+nyakṣipac cā'ṅgadaṃ yatnāt kākutsthe tanayaṃ priyaṃ Bhk_6.137
+
+mriyamāṇaḥ sa sugrīvaṃ proce sad-bhāvamāgataḥ
+"saṃbhāviṣyāva ekasyāmabhijānāsi mātari. Bhk_6.138
+
+avasāva nagendreṣu, yat pāsyāvo madhūni ca,
+abhijānīhi tat sarvaṃ, bandhūnāṃ samayo hyayam. Bhk_6.139
+
+daivaṃ na vidadhe nūnaṃ yugapat sukhamāvayoḥ,
+śaśvad bahūva tad duḥsthaṃ yato na" itihā 'karot. Bhk_6.140
+
+dadau sa dayitāṃ bhrātre mālāṃ cā'gryāṃ hiraṇmayīm,
+rājyaṃ saṃdiśya bhogāmś ca mamāra vraṇa-pīḍitaḥ Bhk_6.141
+
+tasya nirvartya kartavyaṃ sugrīvo rāghavā''jñayā
+kiṣkindhā'dri-guhāṃ gantuṃ manaḥ praṇidadhe drutam Bhk_6.142
+
+nāma-grāhaṃ kapibhiraśanaiḥ stūyamānaḥ samantā- danvag-bhāvaṃ raghu-vṛṣabhayor vānarendro virājan
+abhyarṇe 'mbhaḥ-patana-samaye parṇalībhūta-sānuṃ kiṣkindhādriṃ nyaviśata madhu-kṣība-guñjad-dvirepham. Bhk_6.143
+
+bhk_7
+
+tataḥ kartā vanā''kampaṃ vavau varṣā-prabhañjanaḥ,
+nabhaḥ pūrayitāraś ca samunnemuḥ payo-dharāḥ. Bhk_7.1
+
+tarpaṇaṃ prajaniṣṇūnāṃ ṣasyānāma-malaṃ payaḥ
+rociṣṇavaḥ sa-visphūrjā mumucur bhinna-vad ghanāḥ Bhk_7.2
+
+nirākariṣṇavo bhānuṃ divaṃ vartiṣṇavo 'bhitaḥ
+alaṃkariṣṇavo bhāntas taḍitvantaś cariṣṇavaḥ Bhk_7.3
+
+tān vilokyā 'sahiṣṇuḥ san vilalānponmadiṣṇu-vat
+vasan mālyavati glāsnū rāmo jiṣṇura-dhṛṣṇu-vat Bhk_7.4
+
+"bhramī kadamba-saṃbhinnaḥ pavanaḥ śamināmapi
+klami-tvaṃ kurute'tyarthaṃ megha-śīkara-śītalaḥ. Bhk_7.5
+
+saṃjvāriṇeva manasā dhvāntamāyāsinā mayā
+drohi khadyota-saṃparki nayanā'moṣi duḥsaham. Bhk_7.6
+
+kurvanti parisāriṇyo vidyutaḥ paridevinam
+abhyāghātibhirāmiśrāś cātakaiḥ parirāṭibhiḥ. Bhk_7.7
+
+saṃsargī paridāhīva śīto 'pyābhāti śīkaraḥ,
+soḍhumākrīḍino 'śakyāḥ śikhinaḥ parivādinaḥ. Bhk_7.8
+
+etā devānurodhinyo dveṣiṇya iva rāgiṇam
+pīḍayanti janaṃ dhārāḥ patantyo 'napakāriṇam. Bhk_7.9
+
+kūryād yoginamapyeṣa sphūrjā-vān parimohinam
+tyāginaṃ sukha-duḥkhasya parikṣepyambhasāmṛtuḥ. Bhk_7.10
+
+vikatthī yācate prattama-viśrambhī muhur jalam
+parjanyaṃ cātakaḥ pakṣī nikṛntanniva mānasam. Bhk_7.11
+
+pralāpino bhaviṣyanti kadā nvete 'palāṣiṇaḥ."
+pramāthino viyuktānāṃ hiṃsakāḥ pāpa-dardurāḥ. Bhk_7.12
+
+nindako rajaniṃmanyaṃ divasaṃ kleśako niśām
+prāvṛṣyanaiṣīt kākutsthaḥ kathaṃcit paridevakaḥ Bhk_7.13
+
+athopaśarade 'paśyat krauñcānāṃ ceṣṭanaiḥ kulaiḥ
+utkaṇṭhā-vardhanaiḥ śubhraṃ ravaṇairambaraṃ tatam. Bhk_7.14
+
+vilokya dyotanaṃ candraṃ lakṣmaṇaṃ śocano 'vadat
+"paśya dandramaṇān haṃsānaravindasamutsukān. Bhk_7.15
+
+kapiś caṅkramaṇo 'dyāpi nā 'sau bhavati gardhanaḥ,
+kurvanti kopanaṃ tārā maṇḍanā gaganasya mām. Bhk_7.16
+
+nā 'vaityāpyāyitāraṃ kiṃ kamalāni raviṃ kapiḥ
+dīpitāraṃ dinā''rambhe nirasta-dhvānta-saṃcayam. Bhk_7.17
+
+atīte varṣuke kāle, pramattaḥ sthāyuko gṛhe
+gāmuko dhruvamadhvānaṃ sugrīvo vālinā gatam. Bhk_7.18
+
+jalpākībhiḥ sahā ''sīnaḥ strībhiḥ prajavinā tvayā
+gatvā lakṣmaṇa ! vaktavyo jayinā niṣṭhuraṃ vacaḥ Bhk_7.19
+
+śaile viśrayiṇaṃ kṣipramanādariṇamabhyamī
+nyāyaṃ paribhavī brūhi pāpama-vyathinaṃ kapim. Bhk_7.20
+
+spṛhayāluṃ kapiṃ strībhyo nidrāluma-dayālu-vat
+śraddhāluṃ bhrāmaraṃ dhāruṃ sadrumadrau vada drutam." Bhk_7.21
+
+sṛmaro bhaṅgura-prajño gṛhītvā bhāsuraṃ dhanuḥ
+viduro jitvaraḥ prāpa lakṣmaṇo gatvarān kapīn. Bhk_7.22
+
+taṃ jāgarūkaḥ kāryeṣu dandaśūka-ripuṃ kapiḥ
+a-kampraṃ mārutir dīpraṃ namraḥ prāveśayad guhām Bhk_7.23
+
+kamrābhirāvṛtaḥ strībhirāśaṃsuḥ kṣemamātmanaḥ
+icchuḥ prasādaṃ praṇayan sugrīvaḥ prāvadan nṛpam. Bhk_7.24
+
+"ahaṃ svapnak prasādena tava vandārubhiḥ saha
+a-bhīruravasaṃ strībhir bhāsurābhirīheśvaraḥ. Bhk_7.25
+
+vidyan-nāśaṃ raver bhāsaṃ vibhrājaṃ śaśa-lāñchanam
+rāma-pratteṣu bhogeṣu nāhamajñāsiṣaṃ rataḥ Bhk_7.26
+
+eṣa śoka-cchido vīrān prabho ! samprati vānarān
+dharā-śaila-samudrāṇāmanta-gān prahiṇomyaham. Bhk_7.27
+
+atha niradhikārakṛt
+
+rāghavasya tataḥ kāryaṃ kārur vānara-puṅgavaḥ
+sarva-vānara-senānāmāśvāgamanamādiśat. Bhk_7.28
+
+"vayamadyaiva gacchāmo rāmaṃ draṣṭuṃ tvarā'nvitāḥ
+kārakā mitra-kāryāṇi sītā-lābhāya", so 'bravīt." Bhk_7.29
+
+tataḥ kapīnāṃ saṃghātā harṣād rāghava-bhūtaye
+pūrayantaḥ samājagmur bhaya-dāyā diśo daśa. Bhk_7.30
+
+sugrīvā'ntikamāseduḥ sādayiṣyāma ityarim
+kariṣyanta ivā'kasmād bhuvanaṃ nir-daśānanam. Bhk_7.31
+
+kartā 'smi kāryamāyātairebhirityavagamya saḥ
+kākutstha-pādapa-cchāyāṃ sīta-sparśāmupāgamat. Bhk_7.32
+
+kāryaṃ sāra-nibhaṃ dṛṣṭvā vānarāṇāṃ samāgamam
+avain nāśaṃ daśā''syasya nirvṛttamiva rāghavaḥ. Bhk_7.33
+
+tataḥ kapi-samāhārame'kaniścāyamāgatam
+upādhyāya'ivā''yāmaṃ sugrīvo'dhyāpipad diśām Bhk_7.34
+
+sa-jalā'mbho-da-saṃrāvaṃ hanu-mantaṃ sahā'ṅgadam
+jāmbavaṃ nīla-sahitaṃ cāru-sandrāvamabravīt Bhk_7.35
+
+"yāta yūyaṃ yama-śrāyaṃ diśaṃ nāyena dikṣaṇām
+vikṣāvas toya-viśrāvaṃ tarjayanto mahodadheḥ Bhk_7.36
+
+unnāyānadhigacchantaḥ pradrāvair vasudhā-bhṛtām
+vanā'bhilāvān kurvantaḥ svecchayā cāru-vikramāḥ Bhk_7.37
+
+sadodgāra-sugandhīnāṃ phalānāmalamāśitāḥ
+utkāreṣu ca dhānyānāmanabhīṣṭa-parigrahāḥ Bhk_7.38
+
+saṃstāvamiva śṛṇvantaś chandogānāṃ mahādhvare
+śiñjitaṃ madhu-lehānāṃ puṣpa-prastāra-śāyinām Bhk_7.39
+
+ālocayanto vistāramambhasāṃ dakṣiṇodadheḥ
+svādayantaḥ phala-rasaṃ muṣṭi-saṃgrāha-pīḍitam. Bhk_7.40
+
+nyāyyaṃ yad yatra, tat kāryaṃ paryāyeṇā 'virodhibhiḥ,
+niśopaśāyaḥ kartavyaḥ phaloccāyaś ca saṃhataiḥ Bhk_7.41
+
+sītā rakṣo-nikāyeṣu stoka-kāyaiś chalena ca
+mṛgyā śatru-nikāyānāṃ vyāvahāsīmanāśritaiḥ Bhk_7.42
+
+sāṃrāviṇaṃ na kartavyaṃ, yāvan nā''yāti darśanam,
+saṃdṛṣṭāyāṃ tu vaidehyāṃ nigrāho vo'rthavānareḥ. Bhk_7.43
+
+pragrāhairiva pātrāṇāmanveṣyā maithilī kṛtaiḥ
+jñātavyā ceṅgitair dhyāyantī rāghavā''gamam. Bhk_7.44
+
+vedi-vat sa-parigrāhā yajñayaiḥ saṃskṛtā dvijaiḥ
+dṛśyā māsa-tamāgahnaḥ prāga-nindita-veśa-bhṛt Bhk_7.45
+
+nīvāra-phala-mūlā'śānṛṣīnapyatiśerate
+yasya guṇā niruddrāvās tāṃ drutaṃ yāta, paśyata. Bhk_7.46
+
+ucchrāya-vān ghanā''rāvo vānaraṃ jaladā'ravam
+dūrā''plāvaṃ hanū-mantaṃ rāmaḥ proce gajā''plavaḥ Bhk_7.47
+
+"avagrāhe yathā vṛṣṭiṃ prārthayante kṛṣīvalāḥ,
+prarthayadhvaṃ tathā sītāṃ, yāta sugrīva-śāsanam Bhk_7.48
+
+vaṇik pragrāha-vān yadvat kāle carati siddhaye,
+deśā'pekṣās tathā yūyaṃ yātā ''dāyā'ṅgulīyakam." Bhk_7.49
+
+abhijñānaṃ gṛhītvā te samutpetur nabhas-talam
+vājinaḥ syandane bhānor vimukta-pragrahā iva. Bhk_7.50
+
+udak śatavaliṃ koṭyā, suṣeṇaṃ pakṣimāṃ tathā
+diśaṃ prāsthāpayad rājā vānarāṇāṃ kṛta-tvaraḥ Bhk_7.51
+
+prācīṃ tāvadbhira-vyagraḥ kapibhir vinato yayau
+a-pragrāhairivā''dityo vājibhir-dūra-pātibhiḥ. Bhk_7.52
+
+yayur vindhyaṃ śaran-meghaiḥ prāvāraiḥ pravarairiva
+pracchannaṃ māruti-praṣṭhāḥ sītāṃ draṣṭuṃ plavaṅgamāḥ Bhk_7.53
+
+paribhāvaṃ mṛgendrāṇāṃ kurvanto naga-mūrdhasu
+vindhye tigmāṃśu-mārgasya ceruḥ paribhavopame. Bhk_7.54
+
+bhremuḥ śiloccayāṃs tuṅgānutteruratarān nadān
+āśaṃsavo lavaṃ śatroḥ sītāyāś ca viniścayam Bhk_7.55
+
+ādareṇa gamaṃ cakrur viṣamesvapya-saṅghasāḥ
+vyāpnuvanto diśo 'nyādān kurvantaḥ sa-vyadhān harīn. Bhk_7.56
+
+saṃceruḥ sa-hasāḥ kecida,-svanāḥ kecidāṭiṣuḥ
+saṃyāma-vanto yati-van, nigadānapare 'mucan. Bhk_7.57
+
+atha klamāda-niḥkvāṇā narāḥ kṣīṇa-paṇā iva
+a-madāḥ sedurekasmin nitambe nikhilā gireḥ. Bhk_7.58
+
+tataḥ sa-saṃmadās tatra niraikṣanta patatriṇaḥ
+guhā-dvāreṇa niryātaḥ samajena paśūniva. Bhk_7.59
+
+vīnāmupasaraṃ dṛṣṭvā te 'nyonyāpahavā guhām
+prāviśannāhava-prajñā āhāvamupalipsavaḥ. Bhk_7.60
+
+kurvanto havamāptānāṃ pipāsā-vadha-kāṅkṣiṇaḥ
+dvāraṃ tamo-ghana-prakhyaṃ guhāyāḥ prāviśan drutam. Bhk_7.61
+
+tasminnantarghaṇe 'paśyan praghāṇe saudha-sadmanaḥ.
+lauhodghana-ghana-skandhā lalitā'paghanāṃ striyam Bhk_7.62
+
+sā stambaghna-pada-nyāsān vighanendu-sama-dyutiḥ
+parighoru-bhujānāha hasantī svāgataṃ kapīn. Bhk_7.63
+
+piprāyā 'dri-guhopaghnānudghān saṃghasamāgatān
+phalair nānā-rasaiś citraiḥ svādu-śītaiś-ca vāribhiḥ Bhk_7.64
+
+nighā'nigha-taru-cchanne tasmiṃs te labdhrimaiḥ phalaiḥ
+tṛptās tāṃ bhrājathu-matīṃ papracchuḥ-"kasya pūriyam." Bhk_7.65
+
+"rakṣṇaṃ karoṣi kasmāt tvaṃ, yatnenā ''khyāyatāṃ śubhe !
+svapne nidhi-vadābhāti tava saṃdarśanaṃ hi naḥ. Bhk_7.66
+
+tato jaladhi-gambhīrān vānarān pratyavāca sā
+"iyaṃ dānava-rājasya pūḥ sṛṣṭir viśvakarmaṇaḥ Bhk_7.67
+
+jihataś ca sthitiṃ bhindan dānavo'sau jala-dviṣā,
+duhitā merusāvarṇerahaṃ nāmnā svayaṃ-prabhā. Bhk_7.68
+
+jūtimicchatha cet tūrṇaṃ, kīrtiṃ vā pātumātmanaḥ
+karomi vā bahir-yūtīn, pidhadhvaṃ pāṇibhirdṛśaḥ" Bhk_7.69
+
+prajyā-yatī niruddhā'kṣān vidyevā'nuṣṭhita-kriyān
+niracikramadicchā-to vānarāṃś caṅkramā-vataḥ. Bhk_7.70
+
+niṣkramya śikṣayā tasyās trapā-vanto rasā-talāt
+jñātvā māsumatikrāntaṃ vyathāmavalalambire. Bhk_7.71
+
+cintā-vantaḥ kathāṃ cakrurupadhā-bheda-bhīravaḥ
+"a-kṛtvā nṛ-pateḥ kāryaṃ pūjāṃ lapsyāmahe katham. Bhk_7.72
+
+prāyopāsanayā śāntiṃ manvāno vāli-saṃbhavaḥ
+yuktvā yogaṃ sthitaḥ śaile vivṛṇvaṃścitta-vedanām Bhk_7.73
+
+praskandikāmiva prāpto dhyātvā brūte sma jāmbavān
+"dhik śālabhañjikā-prakhyān viśayān kalpanā-rucīn, Bhk_7.74
+
+yāṃ kāriṃ rāja-putro, 'yamanutiṣṭhati, tāṃ kriyām
+ahamapyanutiṣṭhāmi" so 'pyuktvaivamupāviśat. Bhk_7.75
+
+uvāca mārutir vṛddhe saṃnyāsinyatra vānarāt
+"ahaṃ paryāyasaṃprāptāṃ kurve prāyopaveśikām Bhk_7.76
+
+a-bhāve bhavatāṃ yo 'smin jīvet, tasyā'stva-jīvaniḥ,"
+ityuktvā sarva evā 'sthur baddhvā yogā''sanāni te. Bhk_7.77
+
+a-kleśyamasinā 'gnyantaṃ kabandha-vadhamabhyadhuḥ,
+dhiṅ naḥ prapatanaṃ ghoraṃ kledā'ntatvama-nātha-vat. Bhk_7.78
+
+tato manda-gataḥ pakṣī teṣāṃ prāyopaveśanam
+aśanīyamivāśaṃsur mahānāyāda-śobhanaḥ Bhk_7.79
+
+deha-vraścana-tuṇḍā'graṃ taṃ vilokyā 'śubhā''karam
+pāpa-gocaramātmānamaśocan vānarā muhuḥ Bhk_7.80
+
+"jaṭāyuḥ puṇya-kṛt pakṣī daṇḍakāraṇya-sañcaraḥ
+kṛtvā rāghava-kāryaṃ yaḥ svarā''rūḍho 'gni-saṃskṛtaḥ Bhk_7.81
+
+narakasyā 'vatāro 'yaṃ pratyakṣo 'smākamāgataḥ,
+a-ceṣṭā yadihā 'nyāyādanenā 'tsyāmahe vayaṃ Bhk_7.82
+
+hṛdayodaṅka-saṃsthānaṃ kṛtāntā''nāya-sannibham
+śarīrā''khana-tuṇḍā'graṃ prāpyā-'muṃ śarma durlabham. Bhk_7.83
+
+īṣadāḍhyaṅkaro 'pyeṣa na paratrā 'śubha-kriyā,
+asmānattumito 'bhyeti pariglāno bubhukṣayā." Bhk_7.84
+
+saṃprāpya vānarān pakṣī jagāda madhuraṃ vacaḥ
+"ke yūyaṃ durupasthāne manasā 'pyadri-mūrdhani. Bhk_7.85
+
+atha prakīrṇakāḥ
+
+ātmanaḥ paridevadhve kurvanto rāma-saṃkathām,
+samānodaryamasmākaṃ jaṭāyuṃ ca sthuthā ''darāt. Bhk_7.86
+
+śaṅkā-dhavitra-vacanaṃ pratyūcur vānarāḥ khagam
+"vayaṃ śatru-lavitreṣor dūtā rāmasya bhū-pateḥ. Bhk_7.87
+
+kenā 'pi dauṣkuleyena kulyāṃ māhākulīṃ priyām
+hṛtāṃ māhākulīnasya tasya lipsāmahe vayam. Bhk_7.88
+
+triṃśattamamahar yātaṃ matvā pratyāgamā'vadhim
+a-kṛtā'rthā viśīdantaḥ para-lokamupāsmahe. Bhk_7.89
+
+mriyāmahe, na gacchāmaḥ kauśalyāyani-vallabhām
+upalambhyāma-paśyantaḥ kaumārīṃ patatāṃ vara !" Bhk_7.90
+
+jagāda vānarān pakṣī-"nādhyagīḍhvaṃ dhruvaṃ smṛtim
+yūyaṃ saṃkuṭiyuṃ yasmāt kāle 'sminnadhyavasyatha. Bhk_7.91
+
+nā'yamudvijituṃ kālaḥ svāmi-kāryād bhavādṛśām
+hṛta-bhārye cyute rājyād rāmo paryutsuke bhṛśam. Bhk_7.92
+
+yatnaṃ prorṇavituṃ tūrṇaṃ diśaṃ kuruta dakṣiṇām,
+prorṇuvitrīṃ divas tatra purīṃ drakṣyatha kāñcanīm. Bhk_7.93
+
+laṅkāṃ nāmnā girer mūrdhni rākṣasendreṇa pālitām
+nirjitya śakramānītā dadṛśur yāṃ sura-striyaḥ Bhk_7.94
+
+babhūva yā 'dhiśailendraṃ mṛditvevendra-gocaram
+kuṣitvā jagatāṃ sāraṃ saikā śaṅke kṛtā bhuvi. Bhk_7.95
+
+a-mṛḍitvā sahasrā'kṣaṃ kliśitvā kauśalair nijaiḥ
+uditvā 'laṃ ciraṃ yatnāt saikā dhātrā vinirmitā. Bhk_7.96
+
+muṣitvā dhana-daṃ pāpo yāṃ gṛhītvā ''vasad dviṣan,
+tāṃ ruditveva śakreṇa yāta laṅkāmupekṣitām. Bhk_7.97
+
+viditvā śaktimātmīyāṃ rāvaṇaṃ vijighṛkṣavaḥ
+uktaṃ pipṛcchiṣūṇāṃ vo mā sma bhūta suṣupsavaḥ. Bhk_7.98
+
+nā 'vividiṣumbhyeti sampad rurudiṣuṃ naram,
+kiṃ mumuṣiṣu-vad yāta dviṣo nā 'pacikīrṣayā. Bhk_7.99
+
+bubhutsavo drutaṃ sītāṃ bhutsīdhvaṃ, prabravīmi vaḥ,
+mā ca bhuddhvaṃ mṛṣoktaṃ naḥ, kṛṣīḍhvaṃ svāmine hitaṃ Bhk_7.100
+
+samagadhvaṃ puraḥ śatror, modayadhvaṃ raghūttamam,
+nopāyadhvaṃ bhayaṃ, sītāṃ nopāyaṃsta daśānanaḥ. Bhk_7.101
+
+tataḥ prāsthiṣatā 'drīndraṃ mahendraṃ vānarā drutam
+sarve kilakilāyanto, dhairyaṃ cā''dhiṣatā 'dhikam. Bhk_7.102
+
+nikuñje tasya vartitvā ramye prakṣveditāḥ param
+maṇi-ratnā'dhiśayitaṃ pratyudaikṣanta toya-dhim Bhk_7.103
+
+a-marṣitamiva ghnantaṃ taṭā'drīn malilormibhiḥ
+śriyā samagraṃ dyutitaṃ madeneva praloṭhitam Bhk_7.104
+
+pūtaṃ śītair nabhasvadbhir granthitveva sthitaṃ rucaḥ
+gumphitveva nirasyantaṃ taraṅgān sarvato muhuḥ Bhk_7.105
+
+vañcitvā 'pyambaraṃ dūraṃ svasmiṃs tiṣṭhantamātmani
+tṛṣitvevā 'niśaṃ svādu pibantaṃ saritāṃ payaḥ Bhk_7.106
+
+dyutitvā śaśinā naktaṃ raśmibhiḥ parivardhitam
+meror jetumivā ''bhogamuccair didyotiṣuṃ muhuḥ. Bhk_7.107
+
+vilokya saliloccayānadhi-samudramabhraṃlihān bhraman-makara bhīṣaṇaṃ samadhigamya cā 'dhaḥ payaḥ
+gamā''gama-sahaṃ drutaṃ kapi-vṛṣāḥ paripraiṣayan gajendra-guru-vikramaṃ taru-mṛgottamaṃ mārutim. Bhk_7.108
+
+bhk_8
+
+āgādhata tato vyoma hanūmānuru-vigrahaḥ,
+atyaśerata tad-vegaṃ na suparṇā'rka-mārutāḥ Bhk_8.1
+
+abhāyata yathā'rkeṇa suprātena śaran-mukhe,
+gamyamānaṃ na tenā''sīdagataṃ krāmatā puraḥ. Bhk_8.2
+
+viyati vyatyatanvātāṃ mūrtī hari-payonidhī,
+vyatyaitāṃ cottamaṃ mārgamarkendrendu-niṣevitam. Bhk_8.3
+
+vyatijigye samudro'pi na dhairyaṃ tasya gacchataḥ
+vyatyagacchan na ca gataṃ pracaṇḍo'pi prabhañjanaḥ. Bhk_8.4
+
+vyatighnantīṃ vyatighnantāṃ rākṣasīṃ pavanā''tmajaḥ
+jaghānā''viśya vadanaṃ niryāt bhittvodaraṃ drutam Bhk_8.5
+
+anyonyaṃ sma vyatiyutaḥ śabdān śabdais tu bhīṣaṇān
+udanvāṃś cāniloddhūto mriyamāṇā ca rākṣasī. Bhk_8.6
+
+nyavikṣata mahā-grāha-saṃkulaṃ makarā''layam
+saikā bahūnāṃ kurvāṇā nakrāṇāṃ svā''śitambhavam Bhk_8.7
+
+kṛtenopakṛtaṃ vāyoḥ parikrīṇānamutthitam
+pitrā saṃrakṣitaṃ śakrāt sa mainākā'drimaikṣata. Bhk_8.8
+
+khaṃ parājayamāno'sāvunnatya pavanā'tmajam
+jagādā'drir "vijeṣīṣṭhā mayi viśramya vairiṇam. Bhk_8.9
+
+phalānyādatsva citrāṇi, parikrīḍasva sānuṣu,
+sādhvanukrīḍamānāni paśya vṛndāni pakṣiṇām. Bhk_8.10
+
+kṣaṇaṃ bhadrā'vatiṣṭhasva, tataḥ prasthāsyase punaḥ
+na tat saṃsthāsyate kāryaṃ dakṣeṇorīkṛtaṃ tvayā. Bhk_8.11
+
+tvayi nas tiṣṭhate prītis tubhyaṃ tiṣṭhāmahe vayam,
+uttiṣṭhamānaṃ mitrā'rthe kas tvāṃ na bahu manyate. Bhk_8.12
+
+ye sūryamupatiṣṭhante mantraiḥ saṃdhyā-trayaṃ dvijāḥ,
+rakṣobhis tāpitās te'pi siddhiṃ dyāyanti te'dhunā. Bhk_8.13
+
+a-vyagramupatiṣṭhasva vīra ! vāyorahaṃ suhṛt,
+ravir vitapate'tyarthamāśvasya mayi gamyatām. Bhk_8.14
+
+tīvramuttapamāno 'yama-śakyaḥ soḍhumātapaḥ,
+āghnāna iva saṃdīptairalātaiḥ sarvato muhuḥ. Bhk_8.15
+
+saṃśṛṇuṣva kape ! matkaiḥ saṃgacchasva vanaiḥ śubhaiḥ,
+samāranta mamā 'bhīṣṭāḥ saṃkalpās tvayyupāgate. Bhk_8.16
+
+ke na saṃvidrate, vāyor mainākā'drir yathā sakhā,
+yatnādupāhvaye pratītaḥ, saṃhvayasva vivakṣitam. Bhk_8.17
+
+dyāmivāvayamānaṃ tamavocad bhūdharaṃ kapiḥ
+upakurvantamatyarthaṃ prakurvāṇo'nujīvi-vat. Bhk_8.18
+
+"kula-bhāryāṃ prakurvāṇamahaṃ draṣṭuṃ daśānanam
+yāmi tvarā-vān śailendra !, mā kasyacidupaskṛthāḥ. Bhk_8.19
+
+yo'pacakre vanāt sītāmadhicakre na yaṃ hariḥ,
+vikurvāṇaḥ svarānadya balaṃ tasya nihanmyaham. Bhk_8.20
+
+vikurve nagare tasya pāpasyā 'dya raghu-dviṣaḥ,
+vineṣye vā priyān prāṇānudāneṣye'thavā yaśaḥ. Bhk_8.21
+
+vineṣye krodhamathavā kramamāṇo'ri-saṃsadi"
+ityuktvā khe parākraṃsta tūrṇaṃ sūnur nabhasvataḥ. Bhk_8.22
+
+parīkṣitumupākraṃsta rākṣasī tasya vikramam
+divamākramamāṇeva ketu-tārā bhaya-pradā. Bhk_8.23
+
+jale vikramamāṇāyā hanūmān śata-yojanam
+āsyaṃ praviśya nirayādaṇūbhūyā 'pracetitaḥ. Bhk_8.24
+
+draṣṭuṃ prakramamāṇo 'sau sītāmambhonidhes taṭam,
+upākraṃstā ''kulaṃ ghoraiḥ kramamāṇair niśācaraiḥ Bhk_8.25
+
+ātmānamapajānānaḥ śaśa-mātro 'nayad dinam,
+jñāsye rātrāviti prājñaḥ pratyajñāsta kriyā-paṭuḥ. Bhk_8.26
+
+saṃjānānān paridharan rāvaṇā'nucarān bahūn
+laṅkāṃ samāviśad rātrau vadamāno'ri-durgamām. Bhk_8.27
+
+kiṃcin nopāvadiṣṭā 'sau, kenacid vyavadiṣṭa na,
+śṛṇvan saṃpravadamānād rāvaṇasya guṇān janāt. Bhk_8.28
+
+jalpitotkruṣṭa-saṃgīta-pranṛtta-smita-valgitaiḥ
+ghoṣasyānvavadiṣṭeva laṅkā putā-kratoḥ puraḥ Bhk_8.29
+
+aid vipravadamānais tāṃ saṃyuktāṃ brahma-rākṣasaiḥ
+tathā'vagiramāṇaiś ca piśācair māmsa-śoṇitam. Bhk_8.30
+
+yathā-svaṃ saṃgirante sma goṣṭhīṣu svāmino guṇān,
+pāna-śauṇḍāḥ pathaḥ kṣībā vṛndairudacaranta ca. Bhk_8.31
+
+yānaiḥ samacarantā 'nye kuñjarā'śva-rathā''dibhiḥ,
+saṃprāyacchanta bandībhiranye puṣpa-phalaṃ śubham. Bhk_8.32
+
+kopāt kāścit priyaiḥ prattamupāyaṃsata nā''savam,
+prema jijñāsamānābhyas tābhyo''śapsata kāminaḥ Bhk_8.33
+
+prādidṛkṣata no nṛtyaṃ, nā 'śuśrūṣata gāyanān
+rāmaṃ susmūrṣamāṇo'sau kapir viraha-duḥkhitam. Bhk_8.34
+
+anujijñāsatevā'tha laṅkā-darṣanamindunā
+tamo'pahavimuktāṃ'śu pūrvasyāṃ diśyudaiyata. Bhk_8.35
+
+āśuśrūṣan sa maithilyā vārtāṃ harmyeṣu rakṣasām
+śīyamāna'ndhakāreṣu samacārīda-śaṅkitaḥ. Bhk_8.36
+
+śata-sāhasramārakṣaṃ madhyagaṃ rakṣasāṃ kapiḥ
+dadarśa, yaṃ kṛtānto'pi mriyetā''sādya bhīṣaṇam, Bhk_8.37
+
+adhyāsisiṣamāṇe 'tha viyan-madhyaṃ niśā-kare
+kāsāṃcakre purī saughairatīvodbhāsibhiḥ sitaiḥ Bhk_8.38
+
+induṃ caṣaka-saṃkrāntamupāyuṅkta yathā'mṛtam,
+payuñjānaḥ priyā vācaḥ samājā'nurato janaḥ Bhk_8.39
+
+saṃkṣṇuvāna ivotkaṇṭhāmupābhuṅkta surāmalam
+jyotsnāyāṃ vigalan-mānas taruṇo rakṣasāṃ gaṇaḥ Bhk_8.40
+
+madhvapāyayata svacchaṃ sotpalaṃ dayitā'ntike
+ātmānaṃ suratā''bhoga-viśrambhotpādanaṃ muhuḥ Bhk_8.41
+
+abhīṣayanta ye śakraṃ rākṣasā raṇa-paṇḍitāḥ
+avismāpayamānas tān kapiroṭīd gṛhād gṛham, Bhk_8.42
+
+sītāṃ didṛkṣuḥ pracchannaḥ so 'gardhayata rākṣasān,
+avañcayata māyāś ca sva-māyābhir naradviṣām, Bhk_8.43
+
+apalāpayamānasya śatrūṃs tasyā'bhavan matiḥ
+"mithyā kārayate cārair ghoṣaṇāṃ rākṣasā'dhipaḥ" Bhk_8.44
+
+gūhamānaḥ sva-māhātmyamaṭitvā mantri-saṃsadaḥ
+nṛbhyo 'pavadamānasya rāvaṇasya gṛhaṃ yayau, Bhk_8.45
+
+diśo dyotayamānābhir divya-nārībhirākulam
+śriyamāyacchamānābhiruttamābhiranuttamām Bhk_8.46
+
+nityamudyacchamānābhiḥ smarasaṃbhoga-karmasu
+jānānābhiralaṃ līlā-kila kiṃcita-vibhramān Bhk_8.47
+
+svaṃ karma kārayannāste niścinto yā jhaṣa-dhvajaḥ,
+svārthaṃ kārayamāṇābhir yūno mada-vimohitān Bhk_8.48
+
+kāntiṃ svāṃ vahamānābhir yajantībhiḥ sva-vigrahān
+netrairiva pibantībhiḥ paśyatāṃ citta-saṃhatīḥ Bhk_8.49
+
+tā hanūmān parākurvannagamat puṣpakaṃ prati
+vimānaṃ mandarasyādreranukurvadiva śriyam. Bhk_8.50
+
+tasmin kailāsa-saṃkāśāṃ śiraḥ-śṛṅgaṃ bhaja-drumam
+abhikṣipantamaikṣiṣṭa rāvaṇaṃ parvata-śriyam Bhk_8.51
+
+pravahantaṃ sadāmodaṃ suptaṃ parijanā'nvitam
+maghone parimṛṣyantamārabhantaṃ paraṃ smare Bhk_8.52
+
+vyaramat pradhanād yasmāt paritrastaḥ sahasra-dṛk,
+kṣaṇaṃ paryaramat tasya darśanān mārutā''tmajaḥ. Bhk_8.53
+
+upāraṃsīc ca saṃpaśyan vānaras taṃ cikīrṣitāt
+ramyaṃ merumivā''dhūta-kānanaṃ śvasanormibhiḥ Bhk_8.54
+
+dṛṣṭvā dayitayā sākaṃ rahībhūtaṃ daśānanam
+nā 'tra sītetyupāraṃsta durmanā vāyu-saṃbhavaḥ. Bhk_8.55
+
+tataḥ prākāramārohat kṣapāṭānavibodhayan,
+nā'yodhayat samartho'pi sītā-darśana-lālasaḥ. Bhk_8.56
+
+adhyāsīd, "rāghavasyā 'haṃ nāśayeyaṃ kathaṃ śucam,
+vaidehyā janayeyaṃ vā kathamānandamuttamam. Bhk_8.57
+
+dṛṣṭvā rāghava-kāntāṃ tāṃ drāvayiṣyāmi rākṣasān,
+tasyā hi darśanāt pūrvaṃ vikramaḥ kārya-nāśa-kṛt. Bhk_8.58
+
+cintayannitthamuttuṅgaiḥ prāvayantīṃ divaṃ vanaiḥ
+aśoka-vanikāmārādapaśyat stabakā''citām. Bhk_8.59
+
+tāṃ prāviśat kapi-vyāghras tarūna-calayan śanaiḥ
+a-trāsayan vana-śayān suptān śākhāsu pakṣiṇaḥ. Bhk_8.60
+
+avād vāyuḥ śanair yasyāṃ latāṃ nartayamāna-vat
+nā''yāsayanta saṃtrastā ṛtavo'nyonya-saṃpadaḥ. Bhk_8.61
+
+jyotsnā 'mṛtaṃ śaśī vasyāṃ vāpīr vikasitotpalāḥ
+apāyayata saṃpūrṇaḥ sadā daśa-mukhā''jñayā. Bhk_8.62
+
+prādamayanta puṣpeṣuṃ yasyāṃ bandyaḥ samāhṛtāḥ
+parimohayamāṇābhī rākṣasībhiḥ samāvṛtāḥ. Bhk_8.63
+
+yasyāṃ vāsayate sītāṃ kevalaṃ sma ripuḥ smarāt
+na tvarocayatā ''tmānaṃ caturo vṛddhi-mānapi Bhk_8.64
+
+mandāyamāna-gamano haritāyat-taruṃ kapiḥ,
+drumaiḥ śakaśakāyadbhir mārutenā ''ṭa sarvataḥ. Bhk_8.65
+
+asyandannindu-maṇayato, vyarucan kumudā''karāḥ,
+aloṭhiṣata vātena prakīrṇaḥ stabakoccayāḥ. Bhk_8.66
+
+sītā'ntike vivṛtsantaṃ vartsyat-siddhiṃ plavaṅgamam
+patatriṇaḥ śubhā mandramānuvānās tvajihladan. Bhk_8.67
+
+vartiṣyamāṇamātmānaṃ sītā patyurivā 'ntike
+udapaśyat tadā tathyair nimittairiṣṭa-darśanaiḥ. Bhk_8.68
+
+"niravartsyan na ced vārtā sītāyā, vitathaiva naḥ
+akalpsyadudyatiḥ sarvā", hanūmānityacintayat. Bhk_8.69
+
+ityātmanepadādhikāraḥ
+
+vṛkṣād vṛkṣaṃ parikrāman rāvaṇād bibhyatīṃ bhṛśam
+śatros trāṇama-paśyantīma-dṛśyo janakā''tmajām Bhk_8.70
+
+tāṃ parājayamānāṃ sa prīte rakṣyāṃ daśā''nanāt
+antardadhānāṃ rakṣobhyo malināṃ mlāna-mūrdhajām Bhk_8.71
+
+rāmādadhīta-saṃdeśo vāyor jātaś cyuta-smitām
+prabhavantīmivādityādapaśyat kapi-kuñjaraḥ. Bhk_8.72
+
+rocamānaḥ ku-dṛṣṭibhyo rakṣobhyaḥ prattavān śriyam
+ślāghamānaḥ para-strībhyas tatra''gād rākṣasā'dhipaḥ. Bhk_8.73
+
+aśapta nihnuvāno 'sau sītāyau smara-mohitaḥ,
+dhārayānniva caitasyai vasūni pratyapadyata. Bhk_8.74
+
+tasyai spṛhayamāṇo 'sau bahu priyamabhāṣata,
+sānunītiś ca sītāyai na 'krudhyan, nāpyasūyata. Bhk_8.75
+
+"saṃkrudhyasi mṛśā kiṃ tvaṃ didṛkṣuṃ māṃ mṛgekṣaṇe !,
+īkṣitavyaṃ para-strībhyaḥ sva-dharmo rakṣasāmayam. Bhk_8.76
+
+śṛṇvadbhyaḥ pratiśṛṇvanti madhyamā bhīru ! nottamāḥ,
+gṛṇadbhyo 'nugṛṇantyanye 'kṛtā'rthā, naiva mad-vidhāḥ. Bhk_8.77
+
+iccha snehena dīvyantī viṣayān bhuvaneśvaram,
+saṃbhogāya parikrītaḥ kartāsmi tava nā 'priyam. Bhk_8.78
+
+āssva sākaṃ mayā saudhe, mā'dhiṣṭhā nir-janaṃ vanam
+mā 'dhivātsīr bhuvaṃ, śayyāmadhiśeṣva smarotsukā. Bhk_8.79
+
+abhinyavikṣathās tvaṃ me yathaivā'vyāhatā manaḥ,
+tavā'pyadhyāvasantaṃ māṃ mā rautsīr hṛdayaṃ tathā. Bhk_8.80
+
+mā 'vamaṃsthā nāmasyantam-kārya-jñe ! jagat-patim,
+saṃdṛṣṭe mayi kākutsthama-dhanyaṃ kāmayeta ? kā. Bhk_8.81
+
+yaḥ payo dogdhi pāṣāṇaṃ, sa rāmād bhūtimāpnuyāt,
+rāvaṇaṃ gamaya prītiṃ bodhayantaṃ hitā'hitaṃ. Bhk_8.82
+
+prīto 'haṃ bhojayiṣyāmi bhavatīṃ bhuvana-trayam,
+kiṃ vilāpayase'tyarthaṃ, pārśve śāyaya rāvaṇam. Bhk_8.83
+
+ājñāṃ kāraya rakṣobhir, mā priyāṇyupahāraya,
+kaḥ śakreṇa kṛtaṃ necchedadhimurdhānamañjalim. Bhk_8.84
+
+iti kārakādhikāraḥ
+
+vacanaṃ rakṣasāṃ patyuranu kruddhā pati-priyā
+pāpā'nuvāsitaṃ sītā rāvaṇaṃ prābravīd vacaḥ Bhk_8.85
+
+"na bhavānanu rāmaṃ cedupa śūreṣu vā, tataḥ
+apavāhya cchalād vīrau kimarthaṃ māmihā 'haraḥ, Bhk_8.86
+
+"upa-śūraṃ na te vṛttaṃ kathaṃ rātriṃcarā'dhama !
+yat saṃpratyapalokebhyo laṅkāyāṃ vasatir bhayāt Bhk_8.87
+
+ā rāma-darśanāt pāpa ! vidyotasva striyaḥ prati
+sad-vṛttānanu dur-vṛttaḥ parastrīṃ jāta-manmathaḥ Bhk_8.88
+
+abhi dyotiṣyate rāmo bhavantama-cirādiha,
+udgūrṇa-bāṇaḥ saṃgrāme yo nārāyaṇataḥ prati. Bhk_8.89
+
+kuto 'dhiyāsyasi krūra ! nihatas tena patribhiḥ
+na sūktaṃ bhavatā 'tyugramatirāmaṃ madoddhata ! Bhk_8.90
+
+pariśeṣaṃ na nāmā 'pi sthāpayiṣyati te vibhuḥ,
+api sthāṇuṃ jayed rāmo, bhavato grahaṇaṃ kiyat. Bhk_8.91
+
+api stūhyapisedhā 'smāṃs tathyamuktaṃ narā'śan !,
+api siñceḥ kṛśānau tvaṃ darpaṃ, mayyapi yo 'bhikaḥ. Bhk_8.92
+
+adhirāme parākrāntamadhikartā sa te kṣayam,"
+ityuktvā maithilī tūṣṇīmāsāṃcakre daśānanam. Bhk_8.93
+
+tataḥ khaḍgaṃ samudyamya rāvaṇaḥ krūra-vigrahaḥ
+vaidehīmantarā kruddhaḥ kṣaṇamūce viniśvasan. Bhk_8.94
+
+"cireṇā 'nuguṇaṃ proktā pratipatti-parāṅmukhī
+na māse pratipattāse māṃ cen, martāsi maithili !" Bhk_8.95
+
+prāyuṅkta rākṣasīr bhīmā mandirāya prativrajan
+"bhayāni datta sītāyai sarvā yūyaṃ kṛte mama." Bhk_8.96
+
+gate tasmin samājagmur bhayāya prati maithilīm
+rākṣasyo, rāvaṇa-prītyai krūraṃ cocuralaṃ muhuḥ Bhk_8.97
+
+"rāvaṇāya namaskuyāḥ, syāt sīte ! svasti te dhruvam
+anyathā prātarāśāya kuryāma tvāmalaṃ vayam. Bhk_8.98
+
+tṛṇāya matvā tāḥ sarvā vadantīs trijaṭā 'vadat
+"ātmānaṃ hata durvṛttāḥ ! sva-māṃsaiḥ kurutā 'śanam. Bhk_8.99
+
+adya sītā mayā dṛṣṭā sūryaṃ candramasā saha
+svapne spṛśantī madhyena tanuḥ śyāmā sulocanā. Bhk_8.100
+
+tās tayā tarjitāḥ sarvā mukhair bhīmā yathā''gatam
+yayuḥ suṣupsavas talpaṃ bhīmair vacana-karmabhiḥ Bhk_8.101
+
+gatāsu tāsu maithilyā saṃjānāno 'nilā''tmajaḥ
+āyātena daśā''syasya saṃsthito 'ntarhitaś ciram Bhk_8.102
+
+ṛṇād baddha ivānmukto viyogena kratu-dviṣaḥ
+hetor bodhasya maithilyāḥ prāstāvīd rāma-saṃkathām. Bhk_8.103
+
+taṃ dṛṣṭvā 'cintayat sītā-"hetoḥ kasyaiṣa rāvaṇaḥ
+avaruhya tarorārādaiti vānara-vigrahaḥ Bhk_8.104
+
+pūrvasmādanya-vad bhāti bhāvād dāśarathiṃ stūvan,
+ṛte krauryāt samāyāto māṃ viśvāsayituṃ nu kim ? Bhk_8.105
+
+itaro rāvaṇādeṣa rāghavā'nucaro yadi,
+sa-phalāni nimittāni prāk prabhātāt tato mama. Bhk_8.106
+
+uttarāhi vasan rāmaḥ samudrād rakṣasāṃ puram
+avail lavaṇa-toyasya sthitāṃ dakṣiṇataḥ katham. Bhk_8.107
+
+daṇḍakān dakṣiṇenā 'haṃ sarito 'drīn vanāni ca
+atikramyā 'mbudhiṃ caiva puṃsāmagamamāhṛtā. Bhk_8.108
+
+pṛthaṅ nabhasvataś caṇḍād vainateyena vā vinā
+gantumutsahate neha kaścit kimuta vānaraḥ. Bhk_8.109
+
+iti cintā-vatīṃ kṛcchrāt samāsādya kapi-dvipaḥ
+muktāṃ stokena rakṣobhiḥ proce"'haṃ rāma-kiṅkaraḥ Bhk_8.110
+
+viprakṛṣṭaṃ mahendrasya na dūraṃ vindhya-parvatāt
+nā 'nabhyāśe samudrasya tava mālyavati priyaḥ. Bhk_8.111
+
+a-saṃprāpte daśa-grīve praviṣṭo 'hamidaṃ vanam
+tasmin pratigate draṣṭuṃ tvāmupākraṃsyacetitaḥ Bhk_8.112
+
+tasmin vadati ruṣṭo 'pi nā 'kārṣaṃ devi ! vikramam
+a-vināśāya kāryasya vicinvānaḥ parāparam. Bhk_8.113
+
+vānareṣu kapiḥ svāmī nareṣvadhipateḥ sakhā
+jāto rāmasya sugrīvas tato dūto 'hamāgataḥ Bhk_8.114
+
+īśvarasya niśāṭānāṃ vilokya nikhilāṃ purīm
+kuśalo 'nveṣaṇasyā'hamāyukto dūta-karmaṇi Bhk_8.115
+
+darśanīya-tamāḥ paśyan strīṣu divyāsvapi striyaḥ
+prāpto vyāla-tamān vyasyan bhūjaṅgebhyo 'pi rākṣasān Bhk_8.116
+
+bhavatyāmutsuko rāmaḥ prasitaḥ saṃgamena te
+maghāsu kṛta-nirvāpaḥ pitṛbhyo māṃ vyasarjayat. Bhk_8.117
+
+ayaṃ maithilyabhijñānaṃ kākutsthasyā 'ṅgulīyakaḥ
+bhavatyā smaratā 'tyarthamarpitaḥ sādaraṃ mama. Bhk_8.118
+
+rāmasya dayamāno 'sāvadhyeti tava lakṣmaṇaḥ,
+upāskṛṣātāṃ rājendrāvāgamasyeha, mā trasīḥ. Bhk_8.119
+
+rāvaṇasyeha rokṣyanti kapayo bhīma-vikramāḥ,
+dhṛtyā nāthasva vaidehi !, manyorujjāsayā''tmanaḥ. Bhk_8.120
+
+rākṣasānāṃ mayi gate rāmaḥ praṇihaniṣyati
+prāṇānāmapaṇiṣṭā'yaṃ rāvaṇas tvāmihānayan. Bhk_8.121
+
+adevīd bandhu-bhogānāṃ, prādevīdātma-saṃpadam,
+śata-kṛtvas tavaikasyāḥ smaratyahno raghūttamaḥ. Bhk_8.122
+
+tavopaśāyikā yāvad rākṣasyaś cetayanti na,
+pratisaṃdiśyatāṃ tāvad bhartuḥ śārṅgasya maithili ! Bhk_8.123
+
+puraḥ praveśamāścaryaṃ buddhvā śākhā-mṛgeṇa sā
+cūḍā-māṇimabhijñānaṃ dadau rāmasya saṃmatam. Bhk_8.124
+
+rāmasya śayitaṃ bhuktaṃ jalpitaṃ hasitaṃ sthitam
+prakrāntaṃ ca muhuḥ pṛṣṭvā hanūmantaṃ vyasarjayat. Bhk_8.125
+
+asau dadhadabhijñānaṃ cikīrṣuḥ karma dāruṇam
+gāmuko 'pyantikaṃ bhartur manasā 'cintayat kṣaṇam. Bhk_8.126
+
+"kṛtvā karma yathā''diṣṭaṃ pūrva-kāryā'virodhi yaḥ
+karotyabhyadhikaṃ kṛtyaṃ, tamāhur dūtamuttamam. Bhk_8.127
+
+vaidehīṃ dṛṣṭavān karma kṛtvā 'nyairapi duṣkaram
+yaśo yāsyāmyupādātā vārtāmākhyāyakaḥ prabhoḥ. Bhk_8.128
+
+rākṣasendrasya saṃrakṣyaṃ mayā lavyamidaṃ vanam,"
+iti saṃcitya sadṛśaṃ nandanasyā 'bhavak kapiḥ. Bhk_8.129
+
+rāghavābhyāṃ śivaṃ, dūtas tayorahamiti bruvan
+hito bhanajmi rāmasya, kaḥ kiṃ brūte 'tra rākṣasaḥ, Bhk_8.130
+
+vilulita-puṣpa-reṇu-kapiśaṃ praśānta-kalikā-palāśa-kusumaṃ kusuma-nipāta-vicitra-vasudhaṃ sa-śabda-nipatad drumotka-śakunam
+śakuna-nināda-nādi-kakub vilola-vipalāyamāna-hariṇaṃ hariṇa-vilocanā'dhivasatiṃ babhañja pavanā''tmajo ripu-vanam. Bhk_8.131
+
+bhk_9
+
+dru-bhaṅga-dhvani-saṃvignāḥ kuvad-pakṣi-kulā ''kulāḥ
+akārṣuḥ kṣaṇadā-caryo rāvaṇasya nivedanam. Bhk_9.1
+
+"yadatāpsīc chanair bhānur, yatrā'vāsīn mitaṃ marut
+yadāpyānaṃ himosreṇa, bhanaktyupavanaṃ kapiḥ." Bhk_9.2
+
+tato 'śīti-sahasrāṇi kiṅkarāṇāṃ samādiśat
+indrajit-sūr vināśāya māruteḥ krodha-mūrcchitaḥ. Bhk_9.3
+
+śaktyṛṣṭi-parigha-prāsa-gadā-mudgara-pāṇayaḥ
+vyaśnuvānā diśaḥ prāpur vanaṃ dṛṣṭi-viṣopamāḥ Bhk_9.4
+
+dadhvāna megha-vad bhīmamādāya parighaṃ kapiḥ
+nedur dīptāyudhās te'pi taḍitvanta ivā'mbudāḥ. Bhk_9.5
+
+kapinā 'mbhodhi-dhīreṇa samagaṃsata rākṣasāḥ
+varṣāsūddhata-toyaughāḥ samudreṇeva sindhavaḥ. Bhk_9.6
+
+lāṅgūlamuddhataṃ dhunvannudvahan parighaṃ gurum
+tasthau toraṇamāruhya, pūrvaṃ na prajahāra saḥ. Bhk_9.7
+
+akṣāriṣuḥ śarāmbhāṃsi tasmin rakṣaḥ-payodharāḥ,
+na cā 'hvālīn, na cā'vrājīt trāsaṃ kapi-mahīdharaḥ Bhk_9.8
+
+avādīt tiṣṭhatetyuccaiḥ, prādevīt parighaṃ kapiḥ
+tathā, yathā raṇe prāṇān bahūnāmagrahīd dviṣām. Bhk_9.9
+
+vraṇairavamiṣū raktaṃ, dehaiḥ prāṛnāviṣur bhuvam,
+diśaḥ praurṇāviṣuś cā'nye yātudhānā bhavad-bhiyaḥ Bhk_9.10
+
+arāsiṣuś cyutotsāhā bhinna-dehāḥ priyā'savaḥ
+kaperatrāsiṣur nādān mṛgāḥ siṃha-dhvaneriva Bhk_9.11
+
+iti sicivṛddhyadhikāraḥ
+
+māyānāmīśvarās te 'pi śastra-hastā rathaiḥ kapim
+pratyāvavṛtire hantuṃ hantavyā māruteḥ punaḥ Bhk_9.12
+
+tāṃś cetavyān kṣitau śritvā vānaras toraṇaṃ yutān
+jaghānā''dhūya parighaṃ vijighṛkṣūn samāgatān. Bhk_9.13
+
+saṃjughukṣava āyūṃṣi tataḥ pratirurūṣavaḥ
+rāvaṇā'ntikamājagmur hata-śeṣā niśā-carāḥ Bhk_9.14
+
+"ekena bahavaḥ śūrāḥ sā''viṣkārāḥ pramatta-vat
+vaimukhyaṃ cakṛme" tyuccairūcur daśa-mukhā'ntike. Bhk_9.15
+
+māṃsopabhoga-saṃśūnānudvignāṃs tānavetya saḥ
+udvṛttā-nayano mitrān mantriṇaḥ svān vyasarjayat Bhk_9.16
+
+prameditāḥ sa-putrās te su-svāntā bāḍha-vikramāḥ
+a-mliṣṭa-nādā niraguḥ phāṇṭacitrā'stra-pāṇayaḥ Bhk_9.17
+
+tān dṛṣṭvā 'tidṛḍhān dhṛṣṭān prāptān parivṛḍhā''jñayā
+kaṣṭaṃ vinardataḥ krūrān śastra-ghuṣṭa-karān kapiḥ Bhk_9.18
+
+a-vyarṇo giri-kūṭābhānabhyarṇānārdidad drutam
+vṛtta-śastrān mahā'rambhyān-dāntāṃs tridaśairapi Bhk_9.19
+
+damitā'riḥ praśāntaujā nādā''pūrita-diṅmukhaḥ
+jaghāna ruṣito ruṣṭāṃs tvaritas tūrṇamāgatān. Bhk_9.20
+
+teṣāṃ nihanyamānānāṃ saṃghuṣṭaiḥ karṇa-bhedibhiḥ
+abhūdabhyamita-trāsamāsvāntā'śeṣa-dig jagat. Bhk_9.21
+
+bhaya-saṃhṛṣṭa-romāṇas tatas te 'pacita-dviṣaḥ
+kṣaṇena kṣīṇa-vikrāntāḥ kapinā 'neṣata kṣayam Bhk_9.22
+
+hatvā rakṣāṃsi lavitumakramīn mārutiḥ punaḥ
+aśokavanikāmeva nigṛhītā'ri-śāsanaḥ. Bhk_9.23
+
+āvarītumivā ''kāśaṃ varituṃ vīnivotthitam
+vanaṃ prabhañjana-suto nā 'dayiṣṭa vināśayan. Bhk_9.24
+
+variṣīṣṭa śivaṃ kṣipyan maithilyāḥ kalpa-śākhinaḥ,
+prāvāriṣuriva kṣoṇīṃ kṣiptā vṛkṣāḥ samantataḥ. Bhk_9.25
+
+saṃvuvūrṣuḥ svamākūtamājñāṃ vivariṣur drutam
+avariṣṭākṣama-kṣamyaṃ kapiṃ hantuṃ daṣānanaḥ Bhk_9.26
+
+ūce-"saṃvariṣīṣṭhās tvaṃ gaccha śatroḥ parākramam,
+dhvṛṣīṣṭhā yudhi māyābhiḥ svaritā śatru-sammukham Bhk_9.27
+
+drutaṃ saṃsvariṣīṣṭhās tvaṃ nir-bhayaḥ pradhanottame"
+sa māyānāmagāt sotā kaper vidhavituṃ dyutim Bhk_9.28
+
+vigāḍhā 'raṃ vanasyā 'sau śatrūṇāṃ gāhitā kapiḥ
+akṣaṃ radhitumārebhe raddhā laṅkā'nivāsinām. Bhk_9.29
+
+niṣkoṣitavyān niṣkoṣṭuṃ prāṇān daśamukhā''tmajāt
+ādāya parighaṃ tasthau vanān niṣkuṣita-drumaḥ Bhk_9.30
+
+eṣṭārameṣitā saṃkhye soḍhāraṃ sahitā bhṛśam
+reṣṭāraṃ reṣitaṃ vyāsyad roṣṭā 'kṣaḥ śastra-saṃhatīḥ Bhk_9.31
+
+śastrair dideviṣuṃ saṃkhye dudyūṣuḥ parighaṃ kapiḥ
+ardidhiṣur yaśaḥ kīrtimīrtsuṃ vṛkṣairatāḍayat. Bhk_9.32
+
+bhūyas taṃ dhipsumāhūya rāja-putraṃ didambhiṣuḥ
+ahaṃs tataḥ sa mūrcchā-vān saṃśiśrīṣurabhūd dhvajam Bhk_9.33
+
+āśvasyā 'kṣaḥ kṣaṇāl lokān bibhrakṣuriva tejasā
+ruṣā bibhrajjiṣu-prakhyaṃ kapiṃ bāṇairavākirat. Bhk_9.34
+
+saṃyuyūṣuṃ diśo bāṇairakṣaṃ yiyaviṣur drumaiḥ
+kapir māyāmivā 'kārṣīd darśayan vikramaṃ raṇe. Bhk_9.35
+
+vānaraṃ prorṇunaviṣuḥ śastrairakṣo vididyute,
+taṃ prorṇunūṣurupalaiḥ sa-vṛkṣairābabhau kapiḥ, Bhk_9.36
+
+svāṃ jijñāpayiṣū śaktiṃ bubhūrṣū nu jaganti kim
+śastrairityakṛṣātāṃ tau paśyatāṃ buddhimāhave. Bhk_9.37
+
+māyābhiḥ su-ciraṃ kliṣṭvā rākṣaso 'kliśita-kriyam
+saṃprāpya vānaraṃ bhūmau papāta parighā''hataḥ. Bhk_9.38
+
+pavito 'nuguṇair vātaiḥ śītaiḥ pūtvā payo-nidhau
+babhañjā'dhyuṣitaṃ bhuyaḥ kṣudhitvā patribhir vanam Bhk_9.39
+
+uccairañcita-lāṅgūlaḥ śiro 'ñcitveva saṃvahan
+dadhad vilubhitaṃ vātaiḥ keśaraṃ vahni-piṅgalam Bhk_9.40
+
+jaritveva javenā 'nye nipetus tasya śākhinaḥ,
+vraścitvā vivaśānanyān balenā 'pātayat tarūn. Bhk_9.41
+
+damitvā'pyari-saṃghātānaśrāntvā kapi-keśarī
+vanaṃ cacāra kartiṣyan nartsyanniva niraṅkuśaḥ. Bhk_9.42
+
+pāraṃ jigamiṣan so 'tha punarāvartsyatāṃ dviṣām
+matta-dvirada-vad reme vane laṅkā-nivāsinām. Bhk_9.43
+
+"yadyakalpsyadabhiprāyo yoddhuṃ rakṣaḥ-pateḥ svayam,
+tamapyakartsyamadyā 'haṃ" vadannityacarat kapiḥ. Bhk_9.44
+
+"hate tasmin priyaṃ śrutvā kalptā prītiṃ parāṃ prabhuḥ,
+toṣo 'dyaiva ca sītāyāḥ paraś cetasi kalpsyati." Bhk_9.45
+
+āhūya rāvaṇo 'vocadathendrajitamantikāt
+"vane matta iva kruddho gajendraḥ pradhaneṣvaṭan Bhk_9.46
+
+yayātha tvaṃ dviṣāmantaṃ, bhūyo yātāsi cā 'sakṛt
+śaśaktha jetuṃ tvaṃ devān, māyāḥ sasmartha saṃyati. Bhk_9.47
+
+tvaṃ sasarjitha śastrāṇi, dadraṣṭhā 'rīṃś ca duḥsahān,
+śastrairāditha śastrāṇi tvameva mahatāmapi. Bhk_9.48
+
+sa tvaṃ haniṣyan dur-buddhiṃ kapiṃ vraja mamā ''jñayā,
+mā nā 'ñjī rākṣasīr māyāḥ, prastāvīr mā na vikramam. Bhk_9.49
+
+mā na sāvīr mahā'strāṇi, mā na dhāvīrariṃ raṇe,
+vānaraṃ mā na saṃyaṃsīr, vraja tūrṇamaśaṅkitaḥ." Bhk_9.50
+
+anaṃsīc caraṇau tasya mandirādindrajid vrajan,
+avāpya cā''śiṣas tasmādāyāsīt prītimuttamām Bhk_9.51
+
+gate tasminnupāraṃsīt saṃrambhād rakṣasāṃ patiḥ
+indrajid vikramā'bhijño manvāno vānaraṃ jitam. Bhk_9.52
+
+saṃsismayiṣamāṇo 'gān māyāṃ vyañjijiṣur dviṣaḥ
+jagat pipaviṣur vāyuḥ kalpānta iva durdharaḥ Bhk_9.53
+
+lokānāśiśiṣos tulyaḥ kṛtāntasya viparyaye
+vane cikariṣor vṛkṣān balaṃ jigariṣuḥ kapeḥ Bhk_9.54
+
+roditi smeva cā ''yāti tasmin pakṣi-gaṇaḥ śucā
+mukta-kaṇṭhaṃ hatān vṛkṣān bandhūn bandhorivā ''game Bhk_9.55
+
+āśvasīdiva cā ''yāti tad vega-pavanā''hatam
+vicitra-stabakodbhāsi vanaṃ lulita-pallavam Bhk_9.56
+
+"na prāṇiṣi durācāra !, māyānāmīśiṣe na ca.
+neḍiṣe yadi kākutsthaṃ" tamūce vānaro vacaḥ Bhk_9.57
+
+itīḍadhikāraḥ
+
+sa-sainyaś chādayan saṃkhye prāvartiṣṭa tamindrijit
+śaraiḥ kṣuraprair māyābhiḥ śataśaḥ sarvato muhuḥ Bhk_9.58
+
+vānaraḥ kula-śailā''bhaḥ prasahyā ''yudha-śīkaram
+rakṣas-pāśān yaśas-kāmyaṃs tamas-kalpānadudruvat. Bhk_9.59
+
+dhanuṣ-pāśabhṛtaḥ saṃkhye jyotiṣ-kalporu-keśaraḥ
+dudhāva nir namas-kārān rākṣasendra-puras-kṛtān. Bhk_9.60
+
+svāmino niṣ-krayaṃ gantumāviṣ-kṛta-balaḥ kapiḥ
+rarāja samare śatrūn ghnan duṣ-kṛta-bahiṣ-kṛtaḥ. Bhk_9.61
+
+catuṣ-kāṣṭhaṃ kṣipan vṛkṣān tiras-kurvannarīn raṇe
+tiras-kṛta-digābhogo dadṛśo bahudhā bhraman. Bhk_9.62
+
+dviṣ-kurvatāṃ catuṣ-kurvannabhighātaṃ narair dviṣām
+bahiṣ-kariṣyan saṃgrāmād ripūn jvalana-piṅgalaḥ Bhk_9.63
+
+jyotiṣ-kurvannivaiko 'sāvāṭīt saṃkhye parārdhya-vat,
+tamarāyuṣ-karaṃ prāpa śakra-śatrur dhanuṣ-karaḥ. Bhk_9.64
+
+asyannaruṣ-karān bāṇān jyotiṣ-kara-sama-dyutiḥ
+yaśas-karo-yaśas-kāmaṃ kapiṃ bāṇairtāḍayat. Bhk_9.65
+
+cakārā 'dhas-padaṃ nā 'sau caran viyati mārutiḥ
+marmā-vidbhis tamas-kāṇḍair vidhyamāno'pyanekadhā Bhk_9.66
+
+iti satvādhikāraḥ
+
+puruhūta-dviṣo dhūrṣu yuktān yānasya vājinaḥ
+āyūṃṣi tvakṣu nirbhidya prābhañjaniramocayat. Bhk_9.67
+
+suṣupus te yadā bhūmau, rāvaṇiḥ sārathiṃ tadā
+āhartumanyānaśiṣat proṣita-trāsa-karkaśaḥ. Bhk_9.68
+
+pratuṣṭūṣuḥ punar yuddhamāsiṣañjayiṣur bhayam
+ātasthau rathamātmīyānutsisāhayiṣanniva. Bhk_9.69
+
+balānyabhiṣiṣikṣantaṃ tarubhiḥ kapi-vāridam
+vijigīṣuḥ punaś cakre vyūhaṃ dur-jayamindrajit. Bhk_9.70
+
+abhiṣyantaḥ kapiṃ krodhādabhyaṣiñcannivā ''tmanaḥ
+saṃprahāra-samudbhūtai raktaiḥ koṣṇairaruś-cyutaiḥ. Bhk_9.71
+
+saṃgrāme tānadhiṣṭhāsyan niṣadya pura-toraṇam
+aviṣīdannavaṣṭabdhān vyaṣṭabhnān nara-viṣvaṇān Bhk_9.72
+
+viṣahya rākṣasāḥ kruddhāḥ śastra-jālamavākiran,
+yan na vyaṣahatendro 'pi; kapiḥ paryaṣahiṣṭa tat. Bhk_9.73
+
+viṣyandamāna-rudhiro rakta-visyanda-pāṭalān
+viṣkant n parigheṇā 'hannaviskantā kapir dviṣaḥ. Bhk_9.74
+
+megha-nādaḥ pariskandan pariṣkandantamāśvarim
+abadhnādapariskandaṃ brahma-pāśena visphuran. Bhk_9.75
+
+visphuladbhir gṛhīto 'sau niṣphulaḥ puruṣā'śanaiḥ
+viṣkambhituṃ samartho 'pi nā'calad brahma-gauravāt. Bhk_9.76
+
+kṛṣīḍhvaṃ bharturānandaṃ, mā na proḍhvaṃ drutaṃ viyat
+vānaraṃ netumityuccairindra-jit prāvadat svakān. Bhk_9.77
+
+"gatamaṅguli-ṣaṅgaṃ tvāṃ bhīru-ṣṭhānādihā ''gatam
+khādiṣyāma" iti procur nayanto mārutiṃ dviṣaḥ. Bhk_9.78
+
+"agniṣṭomādi-saṃstheṣu jyotiṣṭomā''diṣu dvijān
+yo 'rakṣīt, tasya dūto 'yaṃ mānuṣasyeti cā'vadan. Bhk_9.79
+
+"nāsāṃ mātṛ-ṣvaseyyāś ca rāvaṇasya lulāva yaḥ,
+mātuḥ svasuś ca tanayān kharā''dīn vijaghāna yaḥ Bhk_9.80
+
+prāduḥṣanti na saṃtrāsā yasya rakṣaḥ-samāgame,
+tasya kṣatriya-duḥṣūterayaṃ praṇidhirāgataḥ. Bhk_9.81
+
+dṛṣṭvā su-ṣuptaṃ rājendraṃ pāpo 'yaṃ viṣamā'śayaḥ
+cāra-karmaṇi niṣṇātaḥ praviṣṭaḥ pramadā-vanam. Bhk_9.82
+
+supratiṣṇāta-sūtrāṇā kapiṣṭhala-sama-tviṣām
+sthitāṃ vṛtte dvijātīnāṃ rātrāvaikṣata maithilīm Bhk_9.83
+
+sarva-nārī-guṇaiḥ praṣṭhāṃ viṣṭara-sthāṃ gavi-ṣṭhirām
+śayānāṃ ku-ṣṭhale tārāṃ divi-ṣṭhāmiva nir-malām Bhk_9.84
+
+su-ṣāmnīṃ sarva-tejassu tanvīṃ jyotiṣṭamāṃ śubhām
+niṣṭapantīmivā ''tmānaṃ jyotiḥsāt-kurvatīṃ vanam Bhk_9.85
+
+madhusād-bhūta-kiñjalka-piñjara-bhramarā''kulām
+ullasat-kusumāṃ puṇyāṃ hema-ratna-latāmiva Bhk_9.86
+
+vilocanā'mbu muñcantīṃ-kurvāṇāṃ pari-sesicām
+hṛdayasyeva śokā'gni-saṃtaptasyottama-vratām Bhk_9.87
+
+dṛṣṭvā tāmabhanag vṛkṣān dviṣo ghnan parisedhataḥ
+paritas tān vicikṣepa kruddhaḥ svayamivā 'nilaḥ Bhk_9.88
+
+a-pratistabdha-vikrāntama-nistabdho mahā''have,
+visoḍhavantamastrāṇi vyatastambhad ghana-dhvaniḥ" Bhk_9.89
+
+te vijñāyā 'bhisoṣyanataṃ raktai rakṣāṃsi sa-vyathāḥ
+anyairapyāyataṃ nehur varatrā-śṛṅkhalā''dibhiḥ Bhk_9.90
+
+viṣasādendrajid buddhvā bandhe bandhā'ntarakriyām
+divya-bandho viṣahate nā 'paraṃ bandhanaṃ yataḥ Bhk_9.91
+
+iti ṣatvādhikāraḥ
+
+muṣṇantamiva tejāṃsi vistīrṇoras-sthalaṃ puraḥ
+upasedur daśa-grīvaṃ gṛhītvā rākṣasāḥ kapim. Bhk_9.92
+
+bahudhā bhinna-marmāṇo bhīmāḥ kharaṇasā''dayaḥ
+agre-vaṇaṃ vartamāne pratīcyāṃ candra-maṇḍale Bhk_9.93
+
+"nirvaṇaṃ kṛtamudyānamanenā ''mravaṇā''dibhiḥ
+devadāru-vanāmiśrai" rityūcur vānara-dviṣaḥ. Bhk_9.94
+
+upāsthiṣata saṃprītāḥ pūrvāhṇe roṣa-vāhaṇam
+rākṣasāḥ kapimādāya patiṃ rudhira-pāyiṇām. Bhk_9.95
+
+surā-pāṇa-parikṣībaṃ ripu-darpa-harodayam
+para-strī-vāhinaṃ prāyuḥ sā''viṣkāraṃ surā-piṇaḥ. Bhk_9.96
+
+saṃgharṣa-yogiṇaḥ padau praṇemus tridaśa-dviṣaḥ
+prahiṇvanto hanūmantaṃ pramīṇantaṃ dviṣan-matīḥ. Bhk_9.97
+
+"pravapāṇi śiro bhūmau vānarasya vanacchidaḥ"
+āmantrayata saṃkruddhaḥ samitiṃ rakṣasāṃ patiḥ Bhk_9.98
+
+praṇyagādīt praṇighnantaṃ ghanaḥ praṇinadanniva
+tataḥ praṇihitaḥ svā'rthe rākṣasendraṃ vibhīṣaṇaḥ. Bhk_9.99
+
+"praṇiśāmya daśā-grīva !, praṇiyātumalaṃ ruṣam,
+praṇijānīhi, hanyante dūtā doṣe na satyapi." Bhk_9.100
+
+prāṇayantamariṃ proce rākṣasendro vibhīṣaṇam
+"prāṇiṇiṣur na pāpo 'yaṃ, yo 'bhāṅkṣīt pramadā-vanam. Bhk_9.101
+
+prāghāniṣata rakṣāṃsi yenā ''ptāni vane mama,
+na prahaṇmaḥ kathaṃ pāpaṃ vada pūrvā'pakāriṇam. Bhk_9.102
+
+veśmā'ntar-haṇanaṃ kopān mama śatroḥ kariṣyataḥ
+mā kārṣīra'ntarayaṇaṃ, prayāṇā'rhamavehyamum. Bhk_9.103
+
+prahīṇa-jīvitaṃ kuryur ye na śatrumupasthitam
+nyāyyāyā api te lakṣmyāḥ kurvantyāśu prahāpaṇam Bhk_9.104
+
+kaḥ kṛtvā rāvaṇā''marṣa-prakopaṇamavadya-dhīḥ
+śakto jagati śākro 'pi kartumāyuḥ-pragopaṇam. Bhk_9.105
+
+vanā'nta-preṅkhaṇaḥ pāpaḥ phalānāṃ pariṇiṃsakaḥ
+praṇikṣiṣyati no bhūyaḥ praṇindyā 'smān madhūnyayam Bhk_9.106
+
+hareḥ pragamanaṃ nā 'sti, na prabhānaṃ hima-druhaḥ,
+nā 'ti-pravepanaṃ vāyor mayā gopāyite vane. Bhk_9.107
+
+duṣpānaḥ punaretena kapinā bhṛṅga-saṃbhṛtaḥ
+pranaṣṭa-vinayenā 'gryaḥ svāduḥ puṣpā''savo vane" Bhk_9.108
+
+roṣa-bhīma-mukhenaivaṃ kṣubhnatokte, plavaṅgamaḥ
+proce sā''nunayaṃ vākyaṃ rāvaṇaṃ svā'rtha-siddhaye Bhk_9.109
+
+iti ṇatvā'dhikāraḥ
+
+"dūtamekaṃ kapiṃ baddhamānītaṃ veśma paśyataḥ
+loka-traya-pateḥ krodhaḥ kathaṃ tṛṇa-laghus tava. Bhk_9.110
+
+agnyāhita-jana-prahve vijigīṣā-parāṅmukhe.
+kasmād vā nīti-niṣṇasya saṃrambhas tava tāpase. Bhk_9.111
+
+na sarva-rātra-kalyānyaḥ striyo vā ratna-bhūmayaḥ
+yaṃ vinirjitya labhyante, kaḥ kuryāt tena vigraham. Bhk_9.112
+
+saṃgaccha rāma-sugrīvau bhuvanasya samṛddhaye
+ratna-pūrṇāvivā 'mbhodhī himavān pūrva-paścimau. Bhk_9.113
+
+suhṛdau rāma-sugrīvau, kiṃkarāḥ kapi-yūtha-pāḥ,
+para-dārā'rpaṇenaiva-labhyante, muñca maithilīm. Bhk_9.114
+
+dharmaṃ pratyarpayan sītāmarthaṃ rāmeṇa mitratām
+kāmaṃ viśvāsa-vāsena sītāṃ dattvā ''pnuhi trayam. Bhk_9.115
+
+virādha-tāḍakā-vāli-kabandha-khara-dūṣaṇaiḥ
+na ca na jñāpito yādṛḍ mārīcenā 'pi te ripuḥ Bhk_9.116
+
+kharā''di-nidhanaṃ cā 'pi mā maṃsthā vaira-kāraṇam,
+ātmānaṃ rakṣituṃ yasmāt kṛtaṃ tan na jigīṣayā". Bhk_9.117
+
+tataḥ krodhā'nilā''pāta- kamprā''syā'mbhoja-saṃhatiḥ
+mahā-hrada iva kṣubhyan kapimāha sma rāvaṇaḥ. Bhk_9.118
+
+"hata-rākṣasa-yodhasya virugṇodyāna-śākhinaḥ
+dūto'smīti bruvāṇasya kiṃ ? dūta-sadṛśaṃ tava. Bhk_9.119
+
+paṅgu-bāla-striyo nighnan kabandha khara-tāḍakāḥ
+tapasvī yadi kākutsthaḥ, kīdṛk ? kathaya pātakī. Bhk_9.120
+
+abhimāna-phalaṃ jānan mahattvaṃ kathamuktavān
+ratnā''di-lābha-śūnya-tvān niṣphalaṃ rāma-vigraham Bhk_9.121
+
+para-strī-bhoga-haraṇaṃ dharma eva narā'śinām,
+mukhamastītyabhāṣiṣṭhāḥ, kā ? mesā''śaṅkatā tvayi. Bhk_9.122
+
+brūhi dūra-vibhinnānāmṛddhi-śīla-kriyā'nvayaiḥ.
+hanūman ! kīdṛśaṃ ? sakhyaṃ nara-vānara-rakṣasām. Bhk_9.123
+
+eko dvābhyāṃ virādhas tu jitābhyāma-vivakṣitaḥ
+hataś chalena mūḍho'yaṃ, tenā 'pi tava kaḥ ? smayaḥ Bhk_9.124
+
+man-niyogāc ca mārīcaḥ palāyana-parāyaṇaḥ
+yuyutsā-rahito rāmaṃ mamārā 'paharan vane. Bhk_9.125
+
+nijaghānā 'nya-saṃsaktaṃ satyaṃ rāmo latā-mṛgam
+tvameva brūhi saṃcintya, yuktaṃ tan mahatāṃ yadi. Bhk_9.126
+
+puṃsā bhakṣyeṇa bandhūnāmātmānaṃ rakṣituṃ vadhaḥ
+kṣamiṣyate daśā''syena, kva-tyeyaṃ tava dur-matiḥ." Bhk_9.127
+
+kapir jagāda-"dūto 'hamupāyaṃ tava darśane
+druma-rākṣasa-vidhvaṃsamakārṣaṃ buddhi-pūrvakam. Bhk_9.128
+
+ā-trikūṭamakārṣur ye tvat-kā nir-jaṅgamaṃ jagat,
+daśagrīva ! kathaṃ brūṣe ? tāna-vadhyām mahī-pateḥ. Bhk_9.129
+
+abhimāna-phalaṃ proktaṃ yat tvayā rāma-vigrahe,
+vineśus tena śata-śaḥ kulānyasura-rakṣasām. Bhk_9.130
+
+yat sva-dharmama-dharmaṃ tvaṃ dur-balaṃ pratyapadyathāḥ
+ripau rāme ca niḥ-śaṅko, naitat kṣemaṃkaraṃ ciram Bhk_9.131
+
+anvayā''di-vibhinnānāṃ yathā sakhyamanīpsitam
+naiṣīr, virodhamapyevaṃ sārdhaṃ puruṣa-vānaraiḥ. Bhk_9.132
+
+virādhaṃ tapasāṃ vighnaṃ jaghāna vijito yadi
+varo dhanur-bhṛtāṃ rāmaḥ, sa kathaṃ na vivakṣitaḥ ? Bhk_9.133
+
+praṇaśyannapi nā 'śaknodatyetuṃ bāṇa-gocaram
+tvayaivoktaṃ mahā-māyo mārīco rāma-hastinaḥ. Bhk_9.134
+
+anyā''saktasya yad vīryaṃ na tvaṃ smarasi vālinaḥ
+mūrcchā-vān namataḥ saṃdhyāṃ dhruvaṃ tad bāhu-pīḍitaḥ. Bhk_9.135
+
+a-sad-bandhu-vidhopajñaṃ vimuñca bali-vigraham,
+sītāmarpaya nantavye kośa-daṇḍā''tma-bhūmibhiḥ." Bhk_9.136
+
+sphuṭa-paruṣama-sahyamitthamuccaiḥ sadasi marut-tanayena bhāṣyamāṇaḥ
+parijanamabhito vilokya dāhaṃ daśa-vadanaḥ pradideśa vānarasya. Bhk_9.137
+
+bhk_10
+
+atha sa valka-dukūla-kuthā''dibhiḥ parigato jvaladuddhata-vāladhiḥ
+udapatad divamākula-locanair nṛ-ripubhiḥ sa-bhyairabhivīkṣitaḥ. Bhk_10.1
+
+raṇa-paṇḍito 'grya-vibudhā'ri-pure kalahaṃ sa rāma-mahitaḥ kṛtavān,
+jvaladagni rāvaṇa-gṛhaṃ ca balāt balahaṃs-rāmama-hitaḥ kṛtavān. Bhk_10.2
+
+pādā'nta-yamakam
+
+nikhilā 'bhavan na sa-hasā sahasā jvalanena pūḥ prabhavatā bhavatā
+vanitā-janena viyatā viyatā tri-purā'padaṃ nagamitā gamitā. Bhk_10.3
+
+padā''di-yamakam
+
+sarasāṃ sa-rasāṃ parimucya tanuṃ patatāṃ patatāṃ kakubho bahuśaḥ
+sa-kalaiḥ sakalaiḥ paritaḥ karuṇai- ruditai ruditairiva khaṃ nicitam. Bhk_10.4
+
+pāda-madhya-yamakam
+
+na ca kāṃcana kāñcana-sadma-citiṃ na kapiḥ śikhinā śikhinā samayaut,
+na ca na dravatā dravatā parito hima-hāna-kṛtā na kṛtā kva ca na. Bhk_10.5
+
+cakravāla-yamakam
+
+avasitaṃ hasitaṃ prasitaṃ, mudā vilasitaṃ hrasitaṃ smara-bhāsitam,
+na sa-madāḥ pramadā hata-saṃmadāḥ, pura-hitaṃ vihitaṃ na samīhitam. Bhk_10.6
+
+samudra-yamakam
+
+samiddha-śaraṇā dīptā dehe laṅkā mateśvarā
+samid-dha-śaraṇā''dīp-tā dehe'laṃ-kāma-teśvarā Bhk_10.7
+
+kāñcī-yamakam
+
+piśitā'śināmanu-daśaṃ sphuṭatāṃ sphuṭatāṃ jagāma parivihvala-tā,
+halatā janena bahudhā caritaṃ caritaṃ mahattva-rahitaṃ mahatā. Bhk_10.8
+
+na gajā naga-jā dayitā dayitā, vi-gataṃ vigataṃ, lalitaṃ lalitam,
+pramadā pra-madā ''ma-hatā, mahatā- ma-raṇaṃ maraṇaṃ samayāt samayāt. Bhk_10.9
+
+na vānaraiḥ parākrāntāṃ mahadbhir bhīma-vikramaiḥ
+na vā naraiḥ parākrāntāṃ dadahā nagarīṃ kapiḥ. Bhk_10.10
+
+drutaṃ drutaṃ vahni-samāgataṃ gataṃ mahīmahīna-dyuti-rocitaṃ citam
+samaṃ samantādapa-gopuraṃ puraṃ paraiḥ parairapyanirākṛtaṃ kṛtam Bhk_10.11
+
+naśyanti dadarśa vṛndāni kapīndraḥ
+hārīṇyā-balānāṃ hārīṇyā-balānām. Bhk_10.12
+
+nārīṇāmapanunudur na deha-khedān nā ''rīṇā'mala-salilā hiraṇya-vāpyaḥ,
+nā ''rīṇāmanala-parīta-patra-puṣpān nā 'rīṇāmabhavadupetya śarma vṛkṣān. Bhk_10.13
+
+atha lulita-patatri-mālaṃ rugṇā'sana-bāṇa-keśara-tamālam
+sa vanaṃ vivikta-mālaṃ sītāṃ draṣṭuṃ jagāmā'lam. Bhk_10.14
+
+ghana-girīndra-vilaṅghana-śālinā vana-gatā vana-ja-dyuti-locanā
+jana-matā dadṛśe janakā''tmajā taru-mṛgeṇa taru-sthala-śāyinī Bhk_10.15
+
+vi-patha-yamakam
+
+kāntā mahamānā duḥkhaṃ cyuta-bhūṣā
+rāmasya viyuktā kāntā saha-mānā. Bhk_10.16
+
+madhyā-'nta-yamakam
+
+mitamavadadudāraṃ tāṃ hanūmān mudā 'raṃ raghu-vṛṣabha-sakāśaṃ yāmi devi ! prakāśam
+tava vidita-viṣādo dṛṣṭa-kṛtsnā''miṣādaḥ śriyamaniśamavantaṃ parvataṃ mālyavantam. Bhk_10.17
+
+garbha-yamakam
+
+udapatad viyada-pragamaḥ parai rucitamunnati-mat-pṛthu-sattva-vat
+rucita-mun nati-mat pṛthu-sattva-vat pratividhāya vaṇur bhaya-daṃ dviṣām. Bhk_10.18
+
+sarva-yamakam
+
+babhau marutvān vi-kṛtaḥ sa-mudro, babhau marutvān vikṛtaḥ sa-mudraḥ,
+babhau marutvān vikṛtaḥ samudro, babhau marutvān vikṛtaḥ sa mudraḥ. Bhk_10.19
+
+mahā-yamakam
+
+abhiyātā varaṃ tuṅgaṃ bhū-bhṛtaṃ ruciraṃ puraḥ karkaśaṃ prathitaṃ dhāma sa-satvaṃ puṣkarekṣaṇam.
+abhiyā 'tā''varaṃ tuṅgaṃ bhū-bhṛtaṃ ruciraṃ puraḥ karkaśaṃ prasthitaṃ dhāma sa-satvaṃ puṣkare kṣaṇam. Bhk_10.20
+
+ādyanta-yamakam
+
+citraṃ citramivā ''yāto vicitraṃ tasya bhū-bhṛtam
+harayo vegamāsādya saṃtrastā mumuhur muhuḥ. Bhk_10.21
+
+ādi-dīpakam
+
+gacchan sa vārīṇyakirat pāyodheḥ, kūla-sthitāṃs tāni-tarūnadhunvan,
+puṣpā''starāṃs te 'ṅga-sūkhānatanvan, tān kinnarā manmathino 'dhyatiṣṭhan. Bhk_10.22
+
+anta-dīpakam
+
+sa giriṃ taru-khaṇḍa-maṇḍitaṃ samavāpya tvarayā latā-mṛgaḥ
+smita-darśita-kārya-niścayaḥ kapi-sainyair muditairamaṇḍayat. Bhk_10.23
+
+madhya-dīpakam
+
+garuḍā'nila-tigma-raśmayaḥ patatāṃ yadhapi saṃmatā jave,
+a-cireṇa kṛtā'rthamāgataṃ tamamanyanta tathāpyatīva te. Bhk_10.24
+
+rūpakam
+
+vraṇa-kandara-līna-śastra-sarpaḥ pṛthu-vakṣaḥ-sthala-karkaśoru-bhittiḥ
+cyuta-śoṇita-baddha-dhātu-rāgaḥ śuśubhe vānara-bhū-dharas tadā 'sau. Bhk_10.25
+
+asyaiva bhedā apare catvāraḥ etad viśiṣṭopamā-yuktaṃ rūpakam
+
+cala-piṅga-keśara-hiraṇya-latāḥ sthuṭa-netra-paṅkti-maṇi-saṃhatayaḥ
+kaladhaita-sānava ivā 'tha gireḥ kapayo bahūḥ pavana-jā''gamane. Bhk_10.26
+
+etaccheṣā'rthā'nvavasitamavataṃsakam
+
+kapi-toya-nidhīn plavaṅgamendur madayitvā madhureṇa darśanena
+vacanā'mṛta-dīdhitīr vitanva- nnakṛtā ''nanda-parīta-netra-vārīn. Bhk_10.27
+
+ardha-rūpakam
+
+parikhedita-vindhya-vīrudhaḥ paripītā'mala-nirjharā'mbhasaḥ
+dudhuvur madhu-kānanaṃ tataḥ kapi-nāgā muditā'ṅgadā''jñayā. Bhk_10.28
+
+etadanvarthopamā-yuktaṃ lalāmakam
+
+viṭapi-mṛga-viṣāda-dhvānta-nud vānarā'rkaḥ priya-vacanama-yukhair bodhitā'rthā'ravindaḥ,
+udaya-girimivā 'driṃ saṃpramucyā 'bhyagāt khaṃ nṛpa-hṛdaya-guhā-khaṃ ghnan pra-mohā'ndhakāram. Bhk_10.29
+
+ivopamā
+
+raghu-tanayamagāt tapo-vana-khaṃ vidhṛta-jaṭā'jina-valkalaṃ hanūmān
+paramiva puruṣaṃ nareṇa yuktaṃ sama-śama-veśa-samādhinā 'nujena, Bhk_10.30
+
+yathopamā
+
+kara-puṭa-nihitaṃ dadhat sa ratnaṃ pariviralā'ṅguli nirgatā'lpa-dīpti
+tanu-kapila-ghana-sthitaṃ yathenduṃ nṛpamanamat paribhugna-jānu-mūrdhā. Bhk_10.31
+
+sahopamā
+
+rucironnata-ratna-gauravaḥ paripūrṇā-'mṛta-raśmi-maṇḍalaḥ
+samadṛśyata jīvitā''śayā saha rāmeṇa vadhū-śiro-maṇiḥ. Bhk_10.32
+
+taddhitopamā
+
+avasanna-ruciṃ vanā''gataṃ tamanā''mṛṣṭarajo-vidhūsaram
+samapaśyadapeta-maithiliṃ dadhataṃ gaurava-mātramātma-vat. Bhk_10.33
+
+luptopamā
+
+sāmarthya-saṃpādita-vāñchitā'rthaś cintā-maṇiḥ syān na kathaṃ hanūmān,
+sa-lakṣmaṇo bhūmi-patis tadānīṃ śākhā-mṛgā'nīka-patiś ca mene. Bhk_10.34
+
+samopamā
+
+"yuśmāna-cetan kṣaya-vāyu-kalpān sītā-sphuliṅgaṃ parigṛhya jālmaḥ
+laṅkā-vanaṃ siṃha-samo 'dhiśete martuṃ dviṣannityavadaddhanūmān Bhk_10.35
+
+arthā'ntara-nyāsaḥ
+
+"ahṛta dhaneśvarasya yudhi yaḥ sameta-māyo dhanaṃ, tamahamito vilokya vibudhaiḥ kṛtottamā''yodhanam
+vibhava-madena nihnuta-hriyā 'timātra-saṃpannakaṃ, vyathayati sat-pathādadhigatā 'thaveha saṃpan na kam. Bhk_10.36
+
+ākṣepaḥ
+
+ṛddhi-mān rākṣaso mūḍhaś, citraṃ nā'sau yaddudhataḥ,
+ko vā heturanāryāṇāṃ dharmye vartmani vartitum. Bhk_10.37
+
+ākṣepa eva
+
+tasyā 'dhivāse tanurutsukā 'sau dṛṣṭā mayā rāma-patiḥ pra-manyuḥ,
+kāryasya sāro 'yamudīrito vaḥ, proktena śeṣeṇa kimuddhatena. Bhk_10.38
+
+vyatirekaḥ
+
+samatāṃ śaśi-lekhayopayāyā- davadātā pra-tanuḥ kṣayeṇa sītā,
+yadi nāma kalaṅka indu-lekhā- mativṛtto laghayen na cā 'pi bhāvī. Bhk_10.39
+
+vibhāvanā
+
+a-parīkṣita-kāriṇā gṛhītāṃ tvamanāsevita-vṛddha-paṇḍitena
+a-virodhita-niṣṭhureṇa sādhvīṃ dayitāṃ trātumalaṃ ghaṭasva rājan !" Bhk_10.40
+
+samāsoktiḥ
+
+sa ca vihvala-sattva-saṃkulaḥ pariśuṣyannabhavan mahā-hradaḥ
+paritaḥ paritāpa-mūrcchitaḥ, patitaṃ cā 'mbu nirabhramīpsitam. Bhk_10.41
+
+atiśayoktiḥ
+
+atha lakṣmaṇa-tulya-rūpa-veśaṃ gamanā''deśa-vinirgatā'gra-hastam
+kapayo 'nuyayuḥ sametya rāmaṃ nata-sugrīva-gṛhīta-sā''darājñam. Bhk_10.42
+
+yathā-saṃkhyam
+
+kapi-pṛṣṭha-gatau tato narendrau. kapayaś ca jvalitā'gni-piṅgalā'kṣāḥ
+mumucuḥ, prayayur, drutaṃ samīyur, vasudhāṃ, vyoma, mahīdharaṃ mahendram Bhk_10.43
+
+utprekṣā
+
+sthitamiva parirakṣituṃ samantā- dudadhi-jalaugha-pariplavād dharitrīm
+gagana-tala-vasundhrā'ntarāle jala-nidhivega-sahaṃ prasārya deham Bhk_10.44
+
+vārtā
+
+viṣa-dhara-nilaye niviṣṭa-mūlaṃ śikhara-śataiḥ parimṛṣṭa-deva-lokam
+ghana-vipula-nitamba-pūritāśaṃ phala-kusumā''cita-vṛkṣa-ramya-kuñjam Bhk_10.45
+
+preyaḥ
+
+madhu-kara-virutaiḥ priyādhvanīnāṃ sarasi-ruhair dayitā''sya-hāsya-lakṣmyāḥ
+sphuṭamanuharamāṇamādadhānaṃ puruṣa-pateḥ sahasā paraṃpramodam Bhk_10.46
+
+rasavat
+
+graha-maṇi-rasanaṃ divo nitambaṃ vipulamanuttama-labdha-kānti-yogam
+cyuta-ghana-vasanaṃ mano'bhirāmaṃ śikhara-karair madanādiva spṛśantam Bhk_10.47
+
+ūrjasvī-
+
+pracapalama-guruṃ bharā'sahiṣṇuṃ janamasamānamanūrjitaṃ vivarjya
+kṛta-vasatimivā'rṇavopakaṇṭhe sthirama-tulonnatimūḍha-tuṅga-megham. Bhk_10.48
+
+paryāyoktiḥ
+
+sphaṭhika-maṇi-gṛhaiḥ sa-ratna-dīpaiḥ prataruṇa-kinnara-gīta-nisvanaiś ca
+amara-pura-matiṃ surā'ṅganānāṃ dadhatama-duḥkhamanalpa-kalpa-vṛkṣam. Bhk_10.49
+
+samāhitam
+
+atha dadṛśurudīrṇa-dhūma-dhūmrāṃ diśamudadhi-vyavadhiṃ sameta-sītām
+saha-raghutanayāḥ plavaṅga-senāḥ pavana-sutā'ṅguli-darśitāmudakṣāḥ. Bhk_10.50
+
+udāram
+
+jala-nidhimagaman mahendra-kuñjāt pracaya-tirohita-tigma-raśmi-bhāsaḥ
+salila-samudayair mahā-taraṅgair bhuvana-bhara-kṣamamapya-bhinna-velam Bhk_10.51
+
+udārameva
+
+pṛthu-guru-maṇi-śukti-garbha-bhāsā glapita-rasā-tala-saṃbhṛtā'ndhakāram
+upahata-ravi-raśmi-vṛttimuccaiḥ pralaghu-pariplavamāna-vajra-jālaiḥ Bhk_10.52
+
+udārameva
+
+samupacita-jalaṃ vivardhamānai- ra-mala-sarit-salilair vibhāvarīṣu
+sphuṭamavagamayantamūḍha-vārīn śaśa-dhara-ratna-mayān mahendra-sānūn Bhk_10.53
+
+śliṣṭam
+
+bhuvana-bhara-sahāna-laṅghya-dhāmnaḥ puru-ruci-ratna-bhṛto gurūru-dehān
+śrama-vidhura-vilīna-kūrma-nakrān dadhatamudūḍha-bhuvo girīnahīṃś ca Bhk_10.54
+
+śliṣṭameva
+
+pradadṛśururu-mukta-śīkaraughān vimala-maṇi-dyuti-saṃbhṛtendra-cāpān
+jala-muca iva dhīra-mandra-ghoṣān kṣiti-paritāpa-hṛto mahā-taraṅgān Bhk_10.55
+
+hetu-śliṣṭam
+
+vidruma-maṇi-kṛta-bhūṣā muktā-phala-nikara-rañjitā''tmānaḥ
+babhurudaka-nāga-bhagnā velā-taṭa-śikhariṇo yatra, Bhk_10.56
+
+apahnutiḥ
+
+bhṛta-nikhila-rasā-talaḥ sa-ratnaḥ śikhari-samormi-tirohitā'ntarīkṣaḥ
+kuta iha paramā'rthato jalaugho jala-nidhimīyurataḥ sametya māyām Bhk_10.57
+
+viśeṣoktiḥ
+
+śaśi-rahitamapi prabhūta-kāntiṃ vibudha-hṛta-śriyamapya-naṣṭa-śobham
+mathitamapi surair divaṃ jalaughaiḥ samabhibhavantama-vikṣata-prabhāvam Bhk_10.58
+
+vyāja-stutiḥ
+
+kṣiti-kula-giri-śeṣa-dig-gajendrān salila-gatāmiva nāvamudvahantam
+dhṛta-vidhura-dharaṃ mahā-varāhaṃ giri-guru-potramapīhitair jayantam Bhk_10.59
+
+upamā-rūpakam
+
+giri-parigata-cañcalā''pagā'ntaṃ jala-nivahaṃ dadhataṃ mano'bhirāmam
+galitamiva bhuvo vilokya rāmaṃ dharaṇi-dhara-stana-śukla-cīna-paṭṭam. Bhk_10.60
+
+tulyayogitā
+
+a-parimita-mahā'dbhutair vicitraś cyuta-malinaḥ śucibhir mahāna-laṅghyaiḥ
+taru-mṛga-pati-lakṣmaṇa-kṣitīndraiḥ samadhigato jaladhiḥ paraṃ babhāse. Bhk_10.61
+
+nidarśanam
+
+na bhavati mahimā vinā vipatte- ravagamayanniva paśyataḥ payodhiḥ
+a-viratamabhavat kṣaṇe kṣaṇe 'sau śikhari-pṛthu-prathita-praśānta-vīciḥ. Bhk_10.62
+
+virodhaḥ
+
+mṛdubhirapi bibheda puṣpa-bāṇaiś calaśiśirairapi mārutair dadāha
+raghu-tanayamanartha-paṇḍito 'sau, na ca madanaḥ kṣatamātatān, nā 'rciḥ Bhk_10.63
+
+upameyopamā
+
+atha mṛdu-malina-prabhau dinā'nte jaladhi-samīpa-gatāvatīta-lokau
+anukṛtimitaretarasya mūrtyor dina-kara-rāghava-nandanāvakārṣṭām. Bhk_10.64
+
+sahoktiḥ
+
+apaharadiva sarvato vinodān dayita-gataṃ dadhadekadhā samādhim
+ghana-ruci vavṛdhe tato 'ndhakāraṃ saha raghu-nandana-manmathodayena. Bhk_10.65
+
+parivṛttiḥ
+
+adhi-jaladhi tamaḥ kṣipan himāṃśuḥ paridadṛśe 'tha dṛśāṃ kṛtā'vakāśaḥ
+vidadhadiva jagat punaḥ pralīnam. bhavati mahān hi parā'rtha eva sarvaḥ. Bhk_10.66
+
+sa-sandehaḥ
+
+aśanirayamasau, kuto nirabhre. śita-śara-varṣama-sat tadapya-śārṅgam.
+iti madana-vaśo muhuḥ śaśā'ṅke raghu-tanayo, na ca niścikāya candram. Bhk_10.67
+
+ananvayaḥ
+
+kumuda-vana-cayeṣu kīrṇa-raśmiḥ kṣata-timireśu ca dig-vadhū-mukheṣu
+viyati ca vilalāsa tad-vadindur, vilasati candramaso na yad-vadanyaḥ. Bhk_10.68
+
+utprekṣā''vayavaḥ
+
+śaraṇamiva gataṃ tamo nikuñje viṭapi-nirākṛta-candra-raśmyarātau
+pṛthu-viṣama-śilā'ntarāla-saṃsthaṃ sa-jala-ghana-dyuti bhīta-vat sasāda. Bhk_10.69
+
+saṃsṛṣṭiḥ
+
+atha nayana-mano-haro 'bhirāmaḥ smara iva citta-bhavo 'pya-vāma-śīlaḥ
+raghu-sutamanujo jagāda vācaṃ sa-jala-ghana-stanayitnu-tulya-ghoṣaḥ Bhk_10.70
+
+āśīḥ
+
+"pati-vadha-parilupta-lola-keśīr nayana-jalā'pahṛtā'ñjanauṣṭha-rāgāḥ
+kuru ripu-vanitā, jahīhi śokaṃ, kva ca śaraṇaṃ jagatāṃ bhavān, kva mohaḥ Bhk_10.71
+
+hetuḥ
+
+adhigata-mahimā manuśya-loke vata sutarāmavasīdati pramādī,
+gaja-patiruru-śaila-śṛṅga-varṣmā gururavamajjati paṅka-bhāṅ, na dāru. Bhk_10.72
+
+nipuṇam
+
+boddhavyaṃ kimiva hi, yat tvayā na buddhaṃ, kiṃ vā te nimiṣitamapya-buddhi-pūrvam,
+labdhā''tmā tava sukṛtairaniṣṭa-śaṅkī snehaugho ghaṭayati māṃ tathāpi vaktum." Bhk_10.73
+
+saumitreriti vacanaṃ niśamya rāmo jṛmbhā-vān bhuja-yugalaṃ vibhajya nidrān
+adhyaṣṭhāc chiśayiṣayā pravāla-talpaṃ rakṣāyai prati-diśamādiśan plavaṅgān. Bhk_10.74
+
+bhk_11
+
+athā 'stamāseduṣi manda-kāntau puṇya-kṣayeṇeva nidhau kalānām
+samālalambe ripu-mitra-kalpaiḥ padmaiḥ prahāsaḥ kumudair viṣādaḥ Bhk_11.1
+
+dūraṃ samāruhya divaḥ patantaṃ bhṛgorivenduṃ vihitopakāram
+baddhā 'nurāgo 'nupapāta tūrṇaṃ tārā-gaṇaḥ saṃbhṛta-śubhra-kīrtiḥ. Bhk_11.2
+
+kva te kaṭākṣāḥ, kva vilāsavanti proktāni vā tāni mameti matvā
+laṅkā'ṅganānāmavabodha-kāle lulāmanāruhya gato 'staminduḥ. Bhk_11.3
+
+mānena talpeṣva-yathā-mukhīnā mithyā-prasuptair gamita-triyāmāḥ
+strībhir niśā'tikrama-vihvalābhir dṛṣṭe 'pi doṣe patayo 'nunītāḥ. Bhk_11.4
+
+īrśyā-virugṇāḥ sthira-baddha-mūlā nirasta-niḥśeṣa-śubha-pratānāḥ
+āpyāyitā netra-jala-prasekaiḥ prema-drumāḥ saṃruruhuḥ priyāṇām. Bhk_11.5
+
+tataḥ samāśaṅkita-viprayogaḥ punar-navībhūta-raso 'vitṛṣṇaḥ
+smarasya santaṃ punarukta-bhāvaṃ nā ''vartamānasya viveda lokaḥ. Bhk_11.6
+
+vṛttau prakāśaṃ hṛdaye kṛtāyāṃ sukhena sarvendriya-saṃbhavena
+saṃkocamevā 'sahamānamasthā- da-śakta-vad vañcita-māni cakṣuḥ Bhk_11.7
+
+pīne bhaṭasyorasi vīkṣya bhugnāṃs tanu-tvacaḥ pāṇi-ruhān su-madhyā
+icchā-vibhaṅgā''kula-mānasatvād bhartre nakhebhyaś ca ciraṃ jujūre. Bhk_11.8
+
+srastā'ṅga-ceṣṭo vinimīlitā'kṣaḥ svedā'mbu-romodgama-gamya-jīvaḥ
+a-śeṣa-naṣṭa-pratibhā-paṭutvo gāḍhopagūḍho dayitair jano 'bhūt. Bhk_11.9
+
+tamaḥ, prasuptaṃ maraṇaṃ, sukhaṃ nu, mūrcchā nu, māyā nu manobhavasya,
+kiṃ tat kathaṃ vetyupalabdha-saṃjñā vikalpayanto 'pi na saṃpratīyuḥ. Bhk_11.10
+
+vakṣaḥ stanābhyāṃ, sukhamānanena gātrāṇi gātrair ghaṭayanna-mandam
+smarā'turo naiva tutoṣa lokaḥ, paryāptatā premṇi kuto viruddhā. Bhk_11.11
+
+srastā'ṅga-yaṣṭiḥ parirabhyamāṇā saṃdṛśyamānā'pyupasaṃhṛtā'kṣī
+anūḍhamānā śayane navoḍhā paropakāraika-rasaiva tasthau. Bhk_11.12
+
+āliṅgitāyāḥ sahasā trapā-vāṃs trāsā'bhilāṣā'nugato ratā''dau
+viśvāsitāyā ramaṇena vadhvā vimarda-ramyo-madano babhūva. Bhk_11.13
+
+sāmonmukhenā ''cchuritā priyeṇa datte 'tha kācit pulakena bhede
+antaḥ-prakopā'pagamād vilolā vaśīkṛtā kevala-vikrameṇa. Bhk_11.14
+
+gurur dadhānā paruṣa-tvamanyā kāntā 'pi kāntendu-karā'bhimṛṣṭā
+prahlāditā candra-śileva tūrṇaṃ kṣobhāt sravat-svedajalā babhūva. Bhk_11.15
+
+śaśāṅka-nāthā'pagamena dhūmrāṃ mūrcchā-parītāmiva nir-vivekām
+tataḥ sakhīva prathitā'nurāgā prābodhayat dyāṃ madhurā'ruṇaśrīḥ Bhk_11.16
+
+a-vīta-tṛṣṇo 'tha paraspareṇa kṣaṇādivā''yāta-niśā'vasānaḥ
+duḥkhena lokaḥ paravānivā 'gāt samutsukaḥ svapna-niketanebhyaḥ Bhk_11.17
+
+ardhotthitā''liṅgita-sannimagno ruddhaḥ punar yān gamane 'nabhīpsuḥ
+vyājena niryāya punar nivṛttas tyaktā'nya-kāryaḥ sthita eva kaścit. Bhk_11.18
+
+tālena saṃpādita-sāmya-śobhaṃ śubhā'vadhānaṃ svara-baddha-rāgam
+padair gatā'rthaṃ nṛpa-mandireṣu prātar jagur maṅgala-vat taruṇyaḥ. Bhk_11.19
+
+duruttare paṅka ivā 'ndhakāre magnaṃ jagat santata-raśmi-rajjuḥ
+pranaṣṭa-mūrti-pravibhāgamudyan pratyujjahāreva tato vivasvān. Bhk_11.20
+
+pītauṣṭha-rāgāṇi hṛtā'ñjanāni bhāsvanti lolairalakair mukhāni
+prātaḥ kṛtā'rthāni yathā virejus tathā na pūrvedyuralaṃkṛtāni. Bhk_11.21
+
+prajāgarā''tāmra-vilocanā'ntā nirañjanā'laktaka-patra-lekhāḥ
+tulyā ivā ''san parikheda-tanvyo vāsa-cyutāḥ sevita-manmathābhiḥ Bhk_11.22
+
+ābaddha-netrā'ñjana-paṅka-leśas tāmbūla-rāgaṃ bahulaṃ dadhānaḥ
+cakāra kānto 'pyadharo 'ṅganānāṃ sahoṣitānāṃ patibhir laghutvam. Bhk_11.23
+
+cakṣūṃṣi kāntānyapi sā'ñjanāni tāmbūla-raktaṃ ca sa-rāgamoṣṭham
+kurvan sa-vāsaṃ ca su-gandhi vaktraṃ cakre janaḥ kevala-pakṣa-pātam. Bhk_11.24
+
+kṣatairasaṃcetita-danta-labdhaiḥ saṃbhoga-kāle 'vagataiḥ prabhāte
+a-śaṅkatā 'nyonya-kṛtaṃ vyalīkaṃ viyoga-bāhyo 'pi jano 'tirāgāt Bhk_11.25
+
+netreṣubhiḥ saṃyuta-pakṣma-patraiḥ karṇā'nta-kṛṣṭairuru-keśa-śūlāḥ
+stanoru-cakrās tata-karṇa-pāśāḥ strī-yoddha-mukhyā jayino viceruḥ Bhk_11.26
+
+payo-dharāṃś candana-paṅka-digdhān vāsāṃsi cā 'mṛṣṭa-mṛjāni dṛṣṭvā
+strīṇāṃ sa-patnyo jahṛṣuḥ prabhāte mandāyamānā'nuśayair manobhiḥ Bhk_11.27
+
+smarā''ture cetasi labdha-janmā rarāja lolo'pi guṇā'pahāryaḥ
+kutūhalān netra-gavākṣa-saṃsthaḥ paśyannivā 'nyonya-mukhāni rāgaḥ Bhk_11.28
+
+gate 'tibhūmiṃ praṇaye prayuktā- na-buddhi-pūrvaṃ pariluptasaṃjñaḥ
+ātmā'nubhūtānapi nopacārān smarā''turaḥ saṃsmarati sma lokaḥ Bhk_11.29
+
+vastrairanatyulbaṇa-ramya-varṇair vilepanaiḥ saurabha-lakṣmaṇīyaiḥ
+āsyaiś ca lokaḥ paritoṣa-kāntai- rasūcayal labdha-padaṃ rahasyam. Bhk_11.30
+
+prātastarāṃ candana-lipta-gātrāḥ pracchādya hastairadharān vadantaḥ
+śāmyan-nimeṣāḥ sutarāṃ yuvānaḥ prakāśayanti sma nigūhanīyam. Bhk_11.31
+
+sāmnaiva loke vijite 'pi vāme ! kimudyataṃ bhrū-dhanur-prasahyam,
+hantuṃ kṣamo vā vada locaneṣur digdho viṣeṇeva kimañjanena. Bhk_11.32
+
+dantacchade prajvalitā'gni-kalpe tāmbūla-rāgas tṛṇa-bhāra-tulyaḥ
+nyastaḥ kimityūcurupeta-bhāvā goṣṭhīṣu nārīs taruṇīr yuvānaḥ. Bhk_11.33
+
+sukhā'vagāhāni yutāni lakṣmyā śucīni saṃtāpa-harāṇyurūṇi
+prabuddha-nārī-mukha-paṅka-jāni prātaḥ sarāṃsīva gṛhāṇi rejuḥ. Bhk_11.34
+
+saṃmṛṣṭa-siktā'rcita-cāru-puṣpai- rāmoda-vad-dravya-sugandha-bhāgaiḥ
+lakṣmīr vijigye bhavanaiḥ sa-bhṛṅgaiḥ sevyasya devairapi nandanasya. Bhk_11.35
+
+akṣṇoḥ patan nīla-saro-ja-lobhād bhṛṅgaḥ kareṇā 'lpa-dhiyā nirastaḥ
+dadaṃśa tāmrā'mbu-ruhā'bhisandhis trṇā''turaḥ pāṇi-tale 'pi dhṛṣṇuḥ. Bhk_11.36
+
+vilola-tāṃ cakṣuṣi hasta-vepathuṃ bhruvor vibhaṅgaṃ stana-yugma-valgitam
+vibhūṣaṇānāṃ kvaṇitaṃ ca ṣaṭ-pado gurur yathā nṛtya-vidhau samādadhe. Bhk_11.37
+
+athā 'nukūlān kula-dharma-saṃpado vidhāya veśān su-divaḥ purī-janaḥ.
+prabodha-kāle śāta-manyu-vidviṣaḥ pracakrame rāja-niketanaṃ prati. Bhk_11.38
+
+śailendra-śṛṅgebhya iva pravṛttā vegāj jalaughāḥ pura-mandirebhyaḥ
+āpūrya rathyāḥ sarito janaughā rājā'ṅganā'mbhodhimapūrayanta. Bhk_11.39
+
+prabodha-kālāt tridaśendra-śatroḥ prāgūrdhva-śoṣaṃ pariśuṣyamāṇāḥ
+hīnā mahāntaś ca sama-tvamīyur dvāsa-sthairavajñā-puruṣā'kṣi-dṛṣtāḥ. Bhk_11.40
+
+gurūru-cañcat-kara-karṇa-jihvai- ravajñayā 'grā'ṅguli-saṃgṛhītaiḥ
+rakṣāmsyanāyāsa-hṛtairupāsthuḥ kapola-līnā'li-kulair gajendraiḥ. Bhk_11.41
+
+nikṛtta-matta-dvipa-kumbha-māṃsaiḥ saṃpṛkta-muktair harayo'gra-pādaiḥ
+āninyire śreṇikṛtās tathā 'nyaiḥ parasparaṃ vāladhi-sannibaddhāḥ Bhk_11.42
+
+upekṣitā deva-gaṇais trasadbhir niṣā-carair vīta-bhayair nikṛttāḥ
+tasminnadṛśyanta sura-drumāṇāṃ sa-jāla-puṣpa-stabakāḥ prakīrṇāḥ. Bhk_11.43
+
+nirākariṣṇur dvija-kuñjarāṇāṃ tṛṇīkṛtā'śeṣa-guṇo'ti-mohāt
+pāpā'śayānabhyudayā'rthamārcīt prāg brahma-rakṣaḥ-pravarān daśā''syaḥ Bhk_11.44
+
+māyāvibhis trāsa-karair janānā- māptairupādāna-parairupetaḥ
+satāṃ vighātaika-rasairavikṣat sadaḥ parikṣobhita-bhūmi-bhāgam. Bhk_11.45
+
+vighṛta-niśita-śastrais tad yutaṃ yātudhānai- ruru-jaṭhara-mukhībhiḥ saṃkulaṃ rākṣasībhiḥ
+śvagaṇi-śata-vikīrṇaṃ vāgurā-van mṛgībhir vanamiva sa-bhayābhir deva-bandībhirāsīt. Bhk_11.46
+
+jalada iva taḍitvān prājya-ratna-prabhābhiḥ prati-kakubhamudasyan nisvanaṃ dhīra-mandram
+śikharamiva sumerorāsanaṃ haimamuccair vividha-maṇi-vicitraṃ pronnataṃ so 'dhyatiṣthat Bhk_11.47
+
+bhk_12
+
+tato vi-nidraṃ kṛta-devatā'rcaṃ dṛṣṭyaiva citta-praśamaṃ kirantam
+āviṣkṛtā'ṅga-pratikarma-ramyaṃ vibhīṣaṇaṃ vācamuvāca mātā Bhk_12.1
+
+"prabādhamānasya jaganti dhīmaṃs ! tvaṃ sodarasyā'timadoddhatasya
+ānandano nāka-sadāṃ praśāntiṃ tūrṇaṃ viṣasyā'mṛta-vat kuruṣva. Bhk_12.2
+
+kuryās tathā, yena jahāti sītāṃ viṣāda-nīhāra-parīta-mūrtim
+sthitāṃ kṣitau śānta-śikhā-pratānāṃ tārāmiva trāsa-karīṃ janasya. Bhk_12.3
+
+yāvan na saṃtrāsita-deva-saṃghaḥ piṇḍo viṣasyeva hareṇa bhīṣmaḥ
+saṃgrasyate 'sau puruṣā'dhipena, drutaṃ kulā''nanda ! yatasva tāvat. Bhk_12.4
+
+hatā janasthāna sado nikāyāḥ, kṛtā jitotkhāta-bhaṭa-drumā pūḥ,
+sadāṃsi dagdhāni, vidheyamasmin yad bandhunā, tad ghaṭayasva tasmin." Bhk_12.5
+
+cikīrṣite pūrva-taraṃ sa tasmin, kṣemaṃ-kare 'rthe muhurīryamāṇaḥ
+mātrā 'timātraṃ śubhayaiva buddhyā ciraṃ sudhīrabhyadhikaṃ samādhāt. Bhk_12.6
+
+dauvārikā'bhyāhata-śakra-dūtaṃ sopāyanopasthita-loka-pālam
+sā''śaṅka-bhīṣmā''pta-viśan-niśāṭaṃ dvāraṃ yayau rāvaṇa-mandrirasya. Bhk_12.7
+
+dūrāt pratīhāra-nataḥ sa vārtāṃ pṛcchannanāvedita-saṃpraviṣṭaḥ
+sa-gauravaṃ datta-patho niśāṭai- raikṣiṣṭa śailā'gramivendraśatrum Bhk_12.8
+
+kṛśānu-varṣmaṇyadhirūḍhamuccaiḥ siṃhāsane saṃkṣaya-megha-bhīmam
+nisarga-tīkṣṇaṃ nayana-sphuliṅgaṃ yugānta-vahneriva dhūma-rāśim Bhk_12.9
+
+prītyā 'pi dattekṣaṇa-sannipātaṃ bhayaṃ bhūjaṅgā'dhipa-vad dadhānam
+tamaḥ-samūhā''kṛtimapyaśeṣā- nūrjā jayantaṃ prathita-prakāśān. Bhk_12.10
+
+taṃ ratna-dāyaṃ jita-mṛtyu-lokā rātriṃ-carāḥ kānti-bhṛto 'nvasarpan
+pramukta-muktā-phalamambu-vāhaṃ saṃjāta-tṛṣṇā iva deva-mukhyāḥ. Bhk_12.11
+
+sa kiṅkaraiḥ kalpitamiṅgita-jñaiḥ saṃbādhakaṃ pūrva-samāgatānām
+siṃhāsanopāśrita-cāru-bāhu- radhyāsta pīṭhaṃ vihita-praṇāmaḥ. Bhk_12.12
+
+tato daśā''syaḥ kṣubhitā'hi-kalpaṃ dīprā'ṅgulīyopalamūḍha-ratnam
+aneka-cañcan-nakha-kānti-jihvaṃ prasārya pāṇiṃ samitiṃ babhāṣe Bhk_12.13
+
+"śaktaiḥ suhṛdbhiḥ paridṛṣṭa-kāryai- rāmnātibhir nītiṣu buddhi-madbhiḥ
+yuṣmad-vidhaiḥ sārdhamupāya-vidbhiḥ sadhyanti kāryāṇi su-mantritāni. Bhk_12.14
+
+upekṣite vāli-kharā''di-nāśe, dagdhe pure, 'kṣe nihate sa-bhṛtye,
+sainye dviṣāṃ sāgaramuttitīrṣā- va-nantaraṃ brūta, yadatra yuktam." Bhk_12.15
+
+bhujāṃ'sa-vakṣaḥ-sthala-kārmukā'sīn gadāś ca śūlāni ca yātudhānāḥ
+parāmṛśantaḥ prathitā'bhimānāḥ procuḥ prahasta-pramukhā daśā''syam. Bhk_12.16
+
+"a-khaṇḍya-mānaṃ parikhaṇḍya śakraṃ tvaṃ paṇḍitaṃ-manyamudīrṇa-daṇḍaḥ
+narā''bhiyogaṃ nṛ-bhujāṃ pradhāna ! mantronmukhaḥ kiṃ nayase gurutvam. Bhk_12.17
+
+niryat-sphuliṅgā''kula-dhūma-rāśiṃ kiṃ brūhi bhūmau pinaṣāma bhānum,
+ā danta-niṣpīḍita-pītaminduṃ ṣṭhīvāma śuṣkekṣu-latā'sthi-kalpam. Bhk_12.18
+
+sa-rāghavaiḥ kiṃ bata vānarais tair yaiḥ prātarāśo 'pi na kasyacin naḥ
+sa-sthāṇu-kailāsa-dhāra 'bhidhatsva, kiṃ dyauradho 'stu, kṣitirantarīkṣe. Bhk_12.19
+
+cāpalya-yuktasya hareḥ kṛśānuḥ samedhito vāladhi-bhāk tvadīyaiḥ
+śastreṇa vadhyasya galannadhākṣīd rājan ! pramādena nijena laṅkām." Bhk_12.20
+
+athā 'ñcitoraskamudīrṇa-dṛṣṭiḥ kṛtvā vivakṣā-pravaṇaṃ śarīram
+vivṛtta-pāṇir vihitottarā'rthaṃ vibhīṣaṇo 'bhāṣata yātudhānān. Bhk_12.21
+
+"yuddhāya rājṇā subhṛtair bhavadbhiḥ saṃbhāvanāyāḥ sadṛśaṃ yaduktam,
+tat prāṇa-paṇyair vacanīyameva, prajñā tu mantre 'dhikṛtā, na śauryam. Bhk_12.22
+
+yac cāpi yatnā-''dṛta-mantra-vṛttir guru-tvamāyāti narā'bhiyogaḥ
+vaśīkṛtendrasya, kṛtottaro 'smin vidhvaṃsitā'śeṣa-puro hanūmān. Bhk_12.23
+
+agniḥ pramādena dadāha laṅkāṃ vadhyasya dehe svayamedhitaś cet,
+vimṛśya tad deva-dhiyā 'bhidhatta brahmā'stra-bandho'pi yadi pramādaḥ Bhk_12.24
+
+jagantyameyā'dbhuta-bhāva-bhāñji, jitā'bhimānāś ca janā vicitrāḥ,
+kārye tu yatnaṃ kuruta prakṛṣṭaṃ, mā nīti-garbhān su-dhiyo 'vamandhvam. Bhk_12.25
+
+vṛddhi-kṣaya-sthāna-gatāmajasraṃ vṛttiṃ jigīṣuḥ prasamīkṣamāṇaḥ
+ghaṭeta sandhyā''diṣu yo guṇeṣu, lakṣmīr na taṃ muñcati cañcalā 'pi. Bhk_12.26
+
+upekṣaṇīyaiva parasya vṛddhiḥ pranaṣṭa-nīterajitendrayasya
+madā''di-yuktasya virāga-hetuḥ, sa-mūla-ghātaṃ vinihanti yā 'nte. Bhk_12.27
+
+janā'nurāgeṇa yuto 'vasādaḥ phalā'nubandhaḥ sudhiyā ''tmano 'pi
+upekṣaṇīyo 'bhyupagamya saṃdhiṃ kāmā''di-ṣaḍ-varga-jitā 'dhipena. Bhk_12.28
+
+yadā vigṛhṇan na ca saṃdadhāno vṛddhiṃ kṣayaṃ cā 'nuguṇaṃ prapaśyet,
+āsīta rājā 'vasara-pratīkṣas tadā prayāsaṃ vitathaṃ na kuryāt. Bhk_12.29
+
+saṃdhau sthito vā janayet sva-vṛddhiṃ hanyāt paraṃ vopaniṣatprayogaiḥ
+āśrāvayedasya janaṃ parair vā vigrāhya kuryādavahīna-saṃdhim. Bhk_12.30
+
+saṃdarśita-sneha-guṇaḥ sva-śatrūn vidveṣayan maṇḍalamasya bhindyāt
+ityevamādi pravidhāya saṃdhir vṛddher vidheyo 'dhigamābhyupāyaḥ. Bhk_12.31
+
+matvā sahiṣṇūnaparopajapyān svakānadhiṣṭhāya jalā'nta-durgān
+drumā'dri-durlaṅghya-jalāpradhṛṣyān vardheta rājā ripu-vigraheṇa. Bhk_12.32
+
+śaknoti yo na dviṣato nihantuṃ, vihanyate nā 'pya-balair dviṣadbhiḥ,
+sa śvā-varāhaṃ kalahaṃ vidadhyā- dāsīta durgā''di vivardhayaṃś ca. Bhk_12.33
+
+prayāṇa-mātreṇa pare prasādye varteta yānena kṛtā'bhirakṣaḥ,
+a-śaknuvan kartumarer vighātaṃ sva-karma-rakṣāṃ ca paraṃ ṣrayeta. Bhk_12.34
+
+ekena saṃdhiḥ, kalaho 'pareṇa kāryo 'bhito vā prasamīkṣya vṛddhim,
+evaṃ prayuñjīta jigīṣuretā nītīr vijānannahitā''tma-sāram. Bhk_12.35
+
+tvayā tu loke janito virāgaḥ, prakopitaṃ maṇḍalamindra-mukhyam,
+rāme tu rājan, viparītametat paśyāmi, tenā 'bhyadhikaṃ vipakṣam. Bhk_12.36
+
+ekena vālī nihataḥ śareṇa suhṛt-tamas te, racitaś ca rājā
+yadaiva sugrīva-kapiḥ pareṇa, tadaiva kāryaṃ bhavato vinaṣṭam. Bhk_12.37
+
+prākāra-mātrā''varaṇaḥ prabhāvaḥ kharā''dibhir yo nihatais tavā'bhūt,
+laṅkāpradāhā'kṣa-vadha-dru-bhaṅgaiḥ klāmyatyasāvapyadhunā 'timātram. Bhk_12.38
+
+ṣaḍvarga-vaśyaḥ parimūḍha-bandhu- rucchinna-mitro viguṇairupetaḥ
+mā pāda-yuddhaṃ dvi-radena kārṣīr nama kṣitīndraṃ praṇatopabhogyam. Bhk_12.39
+
+rāmo 'pi dārā''haraṇena tapto, vayaṃ hatair bandhubhirātma-tulyaiḥ,
+taptasya taptena yathā ''yaso naḥ saṃdhiḥ pareṇā 'stu, vimuñca sītām. Bhk_12.40
+
+saṃdhukṣitaṃ maṇḍala-caṇḍa-vātai- ramarṣa-tīkṣṇaṃ kṣiti-pāla-tejaḥ
+sāmā'mbhasā śāntimupaitu rājan ! prasīda, jīvāma sa-bandhu-bhṛtyāḥ. Bhk_12.41
+
+a-pakva-kumbhāviva bhaṅga-bhājau rājanniyātāṃ maraṇaṃ samānau,
+vīrye sthitaḥ kiṃtu kṛtā'nurāgo rāmo bhavaṃś cottama-bhūri-vairī. Bhk_12.42
+
+daṇḍena kośena ca manyase cet prakṛṣṭamātmānamares tathāpi
+riktasya pūrṇena vṛthā vināśaḥ pūrṇasya bhaṅge bahu hīyate tu. Bhk_12.43
+
+kliṣṭā''tma-bhṛtyaḥ parimṛgya-sampan mānī yatetā 'pi sa-saṃśaye 'rthe,
+saṃdehamārohati yaḥ kṛtā'rtho, nūnaṃ ratiṃ tasya karoti na śrīḥ. Bhk_12.44
+
+śakyānya-doṣāṇi mahā-phalāni samārabhetopanayan samāptim
+karmāṇi rājā vihitā'nurāgo, viparyaye syād vitathaḥ prayāsaḥ. Bhk_12.45
+
+jetuṃ na śakyo nṛ-patiḥ su-nītir doṣaḥ kṣayā''diḥ kalahe dhruvaś, ca
+phalaṃ na kiṃcin na śubhā samāptiḥ, kṛtā'nurāgaṃ bhūvi saṃtyajā 'rim. Bhk_12.46
+
+tvan-mitra-nāśo, nija-mitra-lābhaḥ, sameta-sainyaḥ sa ca mitra-kṛcchre
+bhogyo vaśaḥ paśya śareṇa śatroḥ prasādhito vāli-vadhe na ko 'rthaḥ Bhk_12.47
+
+lobhād bhayād vā 'bhigataḥ kapīndro na rāghavaṃ, yena bhaved vibhedyaḥ,
+sthitaḥ satāṃ vartmani labdha-rājyaḥ prati-priyaṃ so 'bhyagamac cikīrṣuḥ. Bhk_12.48
+
+phalāśino nirjhara-kuñja-bhājo divyā'ṅganā'naṅgarasā'nabhijñāḥ
+nyag-jātayo ratna-varairalabhyā mukhyāḥ kapīnāmapi nopajapyāḥ. Bhk_12.49
+
+kṛtā'bhiṣeko yuvarāja-rājye sugrīva-rājena sutā'viśeṣam
+tārā-vidheyena kathaṃ vikāraṃ tārā-suto yāsyati rākṣasā'rtham. Bhk_12.50
+
+paśyāmi rāmādadhikaṃ samaṃ vā nā 'nyaṃ, virodhe yamupāśrayema,
+dattvā varaṃ sā'nuśayaḥ svayambhū- rindrā''dayaḥ pūrva-taraṃ viruddhāḥ. Bhk_12.51
+
+durgā''śritānāṃ bahunā 'pi rājan ! kālena pārṣṇigrahaṇā''di-hetuḥ
+durgoparodhaṃ na ca kurvato 'sti śatroś cireṇā 'pi daśā''sya ! hāniḥ Bhk_12.52
+
+śastraṃ tarūrvī-dharamambu pānaṃ vṛttiḥ phalair, no gaja-vāji-nāryaḥ
+rāṣṭraṃ na paścān, na jano'bhirakṣyaḥ, kiṃ duḥsthamācakṣva bhavet pareṣām. Bhk_12.53
+
+saṃdhānamevā 'stu pareṇa tasmān, nā'nyo 'bhyupāyo 'sti nirūpyamāṇaḥ,
+nūnaṃ vi-saṃdhau tvayi sarvametan neṣyanti nāśaṃ kapayo 'cireṇa." Bhk_12.54
+
+vibhīṣaṇoktaṃ bahu manyamānaḥ pronnamya dehaṃ pariṇāma-namram
+skhalad-valir vārdhaka-kampra-mūrdhā mātāmaho rāvaṇamityuvāca. Bhk_12.55
+
+"ekaḥ padātiḥ puruṣo dhanuṣmān yo 'neka-māyāni viyad-gatāni
+rakṣaḥ-sahasrāṇi caturdaśā ''rdīt, kā tatra vo mānuṣa-mātra-śaṅkā. Bhk_12.56
+
+brahmarṣibhir nūnamayaṃ sa-devaiḥ saṃtāpitau rātricara-kṣayāya
+narā''kṛtir vānara-sainyaśālī jagatya-jayyo vihito 'bhyupāyaḥ. Bhk_12.57
+
+vajrā'bhighātaira-virugṇa-mūrteḥ pheṇair jalānāmasurasya mūrdhnaḥ
+cakāra bhedaṃ mṛdubhir mahendro yathā, tathaitat kimapīti bodhyam. Bhk_12.58
+
+kva strī-viṣahyāḥ karajāḥ, kva vakṣo daityasya śailendra-śilā-viśālam,
+saṃpaśyataitad dyusadāṃ sunītaṃ, bibheda tais tan nara-siṃha-mūrtiḥ. Bhk_12.59
+
+pramāda-vāṃs tvaṃ kṣata-dharma-vartmā gato munīnāmapi śatru-bhāvam,
+kulasya śāntiṃ bahu manyase cet kuruṣva rājendra ! vibhīṣaṇoktam." Bhk_12.60
+
+ghoṣeṇa tena pratilabdha-saṃjño nidrā''vilā'kṣaḥ ṣruta-kārya-sāraḥ
+sphurad-ghanaḥ sā'mburivā 'ntarīkṣe vākyaṃ tato 'bhāṣata kumbhakarṇaḥ Bhk_12.61
+
+"kriyā-samārambha-gato 'bhyupāyo, nṛ-dravya-sampat saha-deśa-kalā,
+vipat-pratīkāra-yutā 'rtha-siddhir mantrā'ṅgametāni vadanti pañca. Bhk_12.62
+
+na niścitā'rthaṃ samayaṃ ca deśaṃ kriyā'bhyupāyā''diṣu yo 'tiyāyāt,
+sa prāpnuyān mantra-phalaṃ na mānī kāle vipanne kṣaṇadā-carendra ! Bhk_12.63
+
+auṣṇyaṃ tyajen madhya-gato 'pi bhānuḥ, śaityaṃ niśāyāmathavā hi-māṃśuḥ
+anartha-mūlaṃ bhuvanā'vamānī manye na mānaṃ piśitāśi-nātha ! Bhk_12.64
+
+tathā 'pi vaktuṃ prasabhaṃ yatante yan mad-vidhāḥ siddhimabhīpsavas tvām
+viloma-ceṣṭaṃ vihitā'vahāsāḥ parair hi tat sneha-mayais tamobhiḥ Bhk_12.65
+
+krūrāḥ kriyāḥ, grāmya-sukheṣu saṅgaḥ, puṇyasya yaḥ saṃkṣaya-heturuktaḥ,
+niṣevito 'sau bhavatā 'timātraṃ phalatya-valgu dhruvameva rājan ! Bhk_12.66
+
+dattaṃ na kiṃ, ke viṣayā na bhuktāḥ, sthito 'smi vā kaṃ paribhūya noccaiḥ,
+itthaṃ kṛtā'rthasya mama dhruvaṃ syān mutyus tvadarthe yadi, kiṃ na labdham. Bhk_12.67
+
+kiṃ durnayais tvayyuditair mṛṣā'rthair vīryeṇa vaktā 'smi raṇe samādhim."
+tasmin prasupte punaritthamuktvā vibhīṣaṇo 'bhāṣata rākṣasendram. Bhk_12.68
+
+"nimitta-śūnyaiḥ sthagitā rajobhir diśo, marudbhir vikṛtair vilolaiḥ
+svabhāva-hīnair mṛga-pakṣi-ghoṣaiḥ krandanti bhartāramivā 'bhipannam Bhk_12.69
+
+utpāta-jaṃ chidramasau vivasvān vyādāya vaktrā''kṛti loka-bhīṣmam
+attuṃ janān dhūsara-raśmi-rāśiḥ siṃho yathā kīrṇa-saṭo 'bhyudeti. Bhk_12.70
+
+mārgaṃ gato gotra-gurur bhṛgūṇā- magastinā 'dhyāsita-vindhya-śṛṅgam,
+saṃdṛśyate śakra-purohito 'hni, kṣmāṃ kampayantyo nipatanti colkāḥ Bhk_12.71
+
+māṃsaṃ hatānāmiva rākṣasānā- māśaṃsavaḥ krūra-giro ruvantaḥ
+kravyā'śino dīpta-kṛśānu-vaktrā bhrāmyantya-bhītāḥ paritaḥ puraṃ naḥ Bhk_12.72
+
+payo ghaṭodhnīrapi gā duhanti mandaṃ vi-varṇaṃ vi-rasaṃ ca gopāḥ,
+havyeṣu kīṭopajanaḥ sa-keśo na dīpyate 'gniḥ su-samindhano 'pi. Bhk_12.73
+
+tasmāt kuru tvaṃ pratikāramasmin snehān mayā rāvaṇa ! bhāṣyamāṇaḥ,
+vadanti duḥkhaṃ hyanujīvi-vṛtte sthitāḥ padasthaṃ pariṇāma-pathyam. Bhk_12.74
+
+virugṇa-saṃkīrṇa-vipanna-bhinnaiḥ pakṣuṇṇa-saṃhrīṇa-śitā'stra-vṛkṇaiḥ
+yāvan narā'śair na ripuḥ śava'śān saṃtarpayatyānama tāvadasmai." Bhk_12.75
+
+bhrū-bhaṅgamādhāya vihāya dhairyaṃ vibhīṣaṇaṃ bhīṣaṇa-rūkṣa-cakṣuḥ
+giraṃ jagādogra-padāmudagraḥ svaṃ sphāvayan śakra-ripuḥ prabhāvam. Bhk_12.76
+
+"śilā tariṣyatyudake na parṇaṃ, dhvāntaṃ raveḥ syantsyati, vahnirindoḥ,
+jetā paro 'haṃ yudhi jeṣyamāṇas tulyāni manyasva pulastya-naptaḥ ! Bhk_12.77
+
+a-nirvṛtaṃ bhūtiṣu gūḍha-vairaṃ satkāra-kāle 'pi kṛtā 'bhyasūyam
+vibhinna-karmā''śaya-vāk kule no mā jñāti-celaṃ, bhuvi kasyacid bhūt Bhk_12.78
+
+icchantyabhīkṣṇaṃ kṣayamātmano 'pi na jñātayas tulya-kulasya lakṣmīm
+namanti śatrūn, na ca bandhu-vṛddhiṃ saṃtapyamānair hṛdayaiḥ sahante. Bhk_12.79
+
+tvayā'dya laṅkā'bhibhave 'ti-harṣād duṣṭo 'ti-mātraṃ vivṛto 'ntarātmā,
+dhik tvāṃ, mṛṣā te mayi dustha-buddhir" vadannidaṃ tasya dadau sa pārṣṇim. Bhk_12.80
+
+tataḥ sa kopaṃ kṣamayā nigrhṇan, dhairyeṇa manyuṃ, vinayena garvam,
+mohaṃ dhiyotsāha-vaśādaśaktiṃ, samaṃ caturbhiḥ sacivairudasthāt. Bhk_12.81
+
+uvāca cainaṃ kṣaṇadā-carendraṃ "sukhaṃ mahā-rāja ! vinā mayā ''ssva.
+mūrkhā''turaḥ pathya-kaṭūnanaśnan yat sā''mayo''sau, bhiṣajāṃ na doṣaḥ Bhk_12.82
+
+karoti vairaṃ sphuṭamucyamānaḥ, pratuṣyati śrotra-sukhaira-pathyaiḥ
+viveka-śūnyaḥ prabhurātma-mānī, mahānanarthaḥ suhṛdāṃ batā 'yam. Bhk_12.83
+
+krīḍan bhujaṅgena gṛhā'nupātaṃ kaścid yathā jīvati saṃśaya-sthaḥ,
+saṃsevamāno nṛ-patiṃ pra-mūḍhaṃ tathaiva yaj jīvati, so 'sya lābhaḥ. Bhk_12.84
+
+dattaḥ sva-doṣair bhavatā prahāraḥ pādena dharmye pathi me sthitasya,
+sa cintanīyaḥ saha mantri-mukhyaiḥ kasyā ''vayor lāghavamādadhātu. Bhk_12.85
+
+iti vacanamasau rajani-cara-patiṃ bahu-guṇamasakṛt prasabhamabhidadhat
+niragamada-bhayaḥ puruṣa-ripu-purān nara-pati-caraṇau navitumari-nutau. Bhk_12.86
+
+atha tamupagataṃ vidita-sucaritaṃ pavana-suta-girā giri-guru-hṛdayaḥ
+nṛ-patiramadayan mudita-parijanaṃ sva-pura-pati-karaiḥ salila-samudayaiḥ. Bhk_12.87
+
+bhk_13
+
+cāru-samīraṇa-ramaṇe hariṇa-kalaṅka-kiraṇā''valī-sa-vilāsā
+ābaddha-rāma-mohā velā-mūle vibhāvarī parihīṇā. Bhk_13.1
+
+baddho vāsara-saṅge bhīmo rāmeṇa lavaṇa-salilā''vāse
+sahasā saṃrambha-raso dūrā''rūḍha-ravi-maṇḍala-samo lole. Bhk_13.2
+
+gāḍha-guru-puṅkha-pīḍā- sa-dhūma-salilā'ri-saṃbhava-mahā-bāṇe
+āruḍhā saṃdehaṃ rāme sa-mahī-dhāra mahī sa-phaṇi-sabhā. Bhk_13.3
+
+ghora-jala-danti-saṃkula- maṭṭa-mahāpaṅka-kāhala-jalā''vāsam
+ārīṇaṃ lavaṇa-jalaṃ samiddha-phala-bāṇa-viddhi-ghora-phaṇi-varam Bhk_13.4
+
+sa-bhayaṃ pariharamāṇo mahā'hi-saṃcāra-bhāsuraṃ salila-gaṇam
+ārūḍho lavaṇa-jalo jala-tīraṃ hari-balā''gama-vilola-guham Bhk_13.5
+
+cañcala-taru-hariṇa-gaṇaṃ bahu-kusumā''bandha-baddha-rāmā''vāsam
+hari-pallava-taru-jālaṃ tuṅgoru-samiddha-taru-vara-hima-cchāyam Bhk_13.6
+
+vara-vāranaṃ salila-bhareṇa giri-mahī-maṇḍala-saṃvara-vāraṇam
+vasudhāryaṃ tuṅga-taraṅga-saṅga-parihīṇa-lola-vasudhā-rayam Bhk_13.7
+
+kulakam etāni sapta saṃkīrṇāni
+
+praṇipatya tato vacanaṃ jagāda hitamāyato patir vārīṇām
+gaṅgā'valambi-bāhū rāmaṃ bahaloru-hari-tamāla-cchāyam. Bhk_13.8
+
+pūrvā'rdhaṃ niravadyam
+
+"tuṅgā giri-vara-dehā, a-gamaṃ salilaṃ, samīraṇo rasa-hārī,
+a-himo ravi-kiraṇa-gaṇo, māyā saṃsāra-kāraṇaṃ te paramā. Bhk_13.9
+
+āyāsa-saṃbhavāruṇa ! saṃhara saṃhāra-hima-hara-sama-cchāyam
+bāṇaṃ, vāri-samūhaṃ saṃgaccha purāṇa-cāru-dehā''vāsam. Bhk_13.10
+
+a-sulabha-hari-saṃcāraṃ jala-mūlaṃ bahala-paṅka-ruddhā''yāmam
+bhaṇa kiṃ jala-parihīṇaṃ su-gamaṃ timi-kambu-vāri-vāraṇa-bhīmam. Bhk_13.11
+
+gantuṃ laṅkā-tīraṃ baddha-mahāsalila-saṃcareṇa sa-helam
+taru-hariṇā giri-jālaṃ vahantu giri-bhāra-saṃsahā guru-deham. Bhk_13.12
+
+hara-hāsa-ruddha-vigamaṃ para-kaṇṭha-gaṇaṃ mahā''hava-samārambhe
+chindantu rāma-bāṇā gambhīre me jale mahā-giri-baddhe. Bhk_13.13
+
+gacchantu cāru-hāsā vīra-rasā''bandha-ruddha-bhaya-saṃbandham
+hantuṃ bahu-bāhu-balaṃ hari-kariṇo giri-varoru-dehaṃ sahasā. Bhk_13.14
+
+etāni ṣaṭ saṃkīrṇāni
+
+jigamiṣayā saṃyuktā bahūva kapi-vāhinī mate dāśaratheḥ
+buddha-jalā''laya-cittā giri-haraṇā''rambha-saṃbhava-samālolā. Bhk_13.15
+
+pūrvā'rdhaṃ niravadyam
+
+guru-giri-vara-haraṇa-sahaṃ saṃhāra-himāri-piṅgalaṃ rāma-balam
+ārūḍhaṃ sahasā khaṃ varuṇā''laya-vimala-salila-gaṇa-gambhīram Bhk_13.16
+
+avagāḍhaṃ giri-jālaṃ tuṅga-mahā-bhitti-ruddha-sura-saṃcāram
+a-bhayahari-rāsa-bhīmaṃ kari-parimala-cāru-bahala-kandara-salilam. Bhk_13.17
+
+ali-gaṇa-vilola-kusumaṃ sa-kamala-jala-matta-kurara-kāraṇḍava-gaṇam
+phaṇi-saṃkula-bhīma-guhaṃ kari-danta-samūḍha-sa-rasa-vasudhā-khaṇḍam Bhk_13.18
+
+aravinda-reṇu-piñjara- sārasa-rava-hāri-vimala-bahu-cāru-jalam
+ravi-maṇi-saṃbhava-hima-hara- samāgamā''baddha-bahula-sura-taru-dhūpam Bhk_13.19
+
+hari-rava-vilola-vāraṇa- gambhīrā''baddha-sa-rasa-puru-saṃrāvam
+ghoṇā-saṃgama-paṅkā''- vila-subala-bhara-mahoru-varāham. Bhk_13.20
+
+etāni pañca saṃkīrnāni
+
+uccakhnuḥ parirabdhān kapi-saṅghā bāhubhis tato bhūmi-bhṛtaḥ
+niṣpaṣṭa-śeṣa-mūrdhnaḥ śṛṅga-vikīrṇoṣṇa-raśmi-nakṣatra-gaṇān. Bhk_13.21
+
+sarvaṃ niravadyam
+
+tuṅga-mahā-giri-subharā bāhu-samāruddha-bhidura-ṭaṅkā bahudhā
+lavaṇa-jala-bandha-kāmā ārūḍhā ambaraṃ mahā-pariṇāham Bhk_13.22
+
+bahu-dhavala-vāri-vāhaṃ vimalā''yasa-mahā'si-deha-cchāyam
+baddha-vihaṅgama-mālaṃ hima-girimiva matta-kurara-rava-saṃbaddham Bhk_13.23
+
+cāru-kalahaṃs-saṃkula- sa-caṇḍa-saṃcāra-sārasā''baddha-ravam
+sa-kusuma-kaṇa-gandha-vahaṃ samayā''gama-vāri-saṅga-vimalā''yāmam. Bhk_13.24
+
+sahasā te taru-hariṇā giri-subharā lavaṇa-salila-bandhā''rambhe
+tīra-girimārūḍhā rāmā''gama-ruddha-sa-bhaya-ripu-saṃcāram. Bhk_13.25
+
+etāni catvāri saṃkīrṇāni
+
+tataḥ prāṇītāḥ kapi-yūtha-mukhyair nyastāḥ kṛśānos tanayena samyak
+a-kampra-brādhnā'gra-nitamba-bhāgā mahā'rṇavaṃ bhūmi-bhṛto 'vagāḍhāḥ Bhk_13.26
+
+nirākhyātaṃ niravadyaṃ ca
+
+tene 'dri-bandhyo, vavṛdhe payodhis, tutoṣa rāmo, mumude kapīndraḥ,
+tatrāsa śatrur, dadṛśe suvelaḥ, prāpe jalānto, juhṛṣuḥ plavaṅgāḥ. Bhk_13.27
+
+ekāntarākhyātaṃ niravadyaṃ ca
+
+bhremur, vavalgur, nanṛtur, jajakṣur, juguḥ, samutpupluvire, niṣeduḥ,
+āsphoṭayāṃcakrurabhipraṇedū, rejur, nanandur, viyayuḥ, samīyuḥ. Bhk_13.28
+
+ākhyāta-mālā
+
+giri-paṅka-cāru-dehaṃ kakkola-lavaṅga-badha-surabhi-parimalam
+bahu-bahaloru-taraṅgaṃ parisarasārūḍhamuddharaṃ lavaṇa-jalam. Bhk_13.29
+
+lolaṃ kūlā'bhigame khe tuṅgā-mala-nibaddha-puru-pariṇāham
+sura-gaṅgā-bharaṇa-sahaṃ giri-bandha-vareṇa lavaṇa-salilaṃ ruddham. Bhk_13.30
+
+ārūḍhaṃ ca suvelaṃ taru-mālā''bandha-hāri-giri-vara-jālam
+rāvaṇa-citta-bhayaṅkara- māpiṅgala-lola-kesaraṃ rāma-balam Bhk_13.31
+
+laṅkā''laya-tumulā''rava- subhara-gabhīroru-kuñja-kandara-vivaram
+vīṇā-rava-rasa-saṅgama- sura-gaṇa-saṃkula-mahā-tamāla-cchāyam Bhk_13.32
+
+sa-rasa-bahu-pallavā''vila- kesara-hintāla-baddha-bahala-cchāyam
+airāvaṇa-mada-parimala- gandhavahā''baddha-danti-saṃrambha-rasam Bhk_13.33
+
+tuṅga-taru-cchāyā-ruha- komala-hari-hāri-lola-pallava-jālam
+hariṇa-bhayaṃkara-sa-kusuma- dāva-sama-cchavi-vilola-dāḍima-kuñjam Bhk_13.34
+
+kala-hari-kaṇṭha-virāvaṃ salila-mahā-bandha-saṃkula-mahā-sālam
+cala-kisalaya-saṃbaddhaṃ maṇi-jālaṃ salila-kaṇa-mayaṃ-vivahantam Bhk_13.35
+
+tuṅga-maṇi-kiraṇa-jālaṃ giri-jala-saṃghaṭṭa-baddha-gambhīra-ravam
+cāru-guhā-vivara-sabhaṃ sura-pura-samamamara-cāraṇa-susaṃrāvam Bhk_13.36
+
+vimala-mahā-maṇi-ṭaṅkaṃ sindūra-kalaṅka-piñjara-sahā-bhittim
+vīra-hari-danti-saṅgama- bhaya-ruddha-vibhāvarī-vihāra-samīham Bhk_13.37
+
+sa-mahā-phaṇi-bhīma-bilaṃ bhūri-vihaṅgama-tumuloru-ghora-virāvam
+vāraṇa-varāha-hari-vara- go-gaṇa-sāraṅga-saṃkula-mahā-sālam Bhk_13.38
+
+cala-kisalaya-sa-vilāsaṃ cāru-mahī-kamala-reṇu-piñjara-vasudham
+sa-kusuma-kesara-bāṇaṃ lavaṅga-taru-taruṇa-vallarī-vara-hāsam Bhk_13.39
+
+a-mala-maṇi-hema-ṭaṅkaṃ tuṅga-mahā-bhitti-ruddha-ruru-paṅka-gamam
+amarā''rūḍha-parisara merumivā ''vila-sa-rasa-mandāra-tarum Bhk_13.40
+
+phala-bhara-manthara-taru-vara- ma-vidūra-virūḍha-hāri-kusumā''pīḍam
+hariṇa-kalaṅka-maṇi-saṃbhava- bahu-vāri-bhara-sugambhīra-guham. Bhk_13.41
+
+jala-kāma-danti-saṃkula- sa-hema-rasa-cāru-dhavala-kandara-deham
+aṅkura-toha-sama-cchavi- ruru-gaṇa-saṃlīḍha-tarala-hari-maṇi-kiraṇam Bhk_13.42
+
+gāḍha-samīraṇa-susahaṃ bhīma-ravottuṅga-vāri-dhara-saṃghaṭṭam
+dhavala-jala-vāha-mālā- saṃbandhā''baddha-hima-dharā-dhara-līlam. Bhk_13.43
+
+lavaṇa-jala-bandha-sa-rasaṃ taru-phala-saṃpatti-ruddha-dehā''yāsam
+laṅkā-toraṇa-vāraṇa- mārūḍhaṃ samara-lālasaṃ-rāma-balam. Bhk_13.44
+
+guru-paṇava-veṇu-guñjā- bherī-peloru-jhallarī-bhīma-ravam
+ḍhakkā-ghaṇṭā-tumulaṃ sannaddhaṃ para-balaṃ raṇā''yāsa-saham Bhk_13.45
+
+ārūḍha-bāṇa-ghoraṃ vi-malā''yasa-jāla-gūḍha-pīvara-deham
+cañcala-turaṅga-vāraṇa- saṃghaṭṭā''baddha-cāru-pariṇāha-guṇam Bhk_13.46
+
+asi-tomara-kunta-mahā- paṭṭiśa-bhalla-vara-bāṇa-guru-puru-musalam
+vīra-rasā'laṅkāraṃ guru-saṃcāra-haya-danti-sa-mahī-kampam Bhk_13.47
+
+te rāmeṇa sa-rabhasaṃ paritaralā hari-gaṇā raṇa-samārambhe
+ruddhā laṅkā-parisara- bhū-dhara-paribhaṅga-lālasā dhīra-ravam. Bhk_13.48
+
+yugmakam jala-tīra-tuṅga-taru-vara- kangara-giri-bhitti-kuñja-vivarā''vāsam
+bhīmaṃ taru-hariṇa-balaṃ su-samiddha-himāri-kiraṇa-mālā-lolam. Bhk_13.49
+
+rāvaṇa-balamavagantuṃ jala-bhara-guru-salila-vāha-gaṇa-sama-cchāyam
+aṭṭa-taru-mañca-mandrira- toraṇa-mālā-sabhāsu samārūḍham. Bhk_13.50
+
+bhk_14
+
+tato daśā''syaḥ smara-vihvalā''tmā cāra-prakāśīkṛta-śatru-śaktiḥ
+vimohya māyā-maya-rāma-mūrdhnā sītāmanīkaṃ prajighāya yoddhum. Bhk_14.1
+
+kambūnatha samādadhmuḥ, koṇair bheryo nijaghnire,
+veṇūn pupūrire, guñjā juguñjuḥ kara-ghaṭṭitāḥ Bhk_14.2
+
+vādayāṃcakrire ḍhakkāḥ, paṇavā dadhvanur hatāḥ,
+kāhalāḥ pūrayāṃcakruḥ, pūrṇāḥ peraś ca sasvanuḥ Bhk_14.3
+
+mṛdaṅgā dhīramāsvenur, hatair svene ca gomukhaiḥ
+ghaṇṭāḥ śiśiñjire dīrghaṃ, jahrāde paṭahair bhṛśam. Bhk_14.4
+
+hayā jiheṣire harṣād, gambhīraṃ jagajur gajāḥ,
+saṃtrastāḥ karabhā reṭuś, cukuvuḥ patti-paṅktayaḥ Bhk_14.5
+
+turaṅgā-pusphuṭur bhītāḥ, pusphurur vṛṣabhāḥ param
+nāryaś cukṣubhire mamlur mumuhuḥ śuśucuḥ patīn. Bhk_14.6
+
+jagarjur, jahṛṣuḥ, śurā rejus tuṣṭuvire paraiḥ,
+babandhuraṅguli-trāṇi, sannehuḥ pariniryayuḥ. Bhk_14.7
+
+dhanūṣyāropayāṃcakrurāruruhū rathā''diṣu,
+asīnudvavṛhur dīptān, gurvīruccikṣipur gadāḥ Bhk_14.8
+
+śūlāni bhramayāṃcakrur, bāṇānādadire śubhān,
+bhremuś, cukurdire, resur vavalguś ca padātayaḥ Bhk_14.9
+
+amutpetuḥ kaśā-ghātai, raśmyākarṣair mamaṅgire
+aśvāḥ, pradudruvur mokṣe raktaṃ nijagaruḥ śrame. Bhk_14.10
+
+gajānāṃ pradaduḥ śārīn, kambalān paritastaruḥ,
+tenuḥ kakṣāṃ, dhvajāṃś caiva samucchiśriyurucchikhān. Bhk_14.11
+
+viśiśvāsayiṣāṃcakrurāliliṅguś ca yoṣitaḥ,
+ājaghnur mūrdhni bālāṃś ca cucumbuś ca suta-priyāḥ. Bhk_14.12
+
+gambhīra-vedinaḥ saṃjñā gajā jagṛhurakṣatāḥ,
+vavṛdhe śuśubhe caiṣāṃ mado, hṛṣṭaiś ca pupluve. Bhk_14.13
+
+mṛgāḥ pradakṣiṇaṃ sasruḥ, śivāḥ samyag vavāśire,
+a-vāmaiḥ pusphure dehaiḥ, prasede citta-vṛttibhiḥ. Bhk_14.14
+
+prājyamāñjihiṣāṃcakre prahasto rāvaṇā''jñayā
+dvāraṃ raraṅghatur yāmyṃ mahāpārśva-mahodarau. Bhk_14.15
+
+prayayāvindra-jit pratyagiyāya svayamuttaram.
+sahadhyāsisiṣāṃcakre virūpā'kṣaḥ purodaram. Bhk_14.16
+
+śuśrāva rāmas tat sarvaṃ, pratasthe ca sa-sainikaḥ
+visphārayāṃcakārā'straṃ babandhā'tha ca bāṇadhī. Bhk_14.17
+
+īkṣāṃcakre 'tha saumitrimanujajñe balāni ca,
+namaścakāra devebhyaḥ parṇa-talpaṃ mumoca ca. Bhk_14.18
+
+cakāsāṃcakruruttasthur, nedurānaśire diśaḥ
+vānarā, bhūdharān, redhur, babhañjuś, ca tatas tarūn. Bhk_14.19
+
+dadāla bhūr, nabho raktaṃ goṣpadapraṃ vavarṣa ca,
+mṛgāḥ prasasṛpur vāmaṃ, khagāś cukuvire'śubham. Bhk_14.20
+
+ulkā dadṛśire dīptā, ruruvuś cā'śivaṃ śivāḥ,
+cakṣmāye ca mahī, rāmaḥ śaśaṅke cā'śubhā'gamam. Bhk_14.21
+
+rāvaṇaḥ śuśruvān śatrūn rākṣasānabhyupeyuṣaḥ,
+svayaṃ yuyutsayāṃcakre prākārā'gre niṣedivān. Bhk_14.22
+
+nirāsū rākṣasā bāṇān, prajahuḥ śūla-paṭṭiśān
+asīṃś ca vāhayāṃcakruḥ pāśaiś cā''cakṛṣus tataiḥ Bhk_14.23
+
+bhallaiś ca bibhidus tīkṣṇair vividhus tomarais tathā.
+gadābhiś cūrṇayāṃcakruḥ, śitaiś cakraiś ca cicchiduḥ. Bhk_14.24
+
+vānarā muṣṭibhir jaghnur dadaṃśur daśanais tathā,
+nirāsuś ca girīṃs tuṅgān, drumān vicakarus tathā. Bhk_14.25
+
+lāṅgūlair loṭhayāṃcakrus, talair, ninyuś ca saṃkṣayam,
+nakhaiś cakṛtatuḥ, kruddhāḥ pipiṣuś ca kṣitau balāt. Bhk_14.26
+
+saṃbabhūvuḥ kabandhāni, prohuḥ śoṇita-toya-gāḥ,
+terur bhaṭā''sya-padmāni, dhvajaiḥ pheṇairivā''babhe, Bhk_14.27
+
+rakta-paṅke gajāḥ sedur, na pracakramire rathāḥ,
+nimamajjus turaṅgāś ca, gantuṃ notsehire bhaṭāḥ. Bhk_14.28
+
+koṭyā koṭyā pura-dvāramekaikaṃ rurughe dviṣām,
+ṣaṭ-triṃśaddhari-koṭyaś ca nivavrur vānarā''dhipam, Bhk_14.29
+
+tastanur, jahvalur, mamlur, jaglur, luluṭhire kṣatāḥ,
+mumūrcchur, vavamū raktaṃ, tatṛṣuś cobhaye bhaṭāḥ Bhk_14.30
+
+sampātinā prajaṅghas tu yuyudhe, 'sau drumāhataḥ
+cakampe, tīva cukrośa, jīvanāśaṃ nanāśa ca. Bhk_14.31
+
+uccakhnāte nalenā ''jau sphurat-pratapanā'kṣiṇī,
+jambumālī jahau prāṇān grāvṇā mārutinā hataḥ. Bhk_14.32
+
+mitrighnasya pracukṣoda gadayā 'ṅgaṃ vibhīṣaṇaḥ.
+sugrīvaḥ praghasaṃ nebhe, bahūn rāmas tatarda ca. Bhk_14.33
+
+vajramuṣṭer viśiśleṣa maindenā 'bhihataṃ śiraḥ,
+nīlaś cakarta cakreṇa nikumbhasya śiraḥ sphurat. Bhk_14.34
+
+virūpākṣo jahe prāṇais tṛḍhaḥ saumitri-patribhiḥ,
+pramocayāṃcakārā'sūn dvividas tvaśani-prabham. Bhk_14.35
+
+gadā śatru-jitā jighye, tāṃ pratīyeṣa vāli-jaḥ
+rathaṃ mamantha sa-hayaṃ śākhinā 'sya tato 'ṅgadaḥ. Bhk_14.36
+
+tat karma vāli-putrasya dṛṣṭvā viśvaṃ visiṣmiye,
+saṃtresū rākṣasāḥ sarve, bahu mene ca rāghavaḥ. Bhk_14.37
+
+sugrīvo mumude, devāḥ sādhvityūcuḥ savismayāḥ,
+vibhīṣaṇo 'bhituṣṭāva, praśaśaṃsuḥ plavaṅgamāḥ. Bhk_14.38
+
+hī citraṃ lakṣmaṇenode, rāvaṇiś ca tirodadhe
+vicakāra tato rāmaḥ śarān, saṃtatrasur dviṣaḥ Bhk_14.39
+
+vibhinnā jughurur ghoraṃ, jakṣuḥ kravyā'śino hatān,
+cuṣcyota vraṇināṃ raktaṃ, chinnāś celuḥ kṣaṇaṃ bhujāḥ Bhk_14.40
+
+kṛttairapi dṛḍha-krodho vīra-vaktrair na tatyaje,
+palāyāṃcakrire śeṣā, jihriyuḥ śūra-māninaḥ. Bhk_14.41
+
+rāghavo na dayāṃcakre, dadhur dhairyaṃ na kecana,
+mamre pataṅgavad vīrair hāheti ca vicukruśe. Bhk_14.42
+
+tirobabhūve sūryeṇa, prāpe ca niśayā ''spadam,
+jagrase kāla-rātrīva vānarān rākṣasāmś ca sā. Bhk_14.43
+
+cukopendrajidatyugraṃ sarpā'straṃ cā ''juhāva, saḥ
+ājuhuve tirobhūtaḥ parānīkaṃ, jahāsa ca. Bhk_14.44
+
+babādhe ca balaṃ kṛtsnaṃ, nijagrāha ca sāyakaiḥ
+utsasarja śarāṃs, te'sya sarpa-sāc ca prapedire. Bhk_14.45
+
+ācicāya sa taiḥ senāmācikāya ca rāghavau,
+babhāṇa ca, "na me māyāṃ jigāyendro'pi, kiṃ nṛbhiḥ". Bhk_14.46
+
+ācikyāte ca bhūyo 'pi rāghavau tena pannagaiḥ
+tau mumuhaturudvignau, vasudhāyāṃ ca petatuḥ Bhk_14.47
+
+tato rāmeti cakrandus, tresuḥ parididevire
+niśaśvasuś ca senānyaḥ, procur dhigiti cā''tmanaḥ. Bhk_14.48
+
+manyuṃ śekur na te roddhuṃ, nā 'sraṃ saṃrurudhuḥ patat,
+vividur nendrajin-mārgaṃ, parīyuś ca plavaṅgamāḥ. Bhk_14.49
+
+dadhāvā 'dbhis tataś cakṣuḥ sugrīvasya vibhīṣaṇaḥ
+vidāṃcakāra dhautā'kṣaḥ sa ripuṃ khe, nanarda ca. Bhk_14.50
+
+ujjugūre tataḥ śailaṃ hantumindrajitaṃ kapiḥ
+vihāya rāvaṇis tasmādānaṃhe cā 'ntikaṃ pituḥ. Bhk_14.51
+
+ācacakṣe ca vṛttāntaṃ, prajaharṣa ca rāvanaḥ
+gāḍhaṃ copajugūhainaṃ, śirasyupaśiśiṅgha ca. Bhk_14.52
+
+dhvajānuddudhuvus tuṅgān, māṃsaṃ cemur, jaguḥ, papuḥ,
+kāmayāṃcakrire kāntās, tatas tuṣṭā niśācarāḥ. Bhk_14.53
+
+darśayāṃcakrire rāmaṃ sītāṃ rājñaś ca śāsanāt,
+tasyā mimīlatur netre, luluṭhe puṣpakodare. Bhk_14.54
+
+prāṇā dadhvaṃsire, gātraṃ tastambhe ca priye hate,
+ucchaśvāsa cirād dīnā, rurodā 'sau rarāsa ca. Bhk_14.55
+
+"lauha-bandhair babandhe nu, vajreṇa kiṃ vinirmame
+mano me, na vinā rāmād yat pusphoṭa sahasra-dhā. Bhk_14.56
+
+utteritha samudraṃ tvaṃ madarthe, 'rīn jihiṃsitha,
+mamartha cā'tighorāṃ māṃ dhig jīvita-laghūkṛtām. Bhk_14.57
+
+na jijīvā 'sukhī tātaḥ prāṇatā rahitas tvayā,
+mṛte'pi tvayi jīvantyā kiṃ mayā 'ṇakabhāryayā." Bhk_14.58
+
+sā jugupsān pracakre 'sūn, jagarhe lakṣaṇāni ca
+dehabhāñji, tataḥ keśān luluñca, luluṭhe muhuḥ. Bhk_14.59
+
+jaglau, dadhyau, vitastāna, kṣaṇaṃ prāṇa na, vivyathe,
+daivaṃ nininda, cakranda, dehe cā 'tīva manyunā. Bhk_14.60
+
+āśvāsayāṃcakārā 'tha trijaṭā tāṃ, nināya ca.
+tataḥ prajāgarāṃcakrur vānarāḥ sa-vibhīṣaṇāḥ Bhk_14.61
+
+ciceta rāgas tat kṛcchramoṣāṃcakre śucā 'tha saḥ,
+manyuś cā 'sya samāpipye, virurāva ca lakṣmaṇam. Bhk_14.62
+
+samīhe martumānarce tena vācā 'khilaṃ balam,
+āpapṛcche ca sugrīvaṃ svaṃ deśaṃ visasarja ca. Bhk_14.63
+
+ādideśa sa kiṣkindhāṃ rāghavau netumaṅgadam,
+pratijajñe svayaṃ caiva sugrīvo rakṣasā vadham. Bhk_14.64
+
+"nāgā'stramidametasya vipakṣas tārkṣya-saṃsmṛtiḥ"
+vibhīṣaṇāditi śrutvā taṃ nidadhyau raghūttamaḥ. Bhk_14.65
+
+tato vijaghaṭe śailairudvelaṃ pupluve 'mbudhiḥ
+vṛkṣebhyaś cucyute puṣpair, virejur bhāsurā diśaḥ Bhk_14.66
+
+jagāhire 'mbudhiṃ nāgā, vavau vāyur mano-ramaḥ
+tejāṃsi śaṃśamāṃcakruḥ, śara-bandhā viśiśliṣuḥ. Bhk_14.67
+
+bhrejire 'kṣata-vad yodhā, lebhe saṃjñāṃ ca lakṣmaṇaḥ,
+vibhīṣaṇo 'pi babhrāje, garutmān prāpa cā 'ntikam Bhk_14.68
+
+saṃpasparśā 'tha kākutsthau, jajñāte tau gata-vyathau
+tayorātmānamācakhyau, yayau cā 'tha yathā-gatam. Bhk_14.69
+
+svenus, titviṣurudyemuraccakhnuḥ parvatāṃs tarūn,
+vānarā dadramuś cā 'tha saṃgrāmaṃ cā''śaśāśire. Bhk_14.70
+
+ḍuḍhaukire punar laṅkāṃ, bubudhe tān daśānanaḥ
+jīvataś ca vivedā 'rīn, babhraṃśe 'sau dhṛtes tataḥ. Bhk_14.71
+
+sasraṃse śara-bandhena divyeneti bubunda saḥ,
+babhājā 'tha paraṃ mohamūhāṃcakre jayaṃ na ca. Bhk_14.72
+
+ghūmrākṣo 'tha pratiṣṭhāsāṃcakre rāvaṇa-saṃmataḥ
+siṃhā''syair yuyuje tasya vṛkā''syaiś ca rathaḥ khagaiḥ. Bhk_14.73
+
+tvak-traiḥ saṃvivyayur dehān, vāhanānyadhiśiśyire,
+ānarjur nṛ-bhujo'strāṇi, vavañcuś cā''hava-kṣitim. Bhk_14.74
+
+adhyuvāsa rathaṃ, teye purāc, cukṣāva cā 'śubham,
+saṃśrāvayāṃcakārā ''khyāṃ dhūmrākṣas tatvare tathā. Bhk_14.75
+
+nililye mūrdhni gṛdhro'sya, krūrā dhvāṅkṣā vivāśire,
+śiśīke śoṇitaṃ vyoma, cacāla kṣmā-talaṃ tathā. Bhk_14.76
+
+tataḥ prajaghaṭe yuddhaṃ, śastrāṇyāsuḥ parasparam,
+vavraścurājughūrṇuś, ca syemuś, cukūrdire tathā. Bhk_14.77
+
+rurujur, bhrejire, pheṇur, bahudhā hari-rākṣasāḥ,
+vīrā na bibhayāṃcakrur, bhīṣayāṃcakrire parān. Bhk_14.78
+
+rattaṃ pracuścutuḥ kṣaṇṇāḥ, śiśviyur bāṇa-vikṣatāḥ,
+asyatāṃ śuśuvur bāṇān bhujāḥ sā'ṅguṣṭha-muṣṭayaḥ. Bhk_14.79
+
+raṇe cikrīḍa dhūmrākṣas, taṃ tatarjā'nilā''tmajaḥ,
+ādade ca śilāṃ, sā'śvaṃ pipeṣā 'sya rathaṃ tayā. Bhk_14.80
+
+papāta rākṣaso bhūmau, rarāṭa ca bhayaṃkaram,
+tutoda gadayā cā'riṃ, taṃ dudhrāvā 'driṇā kapiḥ. Bhk_14.81
+
+akampanas tato yoddhuṃ cakame rāvaṇā'jñayā,
+sa rathenā 'bhidudrāva, jughure cā'tibhairavam. Bhk_14.82
+
+paspande tasya vāmā'kṣi, sasyamuś cā'śivāḥ khagāḥ,
+tān vavrājā 'vamatyā 'sau, babhāse ca raṇe śaraiḥ. Bhk_14.83
+
+khamūyur, vasudhāmūvuḥ sāyakā rajju-vat tatāḥ
+tasmād balairapatrepe, puprothā 'smai na kaścana. Bhk_14.84
+
+sa bhasma-sāc cakārā'rīn, dudāva ca kṛtānta-vat,
+cukrodha mārutis, tāla- muccakhne ca mahā-śikham. Bhk_14.85
+
+yamāyā 'kampanaṃ tena niruvāpa mahā-paśum,
+babhrajja nihate tasmin śoko rāvaṇamagnivat. Bhk_14.86
+
+sa bibhreṣa, pracukṣoda, dantairoṣṭhaṃ cakhāda ca,
+pragopāyāṃcakārā ''śu yatnena paritaḥ puram. Bhk_14.87
+
+prahastamarthayāṃcakre yoddhumadbhuta-vikramam.
+"kiṃ vicāreṇa, rajendra ! yuddhā'rthā vayamitysau" Bhk_14.88
+
+cakvāṇā 'śaṅkito yoddhumutsehe ca mahā-rathaḥ,
+niryemire 'sya yoddhāraś, cakwxlqqpe cā'śva-kuñjaram. Bhk_14.89
+
+yuyujuḥ syandanānaśvairījur devān purohitāḥ
+ānarcur brāhmaṇān samyagāśiṣaś cā''śaśaṃsire. Bhk_14.90
+
+ūhire mūrdhni siddhārthā, gāvaś cā ''lebhire bhaṭaiḥ,
+pracukṣṇuvur mahā 'strāṇi, jijñāsāṃcakrire hayān. Bhk_14.91
+
+laluḥ khaḍgān, mamārjuś ca, mamṛjuś ca paraśvadhān
+"alaṃcakre, samālebhe vavase, bubhuje, pape, Bhk_14.92
+
+jahase ca kṣaṇaṃ, yānair nirjagme yoddhṛbhis tataḥ
+viprān prahasta ānarca, juhāva ca vibhāvasum. Bhk_14.93
+
+saṃvargayāṃcakārā ''ptān, candanena lilepa ca,
+cacāma madhu mārdvīkaṃ, tvak-traṃ cā''cakace varam. Bhk_14.94
+
+uṣṇīṣaṃ mumuce cāru, rathaṃ, ca jujuṣe śubham,
+ālalambe mahā'strāṇi, gantuṃ pravavṛte tataḥ. Bhk_14.95
+
+ājaghnus tūrya-jātāni, tuṣṭuvuś cā 'nujīvinaḥ,
+rajaḥ pravavṛdhe ghoraṃ, ghoṣaś ca vyānaśe diśaḥ. Bhk_14.96
+
+taṃ yāntaṃ dudruvur gṛdhrāḥ, kravyādaś ca siṣevire
+āvavur vāyavo ghorāḥ, khādulkāś ca pracakṣaruḥ. Bhk_14.97
+
+sasyande śoṇitaṃ vyoma, raṇā'ṅgāni prajajvaluḥ,
+rathāḥ pracaskhaluḥ sā'śvā, na, raraṃhā'-śvakuñjaram. Bhk_14.98
+
+pratodā jagalur, vāmamānañcur yajñiyā mṛgāḥ
+dadāla bhūḥ, pupūre dyauḥ, kapīnāmapi niḥsvanaiḥ Bhk_14.99
+
+mimeha raktaṃ hastyaśvaṃ, rākṣasāś ca nitiṣṭhivuḥ,
+tataḥ śuśubhatuḥ sene, nir-dayaṃ ca prajahratuḥ Bhk_14.100
+
+didviśur, dudyuvuś, cacchuś, caklamuḥ, suṣupur, hatāḥ
+cakhādire cakhāduś ca, vilepuś ca raṇe bhaṭāḥ Bhk_14.101
+
+prahastasya puro-mātyān jihiṃsur, dadhṛṣus tathā
+vānarāḥ, karma senānī rakṣasāṃ cakṣame ne tat. Bhk_14.102
+
+ūrṇunāva sa śastraughair vānarāṇāmanīkinīm,
+śaśāsa ca bahūn, yodhān, jīvitena viveca ca, Bhk_14.103
+
+āsasañja bhayaṃ teṣāṃ, didyute ca yathā raviḥ,
+nā''yayāsa, dviṣad-dehair jagāhe ca diśo daśa. Bhk_14.104
+
+kecit saṃcukuṭur bhītā, lejire 'nye parājitāḥ,
+saṃgrāmād babhraśuḥ kecid yayācuś cā 'pare 'bhayam. Bhk_14.105
+
+evaṃ vijigye tāṃ senāṃ prahasto, 'tidadarpa ca,
+śaśāma na ca saṃkruddho, nirjugopa niśācarān. Bhk_14.106
+
+cukrudhe tatra nīlena, taruś coccikṣipe mahān,
+prahasto 'bhihatas tena bāṇān visasṛje bahūn, Bhk_14.107
+
+sehe kapī, rathā'śvāṃś ca ripos tatarha śākhinā,
+dharitrīṃ musalī teye prahastaś, cikhide na ca, Bhk_14.108
+
+saṃdudhukṣe tayoḥ kopaḥ, pasphāye śastra-lāghavam,
+nunoda śākhinaṃ nīla, āvavre musalī tarum, Bhk_14.109
+
+viyatyānabhratur, bhūmau maṇḍalāni viceratuḥ,
+pradudruvaturanyonyaṃ vīrau, śaśramatur na ca , Bhk_14.110
+
+samīrayāṃcakārā 'tha rākṣasasya kapiḥ śilām,
+kṣatas tayā mamārā 'sāvāśiśrāya ca bhū-talam. Bhk_14.111
+
+tutuṣur vānarāḥ sarve, neśuś citrā niśā-carāḥ,
+jerurāśā daśāsyasya, sainyaṃ nīlaṃ nunāva ca, Bhk_14.112
+
+yadā na pheluḥ kṣaṇadā-carāṇāṃ manorathā rāma-balā'bhiyoge,
+laṅkāṃ tadā bhejurudīrṇa-dainyā, vyācakhyuruccaiś ca hataṃ prahastam, Bhk_14.113
+
+bhk_15
+
+rākṣasendras tato 'bhaiṣīdaikṣiṣṭa paritaḥ puram,
+prātiṣṭhipac ca bodhā'rthaṃ kumbhakarṇasya rākṣasān, Bhk_15.1
+
+te 'bhyagur bhavanaṃ tasya, suptaṃ caikṣiṣatā 'tha tam,
+vyāhārṣus tumulān śabdān, daṇḍaiś cā 'vadhiṣur drutam Bhk_15.2
+
+keśānaluñciṣus, tasya gajān gātreṣvacikraman,
+śītairabhyaṣicaṃs toyairalātaiś cā'pyadambhiṣuḥ. Bhk_15.3
+
+nakhairakartiṣus tīkṣṇairadāṅkṣur daśanais tathā,
+śitairatautsuḥ śūlaiś ca, bherīś cā'vīvadan śubhāḥ. Bhk_15.4
+
+sa tān nā 'jīgaṇat sarvā- nicchayā 'buddha ca svayam,
+abūbudhata kasmān mā- maprākṣīc ca niśā-carān. Bhk_15.5
+
+te 'bhāṣiṣata "rājā tvāṃ didṛkṣuḥ kṣaṇadā-cara !"
+so'snāsīd, vyalipan, māṃsamapsāsīd, vāruṇīmapāt Bhk_15.6
+
+nyavasiṣṭa tato draṣṭuṃ rāvaṇaṃ, prāvṛtat gṛhāt.
+rājā yāntaṃ tamadrākṣīdudasthāc ceṣadāsanāt. Bhk_15.7
+
+atuṣat, pīṭhamāsanne niradikṣac ca kāñcanam.
+asmeṣṭa kumbhakarṇo'lpamupāvikṣadathā 'ntike. Bhk_15.8
+
+avādīn "māṃ kimityāhvo" rājñā ca pratyavādi saḥ
+"mājñāsīs tvaṃ sukhī, rāmo yadakārṣīt sa rakṣasām. Bhk_15.9
+
+udatārīdudanvantaṃ, puraṃ naḥ parito 'rudhat,
+vyadyotiṣṭa raṇe śastrairanaiṣīd rākṣasān kṣayam. Bhk_15.10
+
+na prāvocamahaṃ kiṃcit priyaṃ, yāvadajīviṣam,
+bandhus tvamarcitaḥ snehān mādviṣo na vadhīr mama Bhk_15.11
+
+vīryaṃ mā na dadarśas tvaṃ, mā na trāsthāḥ kṣatāṃ puram,
+tavā 'drākṣma vayaṃ vīryaṃ, tvamajaiṣīḥ purā surān" Bhk_15.12
+
+avocat kumbhakarṇas taṃ, "vayaṃ mantre'bhyadhāma yat
+na tvaṃ sarvaṃ tadaśrauṣīḥ, phalaṃ tasyedamāgamat. Bhk_15.13
+
+prājña-vākyānyavāmaṃsthā, mūrkha-vākyeṣvavā'sthithāḥ
+adhyagīṣṭhāś ca śāstrāṇi, pratyapatthā hitaṃ na ca Bhk_15.14
+
+mūrkhās tvāmavavañcanta, ye vigrahamacīkaran,
+abhāṇīn mālyavān yuktamakṣaṃsthās tvaṃ na tan madāt Bhk_15.15
+
+rāghavasyā 'muṣaḥ kāntāmāptairukto na cā'rpipaḥ,
+mā nā'nubhūḥ svakān doṣān, mā muho mā ruṣo'dhunā. Bhk_15.16
+
+tasyā'pyatyakramīt kālo, yat tadā'hamavādiṣam
+aghāniṣata rakṣāsi paraiḥ, kośāṃs tvamavyayīḥ Bhk_15.17
+
+sandhāna-kāraṇaṃ tejo nyagabhūt te, kṛthās tathā,
+yat tvaṃ vairāṇi kośaṃ ca saha-daṇḍamajiglapaḥ." Bhk_15.18
+
+akrudhac cā'bhyadhād vākyaṃ kumbhakarṇaṃ daśānanaḥ
+"kiṃ tvaṃ māmajugupsiṣṭhā, naididhaḥ sva-parākramam. Bhk_15.19
+
+mojjigrahaḥ su-nītāni, mā sma kraṃsthā na saṃyuge,
+mopālabdhāh kṛtair doṣair mā na vākṣīr hitaṃ param." Bhk_15.20
+
+kumbhakarṇas tato 'garjīd, bhaṭāṃś cā 'nyān nyavīvṛtat.
+upāyaṃsta mahā'strāṇi, niragāc ca drutaṃ puraḥ. Bhk_15.21
+
+mūrdhnā divamivā 'lekhīt, khaṃ vyāpad vapuṣoruṇā,
+pādābhyāṃ kṣmāmivā 'bhaistīt, dṛṣṭyā 'dhākṣīdiva dviśaḥ Bhk_15.22
+
+dagdha-śaila ivā 'bhāsīt, prākraṃsta kṣaya-megha-vat,
+prācakampadudanvantaṃ, rākṣasānapyatitrasat. Bhk_15.23
+
+sa-pakṣo 'dririvā 'cālīn, nyaśvasīt kalpa-vāyu-vat,
+abhārṣīd dhvaninā lokā- nabhrājiṣṭa kṣayā'gni-vat. Bhk_15.24
+
+anaṃsīd bhūr bhareṇā 'sya, raṃhasā śākhino 'luṭhan,
+siṃhāḥ prādudruvan bhītāḥ, prākṣubhan kula-parvatāḥ Bhk_15.25
+
+utpātāḥ prāvṛtaṃs tasya, dyauraśīkiṣṭa śoṇitam,
+vāyavo'vāsiṣur bhīmāḥ, krūrāś cā'kuṣata dvijāḥ. Bhk_15.26
+
+aspandiṣṭā 'kṣi vāmaṃ ca, ghorāś cā 'rāṭiṣuḥ śivāḥ,
+nyapaptan musale gṛdhrā, dīptayā 'pāti colkayā. Bhk_15.27
+
+āṃhiṣṭa tāna-saṃmānya darpāt sa pradhana-kṣitim,
+tato'nardīdanandīc ca, śatrūnāhvāsta cā''have. Bhk_15.28
+
+prāśīn, na cā 'tṛpat krūraḥ, kṣuc cā'syā'vṛdhadaśnataḥ,
+adhād vasāmadhāsīc ca rudhiraṃ vana-vāsinām. Bhk_15.29
+
+māmsenā 'syā 'śvatāṃ kukṣī, jaṭharaṃ cā 'pyaśiśviyat,
+bahūnāmaglucat prāṇā- naglocīc ca raṇe yaśaḥ. Bhk_15.30
+
+sāmarthyaṃ cā 'pi so 'stambhīd vikramaṃ cā'sya nā 'stabhan,
+śākhinaḥ kecidadhyaṣṭhur nyamāṅkṣurapare 'mbu-dhau. Bhk_15.31
+
+anye tvalaṅghiṣuḥ, śailān, guhāsvanye nyaleṣata,
+kecidāsiṣata stabdhā, bhayāt kecidaghūrṇiṣuḥ. Bhk_15.32
+
+udatāriṣurambho-dhiṃ vānarāḥ setunā 'pare,
+alajjiṣṭā'ṅgadas tatra, pratyavāsthita corjitam. Bhk_15.33
+
+sattvaṃ samadudhukṣac ca vānarāṇāmayuddha ca,
+tataḥ śailānudakṣaipsurudagūriṣata drumān. Bhk_15.34
+
+anardiṣuḥ kapi-vyāghrāḥ, samyak cā 'yutsatā''have,
+tānamardīdakhādīc ca, nirāsthac ca talā''hatān, Bhk_15.35
+
+prācucūrṇac ca pādābhyāmabibhīṣata ca drutam,
+atarhīc caiva śūlena kumbhakarṇaḥ plavaṅgamān. Bhk_15.36
+
+atautsīd gadayā gāḍhamapiṣac copagūhanaiḥ,
+janubhyāmadamīc cā'nyān, hasta-vartamavīvṛtat, Bhk_15.37
+
+adāliṣuḥ śilā dehe, cūrṇyabhūvan mahā-drumāḥ,
+kṣiptās tasya na cā 'cetīt tānasau, nā 'pi cā 'kṣubhat. Bhk_15.38
+
+adrāṣṭāṃ taṃ raghu-vyāghrau ākhyac cainaṃ vibhīṣaṇaḥ
+"eṣa vyajeṣṭa devendraṃ, nā'śaṅkiṣṭa vivasvataḥ. Bhk_15.39
+
+yakṣendra-śaktimacchāsīn, nā 'prothīdasya kaścana,
+kumbhakarṇān na bhaiṣṭaṃ mā yuvāmasmān nṛpā''tmajau. Bhk_15.40
+
+ghnantaṃ mopekṣiṣāthāṃ ca, mā na kārṣṭamihā''daram.,
+"amuṃ mā na vadhiṣṭe"ti rāmo'vādīt tataḥ kapīn. Bhk_15.41
+
+te vyarāsiṣurāhvanta rākṣasaṃ cā 'pyapiplavan,
+ababhāsan svakāḥ śaktīr, druma-śailaṃ vyakāriṣuḥ Bhk_15.42
+
+te taṃ vyāśiṣatā 'kṣautsuḥ pādair, dantais tathā 'cchidan.
+ārjijat śarabho vṛkṣaṃ, nīlas tvā ''dita parvatam. Bhk_15.43
+
+ṛṣabho 'drīnudakṣaipsīt, te tairarimatardiṣuḥ.
+asphūrjīd, giri-śṛṅgaṃ ca vyasrākṣīd gandhamādanaḥ, Bhk_15.44
+
+akūrdiṣṭa, vyakārīc ca gavākṣo bhū-dharān bahūn.
+sa tān nā'jīgaṇad vīraḥ kumbhakarṇo'vyathiṣṭa na. Bhk_15.45
+
+amanthīc ca parā'nīkamaploṣṭa ca niraṅkuśaḥ,
+nihantuṃ cā'tvariṣṭā'rīnajakṣīc cā'ṅkamāgatān. Bhk_15.46
+
+vyakrukṣad vānarā'nīkaṃ, saṃpalāyiṣṭa cā''yati,
+hastābhyāṃ naśyadakrākṣīd, bhīme copādhitā''nane. Bhk_15.47
+
+raktenā 'ciklidad bhūmiṃ, sainyaiś cā 'tastaraddhataiḥ,
+nā 'tārpsīd bhakṣayan krūro, nā 'śramad ghnan plavaṅgamān, Bhk_15.48
+
+na yoddhumaśakan kecin, nā 'ḍhaukiṣata kecana,
+prāṇaśan nāsikābhyāṃ ca, vaktreṇa ca vanaukasaḥ. Bhk_15.49
+
+udare cā 'jarannanye tasya pātāla-sannibhe,
+ākrandiṣuḥ, sakhīnāhvan, prapalāyiṣatā'svidan. Bhk_15.50
+
+raktamaścyotiṣuḥ kṣuṇṇāḥ, kṣatāś ca kapayo'tṛṣan,
+upāsthāyi nṛpo bhagnairasau sugrīvamaijihat. Bhk_15.51
+
+yoddhuṃ so pyaruṣacchatrorairirac ca mahā-drumam.
+taṃ prāptaṃ prāsahiṣṭā'riḥ, śaktiṃ cogrāmudagrahīt. Bhk_15.52
+
+sa tāmabibhramad bhīmāṃ, vānarendrasya cā 'mucat.
+prāpaptan mārutis tatra tāṃ cā 'lāsīd viyad-gatām. Bhk_15.53
+
+aśobhiṣṭā'cakhaṇḍac ca śaktiṃ vīro, na cā 'yasat.
+lauha-bhāra-sahasreṇa nirmitā nirakāri me Bhk_15.54
+
+śaktiratyakupad rakṣo, giriṃ codakhanīd gurum,
+vyasṛṣṭa taṃ kapī-ndrasya, tenā'mūrcchīdasau kṣataḥ. Bhk_15.55
+
+aloṭhiṣṭa ca bhū-pṛṣṭhe, śoṇitaṃ cā 'pyasusruvat,
+tamādāyā'palāyiṣṭa, vyarociṣṭa ca rākṣasaḥ. Bhk_15.56
+
+abhaiṣuḥ kapayo, 'nvārat kumbhukarṇaṃ marut-sutaḥ,
+śanairabodhi sugrīvaḥ, so'luñcīt karṇa-nāsikam Bhk_15.57
+
+rākṣasasya, na cā 'trāsīt, pranaṣṭumayatiṣṭa ca.
+akrodhi kumbhakarṇena, peṣṭumārambhi ca kṣitau. Bhk_15.58
+
+sugrīvo 'syā 'bhraśaddhastāt, samagāhiṣṭa cā 'mbaram,
+tūrṇamanvasṛpad rāma- mānanandac ca vānarān. Bhk_15.59
+
+atatvarac ca tān yoddhumaciceṣṭac ca rāghavau.
+kumbhakarṇo nyavartiṣṭa, raṇe'yutsanta vānarāḥ. Bhk_15.60
+
+aviveṣṭan nṛpā''deśādārukṣaṃś cā''śu rākṣasam
+tānadhāvīt samārūḍhāṃs te 'pyusraṃsiṣatā ''kulāḥ. Bhk_15.61
+
+agrasiṣṭa, vyadhāviṣṭa, samāślikṣac ca nir-dayam.
+te cā 'pyaghoriṣur ghoraṃ, raktaṃ cā 'vamiṣur mukhaiḥ. Bhk_15.62
+
+sa cā'pi rudhirair mattaḥ sveṣāmapyadayiṣṭa na,
+agrahīc cā ''yuranyeṣāmaruddha ca parākramam. Bhk_15.63
+
+saṃtrastānāṃapāhāri sattvaṃ ca vana-vāsinām,
+acchedi lakṣmaṇenā'sya kirīṭaṃ kavacaṃ tathā. Bhk_15.64
+
+abhedi ca śarair dehaḥ prāśaṃsīt taṃ niśā-caraḥ.
+aspardhiṣṭa ca rāmeṇa tenā 'syā 'kṣipsateṣavaḥ, Bhk_15.65
+
+yairaghāni kharo, vālī, mārīco, dūṣaṇas tathā.
+avāmaṃsta sa tān darpāt, prodayaṃsīc ca mudgaram. Bhk_15.66
+
+vāyavyā'streṇa taṃ pāṇiṃ rāmo 'cchaitsīt sahā''yudham,
+ādīpi taru-hasto 'sā- vadhāvīc cā 'ri-saṃmukham. Bhk_15.67
+
+sa-vṛkṣamacchidat tasya śakrā'streṇa karaṃ nṛpaḥ,
+jaṅghe cā 'śīśatad bāṇairaprāsīdiṣubhir mukham. Bhk_15.68
+
+aindreṇa hṛdaye 'vyātsīt, so 'dhyavātsīc ca gāṃ hataḥ.
+apikṣātāṃ sahasre dve tad-dehena vanaukasām. Bhk_15.69
+
+astāviṣuḥ surā rāmaṃ, diśaḥ prāpan niśā-carāḥ,
+bhūrakampiṣṭa sā'drīndrā, vyacālīdambhasāṃ patiḥ. Bhk_15.70
+
+hataṃ rakṣāṃsi rājānaṃ kumbhakarṇamaśiśravan,
+arodīd rāvaṇo 'śocīn, mohaṃ cā 'śiśriyat param. Bhk_15.71
+
+apaprathad guṇān bhrāturacikīrtac ca vikramam,
+"kruddhena kumbhakarṇena ye 'dirṣiśata śatravaḥ Bhk_15.72
+
+kathaṃ nvajīviṣus te ca, sa cā 'mṛta mahā-balaḥ."
+ayuyutsiṣatā ''śvāsya kumārā rāvaṇaṃ tataḥ Bhk_15.73
+
+devāntako 'tikāyaś ca triśirāḥ sa narāntakaḥ
+te cāṃ''hiṣata saṃgrāmaṃ balino rāvaṇā''tmajāḥ. Bhk_15.74
+
+yuddhonmattaṃ ca mattaṃ ca rājā rakṣārthamāñjihat
+sutānāṃ, niragātāṃ tau rākṣasau raṇa-paṇḍitau. Bhk_15.75
+
+tairajeṣata sainyāni, dviṣo 'kāriṣatā ''kulāḥ
+parvatāniva te bhūmāvacaiṣur vānarottamān. Bhk_15.76
+
+aṅgadena samaṃ yoddhumaghaṭiṣṭa narāntakaḥ,
+praiṣiṣad rākṣasaḥ prāsaṃ, so 'sphoṭīdaṅgadorasi. Bhk_15.77
+
+aśvān vāli-suto 'hiṃsīdatatāḍac ca muṣṭinā.
+rāvaṇiś cā 'vyatho yoddhumārabdha ca mahīṃ gataḥ. Bhk_15.78
+
+tasyā 'hāriṣata prāṇā muṣṭinā vāli-sūnunā.
+prādudruvaṃs tataḥ kruddhāḥ sarve rāvaṇayo'ṅgadam. Bhk_15.79
+
+tato nīla-hanūmantau rāvaṇīnavaveṣṭatām,
+akāriṣṭāṃ girīṃs tuṅgānarautsīt triśirāḥ śaraiḥ Bhk_15.80
+
+parigheṇā 'vadhiṣṭā 'tha raṇe devāntako balī,
+muṣṭinā 'dadarat tasya mūrdhānaṃ mārutā''tmajaḥ. Bhk_15.81
+
+adīdipat tato vīryaṃ, nīlaṃ cā'pīpiḍac charaiḥ
+yuddhonmattas, tu nīlena giriṇā'nāyi saṃkṣayam. Bhk_15.82
+
+ababhrājat tataḥ śaktiṃ triśirāḥ pavanā''tmaje,
+hanūmatā kṣatās tasya raṇe 'mṛṣata vājinaḥ. Bhk_15.83
+
+asrasac cā''hato mūrdhni, khaḍgaṃ cā 'jīharad dviṣā,
+prāṇānaujjhīc ca khaḍgena chinnais tenaiva mūrdhabhiḥ. Bhk_15.84
+
+mattenā 'māri saṃprāpya śarabhā'stāṃ mahā-gadām,
+sahasra-hariṇā 'krīḍīdatikāyas tato raṇe. Bhk_15.85
+
+rathenā 'vivyathac cā'rīn, vyacārīc ca ni-raṅkuśaḥ,
+vibhīṣaṇena so 'khyāyi rāghavasya mahā-rathaḥ. Bhk_15.86
+
+"atastambhadayaṃ vajraṃ, svayambhuvamatūtuṣat,
+aśikṣiṣṭa mahā'strāṇi, raṇe 'rakṣīc ca rākṣasān. Bhk_15.87
+
+adyagīṣṭā 'rtha-śāstrāṇi, yamasyā 'hnoṣṭa vikramam,
+devā''haveṣvadīpiṣṭa, nā 'janiṣṭā 'sya sādhvasam. Bhk_15.88
+
+eṣa rāvaṇirāpādi vānarāṇāṃ bhayaṅkaraḥ"
+āhvatā 'tha sa kākutsthaṃ dhanuś cā 'pusphurad guru. Bhk_15.89
+
+saumitriḥ sarpa-vat siṃhamārdidat taṃ mahā''have.
+tau prāvīvṛtatāṃ jetuṃ śara-jālānyanekaśaḥ. Bhk_15.90
+
+acchaittāṃ ca mahā''tmānau, ciramaśramatāṃ na ca,
+tathā tāvāsthatāṃ bāṇānatāniṣṭāṃ tamo yathā. Bhk_15.91
+
+sauryā''gneye vyakāriṣṭāmastre rākṣasa-lakṣmaṇau,
+te copāgamatā nāśaṃ samāsādya parasparam Bhk_15.92
+
+abibhrajat tataḥ śastramaiṣīkaṃ rākṣaso raṇe,
+tadapyadhvasadāsādya māhendraṃ lakṣmaṇeritam. Bhk_15.93
+
+tataḥ saumitrirasmārṣīdadeviṣṭa ca dur-jayam
+brahmā'straṃ, tena mūrdhānamadadhvaṃsan nara-dviṣaḥ. Bhk_15.94
+
+tato 'krandīd daśagrīvas tamāśiśvasadindrajit,
+nirayāsīc ca saṃkruddhaḥ, prārcicac ca svayambhuvam. Bhk_15.95
+
+ahauṣīt kṛṣṇavartmānaṃ, samayaṣṭā 'stra-maṇḍalam,
+so 'labdha brahmaṇaḥ śastraṃ syandanaṃ ca jayā''vaham. Bhk_15.96
+
+tamadhyāsiṣṭa dīprā'gramamodiṣṭa ca rāvaṇiḥ
+channa-rūpas tato 'kartīd dehān rāvaṇa-vidviṣām. Bhk_15.97
+
+sapta-ṣaṣṭiṃ plavaṅgānāṃ koṭīr bāṇairasūṣupat.
+niśā'nte rāvaṇiḥ kruddho rāghavau ca vyamūmuhat. Bhk_15.98
+
+apisphavat sva-sāmarthyamagūhīt sāyakair diśaḥ,
+aghorīc ca mahā-ghoraṃ, gatvā, praiṣīc ca rāvaṇam. Bhk_15.99
+
+vibhīṣaṇas tato 'bodhi sa-sphurau rāma-lakṣmaṇau,
+apārīt sa gṛhītolko hata-śeṣān plavaṅgamān. Bhk_15.100
+
+"mā śociṣṭa, raghu-vyāghrau nā'mṛṣātāmiti bruvan
+avābuddha sa nīlā''dīn nihatān kapi-yūtha-pān. Bhk_15.101
+
+tatraiṣaj jāmbavān prāṇīdudamīlīc ca locane,
+paulastyaṃ cā'gadīt "kaccidajīvīn mārutā''tmajaḥ." Bhk_15.102
+
+tasya kṣeme mahā-rāja ! nā 'mṛṣmahyakhilā vayam.
+paulastyo 'śiśravat taṃ ca jīvantaṃ pavanā''tmajam. Bhk_15.103
+
+āyiṣṭa mārutis tatra, tau cā 'pyahṛṣatāṃ tataḥ,
+prāhaiṣṭāṃ himavat-pṛṣṭhe sarvauṣadhi-giriṃ tataḥ Bhk_15.104
+
+tau hanūmantamānetumoṣadhīṃ mṛta-jīvinīm
+sandhāna-karaṇīṃ cā'nyāṃ vi-śalya-karaṇīṃ tathā. Bhk_15.105
+
+prodapāti nabhas tena, sa ca prāpi mahā-giriḥ,
+yasminnajvaliṣū rātrau mahauṣadhyaḥ sahasra-śaḥ Bhk_15.106
+
+niracāyi yadā bhedo nauṣadhīnāṃ hanū-matā,
+sarva eva samāhāri tadā śailaḥ mahauṣadhiḥ. Bhk_15.107
+
+prāṇiṣur nihatāḥ kecit, kecit tu prodamīliṣuḥ
+tamo 'nye 'hāsiṣur yodhā, vyajṛmbhiṣata cā'pare. Bhk_15.108
+
+ajighrapaṃs tathaivā'nyānoṣadhīrālipaṃs tathā,
+evaṃ te'cetiṣuḥ sarve, vīryaṃ cā'dhiṣatā'dhikam. Bhk_15.109
+
+ajihladat sa kākutsthau, śeṣāṃś cā 'jījivat kapīn
+hanūmānatha te laṅkā- magninā 'dīdipan drutam. Bhk_15.110
+
+samanātsīt tataḥ sainyamamārjīd bhalla-tomaram,
+amārkṣīc cā 'sipatrā''dīnababhāsat paraśvadhān. Bhk_15.111
+
+kumbhakarṇa-sutau tatra samanaddhāṃ mahā-balau
+nikumbhaś caiva kumbhaś ca, prāpatāṃ tau plavaṅgamān. Bhk_15.112
+
+agopiṣṭāṃ purīṃ laṅkāmagauptāṃ rakṣasāṃ balam,
+atyāktāmāyudhā'nīkamanaiṣṭāṃ ca kṣayaṃ dviṣaḥ. Bhk_15.113
+
+akokūyiṣṭa tat sainyaṃ, prapalāyiṣṭa cā''kulam,
+acyutac ca kṣataṃ raktaṃ, hataṃ cā 'dhyaśayiṣṭa gām. Bhk_15.114
+
+aṅgadenā 'hasātāṃ tau yudhyakampana-kampanau,
+abhyārdīd vālinaḥ putraṃ prajaṅgho 'pi sa-matsaraḥ. Bhk_15.115
+
+tasyā 'pyabebhidiṣṭā 'sau mūrdhānaṃ muṣṭinā 'ṅgadaḥ,
+ahārṣīc ca śiraḥ kṣipraṃ yūpākṣasya nirākulaḥ. Bhk_15.116
+
+śarīraṃ lohitākṣasya nyabhāṅkṣīd dvividas tadā,
+kruddhaḥ kumbhas tato 'bhaitsīn maindaṃ sa-dvividaṃ śaraiḥ Bhk_15.117
+
+āghūrṇiṣṭāṃ kṣatau, kṣmāṃ ca tāvāśiśriyatāmubhau.
+mātulau vihvalau dṛṣṭvā kumbhaṃ vāli-suto nagaiḥ Bhk_15.118
+
+praurṇāvīc, chara-varṣeṇa tānaprauhīn niśā-caraḥ.
+vānarānaijihad rāmasya tūrṇaṃ rakṣitumaṅgadam. Bhk_15.119
+
+drutamatrāsta sugrīvo bhrātṛvyaṃ ṣatru-saṃkaṭāt,
+muṣṭinā kaumbhakarṇiṃ ca kruddhaḥ prāṇairatityajat. Bhk_15.120
+
+nikumbho vānarendrasya prāhaiṣīt parighaṃ tataḥ,
+hanūmāṃś cā ''patantaṃ tamabhāṅkṣīd bhogi-bhīṣaṇam. Bhk_15.121
+
+praurṇuvīt tejasā'rātimarāsīc ca bhayaṃkaram,
+grīvāṃ cā 'sya tathākrākṣīdajijīvad yathā na tam. Bhk_15.122
+
+samagatakapi-sainyaṃ sammadenā 'timātraṃ, viṭapa-hariṇa-nāthaḥ siddhimauhiṣṭa nityām,
+nṛ-pati-matiraraṃsta prāpta-kāmeva harṣāt, rajani-cara-patīnāṃ santato 'tāyi śokaḥ. Bhk_15.123
+
+bhk_16
+
+tataḥ prarudito rājā rakṣasāṃ hata-bāndhavaḥ
+"kiṃ kariṣyāmi rājyena, sītayā kiṃ kariṣyate Bhk_16.1
+
+atikāye hate vīre protsahiṣye na jīvitum.
+hrepayiṣyati kaḥ śatrūn, kena jāyiṣyate yamaḥ. Bhk_16.2
+
+atikāyād vinā pāśyaṃ ko vā chetsyati vāruṇam,
+rāvaṇaṃ maṃsyate ko vā, svayambhūḥ kasya tokṣyati. Bhk_16.3
+
+ślāghiṣye kena, ko bandhūn neṣyatyunnatimunnataḥ,
+kaḥ preṣyati pit n kāle, kṛtvā kitthaṣyate na kaḥ. Bhk_16.4
+
+udyaṃsyati harir vajraṃ, vicariṣyati nir-bhayaḥ,
+bhokṣyate yajña-bhāgāṃś ca śūra-mānaṃ ca vakṣyati. Bhk_16.5
+
+ravis tapsyati niḥ-śaṅkaṃ, vāsyatyaniyataṃ marut,
+nirvartsyatyṛtu-saṃghātaḥ, svecchayendurudeṣyati. Bhk_16.6
+
+tīvraṃ syandiṣyate meghairugraṃ vartiṣyate yamaḥ,
+atikāyasya maraṇe kiṃ kariṣyanti nā'nyathā. Bhk_16.7
+
+anmīliṣyati cakṣur me vṛthā, yad vinayā''gatam
+ājñā-lābhonmukhaṃ namraṃ na drakṣyati narāntakam. Bhk_16.8
+
+dhiṅ māṃ, triśirasā nā 'haṃ sandarśiṣye 'dya yat punaḥ,
+ghāniṣyante dviṣaḥ kena tasmin pañcatvamāgate. Bhk_16.9
+
+śatrubhir nihate matte drakṣye 'haṃ saṃyuge sukham,
+yuddhonmattād vinā śatrūn samāskantsyati ko raṇe. Bhk_16.10
+
+āhvāsyate vi-śaṅko māṃ yotsyamānaḥ śata-kratuḥ,
+prakalpsyati ca tasyā 'rtho nikumbe dur haṇe hate Bhk_16.11
+
+kalpiṣyate hareḥ prītir, laṅkā copahaniṣyate,
+devāntaka ! tvayā tyakto ripor yāsyāmi vaśyatām. Bhk_16.12
+
+mariṣyāmi, vijeṣye vā, hatāś cet tanayā mama,
+haniṣyāmi ripūṃs tūrṇaṃ, na jīviṣyāmi duḥkhitaḥ Bhk_16.13
+
+smeṣyante munayo, devāḥ kathayiṣyanti cā'niśam
+"daśa-grīvasya dur-nīter vinaṣṭaṃ rakṣasāṃ kulam." Bhk_16.14
+
+kena sambhāvitaṃ tātakumbhakarṇasya rāghavaḥ
+raṇe kartsyati gātrāṇi marmāṇi ca vitartsyati. Bhk_16.15
+
+patiṣyati kṣitau bhānuḥ, pṛthivī tolayiṣyate.
+nabhasvān bhaṅkṣyate vyoma muṣṭibhis tāḍayiṣyate. Bhk_16.16
+
+indroḥ syandiṣyate vahniḥ, samuccokṣyati sāgaraḥ,
+jalaṃ dhakṣyati, tigmāṃśoḥ syantyanti tamasāṃ cayāḥ. Bhk_16.17
+
+kumbhakarṇo raṇe puṃsā kruddhaḥ paribhaviṣyate
+saṃbhāvitāni naitāni kadācit kenacij jane. Bhk_16.18
+
+kumbhakarṇe hate laṅkā- mārokṣyanti plavaṅgamāḥ,
+daṅkṣyanti rākṣasān, dṛptā bhaṅkṣyanti ca mamā ''śramān. Bhk_16.19
+
+cartsyanti bāla-vṛddhāṃś ca, nartsyanti ca mudā yutāḥ
+tena rākṣasa-mukhyena vinā tān ko nirotsyati. Bhk_16.20
+
+amarṣo me paraḥ, sītāṃ rāghavaḥ kāmayiṣyate,
+cyuta-rājyāt sukhaṃ tasmāt kiṃ kilā 'sāvavāpsyati. Bhk_16.21
+
+mārayiṣyāmi vaidehīṃ, khādayiśyāmi rākṣasaiḥ,
+bhūmau vā nikhaniṣyāmi vidhvaṃsasyā 'sya kāraṇam Bhk_16.22
+
+nā 'nurotsye jagal-lakṣmīṃ, ghaṭiṣye jīvituṃ na vā
+na raṃsye viṣayaiḥ śūnye bhavane bāndhavairaham. Bhk_16.23
+
+modiṣye kasya saukhye 'haṃ, ko me modiṣyate sukhe,
+ādeyāḥ kiṃkṛte bhogāḥ kumbhakaṛṇa ! tvayā vinā. Bhk_16.24
+
+yāḥ suhṛtsu vipanneṣu māmupaiṣyanti saṃpadaḥ,
+tāḥ kiṃ manyu-kṣatā''bhogā na vipatsu vipattayaḥ. Bhk_16.25
+
+"vinaṅkṣyati purī kṣipraṃ, tūrṇameṣyanti vānarāḥ,
+a-sandhitsos tave"tyetad vibhīṣaṇa-subhāṣitam. Bhk_16.26
+
+"arthena saṃbhṛtā rājñā na bhāṣiṣyāmahe vayam,
+saṃyotsyāmaha," ityetat prahastena ca bhāṣitam. Bhk_16.27
+
+mānuṣo nāma patkāṣī rājānaṃ puruṣā'śinām
+yodhayiṣyati saṃgrāme divyā'stra-ratha-durjayam. Bhk_16.28
+
+sannatsyāmyathavā yoddhuṃ, na koṣye sattva-hīna-vat,
+adya taprsyanti māṃsā'dā, bhūḥ pāsyatyari-śoṇitam. Bhk_16.29
+
+ākarkṣyāmi yaśaḥ, śatrūnapaneṣyāmi karmaṇā,
+anubhāviṣyate śoko maithilyā 'dya pati-kṣayāt. Bhk_16.30
+
+mantūyiṣyati yakṣendro, valgūyiṣyati no yamaḥ,
+glāsyantya-pati-putrāś ca vane vānara-yoṣitaḥ. Bhk_16.31
+
+sukhaṃ svapsyanti rakṣāṃsi, bhramiṣyanti ca nirbhayam,
+na vikrokṣyanti rākṣasyo, narāṃś cā 'tsyanti harṣitāḥ. Bhk_16.32
+
+prāṅ muhūrtāt prabhāte'haṃ bhaviṣyāmi dhruvaṃ sukhī
+āgāmini, tataḥ kāle yo dvitīyaḥ kṣaṇo'paraḥ Bhk_16.33
+
+tatra jetuṃ gamiṣyāmi tridaśendraṃ sahā'maram,
+tataḥ pareṇa bhūyo 'pi laṅkāmeṣyāmyamatsaraḥ" Bhk_16.34
+
+tameva-vādinaṃ mūḍhamindrjit samupāgataḥ
+"yuyutsiṣye 'hamityevaṃ vadan ripu-bhayaṃkaraḥ. Bhk_16.35
+
+nā 'bhijñā te mahārāja !, jeṣyāvaḥ śakra-pālitam
+dṛpta-deva-guṇā''kīrṇa- māvāṃ saha surā''layam, Bhk_16.36
+
+nā 'bhijñā te, sa-yakṣendraṃ bhaṅkṣyāvo yad yamaṃ balāt,
+ratnāni cā ''hariṣyāvaḥ, prāpsyāvaś ca purīmimām. Bhk_16.37
+
+eṣa pekṣyāmyarīn bhūyo, na śociṣyasi rāvaṇa !
+jagad drakṣyasi nī-rāmamavagāhiṣyase diśaḥ. Bhk_16.38
+
+saha-bhṛtyaḥ surā''vāse bhayaṃ bhūyo vidhāsyasi
+praṇaṃsyatyadya devendras tvāṃ, vakṣyati sa sannatim. Bhk_16.39
+
+bheṣyate munibhis tvattas tvamadhiṣṭhāsyasi dviṣaḥ,
+jñāsye 'hamadya saṃgrāme samastaiḥ śūra-mānibhiḥ. Bhk_16.40
+
+jñāyiṣyante mayā cā 'dya vīraṃ-manyā dviṣad-gaṇāḥ,
+gūhiṣyāmi kṣitiṃ kṛttai- radya gātrair vanākasām. Bhk_16.41
+
+ārokṣyāmi yugānta-vārida-ghaṭā- saṃghaṭṭa-dhīra-dhvaniṃ niryāsyan rathamacchrita-dhvaja-dhanuḥ- khaḍga-prabhā-bhāsuram.
+śroṣyasyadya vikīrṇa-vṛkṇa-vimukha- vyāpanna-śatrau raṇe tṛptāṃś choṇita-śoṇa-bhīṣaṇamukhān kravyā'śinaḥ krośataḥ." Bhk_16.42
+
+bhk_17
+
+āśāsata tataḥ śāntimasnuragnīnahāvayan,
+viprānavācayan yodhāḥ, prākkurvan maṅgalāni ca. Bhk_17.1
+
+apūjayan kula-jyeṣṭhānupāgūhanta bālakān.
+strīḥ samāvardhayan sā'srāḥ, kāryāṇi prādiśaṃs tathā. Bhk_17.2
+
+ācchādayan, vyalimpaṃś ca, prāśnannatha surā''miṣam,
+prāpiban madhu-mādhvīkaṃ bhakṣyāṃś cā ''dan yathepsitān Bhk_17.3
+
+nyaśyan śastrāṇyabhīṣṭāni, samanahyaṃś ca varmabhiḥ,
+adhyāsata su-yāgāni, dviṣadbhyaś cā 'śapaṃs tathā. Bhk_17.4
+
+apūjayaṃś catur-vaktraṃ, viprānārcaṃs tathā 'stuvan,
+samālipata śakrā'rir yānaṃ cā 'bhyalaṣad varam. Bhk_17.5
+
+āmuñcad varma ratnā''ḍhyamabadhnāt khaḍgamujjlvalam,
+adhyāsta syandanaṃ ghoraṃ, prāvartata tataḥ puraḥ Bhk_17.6
+
+āghnan bherīr mahā-svānāḥ, kambūṃś cā 'pyadhaman śubhān,
+atāḍayan mṛdaṅgāṃś ca, perāś cā 'pūrayan kalāḥ. Bhk_17.7
+
+astuvan bandinaḥ, śabdānanyonyaṃ codabhāvayan,
+anadan siṃhanādāṃś ca, prādrekata haya-dvipam. Bhk_17.8
+
+a-nimittānyathā 'paśyannasphuṭad ravi-maṇḍalam,
+aukṣan śoṇitamambhodā, vāyavo'vānsu-duḥsahāḥ. Bhk_17.9
+
+ārcchan vāmaṃ mṛgāḥ kṛṣṇāḥ, śastrāṇāṃ vyasmaran bhaṭāḥ,
+raktaṃ nyaṣṭhīvadaklāmya- dakhidyad vāji-kuñjaram. Bhk_17.10
+
+na tānagaṇayan sarvānāskandaṃś ca ripūn, dviṣaḥ
+acchindannasibhis tīkṣṇairabhindaṃs tomarais tathā Bhk_17.11
+
+nyakṛntaṃś cakra-dhārābhiratudan śaktibhir dṛḍham,
+bhallairavidhyannugrā'grairatṛṃhaṃs tomarairalam. Bhk_17.12
+
+āsyan plavaṅgamā vṛkṣānadhunvan bhū-dharair bhṛśam,
+ahiṃsan muṣṭibhiḥ kroghādadaśan daśanairapi. Bhk_17.13
+
+prādunvan jānubhis tūrṇamatudaṃs tala-kūrparaiḥ,
+prāhiṇvannari-muktāni śastrāṇi vividhāni ca. Bhk_17.14
+
+atṛṇeṭ śakra-jic chatrūnabhrāmyac ca samantataḥ,
+adhvanac ca mahā-ghoraṃ, na ca kaṃcana nā'dunot. Bhk_17.15
+
+nā'jānan sandadhānaṃ taṃ, dhanur naikṣanta bibhratam
+neṣūnacetannasyantaṃ, hatās tenā 'vidur dviṣaḥ. Bhk_17.16
+
+aśṛṇvannanyataḥ śabdaṃ, prapalāyanta cā 'nyataḥ,
+ākrandamanyato'kurvaṃs tenā 'hanyanta cā'nyataḥ. Bhk_17.17
+
+prāloṭhanta, vyabhidyanta, parito raktamasravan,
+paryaśrāmyannatṛpyaṃś ca kṣatās tenā 'mriyanta ca. Bhk_17.18
+
+saumitrirākulas tasmin brahmā'straṃ sarva-rakṣasām
+nidhanāyā ''juhūṣat taṃ vyṣṭabhnād raghu-nandanaḥ. Bhk_17.19
+
+tato māyā-mayīṃ sītāṃ ghnan khaḍgena viyad-gataḥ
+adṛśyatendrajid, vākyamavadat taṃ marut-sutaḥ. Bhk_17.20
+
+"mā 'parādhnodiyaṃ kiṃcidabhraśyat patyurantikāt
+sītāṃ rākṣasa ! mā smaināṃ nigṛhṇāḥ pāpa ! duḥkhitām" Bhk_17.21
+
+"pīḍā-karama-mitrāṇāṃ kartavyamiti śakrajit
+abravīt, khaḍga-kṛṣṭaś ca tasyā mūrdhānamacchinat. Bhk_17.22
+
+"yat-kṛte 'rīn vyagṛhṇīma, samudramatarāma ca,
+sā hate"ti vadan rāmamupātiṣṭhan marut-sutaḥ. Bhk_17.23
+
+tataḥ prāmuhyatāṃ vīrau rāghavāvarutāṃ tathā,
+uṣṇaṃ ca prāṇatāṃ dīrghamuccair vyākrośatāṃ tathā. Bhk_17.24
+
+tāvabhāṣata paulastyo "mā sma praruditaṃ yuvām,
+dhruvaṃ sa mohayitvā'smān pāpo'gacchannikumbhilām. Bhk_17.25
+
+mā sma tiṣṭhata, tatra-stho vadhyo 'smāva-hutā'nalaḥ,
+astre brahma-śirasyugre syandane cā 'nupārjite. Bhk_17.26
+
+brahmā 'dadhād vadhaṃ tasya tasmin karmaṇyasaṃsthite"
+prāyacchadājñāṃ saumitrer yuthapānāṃ ca rāghavaḥ. Bhk_17.27
+
+tāṃ pratyaicchan su-saṃpritās tatas te sa-vibhīṣaṇāḥ,
+nikumbhilāṃ samabhyāyan, nyarudhyanta ca rākṣasaiḥ Bhk_17.28
+
+dik-pālaiḥ kadanaṃ tatra sene prākurutāṃ mahat,
+aitāṃ rakṣāṃsi nirjitya drutaṃ paulastya-lakṣmaṇau, Bhk_17.29
+
+tatrendrajitamaikṣetāṃ kṛta-dhiṣṇyaṃ samāhitam.
+so 'juhot kṛṣṇavartmānamāmanan mantramuttamam. Bhk_17.30
+
+adhyāyac chakrajid brahma, samādheracalan na ca.
+tamāhvayata saumitriragarjac ca bhayaṃkaram. Bhk_17.31
+
+akupyadindrajit tatra, pitṛvyaṃ cā'gadad vacaḥ
+"tvamatrā 'jāyathā, deha ihā 'puṣyat surā'miṣaiḥ, Bhk_17.32
+
+ihā 'jīva, ihaiva tvaṃ krūramārabhathāḥ katham,
+nā'paśyaḥ pāṇimārdraṃ tvaṃ, bandhu-tvaṃ nā'pyapaikṣathāḥ. Bhk_17.33
+
+a-dharmān nā 'trasaḥ pāpa ! loka-vādān na cā 'bibheḥ,
+dharma-duṣaṇa ! nūnaṃ tvaṃ nā 'jānā, nā 'śṛṇoridam. Bhk_17.34
+
+nirākṛtya yathā bandhūn laghu-tvaṃ yātya-saṃśayam."
+pitṛvyeṇa tato vākyamabhyadhīyata śakrajit Bhk_17.35
+
+"mithyā mā sma vyatikrāmo, macchīlaṃ mā na badhyathāh
+satyaṃ samabhavaṃ vaṃśe pāpānāṃ rakṣasāmaham. Bhk_17.36
+
+na tvajāyata me śīlaṃ tādṛk, yādṛk pitus tava.
+kṣayā''vaheṣu doṣeṣu vāryamāṇo mayā 'ramat Bhk_17.37
+
+daśa-grīvaṃ 'hametasmādatyajaṃ, na tu vidviṣan.
+para-svānyārjayan, nārīranyadīyāḥ parāmṛśat. Bhk_17.38
+
+vyajighṛkṣat surān nityaṃ, prāmādyad guṇināṃ hite,
+āśaṅkata suhṛd-bandhūna-vṛddhān bahvamanyata. Bhk_17.39
+
+doṣairaramataibhis te pitā 'tyajyata yair mayā.
+tato-ruṣyadanardac ca, dvi-viṃśatibhireva ca Bhk_17.40
+
+śarairatāḍayad bandhuṃ, pañca-viṃśatibhir nṛpam
+rāvaṇis tasya saumitriramathnāc caturo hayān. Bhk_17.41
+
+sāgarathiṃ cā 'lunād bāṇairabhanak syandanaṃ tathā,
+saumitrimakirad bāṇaiḥ parito rāvaṇis tataḥ. Bhk_17.42
+
+tāvasphāvayatāṃ śāktiṃ, bāṇāṃś cā'kiratāṃ muhuḥ.
+vāruṇaṃ lakṣmaṇo'kṣipyadakṣipad raudramindrajit. Bhk_17.43
+
+te parasparamāsādya śastre nāśamagacchatām,
+āsuraṃ rākṣasaḥ śastraṃ tato ghoraṃ vyasarjayat, Bhk_17.44
+
+tasmān nirapatad bhūri śilā-śūleṣṭi-mudgaram.
+māheśvareṇa saumitrirastabhnāt tat sudurjayam. Bhk_17.45
+
+tato raudra-samāyuktaṃ māhendraṃ lakṣmaṇo'smarat,
+tenā''gamyata ghoreṇa, śiraś cā 'hriyata dviṣaḥ Bhk_17.46
+
+atuṣyannamarāḥ sarve, prāhṛṣyan kapi-yūthapāḥ,
+paryaṣvajata saumitriṃ, mūrdhnyajighrac ca rāghavaḥ. Bhk_17.47
+
+arodīd rākṣasā'nīkamarodan nṛ-bhujāṃ patiḥ,
+maithilyai cā 'śapaddhantuṃ tāṃ prākramata cā''turaḥ. Bhk_17.48
+
+"a-yuktamidam" tyanye tamāptāḥ pratyavārayan,
+nyarundhaṃś cā 'sya panthānaṃ bandhutā śucamāruṇat. Bhk_17.49
+
+āsphāyatā 'sya vīratvamamarṣaś cā 'pyatāyata
+rāvaṇasya tataḥ sainyaṃ samastamayuyutsayat. Bhk_17.50
+
+agnīnavarivasyaṃś ca te, 'namasyaṃś ca śaṅkaram,
+dvijānaprīṇayan śāntyai yātudhānā bhavad-bhiyaḥ. Bhk_17.51
+
+paritaḥ paryavād vāyurājya-gandhir mano-ramaḥ,
+aśrūyata sa puṇyāhaḥ svasti-ghoṣaḥ samuccaran. Bhk_17.52
+
+yoddhāro 'bibharuḥ śāntyai sā'kṣataṃ vāri mūrdhabhiḥ,
+ratnāni cā 'dadur gāś ca, samavāñchannathā''śiṣaḥ. Bhk_17.53
+
+adihaṃś candanaiḥ śubhrair, vicitraṃ samavastrayan,
+adhārayan srajaḥ kāntā, varma cā 'nye 'dadhur drutam. Bhk_17.54
+
+samakṣṇuvata śastrāṇi, prāmṛjan khaḍga-saṃhatīḥ,
+gajā''dīni samārohan, prātiṣṭhantā ''tha satvarāḥ Bhk_17.55
+
+apūrayan nabhaḥ śabdo bala-saṃvarta-saṃbhavaḥ
+apūryanta ca dig-bhāgās tumulais tūrya-nisvanaiḥ. Bhk_17.56
+
+āsīd dvāreṣu saṃghaṭṭo rathā'śva-dviparakṣasām
+samahāna-nimittaiś ca samabhūyata bhīṣaṇaiḥ Bhk_17.57
+
+kapayo 'bibhayus tasminnabhañjaṃś ca mahā-drumān
+prodakhāyan girīṃs tūrṇamagṛhṇaṃś ca mahā-śilāḥ. Bhk_17.58
+
+tataḥ samabhavad yuddhaṃ prāharan kapi-rākṣasāḥ,
+anyonyenā 'bhyabhūyanta, vimardamasahanta ca. Bhk_17.59
+
+prāvardhata rajo bhaumaṃ, tad vyāśnuta diśo daśa,
+parā''tmīya-vivekaṃ ca prāmuṣṇāt kapi-rakṣasām. Bhk_17.60
+
+tato 'dviṣur nirāloke svebhyo 'nyebhyaś ca rākṣasāḥ.
+adviṣan vānarāś caiva vānarebhyo 'pi nirdayāḥ Bhk_17.61
+
+aghuraṃs te mahā-ghoramaścyotannatha śoṇitam,
+samapadyata raktena samantāt tena kardamaḥ. Bhk_17.62
+
+gambhīrāḥ prāvahan nadyaḥ, samajāyanta ca hradāḥ,
+vṛddhaṃ ca tad rajo 'śāmyat, samavedyanta ca dviṣaḥ. Bhk_17.63
+
+tato 'citrīyatā 'straughair dhanuś cā 'dhūnayan mahat
+rāmaḥ, samīhitaṃ tasya nā'cetan sve na cā 'pare. Bhk_17.64
+
+chinnānaikṣanta bhinnāṃś ca samantād rāma-sāyukaiḥ.
+kruṣṭaṃ hāheti cā 'śṛṇvan na ca rāmaṃ nyarūpayan. Bhk_17.65
+
+abhinac chatru-saṃghātānakṣuṇad vāji-kuñjaram,
+apinaṭ ca rathā'nīkaṃ, na cā 'jñāyata saṃcaran. Bhk_17.66
+
+daśa danti-sahasrāṇi rathināṃ ca mahā''tmanām
+caturdaśa sahasrāṇi sā''rohāṇāṃ ca vājinām Bhk_17.67
+
+lakṣe ca dve padātīnāṃ rāghaveṇa dhanur-bhṛtā
+anīyantāṣṭame bhāge divasasya parikṣayam. Bhk_17.68
+
+yama-lokamivā'grathnād, rudrā''krīḍamivā 'karot,
+śailairivā 'cinod bhūmiṃ bṛhadbhī rākṣasair hataiḥ. Bhk_17.69
+
+astuvan deva-gandharvā, vyasmayanta plavaṅgamāḥ
+kapīndre'tanyata prītiḥ, paulastyo'manyatā'dbhutam. Bhk_17.70
+
+rākṣasyaḥ prārudannuccaiḥ, prājugupsanta rāvaṇam.
+amuhyad bāla-vṛddhaṃ ca, samarauditaro janaḥ. Bhk_17.71
+
+sarvataś cā'bhayaṃ prāpnon naicchan nṛbhyas tu rāvaṇaḥ,
+phalaṃ tasyedamabhyāyād duruktasyeti cā 'bruvan. Bhk_17.72
+
+tato 'dhāvan mahā-ghoraṃ rathamāsthāya rāvaṇaḥ,
+akṣmāyata mahī, gṛdhrāḥ samārāryanta bhīṣaṇāḥ. Bhk_17.73
+
+meghāḥ sa-vidyuto 'varṣaṃś cela-knopaṃ ca śoṇitam,
+avān bhīmā nabhasvantaḥ, prāruvanna-śivāḥ śivāḥ Bhk_17.74
+
+āṭāṭyatā 'vamatyā 'sau durnimittāni, saṃyuge
+adhunod dhanurastraughaiḥ praurṇonūyata vidviṣaḥ Bhk_17.75
+
+vyanāśayaṃs tataḥ śatrūn sugrīvā'stā mahībhṛtaḥ,
+tato vyarasadaglāyadadhyśeta mahī-talam. Bhk_17.76
+
+āścyotad rudhiraṃ, toyamalasac cā'ti vihvalam,
+aśīyata nṛ-māṃsā'dāṃ balaṃ sugrīva-bādhitam. Bhk_17.77
+
+virūpākṣas tato krīḍat saṃgrāme matta-hastinā,
+muṣṭinā'dālayat tasya mūrdhānaṃ vānarā'dhipaḥ. Bhk_17.78
+
+acūrṇayac ca yūpākṣaṃ śilayā tadanantaram.
+saṃkruddho muṣṭinā'tubhnādaṅgado'laṃ mahodaram. Bhk_17.79
+
+tato 'kuṣṇād daśagrīvaḥ kruddhaḥ prāṇān vanaukasām,
+agopāyac ca rakṣāṃsi diśaś cā 'rīnabhājayat. Bhk_17.80
+
+ālokayat sa kākutsthamadhṛṣṇod, ghoramadhvanat,
+dhanurabhramayad bhīmamabhīṣayata vidviṣaḥ. Bhk_17.81
+
+āskandal lakṣmaṇaṃ bānairatyakrāmac ca taṃ drutam,
+rāmamabhyadravaj jiṣṇuraskunāc ceṣu-vṛṣṭibhiḥ. Bhk_17.82
+
+apauhad bāṇa-varṣaṃ tad bhallai rāmo nirākulaḥ,
+pratyaskunod daṣa-grīvaṃ śarairāśī-viṣopamaiḥ. Bhk_17.83
+
+maṇḍalānyāṭatāṃ citramacchittāṃ śastra-saṃhatīḥ,
+jagad vismāpayetāṃ tau, na ca vīrāvasīdatām. Bhk_17.84
+
+vyoma prācinutāṃ bāṇaiḥ, kṣmāmakṣmāpayatāṃ gataiḥ,
+abhittāṃ tūrṇamanyonyaṃ śikṣāś cā 'tanutāṃ muhuḥ. Bhk_17.85
+
+samādhattā ''suraṃ śastraṃ rākṣasaḥ krūra-vikramaḥ,
+tadakṣaran mahāsarpān vyāghra-siṃhāṃś ca bhīṣaṇān. Bhk_17.86
+
+nyaṣedhat pāvakā'streṇa rāmas tad rākṣasas tataḥ
+adīvyad raudramatyugraṃ, musalā''dyagalat tataḥ Bhk_17.87
+
+gāndharveṇa nyavidyat tat kṣitīndro, 'tha narā'śanaḥ
+sarva-marmasu kākutstha- maumbhat tīkṣṇaiḥ śilīmukhaiḥ Bhk_17.88
+
+tatas triśirasaṃ tasya prāvṛścal lakṣmaṇo dhvajam,
+amathnāt sārathiṃ cā''śu, bhūribhiś cā 'tudaccharaiḥ. Bhk_17.89
+
+aśvān vibhīṣano 'tubhnāt syandanaṃ cā'kṣiṇod drutam,
+nā'kṣubhnād rākṣaso, bhrātuḥ śaktiṃ codavṛhad gurum. Bhk_17.90
+
+tāmāpatantīṃ saumitris tridhā'kṛntacchilīmukhaiḥ,
+aśabdāyanta paśyantas tataḥ kruddho niśācaraḥ Bhk_17.91
+
+aṣṭa-ghaṇṭāṃ mahā-śaktimudayacchan mahattarām,
+rāmā'nujaṃ tayā 'vidhyat, sa mahīṃ vyasurāśrayat. Bhk_17.92
+
+rāghavasyā'bhṛśāyanta sāyakās, tairupadrutaḥ
+tatas tūrṇaṃ daśagrīvo raṇa-kṣmā paryaśeṣayat. Bhk_17.93
+
+sa-sphurasyodakarṣac ca saumitreḥ śaktimagra-jaḥ,
+asiñcadoṣadhīs tā yāḥ samānītā hanūmatā. Bhk_17.94
+
+udajīvat sumitrā-bhūr bhrātā ''śliṣyata tamāyatam,
+sanyaṅ mūrdhanyupāśiṅgha- dapṛcchac ca nirāmayam Bhk_17.95
+
+tataḥ prodasahan sarve yoddhumabhyadravat parān,
+akṛcchrāyata ca prāpto rathenā 'nyena 'rāvaṇaḥ. Bhk_17.96
+
+"bhūmi-ṣṭhasyā 'samaṃ yuddhaṃ ratha-sthene"ti mātaliḥ
+āharad rathamatyugraṃ sa-śastraṃ maghavā ''jñayā. Bhk_17.97
+
+so 'dhyaṣṭhīyata rāmeṇa, śastraṃ pāśupataṃ tataḥ
+nirāsyata daśā''syas, tacchakrā'streṇājayan nṛpaḥ. Bhk_17.98
+
+tataḥ śata-mahasreṇa rāmaḥ praurṇon niśācaram
+bāṇānāmakṣiṇod dhuryān, sārathiṃ cā'dunod drutam. Bhk_17.99
+
+adṛśyantā 'nimittāni, prāhvalat kṣiti-maṇḍalam,
+rāvaṇaḥ prāhiṇocchūlaṃ, śaktiṃ caindīṃ mahī-patiḥ. Bhk_17.100
+
+tābhyāmanyonyamāsādya samavāpyata saṃśamaḥ,
+lakṣeṇa patriṇāṃ vakṣaḥ kruddho rāmasya rākṣasaḥ Bhk_17.101
+
+astṛṇādadhikaṃ rāmas tato 'devata sāyakaiḥ,
+aklāmyadrāvaṇas, tasya sūto rathamanāśayat. Bhk_17.102
+
+rākṣaso'tarjayat sūtaṃ punaś cā'ḍhaukayad ratham,
+nirāsyetāmubhaubāṇānubhau dhuryānavidhyatām Bhk_17.103
+
+ubhāvakṛntatāṃ ketūnāvyathetāmubhau na tau
+adīpyetāmubhau dhṛṣṇū, prāyuñjātāṃ ca naipuṇam Bhk_17.104
+
+ubhau māyāṃ vyatāyetāṃ, vīrau nā 'śrāmyatāmubhau
+maṇḍalāni vicitrāṇi kṣipramākrāmatāmubhau Bhk_17.105
+
+na cobhāvapyalakṣyetāṃ, yantārāvāhatāmubhau
+syandanau samapṛcyetāmubhayor dīpta-vājinau. Bhk_17.106
+
+tato māyāmayān mūrdhno rākṣaso 'prathayadraṇe,
+rāmeṇaikaśataṃ teṣāṃ prāvṛścyata śilīmukhaiḥ. Bhk_17.107
+
+samakṣubhnannudanvantaḥ, prākampanta mahībhṛtaḥ,
+santrāsamabibhaḥ śakruḥ, praiṃkhacca, kṣubhitā kṣitiḥ. Bhk_17.108
+
+tato mātalinā śastramasmaryata mahīpateḥ
+vadhāya rāvaṇasyograṃ svayambhūr yadakalpayat. Bhk_17.109
+
+nabhasvān yasya vājeṣu, phale tigmāṃśu-pāvakau
+gurutvaṃ meru-saṅkāśaṃ, dehaḥ sūkṣmo viyanmayaḥ. Bhk_17.110
+
+rājitaṃ gāruḍaiḥ pakṣair viśveṣāṃ ghāma tejasām
+smṛtaṃ tad rāvaṇaṃ bhittvā sughoraṃ bhuvyaśāyayat. Bhk_17.111
+
+ābadhnan kapi-vadanāni saṃprasādaṃ, prāśaṃsat sura-samitir nṛpaṃ jitā 'rim,
+anyeṣāṃ vigata-pariplavā digantāḥ, paulastyo'juṣata śucaṃ vipanna-bandhuḥ Bhk_17.112
+
+bhk_18
+
+vyaśnute sma tataḥ śoko nābhi-sambandha-sambhavaḥ
+vibhīṣaṇamasāvuccai roditi sma daśā''nanam. Bhk_18.1
+
+"bhūmau śete daśa-grīvo mahārha-śayanocitaḥ,
+nekṣate vihvalaṃ māṃ ca, na me vācaṃ prayacchati. Bhk_18.2
+
+vipāko'yaṃ daśa-grīva ! saṃdṛṣṭo 'nāgato mayā.
+tvaṃ tenā'bhihitaḥ pathyaṃ kiṃ kopaṃ na niyacchasi. Bhk_18.3
+
+bhajanti vipadas tūrṇamatikrāmanti sampadaḥ
+tān, madān nā'vatiṣṭhante ye mate nyāyavādinām. Bhk_18.4
+
+a-pathyamāyatau lobhādāmanantyanujīvinaḥ
+priyaṃ, śṛṇoti yas tebhyas, tamṛcchanti na sampadaḥ. Bhk_18.5
+
+prājñās tejasvinaḥ samyak paśyanti ca, vadanti ca,
+te'vajñātā mahārāja ! klāmyanti, viramanti, ca. Bhk_18.6
+
+leḍhi bheṣaja-van nityaṃ yaḥ pathyāni kaṭūnyapi,
+tadarthaṃ sevate cā ''ptān, kadācin na sa sīdati. Bhk_18.7
+
+sarvasya jāyate mānaḥ, sva-hitāc ca pramādyati,
+vṛddhau bhajati cā 'pathyaṃ naro yena vinaśyati. Bhk_18.8
+
+dveṣṭi prāyo guṇebhyo yan, na ca snihyati kasyacit,
+vairāyate mahadbhiś ca śīyate vṛddhimānapi. Bhk_18.9
+
+samāśvasimi kenā 'haṃ, kathaṃ prāṇimi dur-gataḥ
+loka-traya-patir bhrātā yasya me svapiti kṣitau Bhk_18.10
+
+aho jāgarti kṛcchreṣu daivaṃ, yad bala-bhijjitaḥ
+luṭhyanti bhūmau klidyanti bāndhavā me svapanti ca. Bhk_18.11
+
+śivāḥ kuṣṇanti māṃsāni, bhūmiḥ pibati śoṇitam,
+daśagrīva-sanābhīnāṃ samadantyāmiṣaṃ khagāḥ, Bhk_18.12
+
+yena pūta-krator mūrdhni sthīyate sma mahā''have,
+tasyā'pīndrajito daivād dhvāṃkṣaiḥ śirasi līyate. Bhk_18.13
+
+svarbhānur bhāskaraṃ grastaṃ niṣṭīvati kṛtā'hnikaḥ,
+abhyupaiti punar bhūtiṃ rāma-grasto na kaścana. Bhk_18.14
+
+tvamajānannidaṃ rājannīḍiṣe sma sva-vikramam,
+dātuṃ necchasi sītāṃ sma, viṣayāṇāṃ ca neśiṣe. Bhk_18.15
+
+mantre jātu vadantyajñās, tvaṃ tānapyanumanyase,
+kathaṃ nāma bhavāṃs tatra nā 'vaiti hitamātmanaḥ Bhk_18.16
+
+a-pṛṣṭo nu bravīti tvāṃ mantre mātāmaho hitam,
+"na karomītipaulastya ! tadā mohāt tvamuktavān Bhk_18.17
+
+tvaṃ sma vettha mahārāja ! yat smā''ha na vibhīṣanaḥ.
+purā tyajati yat kruddo māṃ nirākṛtya saṃsadi. Bhk_18.18
+
+havir jakṣiti niḥśaṅko makheṣu madhavānasau,
+pravāti svecchayā vāyurudgacchati ca bhāskaraḥ. Bhk_18.19
+
+dhanānāmīśate yakṣā, yamo dāmyati rākṣasān,
+tanoti varuṇaḥ pāśamindunodīyate 'dhunā. Bhk_18.20
+
+śāmyatyṛtu-samāhāras, tapasyanti vanaukasaḥ,
+no namasyanti te bandhūn, varivasyanti nā 'marāḥ Bhk_18.21
+
+śrīr niṣkuṣyati laṅkāyāṃ, virajyanti samṛddhayaḥ,
+na veda tan, na yasyā'sti mṛte tvayi viparyayaḥ. Bhk_18.22
+
+śaktiṃ saṃsvajate śakro, gopāyati hariḥ śriyam,
+deva-vandyaḥ pramodante, citrīyante, ghanodayāḥ. Bhk_18.23
+
+bibhratyastrāṇi sā'marṣā raṇa-kāmyanti cā 'marāḥ,
+cakāsati ca, māṃsā'dāṃ tathārandhreṣu jāgrati. Bhk_18.24
+
+cañcūryate 'bhito laṅkāmasmāṃś cā 'pyatiśerate,
+bhūmayanti sva-sāmarthyaṃ, kīrtiṃ naḥ kanayanti ca. Bhk_18.25
+
+diśo vyaṣnuvate dṛptās tvat-kṛtāṃ jahati sthitim,
+kṣodayanti ca naḥ kṣudrā, hasanti tvāṃ vipad-gatam. Bhk_18.26
+
+śamaṃ śamaṃ nabhasvantaḥ punanti parito jagat,
+ujjihīṣe mahārāja ! tvaṃ praśānto na kiṃ punaḥ Bhk_18.27
+
+prorṇoti śokas cittaṃ me, satvaṃ saṃśāmyatīva me
+pramārṣṭi duḥkhamālokaṃ, muñcāmyūrjaṃ tvayā vinā. Bhk_18.28
+
+kena saṃvidrate-nā'nyas tvatto bāndhava-vatsalaḥ,
+viraumi śūnye, prorṇaumi kathaṃ manyu-samudbhavam. Bhk_18.29
+
+rodimyanāthamātmānaṃ bandhunā rahitas tvayā,
+pramāṇaṃ nopakārāṇāmavagacchāmi yasya te Bhk_18.30
+
+nedānīṃ śakra-yakṣendrau bibhīto, na daridritaḥ,
+na garvaṃ jahito dṛptau, na kliśnīto daśā''nana ! Bhk_18.31
+
+tvayā 'pi nāma rahitāḥ kāryāṇi tanumo vayam,
+kurmaś ca jīvite buddhiṃ, dhik tṛṣṇāṃ kṛta-nāśinīm. Bhk_18.32
+
+tṛṇehmi dehamātmīyaṃ. tvaṃ vācaṃ na dadāsi cet,
+drāghayanti hi me śokaṃ smaryamāṇā guṇās tava. Bhk_18.33
+
+unmucya srajamātmīyāṃ māṃ srajayati ko hasan,
+nedayatyāsanaṃ ko me, ko hi me vadati priyam. Bhk_18.34
+
+na gacchāmi purā laṅkā- māyur yāvad dadhāmyaham,
+kadā bhavati me prītis, tvāṃ paśyāmi na cedaham. Bhk_18.35
+
+ūrdhvaṃ mriye muhūrtāddhi vihvalaḥ kṣata-bāndhavaḥ,
+mantre sma hitamākhyāmi, na karomi tavā 'priyam. Bhk_18.36
+
+antaḥpurāṇi paulastyaṃ paurāś ca bhṛśa-duḥkhitāḥ
+saṃśrutya smā 'bhidhāvanti hataṃ rāmeṇa saṃyuge. Bhk_18.37
+
+mūrdhajān sma viluñcanti, krośanti smā 'tivihvalam,
+adhīyantyupakārāṇāṃ muhur bhartuḥ pramanyu ca. Bhk_18.38
+
+rāvaṇasya namanti sma paurāḥ sāsrā rudanti ca."
+bhāṣate sma tato rāmo vacaḥ paulastyamākulam Bhk_18.39
+
+"dātuḥ sthātur dviṣāṃ mūrdhni yaṣṭus tarpayituḥ pit n
+yuddhā'bhagnā''vipannasya kiṃ daśā''syasya śocasi Bhk_18.40
+
+bobhavīti na sammoho vyasane sma bhavādṛśām,
+kiṃ na paśyasi, sarvo 'yaṃ janas tvāmavalambate. Bhk_18.41
+
+tvamarhasi bhrāturanantarāṇi kartuṃ, janasyā 'sya ca śoka-bhaṅgam,
+dhurye vipanne tvayi rājya-bhāro majjatyanūḍhaḥ kṣaṇadā-carendra !" Bhk_18.42
+
+bhk_19
+
+apa-manyus tato vākyaṃ paulastyo rāmamuktavān
+"a-śocyo'pi vrajannastaṃ sanābhir dunuyān na kim. Bhk_19.1
+
+taṃ no devā vidheyāsur yena rāvaṇa-vad vayam
+sapatnāṃś ca 'dhijīyāsma, saṃgrāme ca mṛṣīmahi. Bhk_19.2
+
+kriyeraṃś ca daśā''syena yathā 'nyenā 'pi naḥ kule
+devadyañco narā'hārā nyañcaśca dviṣatāṃ gaṇāḥ. Bhk_19.3
+
+sa eva ghārayet prāṇānīdṛśe bandhu-viplave,
+bhavedāśvāsako yasya suhṛcchakto bhavādṛśaḥ. Bhk_19.4
+
+mriyeyordhvaṃ muhūrtāddhi, na syās tvaṃ yadi me gatiḥ,
+āśaṃsā ca hi naḥ, prete jīvema-daśamūrdhani. Bhk_19.5
+
+prakuryāma vayaṃ deśe garhyāṃ tatra kathaṃ ratim,
+yatra viṃśati-hastasya na sodaryasya sambhavaḥ." Bhk_19.6
+
+āmantrayeta tān prahvān mantriṇo'tha vibhīṣaṇaḥ
+"gaccheta tvaritaṃ laṅkāṃ, rāja-veśma viśeta ca. Bhk_19.7
+
+ādadīdhvaṃ mahā'rhāṇi tatra vāsāṃsi sa-tvarāḥ
+uddhunīyāta sat-ketūn, nirharetā'grya-candanam. Bhk_19.8
+
+muñcetā''kāśa-dhūpāṃśca, grathnīyāta srajaḥ śubhāḥ,
+ānayetā 'mitaṃ dāru karpūrā'guru-kuṅkumam. Bhk_19.9
+
+uhyeran yajña pātrāṇi, hriyeta ca vibhāvasuḥ,
+bhriyeta cā''jyamṛtvigbhiḥ, kalpyeta ca samit-kuśam. Bhk_19.10
+
+snānīyaiḥ snāpayetā''śu, ramyair limpeta varṇakaiḥ,
+alaṅkuryāta ratnaiśca rāvaṇā'rhair daśā''nanam. Bhk_19.11
+
+vāsayeta su-vāsobhyāṃ medhyābhyāṃ rākṣasā''dhipam,
+ṛtvik sragviṇamādadhyāt prāṅ-mūrdhānaṃ mṛgā'jine. Bhk_19.12
+
+yajña-pātrāṇi gotreṣu cinuyāc ca yathā-vidhi,
+juhuyāc ca havir vahnau, gāyeyuḥ sāma sāmagāḥ." Bhk_19.13
+
+gatvā 'tha te purīṃ laṅkāṃ kṛtvā sarvaṃ yathoditam
+samīpe'ntyā''huteḥ sā'srāḥ proktavanto vibhīṣaṇam Bhk_19.14
+
+"kṛtaṃ sarvaṃ yathoddiṣṭaṃ, kartuṃ vahni-jala-kriyām
+prayatethā mahārāja ! saha sarvaiḥ sva-bandhubhiḥ. Bhk_19.15
+
+ajñā-van notsahethās tvaṃ, dheyā dhīra-tvama-cyutam,
+stheyāḥ kāryeṣu bandhūnāṃ, heyāḥ śokodbhavaṃ tamaḥ. Bhk_19.16
+
+nā'vakalpyamidaṃ, glāyed yat kṛcchreṣu bhavānapi
+na pṛthag-jana-vaj jātu pramuhyet paṇḍito janaḥ. Bhk_19.17
+
+yacca yatra bhavāṃs tiṣṭhet, tatrā 'nyo rāvaṇasya na,
+yacca yatra bhavān sīden mahadbhis tad vigarhitam. Bhk_19.18
+
+āścaryaṃ, yacca yatra tvāṃ prabrūyāma vayaṃ hitam,
+api sākṣāt praśiṣyās tvaṃ kṛcchreṣvindra-purohitam. Bhk_19.19
+
+kāmo janasya"jahyās tvaṃ pramādaṃ nairṛtā'dhipa !"
+uta dviṣo'nuśoceyur viplave, kimu bāndhavāḥ. Bhk_19.20
+
+sa bhavān bhrātṛ-vad rakṣed yathāvadakhilaṃ janam,
+na bhavān saṃpramuhyec cedāśvasyuś ca niśācarāḥ, Bhk_19.21
+
+tataḥ sa gatavān kartuṃ bhrāturagni-jala-kriyām.
+proktavān kṛta-kartavyaṃ vaco rāmo'tha rākṣasam. Bhk_19.22
+
+ambhāṃsi rukma-kumbhena siñcan mūrdhi samādhimān
+"tvaṃ rājā rakṣasāṃ laṅkā- mavekṣethā vibhīṣana ? Bhk_19.23
+
+kruddhānanunayeḥ samyak, dhanairlubdhānupārjayeḥ,
+mānino mānayeḥ kāle, trastān paulastya ! sāntvayeḥ. Bhk_19.24
+
+icchā me paramā, nandeḥ kathaṃ tvaṃ vṛtra-śatru-vat,
+iccheddhi suhṛdaṃ sarvo vṛddhi-saṃsthaṃ yataḥ suhṛt. Bhk_19.25
+
+vardhiṣīṣṭāḥ svajāteṣu, vadhyās tvaṃ ripu-saṃhatīḥ,
+bhūyās tvaṃ guṇināṃ mānyas, teṣāṃ stheyā vyavasthitau. Bhk_19.26
+
+dheyās tvaṃ suhṛdāṃ prītiṃ, vandiṣīṣṭhā divaukasaḥ,
+somaṃ peyāś ca, heyāś ca hiṃsrā hāni-karīḥ kriyāḥ Bhk_19.27
+
+avaseyāś ca kāryāṇi dharmeṇa pura-vāsinām,
+anurāgaṃ kriyā rājan ! sadā sarva-gataṃ jane. Bhk_19.28
+
+ghāniṣīṣṭa tvayā manyur, grāhiṣīṣṭa samunnatiḥ,
+rakṣobhir darśiṣīṣṭhās tvaṃ, drakṣīran bhavatā ca te. Bhk_19.29
+
+manyuṃ vadhyā bhaṭa-vadha-kṛtaṃ bāla-vṛddhasya rājan !, śāstrā'bhijñāḥ sadasi su-dhiyaḥ sannidhiṃ te kriyāsuḥ,
+saṃraṃsīṣṭhāḥ sura-muni-gate vartmani prājya-dharme, saṃbhutsīṣṭhāḥ su-naya-nayanair vidviṣāmīhitāni." Bhk_19.30
+
+bhk_20
+
+samupetya tataḥ sītāmuktavān pavanā''tmajaḥ
+diṣṭyā vardhasva vaidehi ! hatas trailokya-kaṇṭakaḥ Bhk_20.1
+
+anujānīhi hanyantāṃ mayaitāḥ kṣudra-mānasāḥ
+rakṣikās tava rākṣasyo, gṛhāṇaitāsu matsaram. Bhk_20.2
+
+tṛṇhāni durā''cāraghora-rūpā''śaya-kriyāḥ,
+hiṃsrā bhavatu te buddhiretās, kuru niṣṭhuram. Bhk_20.3
+
+paścimaṃ karavāmaitat priyaṃ devi ! vayaṃ tava,"
+tataḥ proktavatī sītā vānaraṃ karuṇā''śayā. Bhk_20.4
+
+"upaśāmyatu, te buddhiḥ piṇḍa-nirveśa-kāriṣu
+laghu-satveṣu, doṣo'yaṃ yat-kṛto-nihato 'sakau. Bhk_20.5
+
+na hi preṣya-vadhaṃ ghoraṃ karavānyastu te matiḥ,
+edhi kārya-karas tvaṃ me gatvā pravada rāghavam. Bhk_20.6
+
+"didṛkṣur maithilī rāma ! paśyatu tvā'vilambitam".
+tatheti sa pratijñāya gatvā rāghavamuktavān. Bhk_20.7
+
+"utsukā''nīyatāṃ devī kākutstha-kula-nandana !"
+kṣmāṃ likhitvā viniśvasya svarā''lokya vibhīṣaṇam Bhk_20.8
+
+uktavān rāghavaḥ-"sītāmānayā 'laṃkṛtāmiti."
+gatvā praṇamya tenoktā maithilī madhuraṃ vacaḥ. Bhk_20.9
+
+"jahīhi śokāṃ vaidehi ! prītaye dhehi mānasam,
+rāvaṇe jahihi dveṣāṃ, jahāhi pramadā-vanam. Bhk_20.10
+
+snāhyanulimpa dhūpāya, nivassvā''vidhya ca srajam,
+ratnānyā''muñca, saṃdīpte havir juhudhi pāvake, Bhk_20.11
+
+addhi tvaṃ pañca-gavyaṃ ca, chindhi saṃrodha-jaṃ tamaḥ,
+āroha śibikāṃ haimīṃ, dviṣāṃ jahi mano-rathān. Bhk_20.12
+
+tṛṇeḍhu tvad-viyogotthāṃ rājanyānāṃ patiḥ śucam,
+bhavatādadhiyuktā tvamata ūrdhvaṃ sva-veśmani. Bhk_20.13
+
+dīkṣasva saha rāmeṇa tvaritaṃ turagā'dhvare,
+dṛśyasva patyā prītena prītyā prekṣasva rāghavam. Bhk_20.14
+
+ayaṃ niyogaḥ patyus te, kāryā nā'tra vicāraṇā,
+bhūṣayā 'ṅgaṃ, pramāṇaṃ ced, rāmaṃ gantuṃ yatasva ca Bhk_20.15
+
+mudā saṃyuhi kākutsthaṃ, svayaṃ cā ''pnūhi sampadam,
+upehyūrdhvaṃ muhūrtāt tvaṃ devi ! rāghava-sannidhim. Bhk_20.16
+
+ūrdhvaṃ muhūrtādahno 'ṅga ! svāminī sma bhava kṣiteḥ
+rāja-patnī-niyoga-sthamanuśādhi purī-janam. Bhk_20.17
+
+uttiṣṭhasva mate patyur, yatasvā 'laṅkṛtau tathā,
+pratiṣṭhasva ca taṃ draṣṭuṃ draṣṭavyaṃ tvaṃ mahī-patim." Bhk_20.18
+
+anuṣṭhāya yathā''diṣṭaṃ niyogaṃ janakā''tmajā
+mamārūḍhavatī yānaṃ paṭṭāṃ'śuka-vṛtā''nanā. Bhk_20.19
+
+lajjā'natā visaṃyoga-duḥkha-smaraṇa-vihvalā
+sā'srā gatvā 'ntikaṃ patyur dīnā ruditavatyasau. Bhk_20.20
+
+prāpta-cāritrya-sandehas tatas tāmuktavān nṛpaḥ
+icchāme-"nā ''dade sīte ! tvāmahaṃ gamyatāmataḥ". Bhk_20.21
+
+rāvaṇā'ṅka-pariśliṣṭā tvaṃ hṛl-lekha-karī mama
+matiṃ badhāna sugrīve , rākṣasendraṃ gṛhāṇa vā. Bhk_20.22
+
+aśāna bharatād bhogān, lakṣmaṇaṃ pravṛṇīṣva vā,
+kāmād vā yāhi, mucyantāmāśā rāma-nibandhanāḥ. Bhk_20.23
+
+kva ca khyāto raghor vaṃśaḥ, kva taṃ para-gṛhoṣitā,
+anyasmai hṛdayaṃ dehi, nā 'nabhīṣṭe ghaṭāmahe. Bhk_20.24
+
+yatheṣṭaṃ cara vaidehi !, panthānaḥ santu te śivāḥ,
+kāmās te'nyatra tāyantāṃ viśaṅkāṃ tyaja mad-gatām. Bhk_20.25
+
+tataḥ pragaditā vākyaṃ maithilā'bhijanā nṛpam
+"strīsāmānyena sambhūtā śaṅkā mayi vimucyatām. Bhk_20.26
+
+daivād bibhīhi kākutstha ! jihrīhi tvaṃ tathā janāt,
+mithyā māmabhisaṃkrudhya- nna-vaśāṃ śatruṇā hṛtām. Bhk_20.27
+
+cetasas tvayi vṛttir me, śarīraṃ rakṣasā hṛtam,
+vidāṃkurvantu samyañco devāḥ satyamidaṃ vacaḥ Bhk_20.28
+
+tvaṃ punīhi punīhīti punan vāyo ! jagattrayam
+caran deheṣu bhūtānāṃ viddhi me buddhi-viplavam. Bhk_20.29
+
+khamaṭa, dyāmaṭā 'ṭorvīmityaṭantyo 'ti-pāvanāḥ
+yūyamāpo ! vijānīta mano-vṛttiṃ śubhāṃ mama. Bhk_20.30
+
+jaganti dhatsva dhatsveti dadhatī tvaṃ vasundhare !
+avehi mama cāritraṃ naktaṃ-divama-vicyutam. Bhk_20.31
+
+rasān saṃhara, dīpyasva, dhvāntaṃ jahi, nabho bhrama,
+itīhamānas tigmāṃ'śo ! vṛttaṃ jñātuṃ ghaṭasva me. Bhk_20.32
+
+svarge vidyasva, bhuvyā''sva, bhujaṅga-nilaye bhava,
+evaṃ vasan mamā ''kāśa ! saṃbudhyasva kṛtā'kṛtam. Bhk_20.33
+
+citāṃ kuru ca saumitre ! vyasanasyā 'sya bheṣajam,
+rāmas tuṣyatu me vā 'dya, pāpāṃ pluṣṇātu vā 'nalaḥ Bhk_20.34
+
+rāghavasya matenā 'tha lakṣmaṇenā''citāṃ citām
+dṛṣṭvā pradakṣiṇīkṛtya rāmaṃ pragaditā vacaḥ Bhk_20.35
+
+pravapāṇi vapur vahnau rāsā 'haṃ śāṅkitā tvayā,
+sarve vidantu śṛṇvantu bhavantaḥ sa plavaṅgamāḥ. Bhk_20.36
+
+māṃ duṣṭāṃ jvalita-vapuḥ pluṣāṇa vahne ! saṃrakṣa kṣata-malināṃ suhṛd yathā vā,
+eṣā 'haṃ kratuṣu vasor yathā ''jya-dhārā tvāṃ prāptā vidhi-vadudīrṇa-dīpti-mālam. Bhk_20.37
+
+bhk_21
+
+samutkṣipya tato vahnir maithilīṃ rāmamuktavān
+"kākutstha ! dayitāṃ sādhvīṃ tvamāśaṅkiṣyathāḥ katham Bhk_21.1
+
+nā bhaviṣyadiyaṃ śuddhā yadyapāsyamahaṃ tataḥ
+na caināṃ, pakṣapāto me dharmādanyatra rāghava ! Bhk_21.2
+
+api tatra-ripuḥ sītāṃ nā 'rthayiṣyata dur-matiḥ,
+krūraṃ jātvavadiṣyac ca jātvastoṣyacchriyaṃ svakām. Bhk_21.3
+
+saṅkalpaṃ nā 'kariṣyac ca tatreyaṃ śuddha-mānasā,
+satyā'marṣamavāpsyas tvaṃ rāmaḥ sītā-nibandhanam. Bhk_21.4
+
+tvayā 'drakṣyata kiṃ nā 'syāḥ śīlaṃ saṃvasatā ciram,
+adarśiṣyanta vā ceṣṭāḥ kālena badhunā na kim. Bhk_21.5
+
+yāvajjivamaśociṣyo, nā 'hāsyaś cedidaṃ tamaḥ,
+bhānurapyapatiṣyat kṣmāmakṣobhiṣyata cediyam. Bhk_21.6
+
+samapatsyata rājendra ! straiṇaṃ yadyatra cāpalam,
+loka-pālā ihā ''yāsyaṃs tato nā 'mī kali-druhaḥ. Bhk_21.7
+
+āścaryaṃ yacca yatra strī kṛcchre 'vartsyan mate tava,
+trāsādasyāṃ vinaṣṭāyāṃ kiṃ kimālapsyathāḥ phalam. Bhk_21.8
+
+yatra yaccā 'mariṣyat strī sādhvasād doṣa-varjitā
+tadasūyā-ratau loke tasyā vācyā ''spadaṃ mṛṣā. Bhk_21.9
+
+amaṃtsya bhavān yadvad tathaiva ca pitā tava
+nā ''gamiṣyad vimāna-sthaḥ sākṣād daśaratho nṛpaḥ. Bhk_21.10
+
+nā 'kalpsyat sannidhiṃ sthānuḥ śūlī vṛṣabha-vāhanaḥ
+anvabhāviṣyatā 'nyena maithilī cet pativratā. Bhk_21.11
+
+ānandayiṣyadāgamya kathaṃ tvāmaravinda-sat
+rājendra ! viśva-sūr dhātā cāritrye sītayā kṣate. Bhk_21.12
+
+praṇaman brahmaṇā prokto rājakā 'dhipatis tataḥ
+"nā, śotsyan maithilī loke, nā''cariṣyadidaṃ yadi. Bhk_21.13
+
+nā'mokṣyāma vayaṃ śaṅkā- mihādhāsyan na ced bhavān,
+kiṃ vā citramidaṃ yuktaṃ, bhavān yadakariṣyata. Bhk_21.14
+
+prāvartiṣyanta ceṣṭāś ced-yāthātathya-vat tava,
+anuśāsye tvayā loke rāmā'vartsyaṃstarāṃ tataḥ Bhk_21.15
+
+prāṇamantam tato rāmamuktavāniti śaṅkaraḥ
+"kiṃ nārāyaṇamātmānaṃ nā 'bhotsyata bhavānajam. Bhk_21.16
+
+ko nyo 'kartsyadiha prāṇān dṛptānāṃ ca sura-dviṣām,
+ko vā viśvajanīneṣu karmasu prāghaṭiṣyata Bhk_21.17
+
+daitya-kṣaye mahā-rāja ! yacca yatrā 'ghaṭiṣyathāḥ
+samāptiṃ jātu tatrāpi kiṃ nā 'neṣyas tvamīhitam. Bhk_21.18
+
+tātaṃ prasādya kaiyeyyā bharatāya prapīḍitam
+sahasra-cakṣuṣaṃ rāmo ninaṃsuḥ paridṛṣṭavān. Bhk_21.19
+
+pretā vareṇa śakrasya prāṇantaḥ kapayas tataḥ
+saṃjātāḥ phalinā ''namra-rociṣṇu-druma-sadravaḥ. Bhk_21.20
+
+bhramara kulā ''kulolbaṇa-sugandhi-puṣpa-tarus taruṇa-madhūka-sambhava-piśaṅgita-tuṅga-śikhaḥ
+śikhara-śilā 'ntarāla-parikwxlqqpta-jalā 'vasaraḥ sa-rasa-phala-śriyaṃ sa vitatāna suvela-giriḥ. Bhk_21.21
+
+saṃvādbhiḥ sa-kusuma-reṇubhiḥ samīrai- rānamrair bahu-phala-dhāribhir vanā 'ntaiḥ
+ścyotadbhir madhu-paṭalaiś ca vānarāṇām āpyāno ripu-vadha-sambhavaḥ pramodaḥ Bhk_21.22
+
+āyāntyaḥ sva-phala-bhareṇa bhaṅguratvaṃ bhṛṅgā''lī-nicaya-citā latās tarūṇām
+sā ''modāḥ kṣiti-tala-saṃsthitā'valopyā bhokt ṇāṃ ṣramamadayaṃ na nītavatyaḥ. Bhk_21.23
+
+bhk_22
+
+tato rāmo hanūmantamuktavān hṛṣṭa-mānasam
+"ayodhyāṃ śvaḥ prayātāsi kape ! bharata-pālitām. Bhk_22.1
+
+gādhitāse nabho bhūyaḥ sphuṭan-megha-ghaṭā''vali,
+īkṣitāse 'mbhasāṃ patyuḥ payaḥ śiśira-śīkaram. Bhk_22.2
+
+sevitāse plavaṅga ! tvaṃ mahendrā 'dreradhityakāḥ
+vyutkrānta-vartmano bhānoḥ saha-jyotsnā-kumudvatīḥ. Bhk_22.3
+
+candana-druma-saṃcchannā nirākṛta-hima-śrathāḥ
+darśitāras tvayā tāś ca malayopatyakāḥ śubhāḥ. Bhk_22.4
+
+pratanvyaḥ komalā vindhye sahitāraḥ syadaṃ na te
+latāḥ stabaka-śālinyo madhulehi-kulā''kulāḥ. Bhk_22.5
+
+draṣṭāsi prīti-mānārāt sakhibhiḥ saha sevitām
+sa-pakṣapātaṃ kiṣkindhāṃ pūrva-krīḍāṃ smaran muhuḥ. Bhk_22.6
+
+tvayā sandarśitārau te mālyavad-daṇḍakā-vane,
+upadrutaś ciraṃ dvandvair yayoḥ kliśitavānaham. Bhk_22.7
+
+āptārau bhavatā ramyāvāśramau hariṇā ''kulau
+puṇyodaka-dvijā''kīrṇau sutīkṣṇa-śarabhaṅgayoḥ Bhk_22.8
+
+atikrāntā tvayā ramyaṃ duḥkhamatres tapo-vanam,
+pavitra-citrakūṭe 'drau tvaṃ sthātāsi kutūhalāt. Bhk_22.9
+
+tataḥ paraṃ bharadvājo bhavatā darśitā muniḥ,
+draṣṭāraś ca janāḥ punyā yāmunā'mbukṣatāṃ'hasaḥ. Bhk_22.10
+
+syantvā syantvā divaḥ śambhor- mūrdhni skantvā bhuvaṃ gatām
+gāhitāse 'tha puṇyasya gaṅgāṃ mūrtimiva drutām. Bhk_22.11
+
+tamasāyā mahā-nīla-pāṣāṇa-sadṛśa-tviṣaḥ
+vanā 'ntāt bahu mantāse nāgarā''krīḍa-śākhinaḥ. Bhk_22.12
+
+nagara-strī-stana-nyasta-dhauta-kuṅkuma-piñjarām
+vilokya sarayūṃ ramyāṃ gantā 'yodhyā tvayā purī. Bhk_22.13
+
+ānanditāras tvāṃ dṛṣṭvā praṣṭāraś cāvayoḥ śivam
+mātaraḥ saha maithilyā, toṣṭā ca bharataḥ param. Bhk_22.14
+
+ākhyātāsi hataṃ śatrumabhiṣiktaṃ vibhīṣaṇam,
+sugrīvaṃ cā 'rjitaṃ mitraṃ, sarvāṃś cā''gāmukān drutam Bhk_22.15
+
+gantāraḥ paramāṃ prītiṃ paurāḥ ṣrutvā vacas tava,
+jñātvaitat sammukhīnaś ca sametā bharato dhruvam. Bhk_22.16
+
+gate tvayi pathā 'nena vayamapyaṃhitāsmahe,
+labdhāhe 'haṃ dhṛtiṃ prāpte bhūyo bhavati sammukhe. Bhk_22.17
+
+gate tasmin gṛhītā 'rthe rāmaḥ sugrīva-rākṣasau
+uktavān śvo 'bhigantāstho yuvāṃ saha mayā puram. Bhk_22.18
+
+draṣṭāsthas tatra tisro me māt s tuṣṭa'ntarā''tmanaḥ
+āntyantīnaṃ sakhi-tvaṃ ca prāptāstho bharatā ''śrayam. Bhk_22.19
+
+naivaṃ viraha-duḥkhena vayaṃ vyāghānitāsmahe,
+śramo nubhavitā naivaṃ bhavadbhyāṃ ca viyoga-jaḥ, Bhk_22.20
+
+evaṃ yuvāṃ mama prītyai kalptāsthaḥ kapi-rākṣasau !
+gantuṃ prayatitāsāthe prātaḥ saha mayā yadi. Bhk_22.21
+
+utkavantau tato rāmaṃ vacaḥ paulastya-vānarau
+anugraho 'yaṃ kākutstha ! gantāsvo yat tvayā saha. Bhk_22.22
+
+anumantāsvahe nā''vāṃ bhavantaṃ virahaṃ tvayā
+api prāpya surendra-tvaṃ, kiṃ nu prattaṃ, tvayā ''spadam. Bhk_22.23
+
+tataḥ kathābhiḥ samatītya doṣā- māruhya sainyaiḥ saha puṣpakaṃ te
+samprasthitā vega-vaśāda-gādhaṃ prakṣobhayantaḥ salilaṃ payodheḥ. Bhk_22.24
+
+setuṃ, mahendraṃ, malayaṃ sa-vindhyaṃ, sa-mālyavantaṃ girimṛṣyamūkam,
+sa-daṇḍakā'raṇya-vātīṃ ca pampāṃ rāmaḥ priyāyāḥ kathayan jagāma. Bhk_22.25
+
+ete te muni-jana-maṇḍitā digantāḥ, śailo'yaṃ lulita-vanaḥ sa citrakūṭaḥ,
+gaṅgeyaṃ su-tanu-! viśāla-tīra-ramyā, maithilyā raghu-tanayo diśan nananda. Bhk_22.26
+
+śiñjāna-bhramara-kulā''kulā'gra-puṣpāḥ śītā-'mbhaḥ-pravilaya-saṃplavā 'bhilīnāḥ
+ete te su-tanu ! purī-janopabhogyā dṛśyante nayana-manoramā vanā 'ntāḥ. Bhk_22.27
+
+sthānaṃ naḥ pūrva-jānāmiyamadhikamasau preyasī pūrayodhyā, dūrādālokyate yā huta-vividha-haviḥ- prīṇitā 'śeṣa-devā,
+so 'yaṃ deśo, rudantaṃ pura-janamakhilaṃ yatra hitvā prayātau āvāṃ sīte ! vanā 'ntaṃ saha dhṛta-dhṛtinā lakṣmaṇena kṣapā'nte. Bhk_22.28
+
+tūryāṇāmatha niḥsvanena sakalaṃ lokaṃ samāpūrayan vikrāntaiḥ kariṇāṃ girīndra-sadṛśāṃ kṣmāṃ kampayan sarvataḥ
+sā ''nandā 'śru-vilocanaḥ prakṛtibhiḥ sārdhaṃ sahā 'ntaḥ puraḥ samprāpto bharataḥ sa-mārutiralaṃ namraḥ samaṃ mātṛbhiḥ Bhk_22.29
+
+atha sa-sambhrama-paura-janā ''vṛto bharata-pāṇi-dhṛtojjvala-cāmaraḥ
+guru-jana-dvija-bandyabhinanditaḥ praviśati sma puraṃ raghu-nandanaḥ. Bhk_22.30
+
+pravidhāya dhṛtiṃ parāṃ janānāṃ yuva-rājaṃ bharataṃ tato'bhiṣicya
+jaghaṭe turagā'dhvareṇa yaṣṭuṃ kṛta-sambhāra-vidhiḥ patiḥ prajānām. Bhk_22.31
+
+idamadhigata-mukti-mārga-citraṃ vivadiṣatāṃ vadatāṃ ca san-nibandhāt
+janayati vijayaṃ sadā janānāṃ yudhi susamāhitamaiśvaraṃ yathā 'stram. Bhk_22.32
+
+dīpa-tulyaḥ prabandho 'yaṃ śabda-lakṣaṇa-cakṣuṣām
+hastā 'marṣa ivā 'ndhānāṃ bhaved vyākaraṇādṛte. Bhk_22.33
+
+vyākhyā-gamyamidaṃ kāvya- mutsavaḥ su-dhiyāmalam,
+hatā dur-meghasaś cā 'smin vidvat-priya-tayā mayā. Bhk_22.34
+
+kāvyamidaṃ vihitaṃ mayā valabhyāṃ śrīdharasena-nerandra-pālitāyām,
+kīrtirato bhavatān nṛpasya, tasya prema-karaḥ kṣiti-po yataḥ prajānām. Bhk_22.35

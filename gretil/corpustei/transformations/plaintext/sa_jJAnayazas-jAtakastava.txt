@@ -1,0 +1,106 @@
+Jñānayaśas: Jātakastava
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_jJAnayazas-jAtakastava.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Klaus Wille
+## Contribution: Klaus Wille
+## Date of this version: 2020-07-31
+
+## Source: 
+   - D. R. Shackleton Bailey: "Jātakastava of Jñānayaśas", in: Friedrich Weller: Asiatica: Festschrift Friedrich Weller, Leipzig 1954, pp. 22-29.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Jātakastava = Js,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from jatkstau.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Jnanayasas: Jatakastava
+Based on the ed. by D. R. Shackleton Bailey: "Jātakastava of Jñānayaśas",
+in: Friedrich Weller: Asiatica: Festschrift Friedrich Weller, Leipzig 1954, pp. 22-29.
+Input by Klaus Wille
+[GRETIL-Version vom 9.7.2015]
+TEXT WITH PADA MARKERS
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+kvedaṃ dāśabalaṃ guṇair aśabalaṃ caryāvibhutvaṃ vibho janmasyandanikāvivartanajaḍaṃ cetaḥ kva cedaṃ mama 
+yenāvandhyaphalodayās tvayi bhavanty abhyāhitāḥ pāṃsavas tena stutyanubandhinā mukharatām ālambate bhāratī // Js_1
+
+cittālambanalaṅghinaḥ śamadṛśām āveṇikāḥ sadguṇā vācāṃ gocaratāṃ tu yānti kalayā sthūlā hi vo mādṛśām 
+ratnāny ambunidher upāmbupulineṣv āvir bhavanty arthinām antarbhinnataraṅgadyotarucakajyotsnāni gṛhṇāti kaḥ // Js_2
+
+yā vo bodhipathānuyānamahatām utsāhinī karmaṇām āsīl lokahitodaye jina kṛpāviṣyandinī santatiḥ 
+sānekāpacitaḥ punāti bhagavan saṃkīrtyamānādhunā jñeyābhogavisāriṇo gatamalāḥ prāg eva bodhau guṇāḥ // Js_3
+
+uddāmadviradasya rāgavaśino vṛttiṃ puronmādinīm ālokyāvyativartinā praṇihitā bodhau dhiyo yat tvayā 
+vinyasyanta ivāmarās tvayi ciraṃ dharmābhiṣekaśriyaṃ tenākampitakeśarāntam asṛjan puṣpopahāraṃ divaḥ // Js_4
+
+kṣudduḥkhaglapitodarīṃ giridarīrandhrāntarālasthitāṃ dṛṣtvā śāvakaghālanaikarabhasāṃ vyāghrīṃ dayāghrātadhīḥ 
+yat tvaṃ valkalinīṃ jaṭājanavatīṃ mūrtiṃ samutsṛṣṭavāṃs trāṇaṃ tena bhavān bhavādrivivaravyāvartināṃ dehinām // Js_5
+
+yat prāleyasitopalādribahalāṃ mātaṅgatāṃ bibhratā kāntārāntaravartināṃ tanubhṛtām ucchittaye vyāpadām 
+śailendraṃ pṛthulopalaṃ calayatā muktas tvayātmā taṭān manye matsariṇāṃ nitāntamalinās tena kṣatā vṛttayaḥ // Js_6
+
+yal lokāmbaracandracandravapuṣā candraprabhatve tvayā kalmāṣāntaśikhaṃ śikhāmaṇirucā dattaṃ dvijāyārthine 
+nālāl lūnam ivāravindam asinā vyutkṛttamūlaṃ śiras tenaiṣāṃ jagatāṃ gato 'si gurutām usṇīṣavan mūrdhani // Js_7
+
+bālān bālasarojakomalatanūn yat putrakān arthine paryastākṣacalacchikhaṇḍakabhṛto dārāṃs ca bhāvanugān 
+prādās tvaṃ jina tena nūnam ahhavan mārāṅganānāṃ mukhaṃ saṃkocāñcitapakṣmalocanadalaṃ lajjālasāmantharam // Js_8
+
+śayyāsvapnavicāriṇā vanabhuvāṃ bhūtvā purā pakṣiṇā bhinnāśeṣakale jagaty avikale jyāyaḥpathāśaṃsinā 
+vistāraṃ gamitaṃ vrataṃ vratabhṛtāṃ yan nātha kāpiñjalaṃ tenājñānarujāṃ kirīṭakiraṇacchāyās padaṃ vo gatāḥ // Js_9
+
+yat parṇāmbuphalāśinīṃ śaśatanuṃ tvaṃ nātha bibhrat purā tatkālātithaye kṛpāparicayād ātithyam āvedayan 
+ārūḍhaḥ sphuṭavisphuliṅgam analaṃ tenādhunāpi kṣitāv indor maṇḍalalāñchanaṃ śaśamayaṃ yuṣmadyaśo laksyate // Js_10
+
+yat kopāruṇadṛṣṭinā kalabhuvā kṛtvā bhruvor bhaṅginīṃ lekhām ullasitāsinā vidalitapratyaṅgam āśaṅkinā 
+tvām āsīt kṣaṇam apy avikṣatadhiyaṃ tyaktukṣamā na kṣamā manye tena niraṅkuśāḥ smaraśarāḥ puṅkheṣu bhaṅgaṃ gatāḥ // Js_11
+
+yad dveṣī kariṇā cirātatadhanur dantais tvayābhyarcitaḥ ṣaḍdantena satā sitonnatabṛhajjīmūtapuñjatviṣā 
+kośākarṣaṇavāntabhūrirudhirakṣodāruṇais tena vaḥ pātāle 'pi bhujaṃgamaiḥ ślathaphaṇair adyāpi daṃṣtrārcyate // Js_12
+
+saṃrambhāt phaṇināṃ phaṇāhaticalād bhīmormimālād apāṃ patyur yan makaracchaṭāvilulitāt paryastanaukā narāḥ 
+premṇā kāyamahāplavena bhavatā tīrāntam āpāditās tatkarmātiśayena tena nikhilā lokāḥ kalatrīkrtāḥ // Js_13
+
+śailān maṇḍalino vilaṅghya viṣayāṃs toyāvalīmekhalān yac cintāmaṇinā narendra badaradvīpāntarālodarāt 
+labdhvā pūrṇaphalās tvayā praṇayinām āśāvabandhāḥ kṛtās tvattas tena samudbhavanti viduṣāṃ saddharmaratnāṅkurāḥ // Js_14
+
+sāndrābhrāntavitānanīlavapuṣām ojomuṣāṃ rakṣasāṃ khaḍgotkṛttadalair vipāṭitaśirārandhrasravallohitaiḥ 
+yan māṃsair akṛthāḥ kṣudhāvyupaśamaṃ svair avyapetoṣmabhir yogā janmarudho bhavodbhavatṛṣām ucchedinas tena vaḥ // Js_15
+
+śyenottrāsaviśuṣkakampitagalasyotsaṅgasaṃsarpiṇo yan niḥsaṅgaratā śivāya śibinā rājñā satā pakṣiṇaḥ 
+raktodgārakalaṅkitātulatulām āropitā te tanur māras tena dukūlapakṣmataralaṃ nītas tulālāghavam // Js_16
+
+lakṣmīm apy avadhūya vāñchitaphalām ākhaṇḍam ādhvaṃsinīṃ yat tiryakpratisandhibandham adhamaṃ kṛtvā bhavāñ janmanām 
+cakre marmabhidāṃ rujāṃ svapiśitaiḥ prābandhakīnāṃ śamaṃ tena kleśaviṣacchidāṃ tava dhiyāṃ avyāhatāḥ śaktayaḥ // Js_17
+
+yat sandoham iva śriyāḥ phalam iva procchrāyi puṇyaujasāṃ digdhaṃ raktakaṇaiḥ sphuratkuvalayacchāyābhinīlāyitam 
+utpāṭyākṣatalocanadvayam adād viprāya niścakṣuṣe tenāndhasya tamasvato 'sya jagatas tuṅgaikadīpo bhavān // Js_18
+
+ity ātmārthanibandhinedam ṛṣivākyālaṃkṛtaṃ darśitaṃ leśasyāpi na kīrtanaṃ jina kṛtaṃ tvadvarṇarāśer mama 
+tārābdhānavatāṃ jalaṃ jalapurām ākarṣatā vāridher velānteṣv iva rodhasāṃ jalalavacchedo hi saṃlakṣyate // Js_19
+
+tvaccaryātiśayāṃśaleśaracanād yaḥ śreyasām udbhavaḥ sambhāro vipulaprasādavikasadbhaktyācitāṃśasya me 
+tenātyantaparopakāranirataḥ svārthe 'pi mandādaro bhūyāt sarvavidāṃ parārthaviduṣāṃ yānaikatāno janaḥ // Js_20
+ jātakastava ācāryajñānayaśasaḥ 

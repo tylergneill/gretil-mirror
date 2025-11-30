@@ -1,0 +1,216 @@
+Kṣemendra: Sevyasevakopadeśaḥ
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kSemendra-sevyasevakopadeza.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Daniele Cuneo
+## Contribution: Daniele Cuneo
+## Date of this version: 2019-09-12
+
+## Source: 
+   - »kṣemendrakṛtaḥ sevyasevakopadeśaḥ.« In: Paṇḍit Durgāprasād (ed.) et al.: Kāvyamālā Part 2. Bombay 1932, pp. 79-85.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Sevyasevakopadeśaḥ = KṣeSsu,
+   - the number of the verse in arabic numerals.
+
+
+# Text
+
+
+mahākaviśrīkṣemendrakṛtaḥ sevyasevakopadeśaḥ |
+
+vibhūṣaṇāya mahate tṛṣṇātimirahāriṇe |
+namaḥ saṃtoṣaratnāya sevāviṣavināśine || KṣeSsu_1
+
+utsṛjya nijakāryāṇi sadbhir bāṣpākulekṣaṇam |
+sevyasevakasevānāṃ kriyatām anuśāsanam || KṣeSsu_2
+
+darpād ekaḥ paro lobhād dvāv andhau sevyasevakau |
+dhanoṣmadainyavikṛtī mukhe kaḥ kasya paśyati || KṣeSsu_3
+
+durvāramohalobhāndho yadi na syād ayaṃ janaḥ |
+kaḥ krūrakrodhavidhuraṃ saheta dhanināṃ mukham || KṣeSsu_4
+
+yaḥ pṛthvīm api darpāndho na paśyati puraḥsthitām |
+sa dainyalaghutāṃ yātaṃ kathaṃ sevakam īkṣate || KṣeSsu_5
+
+agatiṃ vāhayaty eko badhiraṃ stauti cāparaḥ |
+aho jagati hāsyāya nirlajjau sevyasevakau || KṣeSsu_6
+
+dūraṃ huṃkāramātreṇa visṛṣṭo mārgaṇaḥ sadā |
+guṇabhraṣṭaḥ kriyāhīno nodvegaṃ yāti sevakaḥ || KṣeSsu_7
+
+manye sukṛtinā tena bhāgīrathyāṃ kṛtaṃ tapaḥ |
+vairāgyabhāgī rathyāṃ yaḥ sevāsu na vigāhate || KṣeSsu_8
+
+kathitakleśavāpena śāpeneva vipākinā |
+sevātāpena pacyante na hy aduṣkṛtino narāḥ || KṣeSsu_9
+
+adainyapuṇyamanasāṃ yaśas teṣāṃ virājate |
+sevāpaṅkakalaṅkānāṃ yair na pātrīkṛtaṃ śiraḥ || KṣeSsu_10
+
+prabhupraṇāme jaṭharaṃ dainyamūkaṃ vilokayan |
+praveṣṭuṃ sevakaḥ śaṅke vilakṣaḥ kṣitim īkṣate || KṣeSsu_11
+
+sevādhvajo 'ñjalir mūrdhni hṛdi dainyaṃ mukhe stutiḥ |
+āśāgrahagṛhītānāṃ kiyatīyaṃ viḍambanā || KṣeSsu_12
+
+akālāgamanakrodhavidhureśvaracakṣuṣā |
+kṣipraṃ smara ivāyāti sevako dugdhabhūtitām || KṣeSsu_13
+
+punaḥ sevāvamānānāṃ tena dattaṃ tilodakam |
+praviśya vāhinīṃ yena khaḍgapātrīkṛtaṃ vapuḥ || KṣeSsu_14
+
+kaṇavṛttiparikliṣṭaḥ kaṣṭaṃ sevakacātakaḥ |
+ghanāśānirato nityam udgrīvaḥ pariśuṣyati || KṣeSsu_15
+
+niḥsaṃtoṣaḥ parityajya bhramaraḥ puṣpitaṃ vanam |
+sevate dānalobhena mātaṅgam api sevakaḥ || KṣeSsu_16
+
+jaḍasevāparikliṣṭas tīvradambhabakavrataḥ |
+kṛcchreṇa kṣaṇikāṃ prītim āsādayati sevakaḥ || KṣeSsu_17
+
+nityam unnatikāmo 'pi mānabhaṅgād adhomukhaḥ |
+yat satyam ubhayabhraṣṭas triśaṅkur iva sevakaḥ || KṣeSsu_18
+
+svamāṃsavikrayāsaktaḥ prabhuvetālaghaṭṭitaḥ |
+niḥsattvaḥ pralayaṃ yāti rātrisevāsu sevakaḥ || KṣeSsu_19
+
+bhūmiśāyī nirāhāraḥ śītavātātapakṣataḥ |
+munivrato 'pi narakakleśam aśnāti sevakaḥ || KṣeSsu_20
+
+karoti sevakaḥ sevāṃ tāvad āśām ivāyatām |
+yāvad bhogarasajñena yauvanena viyujyate || KṣeSsu_21
+
+cakṣur dvāry añjalau pāṇiḥ stutau jihvā natau śiraḥ |
+aho nu sevakaiḥ kāyaḥ paropakaraṇīkṛtaḥ || KṣeSsu_22
+
+hanta yācñāvamānena sevako laghutāṃ gataḥ |
+sevāpaṅkapade magno yad anviṣṭo na labhyate || KṣeSsu_23
+
+aviśrāntyāviraktasya dīrghocchvāsena śuṣyataḥ |
+jareva duḥsahā jantoḥ sevā saṃkocakāriṇī || KṣeSsu_24
+
+truṭyati klinnatantrīva māleva mlāyati kṣaṇāt |
+sevā nāracayaty eva dinacchedena naśyati || KṣeSsu_25
+
+sevāsaṃkṣapitāṅgānāṃ rājarathyāsu śuṣyatām |
+tīvratṛṣṇāviṣārtānāṃ śaraṇam śamavāridaḥ || KṣeSsu_26
+
+lobhasya mohādhvani vṛddhabhāve jātā durāśāśayitasya sevā |
+adhomukhī sā satataṃ salajjā jaratkumārīva na kasya śocyā || KṣeSsu_27
+
+āśeva śūnyeṣu vivartamānā tṛṣṇeva saṃtoṣaparāṅmukhīyam |
+divāniśaṃ karṣaṇadīrgharajjuḥ sevā surāṇām api dainyabhūmiḥ || KṣeSsu_28
+
+nisargavandhyāsu phalāśayā ye kurvanti sevāsu sadā prayatnam |
+kṛṣipravṛttāḥ śaśaśṛṅgakoṭyā khananti mūrkhāḥ khalu svasthalīṃ te || KṣeSsu_29
+
+antaḥsthite 'py ātmani yaiḥ kriyante sevāpravṛttaiḥ puruṣaiḥ praṇāmāḥ |
+dugdhābdikallolini kūlakacche tṛṣṇāturās te jalam arthayante || KṣeSsu_30
+
+bhāgīrathītīravanāntareṣu phalāvanamreṣu mahādrumeṣu |
+kṣuttāpatṛṣṇāśamaneṣu satsu kiṃ dainyasevāvyasanāvamānaiḥ || KṣeSsu_31
+
+nityaprasaktyā na sṛjaty avajñāṃ na laulyagarhāgaṇanāṃ karoti |
+atyantayācñāsu na yāti khedaṃ bhikṣābhujām pātram ato nu sevyam || KṣeSsu_32
+
+jayanti te svasti namo 'stu tebhyaḥ prabhūpraṇāmacyutamānaratnam |
+sevāprayāsavyasaneṣu mithyā rathyārajobhāgi śiro na yeṣām || KṣeSsu_33
+
+kiṃ rājabhir durjanajanmajālavyāptair avāptair api kaṣṭadṛṣṭaiḥ |
+santy eva sevyā bhuvi bhūbhṛtas te taṭeṣu yeṣāṃ munayo niviṣṭāḥ || KṣeSsu_34
+
+tṛṣṇāturāṇāṃ rajasā vṛtānāṃ sevākukūlānalatāpitānām |
+śāntyai hitaṃ candrakirīṭajūṭamaitrīpavitraṃ tridaśāpagāmbhaḥ || KṣeSsu_35
+
+utsṛjya tīvraṃ viṣayābhilāṣaṃ saṃtoṣapoṣaṃ kuśalo bhajasva |
+ity arthyamānaḥ sukhasevayāyam ātmāiva sarvaṃ sudhiyāṃ dadāti || KṣeSsu_36
+
+ekasya jāne sukhabhogabhājaḥ ślāghyasya sevāvyasanaṃ nivṛttam |
+sadaiva śiśnodaravarjitatvād ayācyayācñārahitasya rahoḥ || KṣeSsu_37
+
+sevāvrate prāya ivāpaviṣṭaḥ sarvātmanā niścitajīvanāśaḥ |
+dvāḥsthaiḥ prayatnena nivārito 'pi na durgrahaṃ muñcati naṣṭasaṃjñaḥ || KṣeSsu_38
+
+tamo'dhvatāpena ca cintayā ca śitena dainyena ca piṇḍitāṅgaḥ |
+sukhāśayā duḥkhasahasrabhāgī sevāvrataṃ mugdhamatir bibharti || KṣeSsu_39
+
+gacchāmi gacchāmi dinaṃ gataṃ me dine gato 'haṃ na nṛpo 'dya dṛṣṭaḥ |
+iti bruvāṇasya sadā janasya jīrṇātarāṃ tasya tanur na tṛṣṇā || KṣeSsu_40
+
+vicchedakārī sahasā kathānām anīpsito dīpa iva praviṣṭaḥ |
+saṃsaktavastrāntaramakṣikeva na sevakaḥ kasya karoti duḥkham || KṣeSsu_41
+
+dhūmāyamāno 'kṣivipakṣabhūtaś cāṭukramotpāditakarṇaśūlaḥ |
+kusevakaḥ pādatale 'valagnaḥ pade pade kaṇṭakatām upaiti || KṣeSsu_42
+
+ekaḥ kham eva kṣitim īkṣate 'nyaḥ sa nirjanārthī sa ca gāḍhalagnaḥ |
+svasvārthitā tasya bhṛśaṃ sa cārthī kathaṃ sa sevyaḥ sa ca sevako 'stu || KṣeSsu_43
+
+chāyāgraho mūrta ivānuyāyī sthitaś ciraṃ vṛścikaniścalaś ca |
+akālapātī sukhakelilīlāyantrotpalaḥ sevakadurvidagdhaḥ || KṣeSsu_44
+
+visṛjyamāno 'py aniśaṃ na yāti tīvroparodhapraṇayena mūrkhaḥ |
+bhartuḥ prasāde vihitaprayatno jātaḥ paraṃ pratyuta kopahetuḥ || KṣeSsu_45
+
+śūtkāridīrghaśvasitānubandhair niveditodvegagatiprayāsaḥ |
+atipraveśāt kharamārgaṇo 'sau nirasyamāno viphalatvam eti || KṣeSsu_46
+
+śrīratnacandravaravājigajorjite 'smin gambhīrarājakulanāmni mahāsamudre |
+aśnāti mūḍhamatir īśvaratām avāptum āśāvaśāt kṣitipater bahu kālakūṭam || KṣeSsu_47
+
+virama virama neyaṃ pāntha namrāmramālā badhira khadirapālī niṣphalaiṣā prayāhi |
+iti bahuvidham uktaḥ sevako 'nyāpadeśais tyajati na vipulāśāpāśabaddhaḥ kusevām || KṣeSsu_48
+
+pramlānā sarasatvam eti na punar māleva lagnātapā bhagnā kācamayīva saṃdhighaṭanā yogena na śliṣyati |
+sevā dīpaśikheva durgatagṛhe saṃdhāryamāṇā paraṃ niḥsnehā kṣayam eti khedajanitair ucchvāsamālānilaiḥ || KṣeSsu_49
+
+kas tvaṃ gatvara sevakas tvaritatā kasmāt prabhur dṛśyate lābhaḥ kas tava tatra vetrivipulāghātaiḥ śirastāḍanam |
+kiṃ mṛdgāsi mudā viśālacaraṇair mithyaiva rathyām imām bandho vandhyanarendrabhavyabhavanabhrāntyā viḍambyāmahe || KṣeSsu_50
+
+suptākarṣaṇadāma dhāma mahato mohasya dainyasya vā sevākleśam aharniśaṃ viṣahate yo vittaleśāśayā |
+prasphūrjadvaḍavāgnigarbhagahanodbhūtormimālākulaṃ saṃkṣubdhaṃ makarākaraṃ praviśati śrīratnalabdhyai na kim || KṣeSsu_51
+
+vyarthātyarthagatāgatavyatikarair aśrāntatīvratvaro dvārālokanatatparaḥ parijanair utsāryamāṇaḥ param |
+yatnenaiva puraḥ praveśakalanaiḥ kleśāvamānāśrayaḥ sarvāpatpiśunaḥ śunaḥ sadṛśatām ālapsyate sevakaḥ || KṣeSsu_52
+
+kūjatkrūrakapāṭapīḍanaruṣā dattaprahāraiḥ paraṃ dvārāvasthaganāya susthirabhujair dvāḥsthair bhṛśaṃ bhartsitaḥ |
+kubjībhūya janasya jānuvivaraiḥ kṣiprapraveśotsukaḥ pṛcchaty antaranirgatānavasaraṃ maunavratān sevakaḥ || KṣeSsu_53
+
+dvāre ruddham upekṣate katham api prāptaṃ puro nekṣate vijñaptau gajamīlanāni kurute gṛhṇāti vākyacchalam |
+niryātasya karoti doṣagaṇanāṃ svalpāparādhe yamaḥ sa svāmī yadi sevyate marutaṭe kiṃ naḥ piśācaiḥ kṛtam || KṣeSsu_54
+
+nityaṃ rājakule na pūjyayajane taddvārapālārcanaṃ bhaktiṃ bhūtisamudbhave na tu bhave dhyānaṃ dhane nātmani |
+dṛṣṭādṛṣṭavicintanaṃ narapatau na svocite karmaṇi śrīhetor bata niṣphalaṃ prakurute sarvaṃ jaḍaḥ sevakaḥ || KṣeSsu_55
+
+sā tīvraṃ jaḍanimnapātanaratā no nityasaktā tvarā rathyāpaṅkakalaṅkitaṃ na vadanaṃ na dvārapālaiḥ kaliḥ |
+yasmiṃs taccirasevakaḥ pravitataṃ puṇyaṃ vanaṃ gamyatāṃ krūrās te na bhavanti tatra vikṛtakrodhoddhatāḥ pārthivāḥ || KṣeSsu_56
+
+haṃho kaṣṭavinaṣṭa sevaka sakhe khinno 'si poṣāśayā rāgaś ced vibhave tad eṣa kupatiḥ klībaḥ kim āsevyate |
+sevyaḥ ko 'pi maheśvaraḥ sa bhagavān yasya prasādekṣaṇair akṣuṇṇaiḥ karuṇāspadīkṛtamarunnātho maruttaḥ kṛtaḥ || KṣeSsu_57
+
+rājñām ajñatayā kṛtaṃ yad aniśaṃ dainyaṃ tad utsṛjyatāṃ saṃtoṣambhasi mṛjyatām api rajaḥ pādapraṇāmārjitam |
+saṃtoṣaḥ paramaḥ purāṇapuruṣaḥ saṃvinmayaḥ sevyatāṃ yatsmṛtyā na bhavanti te sumanasāṃ bhūyo bhavagranthayaḥ || KṣeSsu_58
+
+utsṛjya prājyasevāṃ vijanasukhajuṣāṃ bhūbhujāṃ vyājabhājāṃ chittvāśāpāśabandhān vimalaśamajalais tīvratṛṣṇāṃ nivārya |
+sthitva śuddhe samādhau kim aparam amṛtaṃ mṛgyatāṃ jyotir antar yasmin dṛṣṭe vinaṣṭotkaṭatimirabhare labhayte mokṣalakṣmīḥ || KṣeSsu_59
+
+vṛttyā jīvati lokaḥ sevāvṛttir nijaiva keṣāṃcit |
+asthāne tīvratarā nindyā tu tadarthināṃ sevā || KṣeSsu_60
+
+vidvajjanārādhanatatpareṇa saṃtoṣasevārasanirbhareṇa |
+kṣemendranāmnā sudhiyāṃ sadaiva sukhāya sevāvasaraḥ kṛto 'yam || KṣeSsu_61
+
+iti śrīvyāsadāsāparākhyamahākaviśrīkṣemendrakṛtaḥ sevyasevakopadeśaḥ samāptaḥ |

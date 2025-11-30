@@ -1,0 +1,1883 @@
+Varāhamihira: Yogayātrā
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_varAhamihira-yogayAtrA-edpingree.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Mizue Sugita
+## Contribution: Mizue Sugita
+## Date of this version: 2020-07-31
+
+## Source: 
+   - of Pingree, David (ed.): Brhadyatra, Government of Tamil Nadu, 1972.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Yogayātrā-edPingree = BY,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from yogay1_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Varahamihira: Yogayatra
+Input by Mizue Sugita (May 1, 1998)
+Based on the edition of Pingree, David (ed.): Brhadyatra,
+Government of Tamil Nadu, 1972.
+Introduction by David Pingree
+Forward by R. N. Sampath
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+
+chap.1 daivapuruṣakāra
+
+yasminn udayati vikasati kamalam ivāstaṃ prayāti saṃkucati/
+sacarācaraṃ tribhuvanaṃ sa jayati kiraṇālayaḥ savitā// BY_1.1
+
+yakṣeśamedhena vijitya dhātrīm ity evam abhyudyamino nṛpasya/
+vinighnato vighnakarān na pāpaṃ kriyāt krameṇaiva paśūn makheṣu// BY_1.2
+
+utsāhamantraprabhuśaktiyukto dhīmān vinītendriyabhṛtyavargaḥ/
+prajānurakto dhṛtimān sahiṣṇur vṛddhopasevī vijigīṣur iṣṭaḥ// BY_1.3
+
+sāmvatsaras tasya vinītaveṣo dhīmān svatantrāṅgapaṭuḥ kulīnaḥ/
+dakṣaḥ pragalbho 'vikalo vinītas tādṛg vidhastasya purohito 'pi// BY_1.4
+
+tasya daivanarakārasametāṃ varṇayanti kavayaḥ phalasiddhim/
+tatra kecid avadhūya nṛkāraṃ daivam eva phaladāyakam āhuḥ// BY_1.5
+
+labdhavyāny eva labhyate gantavyāny eva gacchati/
+prāptavyāny eva prāproti duḥkhāni ca sukhāni ca// BY_1.6
+
+utthānāc ced bhavet siddhir na kaścit prāpnuyāt phalam/
+ahorātraṃ viceṣṭanto dṛśyante vṛttikarśitāḥ// BY_1.7
+
+vihaṅga iva vadho hi(syāt) nipatyāryamanīśvaraḥ/
+vidhānavihito 'deśyo nānyeṣāṃ nātmanaḥ prabhuḥ// BY_1.8
+
+tasmād daivaṃ pradhānaṃ hi na kuryāt karma mānuṣam/
+niśceṣṭam api loke 'smin bhajate bhuktir uttamā// BY_1.9
+
+āghātadurjayanayaṃ paribhūya daivam ātmābhimānacapalāḥ pracaranti ye 'rīn/
+teṣāṃ cirād api kṛtāntamahāpaśūnāṃ hastagrahaṃ na samupaiti jitāpi lakṣmī// BY_1.10
+
+tathā pare nāpeksyaiva daivaṃ dairyāvalambinaḥ/
+pratyekṣinaḥ kriyāsiddhau kevalaṃ jagur udyamam// BY_1.11
+
+utthānahīno rājā hi buddhimān api sarvadā/
+pradharṣanīyaḥ śatrūṇāṃ bhujaṅga iva nirviṣaḥ// BY_1.12
+
+utthānadhīraḥ puruṣo vāgdhīrān adhitiṣṭhati/
+utthānadhīraṃ vāgdhīrā ramayanta upāsyante// BY_1.13
+
+vidhānagaṇanājaḍaḥ puruṣakārasuptādaro
+manorathapariśramair na paricumbati śrīmukham/
+parākramaviniścitaikasunayo hi sadyaḥ śrutaṃ
+harir madasuvāsitaṃ pibati kuṃjarāśruṃ madhu// BY_1.14
+
+kṛṣivṛṣṭisamānugā dṛśyante phalasiddhayaḥ/
+asminn arthe śṛṇu ślokān dvipāyanamukhodgatān// BY_1.15
+
+na vinā mānuṣaṃ daivaṃ daivaṃ vā mānuṣaṃ vinā/
+naikaṃ nirvartayaty artham ekāraṇirivānalam// BY_1.16
+
+siddhyante sarva ārambhāḥ saṃyogāt karmaṇo 'rddhyoḥ/
+daivāt purusakārāc ca na tv ekasmāt kathājcana// BY_1.17
+
+anuśāsti naraṃ daivam ihāsyety anuśāsakaḥ/
+iha nāsya bhaviṣyāmi kutaḥ phalamanīhitam// BY_1.18
+
+yatnena sampadya manuṣyakāraṃ yatnāvakāśe puruṣo niruddhaḥ/
+pratīkṣate daivamataṃ dvitīyas tam āpado nātmakṛtāḥ spṛśanti// BY_1.19
+
+sattvārjitaṃ karmaphalaṃ sukhena vipakṣyate rājasamudyame[na]/
+kṛcchreṇa śeṣaṃ mahatā yato 'to bhājyāni mṛgyāṇi nṛbhir nṛkāraiḥ//e20 BY_1.20
+
+
+chap.2 tithiguṇa
+
+yātrākālam ataḥ paraṃ munimatāny ālokya saṃkhyāpayā-
+(mya)bhyuddhuṣya pṛthūktam akṣaragurau sampannnam īśaṃ bhuvaḥ/
+jñāte janmani tasya yānasamayaṃ vāṃchanti horāvidas
+tv ajñāte 'py aphaleṣu nākṣaram iva prāhātra ratnāvalim// BY_2.1
+
+vidite horārāśau sthānabalaparigrahe grahāṇāṃ ca/
+āyuṣi ca parijñāte śubham aśubhaṃ vā phalaṃ vācyam// BY_2.2
+
+anye vadanty avidite (tva)pi janmakāle
+yogyaḥ prayāṇasamayo manujeśvarāṇām/
+praśnodayodbhavaphal(ānvita)siddhibhāgyas
+tattvārthavinniga(da)ti sma vaco vaśiṣṭhaḥ// BY_2.3
+
+apṛcchataḥ pṛcchato vā yiyāsor yasya kasya cit/
+horākendratrikoṇebhyas tasya vindyāc chubhāśubham// BY_2.4
+
+daivajñasya hi daivena sadasatphalavāṃchataḥ/
+avaśo gocaraṃ martyaḥ sarvaḥ samupanīyate// BY_2.5
+
+aśrauṣīc ca purā viṣṇor jñānārthaṃ samupasthitaḥ/
+vacanaṃ lokanāthasya niḥsṛtaṃ mukhapaṅkajāt// BY_2.6
+
+yat sāraṃ pṛcchataḥ puṃso graharā(śyā)śritaṃ phalam/
+tatsāraṃ tasya janma syād ya(dya)py anyagṛhe bhavet// BY_2.7
+
+budhvā śāstraṃ yathānyāyaṃ balābalavidhānataḥ/
+yathoktaṃ jātake sarvaṃ tathaivātrāpi cintayet// BY_2.8
+
+tasmān nṛpaḥ kusumaratnaphalāgrahastaḥ
+prātaḥ praṇamya ravaye haridiṅmukhasthaḥ/
+horāṅgaśāstrakuśalān hitakāriṇaś ca
+saṃhṛtya daivagaṇakān sakṛd eva pṛccheta// BY_2.9
+
+atha nṛpatisamīpe daivavit pṛṣṭamātrah
+phalam udyanimittais tarkayec chāstradṛṣṭyā/
+sad iti sadasi vācyaṃ yady api syād asat tat
+sphuṭam pai kathanīyaṃ bhūbhuje mantriṇe vā// BY_2.10
+
+sumadhuraphalapuṣpakṣīravṛkṣāvṛtāyāṃ
+caraṇagatisukhāyāṃ gośakṛtpeyavatyām/
+salilakusumavatyāṃ snānino bhadramūrdhvaṃ
+grahabhagaṇagatijñaḥ prādiśet pṛcchakasya// BY_2.11
+
+stanacaraṇatalauṣṭhāṅguṣṭhahastoparāṅgaṃ
+śravaṇavadananāsāguhyarandhrāṇi bhūpaḥ/
+spṛśati yadi karāgrair gaṇḍakaṭyaṃsakaṃ vā
+pravadati śubhaśabdaṃ vāhinī śāsti śatrūn// BY_2.12
+
+udayam udayapaṃ vā janmabhaṃ janmapaṃ vā
+tad upacayagṛhaṃ vā vīkṣya lagne yiyāsoḥ/
+vinihatam aripakṣaṃ viddhi śatror idaṃ vā
+yadi hibukasametaṃ pṛcchato 'stasthitaṃ vā// BY_2.13
+
+pārṣṇigrāhaḥ pṛṣṭhato bhāskarasya prāg yātavyastigmaraśmeś ca yānaḥ/
+ākrandārkāt saptame yaḥ sthitaś ca tattulyāste śaktitaś cintayīyāḥ// BY_2.14
+
+jīvajñārkasitāparaiḥ sutasuhṛdduścitkalagnāyagaiḥ
+siddhārtho 'rigaṇān vijitya na cirāt praṣṭā sametyālayam/
+lagne vā kujamandayoḥ sutagate jīve ravau karmage
+lābhe karmaṇi vā sitendusutayoḥ praṣṭur jayo niścitaḥ// BY_2.15
+
+tasminn eva bhaved yoge yadi śukro 'ṣṭam āśritaḥ/
+praṣṭāram udyamād eva hataśaktir viśasty ariḥ// BY_2.16
+
+gurvarkaśaśibhiḥ siddhir lagnāridaśamasthitaiḥ/
+tadval lagnārirandhrasthairjīvaśukradivākaraiḥ// BY_2.17
+
+sacivāptir gurāvāye karmaṇy asitavakrayoḥ/
+caturthe jñe 'ṣṭame candre jāyāsthe ca site jayaḥ// BY_2.18
+
+karmaṇy āre ravāvāye tṛtīyasthe 'rkanandane/
+candre ṣaṣṭhe vilagnasthaiḥ śeṣaiḥ praṣṭurdhruvo jayaḥ// BY_2.19
+
+sahaje 'rkārkibhūputraiḥ saumyair lagnagatair jayaḥ/
+gurau vā lagnage pāpair lābhe karmaṇi vā sthitaiḥ// BY_2.20
+
+māheyama(nda)yoḥ ṣaṣṭhe lagne guruśaśāṅkayoḥ/
+sitacandrajayor ante jayaḥ karmaṇi tīkṣṇagau// BY_2.21
+
+ity yogāḥ śubhāḥ proktāḥ praśnakāle jayāśritāḥ/
+aśubhās tu bhavanty atra tān pravakṣyāmy ataḥ param// BY_2.22
+
+yuddhe bhaṅgo yamendvārair navamātmajalagnagaiḥ/
+śaśāṅkayamayor lagne mṛtyur bhūsutadṛṣṭayoḥ// BY_2.23
+
+savakre nidhane mande mṛtyur lagne divākare/
+candre 'smin tryāyamṛtyusthe sasūrye vā vaded vadham// BY_2.24
+
+vakrajñaśaśibhir dyūne praṣṭur nāśo 'pi gacchataḥ/
+kṣunmārāśatruvṛddhiś ca lagne māheyaśukrayoḥ// BY_2.25
+
+candrāvanījayor mūrtau ṣaṣṭhe śaśijaśukrayoḥ/
+nidhanasthe sahasrāṃśau vijñeyo mantriṇo vadhaḥ// BY_2.26
+
+tanayasya vadhaḥ praṣṭuḥ pāpair udayaputragaiḥ/
+sacandre rudhire lagne bhaṅgaḥ sūryātmajekṣite// BY_2.27
+
+dyūnanaidhanage candre lagnaṃ yāte divākare/
+viparyaye vā yātasya trāsabhaṅgavadhāgamaḥ// BY_2.28
+
+dvitrikendrasthitaiḥ pāpaiḥ saumyaiś ca balavarjitaiḥ/
+aṣṭamasthe niśānāthe praṣṭur bandhavadhātyayāḥ// BY_2.29
+
+kujacandramasor dyūne svabhedo 'rkabudhodaye/
+tadvan mandārayor yuddhe bhaṅgaḥ saumyārkayos tathā// BY_2.30
+
+sarvais tu navame rājā hanti mantripurohitān/
+yoge 'sminn udaye candre sutasthapatideśikān// BY_2.31
+
+arkārkasutayor lagne dṛṣṭayoḥ kṣitisūnunā/
+candre 'ste vibalaiḥ saumyaiḥ praṣṭuḥ senāpater vadhaḥ// BY_2.32
+
+vidhane vakrayamayoścandre 'ste lagnage ravau/
+jñe tṛtīye ca vikramya samantrī hanyate nṛpaḥ// BY_2.33
+
+mūrghodayaṃ śubhasuhṛdyutavīkṣitaṃ vā
+lagnaṃ śubhāś ca balinaḥ śubhavargalagne/
+siddhipradaṃ bhavati neṣṭam ato 'nyathā taj
+janmaprayāṇaphalayuktibhir anyad udyam// BY_2.34
+
+nidhanahibukahorāsaptamārtheṣu pāpā
+na śubhaphalakarāḥ syuḥ pṛcchatāṃ mānavānām/
+daśamabhavanayukteṣv eṣu saumyāḥ praśastāḥ
+sadasad idam aśeṣaṃ yānakāle 'pi cintyam//e35 BY_2.35
+
+
+chap.3 titiguṇa
+
+nandā bhadrā vijayāś cātha riktāḥ pūrṇāś caitāḥ phalam evaṃ vidadhyuḥ/
+neṣṭā madhyā pravarāś ceti śukle kṛṇṇe cintyās tithayas tāḥ pratīpāḥ// BY_3.1
+
+sarvāḥ śastās tithayaḥ śuklapakṣe hitvā tryṃśaṃ bahule 'ntyaṃ ca kaiścit/
+ṣaṣṭhyaṣṭamyor vasulabdhāpi yātā dvādaśyāṃ vā nāśam āśu prayāti// BY_3.2
+
+pratipadi phalam eke pañcadaśyāṃ ca neṣṭaṃ jagur idam iti tajjñair yāpyam evāvadhāryam/
+kim api kim api nūnaṃ taiḥ samīkṣyoktam etat samavacanavighāte yuktatā kena cintyā//e3 BY_3.3
+
+
+chap.4 nakṣatrabala
+
+diśi diśi bahulādyāḥ saptakāḥ prākpravṛttāḥ
+pavanadahanadiksthas tiryag atyugradaṇḍaḥ/
+surapatir api kṛcchraṃ yāti taṃ laṃghayitvā
+nanu bhavati virodho dikṣu daṇḍaikagāsu// BY_4.1
+
+prāgdvārikair analadiṅ na virodham eti śeṣāḥ pradakṣiṇagatāḥ vidiśaḥ prakalpyāḥ/
+ullaṃghya daṇḍam api kāmam iyān narendraḥ śūlaṃ vihāya yadi diṅmukhalagnaśuddhiḥ// BY_4.2
+
+jyeṣṭhāyāṃ puruhūtadiṅmukhagataḥ prāpto balir bandhanaṃ
+yāmyām ājapade muraś calitavān yāto murārer vaśam/
+rohiṇyāṃ namuciḥ pratīcy abhigataḥ pūrtiṃ gato vajriṇā
+saumyām aryamadaivate ca gatavān mṛtyor vaśaṃ śambaraḥ// BY_4.3
+
+puṣyo 'tha hastaḥ śravaṇaḥ śraviṣṭhā prācyādimukhyāny udag aśviyuk ca/
+naiśākaraṃ tvāṣṭram athānurādhā pauṣṇaṃ ca madhyāni tathāhur eke// BY_4.4
+
+sarvadvārikasaṃjñitāni gurubhaṃ hastāśvimaitrāṇi ca
+śreṣṭhāny aindavapauṣṇaviṣṇuvasubhāny ādyaiḥ sahāṣṭau sadā/
+raudrājāhiyamānilānalamaghāśāktāgnibhir ninditaṃ
+yānaṃ tvaṣṭranilāntare 'gniyamayoḥ pitryoraje cāntare// BY_4.5
+
+sve sve karmaṇi pūjitāni munibhiḥ śuddhāni sarvāṇy api
+tyaktvārkodayam ānale 'riviṣayaṃ yātrā dighakṣoḥ śubhā/
+rohiṇyāṃ triṣu cottareṣu vijayo yātur viśākhāsu ca
+tyaktvā vāsarapūrvabhāgam avadad gargo 'dhirājyārthinaḥ// BY_4.6
+
+mūlendūragaśaṅkareṣv arivadhe yāyād dinārdhaṃ vinā
+bhṛtyarthaṃ pavanāśvisūryagurubheṣv ahno 'parārdhaṃ vinā/
+rātryādau tu na pauṣṇamaitraśaśibhatvāṣṭreṣu vāṃchan dyutiṃ
+rātrer madhyam apāsya pūrvabharaṇīpitryeṣu hantuṃ parāḥ// BY_4.7
+
+niśāntabhāge triṣu vaiṣṇavādyeṣv iyād dhanārthī na punarvasau ca/
+niṣedhayanty ambupasaṃjñakasya madhyāhnam eke saniśāntabhāgam// BY_4.8
+
+yatheṣṭavelāgamanaṃ praśastaṃ hastaindavopendrasurejyabheṣu/
+kṛtvā prayāṇaṃ śravaṇe śriyo 'rthī viśen na jātuḥ kṣitipaḥ svasīmni// BY_4.9
+
+saumye gatvādhyuṣya raudre 'ditīśe saṃprasthātā bādhate śatrusaṃghān/
+maitre gatvā pauruhūte samuṣya? mūle yāyāc chatrunāśāya bhūpaḥ// BY_4.10
+
+haste gatvā svāticitre samuṣya śakrāgnyṛkṣe prasthito bādhate 'rīn/
+tiṣye pauṣṇe vāsave caikarātraṃ sīmni sthitvā bhūtim āpnoti yātā// BY_4.11
+
+ṛkṣe pāpaiḥ saṃyute 'ntaḥ prakopo lakṣmībhraṃśo rāhuṇārkeṇa rogaḥ/
+ketūlkābhyāṃ pīḍite deśanāśaḥ kleśaḥ saure soṣṇaraśmyātmaje ca// BY_4.12
+
+diṅm(ārga)dhūpapariveśavikampapāṃsuyukteṣv athānayagadaśramarogapīḍāḥ/
+bhinne graheṇa vaśatām upayāti śatroḥ sandhyārātre 'śanihate 'javighāta uktaḥ// BY_4.13
+
+janmādi karma tato dṛśan na(va)maṃ saṃghātikaṃ coḍubhāgam/
+samudayam (ā)dyād daśa(maṃ) bhramavināśasaṃjñaṃ ca trayorviṃśam// BY_4.14
+
+ādyāt tu paṃcaviṃśaṃ mānasametaṃ naraḥ ṣaḍṛkṣaḥ syāt/
+mānavanakṣatro nṛpatir ādyāt tad evābhiṣekarkṣam// BY_4.15
+
+nāmānurūpam eṣāṃ sadasatphalam iṣṭapāpaguṇadoṣaiḥ/
+janmarkṣādiviśuddhau yātā śatrūn jayaty acirāt// BY_4.16
+
+janmabhakarmādhānoditās tu sampadvipatkarāḥ kṣemāḥ/
+pratyarisādhakavaināśikāḥ syur mitrātimitre ca// BY_4.17
+
+mitrātimitrasādhakasampadaḥ kṣemeṣu karmabhe yathā/
+prāpnoti nāvaśeṣeṣv abhiṣekapurastād yātas tu// BY_4.18
+
+sitasiddhārthakaśālipriyaṅgumadayantikāmbubhiḥ puṣye/
+snātvā yāyāt prācīṃ saumye sahasramaṇitoyaiḥ// BY_4.19
+
+gośṛṅgāpyanadīgirivalmīkataḍāgamṛtsamāyuktaiḥ/
+toyaiḥ snātvā nṛpatir yāyād yāmyāṃ diśaṃ haste// BY_4.20
+
+saridabhyākulamṛḍbhiḥ snātvā (ca)caitre prāgdiśaṃ yāyāt/
+śravaṇe tu nadīsaṅgamamṛtsalilaiḥ paccimām eva// BY_4.21
+
+madhubhadradārusahitaiḥ snātvā toyair udak śraviṣṭhāsu/
+gogajaviṣāṇakośair madhughṛtapūrṇair udak pauṣṇe// BY_4.22
+
+udag vai vaiśvadeve snātvā madhupūthikāpūrtasalilaiḥ/
+naksatradevamantraiś cāgniṃ hutvā jayaṃ labhate// BY_4.23
+
+akṣatamāṣāḥ khinnās tilasahitās taṇḍulā dadhi ca gavyam/
+vṛṣabhapiśitaṃ mṛgasya ca pañcānām āśvinādīnām// BY_4.24
+
+rudhiravilāyanapāyasabhujaṅgamāṃsāni śāṅkarādīnām/
+pitrye tilaudanaṃ ṣaṣṭikānnam ṛkṣadvaye parataḥ// BY_4.25
+
+prāśyāḥ priyaṅgucitrāṇḍajāḥ phalaṃ yāvakaṃ kulatthāś ca/
+madhusarpiṣī ca hastān mūlāny ambūni saktavo mūlāt// BY_4.26
+
+śravaṇādīnām adyāc chāliṃ śākaṃ biḍālamāṃsaṃ ca/
+ājyaṃ yatheṣṭamāṃsaṃ ca saktavo māṣasaṃyuktāḥ// BY_4.27
+
+prāśyādi ghṛtaṃ tilaudanaṃ matsyāḥ kṣīram iti pradakṣiṇam/
+adyān nṛpatir yathādiśaṃ nakṣatrābhihitaṃ ca siddhaye// BY_4.28
+
+asvādu cyutakacamakṣikānuviddhaṃ durgandhi kṣayakṛd abhūri yac ca dagdham/
+susvinnaṃ mudu ruciraṃ manonukūlaṃ svādvannaṃ bahu vijayāya yānakāle// BY_4.29
+
+guṇavati tithāv ṛkṣe 'niṣṭe divā gamanaṃ hitaṃ
+niśi ca bhagane śastaṃ yānaṃ tithau guṇavarjite/
+bhatithigaditān doṣān prāpnoty ataḥ pratilomago
+guṇam api tayoḥ samyag yātur jagāda bhṛgur muniḥ//e30 BY_4.30
+
+
+chap.5 vāraphala
+
+udaranayanarogaśvāpadāraṇyavādhāḥ savitṛdivasayātāpyaśnute 'rthakṣayaṃ ca/
+anilakaphajarogān śaktimānānnahāniṃ salilajanitapīḍāṃ cāhni yātā himāṃśoḥ// BY_5.1
+
+jvalanavadhaviṣāsṛkpittaruk śatrupīḍām avanijadinayātā vādhyate śatrusaṃghaiḥ/
+ahani savitṛsūnor dainyam āpnoti gacchan svajanadhanaviyogaṃ mṛtyubandhāmayāṃś ca// BY_5.2
+
+budhadivasagato 'rīn bādhate mantraśaktyā sravaṇasukhakathāptiṃ śilpimitrāgamāṃś ca/
+kṣitidhanajayaratnastrīpratāpapramodān atibalam acireṇa svīkaroty ahni sūreḥ// BY_5.3
+
+pravarayuvatiśayyāvastragandhānnapānasmarasukhadhanaratrāny ahni bhuṃkte sitasya/
+anupacayagato 'haḥ śastam apy apraśastaṃ śubham upacayasaṃsthaḥ pāpasaṃjño vidhatte//e4 BY_5.4
+
+
+chap.6 muhūrta
+
+garavaṇijaviṣṭiparivarjitāni karaṇāni yātur iṣṭāni/
+garam api kaiś cic chastaṃ vaṇijaṃ ca vaṇikkriyāsv eva/ BY_6.1
+
+śivabhujagamitrapitṛvasujalaviśvaviriñcipaṅkajaprabhavāḥ/
+indrāgnīndraniśācaravaruṇāryamayonayaś cāhni// BY_6.2
+
+rudrājāhirbudhnyāḥ pūṣā dasrāntakāgnidhātāraḥ/
+indvaditiguruhariravitvaṣṭranilākhyāḥ kṣaṇā rātrau// BY_6.3
+
+ahnaḥ pañcadaśāṃśo rātreś caivaṃ muhūrta iti saṃjñā//
+sa ca vijñeyas tajjñaiś chāyāyantrāmbubhir yuktyā// BY_6.4
+
+nakṣatravat kṣaṇānaṃ parighādi tadīśvaraiḥ samaṃ cintyaṃ/
+phalam api tad eva dṛṣṭaṃ gargādyais tatra ca ślokāḥ// BY_6.5
+
+ahorātraṃ ca sampūrṇaṃ candranakṣatrayojitam/
+tannakṣatramuhūrtāś ca samakarmaguṇāḥ smṛtāḥ// BY_6.6
+
+aṣṭame 'rdhadivase same śubho yo viriñcavibhusaṃjñitaḥ kṣaṇaḥ/
+tena yānam apahāya dakṣiṇāṃ sarvadikṣv abhijitā praśasyate//e7 BY_6.7
+
+
+chap.7 candrabala
+
+satya āha gatikarmakalpahā janmagas tu himaguryiyāsataḥ/
+tatra dehanavate 'vajāyate tena karmasu na sādhakaḥ smṛtaḥ// BY_7.1
+
+tac ca tasya bahubhir viśodhitaṃ lagnam eva sutarāṃ yatas tanuḥ/
+tulyadehanavatāṃ prapadya kiṃ sodayodayam uvāca śobhanam// BY_7.2
+
+aṣṭavargapariśodhitaḥ śaśī śreṣṭhatāṃ samanuvartate yadā/
+janmago 'pi hi tadā praśasyate yo 'ṣṭavargaśubhadaḥ sa śobhanaḥ// BY_7.3
+
+saptamāyadaśaṣaṭtrijanmago neṣṭado dvinidhanopagair grahaiḥ/
+bandhuriḥphanavapañcamasthitaiś ceṣṭado yadi vilomaveśmagaḥ// BY_7.4
+
+yasya gocaraphalapramāṇatā tasya vedhaphalam iṣyate na vā/
+prāyaśo na bahusaṃmataṃ tv idaṃ sthūlamārgaphalado hi gocaraḥ// BY_7.5
+
+yasyotsṛjaty uḍupatiḥ puruṣo 'pasavyaṃ janmarkṣam āpadam upaiti sa bhūmipālaḥ/
+yāyī tathetaragṛhopagate sitādau yāyītareś varajayo bahule kṣayaś ca// BY_7.6
+
+horārāśāv upacayagṛhe janmabhe vā yiyāsor hānir hānāv uḍugaṇapatau vṛddhir āpūryamāṇe/
+pakṣasy ādāv apacayagṛhe hānir āpūryamāṇe vṛddhis tūktā hrasati himagau kṛṣṇapakṣādisaṃsthe// BY_7.7
+
+upacayagṛhayuktaḥ savyagaḥ śuklapakṣe śubham abhilaṣamāṇaḥ saumyamadhyasthito vā/
+sakhivaśigṛhayuktaḥ kārakarkṣe 'pi cendur jayasukhaphaladātā tatprahartāny athātaḥ// BY_7.8
+
+prakṣīṇe 'pya anupacayasthite 'pe yāyād viśrabdhaṃ yadi sakhivaśyakārakarkṣe/
+naivaṃ ced udayagṛhāt svajanmabhād vā sampūrṇe 'py upacayage 'pi na prayāyāt// BY_7.9
+
+bhṛgusutabudhabhinne ruk sureḍyena mṛtyur bhayam asitakujābhyāṃ ketunā strīpraṇāśaḥ/
+apaṭukiraṇakāntau gacchataḥ śatruvṛddhiḥ savikṛtapariveṣe netranāśaḥ śaśāṅke//e10 BY_7.10
+
+
+chap.8 lagnabala
+
+dvipadavaśagāḥ sarve siṃhaṃ vihāya catuṣpadāḥ salilanilayābharkṣāvaśyāḥ sarīsṛpajātayaḥ/
+mṛgapativaśe tiṣṭhanty ete vihāya sarīsṛpān na kathitagṛheṣūhyaṃ vaśyaṃ janavyavahārataḥ// BY_8.1
+
+sthalajalajasarīsṛpāḥ svakānāṃ balam abhivīkṣya vidheyatāṃ bhajante/
+viṣamagṛhavaśe samā dyusaṃsthā niśi viṣamā vaśavartinaḥ samānām// BY_8.2
+
+śīrṣodaye samabhivāṃchitakāryasiddhiḥ pṛṣṭhodaye viphalatāṃ balavidravaś ca/
+yātavyadiṅmukhagatasya sukhena siddhir vyarthaśramo bhavati dikpratilomalagen// BY_8.3
+
+śastaṃ divā dinabale niśi naktavīrye rāśau viparyayabale gamanaṃ na śastam/
+indvarkalagnasahiteṣu gamaścarādyeṣv anyasvakobhayamahīprativṛddhidātā// BY_8.4
+
+mīnodaye pravasataḥ kuṭilaḥ sadoṣo mārge bhavaty akṛtakāryanivartanam ca/
+anyāṃśakeṣv api jhaṣe phalam etad eva mīnāṃśakeṣu ca pararkṣasamāśriteṣu// BY_8.5
+
+ripunidhane ripunidhanaṃ ripuṣaṣṭhe lagnage vadho yātuḥ/
+satyānuśāsanam idaṃ vāsiṣṭhe nāyam ekāntaḥ// BY_8.6
+
+śatroḥ prasūtisamaye yadi nidhanaṃ saṃyutaṃ grahaiḥ pāpaiḥ/
+saumyayutaṃ vā ṣaṣṭhaṃ sadasatphalatā tatas tābhyām// BY_8.7
+
+kleśād vinā phalam arikṣayam arthasiddhiṃ prāpnoti lagnasahite pravasan svalagne/
+arthakṣayaṃ śramamanarthamato dvitīye kalyāṇasaukhyavibhavāgamam āhur eke// BY_8.8
+
+bhṛtyārthavāhanasahāyajayās tṛtīye bandhārthanāśabhayasainyavadhāś caturthe/
+mantropajāpavipadātmajabhe 'rivṛddhiḥ ṣaṣṭhe 'rivittabaladīptijayāgamāś ca// BY_8.9
+
+dyūne 'dhvavāhanavipatkṣudatiśramārtir bandho vadhaḥ paribhavo nidhane rujaś ca/
+dharme 'rthanāśagadakāryavipadbhayāni kāryaṃ vinā balabhayaṃ daśame kṣayaś ca// BY_8.10
+
+kecid vadanty upacayopagṛhītam etat tasmāc chubhaṃ daśamabhe gamanaṃ vilagen/
+arthāptidīptiśubhasiddhijayāś ca lābhe ripphe chalaṃ vyaaybhaye vijite 'pi bhedaḥ// BY_8.11
+
+rogāj janmagṛhodaye sutavadho 'siddhiś ca tatpañcame
+dyūne kleśam avāpya janmabhavanāt prāpnoti paścāt sukham/
+mārgād eva nivartanaṃ navamabhe meṣūraṇe 'rthāgamaḥ
+śeṣarkṣeṣu yathaiva lagnabhavanāt tadvat phalaṃ janmataḥ// BY_8.12
+
+kṣuttṛṣṇārtimārganāśo 'kṣirogaḥ kleśāvāptis tigmagoḥ prāgvilagne/
+śastā cāndre devatārthaṃ svadeśe kauje pittavyālaśastrāgnipīḍā// BY_8.13
+
+baudhe tuṣṭir vāṃchitāptir yaśaś ca jaive 'thāptiḥ sthānamānārināśāḥ/
+strīratnāptiḥ kāryasiddhiś ca śaukre mānde bandhavyādhinīcāvamānāḥ// BY_8.14
+
+saumyo 'pi janmani na yaḥ śubhapuṣṭidātā sthānaṃ na tasya śubhadaṃ vrajato vilagen/
+pāpo 'pi yaḥ śubhaphalaṃ prakaroti puṃsāṃ sthānaṃ vilagnagatam iṣṭam uśanti tasya// BY_8.15
+
+avidheyaṃ bhavanaṃ yat svajanmalagnarkṣayoḥ prayātṛṇām/
+apy anukūlaṃ lagnaṃ dhanakṣayāyāsadaṃ bhavati// BY_8.16
+
+sakhivaśyatām upete svajanmalagnarkṣayor vilagnarkṣe/
+apacayakare 'pi yātur jayadhanamānāgamāḥ kṣipram// BY_8.17
+
+kecid vadanti yasmin graho niraṃśaṃ karoti tallagnam/
+bhavanaṃ yātur aniṣṭaṃ bhayaśokodvegadaṃ yasmād// BY_8.18
+
+vṛṣavṛścikakarkaṭair nṛṇām anukūlair api lagnam āśritaiḥ/
+gamanaṃ pravadnay aśobhanaṃ munayo 'nyarkṣasamāśritair api// BY_8.19
+
+veśirvilagnopagato yiyāsor vināpi yatnāt kurute phalāptim/
+gauyānam iṣṭaṃ jalarāśilagne tad aṃśake cānyagṛhodaye 'pi//e20 BY_8.20
+
+
+chap.9 lagnabheda
+
+ūrdhvā tiryag vānatā syāc ca horā muktā krāntā nāgatārkā krameṇa/
+ity etāḥ syur jīvaśarmopadeśe jñeyo rāśir brahmaṣaṇḍasya pakṣe// BY_9.1
+
+ūrdhvā syād yā ṣaṭcarādyeṣu horā bhūyo bhūyo maṇḍale kaiścid uktā/
+rāśau rāśau prāgvilagnopayātaiḥ drekkāṇais tu prāha horāṃ vasiṣṭhaḥ// BY_9.2
+
+sarvaṃ pramāṇaṃ municoditatvāt kiṃ tv atra yojyaṃ dalam eva horā/
+yasmin sahasrāṃśuravasthito 'rdhe tiryaṅmukhī sā gaṇaye tato 'nyāḥ// BY_9.3
+
+dhatte vāṃchitakāryam ūrdhvavadanā kleśād vinā lagnagā
+kleśāyāsaparikṣayāṃś ca kurute tiryaṅmukhī gacchataḥ/
+sainyabhraṃśam adhomukhī prakurute kṛcchrād gṛhe cāgamaṃ
+srvāḥ puṣṭaphalapradāḥ svapatinā dṛṣṭā na pāpagrahaiḥ// BY_9.4
+
+grahadivasaphalaṃ yad eva yātur tad akhilam eva karoti tasya horā/
+himasalilasṛjo vināha kaścid yuvatisamāśrayaratnadeti cāndrī// BY_9.5
+
+drekkāṇākāraceṣṭāguṇasadṛśaphalaṃ yojayed vṛddhihetor
+drekkāṇe saumyarūpe kusumaphalayute ratnabhāṇḍānvite ca/
+saumyair dṛṣṭe jayaḥ syāt praharaṇasahite pāpadṛṣṭe ca bhaṅgaḥ
+sāgnau dāho 'tha bandhaḥ sabhujaganigale pāśayukte ca yātuḥ// BY_9.6
+
+nṛpabhūrtir lagnagate drekkāṇe mantriṇo dvitīye ca/
+vaidyapurohitasāmbatsarās tṛtīye pare bhṛtyāḥ// BY_9.7
+
+sthānaparākramacintā vyāpāraparākramau camūpabalam/
+abhyavahāryaṃ śayanāsane ca tatpaṃcasu kramaśaḥ// BY_9.8
+
+yānāsanaśayyāvāhanāni daśame 'pare 'nnapānāni/
+vāhanayodhāḥ paratas trayodaśe bhavati yuvarājā// BY_9.9
+
+jñeyaṃ balaṃ prayātur mantrasya viniścayaś ca tatparatah/
+tarataḥ pañcadaśādye drekkāṇacatuṣṭaye ripavaḥ// BY_9.10
+
+ekonaviṃśake sainikāmbuśayane dhanāni parato 'rthāḥ/
+parato 'sya daṇḍanetā saimyasyopadravaḥ prarataḥ// BY_9.11
+
+senācchidraṃ tasmāt senānetā bhavec caturviṃśe/
+sainyārogyaṃ sainyaṃ catuṣpadaṃ ca kramāt tritaye// BY_9.12
+
+kāryaṃ kośaḥ phalasiddhayas traye bhūmipās traye parataḥ/
+dharmakriyātha yodhārcanaṃ ca yātrāsamāptiś ca// BY_9.13
+
+ity udayādyā bhāvā drekkāṇair ye mayā samuddiṣṭāḥ/
+sadasatphalam ādeśyaṃ sadasadyutavīkṣaṇāt teṣām// BY_9.14
+
+navabhāge tigmāṃśorvāhananāśo vilagnasaṃprāpte/
+kṛcchrāt svagṛhāgamanaṃ pratāpamṛdutā ca candrāṃśe// BY_9.15
+
+kauje 'gnibhayaṃ baudhe mitraprāptir dhanāgamo jaive/
+bhogavivṛddhiḥ śaukre bhṛtyavināśo ravisutāṃśe// BY_9.16
+
+yad udayati phalaṃ grahe pradiṣṭaṃ janayati tasya navāṃśako vlagne/
+subhabhavananavāṃśe sahāyo ripubalabhāgam upaiti yātur atra// BY_9.17
+
+yat proktaṃ rāśy udaye dvādaśabhāge 'pi tat phalaṃ vācyam/
+yac ca navāṃśakavihitaṃ triṃśāṃśasyodaye tat syāt//e18 BY_9.18
+
+
+chap.10 grahasthānabala
+
+santāpaśokagadavighnakṛd udgame 'rkaḥ kalyāṇamānabalahārdiharo dvitīye/
+hemānnavidrumamaṇikṣitidas tṛtīye vairāgyabandhukalahāratidaś caturthe// BY_10.1
+
+putrāpadaṃ sutagṛhe 'dhvani cārthasiddhiṃ ṣaṣṭhe 'bhivāṃchitaphalāptim arikṣayaṃ ca/
+dyūne kalatrakalahaṃ dhanasaṃkṣayaṃ ca mṛtyuṃ karoti nidhane savitā rujaṃ ca// BY_10.2
+
+dharmaṃ hinasti navame savitārthadaś ca hatvā viyatyaviditaṃ śramakarmadātā/
+ratnāgamaṃ subahu lābhagataḥ karoti kṛtvā vyayaṃ vyayagataḥ kurute 'rtham alpam// BY_10.3
+
+lagne śaśī kalahaśokakaro na pūrṇaḥ strīvājiratnasuhṛdātmajadaḥ kuṭumbe/
+duścikyago yuvatiratnadhanapradātā bandhvāptidaḥ suhṛdi tatkṣayadaś ca kṛṣṇe// BY_10.4
+
+arthapradas tanayagaḥ sutaśokakṛc ca mitrāritāṃ prakurute na sukhaṃ ca ṣaṣṭhe/
+aste 'rthabhūyuvatido 'rthavināśado 'ṇuś candro 'ṣṭame nidhanaśokakaraḥ prayātuḥ// BY_10.5
+
+pratyeti cāśu navame kurute ca kāryaṃ kṣīṇe kṣayo viyati vṛddhirato 'nyathāsthe/
+aiśvaryasaukhyadhanalābham upaite lābhe kleśakṣayavyayabhayāni ca riṣphayāte// BY_10.6
+
+lagne viṣāgnirudhirāgamaśastrabādhā bhindyād balaṃ dhanagato 'rthakaraś ca paścāt/
+duścikyago yuvatiratnadhanāmbarāptiṃ bandhukṣayāribhayado hibuke mahījaḥ// BY_10.7
+
+putāpadaṃ kṣitisutaḥ kurute sutasthaḥ śatrupraṇāśam acirād arigaḥ karoti/
+arthakṣayāratigadārdanamastasaṃstho bandhārthahānigadamṛtyubhayāni mṛtyau// BY_10.8
+
+dharmaṃ na sādhayati dharmagato mahījaḥ śasto 'mbare na śubhadaḥ kathito 'pariś ca/
+lābhe 'rthasiddhivibhavāgamadaḥ prayātur vittakṣayaṃ bahu karoti gataś ca riṣphe// BY_10.9
+
+lagne kīrtisukhārthabuddhivijayān prāpnoti vittaṃ dhane
+sotkaṇṭhaṃ sa virāgameti sahaje kāmān labhetākhilān/
+pātāle śayanānnapānavibhavān putrāgamaṃ pañcame
+ṣaṣṭhe yāty aribādhyatāṃ śaśisute kleśaś ca yātur bhavet// BY_10.10
+
+jāyāsthe pravarāṅganāmbaradhanaprāptir budhe 'rkācyute
+kecit kleśam uśanti naidhanagate śaṃsanti kecic chubham/
+dharme dharmavivṛddhir ambaragate siddhir bhaved īpsitā
+vidyārthāptir ayatnataś ca parato riṣphe ca vācyo vyayaḥ// BY_10.11
+
+kīrtir lagne 'rthāthasiddhir dvitīye duścikyasthe kṣucchramārtiḥ surejye/
+pātālasthe dharmatatvābhimānā kāryaṃ sidhyaty ātmajasthe 'py asādhyam// BY_10.12
+
+ṣaṣṭhe jīve śatrurāyāti vaśyaṃ kecit prāhur vaśyatāṃ yāti śatroḥ/
+vindanty aste 'riṣṭayoṣāyaśāṃsi mṛtyau prāṇān hanty athānye jagur na// BY_10.13
+
+putrotpattir dharmasiddhiś ca dharme jīve karmaṇy arthasiddhir yaśaś ca/
+lābhe kāryaṃ vāñchitaṃ yāti siddhiḥ riṣphe prāpte kliśyate 'nekaduḥkhaiḥ// BY_10.14
+
+veśyārthāmbaramālyabhojanasukhaprāptir vilagne bhṛgau
+lābho 'rthe sahaje na sīdati gataḥ prāpnoti śreṣṭhāṃ śrutim/
+pātāle suhṛdāgamaḥ sutagṛḥ sthānārthamānāgamaḥ
+ṣaṣṭhe śatruparābhavāratiśucaṃ sthāne 'nyathā tajjaguḥ// BY_10.15
+
+dattvā strīdhanam astagaḥ svaviṣayavyucchittido bhārgavaḥ
+kāryaṃ sādhayate 'ṣṭame 'tha navame kṣipraṃ karotīpsitam/
+yātuḥ karmagataḥ prabhūtadhanado lābhe jayārthaprado
+vyarthaṃ dvādaśago vyayaṃ prakurute śasto 'parair dvādaśe// BY_10.16
+
+bandhaṃ vadhaṃ cārkasute vilagne dhane arthahāniṃ labhate śubhaṃ ca/
+śatror balaṃ hanti gatas tṛtīye caturthago bandhubhayaṃ parebhyaḥ// BY_10.17
+
+nārthasya siddhiḥ sutage 'rkaputre ripūn ripusthe sṛjayaty ayatnāt/
+utsāhabhaṅgo 'kṣirujaś ca dāre viṣāgniśastrādivadho 'ṣṭamasthe// BY_10.18
+
+dharme na dharmaṃ labhate sukhañ ca yānāvṛtiṃ karmaphalaṃ ca svasthe/
+ekādaśasthe jayavittalābhān mande 'ntyage nārtham upaiti yātā// BY_10.19
+
+prāyo jaguḥ sahajaśatrudaśāyasaṃsthāḥ
+pāpāḥ śubhāḥ savitṛjaṃ parihṛtya khastham/
+sarvatragāḥ śubhaphalaṃ janayanti saumyās
+tyaktvāstasaṃsthamamarāriguruṃ jigīṣoḥ// BY_10.20
+
+kecit prāhur arivyayāstasahajasthānāni hitvā bhṛguḥ
+śreṣṭhaś candrasuto 'ntyadharmasahajadyūnasthito netaraḥ/
+candro lābhasutārthadharmasahajavyomasthitaḥ pūjito
+jīvaḥ sarvagato maṇitthakathito neṣṭo 'ntyaṣaṭstryāśritaḥ// BY_10.21
+
+ekīyapakṣe 'pi hi kaiścid ukto bhṛguḥ śubho 'ntyātmajalābhavarjam/
+candrastriṣaṣṭhāyadaśāstasaṃstho budho 'stalagnāyasuhṛdvyayasthaḥ//e22 BY_10.22
+
+
+chap.11 utsargāpavāda
+
+saumyāsaumyeṣv etal lagnādstheṣu yat phalaṃ proktam/
+tatsamakālagatānāṃ phalavaiṣamyād anekāntam// BY_11.1
+
+horāvido jagur idaṃ sutāv abalo daśādhipāriś ca/
+aśubhaphaladaś cāsāmpratam udaye saumyo 'pi neṣṭaphalaḥ// BY_11.2
+
+sāmprataṃ śubhadaḥ sutau balanvito yo daśādhi(pa)mitraṃ ca/
+pāpo 'piśubhaphalaḥ syāc chalokaḥ śāstroditaś cātra// BY_11.3
+
+saumyo 'py atīvacirabhāviphalo na yojyaḥ
+pāpo 'py asāmprataphalo ripunirjitaś ca/
+pākādhipo ''tmasadanāṣṭakavargaśuddhaḥ
+avalpo 'phalaś ca dinabhāṃśavidhis tathā syāt// BY_11.4
+
+saumyaṃ daśādhipaṃ lagnasaṃsthamicchanti kecid ācāryāḥ/
+pāpāṃ copacayasthaṃ na vilagne tatra ca ślokau// BY_11.5
+
+saumyagraheṣu lagneṣu śubham ekāntaniścitam/
+papagrahodaye yātur asaṃśayam aśobhanam// BY_11.6
+
+tasmāt krūraṃ daśānāthaṃ yātur vīryaguṇānvitam/
+kuryād upacayarkṣeṣu na vilagne kathaṃcana// BY_11.7
+
+tac ca viruddhaṃ teṣāṃ katham anyadaśāsu dāsyate svaphalam/
+evaṃ phalasya nāśo vrajati sarvasya phalali(lī)psoḥ// BY_11.8
+
+tasmān naikānto 'yaṃ jātakam avalokya nirdiśet sadasat/
+ślokau vṛttaṃ bhedaṃ prāha maṇittho vasiṣṭhaś ca// BY_11.9
+
+rakṣakā vardhakāś caiva ye syur janmani nāyakāḥ/
+tān pāpān api niḥśaṅko yātrālagneṣu yojayet// BY_11.10
+
+śubhāśubhaphalā yogā jātake ye 'py udāhṛtāḥ/
+tān sarvān avalokyaiva prayāṇeṣv api yojayet// BY_11.11
+
+horāgataḥ svabhavane yadi sūryaputro meṣopago 'vanisutaḥ svagṛhe śaśāṅkaḥ/
+śukras tulādharagato mithune budhaś ca siṃhe ravir yadi ca pārthivajanma vidyāt// BY_11.12
+
+janmasamaye śaśāṅkodayopacayasaṃsthitā grahāḥ kecit/
+te sarve nānākhyā krūrāḥ saumyaiḥ samāścintyāḥ// BY_11.13
+
+yo yasya daśamagṛhagaḥ sa tasya vaśyas tu bhavati niyamena/
+yaś cātha paṇapharasthaḥ sa bhavati rakṣopagas tadvat// BY_11.14
+
+upacayagṛhopayātāḥ prasparaṃ kīrtits tu tānasamāḥ/
+ādau prakīrṇakādhyāye coditāḥ kārakāś ca// BY_11.15
+
+janmeśvaralagnapayor yaḥ śatrur lagnagaḥ sa saumyo 'pi/
+kurute dehavipattiṃ krūro 'pi śubhaṃ tayor mitram// BY_11.16
+
+bhaven na yaḥ kārakatānasaṃjñaḥ svajanmalagnādhipayoḥ śubho 'pi/
+karoti lagnopagataḥ sa yātur bhayaṃ vināśaṃ ca bahuprakāram// BY_11.17
+
+papo 'pe lagnopagato narāṇāṃ śubhapradaḥ kārakatānasaṃjñaḥ/
+tasmāt praytnād idm eva cintyaṃ yiyāsatāṃ kārakatānayātam// BY_11.18
+
+eko 'pi vakropagato narāṇāṃ śubho 'śubho vāpi catuṣṭayasthaḥ/
+vargo 'pi vāsyodayago vināśaṃ bahuprakāraṃ kurute 'dhvagānām// BY_11.19
+
+svasutasthāne sūryaḥ strījanaratnapramodado lagne/
+avaśeṣasthānagato vadhabandhodvegadaḥ kṣipram// BY_11.20
+
+uḍupatir udayaṃ prāptaḥ sarvasthānopagaḥ prayātṛṇām/
+kurute ripupravṛddhiṃ dīptivināśaṃ vighātaṃ ca// BY_11.21
+
+sthāne 'rkasutasya kujo lagnastho ripuvināśajayadātā/
+śeṣasthānopagataḥ kṣitisuto ratnārthanāśakaraḥ// BY_11.22
+
+raviśaśibhaumasthāneṣv anarthado lagnagaḥ śaśāṅkasutaḥ/
+bhṛgusutagurumandānām abhiṣekajayārthadīptikaraḥ// BY_11.23
+
+jīvo bhṛgucandramasoḥ sthāne dhanayodhanāśakaḥ proktaḥ/
+tatpariśeṣasthāneṣv avanisuhṛdvittaṃjayadātā// BY_11.24
+
+saumyasthāne śukro balahānikaro 'rthado 'rihantā ca/
+sthāne pariśeṣāṇām anilajvaraśatrukopakaraḥ// BY_11.25
+
+arkasthāne mando lagnasthaḥ prītisaukhyalābhakaraḥ/
+neṣṭo 'nyasthānasthaḥ pratāpabalamānahānikaraḥ// BY_11.26
+
+savitṛtanayaḥ svasthānastho dhanāṅgavināśakṛt
+tuhimakiraṇaḥ strīratnāptiṃ nareśvaratāṃ raviḥ/
+avanitanayaḥ sainyakṣobhaṃ priyaśravaṇaṃ budhaḥ
+suragururatho bhogaprāptiṃ karoti jayaṃ sitaḥ// BY_11.27
+
+yo 'staṃ yāty udayaṃ vā dakṣiṇamārgasthitaḥ sahastrāṃśoḥ/
+kurute grahaḥ salagne yodhadhanāṅgakṣayaṃ yātuḥ// BY_11.28
+
+tigmakarasyottarato darśanam āyāti yo graho 'staṃ vā/
+madhye tu vā sa lagne yātuḥ kusumāmbarāśanadaḥ// BY_11.29
+
+niyatagatidyutivarṇapramāṇavaikṛtyam ucyate vikṛtiḥ/
+vikṛtistho galnagato na śubhaḥ śubhadaḥ svabhavanasthaḥ// BY_11.30
+
+yāmye tamo jñaḥ śravaṇe ravis tu jāto viśākhāsu sitaś ca puṣye/
+pauṣṇapyabhāgyoragakṛttikāsu mandāravāgīśaśiravīndujanmā// BY_11.31
+
+trividhotpātābhihataṃ balavad grahapīḍitaṃ ca yasyarkṣaṃ/
+yātrāyāṃ lagnagataḥ sa varjanīyo 'nukūlo 'pi// BY_11.32
+
+pākeśvarādhimitre tadvarge vā vilagnage yātuḥ/
+svayam arir upaiti vaśyaṃ praṇataśirāḥ sārvabhaumo 'pi// BY_11.33
+
+pakeśvarārilagne varge vā tasya bhūpatir gacchan/
+vinihataśūranarāśvaḥ śatror āyāti vaśyatvam/ BY_11.34
+
+mūrtyarthayodhavāhanamantryarimārganaidhanamanāṃsi/
+karmāgamavyayāścodayādayaḥ kīrtitā bhāvāḥ// BY_11.35
+
+yātrāphalaṃ caturthe jāmitre śatravaḥ pramādaś ca/
+śubhapāpagrahayogāc chubhāśubhaṃ nirdiśed eṣām// BY_11.36
+
+satyācāryasya mate vibalaḥ śastaḥ śaśī prayāṇeṣu/
+digvīryonaḥ kevalam induḥ śasta iti jagur anye// BY_11.37
+
+yad eva yasyodayasaṃsthitasya phalaṃ prayāṇe sadasat pradiṣṭam/
+tad eva tasyākhilam ahni yātur grahasya varge ca vilagnasaṃsthe//e38 BY_11.38
+
+
+chap.12 miśraka
+
+vyasanaṃ prāpno(ti) mahad vyatipāte nirgato 'thavā mṛtyum/
+vaidhṛtigamane 'py evaṃ tryahnaspṛśi samupadiśānty eva// BY_12.1
+
+nāvamarātre yāyād doṣas tatrādhimāsake vyasanam/
+ṛtvayanayugasyāptau na vijayakāṅkṣī nṛpaḥ pravaset// BY_12.2
+
+svarkṣeśadaśādhipayor mitrodāsīnaśatrubhāṃśabhavāḥ/
+tatpākabhujaś coktā vijigīṣor mitramadhyaripavaḥ// BY_12.3
+
+riktāniṣṭadaśo 'rir niyamād vijigīṣuṇā samucchedyaḥ/
+avarohidaśaḥ pīḍyaḥ karṣayitavyas tathārohī// BY_12.4
+
+na sadṛśadaśo 'bhiyojyaḥ sandhānaṃ tena bhūpater vyāsam/
+aśubhaiṣyāsannadaśaḥ śubhaiṣyapākena sandadhyāt// BY_12.5
+
+śreyān viparyaye vigrahas tathārohiṇy aśubhaiṣyadaśaḥ/
+āsīta yadā śatruḥ śubhaiṣyapāke vidūrasthaḥ// BY_12.6
+
+ārohiśubhaiṣyadaśaḥ pākapatau balayute ca bhūpālaḥ/
+yāyāt tadviparītaṃ dvaidhībhāvaṃ tu miśradaśaḥ// BY_12.7
+
+riktopahatadaśāyāṃ janmodayanāthaśatrupāke ca/
+svadaśeśakārakadaśaḥ saṃśrayaṇīyo narādhipatiḥ// BY_12.8
+
+upacayakartur vrajed diśaṃ balavati kaṇṭakage ca dikpatau/
+manasāpi na digbalānvite digadhipatau ca lalāṭasaṃsthite// BY_12.9
+
+janmodayapau balānvitāv upacayakaṇṭakagau śubhapradau/
+krūrāv api nityam eva tau saumyair eva samāv udāhṛtau// BY_12.10
+
+svadaśādhipajanmalagnapāḥ sandhyārkopagatā na śobhanāḥ/
+parihṛtya sitārkanandanau madhyās tigmakarād viniḥsṛtāḥ// BY_12.11
+
+parasparaṃ saurikujau ravīndū trikoṇagau bhārgavalohitau ca/
+phalaṃ yad uktaṃ tad aśeṣam eva vināśya paścāt svadiśaṃ nayantām// BY_12.12
+
+ripudivaso yasya bhavet saumyo 'pi sa lagnago na śubhadātā/
+pāpo 'pīṣṭaṃ janayati mitraṃ svadine vilagnasthaḥ// BY_12.13
+
+balinaḥ kaṇṭakasaṃsthā varṣādhipamāsadivasahoreśāḥ/
+dviguṇaśubhāśubhaphaladā parataḥ parato grahā yātuḥ// BY_12.14
+
+yātrājasiṃhaturagopagate variṣṭhā madhyā śanaiścarabudhośanasāṃ gṛheṣu/
+bhānau kulīrajhaṣavṛścikage 'tidīrghā śastas tu devalamate 'dhvani pṛṣṭhato 'rkaḥ// BY_12.15
+
+sakalaphaladadaśāḍhyake pravarā madhyāṣṭavargasaṃśuddhau/
+nyūnaphalā tātkālikavilagnatithidivasakaraṇādyaiḥ// BY_12.16
+
+uttamaphalā yātrā trikoṇatuṅgopaca(ye)ṣu saumyeṣu/
+madhyā svamitrabhavanopageṣu nīcāribheṣv adhamā// BY_12.17
+
+madhyādhamādhamottamasamamadhyādhodhamottamotkṛṣṭā/
+madhyottamā ca ṣaṣṭhā yātrā yātrāvidāmiṣṭā// BY_12.18
+
+digvargavilomage hate sandhyākaropagate vidīdhitau/
+śukre pravasan narer vaśaṃ yāti budhe ca vilomasaṃsthite// BY_12.19
+
+anulo(ma)gate śaśāṅkaje śukre caivam api vyavasthite/
+yāyād aviśaṅkito 'paraiḥ kathito 'pyāṅgiraso yathendujaḥ// BY_12.20
+
+ākrandasārī dinamadhyago 'rkaḥ pauraḥ purastād aparatra yāyī/
+ākranda indur gurumandasaumyāḥ paurāḥ smṛtā yāyina ity ato 'nye// BY_12.21
+
+yāyigrahair vīryajayopapannaiḥ ke 'riprayāṇaṃ pravadanti dhanyam/
+satyaṃ tathā kiṃ tu viśeṣam āhus te bhūpateḥ satphaladā jigīṣoḥ// BY_12.22
+
+dṛṣṭe sāmnāṃ karmaniṣṭaṃ surārau vaitālīyaṃ pādadambhau ca hitvā/
+śasto rāhus tryāyakarmopayāto yātavyaś cāsannatāgaś ca ketuḥ// BY_12.23
+
+sāmnāṃ śukrabṛhaspatī dinakaro vakraś ca daṇḍeśvarau
+bhedasyendujarāhuketuravijā dānasya naktamcaraḥ/
+ārkādāṭavikaṃ yamā(d) bhṛtabalaṃ(syu)r bhārgav(āc chreṇikaṃ)
+jñān mantraṃ ripudeśamaulabalapālak(ābhaume)nduvāgīśvarāḥ// BY_12.24
+
+yato 'pa(pa)nnadivasakaroḍunāthayos tato vrajed ripunadhanāya pārthiva/
+athāyanena yugapad ekasaṃsthayor dyunaktayo raviśaśinor vrajet tadā//e25 BY_12.25
+
+
+chap.13 dehaspandana
+
+dakṣiṇapārśvaspandanam abhidhāsye tatphalakṣayo vāme/
+pṛthivīlābhaḥ śirasi sthānavivṛddhir lalāṭe syāt/ BY_13.1
+
+bhrūnāsikāntare priyasamāgamo bhṛtyalabdhir akṣiṇos tu/
+dṛkparyante 'rthāptiḥ pūrve jñeyātra cotkaṇṭhā// BY_13.2
+
+yoṣitsaukhyaṃ gaṇḍe dṛkcaramādhaś ca saṅgare vijayaḥ/
+śravaṇe ca hitaśravaṇaṃ nāsāyāṃ prītisaukhyaṃ ca// BY_13.3
+
+adharottarauṣṭhayoḥ priyasamāgamavijayau gale ca bhogāptiḥ/
+aṃse bhogavivṛddhir vāhāviṣṭena saṃyogaḥ// BY_13.4
+
+haste 'rthāptiḥ pṛṣṭhe parājayo vakṣasi smṛto vijayaḥ/
+prītyutpattiḥ pārśve stane tv apūrvā viṣayalabdhiḥ// BY_13.5
+
+kaṭyāṃ balapramodaḥ sthānabhraṃśaḥ prakīrtito nābhau/
+haste kośavivṛddhiḥ kleśo hṛdaye 'rthaparyantaḥ// BY_13.6
+
+vāhanalābhaḥ sphigyāyurvṛṣaṇe yoṣidāgamaḥ śiśne/
+muṣke tanayotpattir vastāv antaḥpurābhyudayaḥ// BY_13.7
+
+pṛṣṭhata ūrvor doṣaḥ purataś calane tu śacivahitalabdhiḥ/
+pracalati ca jānusandhāv arisandhānaṃ balavad uktam// BY_13.8
+
+deśaikadeśanāśo jaṃghāyāṃ sthānalabdhiraṃdhry upari/
+adhvāgamanam alābhaṃ caraṇatale spandamāne tu// BY_13.9
+
+vraṇapiṭakatilakalāṃchanamaśakādāyas tv eva nirdiṣṭāḥ (syuḥ)/
+kaṇḍūyanaṃ narapater dakṣiṇapāṇau jayāyaiti//e10 BY_13.10
+
+
+chap.14 cittaśuddhir
+
+pṛṣṭavyo daivavidā viśrabdham upahvare narādhipatiḥ/
+ripunidhanapraṇidhānaṃ prati bhavataḥ kiṃ manaḥ kurute// BY_14.1
+
+brūyāt sa cen mama manaḥ protsahate harṣayet tataś caivam/
+cittānukūlatā siddhilakṣaṇaṃ tatra ca ślokāḥ// BY_14.2
+
+śubhāśubhāni sarvāṇi nimittāni syur ekataḥ/
+ekataś ca manaśśuddhis tad dhi śuddhaṃ jayāvaham// BY_14.3
+
+kiyac ciraṃ na labhyeta nimittaṃ gamanānugam/
+na tv eva tu mano 'narthaṃ cireṇāpy anumanyate// BY_14.4
+
+nimittānucaraṃ sūkṣmaṃ dehendriyamahattaram/
+tejo hy etac charīrasthaṃ trikālaphaladaṃ nṛṇām// BY_14.5
+
+prīyate na mano 'narthair nāsiddhāv abhinandati/
+tasmāt sarvātmanā yātur anumeyaṃ sadā manaḥ//e6 BY_14.6
+
+
+chap.15 guhyakānuṣṭhāna
+
+yātrārvāk saptāhād guhyakasāhāyakaṃ tryahaṃ pūrvam/
+tryaham atha vijayasnānaṃ gṛhayajñaṃ saptame divase// BY_15.1
+
+pakvāmamāṃsadadhiphalakusumāsavapāyasapratisarobhiḥ/
+mūlakabhakṣair gandhair guggulumukhyais tathā dhūpaiḥ// BY_15.2
+
+sāṃvatsarasacivapurohitāptapuruṣāyudhīyaparicāraḥ/
+yāyān nagaracatuṣpatham abhuktavastrottarīyāṅgaḥ// BY_15.3
+
+ardhaniśāyām udayati saumye vakre 'thavā tadaṃśe vā/
+dadyād baliṃ daśasv apy āśāsu purohitaḥ kramaśaḥ// BY_15.4
+
+āvartayet purodhāḥ kṛtāñjalis tatra rudrasāvitrīm/
+kūṣmāṇḍamahārauhiṇakuberahṛdayāny ataḥ prapaṭhet// BY_15.5
+
+dvāratrikacatuṣkādripuraniṣkuṭavāsinaḥ/
+mahāpathanadītīraguhāgāhvaravasinaḥ// BY_15.6
+
+viśvarūpā mahāsattvā mahātmano mahāvratāḥ/
+prathamāḥ pratigṛhnīdhvam upahāraṃ namo 'stu vaḥ// BY_15.7
+
+suputrāmātyabhṛtyo 'yaṃ sadāraś caiva pārthivaḥ/
+rakṣṇīyo hite cāsya prayatadhvaṃ samāhitāḥ// BY_15.8
+
+evam uktvā tatas tv arghyaṃ pramathebhyaḥ pradāpayet/
+sāvitryāḥ sthaṇḍile tasmin sūtastūpahared balim// BY_15.9
+
+yamendravaruṇārtheśaviṣṇupāvakaśūlinām/
+yakṣarakṣaḥpiśācānām asurāṇāṃ tathāiva ca// BY_15.10
+
+ye syur bhūtagaṇās tebhyo namo 'stv ity anuyāntu ca/
+sannaddhāḥ svaiḥ praharaṇair arisenāvadhā ināḥ// BY_15.11
+
+camūsametā anuyāntu pṛṣṭhato vicitramālyābharanā madotkaṭāḥ/
+vicitravastrā jaṭilāḥ kirīṭinaḥ karālalambodarakubjavāmanāḥ// BY_15.12
+
+nivṛttayātraḥ punar apy ahaṃ hi vo vijitya śatrūn bhavatāṃ prasādataḥ/
+ato viśiṣṭaṃ bahuvittam uttamaṃ baliṃ kariṣye vidhinopapāditam// BY_15.13
+
+anarcitā ye nṛpatiṃ savāhanaṃ vināśayanti kṣapayanti vā camūn/
+supūjitāḥ siddhikarā bhavanti te pravādhakāḥ śatrugaṇasya cāhave// BY_15.14
+
+kṣaṇaṣaṣṭhibhāgamātraṃ prayato nṛpatir visarjayet pramathān/
+daivajñapurodhobhyām āveditamaṅgalo yāyāt//e15 BY_15.15
+
+
+chap.16 svapna
+
+dukūlamuktāmaṇibhṛn narendraḥ samantridaivajñapurohito 'taḥ/
+svadevatāgāram anupraviśya niveśayet tatra digīśvarārcām// BY_16.1
+
+abhyarcya mantrais tu purohitas tān adhaś ca tasyāṃ bhuvi saṃskṛtāyām/
+darbhais tu kṛtvāstaram akṣatais ca kiret samantāt sitasarṣapaiś ca// BY_16.2
+
+brāhmīṃ sadūrvām atha nāgapuṣpīṃ kṛtvopadhānaṃ śirasi kṣitīśaḥ/
+pūrṇān ghaṭān puṣpaphalābhidhānān āśāsu kuryāc caturaḥ krameṇa// BY_16.3
+
+yaj jāgrato dūram upaiti daivam āvartya mantrāṃ kramaśas trir etam/
+laghv ekabhug dakṣiṇapārśvaśāyī svapnaṃ parīkṣeta yathopadeśam// BY_16.4
+
+namaḥ śambho trinetrāya rudrāya paramātmane/
+vāmanāya virūpāya svapnādhipataye namaḥ// BY_16.5
+
+bhagavan deva deveśa sūlabhṛd vṛṣavāhana/
+iṣṭāniṣṭe mamācakṣva svapne suptasya śāśvatam// BY_16.6
+
+ekavastre kuśāstīrṇe suptaḥ prayatamānasaḥ/
+niśānte paśyati svapnaṃ śubhaṃ vā yadi vā 'śubham// BY_16.7
+
+gataiṣyajātyantarasattvasaṅgaiḥ svapne 'py anūke gatije ca nityam/
+yātuḥ prakopād anilātmakasya nagādrituṅgāmbaralaṅghanāni// BY_16.8
+
+pittādhike kāñcanaratnamālyadivākarāgniprabhṛtīni paśyet/
+śleṣmādhikaś cendubhaśubhrapuṣpasaritsarombhodhivilaṅghanāni// BY_16.9
+
+jaghanyamadhyaprathame niśāṃśe prāvṛccharanmādhavasaṃjñate ca/
+kāle marutpittakaphaprakopāt sādhāraṇaḥ syāt phalasannipātaḥ// BY_16.10
+
+daśāsu coktaṃ grahapākajātaṃ cintā tu dṛṣā tu yathā tathaiva/
+bībhatsasattvābhibhavo 'bhicāro vighnodbhavo guhyakajaḥ pradiṣṭaḥ// BY_16.11
+
+anūkacintāgrahadoṣadṛṣṭāny atītakarṃāṇi ca niṣphalāni/
+dyudṛṣṭapūrvāḥ kathitāś ca tadvad anyatra loke kathitā viśeṣāḥ// BY_16.12
+
+pratyakṣavad bhavati yaḥ sphuratīva cāntaḥ
+svapnasya tasya niyamāt sadasatphalāptiḥ/
+svapnāḥ śubhāśubhakṛtāḥ phaladā narāṇām
+uddeśamātram iha tān anuvarṇayāmi// BY_16.13
+
+svāṅgaprajvalanaṃ paropagamanaṃ śakradhvajāliṅganaṃ
+diksaṃvṛttanarendrakanyakatanor vikṣepaṇaṃ dikṣu ca//
+bandho vā nigale grasec ca dahanaṃ nānāśirobāhutā
+chatraṃ vā dvirado 'bhiṣicya bibhṛyād divyo 'thavā brāhmaṇaḥ// BY_16.14
+
+uḍupadinakṛdgośṛṅgāgrasrutāmbvabhiṣecanaṃ
+yadi ca mahiṣīsiṃhīvyāghrīgavāṃ sukhadohanaḥ/
+jaṭharanisṛtaiś cāntrair grāmadrumādiniveṣṭanaṃ
+viśati yadi vā suśliṣṭāṅgī tanuṃ pravarāṅganā// BY_16.15
+
+manujahṛdayamūrdhnāṃ bhakṣaṇaṃ vā svadeha-
+bhujagaturagasiṃhebhājamāṃsādanāni/
+tṛṇatarukusumāmbhaḥprodgamo vā svanābhau
+kṣititanuparivartonmūlane vādhirājyam// BY_16.16
+
+dinakaraśaśitārābhakṣaṇasparśaṇāni
+daraṇam api ca mūrdhnaḥ sapta pañca tridhā vā/
+vṛṣabhagṛhanagendrāśvebhasiṃhādhiroho
+grasanam udadhibhūmyoś cādhirājyapradāni// BY_16.17
+
+vipularaṇavimardadyūtavādaiś ca jitvā
+paśumṛgamanujānāṃ labdhir agryāsanaṃ vā/
+viḍaśanaparilepo 'gamyanārīgamo vā
+svamaraṇaśikhilābhaḥ sasyasandarśanaṃ ca// BY_16.18
+
+sitasurabhimanojñālepamālyāmbarāṇāṃ
+dvijasuragururājñāṃ darśanāny āsiṣaṃ ca/
+maṇirajatasuvarṇāmbhojapātreṣu bhuṅkte
+yadi dadhiparamānnaṃ śoṇite majjane vā// BY_16.19
+
+sitaturagarathadhvajātapatravyajanasarojamaṇidvipendralābhāḥ/
+abhaya jaya ca bhuṃkṣva ceti śabdāḥ pariṇatarājyaphalapradāḥ pradiṣṭāḥ// BY_16.20
+
+pūrvajanmasu cābhyastā sattvarūpā gatis tadā/
+(tada)nūkam iti proktam iha paścāt karoti yat// BY_16.21
+
+mudrādiṣu yajñanīviṣu strīsaṃjñādiṣu cāṅganāptir uktā/
+labdhe śayane 'tha darpaṇe bhṛṅārādiṣu codbhavaḥ (suta)sya// BY_16.22
+
+kāminyāṃ dhanalabdhir ambutaraṇe śokasya nāśo bhaved
+dharṣo roditaśocitādiṣu tathā dāhe vivṛddhir matā/
+gośṛṅgidvijadevatāpitṛsuhṛdbhūpāś ca śaṃsanti yat
+svapne tan niyamād bhavaty avitathaṃ neṣṭaṃ śubhaṃ vā phalam// BY_16.23
+
+gobheranyatra gotre tṛṇatarukusumaprodbhavaḥ snehapānaṃ
+krīḍāyānopabhogaḥ kharakapikarabhavyālarūpaiś ca sattvaiḥ/
+kāyasyālepanaṃ vā kaluṣamalamaṣīgomayasnehapaṅkair
+dṛgjihvādantabāhuprapatanam athavānarthaśokapradāni// BY_16.24
+
+gītotkrīḍitabhūṣitaprahasitapr(āmoditā)khelitāni
+arkendudhvajatārakānipatanaṃ strotovahāyā gamaḥ/
+rajjucchedacitāprapātajananīgātrapraveśas tathā
+svapne kāṃsyavicūrṇanaṃ ca śirasaḥ kleśāmayānarthadāḥ// BY_16.25
+
+śmaśrukeśanakhadairghyakalpanā vānarīvikṛtanāryupāsanam/
+raktavastramanujāṅgamardanaṃ rogamṛtyubhayaśokatāpadam// BY_16.26
+
+sthalamṛgapaśukīṭānūpavaryandhajānāṃ
+plavanamudakarāśau syād vivāhotsavo vā/
+sarasijajatubhāṇḍakrīḍanaṃ nartanaṃ vā
+malinavivasanatvaṃ cāśu rogapradāni// BY_16.27
+
+svadravyanāśaḥ suhṛdāṃ viyogaśchedaś ca pāṇyoḥ kamalāpahāraḥ/
+prāsādaveśmādriśirovatārāḥ svapneṣu neṣṭā iti saṃpradiṣṭāḥ// BY_16.28
+
+mitrasyāptiḥ syādvikośāsilābhe vaśyaṃ gacched bhūpateḥ śāsanāptau/
+sarpe karṇau nāsikāṃ vā praviṣṭe tacchedaḥ syād veṣṭane cāśu bandhaḥ// BY_16.29
+
+ādye varṣād vatsarārdhād dvitīye yāme pāko varṣapādāt tṛtīye/
+māsāt pākaḥ śarvarīpaścimāṃśe sadyaḥ pāko govisarge ca dṛṣṭe// BY_16.30
+
+dṛṣṭvā svapnaṃ śobhanaṃ neha supyāt paścād dṛṣṭo yaḥ sa pākaṃ vidhatte/
+śaṃsediṣṭaṃ tatra sādhudvijebhyas te tvāśibhiḥ pūjayeyur narendram// BY_16.31
+
+bhūyaḥ prasvapanaṃ na cāsya kathanaṃ gaṅgābhiṣeko japaḥ
+śāntiḥ svastyayanaṃ niṣevaṇam api prātargavāśvatthayoḥ/
+viprebhyaś ca tilānnapānakusumaiḥ pūjā yathāśaktitaḥ
+puṇyaṃ bhāratakīrtanaṃ ca kathitaṃ duḥsvapnavicchittaye//e32 BY_16.32
+
+
+chap.17 vijayasnāna
+
+kṣīraikatarunagārṇavatūlanadīsaṅgamāḥ saraḥ śoṣyam/
+gosthānapaṭusurālayarucirāḥ snānapradeśāḥ syuḥ// BY_17.1
+
+samagambhīrānūṣaraśāḍvalabhūmau pradakṣiṇajalāyām/
+kāṣṭhāraśmipramitaṃ vāstu likhet sarvato bhadram// BY_17.2
+
+sarvair dhānyais tilamudgamāṣacaṇakātasīpariśliṣṭam/
+acchinnāgrair darbhaiḥ kuśaiḥ sa(mastā)t paristīrṇam// BY_17.3
+
+rajatamaṇihemagarbhaiḥ sakṣīrapravālasitasūtrai(ś ca)/
+kalaśaiḥ kālamūlaiś ca śobhitadvāraṃ (tanmadhye)// BY_17.4
+
+tanmadhye brāhmī brahmā sāma dūrvāgraśaṃkhapuṣpāḥ syuḥ/
+diṅmukham aratnituṅgaṃ sthāpyaṃ pīnaṃ sapraveṣṭam// BY_17.5
+
+tasya grahānulomaṃ kālaṃ kecij jagur niṣeveta/
+purogha ....... ṣāṣṭikayavapāyasāhāram// BY_17.6
+
+abhimatadevakṛtamanāḥ pūrvadvāreṇa pārthivaḥ praviśet/
+bhadrāsanaṃ pradakṣiṇam adhyāsitvātha tasya vidhiḥ// BY_17.7
+
+priyaṅgusiddharthakanāgadānagorocanākṣair ghṛtaiḥ sametaiḥ/
+prāg ātmarakṣā praticakrapūtaiḥ snānonmukhasyāvanipasya kāryā// BY_17.8
+
+śvetasya babhror athavā vṛṣasya carmāstare vyāghramṛgendrayor vā/
+tatsthasya kuryān manujeśvarasya jayābhiṣekaṃ vidhivat purodhāḥ// BY_17.9
+
+kramān mahīrūpyasuvarṇakumbhaiḥ kṣīrasya dadhno haviṣaś ca pūrṇaiḥ/
+snāyāc ca toyaiḥ saha saptamṛdbhiḥ paścāc ca sarvauṣadhigandhatoyaiḥ// BY_17.10
+
+parijapya mahārauhiṇakuṣmāṇḍakuverahṛdayarudragaṇaiḥ//
+abhiṣecayen narendraṃ purohito 'smin samṛdhdyā ca// BY_17.11
+
+dvātriṃśatiṃ ṣoḍaśa vāthavāṣṭau ghaṭapramāṇaṃ munibhiḥ pradiṣṭam/
+snātas tv alaṅkāram apāsya pūrvaṃ navaṃ vidadhyād dvijamantrapūrtam// BY_17.12
+
+māgaghabandisuhṛddvijasūtair abhimatavākkṛtamaṅgalakuśalaḥ/
+carmasu copaviśed abhiṣiktaḥ pṛṣatagajendraviḍālavṛkāṇām// BY_17.13
+
+gṛhītadhūpāmbaramālyagandhas trir bhrāmayitvopari cauṣadhīṃś ca/
+vāme 'sya pārśve 'grata āsthito vā pratīpapātaṃ juhuyād dhutāśam// BY_17.14
+
+gorocanāhemaphalāni sarpirbrāhmīṃ sadūrvāṃ sitasarṣapāṃś ca/
+āsevya sarvāṇi yathopadeśaṃ bhaktyā dvijān svasti ca vācayitvā// BY_17.15
+
+saumyena yāyāt phalapuṣpapāṇir dvāreṇa paśyen na ca pauruhūtam/
+prāg uddhared dakṣiṇapādam evaṃ kurvan nṛpaḥ sarvaripūn praśāsti//e16 BY_17.16
+
+
+chap.18 grahayajña
+
+grahayajñam ato vakṣye tatra nimittāni lakṣayed vedyām/[cited in bs 43.14]
+bhaṅgo mānonāyāṃ digbhraṣṭāyām asiddhiś ca// BY_18.1
+
+nagarapurohitadevīsenāpatipārthivakṣayaṃ kurute/[cited in bs 43.14]
+prāgdakṣiṇāparottaramadhyamabhāgeṣu yā vikalā// BY_18.2
+
+tatrārcā tāmramayī savituḥ pālāśikā susruksamidhaḥ/
+ā kṛṣṇeti ca mantro raktā gandhāḥ sahāguraṇāḥ// BY_18.3
+
+māṣātasītilāṃś cārkasamudgacaṇakān vihāya bhojyavidhiḥ/
+vakulārkāgastyapalāśaśallakīkusumapūjā ca// BY_18.4
+
+aṣṭaśatasaṃmitebhyo viprebhyo dakṣiṇāhitāgnibhyaḥ/
+deyā vṛṣakanakamahī sahasrakiraṇaṃ (sa)muddiśya// (sūryaḥ) BY_18.5
+
+nyagrodhāt sruksamidhaḥ sphaṭikād arcā ca śitagoḥ kāryā/
+śaileyakanakhavarjyā gandhāḥ kusumāni ca sitāni// BY_18.6
+
+godhūmaśāliyāvaravaṇḍagopayaḥ pūrvam aśanam atha mantraḥ/
+āpyāyasveti bhavec cāturvedāya dadyāc ca// BY_18.7
+
+maṇimuktākṣaumahiraṇyasaṃyutāṃ śvetatulyavatsāṅgām/
+rajataśaphaviṣāṇāṃ kṣīriṇīṃ ca tu himāṃśum uddiśya//(candraḥ) BY_18.8
+
+raktakaravīrasamidho raktā gandhāś ca candanāt pratimā/
+mantraś cāgnir mūrdhety aśanaṃ guḍaṣaṣṭikaprāyam// BY_18.9
+
+tāmrakanakapravālaurṇikāni deyāni dakṣiṇā cāsya/
+uddiśya dharātanayaṃ chandogebhyo vratasthebhyaḥ//maṃ(galaḥ) BY_18.10
+
+mantraś codbūdhyasvetyādi pratimā ca yuktilohamayī/
+sruksamidhaś ca madhūkād atha vā cāndrer apāmārgāt// BY_18.11
+
+yuktiprāyā gandhāḥ kālīyakakuṅkumapriyaṃgvādyāḥ/
+kusumāni mālatīvakulatilakamadayantikādīni// BY_18.12
+
+bhojyaṃ masuratilaśālimudgacaṇakādi dakṣiṇā svacchaś ca/
+sarajatamaṇir vratibhyaś cāndrer ātharvaṇebhyaś ca//bu(dhaḥ) BY_18.13
+
+aśvatthyarjunasamidhaḥ kanakārcā tv agnivarjitā gandhāḥ/
+pītakusumāni ca guror bhojyaṃ tilamudgacaṇakāni// BY_18.14
+
+bahvṛgbhya ekavarṇaṃ madhyamavayasaṃ turaṅgamaṃ dadyāt/
+śṛṅgīsuvarṇayuktaṃ bṛhaspateś ceti guror mantraḥ//bṛ(haspatiḥ) BY_18.15
+
+rajatārcā madanīyā gandhāḥ kusumāni citrasurabhīṇi/
+panasodumbarasamidho bhojyaṃ vṛṣyaṃ ca bhṛgusūnoḥ// BY_18.16
+
+annāt parisrutādyo mantraḥ strīkarkaśās tv alaṅkārāḥ/
+adhvaryubhyo deyā dvātriṃśadbhyaḥ tadarhebhyaḥ//śu(kraḥ) BY_18.17
+
+śālaśamīsruksamidhaḥ śanno devīti bhāskarer mantraḥ/
+lohārcā śaileyakamustakaśuktyutkaṭā gandhāḥ// BY_18.18
+
+girikarṇikātasīspandanāṃjanādīni kṛṣṇapuṣpāṇi/
+aśanāni kṛṣṇatilamāṣacaṇakaniṣpāvamukhyāni// BY_18.19
+
+preṣyām atītavayasāṃ trapvaṃjanasīsakṛṣṇalohayutām/
+dadyād uddiśyārkiṃ vṛṣalīpativṛddhamūrkhebhyaḥ//śa(niḥ) BY_18.20
+
+vaibhītasruksamidho rāhor home 'thavā bhaved dūrvā/
+mantraś ca kayā naścitrapūrvako 'rcā ca nāgamayī// BY_18.21
+
+uddiśya saiṃhikeyaṃ mahiṣaṃ pratipādayet suvṛddhebhyaḥ/
+viprebhya iti yad anyat tat sarvaṃ sūryaputrasamam//(rāhuḥ) BY_18.22
+
+ketoḥ kāṃsyapratimā ketuṃ kṛṇvann na ketave mantraḥ/
+āraṇyakusumapūjā sruksamidhaḥ khadirakuśamayyaḥ// BY_18.23
+
+māṃsaudanam ananaṃ 1brahmabandhuvargasya dakṣiṇā deyā/
+praharaṇaphalgudravyāṇi caivaṃ ketuṃ samuddiśya//(ketuḥ)e24 BY_18.24
+
+
+chap.19 agnilakṣaṇa
+
+kṛtvaivaṃ grahapūjām ṛcā tataś cāgniliṅgayā juhuyāt/
+ślokāṃś cāsminn arthe kāśyapamunicoditān vakṣye// BY_19.1
+
+tato 'pratirathaṃ kṛtsnaṃ yātrāliṅgaṃ ca yad bhavet/
+āyuṣyam abhayaṃ caiva sarvaṃ caivāparājitam// BY_19.2
+
+śarmavarmagaṇaṃ caiva tathā svastyayanaṃ gaṇam/
+etān pañcagaṇān hutvā saṃsthāpyāgniṃ yathāvidhi// BY_19.3
+
+bhūta bhūteti ca gaṇaṃ yatte candras tathaiva ca/
+aindro gaṇas tathā cāndro mantrāśīḥsūktam eva ca// BY_19.4
+
+bhūyo bhūyas tathā jvālāṃ saṃspṛśyātha purohitaḥ/
+spṛśec ca nṛpatiṃ mantrair uccair brūyāt punaḥ punaḥ// BY_19.5
+
+cakṣurdaḥ prāṇadaś cāpi varcodaś ca bhava prabho/
+anādhṛṣyatamaś cāsi yathā tvaṃ havyavāhana// BY_19.6
+
+śātravāṇāṃ tathā rājāpy anādhṛṣyo bhavaty ayam/
+hūyamāne nimittāni vakṣyāmy aham ataḥ param// BY_19.7
+
+kampotkāsavijṛmbhaṇapracalanasvedāśrupātakṣudho-
+dgārādyaṃ ca purodhasaḥ smṛtivipac cāniṣṭam anyac chubham/
+ājyaṃ keśapipīlikāmalayutaṃ sattvāvalīḍhaṃ ca yat
+tan neṣṭaṃ śubham anyathopakaraṇaṃ dravyāṇy anūnāni ca// BY_19.8
+
+utthāya svayam ujjvalārcir analaḥ svāhāvasāne havir
+bhukte dehasukhaḥ pradakṣiṇagatiḥ snigdho mahān saṃhataḥ/
+nirdhūmaḥ surabhiḥ sphuliṅgarahito yātrānulomo mṛdur
+muktendīvarakāñcanadyutidharo yātur jayaṃ śaṃsati// BY_19.9
+
+iṣṭadravyaghaṭātapatraturagaśrīvṛkṣaśailākṛtir
+bheryabdodadhidundubhībhaśakaṭasnigdhasvanaḥ pūjitaḥ/
+neṣṭaḥ proktaviparyayo hutavahaḥ snigdho 'nyathāpīṣṭadaḥ
+savye 'ṅge nṛpatiṃ dahann atihitaḥ śeṣaṃ ca lokād vadet//e10 BY_19.10
+
+
+chap.20 prasthānika
+
+vrajed digīśaṃ hṛdaye niveśya yathendra mainryām aparāś ca tadvat/
+suśuklamālyāmbarabhṛn narendro visarjayed dakṣiṇapādam ādau// BY_20.1
+
+sitātapatro maṇiratnaśobhaḥ pradhūyamānaiḥ sitacāmaraiś ca/
+jayasvanāpūritarājamārgo dvijendramantrābhivivṛddhatejāḥ// BY_20.2
+
+kanyāṇanāmasacivāptajanāyudhīyadaivajñaviprajanakaṃcukimadhyasaṃsthaḥ/
+dvātriṃśataṃ samupagamya padāni bhūmau prāgādi nāgarathavājinraiḥ prayāyāt//e3 BY_20.3
+
+
+chap.21 gajalakṣaṇeṅgita
+
+mā bhūt prasaṅgād ativistaro 'tra gajāśvapuṃlakṣaṇadarśaneṣu/
+nimittamātraṃ kathayāmy ato 'haṃ prayāṇakālopayikaṃ nṛpāṇām// BY_21.1
+
+tāmrauṣṭhatāluvadanāḥ kalaviṅkanetrāḥ snigdhonnatāgradaśanāḥ pṛthulāyatāsyāḥ/
+cāponnatāyatanigūḍhanimagnavaṃśās tanvekaromacitakūrmasamānakumbhāḥ// BY_21.2
+
+vistīrṇakarṇahanunābhilalāṭaguhyāḥ kūrmonnatair\footnote{bṣ 66.7b kūrmonnata-} dvinavaviṃśatibhir nakhaiś ca/
+rekhātrayopacitavṛttakarāḥ sajalāmbhodaninādavṛṃhiṇaḥ\footnote{bṣ 66.7d dhanyāḥ sugandhimadapuṣkaramārutāś ca}/ BY_21.3
+
+dīrghāṅguliraktapuṣkarāḥ sajalāmbhodaninādavṛṃhiḥaḥ/
+bṛhadāyatavṛttakaṃdharā dhanyā bhūmipater matāṅgajāḥ\footnote{bṣ 66.8d mataṅgajāḥ}// BY_21.4
+
+nirmadābhyadhikahīnanakhāṅgān kubjavāmanakameṣaviṣāṇām/
+dṛśyakośaphalapuṣkarahīnān śyāvanīlaśavalasitatālūn// BY_21.5
+
+svalpavaktraruhamatkuṇakhaṇḍān hastinīṃ ca gajalakṣaṇayuktām/
+garbhiṇīṃ ca nṛpatiḥ paradeśaṃ prāpayed ativirūpaphalās te// BY_21.6
+
+dantamūlapariṇāhadīrghatāṃ dviḥ pramucya parato 'sya kalpayet/
+śyāvāpūtimalaraktadarśanaṃ pāpasattvasadṛśaṃ ca pāpadam// BY_21.7
+
+pārthivopakaraṇākṛtiṃ yadā cihnam udvahati kalpite rade/
+śrījayārthabalavṛddhayas tadā snigdhaśuklarucirāś ca śobhanāḥ// BY_21.8
+
+dakṣiṇe śubham atīva śobhanaṃ pāpam apy ativirūpam anyataḥ/
+yāpyatā bhavati tadviparyaye vistaro 'nyamunibhiḥ prakīrtitaḥ// BY_21.9
+
+mūlamadhyadaśanāgrasaṃsthitā devadaityamanujāḥ kramāt tataḥ/
+sphītamadhyaparipelavaṃ phalaṃ śīghramadhyacirakālasambhavam// BY_21.10
+
+dantabhaṅgaphalam atra dakṣiṇe bhūpadeśabalavidravapradam/
+vāmataḥ sutapurohitebhayān hanti sāṭavikadāranāyakān// BY_21.11
+
+ādiśed ubhayabhaṅgadarśanāt pārthivasya sakalaṃ kulakṣayam/
+saumyalagnatithibhādibhiḥ śubhaṃ vardhate 'śubham ato 'nyathā bhavet// BY_21.12
+
+kṣīravṛkṣaphalapuṣpapādapeṣv āpagātaṭavighaṭṭanena\footnote{bṣ 93.11béġvighaṭṭitena} vā/
+vāmamadhyaradabhaṅgakhaṇḍane śatrunāśakṛd ato 'nyathāparam// BY_21.13
+
+skhalitagatir akasmāt trastakarṇo 'tidīnaḥ śvasiti mṛdu sudīrghaṃ nyastahastaḥ pṛthivyām/
+drutamukulitadṛṣṭiḥ svapnaśīlo vilomo bhayakṛd ahitabhakṣī naikaśo 'sṛcchakṛtkṛt// BY_21.14
+
+valmīkasthāṇugulmakṣupatarumathanaḥ svecchayā dṛṣṭadṛṣṭir
+yāyād yātrānulomaṃ tvaritapadagatir vaktram unnāmya coccaiḥ/
+kakṣāsannāhakāle janayati ca muhuḥ śīkaraṃ vṛṃhitaṃ vā
+tatkālaṃ vā madāptir jayakṛd atha radaṃ veṣṭayan dakṣiṇaṃ ca//e15 BY_21.15
+
+
+chap.22 vājilakṣaṇeṅgita
+
+āvartasattvadyutivarṇajātiyānasvarāṅgādiguṇopapannāḥ/
+saṃkṣepato 'śvā vijayāya rājñām āvartaleśopanayo yato 'yam// BY_22.1
+
+aśrupātahanugaṇḍahṛdgalaprothaśaṅkhakaṭivastijānuṣu/
+muṣkanābhikakude tathā gude savyakukṣicaraneṣu cāśubhāḥ// BY_22.2
+
+ye prapānagalakarṇasaṃsthitāḥ pṛṣṭhamadhyanayanoparisthitāḥ/
+oṣṭhavaṅkri\footnote{bṣ 65.céġsakthi}bhujakukṣipārśvagās te lalāṭasahitāḥ suśobhanāḥ// BY_22.3
+
+vālāvakiraṇaheṣitadhūmajvālādi codyame lakṣyam/
+turagāṇām atrāryāḥ prakīrtitā viṣṇuguptakṛtāḥ// BY_22.4
+
+tatrotsargeṇāsanapaścimabhāgāśraye jvalanam eṣām/
+neṣṭam itaratra śastam vāmetarapārśvayos tadvat// BY_22.5
+
+samam anyat padakesarapuccheṣu jvalanadahanakaṇadhūmāḥ/
+rāṣṭrabhayarogasambhramasapatnacakrāpamardakarāḥ// BY_22.6
+
+prākphalatulyaṃ pṛṣṭhe jaghane vāleṣu caiva nirdiṣṭam/
+antaḥpuraprakopo meḍhrajvalane sadhūme vā// BY_22.7
+
+nityaṃ ca bālakiraṇe dāhajvālāsphuliṅgakaṇadhūmāḥ/
+skandhāsanāṃsadeśe vadhāya bandhāya ca raṇeṣu// BY_22.8
+
+vakṣokṣilalāṭabhujeṣv aśvānāṃ heṣatāṃ ca vadanebhyaḥ/
+jvālotpattir jayadā dhūmotpattiḥ svāmino 'bhāvāya// BY_22.9
+
+nāsāpuṭāśrupātaprothaśirolocaneṣu rajanīṣu/
+vijayāya prajvalanaṃ tāmrāsitaharitaśavalānām// BY_22.10
+
+vijayāya sarvaidaiva hi suśuklaśukavarṇayor jvalanam eṣu/
+evaṃ ca yathāsambhavam anyeṣv api vāhaneṣu phalam// BY_22.11
+
+iṣṭāniṣṭavyaṃjakam ataḥ paraṃ heṣitaṃ samavadhāryam/
+tac ca prasāritācalaśirodharodbhūtam iṣṭaphalam// BY_22.12
+
+grāsāntarvaktrāṇām uccaiḥ snigdhānunādi gambhīram/
+dvijapūrṇabhājaneṣṭadravyasraggandhasuramūlaiḥ// BY_22.13
+
+khalinānnapānavarmasvāmyupakaraṇābhinanditā caiṣām/
+sarvārthasiddhaye syād dakṣiṇapārśvaṃ vilokayatām// BY_22.14
+
+sandhyāsu dīptadiṅmukhasambhramagāḍhapranaṣṭanidrāś ca/
+heṣanto bhayajananā vadhabandhaparājayakarāś ca// BY_22.15
+
+vakrīkṛtavāladhayo dakṣiṇapārśvānuśāyino neṣṭāḥ/
+vāmacaraṇaiḥ kṣititalaṃ ghnanto jñeyāḥ pravāsāya// BY_22.16
+
+sajṛmbhaṇaṃ pṛṣṭhavidhūnanaṃ ca vālaprakāras tv asakṛl lilikṣoḥ/
+pādena pādākalanaṃ prasaṅgaḥ senāsamudyogadṛśāṃ hayānām// BY_22.17
+
+nidrānirodhālasanīlanetrāḥ pradhyānaśūnyasmṛtayo dineṣu/
+niśāsu cānyonyavirodhanaṣṭanidrās turaṅgā na śivāya bhartuḥ// BY_22.18
+
+jaṃghe liṃhannavraṇaromapaṅke pādau ca saṃhṛṣṭatanur jayāya/
+viparyayaḥ paścimayoḥ prayatnāt svayaṃ tu yātrābhimukho niyamya// BY_22.19
+
+muhurmuhur mūtraśakṛt karoti na tāḍyāmāno 'py anulomayāyī/
+akāryabhīto 'śruvilocanaś ca śivaṃ na bhartus turago vidhatte// BY_22.20
+
+ārohati kṣitipatau vinayopapanno yātrānugo 'nyaturagaṃ pratiheṣitaś ca/
+vaktreṇa vā spṛśati dakṣiṇam ātmapārśvaṃ yo 'śvaḥ sa bhartur acirāt pratanoti lakṣmīm//e21 BY_22.21
+
+
+chap.23 śakunaśubhāśubha
+
+anyajanmāntarakṛtaṃ puṃsāṃ karma\footnote{bṣ 85.5b karma puṃsāṃ} śubhāśubham/
+yat tasya śukunaḥ pākaṃ nivedayati gacchatām// BY_23.1
+
+grāmyāraṇyāmbubhūvyomadyuniśobhayacāriṇaḥ/
+rutayātekṣitokteṣu grāhyaḥ puṃstrīnapuṃsakāḥ/ BY_23.2
+
+pṛthagjāty anavasthānād eṣāṃ vyaktir na labhyate\footnote{bṣ 85.7d lakṣyate}/
+sāmānyalakṣaṇoddśe ślokāv ṛṣikṛtāv imau// BY_23.3
+
+pīnonnatavikṛṣṭāṅgāḥ\footnote{bṣ 85.8a -aṅgāḥ} pṛthugrīvāḥ savakṣasaḥ\footnote{bṣ 85.8b sthiravikramāḥ}/
+svalpagambhīravirutāḥ pumāṃsaḥ sthiravikramāḥ// BY_23.4
+
+tanugrīvaśironāsāḥ\footnote{bṣ 85.9a tanūraskaśirogrīvāḥ} sūkṣmāsyapadavikramāḥ/
+prasanna\footnote{bṣ 85.9c prasakta-}mṛdubhāṣiṇyaḥ striyo 'to 'nyaṃ napuṃsakam// BY_23.5
+
+grāmyāraṇyapracārādyaṃ lokād evopalakṣayet/
+saṃvikṣipsur ahaṃ vacmi yātrāmātraprayojanam// BY_23.6
+
+pathyātmānaṃ nṛpaṃ sainye pure coddiśya devatām/
+sārthe prdhānaṃ sāmye tu\footnote{bṣ 85.11d syāj} jātividyāvayodhikam// BY_23.7
+
+muktaprāptaiṣyasūryāsu\footnote{bṣ 85.12a -arkāsu} phalaṃ dikṣu tathāvidham/
+aṅgāradīptadhūminyas tāś ca śāntās tato 'parāḥ// BY_23.8
+
+tatpañcamadiśāṃ tulyaṃ phalaṃ\footnote{bṣ 85.13b śubhaṃ} traikālyam ādiśet/
+pariśeṣadiśor vācyaṃ yathāsannaṃ śubhāśubham// BY_23.9
+
+śīghram āsannanimnasthaiś cirād unnatadūragaiḥ/
+sthānavṛdhyupaghātāś ca tadvad brūyāt phalaṃ budhaḥ\footnote{bṣ 85.14d punaḥ}// BY_23.10
+
+kṣaṇatithyuḍuvātārkair daivadīpto yathottaram/
+kriyādīpto gatisthānabhāvasvaraviceṣṭitaiḥ// BY_23.11
+
+daśadhaivaṃ praśānto 'pi saumyas tṛṇaphalāśanaḥ/
+māṃsāmedhyāśano raudro vimiśro 'nnāśanaḥ smṛtaḥ// BY_23.12
+
+harmyaprāsādamāṅgalya\footnote{bṣ 85.17a -maṅgalya-}manojñasthānasaṃsthitāḥ/
+śreṣṭhā madhurasakṣīraphalapuṣpadrumeṣu ca// BY_23.13
+
+svakāle giritoyasthā balino dyuniśācarāḥ/
+klīvastrīpuruṣāś caiva balinaḥ syur yathottaram// BY_23.14
+
+javajātibalasthānaharṣasattvair balānvitāḥ\footnote{bṣ 85.19b svarānvitāḥ}/
+svabhūmāv anulomāś ca tadūnāḥ syur vivarjitāḥ// BY_23.15
+
+ka(ms.ku)kkuṭebhacirillyaś\footnote{bṣ -pirilyaś} ca śikhivañjulacchikkarāḥ/
+balinaḥ siṃhanādāś ca kūṭapūrī ca pūrvataḥ// BY_23.16
+
+kroṣṭukolūkahārītakākakokarkṣapiṅgalāḥ/
+kapotaruditākrandra(ms.ākranda)krūraśabdāś ca yāmyataḥ// BY_23.17
+
+gośaśakrauñcalomāśahaṃsotkrośakapiñjalāḥ/
+viḍālotsavavāditragītahāsāś ca vāruṇāḥ// BY_23.18
+
+śatapatrakuraṅgākhumṛgaikaśaphakokilāḥ/
+cāṣaśalyakapuṇyāhaghaṇṭāśaṃkharavā udak// BY_23.19
+
+na grāmyo 'raṇyago grāhyo nāraṇyo grāmasaṃsthitaḥ/
+divācaro na śarvaryāṃ na ca naktaṃcaro divā// BY_23.20
+
+dvandvarogārditatrastakalahāmiṣakāṃkṣiṇaḥ/
+āpagāntaritā mattā na grāhyāḥ śakunāḥ kvacit// BY_23.21
+
+rohitāśvājavāleyakuraṅgoṣṭramṛgāḥ śaśāḥ/
+niṣphalāḥ śiśire jñeyā vasnate kākakokilau// BY_23.22
+
+na tu bhrādrapade grāhyāḥ sūkarāś ca\footnote{bṣ 85.27b sva} vṛkādaya/
+śarady abjādagokrauñcāḥ śrāvaṇe hasticātakau// BY_23.23
+
+vyāghrarkṣavānaradvīpimahiṣāḥ savileśayāḥ/
+hemante niṣphalā jñeyā bālāḥ sarve vimānuṣāḥ// BY_23.24
+
+aindrānaladiśor madhye tribhāgeṣu vyavasthitāḥ/
+kośādhyakṣānalājīvitapoyuktāḥ pradakṣiṇam// BY_23.25
+
+śilpī bhikṣur vivastrā strī yāmyānaladigantare/
+parataś cāpi mātaṅgagopadharmasamāśrayāḥ// BY_23.26
+
+nairṛtīvāruṇīmadhye pramadāḥ sūtitaskarāḥ/
+śāktikaḥ\footnote{bṣ 85.31c śauṇḍikaḥ} śākunir hiṃsro vāyavīpaścimāntare// BY_23.27
+
+viṣaghātakagosvāmikuhakajñās tataḥ param/
+dhanavānīkṣaṇīkaś ca mālākāras tataḥ param\footnote{bṣ 85.23d paraṃ tataḥ}// BY_23.28
+
+vaiṣṇavaś carakaś caiva vājinām rakṣaṇe rataḥ/
+evaṃ dvātriṃśato bhedāḥ pūrvadigbhiḥ sahoditāḥ// BY_23.29
+
+rājā kumāro netā ca dūtaḥ śreṣṭhī caro dvijaḥ/
+gajādhyakṣaś ca pūrvādyāḥ kṣatriyādyāś caturdiśaḥ// BY_23.30
+
+gacchatas tiṣṭhato vāpi diśi yasyāṃ vyavasthitaḥ/
+virauti śakuno vācyas taddigjena samāgamaḥ// BY_23.31
+
+bhinnabhairavadīnārtaparuṣākṣamajarjarāḥ/
+svarā neṣṭāḥ śubhāḥ śāntā hṛṣṭaprakṛtipūritāḥ// BY_23.32
+
+śivāśyāmāralāchucchupiṅgalāgṛhagodhikāḥ/
+sūkarī parapuṣṭā ca punnāmānaś vāmatah// BY_23.33
+
+strīsaṃjñā bhāsabhaṣakakapiśrīkarṇacchitkarāḥ/
+śikhiśrīkaṇṭhapippīkāruruśyenāś ca dakṣiṇā// BY_23.34
+
+kṣveḍāsphoṭitapuṇyāhagītaśaṃkhāmbuniḥsvanāḥ/
+satūryādhvayanāḥ puṃvat strīvad anyā giraḥ śubhāḥ// BY_23.35
+
+grāmyau madhyamaṣaḍjau tu gāndhāraś ceti śobhanāḥ/
+ṣaḍjaumadhyamagāndhārā ṛṣabhaś ca svarā hitāḥ// BY_23.36
+
+rutakīrtanadṛṣṭeṣu bhāradvājājabarhiṇaḥ/
+dhanyau nakulacāṣau ca saraṭaḥ pāpado 'grataḥ// BY_23.37
+
+jāhakāhiśaśakroḍagodhānāṃ kīrtanaṃ śubham/
+rutasaṃdarśanaṃ neṣṭaṃ pratīpaṃ vānararkṣayoḥ// BY_23.38
+
+ojāḥ pradakṣiṇaṃ śastā mṛgāḥ sanakulāṇḍajāḥ/
+cāṣaṃ sanakulaṃ vāmaṃ bhṛgur āhāparāhnataḥ// BY_23.39
+
+chitkaraḥ\footnote{bṣ 85.44a chikkaraḥ} kūṭapūrī ca pirilī(?) cāhni dakṣiṇāḥ/
+apasavyaṃ sadā śastā daṃṣṭriṇaḥ savileśayāḥ// BY_23.40
+
+śreṣṭhe hayasite prācyāṃ śavamāṃse ca dakṣiṇe/
+kandakādadhinī paścād udag gā viprasādhavaḥ// BY_23.41
+
+jālaśvacaraṇau neṣṭau prāg yāmye śastraghātakau/
+paścād āsavaṣaṇḍau ca khalāsanahalāny udak// BY_23.42
+
+karmasaṅgamayuddheṣu praveśe naṣṭamārgane/
+yānavyatyastagā grāhyā viśeṣaś cātra kathyate\footnote{bṣ 85.47d vakṣyate}// BY_23.43
+
+divā prasthānavad grāhyāḥ kuraṅgaruruvānarāḥ/
+ahnas tu prathame bhāge cāṣavañjulakukkuṭāh// BY_23.44
+
+paścime śarvarībhāge naptṛkokūkapiṅgalāh/
+sarva eva viparyasthā grāhyāḥ sārtheṣu yoṣitām// BY_23.45
+
+nṛpasandarśane grāhyāḥ praveśe 'pi prayāṇavat/
+giryaraṇyapraveśeṣu nadīnāṃ cāvagāhane// BY_23.46
+
+vāmadakṣiṇagau śastau yau tu tāv agrapṛṣṭhagau/
+krīyādīptau vināśāya yātuḥ praighasaṃjñitau// BY_23.47
+
+tāv eva tu yathābhāgaṃ praśāntarutaceṣṭitau/
+śakunau śakunadvārasaṃjñitāv arthasiddhaye// BY_23.48
+
+kecit tu śakunadvāram icchanty ubhayataḥ sthitaiḥ/
+śakunair ekajātīyaiḥ śāntaceṣṭāvirāvibhiḥ// BY_23.49
+
+visarjayati yady eka ekaś ca pratiṣedhati/
+sa virodho 'śubho yātur grāhyo vā balavattaraḥ// BY_23.50
+
+pūrvaṃ prāveśiko bhūtvā punaḥ prāsthāniko bhavet/
+sukhena siddhim ācaṣṭe praveśe tadviparyayāt// BY_23.51
+
+visṛjya śakunaḥ pūrvaṃ sa eva niruṇaddhi cet/
+prāha yātur arer mṛtyuṃ samaraṃ\footnote{bṣ 85.56d ḍamaraṃ} rogam eva ca// BY_23.52
+
+apasavyās tu śakunā dīptā bhayanivedinaḥ/
+ārambhe śakuno dīpto vṛṣānte\footnote{bṣ 85.57d varṣāntas} tadbhayaṃkaraḥ// BY_23.53
+
+tithivāyuarkabhasthānaceṣṭādīptā yathākramam/
+dhanasainyabalāṅgeṣṭakarmaṇāṃ syur bhayaṃkarāḥ// BY_23.54
+
+jīmūtadhvanidīpteṣu bhayaṃ bhavati mārutāt/
+ubhayoḥ sandhyayor dīptāḥ śastrodbhavabhayaṃkarāḥ// BY_23.55
+
+citākeśakapāleṣu mṛtyubandhavadhapradāḥ/
+kaṇṭakīkāṣṭhabhasmasthāḥ kalahāyāsaduḥkhadāḥ// BY_23.56
+
+aprasiddhiṃ bhayaṃ vāpi niḥsārāśmavyavasthitāh/
+kurvanti śakunā dīptāḥ śāntā yāpyaphalās tu te// BY_23.57
+
+āsiddhisiddhidau\footnote{bṣ 85.62a asiddhisiddhidau, āsiddhisiddhidauéīéġôṅé“ék‍h̲éóéṝéīücbṣéḵå]éśéōôṅé—üb} jñeyau nirhārāhārakāriṇau/
+sthānāt krośan\footnote{bṣ 85.62c ruvan} vrajed yātrāṃ śaṃsate tv anyathāgamam// BY_23.58
+
+kalahaḥ svaradīpteṣu sthānadīpteṣu vigrahaḥ/
+uccam ādau dhvaniṃ\footnote{bṣ 85.63c svaraṃ} kṛtvā nīcaṃ paścāc ca doṣakṛt// BY_23.59
+
+ekasthāne ruvan dīptaḥ saptāhād grāmanāśakṛt\footnote{bṣ grāmaghātakaḥ}/
+puradeśanṛpāṇāṃ ca ṛtvardhāyanavatsarāt// BY_23.60
+
+sarve durbhikṣakartāraḥ svajātipiśitāśanāḥ/
+sarpamūṣikamārjārapṛthuromavivarjitāḥ// BY_23.61
+
+parayoniṣu gacchanto maithunam deśanāśanāḥ/
+anyatra veśarotpatter nṛṇāṃ vājātimaithunāt// BY_23.62
+
+bandhaghātavadhāni\footnote{bṣ 85.67a -bhayāni} syuḥ pādorumastakābhigaiḥ\footnote{bṣ 85.67b pādorūmastakāntigaiḥ}/
+apsasyapiśitānnaādair vargamoṣakṣatagrahāḥ// BY_23.63
+
+iṣṭaṃ vā gorasānnaṃ vā bhāradvājasya darśane/
+cāṣasya pūrṇavaktrasya mahān lābhaḥ pradakṣiṇe// BY_23.64
+
+vāmadakṣiṇagaḥ śreṣṭhaḥ purastāc ca kapiṃjalaḥ/
+tittiriḥ pṛṣṭhataḥ śreṣṭhaḥ sarvatrānyatra garhitaḥ// BY_23.65
+
+anulomo vṛṣo nardan dhanyo gaur mahiṣas tathā/
+gamanapratiṣedhāya kharaḥ pratyurasi sthitaḥ// BY_23.66
+
+ulūkī vāmataḥ kṣemyā dakṣiṇena ca kokilā/
+śarkariś ca (?) mayūraś ca śasyate dakṣiṇe sadā// BY_23.67
+
+vṛkāḥ śṛgālāḥ śārdūlā viḍālā gardabhāḥ śunaḥ/
+vāmato 'rthakarā jjeyāḥ kuraṅgā dakṣiṇena ca// BY_23.68
+
+riktakumbo 'nukūlaś ca śasto 'mbhorthī yiyāsataḥ/
+cauryavidyāvaṇigvittam udyatānāṃ viśeṣataḥ//e69 BY_23.69
+
+
+chap.24 śivāruta
+
+pṛṣṭhataḥ pūjitā śāntā śivā māṃsāsthivarjitā/
+krūraśabdātidīptā ca krūrakarmaṇi pūjitā// BY_24.1
+
+pūrvodīcyoḥ śivā śastā śāntā sarvatra pūjitā/
+dhūmitābhimukhī hanti svaradīptā digīśvarān// BY_24.2
+
+[rājā kumāro netā ca dūtaḥ śreṣṭhī caro dvijaḥ/
+gajādhyakṣaś ca pūrvādyāḥ kṣatriyādyāś caturdiśam//] BY_24.3
+
+sarvadikṣv aśubhā dīptā viśeṣeṇāhnyaśobhanā/
+pure sainye 'pasavyā ca kaṣṭā pūrvonmukhā śivā// BY_24.4
+
+yāhīty agnibhayaṃ śāsti ṭāṭeti mṛticoditā\footnote{bṣ 89.6b mṛtavedikā}/
+dhigdhik duṣkṛtam ācakṣe sajvālā deśanāśinī// BY_24.5
+
+naiva dāruṇatām eke svajvālāyāḥ\footnote{bṣ 89.7b sajvālāyāḥ} pracakṣate/
+arkādyanalavat tasyā vaktrāj jvālā svabhāvataḥ\footnote{bṣ 89.7d vaktraṃ lālāsvabhāvataḥ}// BY_24.6
+
+anyapratirutā yāmyā sā bandahavadhaśaṃsinī/\footnote{bṣ 89.8b sodbandhamṛtaśaṃsinī}
+vāruṇyābhirutā\footnote{bṣ 89.8c anurutā} saiva saṃsate salile mṛtim// BY_24.7
+
+akṣobhyaśravaṇaṃ ceṣṭaṃ dhanaprāptiḥ priyāgamaḥ/
+kṣobhāt pradhānabhedaś ca vāhanānām asampadaḥ\footnote{bṣ 89.9d ca sampadaḥ}/ BY_24.8
+
+phalam ā saptamād etad agrāhyaṃ parato rute/
+yāmyāyāṃ tadviparyastaṃ phalaṃ ṣaṭpañcamād rute\footnote{bṣ 89.10d ṛte}// BY_24.9
+
+yā romāṃcaṃ manuṣyāṇāṃ śakṛnmūtraṃ ca vājinām/
+rāvāt trāsaṃ ca janayet sā śivā na śivapradā// BY_24.10
+
+maunaṃ gatā pratirute naradviradavājibhiḥ/
+yā śivā sā śivaṃ sainye pure vā saṃprayacchati//e11 BY_24.11
+
+
+chap.25 vāyaseṅgita
+
+śasto nīḍas tu vaiśākhe padape nirupadrave/
+deśotthānaṃ tu valmīkacaityadhānyagṛhādiṣu// BY_25.1
+
+kākānāṃ śrāvaṇe dvitricatuḥśāvāḥ śubhāvahāḥ/
+gairikaśvetacitrāś ca varṇāś caurāgnimṛtyudāḥ// BY_25.2
+
+aṇḍāvakiraṇe dhvāṃkṣā durbhikṣamarakāv ubhau/
+śāvānāṃ vikalatve vā niḥśāvatve kṛtāthavā// BY_25.3
+
+hared upanayed vāpi yad dravyaṃ vāyaso 'grataḥ/
+tan nāśalabdhau vijñeyau hemapīte vinirdiśet// BY_25.4
+
+raktadravyaṃ pradagdhaṃ vā nyasan gehe 'gnidaḥ smṛtaḥ/
+tṛṇabhasmāsthikeśāṃś ca śayane svāmimṛtyudaḥ// BY_25.5
+
+purasainyopari vyomni vyākulair anilād bhayam/
+savyamaṇḍalagaiḥ svārtham apasavyaiḥ parodbhavam// BY_25.6
+
+akāryasahitair bhedo rodhaś cakrākṛtisthitaiḥ/
+vargataś cābhighātaḥ syād ripuvṛddhiś ca nirbhayaiḥ// BY_25.7
+
+upānacchatrayānāṅgaśastracchāyāvakuṭṭane/
+mṛtyuṃ tatsvāmino brūyāt pūjā syāt tatprapūjane// BY_25.8
+
+kāṣṭharajjvasthiniḥsārakeśakaṇṭakabhṛd ruvan/
+vyālāhivyādhiśastrāgnitaskarebhyo bhayaṅkaraḥ// BY_25.9
+
+yuddhaṃ senāṅgasaṃstheṣu moṣakṛt svāvalekhane/
+caran niśi vināśāya durbhikṣaṃ dhānyamoṣakṛt// BY_25.10
+
+vāmapārśvasthitaḥ śreṣṭho dakṣiṇād vāpi vāmagaḥ/
+dhvāṃkṣaḥ pārśvadvayenāpi śasto yātrānulomagaḥ// BY_25.11
+
+yātuḥ karṇasamo dhvāṃkṣaḥ kṣemyo nārthaprasādakaḥ/
+vāmādakṣiṇago neṣṭo vā samānaḥ pratīpagaḥ// BY_25.12
+
+viruvan cāgrataḥ pakṣe dhūnvan dhvāṃkṣo bhayapradaḥ/
+pratyurasy upasarpan ca saṃsparśan ca tathā bhavet// BY_25.13
+
+ekapādo calatpakṣaḥ kāko 'vaskandakheṭakaḥ/
+vadhabandhakaro vāśan kharasūkarapṛṣṭhagaḥ// BY_25.14
+
+paṅkadigdhaśarīrasya varāhasyoparisthitaḥ/
+vāyasaḥ śasyate yātus tūṣṇībhūto ruvann api// BY_25.15
+
+kṣīravṛkṣājamahiṣīgosthito gorasapradaḥ/
+annadaḥ parṇavicchedī pānado jalakuṭṭanāt//e16 BY_25.16
+
+
+chap.26 śveṅgita
+
+nṛhayātapavāraṇebhaśastradhvajadehān avamūtrayan jayāya/
+sabhayo vicaran vinā nimittaṃ na śubhaś cābhimukho bhaṣan likhan gām// BY_26.1
+
+uccair bhaṣaṇaṃ samāgatānāṃ dīnaṃ vābhirutaṃ raviṃ nirīkṣya/
+saṃgharadanajṛmbhaṇe ca neṣṭe prasthāneṣu tathā vidhūnanaṃ ca// BY_26.2
+
+pūrṇāsyatvaṃ ghrāyakatvaṃ ca yātuḥ prādakṣiṇyaṃ maithunaṃ cānulomam/
+yātrākāle sārameyasya śastaṃ padbhyāṃ mūrdhanaḥ svasya kaṇḍūyanaṃ ca//e3 BY_26.3
+
+
+chap.27 maṅgalāmaṅgala
+
+siddhārthakādarśapayoṃjanāni baddhaikapaścāmiṣapūrṇakumbhāḥ/
+uṣṇīṣabhṛṅgāranṛvarddhamānapuṃyānavīṇātapavāraṇāni/ BY_27.1
+
+dadhimadhughṛtarocanākumāryo dhvajakanakāmbujabhadrapīṭhaśaṃkhāḥ/
+sitavṛṣakusumāmbarāṇi mīnā dvijagaṇakāptajanāś ca cāruveṣāḥ// BY_27.2
+
+jvalitaśikhiphalākṣatekṣubhakṣyā dviradamṛdaṅkuśacāmarāyudhāni/
+marakatakuruvindapadmarāgasphaṭikamaṇipramukhāś ca ratnabhedāḥ// BY_27.3
+
+svayam atha racitāny ayatnato vā yadi kathitāni bhavanti maṅgalāni/
+sa jayati sakalāṃ tato dharitrīṃ grahaṇadṛgālabhanaśrutair upāsya// BY_27.4
+
+kārpāsauṣadhakṛṣṇadhānyalavaṇaklīvāsthitailāvasāḥ
+paṅkāṅgāraguḍāhicarmaśakṛtaḥ kleśāya savyādhitāḥ/
+vātonmattajaḍendhanaṃ tṛṇatuṣakṣutkṣāmatakrārayo
+muṇḍābhyaktavimuktakeśapatitāḥ kāṣāyinaś cāśubhāḥ// BY_27.5
+
+paṭupaṭahamṛdaṅgaśaṃkhabherīpaṇavaravaṃ sapatākatoraṇāgram/
+pracurakusumatoyaśāntareṇuṃ surabhisuveṣajanaṃ vrajec ca mārgam//e6 BY_27.6
+
+
+chap.28 dhvajātapatrādiśakuna
+
+dhvajātapatrāyudhasannipātaḥ kṣitau prayāṇe yadi mānavānām/
+uttiṣṭhato vāmbaram eti saṅgaṃ patec ca vā tannṛpateḥ kṣayāya/ BY_28.1
+
+dadrupratiśyāmavicarcikāḥ syuḥ karṇākṣirogā piṭakodbhavo vā/
+prāyo bale netari vā nṛpe vā jānīta rājño bhayakāraṇaṃ tat// BY_28.2
+
+uttānaśayyāsanavātasarganiṣṭhyūtadurdarśanakāsitāni/
+neṣṭāni śabdāś ca tathaiva yātur āgacchatiṣṭhapraviśasthirādyāḥ// BY_28.3
+
+kāryam tu mūlaśakune 'nyataraje tadahni vidyāt phalaṃ niyatam evam ime vicintyāḥ/
+prārambhayānasamaye tu tathā praveśe grāhyaṃ kṣutam na śubhadaṃ kvacid apy uśanti// BY_28.4
+
+krośād ūrdhvaṃ śakunavirutaṃ niṣphalaṃ prāhur eke
+tatrāniṣṭe prathamaśukune mānayet paṃca ṣaḍ vā/
+prāṇāyāmān nṛpatir aśubhe ṣoḍaśaivaṃ dvitīye
+pratyāgacchet svabhavanam ato yady aniṣṭas tṛtīyaḥ// BY_28.5
+
+cakre varāhamihiraḥ śakunopadeśam uddeśato munimatāny avalokya samyak/
+yad granthavistarabhayād avijānato vā noktaṃ tad anyakathitād api cintanīyam//e6 BY_28.6
+
+
+chap.29 niveśa
+
+snigdhā sthirā surabhigulmalatā sugandhā śastā pradakṣiṇajalā ca nivāsabhūmiḥ/
+neṣṭā viparyayaguṇā kacaśarkarāsthivalmīkakaṇṭakavibhītakasaṅkulā ca// BY_29.1
+
+gatvālayaṃ suragurudvijasādhumitratīrthetihāsajayapuṇyakathāsu tiṣṭhet/
+hatvā paśuṃ ripugṛhākṛtam udyame ca prāsyātha vānnamayam asya vidhāya rūpam// BY_29.2
+
+ekatrādhyuṣitasyātrigautamacyavanā jaguḥ/
+yātrāṃ tripañcasaptāhāt punarbhadreṇa yojayet// BY_29.3
+
+tac cāyuktam iti prāhur horāśāstravido janāḥ/
+vāṃchitārthaphalāvāptau yātrā parisamāpyate//e4 BY_29.4
+
+
+chap.30 abhiyojya
+
+akṣepaśīlaḥ paruṣābhidhāyī viraktabhṛtyaḥ paradāragāmī/
+lubdho 'sahāyo vyasanī kṛtaghnaḥ sthitiprabhettā karaśīrṇarāṣṭraḥ// BY_30.1
+
+visrambhahā krodhavaśo nṛśaṃsaḥ kṣudraḥ pramādī na bahuśrutaś ca/
+divyāntarikṣakṣitijair vikārair nipīḍito yaḥ sa tu daivahīnaḥ// BY_30.2
+
+ato viparyastaguṇena rājñā tādṛgvidho 'ristv abhiyuktamātraḥ/
+tarur ghunair jagdha ivāttavīryo mahān api kṣipram upaiti bhaṅgam//e3 BY_30.3
+
+
+chap.31 senāvātavṛṣṭyulkābhūgarjitasandhyā
+
+vidviṣṭapravaranarapratāpahīnā niḥśaucā mṛtavaravāraṇāś ca yodhāḥ/
+sotpātaprakṛtiviparyayānuyātā śokārtā ripuvaśam āśu yāti senā// BY_31.1
+
+saṃgrāme vayam amaradvijaprasādāj jyoṣyāmo ripubalam āśv asaṃśayena/
+yasyaivaṃ bhavati bale janapravādaḥ so 'lpo 'pi pracurabalaṃ ripuṃ nihanti// BY_31.2
+
+protkṣiptakṣupapāṃśupatravihagacchatradhvajāgrāntakṛd
+durgandhiḥ karidānaśeṣajanakaḥ sāvarttaloṣṭotkaraḥ/
+yātur vāyur aniṣṭadaḥ śubhakaro yātrānulomodyamaḥ
+prahlādī surabhipradakṣiṇagatiḥ svāduś ca siddhipradaḥ// BY_31.3
+
+pṛthughanam anulomaṃ snigdham ambhodavṛndaṃ tarunaganagareṣṭadravyasatvānukāri/
+jayadam ubhayapārśvādhiṣṭhitaṃ pṛṣṭhato vā na śubhakaram ato 'nyad yānakāle nṛbhartuḥ// BY_31.4
+
+ninditasattvapiśācavicitrāḥ piśitamṛgākṛtayaḥ paruṣāś ca/
+vajramucaḥ kṣatajāśmamuco vā balabhayam āśu janāḥ kathayanti// BY_31.5
+
+bhṛśaṃ kṣaranto rudhirāruṇā vā saśakracāpā khararūkṣanādāḥ/
+raṇopayojyākṛticitrarūpā raṇāya dṛṣṭā gagane 'mbuvāhāḥ// BY_31.6
+
+saptāhāntarbalabhayakarī vṛṣṭir anyartujātā
+kecid yātrām asitajaladaiḥ protthitāṃ pūjayanti/
+citrābhrāyāṃ balapativadho ruk ca pītāmbudāyāṃ
+kṣc coṣṇāyāṃ bhavati na cirād ambudāyāṃ vināśaḥ// BY_31.7
+
+vāhanāni savyago hanti yoṣito 'nyathā/
+paṃjarākṛtisthitaḥ sarvato baleśvaram// BY_31.8
+
+cāpam aindram anulomam akhaṇḍaṃ projjvalaṃ bahulam āyatam iṣṭam/
+sphūrjanaṃ salilakumbhaniṣekaṃ kṣobhitārṇavasamaṃ vijayāya// BY_31.9
+
+tanvī pralambā vijayāya dīrghā taḍid ghanasphūrjathuvarjitā ca/
+śastāśaniś cāpy asamīpajātaḥ pradakṣiṇenāpsyati pātaśabdaḥ// BY_31.10
+
+lagne 'rkendū nighnatī śasti paurān ulkā hanyād yātupaurān grahāś ca/
+yātuḥ śastā sambhṛtā vā dhruvarkṣe neṣṭāto 'nyā dhūminī śyāvaraktā// BY_31.11
+
+hanyān nṛpapaurarāṣṭrikān bhṛtyāmbhoruhataskarān dvijāṃś ca/
+velā kramaśo dināditaḥ kāṣṭhāyāṃ ca sa yatra bhūsvanaś ca// BY_31.12
+
+śastā śāntadvijamṛgaghuṣṭā sandhyā snigdhā mṛduṣavanā ca/
+pāṃśudhvastā janapadanāśaṃ dhatte rūkṣā rudhiranibhā vā//e13 BY_31.13
+
+
+chap.32 utpāta
+
+pariveṣo 'rkaśaśinoḥ śatrupakṣagrahaiḥ saha/
+snigdho 'khaṇḍaś ca jayadaḥ pāpado bahumaṇḍalaḥ// BY_32.1
+
+pratilomo 'tibahulo neṣṭa iṣṭaḥ pradakṣiṇaḥ/
+nīhāraḥ pāṃśupātaś ca hitaḥ snigdhaḥ pradakṣiṇaḥ// BY_32.2
+
+gandharvanagaraṃ hanti prākprabhṛty avanīśvaram/
+baleśaṃ yuvarājaṃ ca purohitam iti kramāt// BY_32.3
+
+sitādyaṃ brāhmaṇādīṃś ca vidikṣu varṇasaṅkarān/
+pradakṣiṇaṃ tu yātrāyāṃ jayadaṃ neṣṭam anyathā// BY_32.4
+
+diśāṃ dāho 'tha jayadaḥ pradakṣiṇa upāgataḥ/
+śvabhronnate vadho rājño jayāya vyatyayena ca// BY_32.5
+
+ghṛtāmbupayasāṃ srāve cyute vṛkṣāc ca tatkṣayaḥ/
+taile ca nāśo mukhyānāṃ rakte śastrakṛtaṃ bhayam// BY_32.6
+
+madyena tu mitho bhedo rugbhayaṃ dadhinisrave/
+kusumāt kusumotpattau paracakrāgamaṃ vadet// BY_32.7
+
+bahutoye 'tisaṃśoṣaḥ kūpe 'sṛkpūrtivisravaḥ/
+rājño 'bdārdhād vadhaṃ kuryuḥ sroto 'lpatve parāgamaḥ// BY_32.8
+
+vṛṣṭividyutsvanair vyabhre carasthiraviparyaye/
+dinolkāyāṃ ca pīḍyante janā bhūpatibhiḥ saha// BY_32.9
+
+saptāhaṃ santatāny ato vṛṣṭir hanyān narādhipam/
+anagnijvalane puṃsāṃ vyādhir āśv eva jāyate// BY_32.10
+
+pīḍā rāṣṭrasya ṣaṇmāsād uṣṇaśītaviparyaye/
+māse 'ṣṭame nṛpasyānto nināde paśupakṣiṇām// BY_32.11
+
+nagarāraṇyasattvānām araṇyapurasevane/
+rāṣṭrapīḍādhike varṣe mukhyalokasya ca kṣayaḥ// BY_32.12
+
+stambhopalakusūlārcāpīṭhaśayyāpasarpaṇe/
+gadane cāpi deśasya nāśaṃ māsatrayād vadet// BY_32.13
+
+gonāgāśvavadho 'bdārdhe vyatyayo vā nṛpāntakṛt/
+deśanāśas tathā strīṇāṃ khagāhipaśusambhave// BY_32.14
+
+dhānyarasamadyabhojanaphalapuṣpasnehamāṃsavastrāṇām/
+sikatārajorasātmakasaśarkarāṅgāravarṣeṣu// BY_32.15
+
+sutapatnī kṣudrājñā nṛpadeśacamūpamaraṇasaṃkleśāḥ/
+bhedo 'pado 'tha mantrivyādhivināśabhūpakrodhāḥ// BY_32.16
+
+niśi suracāpaṃ sitavarṇādyaṃ janayati pīḍāṃ dvijapūrvāṇām/
+bhavati ca yasyāṃ diśi taddiśyaṃ narapatimukhyaṃ na cirād dhanyāt// BY_32.17
+
+mṛgapaśurāsabhavājigajānāṃ viyataravo na cirād bhayadātā/
+vibudhapatidhvajatoraṇapātaḥ phalam idam eva karoti nṛpāṇām//e18 BY_32.18
+
+
+chap.33 puradurgālabdho
+
+śuddhair dvādaśakendranaidhanagataiḥ pāpais triṣaṣṭhāyagair
+lagne kendragate 'thavā suragurau daiteyapūjye 'thavā/
+sarvārambhaphalaprasiddhir udaye rāśau ca kartuḥ śubhe
+svagrāmyasthirabhodaye subhavanaṃ kāryaṃ praveśo 'pi vā// BY_33.1
+
+krūrodaye tadahani vyatipātayoge rikte tithāv ṛtusamāptiṣu vaidhṛte vā/
+tīkṣṇograbheṣu ca hutāśaviṣābhighātaraudrāṇi siddhim upayāny asite ca pakṣe// BY_33.2
+
+ketūlkārkajarāhukīlakakujā bimbapraviṣṭā yataḥ
+sūryendvoḥ pariveṣakhaṇḍam athavā dṛśyeta yasyāṃ diśi/ BY_33.3
+
+kroṣṭuśvāhipipīlikāśaśamṛgādhvāṃkṣādayo vā pure
+sainye vāpi yato viśanti hi tataḥ śastroḥ puraṃ ghātayet// BY_33.4
+
+pātālarkṣe rāhuketvoḥ pure 'res toyocchittiḥ sālapātaś ca kāryaḥ/
+jāmitrasthe bhūmije 'syāṃśake vā putreṇendor vīkṣite 'gniḥ pradeyaḥ//e5 BY_33.5
+
+
+chap.34 jayottara
+
+digdāhakṣatajarajośmavṛṣṭipātair nirghātakṣiticalanād ivaikṛtaiś ca/
+yuddhānte mṛgaśakunaiś ca dīptanādair no bhadraṃ bhavati jaye 'pi pārthivasya// BY_34.1
+
+śubhā mṛgapatatriṇo mṛdusamīraṇo hlādakṛt
+grahāḥ sphuṭamarīcayo vigatareṇudiṅmaṇḍalam/ BY_34.2
+
+yadānyad api vaikṛtaṃ na vijayāvasāne bhavet
+tadā sukham akaṇṭakaṃ nṛpatir atti deśaṃ ripoḥ/
+udvāham akālotsavam abhiṣekaṃ cātmajasya yaḥ kṛtvā/
+prasthānāvihataḥ so 'bhyeti tataś cotsavadineṣu// BY_34.3
+
+paraviṣayapurāptau sādhudevadvijasvaṃ
+kulajanavanitāś ca kṣmādhipo noparundhyāt/
+vigajaturagaśastrānnārtibhītāṃś ca hanyāc
+chubhatithidivasarkṣe hṛṣṭasainyo vaśec ca// BY_34.4
+
+svaviṣayam upagamya mānavendro 'valim upayācitakāni cādhikāni/
+nigaditavidhinaiva saṃpradadyāt prathamagaṇāsurabhūtadaivatebhyaḥ// BY_34.5
+
+iti manujapatir yathopadeśaṃ bhagaṇavidāṃ prakaroti yo vacāṃsi/
+sa sakalanṛpamaṇḍalādhipatyaṃ vrajati diviva purandaro 'cireṇa//e6 BY_34.6

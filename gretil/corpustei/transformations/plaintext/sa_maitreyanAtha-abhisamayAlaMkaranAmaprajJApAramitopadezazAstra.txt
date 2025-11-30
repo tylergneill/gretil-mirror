@@ -1,0 +1,890 @@
+Maitreyanātha: Abhisamayālaṃkaranāmaprajñāpāramitopadeśaśāstra
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_maitreyanAtha-abhisamayAlaMkaranAmaprajJApAramitopadezazAstra.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Christian Coseru
+## Contribution: Christian Coseru
+## Date of this version: 2020-07-31
+
+## Source: 
+   - unknown.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Abhisamayālaṃkaranāmaprajñāpāramitopadeśaśāstra = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from abhisamu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Maitreyanatha:
+Abhisamayalamkaranamaprajnaparamitopadesasastram
+(source unknown)
+Input by Christian Coseru
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+kṛtirmaitreyanāthasya //
+
+oṃ namo maitreyanāthāya //
+
+yā sarvajñatayā nayatyupaśamaṃ śāntaiṣiṇaḥ śravakān
+yā mārgajñatayā jagaddhitakritāṃ lokārthasaṃpādikā /
+savārkāramidaṃ vadanti munayo viśvaṃ yayā saṃgatā
+stasyai śrāvakabodhisattvagaṇino buddhasya manne namaḥ //
+
+sarvākārajñatāmārgaḥ śāsitrā yo 'tra deśita /
+dhīmantī vīkṣīṣīraṃstamanālīḍhaṃ parairiti // abhs_1.1 //
+
+smṛtau cādhāya sūtrārthaṃ dharmacaryā daśātmikā /
+sūkhena pratipatsīrannityārambhaprayojanam // abhs_1.2 //
+
+prajñāpāramitāṣṭābhīḥ padārthaiḥ samudīritā /
+sarvākārajñatā mārgajñatā sarvajñatā tataḥ // abhs_1.3 //
+
+sarvākārābhisaṃbodho murdhaprārpto 'nupūrvikaḥ /
+ekakṣaṇabhisaṃbodho dharmakāyaśca te 'ṣṭadhā // abhs_1.4 //
+
+cittotpādo 'vavādaśca nirvedhāṅgaṃ caturvidhaṃ /
+ādhāraḥ pratipatteśca dharmadhātusvabhāvakaḥ // abhs_1.5 //
+
+ālambanaṃ samuddeśaḥ saṃnāhaprasthitikriye /
+saṃbhārāśca saniryāṇāḥ sarvākārajñatā muneḥ // abhs_1.6 //
+
+dhyāmīkaraṇatādīni śiṣyakhaṅgapathau ca yau /
+mahānuśaṃso dṛṅmārga aihikāmutrikairguṇaiḥ // abhs_1.7 //
+
+kāritramadhimuktiśca stutastobhitaśaṃsitāḥ /
+pariṇāme 'numode ca manaskārāvanuttamau // abhs_1.8 //
+
+nirhāraḥ śuddhiratyantāmityayaṃ bhāvanāpathaḥ /
+vijñānāṃ bodhisattvānāmiti mārgajñatoditā // abhs_1.9 //
+
+prajñayā na bhave sthānaṃ kṛpayā na śame sthitiḥ /
+anupāyena dūratvamupāyenāvidūratā // abhs_1.10 //
+
+vipakṣapratipakṣau ca prayogaḥ samatāsya ca /
+dṛṅmārgaḥ śrāvakādīnāmiti sarvajñateṣyate // abhs_1.11 //
+
+ākārāḥ saprayogāśca guṇā doṣāḥ salakṣaṇāḥ /
+mokṣanirvedhabhāgīye śaikṣo 'vaivartiko gaṇaḥ // abhs_1.12 //
+
+samatābhavaśāntyośca kṣetraśuddhiranuttarā /
+sarvākārābhisaṃbodha eṣa sopāyakauśalaḥ // abhs_1.13 //
+
+liṅgaṃ tasya vivṛddhiśca nirūḍhiścittasaṃsthitiḥ /
+caturdhā ca vikalpasya pratipakṣaścaturvidhaḥ // abhs_1.14 //
+
+pratyekaṃ darsanākhye ca bhāvanākhye ca vartmani /
+ānantaryasamādhiśca saha vipratipattibhiḥ // abhs_1.15 //
+
+mūrdhābhisamayaḥ tredhā daśadhā cānupūrvikaḥ /
+ekakṣaṇābhisaṃbodho lakṣaṇena caturvidhiḥ // abhs_1.16 //
+
+svābhāvikaḥ sasāṃbhogo nairmāṇiko 'parastathā /
+dharmakāyaḥ sakāritraścaturdhā samudīritaḥ // abhs_1.17 //
+
+cittotpādaḥ parārthāya sammyaksaṃbodhikāmatā /
+samāsavyāsataḥ sā ca yathāsutraṃ sa cocyate // abhs_1.18 //
+
+bhūhemacandrajvalanairnidhiratnākarārṇavaiḥ /
+vajrācalauṣadhīmitraiścintāmaṇyarkagītibhiḥ // abhs_1.19 //
+
+nṛpagañjamahāmārgayānaprasravaṇodakaiḥ /
+ānandoktinadīmeghairdvāviṃśatividhaḥ sa ca // abhs_1.20 //
+
+pratipattau ca satyeṣu buddharatnādiṣu triṣu /
+asaktāvapariśrāntau pratipatsaṃparigrahe // abhs_1.21 //
+
+cakṣuḥṣu pañcasu jñeyaḥ ṣaṭsvabhijñāguṇeṣu ca /
+dṛṅmārge bhāvanākhye cetyavavādo daśātmakaḥ // abhs_1.22 //
+
+mṛdutikṣṇendriyau śraddhādṛṣṭiprāptau kulaṃkulau /
+ekavīcyantarotpadya kārākārākaniṣṭhagāḥ // abhs_1.23 //
+
+plutāstrayo bhavasyāgraparamo rūparāgaha /
+dṛṣṭadharmaśamaḥ kāyasākṣī khaṅgaśca viṃśatiḥ // abhs_1.24 //
+
+ālambanata ākārāddhetutvātsaṃparigrahāt /
+caturvikalpasaṃyogaṃ yathāsvaṃ bhajatāṃ satām // abhs_1.25 //
+
+śrāvakebhyaḥ sakhaḍgebhyo bodhisattvasya tāyinaḥ /
+mṛdumadhyādhimātrāṇāmūṣmādīnāṃ viśiṣṭatā // abhs_1.26 //
+
+ālambanamanityādi satyādhāraṃ tadākṛtiḥ /
+niṣedho 'miniveśāderheturyānatrayāptaye // abhs_1.27 //
+
+rūpādyāyavyayau viṣṭhāsthitī prajñaptyavācyate /
+rūpādāvasthitisteṣāṃ tadbhāvenāsvabhāvatā // abhs_1.28 //
+
+tayormithaḥsvabhāvatvaṃ tadanityādyasaṃsthitiḥ /
+tāsāṃ tadbhāvaśūnyatvaṃ mithaḥ svabhāvyametayoḥ // abhs_1.29 //
+
+anudgraho yo dharmāṇāṃ tannimittāsamīkṣaṇam /
+parīkṣaṇaṃ ca prajñāyāḥ sarvasyānupalambhataḥ // abhs_1.30 //
+
+rūpāderasvabhavāvatvaṃ tadabhāvasvabhāvatā /
+tadajātiraniryāṇaṃ śuddhistadanimittatā // abhs_1.31 //
+
+tannimittānadhiṣṭhānānadhimuktirasaṃjñatā /
+samādhistasya kāritraṃ vyākṛtirmananākṣayaḥ // abhs_1.32 //
+
+mithastrikasya svābhāvyaṃ samādheravikalpanā /
+iti nirvedhabhāgīyaṃ mṛdumadhyādhimātrataḥ // abhs_1.33 //
+
+dvaividhyaṃ grāhyakalpasya vastutatpratipakṣataḥ /
+moharāśyādibhedena pratyekaṃ navadhā tu saḥ // abhs_1.34 //
+
+dravyaprajñaptyadhiṣṭhāno dvividho grāhako mataḥ /
+svatantrātmādirūpeṇa skandhādyāśrayatastathā // abhs_1.35 //
+
+cittānavalīnatvādi naīḥsvābhāvyādideśakaḥ /
+tadvipakṣaparityāgaḥ sarvathā saṃparigrahaḥ // abhs_1.36 //
+
+ṣoḍhādhigamadharmasya pratipakṣaprahāṇayoḥ /
+tayoḥ paryupayogasya prajñāyāḥ kṛpayā saha // abhs_1.37 //
+
+śiṣyāsādhāraṇatvasya parārthānukramasya ca /
+jñānasyāyatnavṛtteśca pratiṣṭhā gotramucyate // abhs_1.38 //
+
+dharmadhātorasaṃbhedādgotrabhedo na yujyate /
+ādheyadharmabhedāttu tadbhedaḥ parigīyate // abhs_1.39 //
+
+ālambanaṃ sarvadharmāste punaḥ kuśalādayaḥ /
+laukikādhigamākhyāścaṃ ye ca lokettarā matāḥ // abhs_1.40 //
+
+sāsravānāsravā dharmāḥ saṃskṛtāsaṃskṛtāśca ye /
+śiṣyasādhāraṇā dharmā ye cāsādhāranā muneḥ // abhs_1.41 //
+
+sarvasattvāgratā cittaprahāṇādhigamatraye /
+tribhirmahattvairūddeśo vijñeyo 'ya svayaṃbhuvām // abhs_1.42 //
+
+dānādau ṣaḍvidha teṣāṃ pratyekaṃ saṃgraheṇa yā /
+saṃnāhapratipattiḥ sā ṣaḍbhiḥ ṣaṭkairyathodithā // abhs_1.43 //
+
+dyānārūpyeṣu dānādau mārge maitryādikeṣu ca /
+gatopalambhayoge ca trimaṇḍalaviśuddhiṣu // abhs_1.44 //
+
+uddeśe ṣaṭsvabhijñāsu sarvākārajñatānaye /
+prasthānapratipajjñeyā mahāyānādhirohiṇī // abhs_1.45 //
+
+dayā dānādikaṃ ṣaṭkaṃ śamathaḥ savidarśanaḥ /
+yuganaddhaśca yo mārga upāye yacca kauśalam // abhs_1.46 //
+
+jñānaṃ puṇyaṃ ca mārgaśca dhāraṇī bhūmayo daśa /
+pratipakṣaśca vijñeyaḥ saṃbhārapratipatkramaḥ // abhs_1.47 //
+
+labhyate prathamā bhumirdaśadhā parikarmaṇā /
+āśayo hitavastutvaṃ sattveṣu samacittatā // abhs_1.48 //
+
+tyāgaḥ sevā ca mitrāṇāṃ saddharmālambanaiṣaṇā /
+sadā naiṣkramyacittatvaṃ buddhakāyagatā spṛhā // abhs_1.49 //
+
+dharmasya deśanā satyaṃ daśamaṃ vākyamiṣyate /
+jñeyam ca pārikarmaiṣāṃ svabhāvānupalambhataḥ // abhs_1.50 //
+
+śīlaṃ kṛtajñatā kṣāntiḥ pramodyaṃ mahatī kṛpā /
+gauravaṃ guruśuśrūṣā vīryaṃ dānādike 'ṣṭamam // abhs_1.51 //
+
+atṛptatā śrute dānaṃ dharmasya ca nirāmiṣam /
+buddhakṣetrasya saṃśuddhiḥ saṃsārāparikheditā // abhs_1.52 //
+
+hrīrapatrāpyamityetat pañcadhā mananātmakam /
+vanāśālpecchatā tuṣṭirdhūtasaṃlekhasevanam // abhs_1.53 //
+
+śikṣāyā aparityāgaḥ kāmānāṃ vijugupsanam /
+nirvitsarvāstisaṃtyāgo 'navalinānapekṣate // abhs_1.54 //
+
+saṃstavaṃ kulamātsaryaṃ sthānaṃ saṃgaṇikāvaham /
+ātmotkarṣaparāvajñe karmamārgān daśāśubhān // abhs_1.55 //
+
+mānaṃ stambhaṃ viparyāsaṃ vimatiṃ kleśamarṣaṇam /
+vivarjayan samāpneti daśaitān pañcamīṃ bhuvam // abhs_1.56 //
+
+dānaśīlakṣamāvīryadhyānaprajñāprapūraṇāt /
+śiṣyakhaḍgaspṛhātrāsacetasāṃ parivarjakaḥ // abhs_1.57 //
+
+yācito 'navalinaśca sarvatyāge 'pyadurmanāḥ /
+kṛśo 'pi nārthināṃ kṣeptā ṣaṣṭhīṃ bhūmiṃ samaśrute // abhs_1.58 //
+
+ātmasattvagraho jīvapudgalocchedaśāśvataḥ /
+nimittahetvoḥ skandheṣu dhātuṣvāyataneṣu ca // abhs_1.59 //
+
+traidhātuke pratiṣṭhānaṃ saktirālīnacittatā /
+ratnatritayaśīleṣu taddṛṣṭyabhiniveśitā // abhs_1.60 //
+
+śūnyatāyāṃ vivadaśca tadvirodhaśca viṃśatiḥ /
+kalaṅkā yasya vicchinnāḥ saptamīmetyasau bhuvam // abhs_1.61 //
+
+trivimokṣamukhajñānaṃ trimaṇḍalaviśuddhatā /
+karūṇāmananā dharmasamataikanayajñatā // abhs_1.62 //
+
+anutpādakṣamājñānaṃ dharmāṇāmekadheraṇā /
+kalpanāyāḥ samuddhātaḥ saṃjñādṛkkleśavarjanam // abhs_1.63 //
+
+śamathasya ca nidhyaptiḥ kauśalaṃ ca vidarśane /
+cittasya dāntatā jñānaṃ sarvatrāpratighāti ca // abhs_1.64 //
+
+sakterabhūmiryatrecchaṃ kṣetrāntaragatiḥ samam /
+sarvatra svātmabhāvasya darśanaṃ ceti viṃśatiḥ // abhs_1.65 //
+
+sarvasattvamanojñānamabhijñākrīḍanaṃ śubhā /
+buddhakṣetrasya niṣpattirbuddhasevāparīkṣaṇe // abhs_1.66 //
+
+akṣajñānaṃ jinakṣetraśuddhirmāyopamā sthitiḥ /
+saṃcintya ca bhavādānamidaṃ karmāṣṭadhoditam // abhs_1.67 //
+
+praṇidhānānyanantāni devādīnāṃ rūtajñatā /
+nadīva pratibhānānāṃ garbhāvakrāntirūttamā // abhs_1.68 //
+
+kulajātyośca gotrasya parivārasya janmanaḥ /
+naiṣkramyabodhivṛkṣāṇāṃ guṇapūreśca saṃpadaḥ // abhs_1.69 //
+
+nava bhūmīratikramya buddhabhūmau pratiṣṭhate /
+yena jñānena sā jñeyā daśamī bodhisattvabhūḥ // abhs_1.70 //
+
+pratipakṣo 'ṣṭadhā jñeyo darṣanābhyāsamārgayoḥ /
+grāhyagrāhakavikalpānāmaṣṭānāmupaśāntaye // abhs_1.71 //
+
+uddeśe samatāyāṃ ca sattvārthe yatnavarjane /
+atyantāya ca niryāṇaṃ niryāṇaṃ prāptilakṣaṇam // abhs_1.72 //
+
+sarvākārajñatayāṃ ca niryāṇaṃ mārgagocaram /
+niryāṇapratipajjñeyā seyamaṣṭavidhātmikā // abhs_1.73 //
+
+// abhisamayālaṅkāre prajñāpāramitopadeśaśāstre sarvākārajñatādhikāraḥ prathamaḥ //
+
+dhyāmīkaraṇatā bhābhirdevānāṃ yogyatāṃ prati /
+viṣayo niyato vyāptiḥ svabhāvastasya karma ca // abhs_2.1 //
+
+caturṇamāryasatyānāmākārānupalambhataḥ /
+śrāvakāṇāmayaṃ mārgo jñeyo mārgajñatānaye // abhs_2.2 //
+
+rūpādiskandhaśūnyatvācchūnyatānāmabhedataḥ /
+uṣmāṇaḥ anupalambhena teṣāṃ murdhagataṃ matam // abhs_2.3 //
+
+kṣāntayasteṣu nityādiyogasthānaniṣedhataḥ /
+daśa bhūmīḥ samārabhya vistarāsthānadeśanat // abhs_2.4 //
+
+agradharmagataṃ proktamāryaśrāvakavartmani /
+tatkasya hetorbuddhena buddhvā dharmāsamīkṣaṇāt // abhs_2.5 //
+
+paropadeśavaiyarthyaṃ svayaṃbodhāt svayaṃbhuvām /
+gambhīratā ca jñānasya khaḍgānāmabhidhīyate // abhs_2.6 //
+
+śuśrūṣā yasya yasyārthe yatra yatra yathā yathā /
+sa so 'rthaḥ khyātyaśabdo 'pi tasya tasya tathā tathā // abhs_2.7 //
+
+grahyārthakalpanāhānādgrāhakasyāprahāṇataḥ /
+ādhārataśca vijñeyaḥ khaḍgamārgasya saṃgrahaḥ // abhs_2.8 //
+
+prajñapteravirodhena dharmatāsūcanākṛtiḥ /
+usṣmagam mūrdhagaṃ rūpādyahānādiprabhāvitam // abhs_2.9 //
+
+adyātmaśūnyatādyābhī rūpāderaparigrahāt /
+kṣāntiḥ rūpādyanutpādādyākārairagradharmatā // abhs_2.10 //
+
+kṣāntijñānakṣaṇaiḥ satyasatyaṃ prati caturvidhaiḥ /
+mārgajñatāyāṃ dṛṅmārgaḥ sānuśaṃso 'yamucyate // abhs_2.11 //
+
+ādhārādheyatābhāvāttathatābuddhayormithaḥ /
+paryāyeṇānanujñānaṃ mahattā sāpramāṇatā // abhs_2.12 //
+
+parimāṇāntatābhāvo rūpāderavadhāraṇam /
+tasyāṃ sthitasya buddhatve 'nugrahātyāgatādayaḥ // abhs_2.13 //
+
+maītryādi śūnyatā prāptirbuddhatvasya parigrahaḥ /
+sarvasya vyavadānasya sarvādhivyādhiśātanam // abhs_2.14 //
+
+nirvāṇagrāhaśāntatvaṃ buddhebho rakṣaṇādikam /
+aprāṇivadhamārabhya sarvākārajñatānaye // abhs_2.15 //
+
+svayaṃ sthitasya sattvānāṃ sthāpanaṃ pariṇāmanam /
+danādīnāṃ ca saṃbodhāviti mārgajñatākṣaṇāḥ // abhs_2.16 //
+
+sarvato damanaṃ nāma sarvataḥ kleśanirjayaḥ /
+upamakrāviṣahyatvaṃ bodhirādhārapūjyatā // abhs_2.17 //
+
+adhimuktistridhā jñeyā svārthā ca svaparārthakā /
+parārthikaivetyeṣa ca pratyekaṃ trividheṣyate // abhs_2.18 //
+
+mṛdvī madhyādhimātrā ca mṛdumṛdvādibhedataḥ /
+sā punastrividhetyevaṃ saptaviṃśatidhā matā // abhs_2.19 //
+
+stutiḥ stobhaḥ praśaṃsā ca prajñāparamitāṃ prati /
+adhimokṣasya mātrāṇāṃ navakaistribhiriṣyate // abhs_2.20 //
+
+viśeṣaḥ pariṇāmastu tasya kāritramuttamam /
+nopalambhākṛtiścāsāvaviparyāsalakṣaṇaḥ // abhs_2.21 //
+
+vivikto buddhapuṇyaughasvabhāvasmṛtigocaraḥ /
+sopāyaścānimittaśca buddhairabhyanumoditaḥ // abhs_2.22 //
+
+traidhātukāprapannaśca pariṇāmo 'parastridhā /
+mṛdurmadhyo 'dhimātraśca mahāpuṇyodayātmakaḥ // abhs_2.23 //
+
+upāyānupalambābhyāṃ śubhamūlānumodanā /
+anumode manaskārabhāvaneha vidhīyate // abhs_2.24 //
+
+svabhāvaḥ śreṣṭhatā tasya sarvasyānabhisaṃskṛtiḥ /
+nopalambhena dharmāṇāmarpaṇā ca mahārthatā // abhs_2.25 //
+
+buddhasevā ca dānādirūpāye yacca kauśalam /
+hetavo 'trādhimokṣasya dharmavyasanahetavaḥ // abhs_2.26 //
+
+mārādhiṣṭhānagambhīradharmatānadhimuktate /
+skandhādyabhiniveśaśca pāpamitraparigrahaḥ // abhs_2.27 //
+
+phalaśuddhiśca rūpādiśuddhireva tayordvayoḥ /
+abhinnācchinnatā yasmāditi śuddhirudīritā // abhs_2.28 //
+
+kleśajñeyatrimārgasya śiṣyakhaḍgajinaurasām /
+hānādviśuddhirātyantikī tu buddhasya sarvathā // abhs_2.29 //
+
+mṛdumṛdvādiko mārgaḥ śuddhirnavasu bhūmiṣu /
+adhimātrādhimātrādermalasya pratipakṣataḥ // abhs_2.30 //
+
+tridhātupratipakṣatvaṃ samatā manameyayoḥ /
+mārgasya ceṣyate tasya parihārataḥ // abhs_2.31 //
+
+// abhisamayālaṅkāre prajñāpāramitopadeśaśāstre mārgajñatādhikāro dvitīyaḥ //
+
+nāpare na pare tīre nāntarāle tathoḥ sthitā /
+adhvanāṃ samatājñānāt prajñāpāramitāmatā // abhs_3.1 //
+
+anupāyena dūraṃ sā sanimittopalambhataḥ /
+upāyakauśalenāsyāḥ samyagāsannatoditā // abhs_3.2 //
+
+rūpādiskandhaśūnyatve dharmeṣu tryadhvageṣu ca /
+dānādau bodhipakṣeṣu caryāsaṃjñā vipakṣatā // abhs_3.3 //
+
+dānādiṣvanahaṃkāraḥ pareṣāṃ tanniyojanam /
+saṅgakoṭīniṣedho 'yaṃ sukṣmaḥ saṅgo jinādiṣu // abhs_3.4 //
+
+tadgāmbīryaṃ prakṛtyaiva vivekāddharmapaddhateḥ *iti* /
+ekaprakṛtikaṃ jñānaṃ dharmāṇāṃ saṅgavarjanam // abhs_3.5 //
+
+dṛṣṭādipratiṣedhena tasyā durbodhatoditā *iti* /
+rūpādibhiravijñānāttadacintyatvamiṣyate // abhs_3.6 //
+
+evaṃ kṛtvā yathokto vai jñeyaḥ sarvajñatānaye /
+ayaṃ vibhāgo niḥśoṣo vipakṣapratipakṣayoḥ // abhs_3.7 //
+
+rūpādau tadanityādau tadapuriprapūrayoḥ /
+tadasaṅgatve caryāyā: prayogaḥ pratiṣedhataḥ // abhs_3.8 //
+
+avikāro na kartā ca prayogo duṣkarastridhā /
+yathābhavyaṃ phalaprāpteravandhyo 'bhimataśca saḥ // abhs_3.9 //
+
+aparapratyayo yaśca saptadhā khyātivedakaḥ /
+caturdhā mananā tasya rūpādau samatā matā // abhs_3.10 //
+
+dharmajñānānvayajñānakṣāntijñānakṣaṇātmakaḥ /
+duḥkhādisatye dṛṅmārga eṣa sarvajñatānaye // abhs_3.11 //
+
+rūpaṃ na nityaṃ nānityamatitāntaṃ viśuddhakam /
+anutpannāniruddhādi vyomābhaṃ lepavarjitam // abhs_3.12 //
+
+parigraheṇa nirmuktamavyāhāraṃ svabhāvataḥ /
+pravyāhāreṇa nāsyārthaḥ pareṣu prāpyate yataḥ // abhs_3.13 //
+
+nopalambhakṛdatyantaviśuddhirvyādhyasaṃbhavaḥ /
+apāyocchittyakalpatve phalasākṣātkriyāṃ prati // abhs_3.14 //
+
+asaṃsargo nimittaiśca vastuni vyañjane dvaye /
+jñānasya yā cānutpattiriti sarvajñatākṣaṇāḥ // abhs_3.15 //
+
+iti seyaṃ punaḥ seyaṃ seyaṃ khalu punastridhā /
+adhikāratrayasyaiṣā samāptiḥ paridīpitā // abhs_3.16 //
+
+// abhisamayālaṅkāre prajñāpāramitopadeśaśāstre sarvajñatādhikāras tṛtīyaḥ //
+
+vastujñānaprakārāṇāmākārā iti lakṣaṇam /
+sarvajñatānāṃ traividyāt trividhā eva te matāḥ // abhs_4.1 //
+
+asadākāramārabhya yāvanniścalatākṛtiḥ /
+catvāraḥ pratisatyaṃ te mārge pañcadaśa smṛtāḥ // abhs_4.2 //
+
+hetau mārge ca duḥkhe ca nirodhe ca yathākramam /
+aṣṭau te sapta pañceti ṣoḍaśeti ca kīrtitāḥ // abhs_4.3 //
+
+smṛtyupasthānamārabhya buddhatvākārapaścimāḥ /
+śiṣyāṇāṃ bodhisattvānāṃ buddhānāṃ ca yathākramam // abhs_4.4 //
+
+saptatriṃśaccatustriṃśattriṃśannava ca te matāḥ /
+trisarvajñatvabhedena mārgasatyānurodhataḥ // abhs_4.5 //
+
+kṛtādhikārā buddheṣu teṣūptaśubhamūlakāḥ /
+mitraiḥ sanāthāḥ kalyāṇairasyāḥ śravaṇabhājanam // abhs_4.6 //
+
+buddhopāsanasaṃpraśnadānaśīlādicaryayā /
+udgrahadhāraṇādīnāṃ bhājanatvaṃ satāṃ matam // abhs_4.7 //
+
+rūpādiṣvanavasthānātteṣu yoganiṣedhataḥ /
+tattathatāgambhīratvātteṣāṃ duravagāhataḥ // abhs_4.8 //
+
+tadaprāmāṇyataḥ kṛcchāccireṇa pratibodhataḥ /
+vyākṛtāvavivartyatve niryāṇe sanirantare // abhs_4.9 //
+
+āsannabodhe kṣipraṃ ca parārthe 'vṛddhyahānitaḥ /
+dharmādharmādyadṛṣṭau ca rupācintyādyadarśane // abhs_4.10 //
+
+rūpādestannimittasya tadbhāvasyāvikalpakaḥ /
+phalaratnapradātā ca śuddhakaḥ sāvadhiśca saḥ // abhs_4.11 //
+
+mārāṇāṃ śaktihānyādiścaturdaśavidho guṇaḥ /
+doṣāśca ṣaḍviboddhavyāścaturbhirdaśakaiḥ saha // abhs_4.12 //
+
+lakṣyate yena tajjñeyaṃ lakṣaṇaṃ trividhaṃ ca tat /
+jñānaṃ viśeṣaḥ kāritraṃ svabhāvo yaśca lakṣyate // abhs_4.13 //
+
+tathāgatasya nirvṛttau loke cālujyanātmake /
+sattvānāṃ cittacaryāsu tatsaṃkṣepe bahirgatau // abhs_4.14 //
+
+akṣayākāratāyāṃ ca sarāgādau pravistṛte /
+mahadgate 'pramāṇe ca vijñāne cānidarśane // abhs_4.15 //
+
+adṛśyacitajñāne ca tadunmiñjādisaṃjñakam /
+punastathatākāreṇa teṣāṃ jñānamataḥ param // abhs_4.16 //
+
+tathatāyāṃ munerbodhe tatparākhyānamityayam /
+sarvajñatādhikāreṇa jñānalakṣaṇasaṃgrahaḥ // abhs_4.17 //
+
+śūnyatve sānimitte c praṇidhānavivarjite /
+anutpādanirodhādau dharmatāyā akopane // abhs_4.18 //
+
+asaṃskare 'vikalpe ca prabhedālakṣaṇatvayoḥ /
+mārgajñatādhikāreṇa jñānalakṣaṇamiṣyate // abhs_4.19 //
+
+svadharmamupaniśritya vihāre tasya satkṛtau /
+gurūtve mānanāyāṃ ca tatpūjākṛtakatvayoḥ // abhs_4.20 //
+
+sarvatra vṛttimajjñānamadṛṣṭasya ca darśakam /
+lokasya śūnyatākārasūcakajñāpakākṣagam // abhs_4.21 //
+
+acintyaśāntatādarśi lokasaṃjñānirodhi ca /
+jñānalakṣaṇamityuktaṃ sarvākārajñatānaye // abhs_4.22 //
+
+acityādiviśeṣeṇa viśiṣṭaiḥ satyagocaraiḥ /
+viśeṣalakṣaṇaṃ ṣaḍbhirdaśabhiścoditaṃ kṣaṇaiḥ // abhs_4.23 //
+
+acintyātulyate meyasaṃkhyeyāsamatikramau /
+sarvāryasaṃgraho vijñavedyāsādhāraṇajñate // abhs_4.24 //
+
+kṣiprajñānyunapūrṇatve pratipatsamudāgamau /
+ālambanaṃ ca sādhāraṃ sākalyaṃ saṃparigrahaḥ // abhs_4.25 //
+
+anāsvādaśca vijñeyo viśeṣaḥ ṣoḍaśātmakaḥ /
+viśeṣamārgā mārgebhyo yenānyebhyo viśiṣyate // abhs_4.26 //
+
+hitaṃ sukhaṃ ca trāṇaṃ ca śaraṇaṃ layanaṃ nṛṇām /
+parāyaṇaṃ ca dvīpaṃ ca pariṇāyakasaṃjñakam // abhs_4.27 //
+
+anābhogaṃ tribhiryānaiḥ phalāsākṣātkriyātmakam /
+paścimaṃ gatikāritramidaṃ kāritralakṣaṇam // abhs_4.28 //
+
+kleśaliṅganimittānāṃ vipakṣapratipakṣayoḥ /
+viveko duṣkaraikāntāvuddeśo 'nupalambhakaḥ // abhs_4.29 //
+
+niṣiddhābhiniveśaśca yaścālambanasaṃjñakaḥ /
+vipratyayo 'vighātī ca so 'padāgatyajātikaḥ // abhs_4.30 //
+
+tathatānupalambhaśca svabhāvaḥ ṣoḍaśātmakaḥ /
+lakṣmeva lakṣyate ceticaturthaṃ lakṣaṇaṃ matam // abhs_4.31 //
+
+animittapradānādisamudāgamakauśalam /
+sarvākārāvabodhe 'smin mokṣabhagīyamiṣyate // abhs_4.32 //
+
+buddhādyālambanā śraddhā vīryaṃ dānādigocaram /
+smṛtirāśayasaṃpattiḥ samādhiravikalpanā // abhs_4.33 //
+
+dharmeṣu sarvairākārairjñānaṃ prajñeti pañcadhā /
+tīkṣṇai subodhā saṃbodhirdurbodhā mṛdubhirmatā // abhs_4.34 //
+
+ālambanaṃ sarvasattvā ūṣmaṇāmiha śakyate /
+samacittādirākārasteṣveva daśadhoditaḥ // abhs_4.35 //
+
+svayaṃ pāpānnivṛttasya dānādyeṣu sthitasya ca /
+tayorniyojanānyeṣāṃ varṇavādānukulate // abhs_4.36 //
+
+mūrdhagam svaparādhāraṃ satyajñānaṃ tathā kṣamā /
+tathāgradharmā vijñeyāḥ sattvānāṃ pācanādibhiḥ // abhs_4.37 //
+
+nirvedhaṅgānyupādaya darśanābhyāsamārgayoḥ /
+ye bodhisattvā vartante so 'trāvaivartiko gaṇaḥ // abhs_4.38 //
+
+rūpādibhyo nivṛttyādyairliṅgairviṃśatidheritaiḥ /
+nirvedhāṅgasthitasyedamavaivartikalakṣaṇam // abhs_4.39 //
+
+rūpādibhyo nivṛttiśca vicikitsākṣaṇakṣayau /
+ātmanaḥ kuśalasthasya pareṣāṃ tanniyojanam // abhs_4.40 //
+
+parādhāraṃ ca dānādi gambhire 'rthe 'pyakāṅkṣaṇam /
+maitraṃ kāyādyasaṃvāsaḥ pañcadhāvaraṇena ca // abhs_4.41 //
+
+sarvānuśayahānaṃ ca smṛtisaṃprajñatā suci /
+civarādiśarīre ca kṛmīṇāmasamudbhavaḥ // abhs_4.42 //
+
+cittākauṭilyamādānaṃ dhūtasyāmatsarāditā /
+dharmatāyuktagāmitvaṃ lokārthaṃ narakaiṣaṇā // abhs_4.43 //
+
+parairaneyatā mārasyānyamārgopadeśinaḥ /
+māra ityavabodhaśca caryā buddhānumoditā // abhs_4.44 //
+
+ūṣmamūrdhasu sa kṣāntiṣvagradharmeṣvavasthitaḥ /
+liṅgairamībhirviśatyā saṃbodherna vivartate // abhs_4.45 //
+
+kṣāntijñānakṣaṇaḥ ṣaṭ ca pañca pañca ca dṛkpathe /
+bodhisattvasya vijñeyamavaivartikalakṣaṇam // abhs_4.46 //
+
+rūpādisaṃjñāvyāvṛttirdārḍhyaṃ cittasya hinayoḥ /
+yānayorvinivṛttiśca dhyānādyaṅgaparikṣayaḥ // abhs_4.47 //
+
+kāyacetolaghutvaṃ ca kāmasevābhyupāyikī /
+sadaiva brahmacāritvamājīvasya viśuddhatā // abhs_4.48 //
+
+skandhādavantarāyeṣu saṃbhāre sendriyādike /
+samare matsarādau ca neti yogānuyogayoḥ // abhs_4.49 //
+
+vihārapratiṣedhaśca dharmasyāṇoralabdhatā /
+niścitatvaṃ svabhumau ca bhūmitritayasaṃsthitiḥ // abhs_4.50 //
+
+dharmārthaṃ jīvitatyāga ityamī ṣoḍaśa kṣaṇāḥ /
+avaivartikaliṅgāni dṛṅmārgasthasya dhīmataḥ // abhs_4.51 //
+
+gambhiro bhāvanāmārgo gāmbhīryaṃ śunyatādikam /
+samāropāpavādāntamuktatā sā gabhīratā // abhs_4.52 //
+
+cintātulananidhyānānyabhīkṣṇaṃ bhāvanāpathaḥ /
+nirvedhāṅgeṣu dṛṅmārge bhāvanāmārga eva ca // abhs_4.53 //
+
+prābandhakatvādiṣṭo 'sau navadhā ca prakārataḥ /
+mṛdumadhyādhimātrāṇāṃ punarmṛdvādibhedataḥ // abhs_4.54 //
+
+asaṃkhyeyādinirdeśāḥ paramārthena na kṣamāḥ /
+kṛpāniṣyandabhūtāste saṃvṛtyābhimatā muneḥ // abhs_4.55 //
+
+hānivṛddhī na yujyete nirālāpasya vastunaḥ /
+bhāvanākhyena kiṃ hinaṃ vartmanā kimudāgatam // abhs_4.56 //
+
+yathā bodhistathaivāsāviṣṭasyārthasya sādhakaḥ /
+tathatālakṣaṇā bodhiḥ so 'pi tallakṣaṇo mataḥ // abhs_4.57 //
+
+pūrveṇa bodhirno yuktā manasā paścimena vā /
+dīpadṛṣṭāntayogenagambhīrā dharmatāṣṭadhā // abhs_4.58 //
+
+utpāde ca nirodhe ca tathatāyāṃ gabhīratā /
+jñeye dāne ca caryāyāmadvayopāyakauśale ca // abhs_4.59 //
+
+svapnopamatvāddharmāṇāṃ bhavaśāntyorakalpanā /
+karmābhāvādicodyānāṃ parihārā yathoditāḥ // abhs_4.60 //
+
+sattvalokasya yā śuddhistasyāḥ suddhyupahārataḥ /
+tathā bhājanalokasya buddhakṣetrasya śuddhatā // abhs_4.61 //
+
+viṣayo 'sya prayogaśca śātravāṇāmatikramaḥ /
+apratiṣṭho yathāvedhamasādhāraṇalakṣaṇaḥ // abhs_4.62 //
+
+asakto 'nupalambhaśca nimittapraṇidhikṣataḥ /
+lalliṅgaścāpramāṇaśca daśadhopāyakauśalam // abhs_4.63 //
+
+// abhisamayālaṅkāre prajñāpāramitopadeśaśāstre sarvākārābhisaṃbodhādhikāraś caturthaḥ //
+
+svapnāntare 'pi svapnābhasarvadharmekṣaṇādikam /
+murdhaprāptasya yogasya liṅgaṃ dvādaśadhā matam // abhs_5.1 //
+
+jambudvipajaneyattābuddhapūjāśubhādikām /
+upamāṃ bahudhā kṛtvā vivṛddhiḥ ṣoḍaśātmikā // abhs_5.2 //
+
+trisarvajñatvadharmāṇāṃ paripuriranuttarā /
+aparityaktasattvārthā nirūḍhirabhidhīyate // abhs_5.3 //
+
+caturdvipakasāhasradvitrisāhasrakopamaḥ /
+kṛtvā puṇyabahutvena samādhiḥ parikīrtitaḥ // abhs_5.4 //
+
+pravṛttau ca nivṛttau ca pratyekaṃ tau navātmakau /
+grāhyau vikalpau vijñeyāvayāthāviṣayātmakau // abhs_5.5 //
+
+dravyaprajñaptisatsattvavikalpau grāhakau matau /
+pṛthagjanāryabhedena pratyekaṃ tau navātmakau // abhs_5.6 //
+
+grāhyau cenna tathā sto 'rthau kasya tau grāhakau matau /
+iti grāhakabhāvena śunyatālakṣaṇaṃ tayoḥ // abhs_5.7 //
+
+eṣa svabhāve gotre ca pratipatsamudāgame /
+jñānasyālambanābhrāntau pratipakṣavipakṣayoḥ // abhs_5.8 //
+
+svasminnadhigame kartṛtatkāritrakriyāphale /
+pravṛttipakṣādhiṣṭhāno vikalpo navadhā mataḥ // abhs_5.9 //
+
+bhavaśāntiprapātitvānnyūnatve 'dhigamasya ca /
+parigrahasyābhāve ca vaikalye pratipadgate // abhs_5.10 //
+
+parapratyayagāmitve samuddeśanivartane /
+prādeśikatve nānātve sthānaprasthānamohayoḥ // abhs_5.11 //
+
+pṛṣṭhato gamane ceti vikalpo 'yaṃ navātmakaḥ /
+nivṛttipakṣādhiṣṭhānaḥ śrāvakādimanobhavaḥ // abhs_5.12 //
+
+grāhakaḥ prathamo jñeyo gragaṇapratimokṣaṇe /
+manaskriyāyāṃ dhātūnāmupaśleṣe trayasya ca // abhs_5.13 //
+
+sthāne cābhiniveśe ca prajñaptau dharmavastunaḥ /
+saktau ca pratipakṣe ca yathecchaṃ ca gatikṣatau // abhs_5.14 //
+
+yathoddeśamaniryāṇe mārgāmārgāvadhāraṇe /
+sanirodhe samutpāde vastuyogaviyogayoḥ // abhs_5.15 //
+
+sthāne gotrasya nāśe ca prārthanāhetvabhāvayoḥ /
+pratyarthikopalambhe ca vikalpo grāhako 'paraḥ // abhs_5.16 //
+
+bodhau sandarśanānyeṣāṃ taddhetośca parindanā /
+tatprāptyanantaro hetuḥ puṇyabāhulyalakṣaṇaḥ // abhs_5.17 //
+
+kṣayānutpādayorjñāne malānāṃ bodhirūcyate /
+kṣayābhāvādanutpādātte hi jñeye yathākramam // abhs_5.18 //
+
+prakṛtāvaniruddhāyāṃ darśanākhyena vartmanā /
+vikalpajātaṃ kiṃ kṣīṇaṃ vānutpattimāgatam // abhs_5.19 //
+
+sattā ca nāma dharmāṇāṃ jñeye cāvaraṇakṣayaḥ /
+kathyate yatparaiḥ śāsturatra vismīyate mayā // abhs_5.20 //
+
+nāpaneyamataḥ kiṃcitprakṣeptavyaṃ na kiṃcana /
+draṣṭavyaṃ bhūtato bhūtaṃ bhūtadarśī vimucyate // abhs_5.21 //
+
+ekaikasyaiva dānādau teṣāṃ yaḥ saṃgraho mithaḥ /
+sa ekakṣaṇikaḥ kṣāntisaṃgṛhīto 'tra dṛkpathe // abhs_5.22 //
+
+sa samādhiṃ samāpadya tataḥ siṃhavijṛmbhitam /
+anulomaṃ vilomaṃ pratītyotpādamīkṣate // abhs_5.23 //
+
+kāmāptamavadhīkṛtya vijñānamasamāhitam /
+sanirodhāḥ samāpattīrgatvāgamya nava dvidhā // abhs_5.24 //
+
+ekadvitricatuḥpañcaṣaṭsaptāṣṭavyatikramāt /
+avaskandasamāpattirāniroodhamatulyatā // abhs_5.25 //
+
+saṃkṣepe vistare buddhaiḥ sanāthyenāparigrahe /
+traikālike guṇābhāve śreyasastrividhe pathi // abhs_5.26 //
+
+eko grāhyavikalpo 'yaṃ prayogākāragocaraḥ /
+dvitīyaścittacaittānāṃ pravṛttiviṣayo mataḥ // abhs_5.27 //
+
+anutpādastu cittasya bodhimaṇḍāmanaskriyā /
+hīnayānamanaskārau saṃbodheramanaskṛtiḥ // abhs_5.28 //
+
+bhāvane 'bhāvane caiva tadviparyaya eva ca /
+ayathārthaśca vijñeyo vikalpo bhāvanāpathe // abhs_5.29 //
+
+grāhakaḥ prathamo jñeyaḥ sattvaprajñaptigocaraḥ /
+dharmaprajñaptyaśūnyatve saktipravicayātmakaḥ // abhs_5.30 //
+
+kṛtena vastuno yānatritaye ca sa kīrtitaḥ /
+dakṣiṇāyā aśuddhau ca caryāyāśca vikopane // abhs_5.31 //
+
+sattvaprajñaptitaddhetuviṣayo navadhāparaḥ /
+bhāvanāmārgasaṃbuddho vipakṣastadvighātataḥ // abhs_5.32 //
+
+sarvajñatānāṃ tisr^īṇāṃ yathāsvaṃ trividhāvṛtau /
+śāntimārge tathatādisaṃprayogaviyogayoḥ // abhs_5.33 //
+
+asamatve ca duḥkhādau kleśānāṃ prakṛtāvapi /
+dvayābhāve ca saṃmohe vikalpaḥ paścimo mataḥ // abhs_5.34 //
+
+āsāṃ kṣaye satītīnāṃ cirāyocchvasitā iva /
+sarvākārajagatsaukhyasādhanā guṇasaṃpadaḥ // abhs_5.35 //
+
+sarvāḥ sarvābhisāreṇa nikāmaphalaśālinam /
+bhajante taṃ mahāsattvaṃ mahodadhimivāpagāḥ // abhs_5.36 //
+
+trisāhasrajanaṃ śiṣyakhaḍgādhigamasaṃpadi /
+bodhisattvasya ca nyāmo pratiṣṭāpya śubhopamāḥ // abhs_5.37 //
+
+kṛtvā puṇyabahutvena buddhatvapteranantaraḥ /
+ānantaryasamādhiḥ sa sarvākārajñatā ca tat // abhs_5.38 //
+
+ālambanamabhāvo 'sya smṛtiścādhipatirmataḥ /
+ākāraḥ śāntatā cātra jalpājalpipravādinām // abhs_5.39 //
+
+ālambanopapattau ca tatsvabhāvāvadhārraṇe /
+sarvākārajñatājñāne paramārthe sasaṃvṛtau // abhs_5.40 //
+
+prayoge triṣu ratneṣu sopāye samaye muneḥ /
+viparyāse samārge ca pratipakṣavipakṣayoḥ // abhs_5.41 //
+
+lakṣaṇe bhāvanāyāṃ ca matā vipratipattayaḥ /
+sarvākārajñatādhārā ṣoḍhā daśa ca cādinām // abhs_5.42 //
+
+// abhisamayālaṅkāre prajñāpāramitopadeśaśāstre mūrdhābhisamayādhikāraḥ pañcamaḥ //
+
+dānena prajñayā yāvadbuddhādau smṛtibhiśca sā /
+dharmābhāvasvabhāvenetyanupūrvakriyā matā // abhs_6.1 //
+
+// abhisamayālaṅkāre prajñāpāramitopadeśaśāstre anupurvābhisamayādhikāraḥ ṣaṣṭhaḥ //
+
+anūsravāṇāṃ sarveṣāmekaikenāpi saṃgrahāt /
+ekakṣaṇāvabodho 'yaṃ jñeyo dānādinā muneḥ // abhs_7.1 //
+
+aradhaṭṭaṃ yathaikāpi padikā purūṣeritā /
+sakṛtsarvaṃ calayati jñānamekakṣaṇe tathā // abhs_7.2 //
+
+vipākadharmatāvasthā sarvaśuklamayī yadā /
+prajñāpāramitā jātā jñānamekakṣaṇe tadā // abhs_7.3 //
+
+svapnopameṣu dharmeṣu sthitvā dānādicaryā /
+alakṣatvaṃ dharmāṇāṃ kṣaṇenaikena vindati // abhs_7.4 //
+
+svapnaṃ taddarśinaṃ caiva dvayayogena nekṣate /
+dharmāṇāmadvayaṃ tattvaṃ kṣaṇenaikenapaṣyati // abhs_7.5 //
+
+// abhisamayālaṅkāre prajñāpāramitopadeśaśāstre ekakṣaṇābhisamayādhikāraḥ saptamaḥ //
+
+sarvākārāṃ viśuddhiṃ ye dharmāḥ prāptā nirāsravāḥ /
+svābhāvikomuneḥ kāyasteśāṃ prakṛtilakṣaṇaḥ // abhs_8.1 //
+
+bodhipakṣāpramāṇāni vimokṣā anūpurvaśaḥ /
+navātmikā samāpattiḥ kṛtsnaṃ daśavidhātmikam // abhs_8.2 //
+
+abhibhvāyatanānyaṣṭaprakārāṇi prabhedataḥ /
+araṇā praṇidhijñānamabhijñāḥ pratisaṃvidaḥ // abhs_8.3 //
+
+sarvākārāścatasno 'thaśuddhayo vaśitā daśa //
+balāni daśa catvāri vaiśāradyānyārakṣaṇam // abhs_8.4 //
+trividhaṃ smṛtyupasthānaṃ tridhāsaṃmoṣadharmatā /
+vāsanāyāḥ samuddhāto mahati karūṇā jane // abhs_8.5 //
+
+āveṇikā munereva dharmā ye 'ṣṭādaśeritāḥ /
+sarvākārajñatā ceti dharmakāyo 'bhidhīyate // abhs_8.6 //
+
+śravakasyāraṇādṛṣṭernṛkleśaparihāritā /
+tatkleśasrotaucchittyai grāmādiṣu jināraṇā // abhs_8.7 //
+
+anābhogamanāsaṅmavyāghātaṃ sadā sthitam /
+sarvapraśnāpanudvauddhaṃ praṇidhijñānamiṣyate // abhs_8.8 //
+
+paripākaṃ gate hetau yasya yasya yadā yadā /
+hitaṃ bhavati kartavyaṃ prathate tasya tasya saḥ // abhs_8.9 //
+
+varṣatyapi hi parjanye naiva bījaṃ prarohati /
+samutpāde 'pi buddhānāṃ nābhavyo bhadramaśrute // abhs_8.10 //
+
+iti kāritravaipulyāt buddho vyāpī nirūcyate /
+akṣayatvācca tasyaiva nitya ityapi kathyate // abhs_8.11 //
+
+dvātriṃśallakṣaṇāśītivyañjanātmā munerayam /
+sāṃbhogiko mataḥ kāyo mahāyānopabhogataḥ // abhs_8.12 //
+
+cakrāṅkahastaḥ krākurmapādo jālāvāddhāṅgulipāṇipādaḥ /
+karau sapādau tarūṇau mṛdū ca mamutsadaiḥ saptabhirāśrayo 'sya // abhs_8.13 //
+
+dīrghāṅgulirvyāyatapārṣṇigātraṃ prājyaṃ tvṛjucchaṅkhapadordhvaromā /
+eṇeyajaṅghaśca paṭūrūbāhuḥ kośāvanaddhottamabastiguhyaḥ // abhs_8.14 //
+
+suvarṇavarṇḥ pratanucchaviśca pradakṣiṇaikaikasujātromā /
+ūūrṇāṅkitāsyo haripūrvakāyaḥ skandhau vṛtāvasya citāntarāṃsaḥ // abhs_8.15 //
+
+hīno rasaḥ khyāti rasottamo 'sya nyagrodhavanmāṇḍalatulyamūrtiḥ /
+uṣīṣamūrdhā pṛthucārūjihvo brahmasvaraḥ siṃhahanuḥ suśuklāḥ // abhs_8.16 //
+
+tulyāḥ pramāṇe 'viralāsca dantā anyūnasaṃkhyā daśikāścatasraḥ /
+nīlekśaṇe govṛṣapakṣmanetro dvātriṃśadetāni hi lakṣaṇāni // abhs_8.17 //
+
+yasya yasyātra yo heturlakṣaṇasya prasādhakaḥ /
+tasya tasya prapūryāyaṃ samudāgamalakṣaṇaḥ // abhs_8.18 //
+
+gurūṇāmanuyānādirdṛḍhatā saṃvaraṃ prati /
+saṃgrahāsevanaṃ dānaṃ praṇitasya ca vastunaḥ // abhs_8.19 //
+
+vadhyamokṣasamādānāṃ vivr6iddhiḥ kuśalasya ca /
+ityādiko yathāsutraṃ heturlakṣaṇasādhakaḥ // abhs_8.20 //
+
+tāmrāḥ snigdhāśca tuṅgāśca nakhā aṅgulayo muneḥ /
+vṛttāścitānupūrvāśca guḍhā nirgranthyaḥ śirāḥ // abhs_8.21 //
+
+guḍhau gulphau samau pādau siṃhebhadvijagopateḥ /
+vikrāntaṃ dakṣiṇaṃ cārūgamanamṛjuvṛttatā // abhs_8.22 //
+
+mṛṣṭānupūrte medhyamṛdutve śuddhagātratā /
+pūrṇavyañjanatā cārupṛthumaṇḍalagāratā // abhs_8.23 //
+
+samakramatvaṃ śuddhatvaṃ netrayoḥ sukumāratā /
+adīnossadagātratve susaṃhatanagātratā // abhs_8.24 //
+
+suvibhaktāṅgatā dhvāntapradhvastālokaśuddhatā /
+vṛttamṛṣṭākṣāmakukṣitāśca gabhiratā // abhs_8.25 //
+
+dakṣiṇāvartatā nābheḥ samantaddarśanīyatā /
+samācāraḥ śuciḥ kālatilakāpagatā tanuḥ // abhs_8.26 //
+
+karau tulamṛdūsnigdhagambhīrāyatalekhatā /
+nātyāyataṃ vaco bimbapratibimbopamauṣṭhatā // abhs_8.27 //
+
+mṛdvī tanvī ca raktā ca jihvā jimūtaghoṣatā /
+cārūmañjasvaro daṃṣṭrā vṛttāstīkṣṇāḥ sitāḥ samāḥ // abhs_8.28 //
+
+anupurvī gatāstuṅgā nāsikā paraṃ śuciḥ /
+viśale nayane pakṣmacitaṃ padmadalākṣitā // abhs_8.29 //
+
+āyataślakṣṇasusnigdhasamaromnau bhruvau bhujau /
+pīnāyatau samau karṇāvupaghātavivarjitau // abhs_8.30 //
+
+lalāṭamaparimlānaṃ prṛthupūrṇottamāṅgatā /
+bhramarābhāścitāḥ ślakṣṇā asaṃlulitamūrtayaḥ // abhs_8.31 //
+
+keśā aparuṣāḥ puṃsāṃ saurabhyānyapahāriṇaḥ /
+śrīvatsaḥ svastikaṃ ceti buddhānuvyañjanaṃ matam // abhs_8.32 //
+
+karoti yena citrāṇi hitāni jagataḥ samam /
+ā bhavātso 'nupacchinnaḥ kayo nairmāṇiko muneḥ // abhs_8.33 //
+
+tathā karmāpyanucchinnamasyāsaṃsāramiṣyate /
+gatīnāṃ śamanaṃ karma saṃgrahe ca caturvidhe // abhs_8.34 //
+
+niveśanaṃ sasaṃkleśe vyavadānāvabodhane /
+sattvānāmarthayāthātmye ṣaṭsu pāramitāsu ca // abhs_8.35 //
+
+buddhamārge prakṛtyaivaśunyatāyāṃ dvayakṣaye /
+saṃkete 'nupalambhe ca paripāke ca hehinām // abhs_8.36 //
+
+bodhisattvasya mārge 'bhiniveśasya nivāraṇe /
+bodhiprāptu jinakṣetraviśuddhau niyatiṃ prati // abhs_8.37 //
+
+aprameye ca sattvarthe buddhasevādike guṇe /
+bodheraṅgeṣvanāśe ca karmaṇāṃ satyadarśane // abhs_8.38 //
+
+viparyāsaprahāṇe ca tadavastukatānaye /
+vyavadāne sasaṃbhāre saṃskṛtāsaṃskṛte prati // abhs_8.39 //
+
+vyatibhedāparijñāne virnāṇe ca niveśanam /
+dharmakāyasya karmedaṃ saptavimśatidhā matam // abhs_8.40 //
+
+// abhisamayālaṅkāre prajñāpāramitopadeśaśāstre dharmakāyādhikāro 'ṣṭamaḥ //
+
+lakṣaṇaṃ tatprayogastatprakarṣastadanukramaḥ /
+tanniṣṭā tadvipākascotyanyaḥ ṣeḍhārthasaṃgrahaḥ // 1 //
+
+viṣayastritayo hetuḥ prayogaścaturātmakaḥ /
+dharmakāyaḥ phalaṃ karmetyanyastredhārthasaṃgrahaḥ // 2 //
+
+abhisamayālaṅkāraṃ nāma prajñāpāramitopadeśaśāstraṃ samāptam //
+
+kṛtirāryamaitreyanāthasya //

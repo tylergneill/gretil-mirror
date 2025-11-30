@@ -1,0 +1,135 @@
+Nāgārjuna: Mahāyānaviṃśikā
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-mahAyAnaviMzikA.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - G. Tucci: Minor Buddhist Texts, part I. Roma 1956 (Serie Orientale Roma, 9), pp. 201-203.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Mahāyānaviṃśikā = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from nagmyv_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Nagarjuna: Mahayanavimsika
+Based on the edition by G. Tucci: Minor Buddhist Texts, part I.
+Roma 1956 (Serie Orientale Roma, 9), pp. 201-203.
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sastra section
+The transliteration emulates the conventions of Nagari script.
+Therefore, many word boundaries are not marked by blanks.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+na jñānācchūnyatā nāma kācidanyā hi vidyate /
+viviktāvyatirekitvaṃ vivekasya yato matam // 1 //
+
+dvayaśūnyam hi vijñānam anyathā na prasajyate /
+dvayāsattvān nivṛttasya dvayātmatvaprasangataḥ // 2 //
+
+tacchurutatathatārūpo bhagavān eva bhaṇyate /
+vedyavedakasadbhāvavikalpādyasamāśrayaḥ // 3 //
+
+cittamātraṃ nirābhāsaṃ vihāro buddhabhūstathā /
+etaddhi bhāṣitaṃ buddhairbhāsante bhāṣayanti ca // 4 //
+
+cittaṃ hi bhūmayaḥ sapta nirābhāsā tvihāṣṭamī /
+dve bhūmayo vihāro 'tra 'śeṣā bhūmirmamātmikā // 5 //
+
+deśyante bhūmayaḥ sapta buddhaiścittavaśaṃ gatāḥ /
+kāyavākcittadauṣṭhulyaṃ saptamyāṃ na pravartate // 6 //
+
+aṣṭamyāṃ āśrayastasya svapno 'pyasukhasaṃbhavaḥ /
+- - - - - - - - - - - - - - - - // 7
+
+1. avācyo vācakairdharmaḥ kṛpayā yena deśitaḥ /
+namo 'cintyaprabhavāya buddhāyāsaṅgabuddhaye // 8 //
+
+2. svabhāvena na cotpannā nirvṛtāśca na tattvataḥ /
+yathākāśaṃ tathā buddhāḥ sattvāścaivaikalakṣaṇāḥ // 9 //
+
+3. pārāvāraṃ na cotpannāḥ svabhāvena pratityajāḥ /
+te 'pi śūnyā hi saṃskārāḥ sarvajñajñānagocarāḥ // 10 //
+
+4. sarvabhāvāḥ svabhāvena pratibimbasamā matāḥ /
+śuddhāḥ śivasvabhāvāśca advayāstathatāsamāḥ // 11 //
+
+5. asatyātmani cātmatvaṃ kalpayitvā pṛthagjanāḥ /
+sukhaduḥkham abhijñāśca sarvam eṣāṃ ca tattvataḥ // 12 //
+
+6. ṣaḍgatiryaśca saṃsāraḥ svargaśca paramaṃ sukham /
+narake ca mahadduḥkhaṃ jarāvyādhirapī yatām // 13 //
+
+7. abhūtāṃ kalpanāṃ kṛtvā pacyante narakādiṣu /
+svadoṣenaiva dahyante veṇavo vahninā yathā // 14 //
+
+8. yathā māyā tathā sattvā viṣayān paribhuñjate //
+māyāmayīṃ gatiṃ yānti pratītyotpādarūpiṇīm // 15 //
+9. yathā citrakaro rūpaṃ yakṣasyātibhayaṅkaraṃ /
+bibheti svayam ālikhya saṃsāre 'py abudhastathā // 16 //
+
+10. yathā paṅkaṃ svayaṃ kṛtvā kaścit patati bāliśaḥ /
+tathāsatkalpanāpaṅke magnāḥ sattvā duruttare // 17 //
+
+11. abhāvaṃ bhavato dṛṣṭvā duḥkhāṃ vindati vedanām /
+śaṅkāviṣeṇa bādhante viṣayā vitathāstathā // 18 //
+
+12. tāṃscaivāśaraṇān dṛṣṭvā karuṇādhīramānasāḥ /
+niyojayanti saṃbodhau sattvān buddhā hitaṃkarāḥ // 19 //
+
+13. te 'pi saṃbhṛtasaṃbhārāḥ prāpya jñānam anuttaram /
+kalpanājālanirmuktā buddhā syurlokabandhavaḥ // 20 //
+
+14. yato 'jātam anutpannaṃ samyak sattvārthadarśinaḥ /
+tataḥ śūnyaṃ jagad dṛṣṭvā ādimadhyāntavarjitam // 21 //
+
+15. tena paśyanti saṃsāraṃ nirvāṇaṃ ca na cātmanaḥ /
+nirlepaṃ nirvikāraṃ ca ādimadhyāntabhāsvaram // 22 //
+
+16. svapnānubhūtaviṣayaṃ pratibuddho na paśyati /
+mohanidrāvibuddhaśca saṃsāraṃ naiva paśyati // 23 //
+
+17. māyāṃ vidhāya māyavī upasaṃharate yadā /
+tadā na vidyate kiṃcid dharmāṇāṃ sā hi dharmatā // 24 //
+
+18. cittamātram idaṃ sarvaṃ māyākāravad utthitam /
+tataḥ śubhāśubhaṃ karma tato janma śubhāśubham // 25 //
+
+19. kalpayanti yathā lokaṃ notpannāśca svayaṃ janāḥ /
+utpādo hi vikalpo 'yaṃ artho bāhyo na vidyate // 26 //
+
+20. asvabhāveṣu bhāveṣu nityātmasukhasaṃjñinaḥ /
+bhavārṇave bhramantyasmin bālā mohatamovṛtāḥ // 27 //
+
+kalpanājalapūrṇasya saṃsārasumahodadheḥ /
+anākramya mahāyānaṃ ko vā pāraṃ tariṣyati // 28 //
+
+mahāyānaviṃśikā kṛtirāryanāgārjunapādānāṃ /

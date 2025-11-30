@@ -1,0 +1,90 @@
+Āryānityatāsūtra
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_AryAnityatAsUtra.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - M.B. Shakya. Buddhist Himalaya Vol.1, No.1. Nepal: Nagarjuna Institute of Exact Methods, 1988, pp. 58-60.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Āryānityatāsūtra = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsu001_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Aryanityatasutra = AniSū
+Based on the edition by M.B. Shakya. Buddhist Himalaya Vol.1, No.1.
+Nepal: Nagarjuna Institute of Exact Methods, 1988, pp. 58-60.
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sutra section, text no. 1
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+āryānityatā sūtram
+
+om namaḥ sarvajñāya
+
+evaṃ mayā śrutamekasmin samaye bhagavān śrāvastyāṃ viharati sma jetavane 'nāthapiṇḍadasyārāme mahatā bhikṣusaṃghena sārddhaṃ trayodaśabhirbhikṣuśataiḥ / tatra khalu bhagavān bhikṣūnāmantrayate sma -
+
+anityā bhikṣavaḥ sarvasaṃskārā adhruvā anāsvāsikā vipariṇāmadharmāṇaḥ / yadyāvat bhikṣavaḥ sarvebhyaḥ saṃskārebhyo 'laṃ nirvartitumalaṃ viraktamalaṃ vimoktum / sarveṣāṃ sattvānāṃ sarveṣāṃ bhūtānāṃ sarveṣāṃ prāṇināṃ āmaraṇānta hi jīvita maraṇa paryavasānaṃ nāsti jātasyāmaraṇam /
+
+yepi te bhikṣavo gṛhapatayo mahāśālakulā brāhmaṇa mahāśālakulākṣatriya mahāśālakulā āśāṃ mahādhano mahābhogāḥ prabhūtamaṇimāṇikyamuktāvaiduryaśaṃkhaśilāpravālajātarūparajatavikaraṇāḥ prabhūtadhanadhānyakoṣakoṣṭhāgārasannicayāḥ prabhūtadāsīdāsakarmakara paurūṣeyo prabhūtamitrāmātyajñātisālohitāsteṣāmapi maraṇāntaṃ jīvitamaraṇaṃparyavasānaṃ nāsti jātasyāmaraṇaṃ /
+
+yepi te bhikṣavaḥ rājānaḥ kṣatriyāśca murddhābhiṣiktā jānapadai śvaryasthāmavīryamanuprāptā mahāntaṃ pṛthvīmaṇḍalamabhinirjityā vasanti / teṣāmapi maraṇāntaṃ hi jīvitaṃ maraṇaparyavasānaṃ nāsti jātasyāmaraṇaṃ /
+
+yepi te bhikṣavaḥ ṛṣayo vānaprasthāḥ pramukta phalāhārāḥ prabhūktaphala bhojinaḥ pramukta phalena yāpanti teṣāmapi maraṇāntaṃ hi jīvita maraṇaparyavasānaṃ nāsti jātasyāmaraṇaṃ /
+
+yepi te bhikṣavaḥ kāmāvacāradevāścāturmahārājikādevāstrayāstriśāṃdevānāmāstuṣitādevānirmāṇaratayodevāḥ paranirmitavaśavartinodevāsteṣāmapi maraṇāntaṃ hi jīvitaṃ maraṇa paryavasānaṃ nāsti jātasyāmaraṇaṃ /
+
+yepi te bhikṣavo rūpiṇo devāḥ prathamadhyānalābhino brahmakāyikā brahmapurohitā mahābrahmāṇaḥ dvitīya dhyānalābhina parītābhā apramāṇābhā ābhāśvarā stṛtīyadhyāna lābhinaḥparītaśubhā apramāṇaśubhā śubhakṛtsnā caturthadhyāna lābhinonabhrakā puṇyaprasavā bṛhatphalā avṛhā atapā sudṛśāḥ sudarśanā akaniṣṭhāścadevāsteṣāmapi maraṇāntaṃ hi jīvitaṃ maraṇaṃ paryavasānaṃ nāsti jātasyāmaraṇaṃ /
+
+yepi te bhikṣavaḥ ārūpiṇodevā ākāśānantaāyatanopagā vijñānantyāyatanopagā ākiṃcanyāyatanopagā naivasaṃjñānāsaṃjñāyatanopagāśca devāsteṣāmapi maraṇāntahi jīvita maraṇaṃ paryavasāna nāsti jātasyāmaraṇa / traidhātukamidaṃ /
+
+yepi te bhikṣavo 'rhantaḥ kṣīṇāsravā kṛtakṛtyāḥ kṛtakaraṇīyā apahṛtabhārā anuprāptatvākāthā parikṣīṇabhavasaṃyojanaḥ samyagājñāsuvimuktacittāḥ sarvacetovaśiparamapāramitāprāptāsteṣāmapi kāyanikṣepaṇadharmāḥ /
+
+yepi te bhikṣavaḥ pratyekabuddhā khaḍga viṣāṇakalpā ekamātmāna damayanti ekamātmāna śamayati ekamātmātmānaṃparinirvāyanti teṣāmapi 'yaṃkāyonikṣepaṇadharmaḥ /
+
+yepi te bhikṣavastathāgatā arhantaḥ samyak saṃbuddhādaśavalavalinaḥudārārṣamāḥsamyak siṃhanādanādineścaturvaiśāradyadharmārohaṇa vaiśāradyaṃ / sarvadharmadeśanāvaiśāradyaṃ nirvāṇamārgavatāraṇavaiśāradyaṃ āśravajñāna prahāṇāvaiśāradyaṃ / viśadādṛḍhanārāyaṇasaṃhatakāyāsteṣāmapyayaṃkāyonikṣepaṇa dharmaḥ / tadyathāpi nāma bhikṣavaḥ kumbhakārakṛtāni bhāṇḍāniśrāmānivāpakvāni va bhedanaparyantāni bhedana paryavasānānyevameva bhikṣavaḥ sarveṣāṃ sattvānāṃ sarveṣāṃ bhūtānāṃ prāṇināṃ āmaraṇāntaṃ hi jīvita maraṇaparyavasānaṃ nāsti jātasyāmaraṇaṃ / īdamavocadbhagavānnidamukto sugato hyathā parovāca śāstā /
+
+anityāvata saṃskārā utpāda vyayadhārmiṇaḥ /
+utpādyahinirūdhyante teṣāṃvyapaśamaḥsukhaṃ //
+
+yathā hi kumbhakāreṇa muttikābhājanaṃ kṛtaṃ /
+sarva bhedana paryantaṃ sattvānāṃjīvitaṃtathā //
+
+yathāphalānāṃ pakvānāṃśaśvatpatanatobhayaṃ /
+tathā saṃskārajāḥ satvā nityaṃ maraṇato bhayaṃ //
+
+sarvekṣayāntā nicayāḥ patanāntāḥ samucchrayāḥ /
+saṃyogāśca viyogāntā maraṇāntahi jīvitam //
+
+idamavocad bhagavānāttamanāste ca bhikṣavaḥ sā ca parṣadobhagavato bhāṣitamabhyanandan /
+
+ityāryānityatā sūtraṃsamāptaṃ //

@@ -1,0 +1,2291 @@
+Ṛgvidhāna
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_RgvidhAna.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Muneo Tokunaga
+## Contribution: Muneo Tokunaga
+## Date of this version: 2020-07-31
+
+## Source: 
+   - M.S. Bhat.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Ṛgvidhāna = RgV,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from rgvidh_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Rgvidhana
+Based on the edition by M.S. Bhat
+Input by Muneo Tokunaga
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+
+atha.ṛgvidhānam
+
+svayambhuve.brahmaṇe.viśvagoptre.namaskṛtvā.mantradṛgbhyas.tathaiva./
+vivakṣur.asmy.ṛgvidhānam.purāṇam.purādṛṣṭam.ṛṣibhir.mantra.dṛgbhiḥ.// RgV_1,1.1
+
+mantrebhyo.mantra.dṛgbhyaś.ca.samāmnāyānupūrvaśaḥ./
+karmaṇām.ṛṣi.dṛṣṭānām.vidhim.provāca.śaunakaḥ.// RgV_1,1.2
+
+ṛṣibhir.vividhā.mantrā.dṛṣṭā.dṛṣṭa.prayojanāḥ./
+prayojanāya.coddiṣṭās.tasmiṃs.tasmin.pradarśitāḥ.// RgV_1,1.3
+
+nānārthāni.ca.karmāṇi.śānti.puṣṭy.āśrayāṇi.ca./
+siddhayaś.ca.tapo.mūlāḥ.śraddadhānasya.kurvataḥ.// RgV_1,1.4
+
+stuty.ādayo.ye.vikārāḥ.pradiṣṭās.tathā.arthavādā.rkṣu.sūkteṣu.caiva./
+yair..yaiḥ.kāmair.ṛṣir.devatāś.ca.tuṣṭūṣyante..tān..śṛṇuṣva.ucyamānān.// RgV_1,1.5
+
+āyuḥ.svargo.draviṇam.sūnavaś.ca.caturvidham.proktam.āśāsyam.agre./
+anye.kāmāḥ.śataśaḥ.sampradiṣṭāḥ.saṃstuvadbhir.ṛṣibhir.devatāś.ca.// RgV_1,1.6
+
+siddhā.mantrā.vidhinā.brāhmaṇasya.phalam.yacchanti.vidhivat.prayuktāḥ./
+satyam.teṣām.sādhanam.samyamaś.ca.śamas.titikṣā.anasūyā.damaś.ca.// RgV_1,2.7
+
+tasmād.dvijaḥ.praśānta.ātmā.japa.homa.parāyaṇaḥ./
+tapasy.adhyayane.yukto.bhaved.bhūta.anukampakaḥ.// RgV_1,2.8
+
+kṣatriyo.bāhu.vīryeṇa.tared.āpadam.ātmanaḥ./
+dhanena.vaiśya.śūdrau.tu.japa.homair.dvija.uttamaḥ.// RgV_1,2.9
+
+tapasā.svargam.āpnoti.tapasā.vindate.mahat./
+tapo.yuktasya.sidhyanti.karmāṇi.niyata.ātmanaḥ./ RgV_1,2.10
+
+vidveṣaṇam.saṃvananam.viṣaghnam.roga.nāśanam./
+yena.yena.artham.ṛṣiṇā.yad.artham.devatāḥ.stutāḥ.// RgV_1,2.11
+
+sa.sa.kāmaḥ.samṛddhaś.ca.teṣām.teṣām.tathā.tathā./
+tāni.karmāṇi.vakṣyāmi.vividhāni.ca.karmaṇām.// RgV_1,3.12
+
+puraścaraṇam.ādau.tu.karmaṇām.siddhi.kārakam./
+svādhyāya.abhyasanasya.ādau.prājāpatyam.cared.dvijaḥ.// RgV_1,3.13
+
+keśa.śmaśru.loma.nakhān.vāpayitvā.āplutaḥ.śuciḥ./
+tiṣṭhed.ahani.rātrau.tu.śucir.āsīta.vāg.yataḥ.// RgV_1,3.14
+
+satya.vādī.pavitrāṇi.japed.vyāhṛtayas.tathā./
+om.kāra.ādyās.tu.tā.japtvā.sāvitrīm.ca.tad.ity.ṛcam.// RgV_1,3.15
+
+āpo.hi.ṣṭha.iti.sūktam.tu.śuddhavatyo.aghamarṣaṇam./
+śaṃvatyaḥ.svastimatyaś.ca.pāvamānyas.tathaiva.ca.// RgV_1,3.16
+
+sarvatra.etat.prayoktavyam.ādāv.ante.ca.karmaṇām./
+āsahasrād.āśatād.vā.daśa.antam.athavā.japet.// RgV_1,4.17
+
+om.kāram.vyāhṛtīs.tisraḥ.sāvitrīm.athavā.ayutam./
+tarpayitvā.adbhir.ācāryān.ṛṣīṃś.chandāṃsi.devatāḥ.// RgV_1,4.18
+
+prapadyeta.virūka.akṣam.raudram.mantra.gaṇam.japan./
+anāryair.na.ca.bhāṣeta.na.śūdrair.na.api.garhitai.ḥ.// RgV_1,4.19
+
+na.rajasvalayā.nāryā.patitair.na.antyajair.nṛbhi.ḥ./
+na.deva.brāhmaṇa.dviṣṭair.na.ācārya.guru.nindakaiḥ.// RgV_1,4.20
+
+na.mātṛ.pitṛ.vidviṣṭair.na.avamanyeta.kaṃcana./
+maṅgala.ācāra.yukta.ḥ.syāt.trir.ahno.abhyupayan.apaḥ.// RgV_1,4.21
+
+ante.dvādaśa.rātrasya.sthālī.pākam.prakalpayet./
+agnaye.ca.atha.somāya.tṛtīyām.ca.tayoḥ.saha.// RgV_1,5.22
+
+vaiśvadevīm.ca.raudrīm.ca.juhuyād.uttare.tataḥ./
+avasānasya.pataye.tathā.anumataye.api.ca.// RgV_1,5.23
+
+dhanvantaraya.ity.anyā.gandharva.apsarasām.api./
+daśamī.brāhmaṇaspatyā.parā.tu.brahmaṇe.smṛtā.// RgV_1,5.24
+
+sarasvatyai.tathā.viṣṇor.antyā.sauviṣṭakṛty.api./
+ājya.āhutaya.eva.ādau.sthālī.pāke.hute.punaḥ.// RgV_1,5.25
+
+hutvā.agnim.tarpayed.viprān.śucir.bhuñjīta.vāg.yataḥ./
+tataḥ.śeṣam.vidhānena.śucir.bhuñjīta.vāg.yataḥ.// RgV_1,5.26
+
+kṛcchrāṇām.eṣa.sarveṣām.vidhir.ukto.anupūrvaśaḥ./
+prājāpatya.atikṛcchrasya.tathā.sāṃtapanasya.ca.// RgV_1,6.27
+
+parākasya.ca.kṛcchrasya.vidhiś.cāndrāyaṇasya.ca./
+ekena.śuddhim.āpnoti.dvābhyām.pāpaiḥ.pramucyate.// RgV_1,6.28
+
+tribhir.sidhyanti.mantrāś.ca.mucyate.ca.upapātakai.h/(?)
+caturbhir.bhrūṇahatyāyās.tathaiva.ayājya.yājanāt.// RgV_1,6.29
+
+pañcabhiḥ.pātakaiḥ.sarvair.duṣkṛtaiś.ca.pramucyate./
+tapta.kṛcchreṇa.sarvāṇi.pāpāni.pratibādhate.// RgV_1,6.30
+
+cāndrāyaṇam.saha.ādy.antam.ebhi.ḥ.kṛcchraiḥ.samam.smṛtam./
+tribhiś.cāndrāyaṇaiḥ.pūto.brahma.lokam.samaśnute.// RgV_1,6.31
+
+aṣṭābhir.devatāḥ.sākṣāt.paśyeta.varadās.tathā./
+chandāṃsi.daśabhir.jñātvā.sarvān.kāmānt.samaśnute.// RgV_1,7.32
+
+tryaham.prātas.tryaham.sāyam.tryaham.adyād.ayācitam./
+tryaham.param.ca.na.aśnīyāt.prājāpatyam.caran.dvijaḥ.// RgV_1,7.33
+
+eka.ekam.grāsam.aśnīyāt.tryahāṇi.trīṇi.pūrvavat./
+tryaham.ca.upavased.antyam.atikṛcchram.caran.dvijaḥ.// RgV_1,7.34
+
+go.mūtram.gomayam.kṣīram.dadhi.sarpiḥ.kuśa.udakam./
+eka.rātra.upavāsaś.ca.kṛcchraḥ.sāṃtapanaḥ.smṛtaḥ.// RgV_1,7.35
+
+etam.eva.tryahair.yuktam.mahā.sāṃtapanam.viduḥ./
+upavāsas.tu.sata.aham.śiśu.sāṃtapanam.smṛtam.// RgV_1,7.36
+
+tapta.kṛcchram.caran.vipro.jala.kṣīra.ghṛta.anilān./
+pratitryaham.pibed.uṣṇānt.sakṛtsnāyī.saṃhāhitaḥ.// RgV_1,8.37
+
+niyatas.tu.pibed.apaḥ.prājāpatya.vidhiḥ.smṛtaḥ./
+yati.kṛcchram.vadanty.etad.rapasām.apanodanam.// RgV_1,8.38
+
+yata.ātmano.apramattasya.dvādaśa.aham.abhojanam./
+parāko.nāma.kṛcchro.ayam.sarva.pāpa.apanodanaḥ.// RgV_1,8.39
+
+eka.ekam.hrāsayet.piṇḍam.kṛṣṇe.śukle.ca.vardhayet./
+upaspṛśaṃs.triṣavaṇam.etac.cāndrāyaṇam.vratam.// RgV_1,8.40
+
+etam.eva.vidhim.kṛtsnam.ācared.yava.madhyame./
+śukla.pakṣa.ādi.niyataḥ.caraṃś.cāndrāyaṇa.vratam.// RgV_1,8.41
+
+caturaḥ.prātar.aśnīyād.vipraḥ.piṇḍān.kṛta.āhnikaḥ./
+caturo.astamite.sūrye.śiśu.cāndrayaṇam.smṛtam.// RgV_1,9.42
+
+aṣṭāv.aṣṭau.samaśnīyāt.piṇḍān.madhyaṃdine.sthite./
+niyata.ātmā.haviṣyasya.yati.cāndrāyaṇa.vratam.// RgV_1,9.43
+
+yathā.kathaṃcit.piṇḍānām.tisro.aśītīḥ.samāhitaḥ./
+māsena.aśnan.haviṣyasya.candrasya.eti.salokatām.// RgV_1,9.44
+
+etad.rudrās.tathā.ādityā.vasavaś.ca.ācaran.vratam./
+sarva.akuśala.mokṣāya.marutaś.ca.ṛbhubhiḥ.saha.// RgV_1,9.45
+
+yāvakaḥ.sapta.rātram.tu.pātavyo.niyata.ātmanā./(?)
+sthāna.āsana.triṣavaṇair.japatā.pāvanāni.ca.// RgV_1,9.46
+
+eka.ekam.sapta.rātreṇa.punāti.vidhivat.kṛtaḥ./
+tvag.asṛk.piśita.asthīni.medo.majjānam.eva.ca.// RgV_1,10.47
+
+eka.ekam.sapta.rātram.tu.tvag.ādīnām.viśodhanam./
+ebhir.vratair.vipūta.ātmā.kuryāt.karmāṇy.atandritaḥ.// RgV_1,10.48
+
+iṣṭān.kāmān.tataḥ.sarvān.avāpnoti.na.saṃśayaḥ./
+kaṇa.piṇyāka.takrāṇām.eka.ekam.śodhanam.bhavet.// RgV_1,10.49
+
+śuddha.ātmā.karma.kurvīta.satya.vādī.jita.indriyaḥ./
+evam.śuddhasya.karmāṇi.mantrair.vakṣyāmi.tadyathā.// RgV_1,10.50
+
+trirātram.eva.upavased.āditaḥ.sarva.karmaṇām./
+trīṇi.naktāni.vā.kuryāt.tataḥ.karma.samārabhet.// RgV_1,10.51
+
+nitya.prayogiṇām.caiva.prayoga.ādau.vratam.tryaham./
+upariṣṭād.upavaset.kṛtvā.vā.sāmnipātikam.// RgV_1,11.52
+
+āyuṣyāṇy.eva.karmāṇi.matra.yuktaḥ.samārabhet./
+śaṃvatyaḥ.svastimatyaś.ca.japeta.trivṛtā.ṛcaḥ.// RgV_1,11.53
+
+araṇye.ca.udite.sūrye.diśam.prāpya.aparājitām./
+prācīm.atha.uttarām.vā.api.śucau.deśe.samāhitaḥ.// RgV_1,11.54
+
+savāsāḥ.saśirasko.apsu.snātvā.abhyukṣya.japed.dvijaḥ./
+śuddhavatyas.tathā.abvatyaḥ.pāvamānyo.aghamarṣaṇam.// RgV_1,11.55
+
+evam.trir.āplutya.śuciḥ.prāṇa.āyāmānt.samācaret./
+trīn.ṣaḍ.aṣṭau.dvādaśa.vā.ṣoḍaśa.aṣṭādaśa.api.vā.// RgV_1,11.56
+
+āśatād.vāyamet.prāṇān.japan.brahma.aghamarṣaṇam./(?)
+yāvad.vā.manasas.tuṣṭis.tāvat.prāṇānt.samāyamet.// RgV_1,12.57
+
+yathā.yathā.manas.tasya.duṣkṛtam.karma.garhati./
+tathā.tathā.śarīram.tat.tena.adharmeṇa.mucyate.// RgV_1,12.58
+
+prāṇa.āyāmair.dagdha.doṣaḥ.śukla.ambara.dharaḥ.śuciḥ./
+yathā.vidhy.apa.ācamya.ārohed.dharma.prastaram.// RgV_1,12.59
+
+pavitra.pāṇiḥ.kṛtvā.tu.upastham.dakṣiṇa.uttaram./
+diśor.eva.antaram.prekṣya.animiṣam.chādya.cakṣuṣī.// RgV_1,12.60
+
+om.kārma.vyāhṛtīs.tisraḥ.sāvitrīm.ca.tad.ity.ṛcam./
+manasā.etā.anudrutya.veda.ādim.samupakamet.// RgV_1,12.61
+
+mandram.eva.paṭhet.prātar.uccair.madhyaṃdine.paṭhet./
+uccair.eva.apara.ahne.tu.saṃdhyā.kāla.upāramet.// RgV_1,13.62
+
+brāhme.muhūrte.ca.utthāya.trir.āplutya.paṭhed.dvijaḥ./
+madhyamām.vṛttim.āsthāya.na.drutām.na.vilambitām.// RgV_1,13.63
+
+pūrvām.saṃdhyām.japais.tiṣṭhed.upāsīta.ca.paścimām./
+na.ca.antarā.vyāhareta.viramed.vā.kathaṃcana.// RgV_1,13.64
+
+viramed.brāhmaṇe.prāpte.kāmam.tena.tu.saṃvadet./
+śūdram.dṛṣṭvā.eva.samprāptam.na.adhīyīta.kathaṃcana.// RgV_1,13.65
+
+āgneyam.sūktam.ādyam.tu.mukhyam.brahma.ṛṣi.sammatam./
+rāyas.poṣa.karam.dhanyam.japan.vipro.artham.āpnuyāt.// RgV_1,13.66
+
+ṛṣim.sarvam.idam.japtvā.saputam.niyata.ḥ.śuciḥ./(?)
+saṃhitā.phalam.āpnoti.ṛgvedasya.na.saṃśayaḥ.// RgV_1,14.67
+
+ekādaśa.guṇam.hy.etaj.japan.brahma.sanātanam./
+sarvān.kāmān.avāpnoti.pāpaiś.ca.parimucyate.// RgV_1,14.68
+
+anaśnan.saṃhitām.etām.prātaḥ.prātar.dine.dine./
+āyur.vidhyām.dhanam.putrān.gṛhāṃś.ca.āpnoty.anāmayān.// RgV_1,14.69
+
+etad.brahma.japan.śūdrān.na.īkṣeta.anyāṃś.ca.tadvidhān./
+prekṣya.ācamya.udakam.pūtaḥ.paśyed.gām.agni.bhāskarau.// RgV_1,14.70
+
+mandram.japo.daśa.guṇa.upāṃśu.syāt.śata.anvitaḥ./
+sahasram.mānasam.vidyād.eṣa.japya.vidhiḥ.smṛtaḥ.// RgV_1,14.71
+
+ādāv.eva.tu.sāvitryā.karma.kurvīta.śāntaye./
+puṣṭaye.dhana.lābhāya.paśu.lābhāya.bhūtaye.// RgV_1,15.72
+
+eṣā.hi.sammitā.vedaiḥ.sarva.brahmamaī.nicṛt./
+ugreṇa.tapasā.dṛṣṭā.viśvāmitreṇa.dhīmatā.// RgV_1,15.73
+
+homāṃś.ca.japa.yajñāṃś.ca.nityam.kurvīta.ca.etayā./
+sarva.kāma.samṛddhy.artham.param.braham.idam.ucyate.// RgV_1,15.74
+
+eṣā.eva.pratiloma.uktā.pacchaḥ.śatru.vināśinī./(?)
+akṣara.pratilomā.iyam.abhicāreṣu.śasyate.// RgV_1,15.75
+
+akṣara.pratikomā.iyam.yasmin.yujyeta.karmaṇi./
+tad.amogham.vijānīyād.etad.vai.brahmaṇo.balam.// RgV_1,15.76
+
+vyāghātaka.idhma.samidho.akṣara.pratilomayā./(?)
+juhuyāt.sārṣapam.tailam.vaibhītaka.kṛta.srucā.// RgV_1,15.77
+
+ya.icchet.pīḍanam.śatror.api.vā.uccāṭanam.punaḥ./
+pacchaḥ.sampīḍayet.śatrūn.varṇaśaś.ca.pramāpayet.// RgV_1,15.78
+
+ṛgveda.ādya.sūktasya.vidhim.vakṣyāmy.ataḥ.param./
+yathā.ṛṣir.madhucchandāḥ.karma.etena.akarot.purā.// RgV_1,16.79
+
+śirasā.dhārayed.agnim.niyataḥ.parivatsaram./
+caturtha.prāṇa.kālīyo.huta.śiṣṭam.adan.haviḥ.// RgV_1,16.80
+
+juhvat.trir.upatiṣṭheta.satya.vādī.dine.dine./
+vrata.kāle.tu.samprāpta.āgneyam.nirvapec.carutm.// RgV_1,16.81
+
+anagnau.dhyāta.mātro.agnir.vrata.ante.asya.upatiṣṭhati./
+daheyam.iti.yam.cecchettam.dahaty.eva.pāvakaḥ.//(?) RgV_1,16.82
+
+apsv.apy.agnir.jvalaty.eva.tad.vratasya.mahātmanaḥ./
+samardhayati.tam.ca.iṣṭaiḥ.kāmair.vahniḥ.prayatnataḥ.// RgV_1,16.83
+
+ataḥ.param.tṛcāḥ.sapta.vāyv.ādyā.ye.prakīrtitāḥ./
+tān.japan.prayato.nityam.iṣṭān.kāmānt.samaśnute.// RgV_1,17.84
+
+medhātithāv.ṛṣau.punaḥ.sadasas.patim.ity.ṛcam./
+medhā.kāmo.japen.nityam.juhuyāt.ca.ājyam.etayā.// RgV_1,17.85
+
+syonā.iti.pṛthivīm.nityam.snātvā.vipraḥ.śucir.japet./
+vindate.mahatīm.bhūmim.asapatnām.akaṇṭakām.// RgV_1,17.86
+
+idam.viṣṇur.iti.imābhiḥ.pañcabhiḥ.śrāddha.karmaṇi./
+aṅguṣṭham.anne.avagāhya.tena.rakṣāṃsi.bādhate.// RgV_1,17.87
+
+sapta.janma.kṛtam.pāpam.kṛtvā.ca.abhakṣya.bhakṣaṇam./
+tad.viṣṇor.ity.apām.madhye.sakṛj.japtvā.viśudhyati.// RgV_1,17.88
+
+ambayo.yanti.yā.proktā.navarcas.tv.abhiṣecanīḥ./
+āyuṣyās.tāḥ.pariproktā.bhaiṣajyāḥ.pāpa.mocanīḥ.// RgV_1,17.89
+
+śunahśepam.ṛṣim.baddhaḥ.samniruddho.athavā.japet./
+mucyate.sarva.pāśebhyo.gadī.ca.apy.agadī.bhavet.// RgV_1,17.90
+
+ya.icchet.śāśvatān.kāmān.indrāt.prāptum.puraṃdarāt./
+sa.ṣoḍaśabhir.eva.ṛgbhir.indram.stūyād.dine.dine.// RgV_1,17.91
+
+hairaṇyastūpam.indrasya.sūktam.karma.abhisaṃstavam./
+taj.japan.prayataḥ.śatrūn.ayatnāt.pratibādhate.// RgV_1,18.92
+
+ākṛṣṇena.ity.ṛcā.tv.eva.yo.nityam.sūryam.arcati./
+prātar.madhye.astagam.vā.api.sa.jīved.agadaḥ.sukhī.// RgV_1,18.93
+
+ākṛṣṇena.ity.ṛcam.tv.ekām.dhyāyan.niśi.diva.okasaḥ./
+agnau.hutvā.etayā.ca.ājyam.dīrgham.āyur.avāpnuyāt.// RgV_1,18.94
+
+ye.te.panthā.iti.imām.tu.sāvitrīm.adhvago.abhyaset./
+svastimān.vrajate.adhvānam.gṛhāṃś.ca.āpnoty.anāmayān.// RgV_1,18.95
+
+sam.pūṣann.iti.yat.sūktam.ghauraiḥ.kaṇvo.jagāv.ṛṣiḥ./
+adhvany.etad.vijñeyam.paripanthy.apasedhanam.// RgV_1,18.96
+
+raudrībhiḥ.ṣaḍbhir.īśānam.tuṣṭūyād.yo.dine.dine./
+sa.nārī.nara.go.śāntim.śaṅkarāt.prāpnuyāt.sadā.// RgV_1,18.97
+
+etena.eva.ṣaḍarcena.juhuyād.ājyam.anvaham./
+carum.vā.kalpayed.raudram.bhūti.kāmo.atha.parvasu.// RgV_1,18.98
+
+ud.ity.udyantam.ādityam.upatiṣṭhed.dine.dine./
+hṛd.roga.nāśanam.hy.etat.parama.ārogya.vardhanam.// RgV_1,19.99
+
+dviṣantam.ity.atha.ardharcam.yam.dviṣyāt.tam.japant.smaret./
+āgas.kṛt.sapta.rātreṇa.vidveṣam.adhigacchati.// RgV_1,19.100
+
+rogair.gṛhīto.arogī.ca.praskaṇvasya.utttamam.tṛcam./
+ārogyam.etat.prayato.japen.nityam.anekaśaḥ.// RgV_1,19.101
+
+uttamas.tasya.ca.ardharco.dviṣad.dveṣa.iti.smṛtaḥ./
+yam.dviṣyāt.tam.abhidhyāyed.dṛṣṭvā.ca.enam.japed.idam.// RgV_1,19.102
+
+āgas.kṛc.cet.tri.rātreṇa.vidveṣam.samniyacchati./
+udayaty.āyur.akṣayyam.tejo.madhyaṃdine.japan.// RgV_1,19.103
+
+astam.vrajati.sūrye.tu.dviṣantam.pratibādhate./
+ojas.tejas.tathā.ārogyam.dviṣad.dveṣam.prakīrtitam.// RgV_1,20.104
+
+nava.paśvā.iti.sūktāni.yāni.garbhe.parāśaraḥ./
+arātīnām.haret.prāṇān.chatraṃś.caiva.niyacchati.// RgV_1,20.105
+
+sauparṇāni.pavitrāṇi.sūktāny.ekādaśa.abhyaset./
+vāñchan.putrān.paśūn.vittam.svargam.āyur.anandhatām.// RgV_1,20.106
+
+ādhyātmikīḥ.ka.ity.etā.japais.tu.susamāhitaḥ./
+prāpnuyāt.sa.param.dhāma.viśvam.jyotiḥ.sanātanam.// RgV_1,20.107
+
+ānohadrīyam.āyuṣyam.vaiśvadevam.japan.muniḥ./
+mumūrṣur.api.japtvā.etat.sarvam.āyur.avāpnuyāt.// RgV_1,20.108
+
+pitṝṇām.śrāddha.kāle.tu.madhv.ity.etat.tṛcam.japet./
+aghorāḥ.pitaras.tasya.viśanti.jyotir.uttamam.// RgV_1,21.109
+
+tvam.soma.iti.tu.sūktena.paśyec.candram.upoditam./
+upatiṣṭhet.samit.pāṇir.māsi.māsi.navam.navam.// RgV_1,21.110
+
+tam.māsam.tasya.duhkham.hi.na.jātu.trividham.bhavet./
+gotamena.purā.dṛṣṭam.mṛtyor.nāśanam.ātmanaḥ.// RgV_1,21.111
+
+udyantam.upatiṣṭheta.pūrṇe.ca.etat.samāhitaḥ./
+vāsāṃsy.api.sa.vindeta.candrasya.eti.salokatām.// RgV_1,21.112
+
+dhana.kāmo.japen.nityam.etā.iti.tu.nityaśaḥ./ RgV_1,21.113
+
+snātvā.śucis.tu.niyata.iṣṭam.dhanam.avāpnuyāt.// RgV_1,22.113
+
+āyur.īpsann.imam.iti.kautsam.sūktam.sadā.abhyaset./
+ājya.āhutiś.ca.juhuyāt.pratyṛcam.vāg.yataḥ.śuciḥ.// RgV_1,22.114
+
+japed.āplutya.niyataḥ.sa.sākṣād.āpadam.taret./
+apa.naḥ.śośucad.iti.snātvā.madhyaṃdine.ravau.// RgV_1,22.115
+
+śuddhi.kāmo.yata.āhāraḥ.pratyṛcam.juhuyād.ghṛtam./
+samidho.anvaham.aṣṭau.vā.sūktam.etad.agha.apaham.// RgV_1,22.116
+
+yathā.muñja.ādi.veṣīkā.tathā.pāpāt.pramucyate./
+jātavedasa.ity.ādi.sadā.svastyayane.japet.// RgV_1,22.117
+
+durge.pathi.prayātasya.na.asya.aribhyo.bhayam.bhavet./
+rāja.kārye.aśva.yūthe.vā.abhiśasto.apy.anekadhā.// RgV_1,22.118
+
+aśakye.pratibhā.kārye.bhaye.prāṇa.antike.api.vā./(?)
+jātavedasa.ity.etām.japaṃs.tebhyaḥ.pramucyate.// RgV_1,22.119
+
+siṣādhayiṣur.artham.ca.prasthito.manasā.japet./
+siddha.arthaḥ.svastimān.eti.pramīyeta.na.ca.adhvani.// RgV_1,22.120
+
+kṛta.arthaḥ.sva.gṛhān.gacchann.etām.eva.sadā.abhyaset./
+udite.savitary.etām.japed.astam.gate.tathā.// RgV_1,23.121
+
+ahaḥ.svastyayanam.prātā.rātri.svastyayanam.niśi./
+vyuṣṭāyām.ca.japen.nityam.etām.duhsvapna.nāśinīm.// RgV_1,23.122
+
+pramandina.iti.sūyantyām.japed.garbha.pramocinīm./
+indram.ca.manasā.dhyāyen.nārī.garbham.pramuñcati.// RgV_1,23.123
+
+āpatsu.sarva.kāmo.vā.tritam.nityam.japed.ṛṣim./
+japann.indrma.iti.snāto.vaiśvadevam.tu.saptakam.// RgV_1,23.124
+
+mucyate.juhvad.ājyam.tu.viśvasmād.eva.so.aṃhasaḥ./
+śantātīyam.param.sūktam.pañca.viṃśakam.uttamam.// RgV_1,23.125
+
+nāsatyau.tu.namas.kṛtvā.parā.m.ṛddhim.avāpnuyāt./
+dharma.saṃstavam.sūktam.rapasaś.ca.pramocanam.// RgV_1,23.126
+
+imā.iti.japet.śaśvad.raudram.sūktam.dvijaḥ.śuciḥ./
+āyur.vidyām.dhanam.putrān.gṛhāṃś.ca.āpnoty.anāmayān.// RgV_1,23.127
+
+vīreṣv.apatya.goṣṭheṣu.duhsvapne.ripram.ātmanaḥ./
+mā.no.mahāntam.ity.ābhyām.tri.rātra.upoṣitaḥ.śuciḥ.// RgV_1,24.128
+
+audumbarīs.tu.juhuyād.dadhi.madhv.ājya.saṃskṛtāḥ./
+sūktena.juhuyād.ājyam.ādāv.ante.ca.karmaṇām.// RgV_1,24.129
+
+ūrdhva.bāhus.tu.sūktena.tuṣṭvā.ca.śataśo.bhavam./
+chittvā.sarvān.mṛtyu.pāśān.jīved.rogair.vivarjitaḥ.// RgV_1,24.130
+
+tiṣṭhann.udyantam.ādityam.samit.pāṇiḥ.śuciḥ.sadā./
+citram.ity.upatiṣṭheta.sūktena.anena.bhāskaram.// RgV_1,24.131
+
+atistavena.ca.etena.nityam.madhyaṃdine.ravim./
+gṛṇann.apohate.ripram.prāpnoti.ca.dhana.āyuṣī.// RgV_1,24.132
+
+adhaḥ.svapnasya.iti.japet.prātaḥ.prātar.dine.dine./
+duḥ.svapnam.nudate.kṣipram.na.ca.asya.abhojanād.bhayam.// RgV_1,25.133
+
+ubhe.punāmi.iti.parā.ripughnyas.tu.prakīrtitāḥ./
+tā.japan.hanti.rakṣāṃsi.sapatnāṃś.ca.niyacchati.// RgV_1,25.134
+
+nirvartya.pañca.yajñāṃś.ca.hutvā.ca.agnim.kṛta.āhnikaḥ./
+ye.devāso.divya.nayā.japan.kāmān.avāpnuyāt.// RgV_1,25.135
+
+indrā.viṣṇū.namas.kṛtya.viṣṇor.nu.kam.iti.tribhiḥ./
+samit.pāṇiḥ.śucir.bhūtvā.upatiṣṭhed.dine.dine.// RgV_1,25.136
+
+dharmam.buddhim.dhanam.putrān.ārogyam.brahma.vardhanam./
+prāpnoti.ca.param.sthānam.jyotī.rūpam.sanātanam.// RgV_1,25.137
+
+ātatāyinam.āyāntam.dṛṣṭvā.vyāghram.atho.vṛkam./
+na.mā.garann.iti.japaṃs.tebhya.eva.pramucyate.// RgV_1,25.138
+
+tri.rātra.upoṣito.rātrau.japed.āsūrya.darśanāt./
+āplutya.prayataḥ.saurīr.upatiṣṭhed.divākaram.// RgV_1,25.139
+
+na.enam.paśyanti.vai.caurās.tathā.anye.pāpa.vṛttayaḥ./
+ekaḥ.śatāni.trāyeta.taskarebhyaś.caran.pathi.// RgV_1,26.140
+
+steyam.kṛtvā.dvijo.mohāt.tri.rātra.upoṣitaḥ.śuciḥ./
+sūktam.japtvā.asya.vāmīyam.kṣipram.mucyeta.kilbiṣāt.// RgV_1,26.141
+
+jñāti.putra.suhṛn.mitrair.yaś.ca.rājyam.cikīrṣati./
+nityam.sa.niyato.bhūtvā.sūktam.tu.manasā.japet.// RgV_1,26.142
+
+kayā.śubhā.iti.paiśunyam.kṛtvā.ācārya.nṛpa.dvijaiḥ./
+śrutvā.para.rahasyam.tu.guror.apy.āha.śaunakaḥ.// RgV_1,26.143
+
+imam.nu.somam.ity.ete.dve.ṛcau.prayato.japet./
+sarvān.kāmān.avāpnoti.na.kiṃcit.pātakam.bhavet.// RgV_1,26.144
+
+pitum.nv.ity.upatiṣṭheta.nityam.annam.upasthitam./
+pūjayed.aśanam.nityam.bhuñjīyād.avikutsitam.// RgV_1,26.145
+
+na.asya.syād.annajo.vyādhir.viṣam.apy.annatām.iyāt./
+viṣam.ca.pītvā.etat.sūktam.japeta.viṣa.nāśanam.// RgV_1,27.146
+
+na.avāg.yatas.tu.bhuñjīta.na.aśucir.na.jugupsitam./
+dadyāc.ca.pūjayec.caiva.juhuyāc.ca.śuciḥ.sadā.// RgV_1,27.147
+
+kṣud.bhayam.na.asya.kiṃcit.syān.na.annajam.vyādhim.āpnuyāt./
+utpatha.pratipanno.yo.bhraṣṭo.vā.api.pathaḥ.kvacit.// RgV_1,27.148
+
+panthānam.pratipadyeta.kṛtvā.vā.karma.garhitam./
+agne.naya.iti.sūktena.pratyṛcam.juhuyād.ghṛtam.// RgV_1,27.149
+
+japaṃś.ca.prayato.nityam.upatiṣṭheta.ca.analam./
+snātvā.japed.anarvāṇam.namas.kṛtya.bṛhaspatim.// RgV_1,27.150
+
+vīrān.dhanam.ca.prāpnoti.suślokyam.ca.niyacchati./
+kaṅkato.na.iti.sūktam.tu.viṣa.ārtaḥ.prayato.japet.// RgV_1,28.151
+
+viṣam.na.kramate.ca.asya.sarpād.dṛṣṭi.viṣād.api./
+yat.kīṭalūṭāsu.viṣam.daṃṣṭri.vṛścikajam.ca.yat.// RgV_1,28.152
+
+maulam.ca.kṛtrimam.caiva.japant.sarvam.vyapohati./
+dharmam.buddhim.dhanam.putrān.saubhāgyam.brahma.varcasam.// RgV_1,28.153
+
+ārogyam.puṣṭim.āyuṣyam.paśūn.vidyām.mahad.yaśaḥ./
+tri.rātra.upoṣitaḥ.snātaḥ.prayataḥ.carita.vrataḥ.// RgV_1,28.154
+
+prāṇa.āyāma.śatam.kṛtvā.upatiṣṭhet.śata.kratum./
+eka.aham.kṣura.samyuktaḥ.pādau.saṃdhāya.vāg.yataḥ.// RgV_1,28.155
+
+yo.jāta.iti.sūktena.ṛṣim.gṛtsamadam.smaran./
+śata.kṛtvo.japed.etad.indra.śreṣṭha.iti.ca.antataḥ.// RgV_1,29.156
+
+eka.ahāl.labhate.vittam.dvy.ahāt.siddhim.anuttamām./
+ahobhir.tribhir.ārogyam.caturbhir.aśanam.bahu.// RgV_1,29.157
+
+pañcabhir.brahmavarcasyam.ṣaḍbhir.āyuḥ.sukha.āvaham./
+saptabhis.tanayān.puṣṭim.aṣṭahiḥ.prāpnuyād.yaśaḥ.// RgV_1,29.158
+
+priyo.bhavati.ca.indrasya.priyam.dhāma.sa.gacchati./
+ripughnam.dasyu.śamanam.rāyas.pṣa.karam.param.// RgV_1,29.159
+
+gaṇānām.iti.yat.sūktam.taj.japet.sukha.vardhanam./
+saṃdhyayoḥ.prayatas.tv.etaj.japen.nityam.bṛhaspatim.// RgV_1,29.160
+
+upatiṣṭheta.sūktena.sarva.kāma.samṛddhaye./
+yo.me.rājann.iti.imām.tu.duhsvapna.śamanīm.ṛcam.// RgV_1,30.161
+
+japtvā.nāśayati.kṣipram.duhsvapnam.brāhmaṇaḥ.śuciḥ./
+aho.rātram.upoṣya.ekam.niyato.brahmavittamaḥ.// RgV_1,30.162
+
+prajā.artham.juhuyād.ājyam.carum.vā.payasi.śritam./
+rākā.maham.iti.imābhiḥ.ṣaṣṭhyām.śuklasya.pañcabhiḥ.// RgV_1,30.163
+
+haviḥ.śeṣam.svayam.prāśya.vindate.mahatīm.prajām./
+vyādhinā.yo.abhibhūtaḥ.syād.ghoreṇa.prāṇa.hāriṇā.// RgV_1,30.164
+
+caturdaśīm.upoṣya.ekām.kṛṣṇasya.juhuyāc.carum./
+ā.te.sūktena.raudreṇa.pratyṛcam.vāg.yataḥ.śuciḥ.// RgV_1,30.165
+
+pūrvam.ājya.āhutīr.hutvā.atha.upasthāya.śaṃkaram./
+haviḥ.śeṣeṇa.varteta.ekāntaram.atandritaḥ.// RgV_1,31.166
+
+pūrṇe.māsi.japen.mṛtyum.rogebhyaś.ca.pramucyate./
+abhiśasyeta.yo.mohāt.kuryād.vā.karma.garhitam.// RgV_1,31.167
+
+snātvā.bhuñjan.japed.apsu.ambī.ity.ṛcam.atandritaḥ./
+adhvani.prasthito.yas.tu.paśyet.śakunim.utthitam.// RgV_1,31.168
+
+apraśastam.praśastam.vā.sthitvā.aikṣya.prayato.japet./
+kanikradad.iti.sūktābhyām.upatiṣṭhet.kṛta.svaram.// RgV_1,31.169
+
+śakunim.vāyasam.vā.api.mṛgam.daṃṣṭriṇam.eva.ca./
+apy.adṛṣṭvā.eva.japtavyam.etat.taskara.mohanam./e RgV_1,31.170
+
+kalyāṇa.vādī.vā.anyo.vā.na.vā.rauti.na.dṛśyate/
+japed.eva.namas.kṛtya.siddha.arthaḥ.san.nivartate.// RgV_2,1.1
+
+na.tasya.asti.bhayam.kiṃcid.dasyubhyo.adhvani.vā.kvacit./
+taraty.api.ca.durgāṇi.svastimāṃś.ca.sukhī.bhavet.// RgV_2,1.2
+
+yasya.bhuktam.na.jīryeta.na.tiṣṭhed.vā.kathaṃcana./
+dhyātvā.so.attāram.annasya.agnir.asmi.ity.rcam.japet.// RgV_2,1.3
+
+viśvāmitrasya.saṃvādam.nady.atikramaṇe.japet./
+āplutasya.ācamya.vidhivad.udakasya.añjalim.kṣipet.// RgV_2,1.4
+
+namaḥ.sravadbhya.ity.etad.yo.nityam.hi.samācaret./
+tam.nadyaḥ.srotasaḥ.pānti.svam.putram.iva.mātaraḥ.// RgV_2,1.5
+
+bhayam.ca.asya.na.vidyate.nadī.tīra.careṣv.api./
+jala.carebhyo.bhūtebhyaḥ.śīta.uṣṇair.na.ca.bādhyate.// RgV_2,2.6
+
+pūrṇām.titīrṣuḥ.saritam.ramadhvam.iti.saṃsmaret./
+o.sv.ity.ṛcam.apām.madhye.japed.yo.vai.nadīm.taran.// RgV_2,2.7
+
+sa.śīghram.tīram.āpnoti.gādham.vā.vindate.dvijaḥ./
+yuktena.eva.rathena.āśu.yo.apām.pāram.titīrṣati.// RgV_2,2.8
+
+ud.va.ūrmir.iti.imām.tu.japeta.niyataḥ.svayam./
+adhvānam.prasthitaś.caivam.āmandrair.iti.saṃsmaret.// RgV_2,2.9
+
+kāryāṇy.aśeṣataḥ.kṛtvā.punar.āyāti.vai.gṛham./
+adātāram.supuṣṭa.artham.sarvadā.āviṣṭa.cetanam.// RgV_2,2.10
+
+hatvā.tad.dhanam.anvicchet.kim.te.kṛṇvanti.iti.smaran./
+indrā.parvata.iti.sūktam.āyuṣyam.drāviṇam.smṛtam.// RgV_2,2.11
+
+vāg.indriya.pramūḍho.yo.na.vidyām.pratipadyate./
+indriya.arthāny.atha.arthān.vā.yo.na.vetti.kathaṃcana.// RgV_2,3.12
+
+vidyā.vā.adhigatā.yasya.praṇaśyeta.punaḥ.punaḥ./
+sasarparīr.ṛcau.japan.dvau.māsau.pratipadyate.// RgV_2,3.13
+
+anasā.samprayātas.tu.sthirau.gāvāv.iti.smaret./
+catasraḥ.kuśalena.eti.siddha.arthaḥ.sthirayā.anugaḥ.// RgV_2,3.14
+
+yāna.akṣam.apabhagna.antam.dṛṣṭvā.durge.adhvani.dvijaḥ./
+abhi.vyayasva.iti.japed.dvṛcam.akṣa.balam.dadhat.// RgV_2,3.15
+
+kṛṣṇa.pakṣe.caturdaśyām.tri.rātra.upoṣitaḥ.śuciḥ./
+dakṣiṇa.pravaṇe.deśe.śmaśānasthaḥ.samāhitaḥ.// RgV_2,3.16
+
+rakta.uṣṇīṣy.asi.pāṇiś.ca.bailvaka.idhmo.nila.aśanaḥ./(?)
+sapta.aham.juhuyāt.tailam.sārṣapam.lavaṇa.anvitam.// RgV_2,4.17
+
+samidho.rāja.vṛkṣasya.vasiṣṭha.dveṣiṇīḥ.paṭhan./
+yam.dviṣyāt.tasya.kṛtvā.tu.śamyākena.ākṛtim.niśi.// RgV_2,4.18
+
+adhiṣṭhāya.ca.tām.kuryād.ṛgbhiś.catasṛbhir.dvijaḥ./
+uddiśya.nāma.homo.ayam.sapta.rātram.na.jīvati.// RgV_2,4.19
+
+vasiṣṭhān.antato.hanti.brahma.etat.kuśika.uditam./
+na.asya.kaścid.avadhyo.asti.japato.juhvato.api.vā.// RgV_2,4.20
+
+dvāviṃśakam.japet.sūktam.ādhyātmikam.anuttamam./
+parvasu.prayato.nityam.iṣṭān.kāmānt.samaśnute.// RgV_2,4.21
+
+bṛhaspatim.aja.aśvam.ca.savitāram.babhrum.eva.ca./
+ṛtāvṛdhau.dine.dine.tṛcaiḥ.pañcabhir.anvaham.// RgV_2,5.22
+
+bṛhaspata.iti.pañca.aham.pratyṛcam.juhuyād.ghṛtam./
+hutvā.agnim.arcayitvā.tu.gandha.mālyaiḥ.sadhūpakaiḥ.// RgV_2,5.23
+
+tā.eva.devatāḥ.pañca.kāmair.arcanti.pañcabhiḥ./
+ratnair.apatyaiḥ.paśubhir.makhair.dīrgheṇa.ca.āyuṣā.// RgV_2,5.24
+
+atha.veda.ādi.gītāyāḥ.prasāda.jananam.vidhim./
+gāyatryāḥ.sampravakṣyāmi.dharma.kāma.artha.mokṣadam.// RgV_2,6.25
+
+nitye.naimittike.kāmye.tritaye.tu.parāyaṇam./
+gāyatryās.tu.param.na.asti.iha.loke.paratra.ca.// RgV_2,6.26
+
+medhya.anna.mita.bhug.maunī.triḥ.snāna.arcana.tatparaḥ./
+japel.lakṣa.trayam.dhīmān.ananya.mānasa.kriyaḥ.// RgV_2,6.27
+
+karmabhir.yojayet.paścāt.kramaśaḥ.sva.icchayā.api.vā./
+yāvat.kāryam.sa.kurvīta.na.lopet.tāvat.tad.vratam.// RgV_2,6.28
+
+ādityasya.udaye.snātvā.sahasram.pratyaham.japet./
+āyur.ārogyam.aiśvaryam.dhanam.ca.labhate.dhruvam.// RgV_2,6.29
+
+tri.rātra.upoṣitaḥ.samyag.ghṛtam.hutvā.sahasraśaḥ./
+sahasra.lābham.āpnoti.huta.aśe.khādira.indhane.// RgV_2,7.30
+
+pālāśa.samidhām.caiva.ghṛta.aktānām.huta.aśane./
+sahasra.lābham.āpnoti.rāhu.sūrya.samāgame.// RgV_2,7.31
+
+hutvā.tu.khādire.vahnau.saghṛtam.rakta.candanam./
+sahasram.homam.āpnoti.rāhu.sūrya.samāgamet.// RgV_2,7.32
+
+rakta.candana.miśram.tu.saghṛtam.havya.vāhane./
+hutvā.gomayam.āpnoti.sahasram.go.dhanam.dvijaḥ.// RgV_2,7.33
+
+yasyās.tu.gor.gomayena.guṭikānām.sahasraśaḥ./
+hutvā.tām.gām.avāpnoti.ghṛta.aktānām.huta.aśane.// RgV_2,7.34
+
+yavair.aśvāṃs.tilair.hastīn.mahiṣyo.yāvakais.tathā./
+śālī.tāṇḍula.homena.kanyā.lābham.avāpnuyāt.// RgV_2,8.35
+
+jātī.campaka.rāja.arka.kusumānām.sahasraśaḥ./
+hutvā.vastrāṇy.avāpnoti.ghṛta.aktānām.huta.aśane.// RgV_2,8.36
+
+sūrya.bimbe.jala.madhye.toyam.hutvā.sahasraśaḥ./
+sahasram.prāpnuyādd.haimam.raupyam.indumaye.hute.// RgV_2,8.37
+
+alakṣmī.pāpa.samyukto.mala.vyādhi.vināyakaiḥ./
+mucyet.sahasra.japtena.snāyād.yas.tu.jalena.vai.// RgV_2,8.38
+
+yām.diśam.sapta.japtena.loṣṭena.sampracāṭayet./
+caura.agni.māruta.utthāni.bhayāni.na.bhavanti.vai.// RgV_2,8.39
+
+kṣīra.āhāro.japel.lakṣam.apamṛtyum.vyapohati./ RgV_2,9.40
+
+ghṛta.āśī.prāpnuyān.medhyām.bahu.vijñāna.saṃcayam.// RgV_2,10.40
+
+hutvā.vetasa.patrāṇi.ghṛta.aktāni.huta.aśane./
+lakṣād.varṣāpayed.devam.sārvabhaumam.na.saṃśayaḥ.// RgV_2,10.41
+
+lakṣeṇa.bhasma.homasya.kṛtyā.hy.uttiṣṭhate.jalāt./
+āditya.abhimukhaḥ.sthitvā.na.abhimātre.jale.śuciḥ.// RgV_2,10.42
+
+tilānām.lakṣa.homena.ghṛta.aktānām.huta.aśane./
+sarva.kāma.samṛddha.ātmā.parām.siddhim.avāpnuyāt.// RgV_2,10.43
+
+yavānām.lakṣa.homena.ghṛta.aktānām.huta.aśane./
+sarva.kāma.samṛddha.ātmā.param.sthānam.avāpnuyāt.// RgV_2,10.44
+
+ghṛtasya.āhuti.lakṣeṇa.sarvān.kāmān.avāpnuyāt./
+pañca.gavya.aśano.lakṣam.japej.jāti.smaro.bhavet.// RgV_2,10.45
+
+tad.eva.hy.anale.hutvā.prāpnoti.bahuśo.dhanam./
+anna.adya.havanān.nityam.anna.adyam.ca.bhavet.sadā.// RgV_2,10.46
+
+juhuyāt.sarva.sādhyānām.āhuty.ayuta.saṃkhyayā./
+rakta.siddha.arthakān.hutvā.sarvānt.sādhayate.ripūn.// RgV_2,10.47
+
+lavaṇam.madhu.samyuktam.hutvā.sarvam.vaśo.bhavet./
+hutvā.hu.kara.vīrāṇi.raktāni.janayej.jvaram.// RgV_2,10.48
+
+hutvā.vaibhītakam.tailam.deśād.eva.pracāṭayet./
+hutvā.tu.nimba.patrāṇi.vidveṣam.janayen.nṛṇām.// RgV_2,10.49
+
+raktānām.taṇḍulānām.tu.ghṛta.aktānām.huta.aśane./
+hutvā.balam.avāpnoti.śatrubhir.na.jīyate.// RgV_2,10.50
+
+pratyānayana.siddhy.artham.madhu.sarpiḥ.samanvitam./
+gavyam.kṣīram.pradīpte.gnau.juhvatas.tat.praśāmyati.// RgV_2,11.51
+
+brahma.cārī.mita.āhāro.yaḥ.sahasra.trayam.japet./
+saṃvatsareṇa.labhate.dhana.aiśvaryam.na.saṃśayaḥ.// RgV_2,11.52
+
+śamī.bilva.palāśānām.arkasya.tu.viśeṣataḥ./
+puṣpāṇām.samidhām.caiva.hutvā.haimam.avāpnuyāt.// RgV_2,11.53
+
+abrahma.tryambaka.ādīnām.yasya.āyatanam.āśritaḥ./
+japel.lakṣam.nirāhāraḥ.sa.tasya.varado.bhavet.// RgV_2,11.54
+
+bilvānām.lakṣa.homena.ghṛta.aktānām.huta.aśane./
+parām.śriyam.avāpnoti.yadi.na.bhrūṇahā.bhavet.// RgV_2,11.55
+
+padmānām.lakṣa.homena.ghṛta.aktānām.huta.aśane./
+prāpnoti.rājyam.nikhilam.asapatnam.akaṇṭakam.// RgV_2,12.56
+
+pañca.viṃśati.lakṣeṇa.dadhi.kṣīra.ghṛta.aśanaḥ./
+sva.dehe.sidhyate.jantuḥ.kauśikasya.matam.yathā.// RgV_2,12.57
+
+eka.aham.pañca.gavya.āśī.eka.aham.māruta.aśanaḥ./
+eka.aham.brāhmaṇa.anna.āśī.gāyatrī.japa.ucyate.// RgV_2,12.58
+
+śatena.gāyatryā.snātvā.śatam.antar.jale.japet./
+śatena.apas.tataḥ.pītvā.sarva.pāpaiḥ.pramucyate.// RgV_2,12.59
+
+godhnaḥ.pitṛghno.mātṛghno.brahmahā.guru.talpaṇaḥ./
+suvarṇa.ratna.hārī.ca.yaś.ca.vipraḥ.surām.pibet.// RgV_2,12.60
+
+ayājya.yājanam.kṛtvā.kṛtvā.vā.karma.garhitam./
+na.sīdet.pratigṛhṇāno.mahīm.api.sasāgarām.// RgV_2,12.61
+
+ye.ca.asya.duhsthitā.loke.grahāḥ.sūrya.ādayo.bhuvi./
+te.yānti.saumyatām.sarve.śivā.iti.na.saṃśayaḥ.// RgV_2,12.62
+
+kṛṇuṣva.iti.japant.sūktam.rakṣoghnam.dasyubhir.vṛtaḥ./
+arātīnām.haret.prāṇān.rakṣāṃsy.api.na.nāśayet.// RgV_2,13.63
+
+upatiṣṭheta.yo.vahnim.pari.ity.ṛcā.dine.dine./
+tam.rakṣati.svayam.vahnir.viśvato.viśvato.mukhaḥ.// RgV_2,13.64
+
+ko.adya.iti.tu.sūktena.yo.nityam.śakram.arcati./
+japed.vā.atha.namas.kāraiḥ.śakrato.labhate.varān.// RgV_2,13.65
+
+kayā.iti.vāmadevyena.kuryāt.svastyayanam.niśi./
+japed.vā.saṃdhi.velāsu.brahma.etat.kuśika.uditam.// RgV_2,13.66
+
+haṃsaḥ.śuciṣad.ity.ṛcā.śucir.īkṣed.divākaram./
+anta.kāle.japann.eti.brahmaṇaḥ.sadma.śāśvatam.// RgV_2,13.67
+
+kṛṣim.prapadyamānas.tu.sthālī.pākam.yathā.vidhi./
+juhuyāt.kṣetra.madhye.tu.śunam.vāhās.tu.pañcabhiḥ.// RgV_2,13.68
+
+yathā.liṅgam.tu.viharel.lāṅgalam.kṛṣīvalaḥ./
+indrāya.ca.marudbhyaś.ca.parjanyāya.bhagāya.ca.// RgV_2,13.69
+
+pūṣṇe.dhānyāya.sītāyai.śunā.sīram.atha.uttaram./
+hutvā.tu.pṛthag.etāsām.yajed.etāś.ca.devatāḥ.// RgV_2,14.70
+
+gandha.mālya.upahāraiś.ca.phala.lājā.surā.āsavaiḥ./
+pravapaṇe.pralavane.khala.sīta.upahārayoḥ.// RgV_2,14.71
+
+etā.eva.yajen.nityam.devatā.vidhinā.śuciḥ./
+amogham.karma.bhavati.kṛṣir.vardhati.sarvadā.// RgV_2,14.72
+
+kṣetrasya.patinā.ity.etat.kṣaitrapatyam.tṛcam.japet./
+īkṣet.sūryam.dvijo.nityam.vindate.kṣetram.uttamam.// RgV_2,14.73
+
+ākhu.utkareṣu.caruṇā.yajed.etena.mūṣikān./
+citra.id.rāja.ity.anayā.stutvā.ca.ākhu.patim.sadā.// RgV_2,14.74
+
+brāhmaṇān.bhojayed.atra.kīnāśāṃś.caiva.bhojayet./
+apramattaḥ.śānti.paraḥ.svayam.eva.kṛṣim.vrajet.// RgV_2,15.75
+
+bhūmi.bhaṅgo.gavām.hiṃsā.tṛṇa.kīṭa.ādi.nāśanam./
+eteṣu.yat.kṛtam.pāpam.khala.dānena.śudhyati.// RgV_2,15.76
+
+dhānyānām.viṃśakam.bhāgam.śrotriyebhyo.nivedayet./
+viṃśakasya.hi.dānena.kṛṣi.doṣāt.pramucyate.// RgV_2,15.77
+
+samudrād.iti.sūktena.yaḥ.sadā.juhuyād.ghṛtam./
+pūrva.uktena.eva.kalpena.samyata.ātmā.jita.indriyaḥ.// RgV_2,15.78
+
+vi.jyotiṣā.iti.jvalayed.yatra.icchej.jātavedasi./
+tam.agniḥ.sarvataḥ.pāti.bhadreṇa.draviṇena.ca.// RgV_2,15.79
+
+viśvāni.na.iti.dvābhyām.ṛgbhyām.yo.vahnim.arcati./
+sa.taraty.āpadaḥ.sarvā.yaśaḥ.prāpnoti.ca.akṣayam.// RgV_2,15.80
+
+hutvā.vahni.rūpa.stheyaḥ.prāṇa.artham.havya.vāhanaḥ./
+agne.tvam.iti.sūktena.dhanam.āyuś.ca.vāñchatā.// RgV_2,15.81
+
+ya.ic.ched.vividham.vittam.sattvam.ca.anupamam.mahat./
+uro.ṣṭa.iti.sūktena.upatiṣṭhet.śatakratum.// RgV_2,16.82
+
+prajā.kāmo.yajej.nityam.caruṇā.deva.patnayaḥ./
+upahṛtya.upahāram.ca.śeṣam.bhuñjīta.vāg.yataḥ.// RgV_2,16.83
+
+ucchiṣṭam.ca.pradātavyam.bhāryāyai.putram.icchatā./
+dhenvāḥ.sarūpa.vatsāyāḥ.payasā.sādhayec.carum.// RgV_2,16.84
+
+anurūpām.prajām.āśu.labhate.na.atra.saṃśayaḥ./
+svastyātreyam.japen.nityam.prātaḥ.prātar.dvijaḥ.śuciḥ.// RgV_2,16.85
+
+etat.svastyayanam.puṇyam.sarva.kalmaṣa.nāśanam./
+suhṛdam.jñātinam.caiva.gacchantam.anumantrayet.// RgV_2,16.86
+
+svasti.panthām.iti.procya.svastimān.vrajate.adhvani./
+vijihīṣva.vanaspate.tad.idam.cyāvanam.smṛtam.// RgV_2,17.87
+
+yam.cyāvayitu.kāmaḥ.syāc.cyāvayet.tam.idam.japan./
+dviṣantam.vā.padā.ākramya.bhūmau.pāṃsumayīm.kṛtim.// RgV_2,17.88
+
+niṣpekṣyann.iva.saṃgrāmāc.cyavate.na.atra.saṃśayaḥ./
+striyam.garbha.pramūḍhām.vā.pāyayed.anumantritam.// RgV_2,17.89
+
+udakam.cyāvanena.eva.garbho.adhaḥ.cyavate.sukham./
+acchā.vada.iti.sūktam.tu.vṛṣṭi.kāmaḥ.prayojayet.// RgV_2,17.90
+
+nirāhāraḥ.khinna.vāsā.acireṇa.pravarṣati./
+hutvā.ayutam.vaitasīnām.kṣīra.aktānām.huta.aśane.// RgV_2,17.91
+
+mahad.varṣam.avāpnoti.sūktena.ācchā.vadena.hi./
+ya.icched.varadām.devīm.śriyam.nityam.kule.sthitām.// RgV_2,17.92
+
+sa.śuciḥ.prayato.bhūtvā.juhuyād.ājyam.anvaham./
+śriyaḥ.pañca.daśa.ṛcam.ca.śrī.kāmaḥ.satatam.japet.// RgV_2,18.93
+
+āvāhayet.śriyam.padme.pañcabhiḥ.kanako.api.vā./
+upahārān.upaharet.śuklān.bhakṣān.payo.dadhi.// RgV_2,18.94
+
+sthālī.pākam.ca.śālīnām.payasā.samprakalpayet./
+cāndrāyaṇa.kṛta.ātmā.tu.prapadyet.prayataḥ.śriyai.// RgV_2,18.95
+
+sarva.auṣadhībhiḥ.phāṇṭābhiḥ.snātvā.adbhiḥ.pāvanair.api./
+upaitu.mām.deva.sakha.iti.rājño.abhiṣecanī.// RgV_2,18.96
+
+manasaḥ.kāmam.ity.eṣā.paśu.kāma.abhiṣecanī./
+kadarmena.iti.yaḥ.snāyāt.prajā.kāmaḥ.śuci.vrataḥ.// RgV_2,18.97
+
+aśva.pūrṇām.iti.snāyād.rājya.kāmaḥ.śuci.vrataḥ./
+rohite.carmaṇi.snāyād.brāhmaṇas.tu.yathā.vidhi.// RgV_2,19.98
+
+rājā.carmaṇi.vaiyāghre.kṣatriyas.tv.atha.raurave./
+basta.carmaṇi.vaiśyas.tu.homaḥ.kāryas.tv.anantaram.// RgV_2,19.99
+
+candrām.iti.tu.padmāni.juhuyāt.sarpiṣā.dvijaḥ./
+āditya.varṇa.ity.anayā.bilva.homo.vidhīyate.// RgV_2,19.100
+
+bilva.idhma.eva.vā.agniḥ.syāt.sthālīś.ca.juhuyād.dvijaḥ./
+daśa.sāhasriko.homaḥ.śrī.kāmaḥ.prathamo.vidhiḥ.// RgV_2,19.101
+
+hutvā.tu.prayutam.samyag.anantām.vindate.śriyam./
+ayutam.śatakṛtvas.tu.hutvā.śuklāni.sarpiṣā.// RgV_2,19.102
+
+anantām.avyavacchinām.śāśvatīm.vindate.śriyam./
+aśaktau.japa.eva.ukto.daśa.sāhasriko.varaḥ.// RgV_2,20.103
+
+aptvā.nu.prayutam.samyag.anantām.vindate.śriyam./
+ayutam.śatakṛtvas.tu.japtvā.śriyam.upāśnute.// RgV_2,20.104
+
+apsv.eva.juhuyān.nityam.padmāny.ayutaśo.niśi./
+dṛṣṭvā.śriyam.tu.uparamet.kilāsatvād.bibheta.vai.// RgV_2,20.105
+
+bilva.āśī.bilva.nilayo.juhuyād.bilvāni.sarpiṣā./
+eka.viṃśati.rātreṇa.parām.siddhim.niyacchati.// RgV_2,20.106
+
+yena.yena.ca.kāmena.juhoti.prayataḥ.śriyai./
+padmāny.atha.api.bilvāni.sa.sa.kāmaḥ.samṛdhyati.// RgV_2,20.107
+
+na.jātu.kṛpaṇa.arthāya.śriyam.āvāhayet.kvacit./
+na.yat.kiṃcana.kāmena.homaḥ.kāryaḥ.kathaṃcana.// RgV_2,21.108
+
+mahad.vā.prārthyamānena.rājya.kāmena.vā.punaḥ./
+vācaḥ.param.prārthayitā.yatnād.yuktaḥ.śriyam.yajet.// RgV_2,21.109
+
+agnir.etv.iti.sūktena.juhuyād.ājyam.anvaham./
+ojasvinīm.avāpnoti.prajām.dharmavatīm.śubhām.// RgV_2,21.110
+
+acchā.na.ity.ṛcā.dīptam.upatiṣṭhed.vibhāvasum./
+prajām.prāpya.jayet.śatrūṃs.tarate.duritāni.ca.// RgV_2,21.111
+
+ā.gāva.iti.sūktena.goṣṭhagā.loka.mātaraḥ./
+upatiṣṭhed.vrajantīś.ca.ya.icchet.tāḥ.sadā.akṣayāḥ.// RgV_2,21.112
+
+tvām.iddhi.iti.pragāthena.upatiṣṭhet.śatakratum./
+madhya.ahne.saṃdhyayoś.caiva.japan.dhanam.avāpnuyāt.// RgV_2,21.113
+
+upa.iti.tisṛbhī.rājño.dundubhīn.saṃspṛśed.raṇe./
+ojo.balam.avāpnoti.śatrūṃś.caiva.niyacchati.// RgV_2,22.114
+
+pāṇinā.tṛṇam.ādāya.yajña.ayajña.iti.yo.abhyaset./
+so.adhītasya.asya.sūktasya.phalam.prāpnoti.na.atṛṇaḥ.// RgV_2,22.115
+
+sūkta.ante.ca.tṛṇam.tv.agnāv.iriṇe.vā.udake.api.vā./
+nikṣipet.tat.prayatnena.tyaktvā.anyatra.bhaya.āvaham.// RgV_2,22.116
+
+tṛṇa.pāṇir.japan.sūktam.rakṣoghnam.dasyubhir.vṛtaḥ./
+na.bhayam.vindate.kiṃcid.rakṣobhyo.aribhya.eva.ca.// RgV_2,22.117
+
+gṛhāt.prapadyamānas.tu.panthānam.dhana.kāmyayā./
+japet.so.adhvani.yatnena.api.panthām.iti.vrajan.// RgV_2,22.118
+
+ye.ke.ca.jmā.ity.ṛcam.tv.etām.dhyāyan.niśi.diva.okasaḥ./
+agnau.hutvā.etayā.ca.ājyam.dīrgham.āyur.avāpnuyāt.// RgV_2,22.119
+
+vayam.u.tvā.iti.sūktam.tu.pauṣṇam.draviṇa.vardhanam./
+nityam.japet.śucir.bhūtvā.dhanam.vindaty.abhīpsitam.// RgV_2,23.120
+
+yasya.naṣṭam.bhavet.kiṃcid.dravyam.gaur.dvipadam.dhanam./
+naśyed.vā.adhvani.yo.mohāt.sampūṣan.sa.japen.niśi.// RgV_2,23.121
+
+iyam.ity.etad.ādy.antam.sūktam.sārasvatam.dvijaḥ./
+nityam.japet.śucir.bhūtvā.vāgmī.bhavati.buddhimān.// RgV_2,23.122
+
+sam.vām.iti.tu.yat.sūktam.aṣṭa.ṛcam.traiṣṭubham.smṛtam./
+taj.japan.prayato.nityam.iṣṭān.kāmānt.samaśnute.// RgV_2,23.123
+
+yo.adri.bhit.tu.yat.sūktam.tat.sapatna.nibarhaṇam./
+bṛhaspatim.namas.kṛtvā.sapatnānt.stṛṇute.bahūn.// RgV_2,23.124
+
+enasvī.vā.abhiśasto.vā.kṛtvā.vā.karma.garhitam./
+somā.raudram.japet.sūktam.kṛtsnam.eno.vyapohati.// RgV_2,24.125
+
+juhuyād.vā.ya.etābhir.ṛgbhir.nityam.ghṛta.vrataḥ./
+vāruṇebhyo.sa.pāśebhyo.mucyate.śam.tathā.āpnuyāt.// RgV_2,24.126
+
+jīmūta.sūktasya.vidhim.yathā.liṅgam.avekṣya.vai./
+ṛgbhiḥ.karmāṇi.kurvīta.ratha.aṅgānām.yathā.vidhi.// RgV_2,24.127
+
+saṃgrāmam.tu.prayātasya.rājñaś.ca.etat.prayojayet./
+sarvāṇy.aṅgāni.rathyāṃś.ca.sadaśvāṃś.ca.anumantrayet.// RgV_2,24.128
+
+yam.eva.deśam.gaccheta.śatrum.vā.apy.anumantritaḥ./
+na.ajitvā.vinivarteta.param.hi.brahmaṇo.balam.// RgV_2,24.129
+
+putrān.āyur.atha.ārogyam.ya.icched.avyayam.sukham./
+so.agnim.nara.iti.sūktena.juhuyād.ājyam.anvaham.// RgV_2,25.130
+
+pra.agnaye.atha.tribhiḥ.sūktaiḥ.saṃdhyayor.japam.ārabhet./
+na.rakṣobhyo.bhayam.vetti.dhanam.prāpnoti.ca.akṣayam.// RgV_2,25.131
+
+abhi.tvā.yaḥ.pragāthena.nityam.arcati.vrajiṇam./
+sa.śriyam.vipulām.bhuṅkte.prāpnoti.ca.dhana.āyuṣī.// RgV_2,25.132
+
+śaṃvatīḥ.śam.na.indra.agnī.ity.ete.satatam.japet./
+na.rakṣobhyo.na.bhūtebhyo.vyādhibhyo.vā.bhayam.bhavet.// RgV_2,25.133
+
+niveṣṭu.kāmo.roga.ārto.bhaga.sūktam.sadā.abhyaset./
+niveśam.vindate.kṣipram.rogebhyaś.ca.pramucyate.// RgV_2,25.134
+
+imā.iti.japen.nityam.raudram.sūktam.dvijaḥ.śuciḥ./
+taj.japan.prajayā.vittaiḥ.svayam.caiva.na.riṣyati.// RgV_2,26.135
+
+uttitīrṣur.apo.yas.tu.śaṅket.srotyā.samāgame./(?)
+samudra.jyeṣṭhā.iti.japet.sūktam.etad.bhaya.apaham.// RgV_2,26.136
+
+āditya.daivate.sūkte.ripughne.roga.nāśane./
+japet.prātaḥ.śucir.bhūtvā.ripu.rogaiḥ.pramucyate.// RgV_2,26.137
+
+vāstoṣpate.prati.ity.etat.sūktam.vāstoṣpatam.japet./
+snātaḥ.kṛtvā.vaiśvadevam.param.brahma.idam.ucyate.// RgV_2,26.138
+
+amīvahā.iti.sūktena.bhūtāni.svāpayen.niśi./
+na.hi.prasvāpanam.kiṃcid.īdṛśam.vidyate.kvacit.// RgV_2,26.139
+
+sambādhe.viṣame.durge.baddho.vā.nirgataḥ.kvacit./
+palāyan.vā.gṛhīto.vā.taskaraiḥ.sa.japed.idam.// RgV_2,27.140
+
+amīvahā.viśvavatīm.uddhṛtya.anyāḥ.prayojayet./
+sūktam.etaj.japet.sarvam.iti.manyeta.śaunakaḥ.// RgV_2,27.141
+
+tri.rātrim.niyato.anaśnan.śrapayet.pāyasam.carum./
+tena.āhuti.śatam.pūrṇam.juhuyāt.sarpiṣā.dvijaḥ.// RgV_2,27.142
+
+samuddiśya.mahā.devam.tryambakam.tryambaka.ity.ṛcā./
+etat.parva.śatam.kṛtvā.jīved.abda.śatam.sukhī.// RgV_2,27.143
+
+tat.cakśur.ity.ṛcā.snāta.upatiṣṭhed.divākaram./
+udyantam.madhyagam.caiva.dīrgham.āyur.jijīviṣuḥ.// RgV_2,27.144
+
+rātryā.apara.kāle.ya.utthāya.prayataḥ.śuciḥ./ RgV_2,27.145
+
+vyuṣā.ity.upatiṣṭheta.ṣaḍbhiḥ.sūktaiḥ.kṛta.añjaliḥ.// RgV_2,28.145
+
+prāpnuyāt.sa.hiraṇya.ādi.nānā.rūpam.dhanam.bahu./
+gā.aśvān.puruṣān.dhānyam.striyo.vāsāṃsy.aja.avikam.// RgV_2,28.146
+
+dhruvāsu.tv.āsu.kṣitiṣu.japan.baddhaḥ.pramucyate./
+tiṣṭhan.rātrau.japed.enām.vipāśaḥ.samprapadyate.// RgV_2,28.147
+
+aho.rātram.sthitaś.caivam.anaśnant.syād.viceṣṭitaḥ./
+ayaḥ.pāśaḥ.sphuṭanty.asya.dāru.pāśās.tathaiva.ca.// RgV_2,28.148
+
+syonā.iti.pṛthivīm.devīm.prapadyen.niyataḥ.sadā./
+japed.enām.ca.tatra.api.bhūmi.pāśāt.pramucyate.// RgV_2,28.149
+
+yat.kiṃcit.pātakam.kuryāt.karmaṇā.manasā.girā./
+yat.kiṃca.idam.varuṇa.iti.ṛcam.japtvā.pramucyate.// RgV_2,29.150
+
+agamyā.gamane.ca.etat.prāyaścittam.vidhīyate./
+anyatra.guru.talpāc.ca.tasmāt.pāpāt.pramucyate.// RgV_2,29.151
+
+dvādaśa.aham.abhuñjānaḥ.sva.gotra.āgamane.japet./
+ardha.māsam.abhuñjānaḥ.sakhi.dāreṣu.saṃvasan.// RgV_2,29.152
+
+idam.āpaḥ.pravahata.yat.kim.ca.idam.ṛcam.punaḥ./
+iti.ca.etā.japed.apaḥ.praviśya.eteṣu.karmasu.// RgV_2,29.153
+
+indrā.viṣṇū.namas.kṛtya.juhuyād.ājyam.anvaham./
+sūktābhyām.para.etābhyām.ya.icched.bhūtim.ātmanaḥ.// RgV_2,29.154
+
+āsya.daghnam.vigāhya.ambhaḥ.prān.mukhaḥ.prayataḥ.śuciḥ./
+sūktābhyām.tisra.etābhyām.upatiṣṭhed.divākaram.// RgV_2,30.155
+
+anaśnatā.tu.japtavyam.vṛṣṭi.kāmena.yatnataḥ./
+pañca.rātre.vyatīte.tu.mahad.varṣam.avāpnuyāt.// RgV_2,30.156
+
+yo.aribhiḥ.pratipadyeta.abhiśasyeta.vā.mṛṣā./
+upoṣya.ekam.tri.rātram.sa.juhuyād.ājyam.anvaham.// RgV_2,30.157
+
+indrā.soma.iti.sūktam.tu.japec.ca.etat.śata.avaram./
+kiṃcid.dadyād.dvijebhyo.ante.stṛṇute.sarva.śātravān.// RgV_2,30.158
+
+yasya.lupyed.vratam.mohād.vrātyair.vā.saṃspṛśed.dvijaḥ./
+upoṣya.ājyam.ca.juhuyāt.tvam.agne.vratapā.iti.// RgV_2,30.159
+
+pra.saṃrājam.iti.tv.etaj.japann.īkṣed.divākaram./
+udyantam.upatiṣṭheta.snātvā.snātvā.dine.dine.// RgV_2,31.160
+
+abhiyukto.bhaved.yas.tu.vivaded.vā.api.kenacit./
+nirjitya.sagaṇān.śatrūn.kṣipram.vādam.parājayet.// RgV_2,31.161
+
+śam.agir.agnibhiś.ca.iti.prapadyed.vāyu.bhāskarau./
+agnim.prathamataḥ.stutvā.mahat.kṛcchrāt.pramucyate.// RgV_2,31.162
+
+na.hi.iti.yaś.catuṣkeṇa.snātvā.vai.prātar.utthitaḥ./
+dvau.māsāv.upatiṣṭheta.sa.trāyati.bhayāt.svayam.// RgV_2,31.163
+
+tṛcam.japtvā.āyad.ity.etat.snātvā.abhyarcya.puraṃdaram./
+prāpnuyān.mānasān.kāmān.sampūjya.vasu.rociṣaḥ.// RgV_2,31.164
+
+ādyāni.trīṇi.sūktāni.pañca.ca.agre.bṛhann.iti./
+ṣaṭ.tathā.antyāni.sūktāni.agnim.nara.ito.iti.ca.// RgV_2,31.165
+
+prakṛtāni.iti.ca.adhyāyam.bhojanāt.prāk.paṭhed.idam./
+sarvān.kāmān.avāpnoti.mucyeta.sarva.kilbiṣaiḥ.// RgV_2,31.166
+
+prāg.bhojanam.idam.brahma.mānavānām.maharṣiṇām./
+pūrva.ahṇe.japato.nityam.artha.siddhiḥ.parā.bhavet.// RgV_2,32.167
+
+agninā.ity.āśvinam.sūktam.catur.viṃśakam.anvaham./
+japet.prātaḥ.śucir.bhūtvā.nāsatyāv.arcya.suvrataḥ.// RgV_2,32.168
+
+sa.prāpnuyāt.parām.ṛddhim.draviṇam.ca.ūrjam.eva.ca./
+samidhā.iti.juhoty.agnau.sūktena.pratyṛcam.ghṛtam.// RgV_2,32.169
+
+sa.siddhim.atulām.prāpya.samānām.jīvate.śatam./
+dvi.catvāriṃśakena.iha.sūktena.agha.iti.vajriṇam.// RgV_2,32.170
+
+sakhyam.labdhvā.mahā.indreṇa.sapatnānt.stṛṇute.bahūn./
+prāśnīyāj.japato.atra.asti.praśnam.kṛtvā.pramāṇataḥ.// RgV_2,32.171
+
+tasmāt.pūrva.āhṇiko.adhyāyaḥ.smṛto.ayam.ripu.nāśanaḥ./
+vāśam.mahī.iti.ca.japtvā.prāpnoty.ārogyam.eva.ca.// RgV_2,33.172
+
+duhsvapnaghnīḥ.parā.japtvā.prātaḥ.pāpaiḥ.pramucyate./
+śam.no.bhava.iti.dvābhyām.tu.bhuktvā.annam.prayataḥ.śuciḥ.// RgV_2,33.173
+
+hṛdayam.pāṇinā.spṛṣṭvā.jyog.jīved.agadaḥ.sukhī./
+yato.bhayam.vijānīyāt.tasyām.diśi.yata.vrataḥ.// RgV_2,33.174
+
+śucau.deśe.agnim.ādhāya.juhuyād.indram.arcya.ca./
+yata.ity.ājyam.utpūtam.ṣaḍbhir.gandhān.nivedya.ca.// RgV_2,33.175
+
+pāyasam.dadhi.mantham.vā.apūpān.vā.apy.upahārayet./
+aho.rātram.upoṣya.ekam.tilān.vā.ghṛtam.eva.vā.// RgV_2,33.176
+
+ut.tvā.mandantv.iti.snāto.hutvā.śatrūn.pramāpayet./
+baddho.vā.apy.abaddho.vā.vāg.yataḥ.prayato.japet.// RgV_2,34.177
+
+tyā.nv.ity.āditya.daivatyam.sadyo.mucyeta.bandhanāt./
+yad.dyāvā.iti.japen.nityam.pragātham.niyataḥ.śuciḥ.// RgV_2,34.178
+
+sa.kīrtim.atulām.prāpya.sarvān.kāmānt.samaśnute./
+tvam.no.agna.iti.sūktena.hutvā.arcya.agnim.ghṛtena.tu.// RgV_2,34.179
+
+pālito.viśvato.dīptyā.prāpnuyād.vahninā.rayim./
+ā.tu.sūktena.satatam.dhanam.yāvat.puraṃdaram.// RgV_2,34.180
+
+prasamit.pāṇaye.tasmai.dhanam.yacchati.vṛtrahā./ RgV_2,34.181
+
+kanyā.vār.iti.sūktam.tu.satatam.niyato.japet.// RgV_2,35.181
+
+tvag.doṣiṇīm.tathā.alomnīm.kṣipram.tasmāt.pramocayet./
+yad.adya.kac.ca.ity.udite.ravau.stutvā.puraṃdaram.// RgV_2,35.182
+
+gṛṇann.apohate.ripram.vaśyam.vā.kurute.jagat./
+yad.vāg.iti.dvṛcena.etya.gaurīm.yo.arcati.suvrataḥ.// RgV_2,35.183
+
+tasya.na.asaṃskṛtā.vāṇī.mukhād.uccarate.kvacit./
+baṇ.mahām.iti.dṛṣṭvā.arkam.upatiṣṭhed.dvṛcam.paṭhan.//(vaṇ.mahām) RgV_2,35.184
+
+bruvann.apy.anṛtām.vāṇīm.lipyate.na.anṛtena.saḥ./
+pūrṇe.candramasi.jyotsnām.iyam.yā.ity.anusevayet.// RgV_2,35.185
+
+candra.dṛṣṭis.tv.animiṣo.varcasvī.dṛṣṭimān.bhavet./
+prajā.ha.iti.japant.snātvā.na.yonim.pratijāyate.// RgV_2,35.186
+
+mātā.iti.gām.upaspṛśya.japan.gās.tu.samaśnute./
+vacovidam.iti.tv.etām.japan.vācam.samaśnute.// RgV_2,35.187
+
+pāvamānam.param.hy.etan.navamam.maṇḍalam.japet./
+snātvā.śuciḥ.śucau.deśe.sapavitraḥ.sakāñcanaḥ.//e RgV_2,35.188
+
+svādiṣṭhayā.iti.gāyatrīḥ.pāvamānīr.japed.dvijaḥ./
+pavitrāṇām.pavitram.tu.pāvamānīr.ṛco.japet.// RgV_3,1.1
+
+prayato.apsu.nimajya.āśu.sarva.pāpaiḥ.pramucyate./
+etāsām.kīrtanam.puṇyam.smaraṇam.dhāraṇam.tathā.// RgV_3,1.2
+
+yāthāyathyena.ca.jñātvā.brahma.lokam.samaśnute./
+eteṣām.tu.yathā.uktānām.guṇavad.yad.yad.uttaram.// RgV_3,1.3
+
+kīrtanāt.tu.bhavet.pūtaḥ.smaraṇāt.smarate.param./
+dhāraṇād.brahmatām.eti.pūta.ātmā.vijita.indriyaḥ.// RgV_3,1.4
+
+yāthātathyena.ca.jñātvā.brahmaṇo.vindate.padam./
+śrāvayed.devatā.kṛtye.brāhmaṇān.bhuñjato.agrataḥ.// RgV_3,1.5
+
+prīṇāti.devatām.tac.ca.samardhayati.karma.ca./
+pitrye.pitrīn.prīṇayanti.śrāvitāḥ.prayata.ātmanā.// RgV_3,2.6
+
+kṛtvā.doṣānt.sumahato.apy.apeya.ādīn.prapīya.ca./
+japtvā.tarat.samandīyam.praviśya.apaḥ.tryahāt.śuciḥ.// RgV_3,2.7
+
+akṣayyam.ca.bhaved.dattam.pitṛbhyaḥ.paramam.madhu./
+yaḥ.pāvamānīr.adhyeti.pūta.ātmā.vijita.indriyaḥ.// RgV_3,2.8
+
+tasya.kāma.dughā.bhūtvā.upatiṣṭhanti.dhenavaḥ./
+āyur.balam.yaśo.vittam.prajām.kīrtim.anāmayam.// RgV_3,2.9
+
+svādhyāya.puṇyam.atulam.pūtaḥ.prāpnoti.ca.akṣayam./
+aśaktas.tu.japed.yuktāḥ.pavitrasya.ca.yāḥ.parāḥ.// RgV_3,2.10
+
+sapta.ṛṣibhiś.ca.yāḥ.proktāḥ.pavitrasya.ca.yāḥ.parāḥ./
+ṛcām.dviṣaṣṭiḥ.proktā.iyam.pavasva.ity.ṛṣi.sattamaiḥ.// RgV_3,2.11
+
+sarva.kalmaṣa.nāśāya.pāvanāya.śivāya.ca./
+svādiṣṭhayā.iti.sūktānām.sapta.ṣaṣṭir.iha.uditā.// RgV_3,3.12
+
+daśa.uttarāṇy.ṛcām.caiva.pāvamānīḥ.śatāni.ṣa]./
+etaj.juhvan.japaṃś.caiva.ghoram.mṛtyu.bhayam.jayet.// RgV_3,3.13
+
+vyādhibhyaḥ.parimokṣam.ca.labhate.na.atra.saṃśayaḥ./
+pratigṛhya.apratigrāhyam.bhuktvā.ca.annam.vigarhitam.// RgV_3,3.14
+
+japaṃs.taratsamandīyam.praviśya.apaḥ.tryahāt.śuciḥ./
+pāvamānam.param.hy.etad.rapasām.apanodanam.// RgV_3,3.15
+
+prāṇān.āyamya.ca.dhyāyed.ante.devān.pitṝn.ṛṣīn./
+upoṣya.ājyam.ca.juhuyād.agnim.somam.ca.pūjayet.// RgV_3,3.16
+
+sarasvatīm.ca.arcayeta.payo.ambu.madhu.sarpiṣā./
+ādhyātmikam.pavitram.te.sūktam.japtvā.āplutaḥ.śuciḥ.// RgV_3,3.17
+
+gatim.iṣṭām.avāpnoti.vindate.ca.iha.vṛddayaḥ./
+[.maṇḍalam.pāvamānam.tu.japel.lakṣam.upoṣitaḥ./
+nāśayed.brahmahatyām.vai.vasiṣṭha.vacanam.yathā./](not in bhat)
+nānānam.iti.sūktāni.anta.kāle.japet.sakṛt.// RgV_3,4.18
+
+japtvā.caiva.param.sthānam.amṛtatvam.ca.gacchati./
+āpo.hi.ṣṭha.iti.niyataḥ.prayuñjīta.sadā.dvijaḥ.// RgV_3,4.19
+
+snāna.artham.śuddhi.kāmas.tu.japeta.triḥ.samāhitaḥ./
+apsu.caiva.nimajjitvā.triḥ.paṭhet.susamāhitaḥ.// RgV_3,4.20
+
+brahmahā.tu.kapālena.khaṭva.aṅgī.cīra.saṃvṛtaḥ./
+cared.dvādaśa.varṣāṇi.sva.karma.parikīrtayan.// RgV_3,4.21
+
+ajapan.manasā.eva.etad.āpo.hi.ṣṭha.iti.saṃsmaret./
+ūrdhvam.tu.pañcamād.varṣāj.japed.eva.sahasraśaḥ.// RgV_3,4.22
+
+aparas.tu.tri.sāhasro.japaḥ.syāt.pratyaham.sadā./
+pūrṇe.tu.dvādaśe.varṣe.brahmahā.vipramucyate.// RgV_3,4.23
+
+sametya.brāhmaṇā.brūyur.atha.tam.carita.vratam./ RgV_3,4.24
+
+acaritam.bhavet.kiṃcid.mithyā.vādī.pateḥ.punaḥ.// RgV_3,5.24
+
+daśa.avarān.daśa.parān.hanyās.tvam.anṛtam.vadan./
+om.bho.iti.vaded.viprair.anujñātaḥ.śucir.japet.// RgV_3,5.25
+
+sthālī.pākam.ca.kurvīta.so.agnaya.vrata.cāriṇe./
+evam.sa.mucyate.pāpāt.sāvitrīm.pratipadya.ca.// RgV_3,5.26
+
+brahmahā.sa.purā.śakras.tvāṣṭram.hatvā.tv.ṛṣim.prabham./
+sindhu.dvīpas.tam.etābhir.abhiṣicya.vyamocayat.// RgV_3,6.27
+
+brahmasvam.ca.guror.dravyam.steyam.kṛtvā.japann.imāḥ./
+anena.eva.vidhānena.ṣaḍbhir.varṣaiḥ.pramucyate.// RgV_3,6.28
+
+brahmahā.ca.surāpaś.ca.niyamena.japann.imāḥ./
+anena.eva.upacāreṇa.brahmaghna.iva.mucyate.// RgV_3,6.29
+
+brāhmaṇasya.ruṣā.udyamya.japed.etā.nipātya.ca./
+tryaham.nipātya.upavased.eka.aham.avagūrya.ca.// RgV_3,6.30
+
+śoṇitam.tu.prahāreṇa.utpādya.sa.kathaṃcana./
+tri.rātram.eva.upavasej.japed.etāḥ.prasādya.tam.// RgV_3,6.31
+
+prātar.utthāya.satatam.kuryād.mārjanam.ātmanaḥ./
+rātrau.kṛtasya.pāpasya.avijñātasya.niṣkṛtiḥ.// RgV_3,6.32
+
+sāyam.ca.nityam.etābhiḥ.kuryād.mārjanam.ātmanaḥ./
+divā.kṛtasya.pāpasya.avijñātasya.niṣkṛtiḥ.// RgV_3,6.33
+
+upatiṣṭheta.rājānam.yamam.sūktena.vai.dvijaḥ./
+sthālī.pākam.ca.kurvīta.pakṣayor.yama.daivatam.// RgV_3,7.34
+
+aṣṭamyām.ca.caturdaśyām.yajeta.haviṣā.yamam./
+pareyivāṃsam.ity.etat.sūktam.atra.prayojayet.// RgV_3,7.35
+
+purā.āyuṣaḥ.pramīyeta.na.jātu.sa.kathaṃcana./
+prīyate.asya.yamo.rājā.smṛtim.ca.ante.prayacchati.// RgV_3,7.36
+
+dharma.rājāya.svāhā.iti.mantra.ante.juhuyādd.haviḥ./
+vaiśākhyām.paurṇamāsyām.tu.karma.nityam.prayojayet.// RgV_3,7.37
+
+anaye.parvasu.snātvā.yaḥ.pradadyāt.tila.udakam./
+yamāya.sagaṇāya.eva.tad.bhayam.na.sa.vindati.// RgV_3,7.38
+
+mṛtyum.eva.prapadyeta.param.mṛtyo.japan.dvijaḥ./
+nakta.bhojī.mita.āhāraḥ.parisaṃvatsaram.sadā.// RgV_3,7.39
+
+na.enam.purā.āyuṣo.mṛtyur.nayate.sasuta.prajam./
+phala.āhāro.jayen.mṛtyum.tribhir.varṣair.mita.aśanaḥ.// RgV_3,8.40
+
+ṣaṣṭhe.kāle.tu.bhuñjīta.phalam.mūlam.atha.api.vā./
+sthāna.āsanābhyām.vihared.udake.śiśire.vaset.// RgV_3,8.41
+
+grīṣme.pañca.tapās.tu.syād.varṣāsv.abhra.avakāśakaḥ./
+evam.yukto.jayen.mṛtyum.rogebhyaś.ca.pramucyate.// RgV_3,8.42
+
+bhrātur.bhāryām.aputrasya.santāna.artham.mṛte.patau./
+devaro.anvārurukṣantīm.udīrṣva.iti.nivartayet.// RgV_3,8.43
+
+ṛtu.kāle.tu.samprāpte.ghṛta.abhyakto.atha.vāg.yataḥ./
+ekam.utpādayet.putram.na.dvitīyam.kathaṃcana.// RgV_3,8.44
+
+daśa.akṣaram.tu.śānty.artham.bhadram.na.iti.saṃsmaret./
+nityam.japet.śucir.bhūtvā.mānasam.vindate.sukham.// RgV_3,8.45
+
+phala.āhāro.bhaven.māsam.māsam.ca.apaḥ.pibet.tataḥ./
+vāyu.bhakṣo.bhaven.māsam.japann.etat.sahasraśaḥ.// RgV_3,9.46
+
+manasā.eva.asya.sidhyanti.sarve.kāmāḥ.samīhitāḥ./
+divyān.paśyati.gandharvānt.siddhān.paśyati.cāraṇān.// RgV_3,9.47
+
+antardhānam.vrajaty.asmāl.lokād.ākāśago.bhavet./
+dūrāt.paśyati.dūrāc.ca.śṛṇoti.parameṣṭhivat.// RgV_3,9.48
+
+pra.devatra.iti.niyato.japeta.maru.dhanvasu./
+prāṇa.antike.bhaye.prāpte.kṣipram.ambhaḥ.sa.vindati.// RgV_3,9.49
+
+vaibhītakāṃs.tu.trīn.akṣān.gandhaiḥ.samabhivāsayet./
+puṣpair.avakirec.ca.enānt.sthāpayitvā.vihāyasi.// RgV_3,9.50
+
+saṃhatya.pādau.tām.rātrīm.tiṣṭhann.akṣa.stutim.japet./
+prā.vepā.mā.ṛcam.tv.etām.manasā.eva.japen.niśi.// RgV_3,10.51
+
+vyuṣṭāyām.udite.sūrye.japann.ādevanam.vrajet./
+etām.eva.japen.nityam.jayaty.anyair.na.jīyate.// RgV_3,10.52
+
+yam.eva.jetum.iccheta.spṛṣṭvā.mūrdhani.tam.japet./
+sūkta.śeṣam.jayaty.anyān.jīyate.na.sa.kenacit.// RgV_3,10.53
+
+abudhram.uṣāsā.naktā.ity.ete.svastyayane.japet./
+namo.mitrasya.varuṇasya.cakṣasa.iti.nityaśaḥ.// RgV_3,10.54
+
+asya.eva.ca.uttama.ṛg.ekā.yayā.enobhyaḥ.pramucyate./
+tayā.ājyam.juhuyān.nityam.enobhyo.vipramucyate.// RgV_3,10.55
+
+divas.pari.iti.sūktam.tu.japen.śraddhā.samanvitaḥ./
+sarvatra.labhate.śraddhām.śraddhā.kāmaḥ.samāhitaḥ.// RgV_3,11.56
+
+mā.pra.gāma.iti.ca.japet.sa.mūḍho.gahane.pathi./
+svastimān.eti.panthānam.vindate.ca.param.sukham.// RgV_3,11.57
+
+kṣīṇa.āyur.iti.manyeta.yam.kaṃcit.suhṛdam.priyam./
+yat.te.yamam.iti.snātas.tasya.mūrdhānam.ālabhet.// RgV_3,11.58
+
+sahasrakṛtvaḥ.pañca.aham.japed.āyur.labheta.saḥ./
+ghṛtena.sindhu.dvīpasya.sūktena.enam.pralepayet.// RgV_3,11.59
+
+saṃviśan.śayane.nityam.etam.mantram.japeta.vai./
+putrān.bhāryām.priyam.ca.anyam.ātmānam.saṃspṛśet.tataḥ.// RgV_3,11.60
+
+jīva.āvṛttim.prayuñjīta.nityam.etām.ghṛtena.tu./
+śrotāṃsy.abhyajya.sarvāṇi.sukhī.bhavati.vijvaraḥ.// RgV_3,12.61
+
+idam.itthā.iti.mantro.ayam.sahasra.sanir.ucyate./
+ardha.māsam.haviṣya.annam.ardha.māsam.payaḥ.pibet.// RgV_3,12.62
+
+upoṣya.ca.aparam.pakṣam.araṇye.sthaṇḍile.śucau./
+audumbara.idhmam.prajvālya.juhuyāt.pāvake.ghṛtam.// RgV_3,12.63
+
+sruk.sruvau.camasaś.caiva.sarvam.audumbaram.bhavet./
+hutvā.āhuti.sahasram.tu.tena.kāmena.yujyate.// RgV_3,12.64
+
+amogham.eva.karma.etaj.jānīyāt.siddhim.eva.tu./
+vyartham.apy.ardham.eva.etat.phalasya.asya.prayacchati.// RgV_3,12.65
+
+catuṣ.pathe.ca.anna.kāma.āditya.abhimukho.ghṛtam./
+juhuyād.dhana.kāmas.tu.sahasram.bhojayed.dvijān.// RgV_3,13.66
+
+paśu.kāmo.japed.goṣṭhe.juhuyād.vā.apy.upoṣitaḥ./
+vidhinā.anena.niyataḥ.sahasram.vindate.paśūn.// RgV_3,13.67
+
+loha.lohita.hemānām.kārayet.trivṛtam.maṇim./
+sahasram.samidhām.caiva.sampāta.abhihut.tu.bhavet.// RgV_3,13.68
+
+kṛtvā.sahasra.sampātam.śirasā.dhārayet.tu.tam./
+pāṇinā.vā.śucir.bhūtvā.sahasra.anucaro.bhavet.// RgV_3,13.69
+
+parāvataḥ.svastyayanam.snātakasya.vidhīyate./
+svarga.kāmaś.ca.tam.nityam.japeta.niyata.vrataḥ.// RgV_3,13.70
+
+bṛhaspate.prathamam.iti.nityam.jñāna.stutim.japet./
+jñānavān.bhavati.śrīmān.anantām.vindate.śriyam.// RgV_3,14.71
+
+alakṣmī.nāśana.artham.tu.payo.bhakṣo.bhaved.dvijaḥ./
+vayaḥ.suparṇā.ity.etām.japan.vai.vindate.śriyam.// RgV_3,14.72
+
+tamasā.prāvṛto.yas.tu.manyeta.ātmānam.ātmani./
+aśriyā.vā.apy.atha.āviṣṭo.japann.etām.pramucyate.// RgV_3,14.73
+
+akṣiṇī.prātar.utthāya.vimṛjīta.etayā.sadā./
+cakṣuṣmān.bhavati.śrīmān.alakṣmīm.ca.prabādhate.// RgV_3,14.74
+
+na.tam.vidātha.ity.etām.tu.japan.vipraḥ.samāhitaḥ./
+vihāya.kalmaṣam.sarvam.brahma.abhyeti.sanātanam.// RgV_3,14.75
+
+anayā.parvasu.snātvā.yaḥ.pradadyāt.tila.udakam./
+yamāya.sagaṇāya.eva.tad.bhayam.na.sa.vindati.// RgV_3,14.76
+
+yas.te.manyo.iti.sadā.sapatnaghne.tv.ime.japet./
+ghṛtena.abhihutam.dvābhyām.dhārayed.āyasam.maṇim.// RgV_3,14.77
+
+juhuyād.āyasam.śaṅkum.ābhyām.eva.caturdaśīm./
+khādira.idhma.samiddhe.agnau.sapatnān.pratibādhate.// RgV_3,15.78
+
+yathā.hi.paramam.brahma.guhyam.pāvanam.adbhutam./
+tathā.saṃvananam.hṛdyam.na.hy.asmād.vidyate.param.// RgV_3,15.79
+
+upoṣya.dvādaśa.ahāni.japann.etam.ṛṣim.sadā./
+tan.manāḥ.prayataḥ.sa.syāt.trir.ahno.abhyupayann.apaḥ.// RgV_3,15.80
+
+ante.tu.dvādaśa.ahasya.śucau.deśe.samāhitaḥ./
+puṃsaḥ.pratikṛtim.kuryād.bhūmau.pāṃsumayīm.tathā.// RgV_3,15.81
+
+tasyā.hṛdaya.deśam.tu.samākramya.japed.ṛṣim./
+amogham.karma.jānīyād.aho.rātre.gate.sati.// RgV_3,15.82
+
+tryaheṇa.dhaninām.vaiśyam.catū.rātreṇa.kṣatriyam./
+rājānam.pañca.rātreṇa.ṣaḍ.rātreṇa.dvija.uttamam.// RgV_3,16.83
+
+tapasvinam.sapta.rātrāj.jayed.bhuñjīta.ca.eva.tam./
+api.vā.upoṣitaḥ.snāto.japed.etat.sadā.sthitaḥ.// RgV_3,16.84
+
+ya.icched.ātmanaḥ.kartum.hīnam.tu.parivarjayet./
+sahasra.sampāta.hutam.bilvānām.cūrṇam.āvayet.// RgV_3,16.85
+
+uda.pāne.vaśam.netum.tam.janam.kṣipram.ānayet./
+mātary.ātmani.putreṣu.pitṛ.bhrātṛ.suhṛtsu.ca.// RgV_3,16.86
+
+hṛdyam.etat.prayujñīta.śirasā.dhārayed.gurum./
+sumitram.tu.pariṣvajya.mūrdhany.āghrāya.ca.ātmajam.// RgV_3,17.87
+
+hṛdyam.etat.prayuñjīta.śānty.arthāya.sukhāya.ca./
+asaṃsiddhe.saṃvanane.pāṃsu.pratikṛtim.pathi.// RgV_3,17.88
+
+prajvālya.juhuyād.agnim.ghṛtena.brāhmaṇo.yadi./
+kṣatriyasya.tu.tailena.sārṣapeṇa.viśām.api.// RgV_3,17.89
+
+āyasīm.vā.pratikṛtim.agni.madhye.nidhāpayet./
+tām.ca.prajvalitām.matvā.juhuyāt.tanmanāḥ.śuciḥ.// RgV_3,17.90
+
+ugreṇa.manasā.hanyāt.kruddhaś.ca.juhuyād.ghṛtam./
+yathā.yathā.prajvalite.hūyate.jāta.vedasi.// RgV_3,17.91
+
+dīptā.pratikṛti.vipras.tathā.sa.vaśam.eṣyati./
+śmaśāna.dagdha.pāṃsūnām.kuryād.vedim.vilakṣaṇām.// RgV_3,17.92
+
+vaibhītaka.idhme.jvalite.loha.pratikṛtim.nyaset./
+ardha.rātre.sthite.taile.sārṣapam.lavaṇa.anvitam.// RgV_3,18.93
+
+tatra.śaramayam.kuryāt.prastaram.pratilomataḥ./
+triṣu.śaṅkuṣu.ca.āsīno.juhuyād.ugra.darśanaḥ.// RgV_3,18.94
+
+mukta.keśo.vadham.prepsur.acireṇa.prasādhayet./
+athavā.abhicared.evam.juhuyād.ātma.śoṇitam.// RgV_3,18.95
+
+vaśam.nayati.rājānam.kṣipram.jana.padam.puram./
+puṣṭi.karma.api.kartavyam.hṛdyena.uktam.yata.ātmanā.// RgV_3,18.96
+
+anāgasi.na.kurvīta.brāhmaṇo.vadha.samyutam./
+sarūpa.vatsāyāś.ca.goḥ.payasā.sādhayet.carum.// RgV_3,18.97
+
+sahasra.sampāta.hutam.pāyayed.vatsam.agrajam./
+sahasra.anucaro.vatsaḥ.sa.syād.rāgair.vivarjitaḥ.// RgV_3,19.98
+
+gāś.caiva.pāyayet.tāś.ca.bhavanti.vigata.jvarāḥ./
+putrāṃś.ca.prāśayen.nityam.priyān.anyāṃś.ca.sajjanān.// RgV_3,19.99
+
+nirāmayāś.ca.snigdhāś.ca.bhavanti.vigata.jvarāḥ./
+striyam.ced.abhimanyeta.tasyāḥ.saṃvananam.mahat.// RgV_3,19.100
+
+vrīhīṇām.nakha.bhinnānām.taṇḍulānt.sūkṣma.cūrṇitān./
+sahasra.sampāta.hutānt.svedayet.kuśalo.agninā.// RgV_3,19.101
+
+tena.pratikṛtim.kuryāt.tām.dhyātvā.manasā.striyam./
+aktām.sarṣapa.tailena.juhuyād.aṅgaśaś.ca.tām.// RgV_3,19.102
+
+pādau.prathamataś.chindyāt.phaḍ.ity.agnau.nidhāpayet./
+atha.jaṅghe.jānuni.ca.ūrū.bāhū.tataḥ.śiraḥ.// RgV_3,20.103
+
+chittvā.hṛdaya.deśam.tu.hṛdaye.sve.niveśayet./
+japann.etam.ṛṣim.vipraḥ.strī.vaśam.sā.adhigacchati.// RgV_3,20.104
+
+na.etat.parigṛhītāsu.na.sādhvīṣu.kathaṃcana./
+na.dharma.vrata.śīlāsu.kurvīta.dvija.sattamaḥ.// RgV_3,20.105
+
+kāmam.parigṛhītāsu.hīna.varṇāsu.yaś.caret./
+patim.asyā.guṇī.kuryāt.pūrvam.paścāt.tu.tām.striyam.// RgV_3,20.106
+
+bhuktvā.vā.pāyasam.sadyaḥ.chardayitvā.nidhāpayet./
+tat.cūrṇam.kṛṣṇa.jāyāyai.deyam.saṃvananam.smṛtam.// RgV_3,20.107
+
+mahā.vṛkṣa.phalāny.evam.ayugmāny.abhimantrayet./
+teṣām.yugmāni.bhuñjīta.svayam.ardhāni.śeṣayet.// RgV_3,21.108
+
+tāni.dadyād.yam.icchet.tu.vaśī.kartum.japann.ṛṣim./
+suhṛd.bhūtvā.asuhṛd.yasya.deyam.saṃvananam.smṛtam.// RgV_3,21.109
+
+eka.ekam.abhirūpam.tu.hṛdya.sūkta.ādy.ataḥ.punaḥ./
+karmāṇi.tv.abhirūpāṇi.kuryād.yas.tu.yathā.icchati.// RgV_3,21.110
+
+parāka.dāsasya.vidhim.hṛdyena.uktam.vidur.budhāḥ./
+strīṇām.saṃvananam.ca.etat.puṃsām.api.vidhīyate.// RgV_3,21.111
+
+dveṣyam.tu.jñātinām.eva.japec.caiva.sadā.yudhi./
+khādiram.kārayet.śaṅkum.hṛdi.tam.samniveśayet.// RgV_3,21.112
+
+kṛtvā.pratikṛtim.pūrvam.pāṃsubhir.vā.athavā.tuṣaiḥ./
+iṣum.apy.anumantrya.eva.saṃgrāmam.samprakalpayet.// RgV_3,22.113
+
+ripughnam.etaj.jānīyāt.prayuktam.aparājitam./
+parāka.dāsa.dveṣya.artham.hṛdyam.saṃvananam.smṛtam.// RgV_3,22.114
+
+cintayann.manasā.apy.ete.sūkte.siddhim.niyacchati./
+sūryāyai.bhāva.vṛttam.tu.śrāvayet.kanyakām.pitā.// RgV_3,22.115
+
+anurūpam.susadṛśam.bhartāram.tena.vindati./
+imām.iti.japet.kanyā.nābhim.ālabhya.nityaśaḥ.// RgV_3,22.116
+
+evam.eva.japed.bhartā.tato.dīrgha.āyuṣau.tu.tau./
+snāpayed.abhirūpaiś.ca.bhrātā.kanyām.pitā.api.vā.// RgV_3,22.117
+
+daśa.putravatī.bhaven.na.ca.bhartrā.viyujyate./
+saṃrājñī.iti.japen.mūrdhni.kanyām.ālabhya.nityaśaḥ.// RgV_3,23.118
+
+śvaśrū.śvaśura.devarair.nanāndrā.ca.api.pūjyate./(?)
+indrāṇyā.kṛta.saṃvādam.snāne.sūktam.prayojayet.// RgV_3,23.119
+
+nava.varga.uttama.yutam.pati.saubhāgya.putradam./
+jala.puṣpa.utkara.yute.citra.kumbha.samāvṛte.// RgV_3,23.120
+
+kartavyo.atra.tathā.yāgaḥ.soma.gandharva.vahninām./
+bhagāya.apsarasām.caiva.yakṣa.adhipataye.api.ca.// RgV_3,23.121
+
+indrāṇyai.deva.patnīnām.rati.pradyumnayos.tathā./
+nadī.salika.sampūrṇaiḥ.pañca.gavya.samāvṛtaiḥ.// RgV_3,23.122
+
+hutvā.agnim.snāpayet.kanyām.sthitām.deśe.tu.dakṣiṇe./
+priyaṅgu.vaṭa.nāgānām.kaṣāya.udghṛṣṭa.kesaram.// RgV_3,24.123
+
+sampāta.abhihutam.kṛtvā.sarva.oṣadhi.samanvitam./
+abhimantrya.hi.sūkta.ante.navabhis.tu.vi.hi.iti.vai.// RgV_3,24.124
+
+stheyābhir.adbhiḥ.pūrṇena.abhiṣiñced.upoṣitām./
+yaḥ.patighnyaḥ.striyas.tanvaḥ.śāmyante.tās.tv.anena.vai.// RgV_3,24.125
+
+snāpayed.āhanasyābhir.vidyād.yām.vipravrājinīm./
+sūktād.upoddhared.enam.na.seśa.iti.tu.dvṛcam.// RgV_3,24.126
+
+upadiṣṭo.ayam.ekeṣām.puṃsaḥ.karmaṇi.pauruṣe./
+rakṣohaṇam.vājinam.ity.etad.rakṣohaṇam.japet.// RgV_3,24.127
+
+agnim.prajvālya.ca.etena.upatiṣṭheta.nityaśaḥ./
+ājya.āhutīś.ca.juhuyāt.tena.rakṣāṃsi.bādhate.// RgV_3,25.128
+
+etad.rakṣohaṇam.śāntiḥ.paramā.eṣā.prakīrtitā./
+haviṣpāntīyam.ity.etat.sūktam.atra.prayojayet.// RgV_3,25.129
+
+garhita.anna.agha.yoge.ca.haviṣpāntīyam.abhyaset./
+pavitram.paramam.hy.etad.dhyātavyam.ca.abhīkṣṇaśaḥ.// RgV_3,25.130
+
+āditye.dṛṣṭim.āsthāya.ṣaṇ.māsān.niyato.abhyaset./
+deva.yānam.sa.panthānam.paśyaty.āditya.maṇḍale.// RgV_3,25.131
+
+vidyā.vaiśvānarī.ca.asya.sva.kāyasthā.prakāśate./
+haviṣpāntīyam.abhyasya.sarva.pāpaiḥ.pramucyate.// RgV_3,25.132
+
+indram.stava.iti.sūktam.tu.japet.śatru.nibarhaṇam./
+pavitrāṇām.pavitram.tu.guhyam.pāvanam.adbhutam.// RgV_3,25.133
+
+śukla.pakṣe.śubhe.vāre.sunakṣatre.sugocare./
+dvādaśyām.putra.kāmāya.carum.kurvīta.vaiṣṇavam.// RgV_3,26.134
+
+dampatyor.upavāsaḥ.syād.ekādaśyām.sula.ālaye./
+ṛgbhiḥ.ṣoḍaśabhiḥ.samyag.arcayitvā.janārdanam.// RgV_3,26.135
+
+carum.puruṣa.sūktena.śrapayet.putra.kāmyayā./
+prāpnuyād.vaiṣṇavam.putram.acirāt.santati.kṣamam.// RgV_3,26.136
+
+dvādaśa.dvādaśīḥ.samyak.payasā.nirvapet.carum./
+yaḥ.karoti.sahasram.syād.yāti.viṣṇoḥ.param.padam.// RgV_3,26.137
+
+hutvā.agnim.vidhivat.samyag.ṛgbhiḥ.ṣoḍaśabhir.budhaḥ./
+kṛta.añjalipuṭo.bhūtvā.stavam.tābhiḥ.prayojayet.// RgV_3,26.138
+
+keśavam.mārgaśīrṣe.tu.pauṣe.nārāyaṇam.smṛtam./
+mādhavam.māghamāse.tu.govindam.phālgune.tathā.// RgV_3,27.139
+
+caitre.caiva.tathā.viṣṇum.vaiśākhe.madhu.sūdanam./
+jyeṣṭhe.trivikramam.vidyād.āṣāḍhe.vāmanam.viduḥ.// RgV_3,27.140
+
+śrāvaṇe.śrīdharam.vidyādd.hṛṣīkeśam.tataḥ.pare./
+āśvine.padmanābham.tu.dāmodaram.ca.kārttike.// RgV_3,27.141
+
+dvādaśa.etāni.nāmāni.ṛṣyaśṛṅgo.abravīn.muniḥ./
+pūjayen.māsa.nāmabhiḥ.sarvān.kāmānt.samaśnute.// RgV_3,27.142
+
+āyuṣmantam.sutam.sūte.yaśo.medhā.samanvitam./
+dhanavantam.prajāvantam.dhārmikam.sāttvikam.tathā.// RgV_3,27.143
+
+samidho.aśvattha.vṛkṣasya.hutvā.agnim.juhuyāt.punaḥ./
+upasthānam.hutāśasya.dhyātvā.arcya.madhu.sūdanam.// RgV_3,28.144
+
+havir.hoam.tataḥ.kuryāt.pratyṛcam.vāg.yataḥ.śuciḥ./
+sūktena.juhuyād.ājyam.ādāv.ante.ca.pūrvavat.// RgV_3,28.145
+
+haviḥ.śeṣam.namas.kṛtvā.nārī.nārāyaṇam.patim./
+bhakṣayitvā.haviḥ.śeṣam.labdha.āśīḥ.saṃviśet.kṣapām.// RgV_3,28.146
+
+tatas.tu.karma.kṛtvā.idam.kartavyam.dvija.tarpaṇam./
+dvitīyām.striyām.nivarteta.yāvad.garbham.na.vindati.// RgV_3,28.147
+
+aputrā.mṛta.putrā.vā.yā.ca.kanyām.prasūyate./ RgV_3,28.148
+
+kṣipram.sā.janayet.putram.ṛṣyaśṛṅgo.yathā.abravīt.// RgV_3,29.148
+
+arcām.sampravakṣyāmi.viṣṇor.amita.tejasaḥ./
+yat.kṛtvā.munayaḥ.sarve.brahma.nirvāṇam.āpnuyuḥ.// RgV_3,29.149
+
+apsv.agnau.hṛdaye.sūrye.sthaṇḍile.pratimāsu.ca./
+ṣaṭsv.eteṣu.hareḥ.samyag.arcanam.munibhiḥ.smṛtam.// RgV_3,29.150
+
+agnau.kriyāvatām.devo.divi.devo.manīṣiṇām./
+pratimāsv.alpa.buddhīnām.yoginām.hṛdaye.hariḥ.// RgV_3,29.151
+
+āpo.hy.āyatanam.tasya.tasmāt.tāsu.sadā.hariḥ./
+tasya.sarva.gatatvāc.ca.sthaṇḍile.bhāvita.ātmanām.// RgV_3,29.152
+
+dadyāt.puruṣa.sūktena.yaḥ.puṣpāṇy.apa.eva.vā./
+arcitam.syāt.jagad.idam.tena.sarvam.cara.acaram.// RgV_3,29.153
+
+ānuṣṭubhasya.sūktasya.triṣṭub.antasya.devatā./
+puruṣo.yo.jagad.bījam.ṛṣir.nārāyaṇaḥ.smṛtaḥ.// RgV_3,29.154
+
+nārāyaṇa.mahā.bāho.śṛṇuṣva.eka.manāḥ.prabho./
+vakṣye.puruṣa.sūktasya.vidhānam.tv.arcanam.prati.// RgV_3,30.155
+
+agni.kāryam.japa.vidhim.stotram.caiva.sadātmakam./
+snātvā.yathā.ukta.vidhinā.prān.mukhaḥ.śuddha.mānasaḥ.// RgV_3,30.156
+
+prathamām.vinyased.vāme.dvitīyām.dakṣiṇe.kare./
+tṛtīyām.vāma.pāde.tu.caturthīm.dakṣiṇe.nyaset.// RgV_3,30.157
+
+pañcamī.vāma.jānuni.ṣaṣṭhim.vai.dakṣiṇe.nyaset./
+saptamīm.vāma.kaṭyām.tu.aṣṭamīm.dakṣiṇe.kaṭau.// RgV_3,30.158
+
+navamīm.nābhi.madhye.tu.daśamīm.hṛdaye.nyaset./
+ekādaśīm.kaṇṭha.deśe.dvādaśīm.vāma.bāhuke.// RgV_3,30.159
+
+trayodaśīm.dakṣiṇe.ca.āsye.caiva.caturdaśīm./
+akṣṇoḥ.pañcadaśīm.caiva.ṣoḍaśīm.mūrdhni.vinyaset.// RgV_3,30.160
+
+evam.nyāsa.vidhim.kṛtvā.paścāt.pūjām.samārabhet./
+yathā.dehe.tathā.deve.nyāsam.kṛtvā.vidhānataḥ.// RgV_3,31.161
+
+ādyayā.āvāhayed.devam.ṛcā.tu.puruṣa.uttamam./
+dvitīyayā.āsanam.dadyāt.pādyam.caiva.tṛtīyayā.// RgV_3,31.162
+
+arghyam.caturthyā.dātavyam.pañcamyā.ācamanīyakam./
+ṣaṣṭhyā.snānam.prakurvīta.saptamyā.vastram.eva.ca.// RgV_3,31.163
+
+yajña.upavītam.aṣṭamyā.navamyā.ca.anulepanam./
+puṣpam.daśamyā.dātavyam.ekādaśyā.tu.dhūpakam.// RgV_3,31.164
+
+dvādaśyā.dīpakam.dadyāt.trayodaśyā.nivedanam./
+caturdaśyā.namaskāram.pañcadaśyā.pradakṣiṇam.// RgV_3,31.165
+
+snāne.vastre.ca.naivedye.dadyād.ācamanīyakam./
+dakṣiṇām.tu.yathā.śaktyā.ṣoḍaśyā.tu.pradāpayet.// RgV_3,31.166
+
+tataḥ.pradakṣiṇām.kṛtvā.japam.kuryāt.samāhitaḥ./
+yathā.śakti.japitvā.tu.sūktam.tasya.nivedayet.// RgV_3,32.167
+
+devasya.dakṣiṇe.pārśve.kuṇḍam.sthaṇḍilam.eva.vā./
+kārayet.prathamena.eva.dvitīyena.tu.prokṣaṇam.// RgV_3,32.168
+
+tṛtīyena.agnim.ādadhyāc.caturthena.samindhanam./
+pañcamena.ājya.śrapaṇam.caroś.ca.śrapaṇam.tathā.// RgV_3,32.169
+
+ṣaṣṭhena.eva.agni.madhye.tu.kalpayet.padmam.āsanam./
+cintayed.deva.deva.īśam.kāla.anala.sama.prabham.// RgV_3,32.170
+
+tato.gandham.ca.puṣpam.ca.dhūpa.dīpa.nivedanam./
+anujñāpya.tataḥ.kuryāt.saptamy.ādi.yathā.kramam.// RgV_3,32.171
+
+samidhas.tāvatīḥ.pūrvam.juhuyād.abhidhāritāḥ./(?)
+tato.ghṛtena.juhuyāc.caruṇā.ca.tataḥ.punaḥ./ RgV_3,32.172
+
+evam.hutvā.tataś.caiva.anujñāpya.yathā.kramam.//
+agner.bhagavatas.tasya.samīpe.stotram.uccaret./ RgV_3,32.173
+
+jitam.te.puṇḍarīka.akṣa.namas.te.viśva.bhāvana./
+namas.te.astu.hṛṣīkeśa.mahā.puruṣa.pūrvaja.// RgV_3,33.174
+
+devānām.dānavānām.ca.sāmānyam.adhidaivatam./
+sarvadā.caraṇa.dvandvam.vrajāmi.śaraṇam.tava.// RgV_3,33.175
+
+ekas.tvam.asi.lokasya.sraṣṭā.saṃhārakas.tathā./
+avyaktaś.ca.anumantā.ca.guṇa.māyā.samāvṛtaḥ.// RgV_3,33.176
+
+saṃsāra.sāgaram.ghoram.anantam.kleśa.bhājanam./
+tvām.eva.śaraṇam.prāpya.nistaranti.manīṣiṇaḥ.// RgV_3,33.177
+
+na.te.rūpam.na.ca.ākāro.na.āyudhāni.na.ca.āspadam./
+tathā.api.puruṣa.ākāro.bhaktānām.tvam.prakāśase.// RgV_3,33.178
+
+na.eva.kiṃcit.parokṣam.te.pratyakṣo.asi.na.kasyacit./
+na.eva.kiṃcid.asādhyam.te.na.ca.sādhyo.asi.kasyacit.// RgV_3,33.179
+
+kāryāṇām.kāraṇam.pūrvam.vacasām.vāyam.uttamam./
+yoginām.parama.aiddhiḥ.paramam.te.padam.viduḥ.// RgV_3,34.180
+
+aham.bhīto.asmi.deva.īśa.saṃsāre.asmin.mahā.bhaye./
+trāhi.mām.puṇḍarīka.akṣa.na.jāne.paramam.padam.// RgV_3,34.181
+
+kāleṣv.api.ca.sarveṣu.diṣku.sarvāṣu.ca.acyuta./
+śarīre.ca.gataś.ca.asi.vartate.me.mahad.bhayam.// RgV_3,34.182
+
+tvat.pāda.kamalād.anyan.na.me.janma.antareṣv.api./
+vijñānam.yad.idam.prāpya.yad.idam.sthānam.arjitam.// RgV_3,34.183
+
+janma.antare.api.me.deva.mā.bhūd.asya.parikṣayaḥ./
+durgatāv.api.jātavya.tvad.gato.me.mano.rathaḥ.// RgV_3,34.184
+
+yadi.nāśam.na.vindeta.tāvatā.asmi.kṛtī.sadā./
+kāmaye.viṣṇu.pādau.tu.sarva.janmasu.kevalam.// RgV_3,34.185
+
+puruṣasya.hareḥ.sūktam.svargyam.dhanyam.yaśaskaram./
+ātma.jñānam.idam.puṇyam.yoga.jñānam.idam.param.// RgV_3,35.186
+
+phala.āhāro.bhaven.māsam.paśyaty.ātmānam.ātmani./
+phalāni.bhuktvā.upavasen.māsam.adbhiś.ca.vartayet.// RgV_3,35.187
+
+araṇye.nivasen.nityam.japann.etam.ṛṣim.sadā./
+tris.triṣavaṇa.kāleṣu.snāyād.apsu.samāhitaḥ.// RgV_3,35.188
+
+ādityam.upatiṣṭheta.sūktena.anena.nityaśaḥ./
+ājya.āhutor.anena.eva.hutvā.etam.cintayed.ṛṣim.// RgV_3,35.189
+
+ūrdhvam.māsāt.phala.āhāras.tribhir.varṣair.jayed.divam./
+tadbhaktas.tanmanā.yukto.daśa.varṣāṇy.ananya.bhāk.// RgV_3,35.190
+
+sākṣāt.paśyati.tam.devam.nārāyaṇam.anāmayam./
+grāhyam.atyanta.yatnena.sraṣṭāram.jagato.avyayam.// RgV_3,35.191
+
+gṛhastha.dharme.varteta.nyāya.klṛptaḥ.śuci.vrataḥ./
+etam.devam.cintayeta.nārāyaṇam.anāmayam.// RgV_3,36.192
+
+ardha.rātre.tyakta.nidra.utthāya.śuci.vāg.yataḥ./
+samprasupteṣu.bhūteṣu.yogam.yuñjīta.yogavit.// RgV_3,36.193
+
+ṛjv.āsīnaḥ.same.deśe.nivāte.śabda.varjite./
+savyam.pādam.dakṣiṇasya.jānuni.śleṣayet.tataḥ.// RgV_3,36.194
+
+saṃhṛtya.dakṣiṇam.pādam.savye.jānuni.yacchati./
+brahma.añjali.kṛtaḥ.svastho.yoga.sammīlita.īkṣaṇaḥ.// RgV_3,36.195
+
+om.ity.uktvā.svam.hṛdayam.cintayed.aviśaṅkitaḥ./
+tatra.ātmānam.samādadhyād.indriyāṇi.manas.tathā.// RgV_3,36.196
+
+na.ced.budhyeta.kiṃca.anyan.na.paśyec.śṛṇuyān.na.ca./
+na.manasyed.yadā.yogam.tadā.prāptaḥ.sa.ucyate.// RgV_3,37.197
+
+hṛdyam.etam.ṛṣim.abhyasyet.paśyann.iva.yathā.śruti./
+prāṇān.āyamya.ca.āsīno.yāvat.tam.cintayed.ṛṣim.// RgV_3,37.198
+
+ucchvasiṣyann.adho.nābhi.gamayitvā.manas.tathā./
+ucchvased.evam.asakṛt.tanmanā.yogam.unnayet.// RgV_3,37.199
+
+evam.hi.yuñjant.sāmānyam.na.paśyet.śṛṇuyān.na.ca./
+tadā.śanair.nayec.ceto.hṛdayād.ūrdhvam.eva.tu.// RgV_3,37.200
+
+samau.tu.jatrū.ca.āsyam.ca.nāsikā.nayane.bhruvau./
+bhruvor.madhye.param.sthānam.tatra.etad.dhārayet.sthiram.// RgV_3,37.201
+
+lalāṭa.deśe.dhārya.atha.mūrdhānam.gamayet.tataḥ./
+ucchvasaṃś.ca.yathā.kālam.nābhim.gatvā.ucchvaset.punaḥ.// RgV_3,38.202
+
+etat.param.sthānam.uktam.brahmaṇaḥ.paramātmanaḥ./
+evam.yukto.mahātmānam.ātmānam.pratipadyate.// RgV_3,38.203
+
+yadi.syāt.sukṛtī.śuddho.yadi.vā.pāpakṛttamaḥ./
+upalabhya.param.brahma.gatim.jñātvā.bhavet.śuciḥ.// RgV_3,38.204
+
+sarva.pāpa.anubaddhaś.ced.buddhvā.etat.prayato.japet./
+api.jijñāsanād.eva.gaccheta.paramām.gatim.// RgV_3,38.205
+
+dhāraṇā.tu.pṛthak.kāryā.dharmeṇa.anena.nityaśaḥ./
+āditye.agnau.candramasi.vṛkṣa.agreṣu.ca.dhārayet.// RgV_3,38.206
+
+parvata.agre.samudre.vā.yatra.vā.api.mano.rame./
+na.tv.eva.viṣayān.prāpya.dhārayīta.kathaṃcana.// RgV_3,39.207
+
+bahv.atra.duhkham.jānīyāt.pradhvaṃse.dhāraṇā.kṛte./
+dhārmikāṇām.kule.śuddhe.yoga.bhraṣṭo.abhijāyate.// RgV_3,39.208
+
+mūrdhni.brahma.yadā.vindet.tam.eva.ṛṣi.sattamam./
+tadā.mūrdhnaḥ.param.jyotir.nakṣatra.patham.unnayet.// RgV_3,39.209
+
+yogī.yoga.īśvaram.prāpya.nirdvandvaḥ.parama.ātmavit./
+sarvatra.eva.ātmanā.ātmānam.paśyed.ṛṣi.parāyaṇaḥ.// RgV_3,39.210
+
+japec.caiva.sadā.snātaḥ.pavitram.idam.uttamam./
+api.pātaka.samyuktaḥ.kālena.sukṛtī.bhavet.// RgV_3,39.211
+
+tapaḥ.parāyaṇo.nityam.satya.vāg.anasūyakaḥ./
+japann.etam.ṛṣim.vipraḥ.kālena.sa.vanī.bhavet.// RgV_3,40.212
+
+yena.yena.ca.kāmena.japed.imam.ṛṣim.sadā./
+sa.sa.kāmaḥ.samṛddhaḥ.syāt.śraddadhānasya.kurvataḥ.// RgV_3,40.213
+
+homam.vā.apy.athavā.jāpyam.upahāram.atho.carum./
+kurvīta.yena.kāmena.tat.siddhim.avadhārayet.// RgV_3,40.214
+
+jñāti.śraiṣṭhyam.mahad.vittam.yaśo.loke.parām.gatim./
+pāpena.vipramokṣas.tu.tat.siddhim.avadhārayet.// RgV_3,40.215
+
+jñāna.gamyam.param.sūkṣmam.vyāpya.sarvam.avasthitam./
+grāhyam.atyanta.yatnena.brahma.abhyety.sanātanam.// RgV_3,40.216
+
+sahasra.śīrṣā.iti.sūktam.sarva.kāma.phala.pradam./
+veda.garbha.śarīreṇa.sa.vai.nārāyaṇaḥ.smṛtaḥ.// RgV_3,40.217
+
+brahma.indu.rudra.parjanyā.atra.sūkte.vyavasthitāḥ./
+atrastham.etad.draṣṭavyam.jagat.sthāvara.jaṅgamam.// RgV_3,40.218
+
+anāsādayāmo.api.bhaktim.na.parihāpayet./
+bhakta.anukampī.bhagavān.śrūyate.puruṣa.uttamaḥ.// RgV_3,41.219
+
+pūjā.artham.tasya.devasya.vanyānt.svayam.upārjitān./
+āraṇyaka.vidhānena.nirvapet.pratyaham.carum./ RgV_3,41.220
+
+nārāyaṇāya.svāhā.iti.mantra.ante.juhuyādd.haviḥ.//
+āsahasrāt.tataś.cakṣur.divyam.hotur.dadāti.saḥ./ RgV_3,41.221
+
+api.vā.caru.sahasram.tantreṇa.ekena.nirvapet.//
+yāvanto.vā.api.śakyante.ahnā.sarvānt.samāpayet./ RgV_3,41.222
+
+sahasrasya.īpsitānām.ca.kāmānām.labhate.phalam.//
+puruṣa.āyuḥ.samāyuktaḥ.siddho.vā.api.caren.mahīm./ RgV_3,41.223
+
+dhyeyaḥ.sadā.savitṛ.maṇḍala.madhya.vartī.nārāyaṇaḥ.sarasija.āsana.samniviṣṭaḥ./
+keyūravān.makara.kuṇḍalavān.kirīṭī.hārī.hiraṇmaya.vapur.dhṛta.śaṅkha.cakraḥ.// RgV_3,42.224
+
+etat.tu.yaḥ.paṭhati.kevalam.eva.sūktam.nārāyaṇasya.caraṇāv.abhivandya.vandyau./
+pāṭhena.tena.paramena.sanātanasya.sthānam.jarā.maraṇa.varjitam.eti.viṣṇoḥ.// RgV_3,42.225
+
+haviṣā.agnau.jale.puṣpair.dhyānena.hṛday.harim./
+yajanti.sūrayo.nityam.japena.ravi.maṇḍale.// RgV_3,42.226
+
+bilva.patram.śamī.patram.patram.bhṛṅgārakasya.ca./
+mālatī.kuśa.padmam.ca.sadyas.tuṣṭi.karam.hareḥ.// RgV_3,43.227
+
+yan.na.upapadyate.kiṃcit.tam.dhyāyen.manasā.eva.tu./
+sampadyate.prasādāt.tu.deva.devasya.cakriṇaḥ.// RgV_3,43.228
+
+patraiś.ca.puṣpaiś.ca.toyair.akrīta.labdhairś.ca.sadā.eva.satsu./
+bhaktyā.eka.labhye.puruṣe.purāṇe.muktyai.kim.artham.kriyate.na.yatnaḥ.// RgV_3,43.229
+
+ity.evam.uktaḥ.puruṣasya.viṣṇor.arcā.vidhir.viṣṇu.kumāra.nāmnā./
+muktyā.eka.mārga.pratibodhanāya.dṛṣṭvā.vidhānam.tv.iha.nārada.uktam.// RgV_3,43.230
+
+yā.oṣadhīḥ.svastyayanam.japeta.nitya.vrataḥ./
+oṣadhīś.ca.jayen.nityam.ṣaṇ.māsān.eva.nityaśaḥ.//e RgV_3,43.231
+
+iṣṭvā.śaradi.vai.rudram.oṣadhīś.ca.yajet.tathā./
+tasya.āmayā.na.bhavanti.tathā.jīrṇāni.yāni.ca.// RgV_4,1.1
+
+kriyām.tu.sapta.rātreṇa.saptakṛtvo.abhyaset.tataḥ./
+prapadyeta.oṣadhīm.vipraḥ.sūktam.etaj.japant.sadā.// RgV_4,1.2
+
+dviṣat.kṣetrād.iha.āyadhvam.iti.vijñāpayeta.ca./
+sva.kṣetre.varuṇam.iṣṭvā.vindate.dviṣad.oṣadhīḥ.// RgV_4,1.3
+
+vṛṣṭi.kāmo.yata.āhāraḥ.prapadyeta.bṛhaspatim./
+pāyasena.upahāreṇa.homena.ca.samanvitaḥ.// RgV_4,1.4
+
+bṛhaspate.pati.ity.etad.vṛṣṭi.kāmaḥ.prayojayet./
+parjanyam.ca.namas.kṛtvā.vṛṣṭim.vindati.śobhanām.// RgV_4,1.5
+
+sarvatra.tu.parā.śāntir.jñeyo.apratirathas.tv.ṛṣiḥ./
+yam.eva.deśam.gaccheta.śatrum.vā.apy.anumantritaḥ.// RgV_4,2.6
+
+na.ajitvā.vinivarteta.param.hi.brahmaṇo.balam./
+sarva.kāmair.japed.etat.sarva.kāma.samṛddhaye.// RgV_4,2.7
+
+saṃgrāmam.abhyudyatāya.rājñe.ca.etat.prayojayet./
+sarvān.vijayate.śatrūn.na.parājīyate.paraiḥ.// RgV_4,2.8
+
+pathi.svastyayanam.ca.etat.taskarebhyaś.caran.pathi./
+bhūta.uraga.piśācebhyaḥ.sarvebhyaḥ.parirakṣati.// RgV_4,2.9
+
+bhūtāṃśam.kāśyapam.sūktam.prajā.kāmaḥ.śucir.japan./
+anurūpām.prajām.āśu.labhate.na.atra.saṃśayaḥ.// RgV_4,2.10
+
+sthālī.pākena.nāsatyāv.aśvinau.tu.jayed.dvijaḥ./
+anena.eva.tu.sūktena.hutvā.aśvān.anumantrayet.// RgV_4,3.11
+
+pāyasam.kṛsaram.māṃsam.odanam.dadhi.saktukān./
+kulmāṣāṃś.ca.karambhāṃś.ca.phalāni.vividhāni.ca.// RgV_4,3.12
+
+citram.mātryam.śubhān.gandhān.anna.pānāni.yāni.ca./
+bhakṣyam.bhojyam.ca.peyam.ca.samāhṛtya.udite.ravau.// RgV_4,3.13
+
+bhūtāṃśam.abhyaset.tāvad.yāvad.astamito.raviḥ./
+ardha.rātre.tv.atikrānte.tato.aśvibhyām.nivedayet.// RgV_4,3.14
+
+dīrgha.āyuṣam.surūpam.ca.labhet.putram.suvarcasam./
+rūpavāṃś.ca.bhaven.nityam.bhūtāṃśam.yo.abhyaset.sadā.// RgV_4,3.15
+
+sārvakāmim.ity.etam.ṛṣim.vidyād.vicakṣaṇaḥ./
+na.vā.u.devā.ity.etaj.japeta.niyata.vrataḥ.// RgV_4,4.16
+
+annam.vindati.sarvatra.yatra.yatra.upatiṣ]hati./
+pāpmā.upahatam.ātmānam.yo.manyeta.vicakṣaṇaḥ.// RgV_4,4.17
+
+sa.japen.niyato.bhūtvā.laghu.manyeta.pāpmanā./
+vācam.prapadyed.vāk.kāmo.juhvad.āśu.japann.imāḥ.// RgV_4,4.18
+
+aham.rudrebhir.ity.etad.vāgmī.bhavati.pūjitaḥ./
+natam.ity.aṣṭakam.sūktam.vaiśvadevam.japan.muniḥ.// RgV_4,4.19
+
+kṛtsnam.tu.kalmaṣam.hatvā.viśvair.devaiḥ.saha.āsate./
+rātrīm.prapadyeta.sadā.śuciś.cīrṇa.vrato.niśi.// RgV_4,4.20
+
+yaḥ.kāmayeta.na.punar.jāyeyam.iti.yoniṣu./
+sahasrakṛtvo.manasā.japed.rātrī.iti.rātri.su.// RgV_4,4.21
+
+sthālī.pākena.rātrīm.ca.yajeta.ahar.ahar.niśi./
+tanmanā.niśi.ca.āsīnas.tiṣṭhed.ahani.dhārmikaḥ.// RgV_4,4.22
+
+ūrdhvam.saṃvatsarāc.caiva.carum.payasi.saṃskṛtam./
+sahasrakṛtvas.tv.etena.divā.homo.vidhīyate.// RgV_4,5.23
+
+juhuyān.niśi.pūrvasmin.bhāge.rātri.samāhitaḥ./
+divā.ca.āvaśyakam.kāryam.chāyāyām.aṃśu.tejasā.// RgV_4,5.24
+
+iti.prayata.ātmavānt.sūktam.tu.manasā.japet./
+saṃvatsare.tṛtīye.tu.sarpiṣā.sādhayet.carum.// RgV_4,5.25
+
+atha.asya.varadā.devī.rātrir.bhavati.śarvarī./
+vijñāpayati.tām.devīm.varadām.svayam.āgatām.// RgV_4,5.26
+
+saṃvatsara.ṛtau.māsi.divase.asmin.kṣaṇe.api.vā./
+prayāṇa.kālo.bhavitā.tava.vatsa.iti.vatsalā.// RgV_4,5.27
+
+rātrī.sūktam.japann.eva.tam.kālam.pratipadyate./
+na.yonim.punar.āyāti.sarva.pāpaiḥ.pramucyate.// RgV_4,6.28
+
+mama.agne.varca.ity.etat.sarva.kāmair.japed.dvijaḥ./
+juhvad.ājyam.anena.eva.sarvān.kāmān.avāpnuyāt.// RgV_4,6.29
+
+yām.kalpayanti.iti.sadā.japeta.niyata.vrataḥ./
+na.enam.kṛtyā.nihiṃsanti.kruddha.abhicaritāni.ca.// RgV_4,6.30
+
+yamm.aṅgirasa.kalpais.tu.tadvido.abhicaranti.saḥ./
+pratyaṅgirasa.kalpena.sarvāṃs.tān.pratibādhate.// RgV_4,6.31
+
+pratyaṅgirasa.vidvāṃs.tu.na.riṣyeta.kadācana./
+na.enam.kṛtyā.nihiṃsanti.jñāta.ajñātāni.vā.kvacit.// RgV_4,6.32
+
+ajānatā.jānatā.vā.kruddhena.amarṣitena.vā./
+ākruṣṭam.vā.duruktam.vā.na.eno.liṇpati.tadvidam.// RgV_4,7.33
+
+evam.eva.japen.nityam.ṛṣim.svastyayanāya.vai./
+sarva.prāyaścittam.etad.abhāṣata.ṛṣiḥ.svayam.// RgV_4,7.34
+
+sthāvarāṇām.niveśe.tu.nagarāṇām.tathaiva.ca./
+grāmāṇām.ca.gṛhāṇām.ca.japed.imam.ṛṣim.sadā.// RgV_4,7.35
+
+jāta.rūpamayam.vidvān.kārayet.trivṛtam.maṇim./
+sahasra.sampāta.hutam.ṛṣiṇā.tena.tam.tataḥ.// RgV_4,7.36
+
+pratimuñceta.śirasi.grīvāyām.athavā.urasi./
+na.enam.kṛtyā.nihiṃsanti.jñāta.ajñātāni.yāni.ca.// RgV_4,7.37
+
+anena.eva.tu.sūktena.rājñām.ca.samalohitam./
+kārayeta.maṇim.vidvāṃs.tāvad.eva.anumantraṇam.// RgV_4,8.38
+
+saṃgrāmeṣu.dhvaja.agrāṇi.vāditrāṇy.anumantrayet./
+āsanāni.ca.śayyāś.ca.yānāni.vividhāni.ca.// RgV_4,8.39
+
+tasya.abhicarataḥ.sākṣād.āṅgirasa.ṛṣeḥ.svayam./
+pratyaṅgirasa.kalpena.sarvam.tat.pratibādhate.// RgV_4,8.40
+
+amānuṣīr.abhicaret.kṛtyā.sūktam.japann.idam./
+mucyate.sarvato.aniṣṭāt.kim.punar.mānuṣād.bhayam.// RgV_4,8.41
+
+tapasvī.niyato.dāntaḥ.prayoktā.ced.bhaved.ṛṣiḥ./
+sarvam.tarati.śānta.ātmā.tapo.hi.sumahad.balam.// RgV_4,8.42
+
+āyuṣyam.āyur.varcasyam.sūktam.dākṣāyaṇam.mahat./
+alaṃkāram.hiraṇyam.vā.prāpya.dākṣāyaṇam.japet.// RgV_4,9.43
+
+prāptam.ca.śriyam.ādatte.bahu.ca.annam.samaśnute./
+na.asad.āsīd.iti.japej.juhuyād.yoga.tatparaḥ.// RgV_4,9.44
+
+prajāpates.tu.sāyojyam.dvādaśa.abdaiḥ.samaśnute./
+uta.devā.iti.japed.āmayāvī.yata.vrataḥ.// RgV_4,9.45
+
+ghṛta.kumbham.nidhāya.atha.juhuyāj.jāta.vedasi./
+kumbhāt.sampātam.anyasmin.kāṃsya.pātre.nidhāpayet.// RgV_4,9.46
+
+yo.annāya.alam.na.ca.annam.syāt.sa.idam.samprakalpayet./
+tena.ājyena.aṅgam.abhyajya.śanakair.anna.bhāg.bhavet.// RgV_4,9.47
+
+roga.ārtasya.apy.anena.eva.gātram.aṅktvā.japed.idam./
+ajīrṇān.no.apy.añjayīta.sukham.bhavati.tena.ha.// RgV_4,9.48
+
+agne.acchā.vada.ity.etad.dhana.kāmaḥ.prayojayet./
+niyataḥ.sarpiṣā.hutvā.japed.ayutaśaḥ.punaḥ.// RgV_4,10.49
+
+khādirīṇām.hi.samidhām.juhuyād.daśatīr.daśa./
+daśakṛtvaḥ.sadāreṇa.rāyas.poṣeṇa.puṣyati.// RgV_4,10.50
+
+bilva.udumbara.pālāśīs.tathā.rauhītakīś.ca.yāḥ./
+juhuyād.dhana.kāmas.tu.rāyas.poṣeṇa.puṣyati.// RgV_4,10.51
+
+vaibhītaka.idhmo.bailvakīr.juhuyād.ardha.māsabhuk./
+dviṣad.dveṣeṇa.tasya.ante.sūktam.etat.prayojayet.// RgV_4,10.52
+
+dviṣantam.dhaninam.hatvā.dviṣato.vindate.dhanam./
+athavā.japyam.eva.syād.rāyas.poṣa.dhana.arthinā.// RgV_4,10.53
+
+ayam.agne.jaritā.iti.japed.agni.bhaye.sati./
+vidhinā.tarpayitvā.agnim.payo.dadhi.ghṛta.ādibhiḥ.// RgV_4,11.54
+
+svayam.pātum.yāvad.icchet.tāvad.gatvā.catur.diśam./
+apām.idam.pariṇayet.saṃtata.udaka.dhārayā.// RgV_4,11.55
+
+uda.hrada.iva.bhūtvā.agner.bheṣajam.antikāt./
+araṇyam.etya.pāṭhām.tu.krīṇīyād.yava.muṣṭinā.// RgV_4,11.56
+
+yadi.saumy.asi.somāya.tvā.parikrīṇāmy.oṣadhim./
+yadi.vāruṇy.asy.varuṇāya.tvā.parikrīṇāmy.aham.tataḥ.// RgV_4,11.57
+
+vasubhyo.athavā.rudrebhya.ādityebhyo.athavā.punaḥ./
+vaiśvadevy.asi.viśvebhyaḥ.parikrīṇāmy.aham.tataḥ.// RgV_4,11.58
+
+kṣiptvā.sumanasaḥ.pūrvam.oṣadhyā.saha.vīrudhi./
+tasyā.vīryam.samādatte.karma.yatra.kariṣyati.// RgV_4,11.59
+
+tām.tu.madhye.nidadhīta.oṣadhīnām.vihāyasi./
+grahaṇe.tv.oṣadhīnām.tu.sarvatra.eṣa.vidhir.bhavet.// RgV_4,11.60
+
+utkhāpayīta.tām.pāṭhām.imām.iti.japann.iha./
+prātaś.ca.peṣayed.enām.saṃsadi.brahma.cāriṇā.// RgV_4,12.61
+
+tad.alābhe.vratavatā.kanyayā.brāhmaṇena.vā./
+prātaḥ.śucis.tām.ghṛtena.triḥ.pibed.anumantritām.// RgV_4,12.62
+
+imām.iti.tu.sūktena.śatakṛtvo.daśa.avaram./
+sapatnīm.bādhate.tena.patiś.ca.atīva.manyate.// RgV_4,12.63
+
+patis.tu.parijapya.enām.pāṭhām.etena.vai.pibet./
+payasā.sapta.rātram.tu.sapatnān.pratibādhate.// RgV_4,12.64
+
+mūla.mantra.japair.anyair.yā.patim.jetum.icchati./
+alokā.yama.lokasthā.majjate.narake.hi.sā.// RgV_4,12.65
+
+anyathā.ca.upanītāni.cūrṇa.mūla.auṣadhāny.api./
+vināśayeyuḥ.puruṣam.tasmān.na.anyat.samācaret.// RgV_4,13.66
+
+priyam.vadā.bhartari.yā.bhartā.yasyāḥ.parāyaṇam./
+vāk.caiva.madhurā.yasyāḥ.patyuḥ.saṃvananam.mahat.// RgV_4,13.67
+
+priyam.bhartāram.āsādya.pibed.eva.oṣadhīm.imām./
+priyaṃvadām.dharma.parām.dharma.patnīm.aninditām.// RgV_4,13.68
+
+avamanyeta.yo.mohāt.tam.āhuḥ.puruṣa.adhamam./
+araṇyānī.ity.araṇyeṣu.japet.sūktam.anekaśaḥ.// RgV_4,13.69
+
+araṇyānīm.namas.kṛtvā.so.araṇyāt.pramucyate./
+śraddhā.sūktam.japen.nityam.śraddhā.kāmaḥ.samāhitaḥ.// RgV_4,13.70
+
+sarvatra.labhate.śraddhām.medhā.sūktam.tathaiva.ca./
+brāhmīm.āsādya.sūkte.dve.japeta.niyata.vrataḥ.// RgV_4,14.71
+
+tām.pibet.tu.yathā.śaktyā.tryahāt.siddhim.niyacchati./
+śaṅkha.puṣpīm.tu.payasā.brāhmī.puṣpāṇi.sarpiṣā.// RgV_4,14.72
+
+śata.avarīm.tu.payasā.varcām.adbhir.ghṛtena.vā./(?)
+sūktābhyām.anumantrya.ābhyām.eka.ekām.tryaham.pibet.// RgV_4,14.73
+
+śraddhām.medhām.smṛtim.puṣṭim.balam.lakṣmīm.ca.vindati./
+siddhim.prāpnoti.ca.parām.dīrgham.ca.āyuḥ.samaśnute.// RgV_4,14.74
+
+athavā.manasā.dhyāyet.sūkte.siddhim.niyacchati./
+śāma.itthā.sapatnaghnam.saṃgrāmam.vijigīṣataḥ.// RgV_4,14.75
+
+prayoktavyam.tu.śucinā.juhuyāt.tatra.siddhaye./
+athavā.japyam.eva.syāt.saṃgrāmam.abhigacchataḥ.// RgV_4,15.76
+
+śāma.itthā.iti.yo.hantum.śatrūnt.sarvān.nivārayet./
+alakṣmī.nāśana.artham.tu.japen.nityam.śirimbiṭam.// RgV_4,15.77
+
+apāmārgamayīm.śākhām.sadarbhām.saha.vīrudhām./
+gṛhītvā.ātmānam.pāvayed.adhaś.ca.ūrdhvam.ca.nityaśaḥ.// RgV_4,15.78
+
+ājyam.ca.anena.juhuyāt.sahasram.daśatīr.daśa./
+tryaheṇa.nudate.dehād.alakṣmīm.śatavārṣikīm.// RgV_4,15.79
+
+cāndrāyaṇam.carann.etat.sūktam.siddhikaram.japet./
+alakṣmīm.nudate.dehād.api.varṣa.sahasrakīm.// RgV_4,15.80
+
+gṛhītam.yakṣmaṇā.darbhān.gṛhītvā.saṃspṛśan.japet./
+muñcāmi.tvā.haviṣā.iti.yakṣmāṇam.apakarṣati.// RgV_4,16.81
+
+samiddham.agim.juhuyād.ājyena.eva.yathā.vidhi./
+sampātam.ājye.ninayet.sampātaiś.ca.payaḥ.pibet.// RgV_4,16.82
+
+sampāta.bhājane.sarpiś.cūrṇam.tatra.nidhāpayet./
+tatra.asya.bhojanīyam.syāt.pānīyam.ca.anumantritam.// RgV_4,16.83
+
+khādirāṇi.ca.kāṣṭhāni.cūrṇam.kṛtvā.saha.ambubhiḥ./
+śodhayīta.rasam.ca.iṣām.madhv.ājyābhyām.pibet.saha.// RgV_4,16.84
+
+muñcāmi.tvā.haviṣā.iti.tatra.tatra.prayojayet./
+yakṣmāṇam.apakarṣanti.śarīrāt.tena.karmaṇā.// RgV_4,16.85
+
+yasyāḥ.garbhaḥ.pramīyeta.tatra.agnau.juhuyādd.haviḥ./
+brahmaṇā.agniḥ.saṃvidāna.ity.ājyena.yathā.vidhi.// RgV_4,17.86
+
+ājya.śeṣeṇa.ca.abhyajya.garbhiṇī.prasavet.tataḥ./
+pibed.eva.ājya.śeṣam.tu.jīvaṃs.tasyāḥ.prajāyate.// RgV_4,17.87
+
+jātāni.cet.pramīyerann.ājyam.kṛtvā.anumantritam./
+juhuyād.brahmaṇā.agnir.iti.sampātān.ninayen.maṇau.// RgV_4,17.88
+
+maṇim.tu.trivṛti.sūtre.vāsayed.vāsasā.saha./
+nyagrodha.śuṅgayā.tatra.śukla.lohita.veṣṭitam.// RgV_4,17.89
+
+tam.sāvitry.ayutena.eva.anumantrya.yathā.vidhi./
+sampātair.ayutena.eva.brahmaṇā.iti.ca.saṃstutam.// RgV_4,17.90
+
+upariṣṭāc.ca.sāvitryā.tāvad.eva.anumantraṇam./
+sarvaiḥ.svastyayanaiś.ca.etaj.japed.abhihutam.maṇim.// RgV_4,18.91
+
+śirasā.dhārayen.nārī.prayatā.garbhiṇī.satī./
+tṛtīye.garbha.māse.tu.maṇim.etam.samāsajet.// RgV_4,18.92
+
+puṣpavatī.śaradam.nārī.gauḥ.savatsā.vased.yathā./
+bahu.pānīya.yavasā.vatsena.pibatā.saha.// RgV_4,18.93
+
+jātasya.tu.kumārasya.kaṇṭhe.tam.maṇim.āsajet./
+ājya.śeṣam.puraskṛtya.tam.abhyajya.kumārakam.// RgV_4,18.94
+
+hutvā.svastyayanair.eva.strī.pumāṃsam.prasūyate./
+ūrdhvam.varṣāt.svastyayanam.punar.eva.vidhīyate.// RgV_4,18.95
+
+puraḥ.stana.pradānāt.tam.śraddhā.sūktena.pāyayet./
+medhā.sūktena.caiva.enam.piṣṭam.vrīhimayam.carum.// RgV_4,19.96
+
+madhu.miśram.jāta.rūpam.medhāvī.tena.jāyate./
+śatam.varṣāṇi.jīvet.ṃriyate.na.purā.āyuṣaḥ.// RgV_4,19.97
+
+smṛtam.eva.tasya.syāt.ṣaṇ.māsāc.ca.tataḥ.param./
+ājyam.saṃskṛtya.juhuyād.akṣibhyām.ta.iti.dvijaḥ.// RgV_4,19.98
+
+pāṇinā.tu.ghṛta.aktena.mūrdhānam.saṃspṛśet.tataḥ./
+karṇau.netre.ca.chubukam.nāsike.caiva.saṃspṛśet.// RgV_4,19.99
+
+evam.eva.japen.nityam.yakṣmaṇo.vipramucyate./
+pūrva.uktena.eva.kalpena.yakṣma.nāśanam.ācaret.// RgV_4,19.100
+
+homena.ca.japaiś.caiva.yakṣam.nāśanam.ācaret./
+apehi.iti.ca.japet.sūktam.śucir.duhsvapna.nāśanam.// RgV_4,20.101
+
+devāḥ.kapota.iti.tu.kapotasya.upaveśane./
+sūktena.juhuyād.ājyam.yama.dūtam.hi.tam.viduḥ.// RgV_4,20.102
+
+sapatnaghnam.prayuñjīta.ṛṣabham.japa.homayoḥ./
+yena.idam.iti.vai.nityam.japeta.niyata.vrataḥ.// RgV_4,20.103
+
+samādhim.manasas.tena.vindate.na.eva.muhyati./
+mayo.bhūr.vāta.iti.tu.gavām.svastyayane.japet.// RgV_4,20.104
+
+yavānām.tu.ghṛta.aktānām.kārīṣe.agnau.samāhitaḥ./
+juhuyād.goṣṭha.madhye.tu.dadhi.madhv.ājya.saṃskṛtān.// RgV_4,20.105
+
+rājānam.abhiṣiñceta.tiṣyeṇa.śravaṇena.vā./
+pauṣṇa.sāvitra.saumya.aśvi.rohiṇīṣu.uttarāsu.ca.// RgV_4,21.106
+
+hutvā.agnim.rāja.liṅgābhiḥ.sāvitryā.prayataḥ.śuciḥ./
+mahā.vyāhṛtibhiś.caiva.sampāta.abhihuto.bhavet.// RgV_4,21.107
+
+sarva.oṣadhi.rasaiḥ.ślakṣṇair.nadīnām.salilena.ca./
+vyāghra.carmaṇy.atha.āsīnam.āsandyām.abhiṣicya.ca.// RgV_4,21.108
+
+tiṣṭhan.pratyan.mukho.brūyāj.jaya.tvam.pṛthivīm.imām./
+dharmas.te.nikhilo.rājan.vardhatām.pālayan.prajāḥ.// RgV_4,21.109
+
+vardhasva.tvam.śriyai.puṣṭyai.jayāya.abhyudayāya.ca./
+rājānaḥ.santu.te.gotre.tato.apratiratham.japet.// RgV_4,21.110
+
+vaiyāghram.tu.bhavet.carma.samid.audumbarī.bhavet./
+tir.enam.abhiṣicya.evam.dundubhīn.abhimantrayet.// RgV_4,22.111
+
+prācyām.tvā.diśi.vasavo.abhiṣiñcantu.tejase./
+dakṣiṇasyām.tvā.diśi.rudrā.abhiṣiñcantu.vṛddhaye.// RgV_4,22.112
+
+pratīcyām.tvā.diśy.ādityā.abhiṣiñcantu.puṣṭaye./
+viśvedevā.udīcyām.tu.abhiṣiñcantu.śreyase.// RgV_4,22.113
+
+abhiṣicya.ca.rājānam.āśīrbhir.abhinandya.ca./
+ā.tvā.ahārṣam.antaredhī.ity.atha.enam.abhimantrayet.// RgV_4,22.114
+
+pataṅgam.iti.nityam.tu.japed.ajñāna.bhedanam./
+māyā.bhedanam.etadd.hi.sarva.māyāḥ.prabādhate.// RgV_4,22.115
+
+śāmbarīm.indra.jālām.vā.māyām.etena.vārayet./
+adṛṣṭānām.ca.sattvānām.māyām.etena.bādhate.// RgV_4,23.116
+
+tyamūṣv.iti.svastyayanam.japeta.niyata.vrataḥ./
+puṣpam.dṛṣṭvā.tu.yā.garbham.na.gṛhṇīyād.vayo.anvitā.// RgV_4,23.117
+
+viṣṇur.yonim.nejameṣa.yonim.spṛṣṭvā.tato.japet./
+mahi.trīṇām.avo.astv.iti.pathi.svastyayane.japet.// RgV_4,23.118
+
+pra.agnaye.atha.dviṣad.dveṣyam.japed.dveṣasya.niṣkṛtim./
+āyam.gauḥ.sārparājñīs.tu.sarvān.etena.bādhate.// RgV_4,23.119
+
+pavitrāṇām.pavitram.tu.japed.eva.aghamarṣaṇam./
+apaḥ.praviśya.yaś.ca.etat.triḥ.paṭhet.susamāhitaḥ.// RgV_4,23.120
+
+yathā.aśva.medha.avabhṛthas.tādṛśam.manur.abravīt./
+yathā.aśva.medhaḥ.kratu.rāṭ.sarva.pāpa.praṇodanaḥ.// RgV_4,24.121
+
+tathā.aghamarṣaṇam.sūktam.sarva.pāpa.praṇodanam./
+senā.dāraṇam.etat.syān.nairhastyam.iti.śaunakaḥ.// RgV_4,24.122
+
+manasādhyeyam.etat.tu.manyate.śaunakas.tv.ṛṣiḥ./
+sam.samid.yuvase.vṛṣan.saubhrātṛ.karaṇam.mahat.// RgV_4,24.123
+
+jñāti.bhede.prayuñjīta.na.bhidyante.kadācana./
+kṛte.bhede.tu.saṃjñānam.etat.saṃdhi.karam.japet.// RgV_4,24.124
+
+na.tatra.bhedo.bhūyaḥ.syād.yatra.etat.satatam.japet./
+tac.śamyor.ā.vṛṇīmaha.iti.svastyayane.japet.// RgV_4,24.125
+
+mahānāmnyaḥ.param.brahma.śukram.jyotiḥ.sanātanam./
+sapatnaghnyaś.ca.puṇyāś.ca.pāvamānyaḥ.parāḥ.smṛtāḥ.// RgV_4,25.126
+
+vṛṣṭi.kāmo.japec.ca.etā.āpo.hi.ṣṭhāḥ.sanātanāḥ./
+om.kāra.pūrvā.vyāhṛtayo.madhucchandasa.āditaḥ.// RgV_4,25.127
+
+sūktāny.ante.mahānāmnyaḥ.saṃhitā.sā.amṛtā.smṛtā./
+amṛtatvam.yayur.devāḥ.pūrvam.sahitayā.anayā.// RgV_4,25.128
+
+japed.etām.śucir.nityam.amṛtatvam.sa.gacchati./
+atra.eva.tv.āvapen.madhye.pitṛ.sūktāny.anekaśaḥ.// RgV_4,25.129
+
+pitryām.tām.saṃhitām.vidyāt.pitṝn.prīṇāti.ca.etayā./
+evam.eva.samāhṛtya.vāsavī.saṃhitā.bhavet.// RgV_4,25.130
+
+raudra.ādityā.vaiśvadevī.yad.devatyām.ca.kāmayet./
+kurvīta.vāstu.śamanam.madhye.goṣṭhasya.dharmavit.// RgV_4,25.131
+
+puṣpair.gandhairś.ca.mālyaiś.ca.vānaspatyais.tathā.auṣadhaiḥ./
+vāstu.sarvam.pratikiret.sapta.dhānyais.tathaiva.ca.// RgV_4,26.132
+
+vāstoṣpatim.yajec.ca.atra.pāyasena.bṛhaspatim./
+audumbara.palāśaiś.ca.balim.pratidiśam.haret.// RgV_4,26.133
+
+sūryo.vāyur.yamaḥ.pitaro.varuṇo.nirṛtis.tathā./
+somo.mahā.indra.ity.etā.dikṣu.vai.devatāḥ.smṛtāḥ.// RgV_4,26.134
+
+dadyād.dānam.brāhmaṇebhyaḥ.śivam.bhavati.vāstuni./
+pratisaṃvatsaram.kāryam.gṛhe.vai.gṛhamedhinā.// RgV_4,26.135
+
+yady.evam.savidham.ca.anyad.anuktam.api.kiṃcana./
+agnim.indram.atho.vāyum.sūryam.anyāś.ca.devatāḥ.// RgV_4,26.136
+
+ārirādhāyaṣur.yām.yām.abhidhāveta.devatām./
+abhirūpeṇa.sūktena.yathā.ādiṣṭam.prayojanam.// RgV_4,27.137
+
+ṛṣīṇām.mantra.dṛṣṭena.pratyakṣā.siddhir.iṣyate./
+sarvatra.dakṣiṇām.dadyād.dhanam.vā.karma.siddhaye.// RgV_4,27.138
+
+na.tv.eva.adakṣiṇam.karma.kiṃcid.asti.iti.śaunakaḥ./
+śaktyā.hi.pūrṇa.pātreṇa.sammitā.apy.antato.bhavet.// RgV_4,27.139
+
+tasmāt.svalpā.api.dātavyā.dakṣiṇā.karma.siddhaye./
+ṛṣabha.ekādaśā.dadyād.yena.vā.tuṣyate.guruḥ./ RgV_4,27.140
+
+dharmajñe.satya.vādini.brahma.dānam.ca.dīyate.//
+tad.idam.param.brahma.guhyam.pāvanam.adbhutam./ RgV_4,27.141
+
+na.apraśāntāya.dātavyam.na.aputrāya.atapasvine./
+na.asaṃvatsara.uṣitāya.na.aśiṣyāya.ahitāya.ca.// RgV_4,27.142
+
+narāṇām.bhāgya.hīnānām.ṛgvidhānam.ajānatām./
+ṛgvedaḥ.kalpa.vṛkṣo.ayam.phalam.naiva.prayacchati.// RgV_5,1.1
+
+ratna.garbha;iva.āvāsa;ṛgvedaḥ.pratibhāti.me./
+ṛgvidhāna.pardīpena.vinā.naiva.prakāśate.// RgV_5,1.2
+
+ratnākara;iva.udāra;ṛgvedo.atyanta.duṣṭaraḥ./
+ṛgvidhāna.mahā.potam.vinā.naiva.phala.pradaḥ.// RgV_5,1.3
+nidhānam.sarva.ratnānām.ṛgvedo..brahma.mandiram./
+ṛgvedaḥ.pathito.hy.eṣa.nṛṇām.bhavati.nihphalaḥ./
+ṛgvidhānam.vinā.tasmād.adhyeyam.tat.prayatnataḥ.// RgV_5,1.5
+
+sūkta.tattva.artha.kathanam.ṛgvidhānam.avaiti.yaḥ./
+ṛgvedo.jāyate.tasya.prasādāt.phulla.mānasaḥ.// RgV_5,2.1
+
+āyuṣyam.sampado.mūlam.sarva.kalmaṣa.nāśanam./
+ṛgvidhāna.abhyanuṣṭhānam.śubhra.kīrti.karam.param.// RgV_5,2.2
+
+ṛgvidhānena.samyuktam.ṛgvedam.vetti.yo.dvijaḥ./
+dharma.artha.kāma.mokṣāṇām.āśrayaḥ.sa.bhaved.dhruvam.// RgV_5,2.3
+
+vedeṣu.prathamo.veda;āyurveda.nidhiḥ.prabhuḥ./
+ṛgvidhāna.sadābhyāsād atīva.paritu;syati.// RgV_5,2.4
+
+śatru.nāśam.manas.tuṣṭim.suhṛj.jana.samāgamān./
+ṛgvedaḥ.prayantā.nityam.ṛgvidhānena.toṣitaḥ.// RgV_5,2.5
+
+ṛgvedam.vetti.yaḥ.sāṅgam.ṛgvidhāna.rataḥ.sadā./
+mano.rathād.apy.adhikam.bhavet.tasya.samīhitam.// RgV_5,3.1
+
+kule.janmani.śīle.vā.prajñāyām.udyame.api.ca./
+ṛgvidhāna.parijñānād.uśanti.carita.arthatām.// RgV_5,3.2
+
+tuṣyanti.devatāḥ.sarvāḥ.sampadyante.vibhūtayaḥ./
+durādhayaḥ.praṇaśyanti.nityam.ṛg.vidhi.pāṭhinām.// RgV_5,3.3
+
+yādṛśam.pustakam.dṛṣṭvā.tādṛśam.likhitam.mayā./
+yadi.śuddham.aśuddham.vā.mama.doṣo.na.dīyate./
+ārṣam.yo.vilikhitvā.tu.brāhmaṇebhyaḥ.prayacchati./
+pitaras.tasya.vaikuṇṭhe.vasanty.akṣara.saṃkhyayā./
+bhagna.pṛṣṭi.kaṭi.grīvā.baddha.muṣṭir.adho.mukham./
+kaṣṭena.likhitam.cedam.yatnena.paripālayet./
+tailād.rakṣej.jalād.rakṣed.rakṣet.śithila.bandhanāt./
+para.haste.gatām.rakṣed.evam.vadati.pustikā./

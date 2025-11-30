@@ -1,0 +1,61 @@
+Prince of Koṭiliṅgapura: Hetvābhāsadaśaka
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_hetvAbhAsadazaka.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Venkata Raghavan
+## Contribution: Venkata Raghavan
+## Date of this version: 2020-01-06
+
+## Source: 
+   - V. Varadachari: »Hetvābhāsa-daśakam by a Prince of Koṭiliṅgapura.« In: Rasiklal C. Parikh (ed.) et al.: Acharya Dhruva Smaraka Grantha. Ahmedabad 1946, pp. 213-221.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Hetvābhāsadaśaka = hetvād,
+   - the number of the verse in arabic numerals.
+
+
+# Text
+
+tvaṃ ruṣṭā mayi cen namāmi bhavatīṃ neyaṃ tvayā namyatāṃ namyatvaṃ tvayi bhāti pārthivatayā manye mahārājavat /
+kumbhādiṣv ativartanāt tvaduditaṃ sādhāraṇaṃ sādhanaṃ vāgvādeṣv iti nirjito dayitayā rāmaḥ sukhaṃ rātu vaḥ // hetvād_1
+
+kṛṣṇaḥ puṣṇātu saukhyaṃ sumukhi sumukhatāṃ yāhi yāhi priyāṃ tām anyāsaktaṃ kuto māṃ kalaṣasi dayite kevalaṃ tvatsvabhāvāt /
+yady evaṃ mugdhatā te karaṇam idam asādhāraṇaṃ pakṣamātre vṛttatvād ity akasmāt praṇayakalahitāṃ rādhikāṃ sāntvayan vaḥ // hetvād_2
+
+sarvaṃ vastu sukhāvahaṃ tava punaḥ kautaskutīyaṃ vyathā kasmād evam udīryate jagad idaṃ yat tanmayaṃ bhāṣase /
+hetus savyabhicāra eṣa virahāt dṛṣṭāntayor ity ayaṃ saṃlāpas saha lakṣmaṇena viyujaḥ sītāpateḥ pātu vaḥ // hetvād_3
+
+bhīto 'haṃ virahī tuṣārakiraṇāt so 'yaṃ samujjṛmbhate vijñātaḥ katham eṣa te mama yatas tāpaṃ karoty uccakaiḥ /
+liṅgāt ko 'numinoti sādhyavirahavyāptād iyaṃ mugdhatā mā bhaiṣīr iti pātu vo raghupatis saumitriṇā sāntvitaḥ // hetvād_4
+
+kā bhītis tava candrato raghupate doṣākaratvād asāv āsaktaḥ parapīḍane piśunavan naivaṃ kutaḥ kathyate /
+hetuḥ satpratipakṣa eṣa yad ayaṃ sadvṛttatāṃ gāhate sodaryeṇa nirastabhīr iti sukhaṃ puṣṇātu vo rāghavaḥ // hetvād_5
+
+mithyeyaṃ virahavyathā tava mudaṃ datte purovartinī māyāmaithilakanyakā priyatamābhāvena satyeva sā /
+ity uktaḥ sahajena sāntvanavidhau hetor amuṣyāśrayāsiddhatvaṃ pratipādayann avatu vaḥ śrījānakīvallabhaḥ // hetvād_6
+
+cittaṃ me cittajanmā vidalayati śaraiḥ svāśrayaṃ nāśayet kaḥ sthūlatvāc cetaso 'sau kim iva na kurute nirvicārapravṛttaḥ /
+āhuś ceto 'ṇumānaṃ katham iha bhavati sthūlatā tatsvarūpāsiddho 'yaṃ hetur evaṃ daśarathasutayoḥ pātu saṃbhāṣitaṃ vaḥ // hetvād_7
+
+vadhyetāṃ śukasāraṇau na hi tayor vadhyatvam asty eva tat rakṣastvād daśakandharādivad ayaṃ hetus sahopādhikaḥ /
+sadrohatvam upādhir atra sugamaḥ śeṣas tvayā cintyatām ity ādityasutoktikhaṇḍanakaraḥ śrīrāghavaḥ pātu vaḥ // hetvād_8
+
+jayyo rāghava eṣa mānuṣatayā tadbhakṣibhīr yātubhiḥ naivaṃ bādhita eva hetur uditaḥ pratyakṣamānena hi /
+kva pratyakṣam idaṃ kharādinihatāv ity agrajasyāgrato diśyāt tanmatabhidvibhīṣaṇasamudgītas sukhaṃ rāghavaḥ // hetvād_9
+
+ajñātvā hṛdgataṃ te katham abhilaṣitaṃ prārthaye bhāmini tvāṃ nanv etasmāt kaṭākṣād anuminu hṛdaye rāga eveti cen na /
+hetus sopādhiko 'yaṃ bhavati gurutaro hrībharo 'sminn upādhiḥ sādhyavyāpī priyādau sa khalu raṇamukhe sādhanāvyāpakaś ca // hetvād_10
+
+koṭiliṃgapure vāsī yuvarājo mahākaviḥ /
+hetvābhāsam udājahre daśaślokaiḥ satāṃ mude // 

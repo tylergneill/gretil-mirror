@@ -1,0 +1,59 @@
+Devatāsūtra and Alpadevatāsūtra
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_devatAsUtra-and-alpadevatAsUtra.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Klaus Wille
+## Contribution: Klaus Wille
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Adelheid Mette: "Zwei kleine Fragmente aus Gilgit", Studien zur Indologie und Iranistik 7 (1981), pp. 133-151.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Devatāsūtra and Alpadevatāsūtra = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from dvtasutu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Devatasutra (GBM 1542.5 - 1545.3) = Ds
+Alpadevatasutra (GBM 1545.3 - 1545.8)
+Based on the ed. by Adelheid Mette: "Zwei kleine Fragmente aus Gilgit",
+Studien zur Indologie und Iranistik 7 (1981), pp. 133-151.
+Input by Klaus Wille (Göttingen)
+NOTE:
+BOLD for first akṣara of new line (and references)
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+devatāsūtra (gbm 1542.5)
+
+ evaṃ mayā śrutam ekasmiṃ samaye bhagavāṃ cchrāvastyāṃ viharati sma (ds; gbm 1542.6) jetavane 'nāthapiṇḍadasyārāme athānyatamā devatā atikrāntavarṇā atikrāntāyāṃ rātryāṃ yena bhagavāṃs tenopasaṃkrāntā (ds; gbm 1542.7) upasaṃkramya bhagavataḥ pādau śirasā vanditvā ekānte niṣaṇṇā / atha tasyā devatāyā varṇānubhāvena sarvaṃ jetavanaṃ udāreṇāvabhāsena (ds; gbm 1542.8) sphuṭam abhūt / ekānte niṣaṇṇā sā devatā tasyāṃ velāyām imāṃ gāthām abhāṣata kiṃ nu taṃ niśitaṃ śastraṃ kiṃ vā hālāhalaṃ viṣaṃ / ko nu prajvālito vahni kiṃ vā tad dāruṇaṃ tamaḥ 1 (ds; gbm 1543.1) bhagavān āha / duṣṭā vāṅ niśitaṃ śastraṃ rāgo hālāhalaṃ viṣaṃ / dveṣaḥ prajvālito vahni 'vidyā tad dāruṇaṃ tamaḥ 2 devatā prāha (ds; gbm 1543.2) gṛhītaṃ kiṃ nu martyena kiṃ vā tad yad ihojjhitaṃ /  abhedyaṃ kavacaṃ kiṃ nu kiṃ vā tīkṣṇam ihāyudhaṃ / 3 bhagavān āha / gṛhītaṃ yat svayaṃ dattaṃ yad gṛhe tad ihojjhitaṃ / (ds; gbm 1543.3)  abhedyaṃ kavacaṃ kṣānti prajñā tīkṣṇam ihāyudham / 4 devatā prāha / ko nv asau procyate cauro dhanaṃ kiṃ vā satāṃ mataṃ / ke vā sadevake loke procyante muṣitā iti / 5 (ds; gbm 1543.4) bhagavān āha / vitarkaḥ kuśalaś cauro dhanaṃ śīlaṃ satāṃ mataṃ / te cāpi muṣitā loke yaiḥ śīlaṃ vinipātitam / 6 (ds; gbm 1543.5) devatā prāha / ko nv asau sukhito jñeya ko vā yaḥ parameśvaraḥ ko vā vibhūṣito nityaṃ brūhi ko vā viḍaṃbitaḥ 7 bhagavān āha / (ds; gbm 1543.6) alpecchaḥ sukhito jñeyaḥ saṃtuṣṭo parameśvaraḥ śīlavāṃ vibhūṣito nityaṃ bhraṣṭaśīlo viḍaṃbitaḥ 8 devatā prāha / kiṃ svid agnir na dahati na bhinatti ca mārutaḥ (ds; gbm 1543.7)  kiṃ svin na kledayanty āpaḥ plāvayanto vasundharām / 9 bhagavān āha / puṇyam agnir na dahati na bhinatti ca mārutaḥ puṇyaṃ na kledayanty āpaḥ plāvayanto vasundharām / 10 (ds; gbm 1543.8) devatā prāha / kiṃ svid rājā ca caurāś ca spandamānā samudyatā / nāpahartuṃ śaknuvanti striyā vā puruṣasya vā / 11 (ds; gbm 1544.1) bhagavān āha / puṇyaṃ rājā ca caurāś ca spandamānā samudyatā /  nāpahartuṃ śaknuvanti striyā vā puruṣasya vā / 12 devatā prāha / vatsalo bāndhavaḥ ko 'sau ko vā duṣṭāśayo ripuḥ (ds; gbm 1544.2)  kiṃ vā tad dāruṇaṃ duḥkhaṃ kiṃ vā paramaṃ sukham / 13 bhagavān āha / vatsalo bāndhavaḥ puṇyaṃ pāpaṃ duṣṭāśayo ripuḥ (ds; gbm 1544.3)  nārakaṃ dāruṇaṃ duḥkhaṃ śuddhā bhāvaḥ paramaṃ sukham / 14 devatā prāha / kenāyam āvṛto lokaḥ kena loko vaśīkṛtaḥ kena tyajati mitrāṇi kena svargaṃ na gacchati / 15 (ds; gbm 1544.4) bhagavān āha / ajñānenāvṛto loko mohena ca vaśīkṛtaḥ lobhāt tyajati mitrāṇi saṃgāt svargaṃ na gacchati / 16 (ds; gbm 1544.5) devatā prāha / kiṃ tat priyam apathyaṃ ca kiṃ vā pathyaṃ na ca priyaṃ  ko vā pīḍākaro vyādhiḥ ko 'sāv eko bhiṣag varaḥ / 17 bhagavān āha / kāmāḥ priyā apathyāś ca mokṣaḥ pathyo na ca priyaḥ (ds; gbm 1544.6)  rāgaḥ pīḍākaro vyādhir buddhaś caiko bhiṣag varaḥ / 18 devatā prāha / kena mitrāṇi vardhante kena śāmyanti śatravaḥ (ds; gbm 1544.7)  kena svargam avāpnoti kena mokṣaṃ ca gacchati / 19 bhagavān āha / tyāgān mitrāṇi vardhante maitryā śāmyanti śatravaḥ śīlāt svargam avāpnoti jñānān mokṣaṃ ca gacchati / 20 (ds; gbm 1544.8) devatā prāha / idaṃ saṃśayam adyāpi mama tvaṃ chettum arhasi / asmāl lokāt paraṃ lokaṃ ko gato 'tyantavaṃcitaḥ / 21 (ds; gbm 1545.1) bhagavān āha / vidyamāneṣu bhogeṣu puṇyaṃ yena na saṃcitaṃ /  asmāl lokāt paraṃ lokaṃ so gato 'tyantavaṃcitaḥ / 22 devatā prāha (ds; gbm 1545.2) 
+ cirasya bata paśyāmi brāhmaṇaṃ parinirvṛtaṃ /
+ sarvavairabhayātītaṃ tīrṇaṃ loke viṣaktikām // 23
+ ity uktvā sā devatā bhagavato bhāṣitam (ds; gbm 1545.3) abhinandyānumodya bhagavataḥ pādau śirasā vanditvā bhagavato 'ntikāt prakrāntā //
+
+alpadevatāsūtra = ads
+
+evaṃ mayā śrutam ekasmiṃ samaye bhagavāṃ cchrāvastyāṃ (ads; gbm 1545.4) viharati sma jetavane anāthapiṇḍadasyārāme athānyatamā devatā atikrāntavarṇā atikrāntāyāṃ rātryāṃ yena bhagavāṃs (ads; gbm 1545.5) tenopasaṃkrāntā upasaṃkramya bhagavataḥ pādau śirasā vanditvaikānte niṣaṇṇā apīdānīṃ tasyā devatāyā varṇānubhāvena (ads; gbm 1545.6) sarvaṃ jetavanaṃ udāreṇāvabhāsena sphuṭam abhūt / ekānte niṣaṇṇā sā devatā tasyāṃ velāyāṃ gāthām abhāṣata //
+
+ kiṃśīlāḥ kiṃsamācārāḥ ke guṇāḥ kena karmaṇā / (ads; gbm 1545.7) ke .e .ihādi .. prājñāḥ ke janā svargagāminaḥ 1 tasyā śāstā vyākārṣī devatā .. .. .. .. ..ḥ (ads; gbm 1545.8) śrūyatāṃ devate mahyaṃ ye janā svargagāminaḥ 2 prāṇātipātād viratā suśīlāḥ saṃyame ratāḥ yena hiṃsanti bhūtāni te janāḥ svargagāminaḥ 3

@@ -1,0 +1,90 @@
+Kambalapāda: Navaślokī
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kambalapAda-navazlokI.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Klaus Wille
+## Contribution: Klaus Wille
+## Date of this version: 2020-07-31
+
+## Source: 
+   - G. Tucci. Minor Buddhist Texts, part I. Roma 1956 (Serie Orientale Roma, 9), pp. 216-217.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Navaślokī = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from knavslou.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Kambalapada: Navasloki (= Nś)
+Based on the edition by G. Tucci. Minor Buddhist Texts, part I. Roma 1956
+(Serie Orientale Roma, 9), pp. 216-217.
+Input by Klaus Wille (Göttingen)
+ITALICS for restored text
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+navaślokī
+
+āryāṣṭasāhaśrikāyāḥ prajñāpāramitāyāḥ piṇḍārthaḥ
+
+prajñāpāramitāmbodhau śubharatnākare svayam /
+sarvā pāramitās tatra tādātmyena vyavasthitāḥ // nś_1 //
+
+niṣprapañcā nirābhāsā nirvikalpā nirālayā /
+niḥsvabhāvā parā sūkṣmā bindunādavivarjitā // nś_2 //
+
+prajñāpāramitā mātā sarvabuddhodayā parā /
+trayānupalabdhirūpā sarvajñajñānagocarā // nś_3 //
+
+prajñāpāramitāṃ saṃyag yo bhāvayitum icchati /
+tenārthato navaślokāś cintanīyāḥ samāsataḥ // nś_4 //
+
+karmaprabhāvasaṃbhūtaṃ ṣaḍāyatanalakṣaṇam /
+punarbhavam iti khyātaṃ pratibhāsopamaṃ hi tat // nś_5_[1] //
+
+nirmitaṃ nagaraṃ yadvad vilokayati nirmitaḥ / tadvat paśyati rūpāṇi karmabhir nirmitaṃ jagat // nś_6_[2] //
+
+dharmaṃ deśayataḥ śabdā ye kecit śrutigocarāḥ /
+pratiśrutkopamāḥ sarve prodbhūtaśrutinaḥ śrutāḥ // nś_7_[3] //
+
+āghrataṃ svāditaṃ tathā spraṣṭaṃ viṣayalālāsaiḥ /
+svapnatulyam idaṃ sarvam upalabdhaṃ na vidyate // nś_8_[4] //
+
+māyāyantro naro yadvad bhinnāṃ ceṣṭāṃ karoti vai /
+tadvad ceṣṭāṃ karoty eva dehayantro nirātmakaḥ // nś_9_[5] //
+
+nānopalabdhayo yāś ca pratikṣaṇasamudbhavāḥ /
+marīcisadṛśāś caite dṛṣṭanaṣṭāḥ vilakṣaṇāḥ // nś_10_[6] //
+
+pratibimbanibhaṃ grāhyam anādicittasaṃbhavam /
+tadākāraṃ ca vijñānam anyonyapratibimbavat // nś_11_[7] //
+
+dhyāyināṃ svacchasaṃtāne yaj jnanendusamudbhavam / udakacandropamaṃ tad dhi pratyakṣaṃ na vidyate // nś_12_[8] //
+
+yoginām api yaj jñānaṃ tad apy ākāśalakṣaṇam /
+tasmāj jñānaṃ ca jñeyaṃ ca sarvam ākāśalakṣaṇam // nś_13_[9] //
+
+iti cintayataḥ tattvaṃ sarvabhāveṣv anāśritam /
+bodhipraṇidhicittena jñānaṃ agraṃ bhaviṣyati // nś_14 //
+
+āryāṣṭasāhasrikāyāḥ prajñāpāramitāyāḥ piṇḍārthaḥ samāptaḥ kṛtir iyaṃ śrīkambalāmbarapādanām

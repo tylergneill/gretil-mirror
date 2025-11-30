@@ -1,0 +1,69 @@
+Mahāśītavatī vidyārājñī
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mahAzItavatI-vidyArAjJI.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Klaus Wille
+## Contribution: Klaus Wille
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Yutaka Iwamoto: Kleinere Dhāraṇī Texte, Kyoto 1937 (Beiträge zur Indologie, 2), pp. 1-6.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Mahāśītavatī vidyārājñī = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from msitvatu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Mahasitavati vidyarajni
+Based on the edition by Yutaka Iwamoto: Kleinere Dhāraṇī Texte,
+Kyoto 1937 (Beiträge zur Indologie, 2), pp. 1-6.
+Input by Klaus Wille (Göttingen)
+STRUCTURE OF REFERENCES:
+Mś_nn = pagination of Iwamoto's edition
+BOLD for references
+ITALICS for restored text
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+mahāśītavatī
+
+namo bhagavatyai āryamahāśītavatyai /
+
+evaṃ mayā śrutam ekasmin samaye bhagavān rājagṛhe viharati sma / śītavane mahāśmaśāne iṅghikāyatanapratyuddeśe tatrāyuṣmān rāhulo 'tīva viheṭhyate / devagrahair nāgagrahair yakṣagrahai rākṣagrahair marutagrahair asuragrahair kinnaragrahair garuḍagrahair gandharvagrahair mahoragagrahair manuṣyagrahair amanuṣyagrahair pretagrahair bhūtagrahair piśācagrahair kumbhāṇḍagrahair dvīpibhiḥ kākair ulūkaiḥ kīṭaiḥ sarīsṛpair anyaiś ca manuṣyāmanuṣyaiḥ satvaiḥ / athāyuṣmān rāhulo yena bhagavāṃs tenopasaṃkrānta upasaṃkramya bhagavataḥ pādau śirasā vanditvā bhagavantaṃ tripradakṣiṇīkṛtya bhagavataḥ purato rudann aśrūṇi pravartayati sma /
+
+atha bhagavān jānann eva rāhulam āmantrayate sma / kiṃ tvaṃ rāhula mama prataḥ sthitvā aśrūṇi pravartayasi / evam ukte āyuṣmān rāhulo bhagavantam etad avocat / ihāhaṃ bhagavan rājagṛhe viharāmi śītavane mahāśmaśāne iṅghikāyatanapratyuddeśe (mś_2) so 'haṃ bhagavaṃs tatra viheṭhye / devagrahair nāgagrahair yakṣagrahai rākṣasagrahair marutagrahair asuragrahair kinnaragrahair garuḍagrahair gandharvagrahair mahoragagrahair manuṣyagrahair amanuṣyagrahair pretagrahair bhūtagrahair piśācagrahair kumbhāṇḍagrahair dvīpibhiḥ kākair ulūkaiḥ kīṭaiḥ sarīsṛpair anyaiś ca manuṣyāmanuṣyaiḥ satvaiḥ //
+
+atha khalu bhagavān āyuṣmantaṃ rāhulam āmantrayate sma / udgṛhṇa tvaṃ rāhula imāṃ mahāśītavatī nāma dhāraṇīṃ vidyāṃ / catasṛṇāṃ pariṣadāṃ rakṣāvaraṇaguptaye bhikṣūṇāṃ bhikṣuṇīnām upāsakānām upāsikānāṃ ca sarvasatvānāṃ ca dīrgharātram arthāya hitāya sukhāya yogakṣemāya bhaviṣyati //
+
+tadyathā / aṅgā vaṅgā / kaliṅga / varaṅgā saṃsārataraṅgā sāsadaṅgā / bhagā asurā / ekataraṅgā asuravīrā / tara vīrā / tara tara vīrā / kara vīrā / kara kara vīrā / indrā indrakisarā / haṃsā haṃsakisarā / picimālā / mahākiccā / viheṭhikā kālucchikā / aṅgodara jayālikā / velā cintāli / cili cili hili hili sumati vasumati / culu naṭṭe / culu culu naṭṭe / culu culu culu naṭṭe / culu nāḍi / (mś_3) ku nāḍi / hārīṭaki hārīṭaki kārīṭaki kārīṭaki kārīṭaki kārīṭaki / gauri gandhāri / caṇḍāli vetāli / mātaṅgi / varcasi dharaṇi dhāṛaṇi / taraṇi tāraṇi / uṣṭramālike / kaca kācike / kaca kācive / cala nāṭike / kākalike / lalamati / lakṣamati / varāhakule / matpale utpale / kara vīre / kara kara vīre / tara vīre / tara tara vīre / kuru vīre / kuru kuru vīre / curu vīre / curu curu vīre / mahāvīre / iramati / varamati / rakṣamati / sarvārthasādhani / paramārthasādhani / apratihate / indro rājā / yamo rājā / varuṇo rājā / kubero rājā / manasvī rājā / vāsukī rājā / daṇḍakī rājā / daṇḍāgnī rājā / dhṛtarāṣṭro rājā / virūḍhako rājā / virūpākṣo rājā / brahmā sahasrādhipatī rājā / buddho bhagavān dharmasvāmī rājā / anuttaro lokānukaṃpakaḥ / mama sarvasatvānāṃ ca rakṣāṃ karotu / guptiṃ paritrāṇaṃ parigrahaṃ paripālanaṃ śāntiṃ svastyayanaṃ daṇḍaparihāraṃ śastraparihāraṃ viṣadūṣaṇaṃ viṣanāśanaṃ sīmābandhaṃ dharaṇībandhaṃ ca kurvantu jīvantu varṣaśataṃ paśyantu śaradāṃ śataṃ //
+
+tadyathā / ilā milā utpalā / iramati viramati / halamati / talamati kṣalamati / lakṣamati / rakṣamati / kuru kuru mati / huru huru phuru phuru cara (mś_4) cara khara khara khuru khuru mati mati bhūmicaṇḍe / kālike / abhisaṃlāpite / sāmalate / hūle sthūle / sthūlaśikhare / jaya sthūle / jayavate / vala naṭṭe / cara nāḍi culu nāḍi culu nāḍi vāgbandhani / virohaṇi / sālohite / aṇḍare paṇḍare / karāle / kinnare / keyūre ketumati / bhūtaṃgame bhūtamati / dhanye maṅgalye / hiraṇyagarbhe / mahābale / avalokitamūle / acalacaṇḍe / dhurandhare jayālike jayāgorohiṇi / curu curu phuru phuru rundha rundha dhare dhare vidhare vidhare viṣkambhani / nāśani vināśani / bandhani / mokṣaṇi vimokṣani / mocani vimocani / mohani vimohani / bhāvani vibhāvani / śodhani śodhani saṃśodhani viśodhani / saṃkhiraṇi / saṃkiraṇi / saṃcchindani / sādhu turamāṇe / hara hara bandhumati / hiri hiri khiri khiri kharali / huru huru khuru khuru piṅgale namo 'stu buddhānāṃ bhagavatāṃ svāhā //
+
+asyāṃ khalu punā rāhula mahāśītavatīvidyāyāṃ daśottarapadaśatāyāṃ sūtre granthiṃ baddhvā hastena dhāryamānāyāṃ kaṇṭhena dhāryamānāyāṃ samantād yojanaśatasya rakṣākṛtā bhaviṣyati (mś_5) / gandhair vā puṣpair vā mudrābhir vā naiva manuṣyo vāmanuṣyo vābhibhaviṣyati / na śastraṃ na viṣaṃ na rogo na jvaro na prajvaro na vidyāmantro na vetāḍaḥ / na vyādhinā nāgninā na viṣodakena kālaṃ kariṣyati / vidyāmantraprayogānāṃ ca sarveṣāṃ sādhuprayuktānāṃ cāsiddhānāṃ siddhakarī / siddhānāṃ ca saṃkṣobhaṇī / paraprayuktānāṃ ca bandhanī / parabandhanānāṃ ca pramocanī / sarvarogaśokavighnavināyakānāṃ vināśanakarī / kalikalahakaluṣapraśamanakarī / yo graho na muñcet saptadhāsya sphuṭen mūrdhā arjakasyeva mañjarī / vajrapāṇiś cāsya mahāyakṣasenāpatir vajreṇādīptena prajvālitena ekajvālībhūtena tāvad vyāyacched yāvan mūrdhānaṃ sphoṭayet / catvāraś ca mahārājāno 'yomayena cakreṇa mūrdhānaṃ sphoṭayeyuḥ / kṣuradhārāprahāreṇa vināśayeyus tasmāc ca yakṣalokācyavanaṃ bhaveyuḥ / aḍakavatyāṃ rājadhānyāṃ na labhate vāsam //
+
+atha khalu punā rāhula mahāśītavatīmahāvidyāyāṃ sakṛtparivartitāyāṃ rājacaurodakāgniviṣaśastrāṭavīkāntāramadhyagataḥ sarvabhayebhyaḥ parimucyate / iyaṃ khalu punar mahāśītavatī vidyā (mś_6) ekanavatyāṃ gaṅgānadīvālukāsamair buddhair bhagavadbhir bhāṣitā bhāṣiṣyate bhāṣyate ca siddhā paramasiddhā siddhaparākramā / sarvadevanāgayakṣagandharvāsuragaruḍakinnaramahoragādibhir vanditvā sarvajinagaṇaparivṛtā / sarvabhayopadraveṣu mama sarvasatvānāṃ ca rakṣāṃ kuru / śivam ārogyam abhayaṃ ca sarvadā sarvathā sarvataḥ sarvāvasthāsu bhavantu //
+
+idam avocat bhagavān āttamanā āyuṣmān rāhulaḥ sā ca sarvāvatī parṣat sadevamānuṣāsuragandharvaś ca loko bhagavataḥ samyaksaṃbuddhabhāṣitam abhyanandann iti //
+
+āryamahāśītavatī nāma vidyārājñī samāptā //

@@ -1,0 +1,75 @@
+Garbhopaniṣad
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_garbhopaniSad.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Oliver Hellwig
+## Contribution: Oliver Hellwig
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Ramamaya Tarkaratna In: The Atharvana-Upanishads, Calcutta : Ganesha Press, 1872 (Bibliotheca Indica ; 76).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Garbhopaniṣad = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from garbhupu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Garbha-Upanisad (Garbhopanisad)
+Based on the edition by Ramamaya Tarkaratna
+in: The Atharvana-Upanishads, Calcutta : Ganesha Press, 1872
+(Bibliotheca Indica ; 76)
+Input by Oliver Hellwig
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+garbhopaniṣat
+
+oṃ pañcātmakaṃ pañcasu vartamānaṃ ṣaḍāśrayaṃ ṣaḍguṇayogayuktam / taṃ saptadhātuṃ trimalaṃ dviyoniṃ caturvidhāhāramayaṃ śarīram || garup_1
+
+pañcātmakam iti kasmāt pṛthivy āpas tejo vāyur ākāśam ity asmin pañcātmake śarīre kā pṛthivī kā āpaḥ kiṃ tejaḥ ko vāyuḥ kim ākāśam / tatra pañcātmake śarīre yat kaṭhinaṃ sā pṛthivī yad dravaṃ tā āpaḥ yad uṣṇaṃ tat tejaḥ yat saṃcarati sa vāyuḥ yac chuṣiraṃ tad ākāśam / tatra pṛthivī dhāraṇe āpaḥ piṇḍīkaraṇe tejaḥ prakāśane vāyur vyūhane ākāśam avakāśapradāne / pṛthak śrotre śabdopalabdhau tvak sparśe cakṣuṣī rūpe jihvā rasane nāsikā ghrāṇe upastha ānandane apānam utsarge buddhyā budhyati manasā saṃkalpayati vācā vadati / ṣaḍāśrayam iti kasmāt madhurāmlalavaṇatiktakaṭukaṣāyarasān vindatīti ṣaḍjaṛṣabhagāndhāramadhyamapañcamadhaivataniṣādāś cetīṣṭāniṣṭaśabdasaṃjñāḥ praṇidhānād daśavidhā bhavanti || garup_2
+
+saptadhātukam iti kasmāt śuklo raktaḥ kṛṣṇo dhūmraḥ pītaḥ kapilaḥ pāṇḍura iti / yathā devadattasya dravyādiviṣayā jāyante / parasparaṃ saumyaguṇatvāt ṣaḍvidho rasaḥ rasāc choṇitaṃ śoṇitān māṃsaṃ māṃsān medo medasaḥ snāyavaḥ snāyubhyo 'sthīni asthibhyo majjā majjātaḥ śukraṃ śukraśoṇitasaṃyogād āvartate garbho hṛdi vyavasthāṃ nayati hṛdaye 'ntar āgniḥ agnisthāne pittaṃ pittasthāne vāyuḥ vāyuto hṛdayaṃ prājāpatyāt kramāt || garup_3
+
+ṛtukāle samprayogād ekarātroṣitaṃ kalalaṃ bhavati saptarātroṣitaṃ budbudam ardhamāsābhyantare piṇḍaṃ māsābhyantare kaṭhinaṃ māsadvayena śiraḥ māsatrayeṇa pādapradeśaḥ caturthe gulphajaṭharakaṭipradeśāḥ pañcame pṛṣṭhavaṃśaḥ ṣaṣṭhe mukhanāsikākṣiśrotrāṇi saptame jīvena saṃyuktaḥ aṣṭame sarvalakṣaṇasampūrṇaḥ / pitū reto'tirekāt puruṣaḥ mātū reto'tirekāt strī ubhayor vojatulyatvān napaṃusakaṃ vyākulitamanaso 'ndhāḥ khañcāḥ kubjā vāmanā bhavanti / anyo 'nyavāyuparipīḍitaśukradvaidhyād dvidhā tanū syād yugmāḥ prajāyante / pañcātmakaḥ samarthaḥ pañcātmikā cetasā buddhir gandharasādijñānākṣarākṣaram oṃkāraṃ cintayatīti tad ekākṣaraṃ jñātvāṣṭau prakṛtayaḥ ṣoḍaśa vikārāḥ śarīre tasyaiva dehinaḥ / atha mātrāśitapītanāḍīsūtragatena prāṇa āpyāyate / atha navame māsi sarvalakṣaṇajñānasampūrṇo bhavati pūrvajātiṃ smarati śubhāśubhaṃ ca karma vindati || garup_4
+
+pūrvayonisahasrāṇi dṛṣṭvā caiva tato mayā /
+āhārā vividhā bhuktāḥ pītā nānāvidhāḥ stanāḥ /
+jātaś caiva mṛtaś caiva janma caiva punaḥ punaḥ || garup_5
+
+yan mayā parijanasyārthe kṛtaṃ karma śubhāśubham /
+ekākī tena dahye 'haṃ gatās te phalabhoginaḥ || garup_6
+
+aho duḥkhodadhau magno na paśyāmi pratikriyām /
+yadi yonyāḥ pramucye 'haṃ tat prapadye maheśvaram || garup_7
+
+aśubhakṣayakartāraṃ phalamuktipradāyakam /
+yadi yonyāḥ pramucye 'haṃ tat prapadye nārāyaṇam || garup_8
+
+aśubhakṣayakartāraṃ phalamuktipradāyakam /
+yadi yonyāḥ pramucye 'haṃ tat sāṃkhyaṃ yogam abhyase || garup_9
+
+aśubhakṣayakartāraṃ phalamuktipradāyakam /
+yadi yonyāḥ pramuñcāmi dhyāye brahma sanātanam || garup_10
+atha yonidvāraṃ samprāpto yantreṇāpīḍyamāno mahatā duḥkhena jātamātras tu vaiṣṇavena vāyunā saṃspṛṣṭas tadā na smarati janma maraṇāni na ca karma śubhāśubhaṃ vindati || garup_11
+śarīram iti kasmāt agnayo hy atra śriyante jñānāgnir darśanāgniḥ koṣṭhāgnir iti tatra koṣṭhāgnir nāmāśitapītalehyacoṣyaṃ pacati / darśanāgnī rūpāṇāṃ darśanaṃ karoti / jñānāgniḥ śubhāśubhaṃ ca karma vindati / trīṇi sthānāni bhavanti mukhe āhavanīya udare gārhapatyo hṛdi dakṣiṇāgniḥ ātmā yajamāno mano brahmā lobhādayaḥ paśavo dhṛtir dīkṣā saṃtoṣaś ca buddhīndriyāṇi yajñapātrāṇi karmendriyāṇi havīṃṣi śiraḥ kapālaṃ keśā darbhāḥ mukham antarvediḥ catuṣkapālaṃ śiraḥ ṣoḍaśa pārśvadantapaṭalāni saptottaraṃ marmaśataṃ sāśītikaṃ saṃdhiśataṃ sanavakaṃ snāyuśataṃ sapta sirāśatāni pañca majjāśatāni asthīni ca ha vai trīṇi śatāni ṣaṣṭiḥ sārdhacatasro romāṇi koṭyo hṛdayaṃ palāny aṣṭau dvādaśa palā jihvā pittaprasthaṃ kaphasyāḍhakaṃ śukrakuḍavaṃ medaḥ prasthau dvāv aniyataṃ mūtrapurīṣam āhāraparimāṇāt / paippalādaṃ mokṣaśāstraṃ paippalādaṃ mokṣaśāstram iti || garup_12

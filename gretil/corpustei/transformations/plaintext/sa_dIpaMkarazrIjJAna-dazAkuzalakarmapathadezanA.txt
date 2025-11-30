@@ -1,0 +1,76 @@
+Dīpaṃkaraśrījñāna [= Atīśa]: Daśākuśalakarmapathadeśanā
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dIpaMkarazrIjJAna-dazAkuzalakarmapathadezanA.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - .
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Daśākuśalakarmapathadeśanā = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsa039_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Dipankarasrijnana [=Dipamkarasrijnana = Atisa]:
+Dasakusalakarmapathadesana
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sastra section, text no. 39
+The transliteration emulates the conventions of Nagari script.
+Therefore, many word boundaries are not marked by blanks.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+daśākuśalakarmapathadeśanā
+
+namo ratnatrayāya
+
+kenacit sugatiprāptukāmena heyā daśākuśalakarmapathāḥ prakṛtisāvadyāḥ, tadyathā-
+
+"trividhaṃ kāyikaṃ karma vācikaṃ tu caturvidham /
+mānasaṃ triprakāraṃ ca daśaite 'kuśalā matāḥ // 1 //
+
+ete pravibhāgaśaḥ vyākhyāyante- tatra tāvat kāyikam-prāṇātipātaḥ, adattādānam, kāmamithyācāraśceti / vācikam- mṛṣāvādaḥ, paiśunyam, pāruṣyam, saṃbhinnapralāpaśca / mānasañca- abhidhyā, vyāpādo, mithyādṛṣṭiśca / tatra prāṇātipātastu prāṇibhāvaḥ, prāṇisaṃjñābhāvaḥ, vadhakacittopasthitiḥ, etadupāyakaraṇam, prāṇāvarodhabhāvaśceti etatpañcāṅgaiḥ saṃyukto bhavati prāṇātipātaḥ /
+
+tatra katamat adattādānam? parabhāvaḥ, paraparigrahasaṃjñatvam ca, steyacittopasthitiḥ, tadupāyakaraṇam, sthānacyutiśca etatpañcāṅgasaṃyuktaṃ bhavatyadattādānam /
+
+kāmamithyācārastu caturvidhaḥ / asthānam, akālaḥ, adeśaḥ, agamyaśceti / tatra asthānaṃ tu saddharma-pratimādi-bodhisattvasthānācāryopādhyāyadakṣiṇīya- mātā-pitṛ-gurvādisaṃnidhiḥ / akāla iti divase ṛtumatī-garbhiṇī-śiśupoṣiṇībhiḥ anicchāduḥkhadaurmanasyapīḍitābhiḥ, aṣṭāṅgoposathāvasthitau ca / adeśa iti mukhavarcomārgatvaṃ, kumārakanyayoḥ puraḥpṛṣṭharandhratvaṃ svagastatvaṃ ca / agamyāstu sarvāḥ parastriyaḥ dharma-dhvaja-kula-rakṣitāḥ, rājarakṣitāḥ, paraparigṛhītā veśyāḥ, sambandhinyaḥ, tiraścyaśca / evaṃ svabhāryāsevane 'pi bhavati kāmamithyācāraḥ /
+
+tatra mṛṣāvādastu avāstavikatvam, vastusthiticyutiḥ, mithyāsaṃjñābhāvaḥ, mithyopāyopasthitiśca, tadupāyakaraṇanceti mithyāvacanoktiśca ityetat pañcāṅgasaṃyoge mṛṣāvādaḥ /
+
+paiśunyaṃ tu kliṣṭacittena parabhedakathanam / pāruṣyamiti paramarmavedhi dveṣavacanam / sambhinnapralāpa iti-rāgopayuktatvād āsaktiyogād vā avācyavacanam / abhidhyeti paradhana-dravyaiśvaryeṣu tīvrāsaktacittatā / vyāpādastu sattveṣu vidveṣabhāvaḥ, etān sattvān haniṣyāmi rotsyāmi, tāḍayiṣyāmi, bandhayiṣyāmi iti cintanam /
+
+mithyādṛṣṭiriti nāsti dānam, na yajñaṃ, nehalokaḥ, na paralokaḥ, na śramaṇaḥ, na brāhmaṇaḥ, na devaḥ, na buddho bhagavān, na arhan, na pratyekabuddhaḥ, na sucaritam na ca duścaritam, na sukṛta-duṣkṛta-karmāṇāṃ phalavipākaśceti /
+
+bhagavatā ukte 'āryasaddharmasmṛtyupasthāne' mahāyānasūtre ca nirdiṣṭo daśākuśalakarmapatho 'yaṃ tu mahānarakahetuḥ / daśākuśalakarmapathasevanena patanti sattvā narakeṣu /
+
+mahācāryadīpaṅkaraśrījñānapādena praṇītā daśākuśalakarmapathadeśanā samāptā /
+
+tenaiva bhāratīyopādhyāyena mahāsaṃśodhakalokakṣuṣā bhikṣu-jayaśīlena cānūditaḥ sampāditaśca //

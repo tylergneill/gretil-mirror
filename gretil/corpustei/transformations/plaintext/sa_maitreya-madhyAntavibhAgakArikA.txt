@@ -1,0 +1,411 @@
+Maitreya (attrib.): Madhyāntavibhāgakārikā
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_maitreya-madhyAntavibhAgakArikA.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Ramchandra Pandeya: Madhyantavibhagashastram. Delhi : Motilal Banarsidass, 1971.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Madhyāntavibhāgakārikā = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsa010_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Maitreya (attrib.): Madhyantavibhagakarika
+Based on the ed. by Ramchandra Pandeya: Madhyantavibhagashastram.
+Delhi : Motilal Banarsidass, 1971.
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sastra section, text no. 10
+The transliteration emulates the conventions of Nagari script.
+Therefore, many word boundaries are not marked by blanks.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+āryamaitreyapraṇītā madhyāntavibhāgakārikā (mvk)
+
+lakṣaṇaparicchedaḥ prathamaḥ
+
+lakṣaṇaṃ hyāvṛtistattvaṃ pratipakṣasya bhāvanā /
+tatrāvasthā phalaprāptiryānānuttaryameva ca // mvk_1.1 //
+
+abhūtaparikalpo 'sti dvayaṃ tatra na vidyate /
+śūnyatā vidyate tvatra tasyāmapi sa vidyate // mvk_1.2 //
+
+na śūnyaṃ nāpi cāśūnyaṃ tasmāt sarvaṃ vidhīyate /
+sattvādasattvāt sattvācca madhyamā pratipacca sā // mvk_1.3 //
+
+arthasattvātmavijñaptipratibhāsaṃ prajāyate /
+vijñānaṃ nāsti cāsyārthastadabhāvāttadapyasat // mvk_1.4 //
+
+abhūtaparikalpatvaṃ siddhamasya bhavatyataḥ /
+na tathā sarvathābhāvāt tatkṣayānmuktiriṣyate // mvk_1.5 //
+
+kalpitaḥ paratantraśca pariniṣpanna eva ca /
+arthādabhūtakalpācca dvayābhāvācca deśitaḥ // mvk_1.6 //
+
+upalabdhiṃ samāśritya nopalabdhiḥ prajāyate /
+nopalabdhiṃ samāśritya nopalabdhiḥ prajāyate // mvk_1.7 //
+
+upalabdhestataḥ siddhā nopalabdhisvabhāvatā /
+tasmācca samatā jñeyā nopalambhopalambhayoḥ // mvk_1.8 //
+
+abhūtaparikalpaśca cittacaittāstridhātukāḥ /
+tatrārthadṛṣṭirvijñānaṃ tadviśeṣe tu caitasāḥ // mvk_1.9 //
+
+evaṃ pratyayavijñānaṃ dvitīyaṃ caupabhogikam /
+upabhogaparicchedaprerakāstatra caitasāḥ // mvk_1.10 //
+
+chādanādropaṇāccaiva nayanātsaṃparigrahāt /
+pūraṇāt triparicchedādupabhogācca karṣaṇāt // mvk_1.11 //
+
+nibandhanādābhimakhyād duḥkhanāt kliśyate jagat /
+tredhā dvedhā ca saṃkleśaḥ saptadhābhūtakalpanāt // mvk_1.12 //
+
+lakṣaṇaṃ cātha paryāyastadartho bheda eva ca /
+sādhanañceti vijñeyaṃ śūnyatāyāḥ samāsataḥ // mvk_1.13 //
+
+dvayābhāvo hyabhāvasya bhāvaḥ śūnyasya lakṣaṇam /
+na bhāvo nāpi cābhāvao na pṛthaktvaikalakṣaṇam // mvk_1.14 //
+
+tathatā bhūtakoṭiścānimittaṃ paramārthatā /
+dharmadhātuśca paryāyāḥ śūnyatāyāḥ samāsataḥ // mvk_1.15 //
+
+ananyathāviparyāsatannirodhāryagocaraiḥ /
+hetutvāccāryadharmaṇāṃ paryāyārtho yathākramam // mvk_1.16 //
+
+saṃkliṣṭā ca viśuddhā ca samalā nirmalā ca sā /
+abdhātukanakākāśaśuddhivacchuddhiriṣyate // mvk_1.17 //
+
+bhoktṛbhojanataddhehapratiṣṭhāvastuśūnyatā /
+tacca yena yathā dṛṣṭaṃ yadarthaṃ tasya śūnyatā // mvk_1.18 //
+
+śubhadvayasya prāptyartha sadā sattvahitāya ca /
+saṃsārātyajanārthaṃ ca kuśalasyākṣayāya ca // mvk_1.19 //
+
+gotrasya ca viśuddhayarthaṃ lakṣaṇavyañjanāptaye /
+śuddhaye bu[ddha]dharmāṇāṃ bodhisattvaḥ prapadyate // mvk_1.20 //
+
+pudgalasyātha dharmāṇāmabhāvaḥ śūnyatātra hi /
+tadabhāvasya sadbhāvastasmin sā śūnyatāparā // mvk_1.21 //
+
+saṃkliṣṭā cedbhavennāsau muktāssyuḥ sarvadehinaḥ /
+viśuddhā cedbhavennāsau vyāyāmo niṣphalo bhavet // mvk_1.22 //
+
+na kliṣṭā nāpi va 'ākliṣṭā śuddhāśuddhā na caiva sā /
+prabhāsvaratvāccittasya kleśasyāgantukatvataḥ // mvk_1.23 //
+
+// iti lakṣaṇaparicchedaḥ prathamaḥ //
+
+āvaraṇaparicchedo dvitīyaḥ
+
+vyāpi prādeśikodriktasamādānavivarjanam /
+dvayāvaraṇamākhyātaṃ navadhā kleśalakṣaṇam // mvk_2.1 //
+
+saṃyojanānyāvaraṇamudvegasamupekṣayoḥ /
+tattvadṛṣṭeśca satkāyadṛṣṭestadvastuno 'pi ca // mvk_2.2 //
+
+nirodhamārgaratneṣu lābhasatkāra eva ca /
+saṅkleśasya parijñāne śubhādau daśadhāparam // mvk_2.3 //
+
+aprayogo 'nāyatane 'yogavihitaśca yaḥ /
+notpattiramanaskāraḥ sambhārasyāprapūrṇatā // mvk_2.4 //
+
+gotramitrasya vaidhuryaṃ cittasya parikheditā /
+pratipatteśca vaidhuryaṃ kuduṣṭajanavāsatā // mvk_2.5 //
+
+dauṣṭhulyamavaśiṣṭatvaṃ trayāt prajñāvipakvatā /
+prakṛtyā caiva dauṣṭhulyaṃ kausīdyaṃ ca pramāditā // mvk_2.6 //
+
+saktirbhave ca bhoge ca līnacittatvameva ca /
+aśraddhānadhimuktiśca yathārutavicāraṇā // mvk_2.7 //
+
+saddharme 'gauravaṃ lābhe gurutākṛpatā tathā /
+śrutavyasanamalpatvaṃ samādhyaparikarmitā // mvk_2.8 //
+
+śubhaṃ bodhiḥ samādānaṃ dhīmattvābhrāntyanāvṛtī /
+nṛtyatrāso 'matsaritvaṃ vaśitvañca śubhādayaḥ // mvk_2.9 //
+
+trīṇi trīṇi ca eteṣāṃ jñeyānyāvaraṇāni hi /
+pakṣyapāramitābhūmiṣvanyadāvaraṇaṃ punaḥ // mvk_2.10 //
+
+vastvakauśalakausīdyaṃ samādherdvayahīnatā /
+aropaṇātha daurbalyaṃ dṛṣṭidauṣṭhulyaduṣṭatā // mvk_2.11 //
+
+aiśvaryasyātha sugateḥ sattvātyāgasya cāvṛtiḥ /
+hānivṛddhyośca doṣāṇāṃ guṇānāmavatāraṇe // mvk_2.12 //
+
+vimocane 'kṣayatve ca nairantarye śubhasya ca /
+niyatīkaraṇe dharmasambhogaparipācane // mvk_2.13 //
+
+sarvatragārthe agrārthe niṣyandāgrārtha eva ca /
+niṣparigrahatārtha ca santānābheda eva ca // mvk_2.14 //
+
+nissaṅkleśaviśuddhyarthe 'nānātvārtha eva ca /
+ahīnānadhikārthe ca caturdhāvaśitāśraye // mvk_2.15 //
+
+dharmadhātāvavidyeyamakliṣṭā daśadhāvṛtiḥ /
+daśabhūmivipakṣeṇa pratipakṣāstu bhūmayaḥ // mvk_2.16 //
+
+kleśāvaraṇamākhyātaṃ jñeyāvaraṇameva ca /
+sarvāṇyāvaraṇānīha yatkṣayānmuktiriṣyate // mvk_2.17 //
+
+// ityāvaraṇaparicchedo dvitīyaḥ //
+
+tattvaparicchedastṛtīyaḥ
+
+mūlalakṣaṇatattvamaviparyāsalakṣaṇam /
+phalahetumayaṃ tattvaṃ sūkṣmaudārikameva ca // mvk_3.1 //
+
+prasiddhaṃ śuddhiviṣayaṃ saṅgrāhyaṃ bhedalakṣaṇam /
+kauśalyatattvaṃ daśadhā ātmadṛṣṭivipakṣataḥ // mvk_3.2 //
+
+svabhāvastrividho 'sacca nityaṃ saccāpyatattvataḥ /
+sadasattattvataśceti svabhāvatrayamiṣyate // mvk_3.3 //
+
+samāropāpavādasya dharmapudgalayoriha /
+grāhyagrāhakayoścāpi bhāvābhāve ca darśanam // mvk_3.4 //
+
+yajjñānānna pravarteta taddhi tattvasya lakṣaṇam /
+asadartho hyanityārtha utpādadavyayalakṣaṇaḥ // mvk_3.5 //
+
+samalāmalabhāvena mūlatattve yathākramam /
+duḥkhamādānalakṣmākhyaṃ sambandhenāparaṃ matam // mvk_3.6 //
+
+abhāvaścāpyatadbhāvaḥ prakṛtiḥ śūnyatā matā /
+alakṣaṇañca nairātmyaṃ tadvilakṣaṇameva ca // mvk_3.7 //
+
+svalakṣaṇañca nirdiṣṭaṃ duḥkhasatyamato matam /
+vāsanātha samutthānamavisaṃyoga eva ca // mvk_3.8 //
+
+svabhāvadvayanotpattirmalaśāntidvayaṃ matam /
+parijñāyāṃ prahāṇe ca prāptisākṣātkṛtāvayam // mvk_3.9 //
+
+mārgasatyaṃ samākhyātaṃ prajñaptipratipattitaḥ /
+tathodbhāvanayaudāraṃ paramārthantu ekataḥ // mvk_3.10 //
+
+arthaprāptiprapattyā hi paramārthastridhā mataḥ /
+nirvikārāviparyāsapariniṣpattito dvayam // mvk_3.11 //
+
+lokaprasiddhamekasmāt trayād yuktiprasiddhakam /
+viśuddhagocaraṃ dvedhā ekasmādeva kīrtitam // mvk_3.12 //
+
+nimittasya vikalpasya nāmnaśca dvayasaṅgrahaḥ /
+samyagjñānasatattvasya ekenaiva ca saṅgrahaḥ // mvk_3.13 //
+
+pravṛttitattvaṃ dvividhaṃ sanniveśakupannatā /
+ekaṃ lakṣaṇavijñaptiśuddhisamyakprapannatā // mvk_3.14 //
+
+ekahetutvabhoktṛtvakartṛtvavaśavartane /
+ādhipatyārthanityatve kleśaśuddhyāśraye 'pi ca // mvk_3.15 //
+
+yogitvāmuktamuktatve ātmadarśanameṣu hi /
+parikalpavikalpārthadharmatārthena teṣu te // mvk_3.16 //
+
+anekatvābhisaṅkṣepaparicchedārtha āditaḥ /
+grāhakagrāhyatadgrāhabījārthaścāparo mataḥ // mvk_3.17 //
+
+veditārthaparicchedabhogāyadvārato 'param /
+punarhetuphalāyāsānāropānapavādataḥ // mvk_3.18 //
+
+aniṣṭeṣṭaviśuddhīnāṃ samotpattyādhipatyayoḥ /
+samprāptisamudācārapāratantryārthato 'param // mvk_3.19 //
+
+grahaṇasthānasandhānabhogaśuddhidvayārthataḥ /
+phalahetūpayogārthanopayogāttathāparam // mvk_3.20 //
+
+vedanāsanimittārthatannimittaprapattitaḥ /
+tacchamapratipakṣārthayogādaparamiṣyate // mvk_3.21 //
+
+guṇadoṣāvikalpena jñānena parataḥ svayam /
+niryāṇādaparaṃ jñeyaṃ saprajñaptisahetukāt // mvk_3.22 //
+
+nimittāt praśamāt sārthāt paścimaṃ samudāhṛtam //
+
+// iti tattvaparicchedastṛtīyaḥ //
+
+pratipakṣabhāvanāvasthāphalaparicchedaścaturthaḥ
+
+dauṣṭhulyāt tarṣahetutvād vastutvādavimohataḥ /
+catussatyāvatārāya smṛtyupasthānabhāvanā // mvk_4.1 //
+
+parijñāte vipakṣe ca pratipakṣe ca sarvathā /
+tadapāyāya vīryaṃ hi caturdhā sampravartate // mvk_4.2 //
+
+karmaṇyatā sthitestatra sarvārthānāṃ samṛddhaye /
+pañcadoṣaprahāṇāṣṭasaṃskārāsevanānvayā // mvk_4.3 //
+
+kausīdyamavavādasya sammoṣo laya uddhavaḥ /
+asaṃskāro 'tha saṃskāraḥ pañca doṣā ime matāḥ // mvk_4.4 //
+
+āśrayo 'thāśritastasya nimittaṃ phalameva ca /
+ālambane 'sammoṣo layauddhatyānubuddhyanā // mvk_4.5 //
+
+tadapāyābhisaṃskāraḥ śāntau praśaṭhavāhitā /
+ropite mokṣabhāgīye cchandayogādhipatyataḥ // mvk_4.6 //
+
+ālambane 'sammoṣāvisāravicayasya ca /
+vipakṣasya hi saṃlekhāt pūrvasya phalamuttaram // mvk_4.7 //
+
+dvau dvau nirvedhabhāgīyāvindriyāṇi balāni ca /
+āśrayāṅgaṃ svabhāvāṅgaṃ niryāṇāṅgaṃ tṛtīyakam // mvk_4.8 //
+
+caturthamanuśaṃsāṅgaṃ niḥkleśāṅgaṃ tridhā matam /
+nidānenāśrayeṇeha svabhāvena ca deśitam // mvk_4.9 //
+
+paricchedo 'tha samprāptiḥ parasambhāvanā tridhā /
+vipakṣapratipakṣaśca mārgasyāṅgaṃ tadaṣṭadhā // mvk_4.10 //
+
+dṛṣṭau śīle 'tha saṃlekhe paravijñaptiriṣyate /
+kleśopakleśavaibhutvavipakṣapratipakṣatā // mvk_4.11 //
+
+anukūlā viparyastā sānubandhā viparyayā /
+aviparyastaviparyāsānanubandha ca bhāvanā // mvk_4.12 //
+
+ālambanamanaskāraprāptitastad viśiṣṭatā /
+hetvavasthāvatārākhyā prayogaphalasaṃjñitā // mvk_4.13 //
+
+kāryākāryaviśiṣṭā ca uttarānuttarā ca sā /
+adhimuktau praveśe ca niryāṇe vyākṛtāvapi // mvk_4.14 //
+
+kathikatve 'bhiṣeke ca samprāptāvanuśaṃsane /
+kṛtyānuṣṭhāna uddiṣṭā dharmādhātau tridhā punaḥ // mvk_4.15 //
+
+aśuddhāśuddhaśuddhā ca viśuddhā ca yathārthataḥ /
+pudgalānāṃ vyavasthānaṃ yathāyogamato matam // mvk_4.16 //
+
+bhājanatvaṃ vipākākhyaṃ balantasyādhipatyataḥ /
+rucirvṛddhirviśuddhiśca phalametad yathākramam // mvk_4.17 //
+
+uttarottaramādyañca tadabhyāsat samāptitaḥ /
+ānukūlyād vipakṣācca visaṃyogād viśeṣataḥ // mvk_4.18 //
+
+uttarānuttaratvācca phalamanyat samāsataḥ /
+
+// iti pratipakṣabhāvanādiparicchedaścaturthaḥ //
+
+5 yānānuttaryaparicchedaḥ pañcamaḥ
+
+ānuttaryaṃprapattau hi punarālambane matam /
+samudāgama uddiṣṭaṃ pratipattistu ṣaḍ vidhā // mvk_5.1 //
+
+paramātha manaskāre anudharme 'ntavarjane /
+viśiṣṭā cāviśiṣṭā ca paramā dvādaśātmikā // mvk_5.2 //
+
+audāryamāyatatvañca adhikaro 'kṣayātmatā /
+nairantaryamakṛcchratvaṃ vittatvañca parigrahaḥ // mvk_5.3 //
+
+ārambhaprāptiniṣyandaniṣpattiḥ paramā matā /
+tataśca paramārthena daśa pāramitā matāḥ // mvk_5.4 //
+
+dānaṃ śīlaṃ kṣamā vīryaṃ dhyānaṃ prajñā upāyatā /
+praṇidhānaṃ balaṃ jñānametāḥ pāramitā daśa // mvk_5.5 //
+
+anugraho 'vighātaśca karma tasya ca marṣaṇam /
+guṇavṛddhiśca sāmarthyamavatāravimocane // mvk_5.6 //
+
+akṣayatvaṃ sadā vṛttirniyataṃ bhogapācane /
+yathāprajñaptito dharmamahāyānamanaskriyā // mvk_5.7 //
+
+bodhisattvasya satataṃ prajñayā triprakārayā /
+dhātupuṣṭayaipraveśāya cārthasiddhyai bhavatyasau // mvk_5.8 //
+
+saṃyuktā dharmacaritaiḥ sā jñeyā daśabhiḥ punaḥ /
+lekhanā pūjanā dānaṃ śravaṇaṃ vācanod grahaḥ // mvk_5.9 //
+
+prakāśanātha svādhyāyaścintanā bhāvanā ca tat /
+ameyapuṇyaskandhaṃ hi caritaṃ tad daśātmakam // mvk_5.10 //
+
+viśeṣādakṣayatvācca parānugrahato 'śamāt /
+avikṣiptāviparyāsapraṇatā cānudhārmikī // mvk_5.11 //
+
+vyutthānaṃ viṣaye sārastathāsvādalayoddhavaḥ /
+sambhāvanābhisandhiśca manaskāre 'pyahaṃkṛtiḥ // mvk_5.12 //
+
+hīnacittañca vikṣepaḥ parijñeyo hi dhīmatā /
+vyañjanārthamanaskāre 'visāre lakṣaṇadvaye // mvk_5.13 //
+
+aśuddhaśuddhāvāgantukatve 'trāsitānunnatau /
+saṃyogāt saṃstavāccaiva viyogādapyasaṃstavāt // mvk_5.14 //
+
+arthasattvamasattvañca vyañjane so 'viparyayaḥ /
+dvayena pratibhāsatvaṃ tathā cāvidyamānatā // mvk_5.15 //
+
+arthe sa cāviparyāsaḥ sadasattvena varjitaḥ /
+tajjalpabhāvito jalpamanaskārastadāśrayaḥ // mvk_5.16 //
+
+manaskāre 'viparyāso dvayaprakhyānakāraṇe /
+māyādivadasattvañca sattvañcārthasya tanmatam // mvk_5.17 //
+
+so 'visāre 'viparyāso bhāvābhāvāvisārataḥ /
+sarvasya nāmamātratvaṃ sarvakalpāpravṛttaye // mvk_5.18 //
+
+svalakṣaṇe 'viparyāsaḥ paramārthe svalakṣaṇe /
+dharmadhātuvinirmukto yasmād dharmo na vidyate // mvk_5.19 //
+
+sāmānyalakṣaṇantasmāt sa ca tatrāviparyayaḥ /
+viparyastamanaskārāvihāniparihāṇitaḥ // mvk_5.20 //
+
+tadaśuddhirviśuddhiśca sa ca tatrāviparyayaḥ /
+dharmadhātorviśuddhatvāt prakṛtyā vyomavatpunaḥ // mvk_5.21 //
+
+dvayasyāgantukatvaṃ hi sa ca tatrāviparyayaḥ /
+saṃkleśaśca viśuddhiśca dharmapudgalayorna hi // mvk_5.22 //
+
+asattvāt trāsatāmānau nātaḥ so 'trāviparyayaḥ /
+pṛthaktvaikatvamantaśca tīrthyaśrāvakayorapi // mvk_5.23 //
+
+samāropāpavādānto dvidhā pudgaladharmayoḥ /
+vipakṣapratipakṣāntaḥ śāśvatocchedasaṃjñitaḥ // mvk_5.24 //
+
+grāhyagrāhakasaṃkleśavyavadāne dvidhā tridhā /
+vikalpadvayatāntaśca sa ca saptavidho mataḥ // mvk_5.25 //
+
+bhāvābhāve praśāmye 'tha śamane trāsyatadbhaye /
+grāhyagrāhe 'tha samyaktvamithyātve vyāpṛtau na ca // mvk_5.26 //
+
+ajanmasamakālatve sa vikalpadvayāntatā /
+viśiṣṭā cāviśiṣṭā ca jñeyā daśasu bhūmiṣu // mvk_5.27 //
+
+vyavasthānantato dhātuḥ sādhyasādhanadhāraṇā /
+avadhārapradhārā ca prativedhaḥ pratānatā // mvk_5.28 //
+
+pragamaḥ praśaṭhatvañca prakarṣālambanammatam /
+avaikalyāpratikṣepo 'vikṣepaśca prapūraṇā // mvk_5.29 //
+
+samutpādo nirūḍhiśca karmaṇyatvāpratiṣṭhitā /
+nirāvaraṇatā tasyāpraśrabdhisamudāgamaḥ // mvk_5.30 //
+
+śāstraṃ madhyavibhāgaṃ hi gūḍhasārārthameva ca /
+mahārthañcaiva sarvārthaṃ sarvānarthapraṇodanam // mvk_5.31 //
+
+// iti yānānuttarya paricchedaḥ pañcamaḥ //
+
+samāptā madhyāntavibhāgakārikāḥ

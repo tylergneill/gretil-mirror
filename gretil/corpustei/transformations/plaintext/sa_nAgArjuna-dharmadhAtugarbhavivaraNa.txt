@@ -1,0 +1,80 @@
+Nāgārjuna: Dharmadhātugarbhavivaraṇa
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-dharmadhAtugarbhavivaraNa.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Gyaltsen Namdrol: Pratityasamutpada hrdaya and Dharmadhatugarbhavivarana, Sarnath : Central Institute of Higher Tibetan Studies 1997.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Dharmadhātugarbhavivaraṇa = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from nagdhdbu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Nagarjuna: Dharmadhatugarbhavivarana
+Based on the ed. by Gyaltsen Namdrol: Pratityasamutpada hrdaya and Dharmadhatugarbhavivarana,
+Sarnath : Central Institute of Higher Tibetan Studies 1997
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Version: 2009-03-18 16:24:23
+Proof Reader: Milan Shakya
+The transliteration emulates the conventions of Nagari script.
+Therefore, many word boundaries are not marked by blanks.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+ācārya nāgārjunapādaviracitam āryadharmadhātugarbhavivaraṇam
+
+bhāratīyabhāṣāyām- āryadharmadhātugarbhavivaraṇam| bhoṭabhāṣāyām- phag-pā-chos-kyi-yiṅ-kyi-ñiṅ-poī-nama-para-ḍela-pā|
+
+namo ratnatrayāya
+
+ye dharmā hetuprabhavā hetuṃ teṣāṃ tathāgato hyavadat |
+teṣāṃ ca yo nirodha evaṃvādī mahāśramaṇaḥ ||
+
+ityuktam | atra 'ye dharmā' iti saptabhiḥ prakārairavagantavyāḥ | tadyathā- vijñānaṃ nāmarūpaṃ ṣaḍāyatanaṃ sparśaḥ vedanā jātirjarāmaraṇamiti | ime dharmāḥ api pañcabhyaḥ prakārebhya utpadyanta iti 'hetuprabhavāḥ' ityuktam | ke te pañca hetavaḥ? avidyā tṛṣṇā upādānaṃ saṃskārā bhavaśceti |
+
+saptavidhānāṃ dharmāṇāṃ pañcaprakārāṇāṃ ca teṣāṃ hetūnāṃ nirodhastāvad 'hetuṃ teṣāṃ ca yo nirodhaḥ' ityādinābhihitaḥ | sa evopaśamaḥ mokṣo nirvāṇamiti | sa ca kenoktaḥ? 'tathāgato hyavadat | iti | tenopadiṣṭa ityabhiprāyeṇa tathā kathitam |
+
+arthānāṃ yathā sthitistathā (yathāvat) avabodhāt 'tathāgataḥ' ityucyate | vastūnāṃ yathā sthitiḥ, tasyā abhrāntatayā anyebhyo deśanād vā 'tathāgataḥ' | evaṃvidho yo deśakaḥ, yaścaivaṃ svayaṃ bodhakaḥ śravaṇaśīlayuktaśca sa 'evaṃvādī' (mahāśramaṇaḥ) ityuktaḥ |
+
+'mahān'-śabdaḥ pradhāna-adbhutaparamapravaraparyāyaḥ | yo vādī vidvān vīraḥ tapasvī mahotsāhaḥ tīvravīryaḥ adbhutakarmakāri ca bhavati, sa eva 'mahān' iti | (sa) aśeṣajñātavyānāṃ jñānād 'vidvān' | aśeṣakleśānāṃ damane samarthatvād 'vīraḥ' | śīlasya samyagbhāvanayā 'tapasvī' | guṇādiṣvaparikhedād 'mahotsāhaḥ' | yasya śiraḥ kapālaṃ vā agninā dīptam, tadavān iva 'tīvravīryaḥ tathā adbhutadharmāṇāṃ sākṣātkāritvād 'adbhutakarmakārī' iti | etādṛśa eva 'mahān' ityucyate |
+
+śramaṇaḥ iti pāpānāṃ kleśānāṃ copaśamād 'śramaṇaḥ' | sarvapāpānāṃ prakṣālanād 'brāhmaṇaḥ' | kleśaklamathaparivarjanād 'śramaṇaḥ' svakīyamalāpasāraṇāt 'pravrajitaḥ' iti | ityevaṃvidhairguṇaiḥ samanvāgata iti | bhagavatā buddhenokta ityanena yogaḥ karaṇīyaḥ | evameva duḥkhasamudayanirodhamārgasatyeṣvapi yogaḥ karaṇīyaḥ |
+
+avidyāhetoḥ saṃskārāḥ, ityārabhya jarāmaraṇaparyantaṃ (svabhāvataḥ siddhaṃ) kartāramanapekṣya samutpādastāvad 'anulomaḥ' | avidyādihetūnāṃ nivṛtteravabodhaḥ 'pratilomaḥ' ityuktaḥ |
+
+avidyānivṛtteḥ saṃskārādayo nivartanta ityupadeśakārakatvāt (bhagavān buddha eva) 'mahāśramaṇaḥ' iti |
+
+|| ācāryanāgārjunapādaviracitaṃ 'āryadharmadhātugarbhavivaraṇam' samāptam ||
+
+bhāratīyopādhyāyena jñānagarbheṇa 'mahālocāvā vande palacekmahābhāgena cānūdya saṃśodhya ca sunirṇītam |
+
+|| bhavatu sarvamaṅgalam ||

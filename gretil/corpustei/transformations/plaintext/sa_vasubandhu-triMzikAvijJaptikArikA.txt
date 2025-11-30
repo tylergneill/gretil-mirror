@@ -1,0 +1,142 @@
+Vasubandhu: Triṃśikāvijñaptikārikā
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vasubandhu-triMzikAvijJaptikArikA.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - .
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Triṃśikāvijñaptikārikā = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsa018_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Vasubandhu: Trimsikavijnaptikarika
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sastra section, text no. 18
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+atha triṃśikāvijñaptikārikāḥ (tvk) kṛtiriyamācāryavasubandhoḥ /
+
+ātmadharmopacāro hi vividho yaḥ pravartate /
+vijñānapariṇāme 'sau pariṇāmaḥ sa ca tridhā // tvk_1 //
+
+vipāko mananākhyaśca vijñaptirviṣayasya ca /
+tatrālayākhyaṃ vijñānaṃ vipākaḥ sarvabījakam // tvk_2 //
+
+asaṃviditakopādisthānavijñaptikaṃ ca tat /
+sadā sparśamanaskāravitsañjñācetanānvitam // tvk_3 //
+
+upekṣā vedanā tatrānivṛtāvyākṛtaṃ ca tat /
+tathā sparśādayastacca vartate srotasaughavat // tvk_4 //
+
+tasya vyāvṛtirarhatve tadāśritya pravartate /
+tadālambaṃ manonāma vijñānaṃ mananātmakam // tvk_5 //
+
+kleśaiścaturbhiḥ sahitaṃ nivṛtāvyākṛtaiḥ sadā /
+ātmaduṣṭyātmamohātmamānātmasnehasañjñitaiḥ // tvk_6 //
+
+yatrajastanmayairanyaiḥ sparśādyaiścārhato na tat /
+na nirodhasamāpattau mārge lokottare na ca // tvk_7 //
+
+dvitīyaḥ pariṇāmo 'yaṃ tṛtīyaḥ ṣaḍvidhasya yā /
+viṣayasyopalabdhiḥ sā kuśalākuśalādvayā // tvk_8 //
+
+sarvatragairviniyataiḥ kuśalaiścaitasairasau /
+samprayuktā tathā kleśairūpakleśaistrivedanā // tvk_9 //
+
+ādyāḥ sparśādayaśchandādhimokṣasmṛtayaḥ saha /
+samādhidhībhyāṃ niyatāḥ śraddhātha hrirapatrapā // tvk_10 //
+
+alobhādi trayaṃ vīryaṃ praśrabdhiḥ sāpramādikā /
+ahiṃsā kuśalāḥ kleśā rāgapratighamūḍhayaḥ // tvk_11 //
+
+mānadṛgvicikitsāśca krodhopanahane punaḥ /
+mrakṣaḥ pradāśa īrṣyārtha mātsaryaṃ saha māyayā // tvk_12 //
+
+śāṭhyaṃ mado 'vihiṃsāhrīratrapā styānamuddhavaḥ /
+āśraddhamatha kausīdyaṃ pramādo muṣitā smṛtiḥ // tvk_13 //
+
+vikṣepo 'samprajanyaṃ ca kaukṛtyaṃ middhameva ca /
+vitarkaśca vicāraścetyupakleśā dvaye dvidhā // tvk_14 //
+
+pañcānāṃ mūlavijñāne yathāpratyayamudbhavaḥ /
+vijñānānāṃ saha na vā taraṅgāṇāṃ yathā jale // tvk_15 //
+
+manovijñānasambhūtiḥ sarvadāsañjñikādṛte /
+samāpattidvayānmiddhānmūrchanādapyacittakāt // tvk_16 //
+
+vijñānapariṇāmo 'yaṃ vikalpo yadvikalpyate /
+tena tannāsti tenedaṃ sarvaṃ vijñaptimātrakam // tvk_17 //
+
+sarvabījaṃ hi vijñānaṃ pariṇāmastathā tathā /
+yātyanyonyavaśād yena vikalpaḥ sa sa jāyate // tvk_18 //
+
+karmaṇo vāsanā grāhadvayavāsanayā saha /
+kṣīṇe pūrvavipāke 'nyadvipākaṃ janayanti tat // tvk_19 //
+
+yena yena vikalpena yadyad vastu vikalpyate /
+parikalpita evāsau svabhāvo na sa vidyate // tvk_20 //
+
+paratantrasvabhāvastu vikalpaḥ pratyayodbhavaḥ /
+niṣpannastasya pūrveṇa sadā rahitatā tu yā // tvk_21 //
+
+ata eva sa naivānyo nānanyaḥ paratantrataḥ /
+anityatādivad vācyo nādṛṣṭe 'smin sa dṛśyate // tvk_22 //
+
+trividhasya svabhāvasya trividhāṃ niḥsvabhāvatām /
+sandhāya sarvadharmāṇāṃ deśitā niḥsvabhāvatā // tvk_23 //
+
+prathamo lakṣaṇenaiva niḥsvabhāvo 'paraḥ punaḥ /
+na svayambhāva etasyetyaparā niḥsvabhāvatā // tvk_24 //
+
+dharmāṇāṃ paramārthaśca sa yatastathatāpi saḥ /
+sarvakālaṃ tathābhāvāt saiva vijñaptimātratā // tvk_25 //
+
+yāvadvijñaptimātratve vijñānaṃ nāvatiṣṭhati /
+grāhadvayasyānuśayastāvanna vinivartate // tvk_26 //
+
+vijñaptimātramevedamityapi hayupalambhataḥ /
+sthāpayannagrataḥ kiñcit tanmātre nāvatiṣṭhate // tvk_27 //
+
+yadālambanaṃ vijñānaṃ naivopalabhate tadā /
+sthitaṃ vijñānamātratve grāhyābhāve tadagrahāt // tvk_28 //
+
+acitto 'nupalambho 'sau jñānaṃ lokottaraṃ ca tat /
+āśrayasya parāvṛttirdvidhā dauṣṭhulyahānitaḥ // tvk_29 //
+
+sa evānasravo dhāturacintyaḥ kuśalo dhruvaḥ /
+sukho vimuktikāyo 'sau dharmākhyo 'yaṃ mahāmuneḥ // tvk_30 //
+
+triṃśikāvijñaptikārikāḥ samāptāḥ /
+
+kṛtiriyamācāryavasubandhoḥ /

@@ -1,0 +1,758 @@
+Sabhikasaugataśāsanapravrajyāvratacaraṇaparivarta
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_sabhikasaugatazAsanapravrajyAvratacaraNaparivarta.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Klaus Wille
+## Contribution: Klaus Wille
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Tilak Raj Chopra. "BHS triyantara and Hindi teṃtara ḥ Notes on a Folk-belief in the Mahāvastu and Some Other Buddhist Sanskrit Texts (Supplement: Text of the Sabhika-Parivarta, edited for the First Time from Manuscripts)". In: Frank-Richard Hamm Memorial Volume, October 8, 1990, ed. H. Eimer. Bonn 1990 (Indica et Tibetica, 21), pp. 19-46.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Sabhikasaugataśāsanapravrajyāvratacaraṇaparivarta = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from sabhivpu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Sabhikasaugatasasanapravrajyavratacaranaparivarta
+Based on the edition by Tilak Raj Chopra. "BHS triyantara and Hindi teṃtara ḥ Notes on a Folk-belief in the Mahāvastu and Some Other Buddhist Sanskrit Texts (Supplement: Text of the Sabhika-Parivarta, edited for the First Time from Manuscripts)".
+In: Frank-Richard Hamm Memorial Volume, October 8, 1990, ed. H. Eimer. Bonn 1990
+(Indica et Tibetica, 21), pp. 19-46.
+Input by Klaus Wille (Göttingen)
+Sabhikasaugataśāsanapravrajyāvratacaraṇaparivarta
+being Chapter XIV of the Bhadrakalpāvadāna (BKA) and
+Chapter IX of the Saṃbhadrāvadānamālā (SAM)
+The spelling has been standardized:
+rṇ for rṇṇ
+rt for rtt
+rdh for rddh
+rm for rmm
+ry for ryy
+rv for rvv
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+sabhikasaugataśāsanapravrajyāvratacaraṇaparivarta
+
+(sam 4ob4: additional verses)
+athāśoko mahārājaḥ śrotuṃ subhāṣitaṃ punaḥ /
+upaguptaṃ yatiṃ natvā sāñjalir evam abravīt // svp_*1* //
+
+bhadanta śrotum icchāmi punas tasya jagadguroḥ /
+munīndrasyānubhāvatvaṃ tat samādeṣṭum arhati // svp_*2* //
+
+iti saṃprārthitaṃ rājñā śrutvā so 'rhan yatiḥ sudhīḥ /
+taṃ narendraṃ samāmantrya saṃpaśyann evam ādiśat // svp_*3* //
+
+(sam 40b6; bka c 99b4; bka t 71b8)
+atha śṛṇu samādhāya yathā me guruṇoditaṃ /
+tathāhaṃ saṃpravakṣyāmi tava puṇyapravṛddhaye // svp_1 //
+
+tad yathābhūn mahāpuryāṃ mathurāyāṃ mahājanaḥ /
+sādhubhogābhidhaḥ śreṣṭhī sarvadravyasamṛddhimān // svp_2 //
+
+tasya bhāryā subhadrāṃgī sundarī ratisaṃnibhā /
+sādhvī śrīsadṛśākārā priyaṃvadābhidhā varā // svp_3 //
+
+tasyās triyaṃtrikā jātā dārikā vyaṃgikāśrayā /
+tāṃ dṛṣṭvā dārikāṃ mātā babhūva vyāhatāśayā // svp_4 //
+
+janako 'pi samālokya dārikāṃ tāṃ triyantrikāṃ /
+lajjāvidaritasvāntas tasthau niśvāsatatparaḥ // svp_5 //
+
+tataḥ sa janakaḥ śreṣṭhī nimittajñān vicakṣaṇān /
+tīrthikān sahasāmantrya dārikāṃ tām adarśayat // svp_6 //
+
+triyantritāṃ śiśuṃ dṛṣṭvā nimittajñaḥ sa tīrthikaḥ /
+dārikeyam abhadreti śreṣṭhino 'gre nyavedayat // svp_7 //
+
+tac chrutvā janakaḥ śreṣṭhī duḥkhaśaṃkākulāśayaḥ /
+snehaśokāgnitaptātmā tasthau saṃmohitendriyaḥ // svp_8 //
+
+tāṃ dṛṣṭvā sā satī bhāryā śrutvā tat tīrthikoditaṃ /
+snehaśokāgnisaṃtaptā babhūva vyāhatāśayā // svp_9 //
+
+tasmin kaṇe supuṇyātmā sarvavidyāvicakṣaṇā /
+sā parivrājikā tatra śreṣṭhigṛha upācarat // svp_10 //
+
+tāṃ dṛṣṭvā samupāyātāṃ śreṣṭhī sa sahasotthitaḥ /
+sādaraṃ samupāmantrya śuddhāsane nyaveśayat // svp_11 //
+
+sādhubhogas tataḥ śreṣṭhī tāṃ parivrājikāṃ mudā /
+abhyarcya bhojayitvā ca saṃprasādyaivam abravīt // svp_12 //
+
+bhadrike dārikā jātā mamātmajā triyantrikā /
+imāṃ te dātum icchāmi samanvāhartum arhasi // svp_13 //
+
+iti nivedya sa śreṣṭhī samādāya nijāṃ sutāṃ /
+tāṃ tasyāḥ purataḥ sthāpya bahu dravyaṃ ca prabravīt // svp_14 //
+
+iyaṃ me dārikā bhadre bhavatyai saṃkalpitā mayā /
+tad bhavatyā samādāya saṃpālyā svātmajā yathā // svp_15 //
+
+tvaṃ putraputrīhīnāsi nirbhartṛkā nirākulā /
+tasmāt tvayā pālanīyā svātmajeva śiśur iyaṃ // svp_16 //
+
+iti nivedya sa śreṣṭhī sadhātrīṃ tāṃ sutāṃ mudā /
+bahudravyānvitāṃ tasyai datvaivaṃ punar abravīt // svp_17 //
+
+yadeyaṃ saṃpravṛddhā syāt tadā te dāsikā bhavet /
+tasmād yāvad iyaṃ bālā tāvat pālyā tvayā sadā // svp_18 //
+
+tataḥ pravrājya sve dharme saṃcārayasva sanmate /
+adhyāpaya ca sarvāṇi śāstrāṇy api yathākramaṃ // svp_19 //
+
+ity uktvā sa pitā putrīṃ vastrālaṃkāramaṇḍitām /
+tāṃ tasyai brahmacāriṇyai saṃkalpya pradadau muda // svp_20 //
+
+tat pradattāṃ samādāya sadhātrīṃ sopacārikāṃ /
+datvā bhadrāśiṣaṃ tasmai śirī nāmā tato 'carat* // svp_21 //
+
+tatra sā svāśrame gatvā sadhātrīṃ tāṃ pramoditā /
+svātmajām iva saṃpālya sahasā samapoṣayat // svp_22 //
+
+evaṃ saṃpālyamānā sā dine dine 'bhivardhitā /
+paripuṣṭendriyā kāntā sarvamanoharābhavat // svp_23 //
+
+tatas tayānuśāsinyā pravrājitā yathāvidhiṃ /
+sā yatisaṃvaraṃ dhṛtvā kāṣāyacīvarācarat // svp_24 //
+
+tataḥ sā sumatī kanyā sarvā lipīr aśikṣata /
+tataḥ krameṇa sarvāṇi śāstrāṇi samaśikṣata // svp_25 //
+
+evam adhītya sā vijñā sarvavidyāntapāragā /
+mahādhīr iti nāmābhūt subuddhitvāt triyantrikā // svp_26 //
+
+krameṇa kuṭilāṃgī sā śālaproccābhavat sudhīḥ /
+nijadharmānubhāvena pūrvapāpakṣayaṃ gate // svp_27 //
+
+catuḥṣaṣṭi kalādhītā vedādhyayanacāturī /
+sarvavādimanotrāsaṃ saṃharantī vyarājata // svp_28 //
+
+sarve 'pi vādino vijñās tāṃ jetuṃ naiva śekire /
+saiva pravādinaḥ sarvān vinirjityābhyarājata // svp_29 //
+
+tat kīrtisurabhis tasyāḥ samantataḥ prasāritā /
+tat sumatiṃ samakarṇya sarve 'tivismayaṃ yayuḥ // svp_30 //
+
+tadā tatra dvijo vidvān sarvavedāntapāragaḥ /
+vidyākarābhidho mānī dakṣiṇātaḥ samāgataḥ // svp_31 //
+
+sa pārśvaṃ tāmrapaṭṭena veṣṭayitvā samunmanāḥ /
+ulkām ujvālitāṃ dhṛtvā pure tatra mudāviśat // svp_32 //
+
+yo mayā saha saṃvādaṃ kartum atra samicchati /
+tasyāham upagaccheyam iti mānī mudācarat // svp_33 //
+
+tam āyātaṃ samālokya māthurikā mahājanāḥ /
+taṃ dvijaṃ samupāmantrya sarve py evaṃ babhāṣire // svp_34 //
+
+sādho mātra samāgaccha dhṛtvolkāṃ jvalitām imāṃ /
+yā parivrājikā sādhvī sā prājñā vidyate satī // svp_35 //
+
+iti tair gaditaṃ śrutvā vidyākaro 'timānikaḥ /
+māthurikān upāsṛtya sāhaṃkāraḥ samabravīt // svp_36 //
+
+kā parivrājikā prājñā vidyate 'tra kuhāśritā /
+tām ahaṃ draṣṭum icchāmi tad darśayitum arhathaḥ // svp_37 //
+
+iti taduktam ākarṇya sarve 'pi te mahājanāḥ /
+brāhmaṇaṃ taṃ samālokya saṃpraṣṭum evam abravīt // svp_38 //
+
+sādho yadi tayā sārdhaṃ saṃvādaṃ kartum icchasi /
+tāṃ kāntāṃ sumatiṃ vijñāṃ darśayiṣyāmahe vayaṃ // svp_39 //
+
+iti sarvair api proktaṃ śrutvā sa brāhmaṇo mudā /
+saṃpaśyans tān janān sarvān puraḥ sthitvaivam abravīt // svp_40 //
+
+bho bhavantas tayā sārdhaṃ saṃvādaṃ kartum utsahe /
+tad enāṃ samupānīya darśayantu puro mama // svp_41 //
+
+iti tena samākhyātaṃ śrutvā tatheti te janāḥ /
+sahasā tatrāśrame gatvā tasyā yater upāśrayan // svp_42 //
+
+tān vīkṣya samupāsīnān sā parivrājikā mudā /
+kimartham āgatā yūyam iti saṃparyapṛcchata // svp_43 //
+
+tac chrutvā te janāḥ sarve natvā sāṃjalayo mudā /
+tāṃ mahādhiyam āpaśyan māthurā evam abruvan // svp_44 //
+
+eko 'tra brāhmaṇo vidvān sarvaśāstravicakṣaṇaḥ /
+vedāntapārago vijño dakṣiṇātaḥ samāgataḥ // svp_45 //
+
+tat tena saha saṃvādaṃ kartuṃ yadi tvam icchasi /
+sarvalokasabhāmadhye svaguṇaṃ saṃprakāśaya // svp_46 //
+
+śaknosi yadi vijñena saṃvādaṃ kuru mānini /
+parājitā cet tena tvaṃ vayam apy upahāsyatāṃ // svp_47 //
+
+iti tair uktam ākarṇya sā parivrājikā sudhīḥ /
+vāḍham icchāmi saṃvādaṃ kartuṃ tena dvijena hi // svp_48 //
+
+sarvalokasabhāmadhye darśayiṣyāmi madguṇaṃ /
+iti tayā samuditaṃ śrutvā sarve savismayāḥ // svp_49 //
+
+sarveme tat pravṛttāntaṃ rājñaḥ puro nyavedayan /
+tat samākarṇya rājā sa yathāmūbhyāṃ prabhāṣitaṃ // svp_50 //
+
+kārayata tathā yūyam iti tān avadaj janān /
+tadanujñāṃ samāsādya sarve te muditā janāḥ // svp_51 //
+
+āmantrya tajjanān etad vṛttaṃ proktvaivam ūcire /
+parivrājikayā sārdham amuyāpy ativijñayā // svp_52 //
+
+amuko brāhmaṇo vidvān saṃvādaṃ kartum icchati /
+tac chrotuṃ ye 'bhivāñcchanti jñātuṃ caitad viśeṣatāṃ // svp_53 //
+
+sarve tatra samāyāntu pure 'taḥ saptame dine /
+iti rājñā samādiṣṭaṃ prabhāṣantaḥ samantataḥ // svp_54 //
+
+ghaṇṭāghoṣaṃ samuccārya codayata sato janān /
+iti tatkathitaṃ śrutvā sarve 'pi sajjanā mudā // svp_55 //
+
+tatra te muditāḥ sarve yathādiṣṭaṃ mahībhṛtā /
+tathā ghaṇṭāṃ samunnādya sarvāṃl lokān vyanodayan // svp_*55* //
+
+tathāhīti pratijñāya ghaṇṭāghoṣam acārayan /
+tat samākarṇya sarve 'pi sajjanā mathurāśritāḥ // svp_56 //
+
+tadvivādaṃ samicchantaḥ śrotuṃ draṣṭuṃ pracerire /
+tadā vidyākaro mānī manasaivaṃ vyacintayat // svp_57 //
+
+sā parivrājikā vijñā kīdṛgvidyāvicakṣaṇā /
+iti vicintya satrasthas tāṃ parivrājikāṃ satīṃ // svp_58 //
+
+draṣṭuṃ tatrāśrame gatvā lokān evam apṛcchata /
+yā parivrājikā prājñā sā kā kuhasamāśritā // svp_59 //
+
+tāṃ bhavantaḥ samāmantrya saṃdarśayantu me drutaṃ /
+iti tat kathitaṃ śrutvā tatrāntikasamāśritāḥ // svp_60 //
+
+tāṃ parivrājikāṃ sādhvīṃ samāmantryaivam abruvan /
+bho bhadre brāhmaṇo vidvān bhavatīṃ draṣṭum icchati // svp_61 //
+
+tad bhavatī tam āmantrya saṃdarśayatu sādaraṃ /
+iti taduktam ākarṇya sā parivrājikā mudā // svp_62 //
+
+taṃ vidvāṃsaṃ samāmantrya purataḥ samupāśrayat /
+tāṃ parivrājikāṃ kāntāṃ manoramātisundarīṃ // svp_63 //
+
+samīkṣya suciraṃ tasthau rāgāgnijvalitāśayaḥ /
+sā parivrājikā cāpi dṛṣṭvā taṃ sundaraṃ dvijaṃ // svp_64 //
+
+saṃrāgavyākulasvāntā paśyanty eva samāśrayat /
+tayor dvayor daivayogād rāgavahniḥ samutthitaḥ // svp_65 //
+
+tenābhidravitasvāntau sneharaktau babhūvatuḥ /
+tataḥ sa brāhmaṇaḥ kānto yuvā rāgākulendriyaḥ // svp_66 //
+
+tāṃ kāntāṃ yauvanīṃ rāmāṃ saṃpaśyan raha abravīt /
+ayi bhadre subhadrāṃgi tvāṃ dṛṣṭvā mama mānasaṃ // svp_67 //
+
+rāgāgnir dīpyate dagdhuṃ tac chamīkartum arhati /
+yadi te 'sti dayā bhadre brāhmaṇe 'smin vicakṣaṇe // svp_68 //
+
+tat sudṛṣṭyā samālokya mām āśvāsyābhinandaya /
+iti taduktam ākarṇya sā parivrājikā api // svp_69 //
+
+kāmarāgāvilasvāntā tasthau saṃmohitā yathā /
+evaṃ saṃmohitasvāntāṃ tāṃ vīkṣya brāhmaṇo 'pi saḥ // svp_70 //
+
+āliṃgya sudṛśāpaśyan samāśvāsyaivam abravīt /
+ayi bhadre yadi te 'sti snehamaitramano mayi // svp_71 //
+
+śrutvā me 'bhihitaṃ vākyaṃ cittaṃ samabhinandaya /
+sumate yan mayā sārdhaṃ vivādaṃ kartum icchasi // svp_72 //
+
+aham api tvayā sārdhaṃ vivādaṃ kartum utsahe /
+tad yadi te mayi snehas tan me hitaṃ vacaḥ śṛṇu // svp_73 //
+
+tan manasā samādhāya samabhikartum arhati /
+iti taduktam ākarṇya kāmāturā mahāsudhīḥ // svp_74 //
+
+vidyākaraṃ samālokya vihasaṃty evam abravīt /
+bho dvijendra mahāprājña samādiṣṭaṃ tvayā yathā // svp_75 //
+
+tathāhaṃ kartum icchāmi satyam iti pravakṣyatāṃ /
+iti tayā samākhyātaṃ śrutvāsau cāturo mudā // svp_76 //
+
+tāṃ smitānanaḥ prāha manojarasavihvalaḥ /
+yady evaṃ kriyate rāme tathāvayoḥ samāgamaṃ // svp_77 //
+
+yāvaj jīvaṃ sukhaṃ bhuktvā ramamāṇau caremahi /
+tad abhisamayaṃ kṛtvā guptam āvāṃ vidhāya tat // svp_78 //
+
+evaṃ tatra sabhāmadhye saṃlapiṣyāvahe kila /
+yo 'tra vivādite jetā tasya sa hatamānikaḥ // svp_79 //
+
+śaraṇe prāpya śiṣyatvaṃ saṃcareta sadānugaḥ /
+ity abhisamayaṃ kṛtvā sākṣīkṛtvā mahājanān // svp_80 //
+
+tatra sarvasabhāmadhye saṃvadiṣyāmahe mithaḥ /
+mayā cen nirjitā tvaṃ strī tadā loke na ninditā // svp_81 //
+
+kim āścaryaṃ jitā bālā puṃsā sateti vakṣyate /
+yadi tatra sabhāmadhye nirjito 'haṃ tvayā striyā // svp_82 //
+
+tadā loke bhaviṣyāmi nindyamānaḥ samantataḥ /
+pumān api dvijaḥ prājño bālayāpi striyā jitaḥ // svp_83 //
+
+iti hāsyapathaṃ yāsye vidyākaro 'tiviśrutaḥ /
+iti tvayā tadā tatra saṃvāde nau pravartite // svp_84 //
+
+ante pratyuttaraṃ naiva dātavyam api kiṃcana /
+tathā jitvā mayā tvaṃ strī śiṣyāpi me bhaves tadā // svp_85 //
+
+evaṃ samāgamaṃ nau syād vāvaj jīvaṃ sukhaṃ mahat /
+iti taduktam ākarṇya sā kāmarāgadāhitā // svp_86 //
+
+tatheti patibhāṣitvā brāhmaṇaṃ taṃ vyanodayat /
+evaṃ sa brāhmaṇas tatra kṛtvābhisamayaṃ tayā /
+lokāsamīkṣyamāṇaś ca svālaye prācaran mudā // svp_87 //
+
+tato 'nyasmin dine prātaḥ vidvān kāmasamutsukaḥ /
+mahājanasabhāmadhye gatvāmantryaivam abravīt // svp_88 //
+
+bhavanto 'dya tayā sārdhaṃ parivrājikayā saha /
+saṃvādaṃ kartum icchāmi tad ānayantu tāṃ drutaṃ // svp_89 //
+
+iti tenoditaṃ śrutvā sarve 'pi te mahājanāḥ /
+tatheti samupāmantrya tāṃ yatim evam abruvan // svp_90 //
+
+bhavati yad ayaṃ vipraḥ sarvaśāstravicakṣaṇaḥ /
+bhavatyā saha saṃvādaṃ kartum adya samicchati // svp_91 //
+
+tad bhavantī sahānena vivadituṃ yadīcchati /
+tatra raṃge sabhāmadhye samāgatyābhitiṣṭhatu // svp_92 //
+
+iti taduktam ākarṇya sā parivrājikā mudā /
+taṃ bhartāram abhīcchantī raṃgabhūmyāṃ samāśrayat // svp_93 //
+
+vidyākaro 'pi āgatya tatra raṃge sabhāśraye /
+mahādhīmukhain ālokya pramanāḥ samupāśrayat // svp_94 //
+
+tatra raṃge sabhāmadhye tāv ubhau samupāśritau /
+dṛṣṭvā śrutvāpi te sarve mahājanā upāśrayan // svp_95 //
+
+tad draṣṭuṃ kautukākrāntaṃ viprāś ca brahmacāriṇaḥ /
+nṛpatipramukhā lokāḥ sarve tatra samāgatāḥ // svp_96 //
+
+tathānye 'pi janāḥ santaḥ śilpivaṇikprajādayaḥ /
+sarve 'tra samupāyātās tad draṣṭuṃ samupāśrayan // svp_*96* //
+
+tān draṣṭuṃ samupāsīnān sarvāṃl lokān samīkṣya saḥ /
+brāhmaṇa utthitaḥ paśyan sāñjalir evam abravīt // svp_97 //
+
+bhavanto 'tra yad asmābhiḥ svam atimadamānikaṃ /
+kṛtaṃ vaṭukacāpalyaṃ kartum arhantu tat kṣamāṃ // svp_98 //
+
+yadi mayā vivāde 'tra nārīyaṃ nirjitā tadā /
+kim āścaryaṃ vadel lokaḥ puṃsā nārī jiteti ca // svp_99 //
+
+yady etayā striyāpy atra vivāde 'haṃ vinirjitaḥ /
+pumān api jito nāryā hīti syāṃ sarvaninditaḥ // svp_100 //
+
+tad atra samayaṃ kṛtvā vivādaṃ kartum utsahe /
+tad bhavanto 'pi madhyasthā draṣṭum arhantu sādhavaḥ // svp_101 //
+
+yady eṣātra vivāde māṃ parājetuṃ hi śaknuyāt /
+asyāḥ śiṣyatvam āsādya bhaveyāhaṃ sadānugaḥ // svp_102 //
+
+yady atrāham imāṃ jitvā jayaśriyaṃ samāpnuyāṃ /
+mama śiṣyatvam āsādya bhaved eṣā sadānugā // svp_103 //
+
+iti saṃprārthya vipro 'sau tāṃ parivrājikāṃ satīṃ /
+paśyan vyākaraṇapṛśnaṃ pṛṣṭvā samabhyacodayat // svp_104 //
+
+tatpratyuttaram uddiśya sā parivrājikā sudhīḥ /
+brāhmaṇaṃ taṃ vinirjitya vyasmāyayan sabhājanān // svp_105 //
+
+tac chrutvā te janāḥ sarve vismayāpannamānasāḥ /
+prājñeyaṃ yatir ity uktvā svasvālayam upācaram // svp_106 //
+
+tat paredyus tathā tatra sā parivrājikāgatā /
+te 'pi santo janāḥ sarve samāgatya samāśrayan // svp_107 //
+
+tataḥ sa brāhmaṇas tatra sabhāmadhye samāśritaḥ /
+tāṃ parivrājikāṃ paśyañ cchāstrārthaṃ paryapṛcchata // svp_108 //
+
+tac chāstrārthaṃ samākhyāya yuvatir api sā sudhīḥ /
+vidvāṃsam api taṃ jitvā sarvān sato 'nvamodayat // svp_109 //
+
+evaṃ ca tṛtīye 'py ahni sā yoṣid api sanmatiḥ /
+sarvakalābhisaṃvāde vispaṣṭārtham udāharat // svp_110 //
+
+evaṃ turyadine cāpi pañcame divase tathā /
+ṣaṣṭhe 'pi vāsare saivaṃ yathārthaṃ samupādiśat // svp_111 //
+
+evaṃ sa brāhmaṇas tatra saptame 'hni samāśrite /
+kriyābandhaṃ taya kṛtvā raṃgabhūmim upāsarat // svp_112 //
+
+trapākulacitta iva janān āha sucāturaḥ /
+adyāpy ahaṃ yadi jitas tasyāḥ syām anugo nanu // svp_113 //
+
+jeṣyati pratyahaṃ saivam ekasminn apy ahaṃ kimu /
+vāṇīcchalāj jitā sā tu yato yoṣit sarasvatī // svp_114 //
+
+iti proktvā dvijaḥ kāmī kāmāturīṃ mahādhiyaṃ /
+pragalbhavacasā nāriṃ vedāntaṃ samapṛcchata // svp_115 //
+
+tatra vijñāpi sā sādhvī smṛtvābhisamayaṃ sudhīḥ /
+api pratyuttaraṃ kiñcid asamarthaiva no dadau // svp_116 //
+
+tataḥ sa brāhmaṇaḥ paśyan mahājanān sabhāśritān /
+sānandasuprasannāsyaḥ sāñjalir evam abravīt // svp_117 //
+
+bhavanto dṛśyatām atra labhate ko jayaśriyaṃ /
+iti samīkṣya prākhyātum arhanti mānyathā khalu // svp_118 //
+
+iti tat prārthitaṃ śrutvā sarve 'pi te sabhājanāḥ /
+vidyānidhiṃ mahāprājñaṃ saṃpraśaṃsyaivam abruvan // svp_119 //
+
+kovidātra bhavāñ jetā yatir eṣā parājitā /
+tad iyaṃ bhavataḥ śiṣyā bhaveta sarvadānugā // svp_120 //
+
+ekasminn eva divase mahādhīs tena nirjitā /
+katham atra saṃdeha iti sarve savismayāḥ // svp_121 //
+
+iti sarvaiḥ samākhyātaṃ śrutvā sa brāhmaṇo mudā /
+tāṃ parivrājikāṃ paśyan vihasann evam abravīt // svp_122 //
+
+ayi bhadre samāyāhi yathābhisamayaṃ kṛtam /
+tathānugatvam āsādya cara dharmaṃ mamānugā // svp_123 //
+
+iti taduktam ākarṇya sā parivrājikā smitā /
+lajjābhihatacitteva tasthāv abhinatānanā // svp_124 //
+
+tataḥ sa mudito vipro daṇḍaṃ cchatram upānahaṃ /
+datvā tāṃ sahasāmantrya samāśvāsyaivam abravīt // svp_125 //
+
+ayi bhadre tathā siddhaṃ yathā mayā samīhitaṃ /
+tat tvaṃ mudā mayā sārdhaṃ sukhaṃ cara samāvraja // svp_126 //
+
+iti tat kathitaṃ śrutvā sā parivrājikā tataḥ /
+daṇḍam upānahau cchatraṃ gṛhītvā prasthitā śanaiḥ // svp_127 //
+
+tataḥ sa brāhmaṇo dhṛtvā tāṃ parivrājikāṃ mudā /
+vijayaśrīmahotsāhair vāsālayam upācarat // svp_128 //
+
+tatra vāse samāśritya vidvān so 'tyabhinanditaḥ /
+tayā sārdhaṃ yathākāmaṃ bhuṃjamāno 'ramat sukhaṃ // svp_129 //
+
+tatraivaṃ ramyamāṇāsau tena bhartrātirāginā /
+kāla āpannasatvābhūt prāvṛṣīva ghano 'mbubhṛt // svp_130 //
+
+tataḥ krameṇa sā nārī saṃpravardhitagarbhiṇī /
+kṛśāṃgī pāṇḍuvarṇābhūn mṛduvāg mandagāminī // svp_131 //
+
+garbhiṇī sā parijñāya nindyamānā mahājanaiḥ /
+lajjāsaṃkocitasvāntā bhartāram āha taṃ dvijaṃ // svp_132 //
+
+svāmin bhavān vijānātu yad ahaṃ garbhiṇī bhave /
+tal lokair nindyamānātra kathaṃ careya sāṃprataṃ // svp_133 //
+
+tad anyaviṣaye gatvā sthātum icchati me manaḥ /
+yadīcchasi mayā sārdhaṃ rantuṃ prehi vrajevahi // svp_134 //
+
+iti tayā samākhyātaṃ śrutvā sa brāhmaṇas tathā /
+anyatra viṣaye gantuṃ tayā sārdhaṃ samaicchata //135 //
+
+tatas tau mathurāṃ tyaktvā jagmatur dakṣiṇāpathaṃ /
+janapadacārikāṃ tatra caritvā sukham āpatuḥ // svp_136 //
+
+tatra śvetavalākākhye pure tau dampatī mudā /
+gatvā rātrau samāśritya nyūṣatuḥ parikheditau // svp_137 //
+
+tatra sā navamāsānām atyayāt samayāgate /
+maṭhe lokasabhonānte prāsūta laghudārakam // svp_138 //
+
+ātmajaṃ taṃ samālokya suvarṇam abhisundaraṃ /
+sā mātā vismitasvāntā tasthau lajjānatānanā // svp_139 //
+
+janako' pi tam ālokya vijño 'yaṃ hi bhaved api /
+iti matvā ciraṃ paśyans tasthau saṃharṣitāśayaḥ // svp_140 //
+
+tataḥ sa janakas tasya kṛtvā jātimahaṃ svayaṃ /
+nāmāsya kiṃ kariṣye 'ham iti dhyātvaivam abravīt // svp_141 //
+
+yat sabhāyāṃ prajāto 'yaṃ tenāsya nandanasya me /
+sabhika iti vikhyātaṃ nāma bhavatu sarvataḥ // svp_142 //
+
+ity ākhyāya pitā tasya dārakasya yathārthataḥ /
+sabhika iti prakhyātaṃ nāma kṛtvātyasārayat // svp_143 //
+
+tataḥ sa dārako mātrā pitrāpi saṃprapālitaḥ /
+paripuṣṭendriyo vṛddho babhūvāśu manoharaḥ // svp_144 //
+
+tataḥ sa sabhiko dhīmān aśikṣata lipīḥ kramāt /
+sarvaśāstrāṇy adhītyāśu mahāvāditvam āyayau // svp_145 //
+
+evaṃ sa vādijid vijñaḥ sarvavidyāvicakṣaṇaḥ /
+vidyābhimāninaḥ sarvān parājetuṃ samaicchata // svp_146 //
+
+tato 'nujñāṃ samāsādya pitroḥ so 'tyatimānikaḥ /
+pravrajitvā guror ājñāṃ dhṛtvācarad yativrataṃ // svp_147 //
+
+yasya mātā mahāprājñā vidyākaraḥ pitā tathā /
+ato 'timānī sabhikaḥ svayaṃ vidyāvicakṣaṇaḥ // svp_148 //
+
+tataḥ sa mānino jetuṃ samudrāntika āśrame /
+maharṣīn brāhmaṇān vijñān saṃdraṣṭuṃ samupācarat // svp_149 //
+
+tatra sa vādinaḥ sarvān sarvaśāstrapravādite /
+jitvā vijayam āsādya samabhyānandito 'carat // svp_150 //
+
+tato 'nyatrāśrame gatvā sa sabhiko vyalokayat /
+tathā pravādinaḥ sarvāñ jitvā jayaṃ samāyayau // svp_151 //
+
+evaṃ sa sabhiko gatvā ṣoḍaśanagareṣv api /
+sarvān pravādino jitvā jayakīrtiśriyaṃ yayau // svp_152 //
+
+tataḥ sa sabhikaḥ sarvavidyāmadābhimānikaḥ /
+sarvān pravādino jetuṃ manasaivaṃ vyacintayat // svp_153 //
+
+saṃbuddho 'sau mahābhijñaḥ sarvajño 'rhan munīśvaraḥ /
+sarvavādivijeteti prathitaṃ sarvato 'dhunā // svp_154 //
+
+tad ahaṃ tasya munīndrasya jagacchāstur mahāmateḥ /
+prajñāviśeṣam ājñātuṃ gamiṣyāmi tadāśrame // svp_155 //
+
+jetuṃ na śakyate buddhaḥ kṣatriyātmaja eva saḥ /
+raṇakāle tu vīrās te kṣatriyāḥ śāstravaimukhāḥ // svp_156 //
+
+vidyākaro mama pitā mahādhīr jananī punaḥ /
+svayaṃ vidyābdhipāraś ca sarvavādimadāpahaḥ // svp_157 //
+
+iti sa sabhiko dhyātvā vārāṇasyāṃ jināśrame /
+mṛgadāve bhraman gatvā samīkṣya samupācarat // svp_138 //
+
+tatra sabhāsanāsīnaṃ sarvalokasamāvṛtaṃ /
+dadarśa sa munīndraṃ taṃ pūrṇendum iva bhāskaraṃ // svp_159 //
+
+taṃ dṛṣṭvā sa mahāmānī vismayākrāntamānasaḥ /
+vibhinnavadanas tasthau paśyan niścalitendriyaḥ // svp_160 //
+
+tato dhairyaṃ samālambya madamānaṃ vihāya saḥ /
+praṇatvā sāñjalis tatra saṃpaśyan samupācarat // svp_161 //
+
+tatra sa samupāśritya tasya śāstur mahāmuneḥ /
+praṇatvā caraṇāmbhoje sāñjaliḥ samupāśrayat // svp_162 //
+
+tatra sa suprasannātmā sāñjaliḥ sa puraḥ sthitaḥ /
+saṃbuddhaṃ taṃ mahābhijñaṃ saṃpaśyann evam abravīt // svp_163 //
+
+bhagavans tad vijānīyād yadarthe 'ham ihāvraje /
+tad bhavān me manovāñchāṃ saṃpūrayitum arhati // svp_164 //
+
+iti saṃprārthitaṃ tena śrutvā sa bhagvāñ jinaḥ /
+taṃ sabhikaṃ samālokya vihasann evam ādiśat // svp_165 //
+
+śṛṇu sādho mahābhāga yadarthe tvam ihāgataḥ /
+tat te saṃpūrayiṣyāmi samākhyāhi samīhitaṃ // svp_166 //
+
+ity ādiṣṭaṃ munīndreṇa śrutvā sa sabhiko mudā /
+bhagavantaṃ tam ālokya sāñjalir evam abravīt // svp_167 //
+
+bhagavan bhavatā prāptaṃ kiṃ jñānaṃ kiṃ ca te vrataṃ /
+yat saṃbuddho bhavān khyāta etad ādeṣṭum arhati // svp_168 //
+
+iti tat prārthitaṃ śrutvā sarvamānimadāpahaḥ /
+bhagavān sabhikaṃ drṣṭvā tad uttaram upādiśat // svp_169 //
+
+uttaraṃ pratipṛcchasva tadarthaṃ sabhika madī /
+śiṣyāṇām agrato 'jño 'yaṃ svalpaśikṣāparigrahāt // svp_170 //
+
+iti sarvajñavacanaṃ śrutvā sabhika mānikaḥ /
+nirmada uttaraṃ vijñaṃ papraccha sāñjaliḥ smitaḥ // svp_171 //
+
+bhagavatājñapitas tvaṃ tadarthaṃ me samādiśa /
+vinayād arthitas tena tadartham uttarādiśat // svp_172 //
+
+katham ajño 'si sabhika sarvavidyāvicakṣaṇa /
+śrūyatāṃ kathayiṣyāmi saṃkṣepāt sāvadhānataḥ // svp_173 //
+
+bodhicaryāvrataṃ dhṛtvā saṃprāpya bodhim uttamāṃ /
+saṃbodhayati yaḥ sarvaṃ sa saṃbuddho nigadyate // svp_174 //
+
+mārāśrayaṃ gṛhaṃ tyaktvā niṣkleśo vijitendriyaḥ /
+sarvasatvahitārthena carate yas tapovrataṃ // svp_175 //
+
+so 'rhan bhikṣur viśuddhātmā caturbrahmavihārikaḥ /
+saddharmaśrāvakaḥ saṃghaḥ sa yogī yatir ucyate // svp_176 //
+
+māyābhavaṃ jagan matvā svaparātmahitārthabhṛt /
+bodhicaryāvrataṃ dhṛtvā carate yo jagaddhite // svp_177 //
+
+sa śramaṇo mahābhijño bhadraśrīsadguṇāśrayaḥ /
+bodhisatvo mahāsatvaḥ sarvadharmārthabhṛt smṛtaḥ // svp_178 //
+
+ity uttareṇa saṃdiṣṭaṃ śrutvā sa sabhikaḥ punaḥ /
+sāścarya uttaraṃ vijñaṃ praṇatvā ca nyavedayat // svp_179 //
+
+uttarabrāhmaṇāḥ ke ca snātakāś ca kathaṃ dvijāḥ /
+vaidikāś ca kathaṃ viprāḥ śrotriyāś cāpi te kathaṃ // svp_180 //
+
+kṣetrajñāś ca kathaṃ te 'pi kathaṃ ca brahmacārinaḥ /
+ṛṣayaś ca parivrājā munayaś ca tapasvinaḥ // svp_181 //
+
+yatayo yoginaś cāpi kathaṃ kenāpi karmataḥ /
+etat karma samākhyāya saṃbodhayatu me manaḥ // svp_182 //
+
+iti saṃprārthitaṃ tena uttaro viprabhikṣukaḥ /
+taṃ sabhikaṃ samālokya vihasann evam ādiśat // svp_183 //
+
+ye ca śuddhātmano 'hiṃsā dharmāśritās tapasvinaḥ /
+śuddhasaṃvarasaṃdhānā yogābhyāse sucāturāḥ // svp_184 //
+
+sādhu śṛṇu samādhāya yad etat praṣṭum icchasi /
+tat te mano'bhituṣṭaye vakṣyāmy ahaṃ samāsataḥ // svp_*184a* //
+
+yo viśvaṃ sṛjati brahmā svayaṃbhūr vedabhṛd vidhiḥ /
+tasyātmajahāḥ samācāraḥ sātvikā nirmalendriyāḥ // svp_*184b* //
+
+svaparātmasamācārāś caturbrahmavihāriṇaḥ /
+vedadharmārthabhartāraḥ santas te brāhmaṇāḥ smṛtāḥ // svp_185 //
+
+snātvā tīrtheṣu nityaṃ ye śuddhaśīlā jitendriyāḥ /
+brahmavrataṃ carantas te niṣkāṃkṣāḥ snātakāḥ smṛtāḥ // svp_186 //
+
+saṃskārapariśuddhā ye vedadharmasamācarāḥ /
+brahmacaryāvrataṃ dhṛtvā carante te dvijāḥ smṛtāḥ // svp_187 //
+
+śuddhaśīlāḥ samācārā vedadharmārthasādhakāḥ /
+brahmavṛttisamādhānā dhīrās te vaidikāḥ smṛtāḥ // svp_188 //
+
+ye brahmasaṃvaraṃ dhṛtvā saṃcarantaḥ sadā śubhe /
+sadvidheḥ pūrayanty arthaṃ te viprāḥ kathitā budhaiḥ // svp_189 //
+
+ye sudhīrā mahāvīrāḥ sarvasatvahitodyatāḥ /
+vedabhadrārthabhartāraḥ prājñās te śrotriyāḥ smṛtāḥ // svp_190 //
+
+sarveṣām indriyāṇāṃ yat kṣetram ātmā samāśrayet /
+tadviśuddhiṃ vijānīte sa tu kṣetrajña ucyate // svp_191 //
+
+ye maitrīmuditātmānaḥ kāruṇyārdritamānasāḥ /
+upekṣya saṃcarante 'rthe bhadra te brahmacārinaḥ // svp_l92 //
+
+saṃsāraviratotsāhā nirvṛtisukhalālasāḥ /
+pravrajyāvratasaṃcārās te parivrājakāḥ smṛtāḥ // svp_193 //
+
+ye ca brahmasamācārā mahāsatvā mahardhikāḥ /
+ṛṣayas te samākhyātā svargābhipadasādhinaḥ // svp_194 //
+
+ye bhavagatisaṃcāraniḥsaṃgāḥ susthitendriyāḥ /
+maunacaryāsamācārāḥ santas te munayaḥ smṛtāḥ // svp_195 //
+
+nirapekṣāḥ svakāye 'pi ye carante tapovrataṃ /
+tapasvinas ta ākhyātā bhadraśrīsadguṇārthinaḥ // svp_196 //
+
+ye māyāratiniṣkāṃkṣa niṣkleśā vijitendriyāḥ /
+nirmamāḥ saṃyatātmāno yatayas te nirañjanāḥ // svp_197 //
+
+ye viśvāsasamācārā nirvikalpā nirāśrayāḥ /
+samādhinihitātmāno yoginas te nirañjanāḥ // svp_198 //
+
+ete bhavavinirmuktāḥ pravrajyāvratacāriṇaḥ /
+pariśuddhendriyātmānaḥ saṃyāyuḥ paramāṃ gatiṃ // svp_199 //
+
+etat svalpatarārthe 'pi kathaṃ na jñāyate tvayā /
+vidyābhimāninā sarvāñ jeṣyāmīti madoddhataḥ // svp_200 //
+
+mānaṃ tyaja tvaṃ sabhika bhajainaṃ śāstrapāragaṃ /
+bodhiṃ cara mokṣakāmin pravrajyāvratam ādadha // svp_201 //
+
+ity uktvā nijavṛttāntaṃ kathayāmāsa vistaraṃ /
+nālakasyānujasyāpi sarvajñasyānubhāvatāṃ // svp_202 //
+
+ayam eva trilokeṣu sarvavidyādhipaḥ sudhīḥ /
+sarvadharmādhipaḥ śāstā sarvavādimadāpahaḥ // svp_203 //
+
+yasya smaraṇamātreṇa mamānujo mahāsudhīḥ /
+sarvavādivijetābhūc chrutidharaḥ supāragaḥ //204 //
+
+etādṛśasya sarvajñasya darśane śravaṇe punaḥ /
+kā kathā cara tasmāt tvaṃ śāsane 'sya susaṃvaraṃ // svp_205 //
+
+ity uttaragiraṃ śrutvā sabhikaḥ so 'tisāhasaḥ /
+pravrajyāvratam ādhātuṃ samabhūt pramanāḥ kṛtī // svp_206 //
+
+iti tena jagacchāstrā samādiṣṭaṃ niśamya saḥ /
+sabhikaḥ suprasannātmā prābhyanandat prabodhitaḥ // svp_*206* //
+
+tataḥ sa sabhiko vijñaḥ saṃbuddhaguṇalālasaḥ /
+taṃ munīndraṃ mudā natvā sāñjalir evam abravīt // svp_207 //
+
+bhagavan sarvavid vijña sarvavidyāntapāraga /
+kṣamasva me 'parādhaṃ yan madotthita dayānidhe // svp_208 //
+
+tvam eva bhagavān nāthaḥ sarvadharmādhipo jinaḥ /
+bhavān eva jagacchāstā mahābhijño munīśvaraḥ // svp_209 //
+
+caturmāravinirjetā vināyakas tathāgataḥ /
+virājate bhavān eva traidhātukādhipeśvaraḥ // svp_210 //
+
+kleśadhvāntābhinirhantā saddharmajñānabhāskaraḥ /
+yad ahaṃ bhagavan pātuṃ dharmāmṛtaṃ samutsahe // svp_211 //
+
+tad bhavān māṃ samālokya samanvāhartum arhati /
+sadāhaṃ bhavatā śāstaḥ śaraṇe samupasthitaḥ // svp_212 //
+
+dhṛtvānujñāṃ samādhādya cariṣye saugataṃ padaṃ /
+tad bhavān saugate dharme bhadraśrībodhisādhane // svp_213 //
+
+kṛpāya māṃ samāyujya saṃcārayitum arhati /
+iti saṃprārthitaṃ tena śrutvā sa karuṇāmbudhiḥ // svp_214 //
+
+apamadaṃ parivrājaṃ taṃ samīkṣyaivam ādiśat /
+ehi bhadrāsti te vāṃcchā saugate saṃvare yadi // svp_215 //
+
+bodhicaryāṃ samādhāya niṣkleśaṃ saṃcara vrataṃ /
+ity ādiśya sa saṃbuddho dakṣiṇapāṇinā svayaṃ // svp_216 //
+
+śirasi saṃspṛśans tasya trikāyam abhyaśodhayat /
+bhagavatā śiraḥ spṛṣṭe muṇḍitaḥ sa jitendriyaḥ // svp_217 //
+
+khiṣkhirīpātrabhṛd bhikṣur babhūva cīvarāvṛtaḥ /
+tataḥ sa suprasannātmā prāpyānujñāṃ jagadguroḥ // svp_218 //
+
+bodhicaryāvrataṃ dhṛtvā samācarat samāhitaḥ /
+tataḥ samādhiśuddhātmā pariśuddhatrimaṇḍalaḥ /
+brahmacārī mahābhijño babhūva saugato yatiḥ // svp_219 //
+
+iti śrībhadrakalpāvadāne aśokopaguptasaṃbhāṣaṇe sabhikasaugataśāsanapravrajyāvratacāraṇaparivarto nāma caturdaśo 'dhyāyaḥ //
+
+(sam 47a3ff.: additional verses):
+etad dṛṣṭvā samākarṇya sarve lokādhipā api /
+tad vratam anumodantaḥ saṃcerire 'bhinanditāḥ // svp_*219* //
+
+iti me guruṇādiṣṭaṃ śrutaṃ mayā tathocyate /
+tvam apīdaṃ mahārāja śrutvānumodya cāraya // svp_*22o* //
+
+śrutvedaṃ me 'numodanti sarve te nirmalendriyāḥ /
+bodhisatvā mahābhijñāḥ bhaveyur bodhilābhinaḥ // svp_*221* //
+
+iti śāstrārhatādiṣṭaṃ śrutvā 'śoko nṛpo mudā /
+tathety abhyanumoditvā prābhyanandat sapārṣadaḥ // svp_*222* //
+
+iti sabhikasaugataśāsanapravrajyāvratacaraṇaparivarto nāma navamo 'dhyāyaḥ samāptaḥ //

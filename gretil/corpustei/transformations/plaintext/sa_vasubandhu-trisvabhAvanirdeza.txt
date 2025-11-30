@@ -1,0 +1,172 @@
+Vasubandhu: Trisvabhāvanirdeśa
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vasubandhu-trisvabhAvanirdeza.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Stephen Anacker: Trisvabhavanirdesh. Delhi: Motilal Banarsidass, 1986.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Trisvabhāvanirdeśa = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsa019_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Vasubandhu: Trisvabhavanirdesa
+Based on the ed. by Stephen Anacker: Trisvabhavanirdesh.
+Delhi: Motilal Banarsidass, 1986.
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sastra section, text no. 19
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+// namo mañjuśriye kumārabhūtāya //
+
+ācāryavasubandhupraṇītaḥ
+
+trisvabhāvanirdeśaḥ (tsn)
+
+kalpitaḥ paratantraśca pariniṣpanna eva ca /
+trayaḥ svabhāvā dhīrāṇāṃ gambhīrajñeyamiṣyate // tsn_1 //
+
+yat khyāti paratantro 'sau yathā khyāti sa kalpitaḥ /
+pratyayādhīnavṛttitvāt kalpanāmātrabhāvataḥ // tsn_2 //
+
+tasya khyāturyathākhyānaṃ yā sadāvidyamānatā /
+jñeyaḥ sa pariniṣpannasvabhāvo 'nanyathātvataḥ // tsn_3 //
+
+tatra kiṃ khyātyasatkalpaḥ kathaṃ khyāti dvayātmanā /
+tasya kā nāstitā tena yā tatrādvayadharmatā // tsn_4 //
+
+asatkalpo 'tra kaścittaṃ yatastena hi kalpyate /
+yathā ca kalpayatyartha tathātyantaṃ na vidyate // tsn_5 //
+
+taddhetuphalabhāvena cittaṃ dvividhamiṣyate /
+yadālayākhyaṃ vijñānaṃ pravṛttyākhyaṃ ca saptadhā // tsn_6 //
+
+saṃkleśavāsanābījaiścitatvāccittamucyate /
+cittamādyaṃ dvitīyaṃ tu citrākārapravṛttitaḥ // tsn_7 //
+
+samāsato 'bhūtakalpaḥ sa caiṣa trividho mataḥ /
+vaipākikastathā naimittiko 'nyaḥ prātibhāsikaḥ // tsn_8 //
+
+prathamo mūlavijñānaṃ tadvipākātmakaṃ yataḥ /
+anyaḥ pravṛttivijñānaṃ dṛśyadṛgvittivṛttitaḥ // tsn_9 //
+
+sadasattvād dvayaikatvāt saṃkleśavyavadānayoḥ /
+lakṣaṇābhedataśceṣṭā svabhāvānāṃ gaṃbhīratā // tsn_10 //
+
+sattvena gṛhyate yasmādatyantābhāva eva ca /
+svabhāvaḥ kalpitastena sadasallakṣaṇo mataḥ // tsn_11 //
+
+vidyate bhrāntibhāvena yathākhyānaṃ na vidyate /
+paratantro yatastena sadasallakṣaṇo mataḥ // tsn_12 //
+
+advayatvena yaccāsti dvayasyābhāva eva ca /
+svabhāvastena niṣpannaḥ sadasallakṣaṇo mataḥ // tsn_13 //
+
+dvaividhyāt kalpitārthasya tadasattvaikabhāvataḥ /
+svabhāvaḥ kalpito bālairdvayaikatvātmako mataḥ // tsn_14 //
+
+prakhyānād dvayabhāvena bhrāntimātraikabhāvataḥ /
+svabhāvaḥ paratantrākhyo dvayaikatvātmako mataḥ // tsn_15 //
+
+dvayābhāvasvabhāvatvādadvayaikasvabhāvataḥ /
+svabhāvaḥ pariniṣpanno dvayaikatvātmako mataḥ // tsn_16 //
+
+kalpitaḥ paratantraśca jñeyaṃ saṃkleśalakṣaṇam /
+pariniṣpanna iṣṭastu vyavadānasya lakṣaṇam // tsn_17 //
+
+asaddvayasvabhāvatvāt tadabhāvasvabhāvataḥ /
+svabhāvāt kalpitājjñeyo niṣpanno 'bhinnalakṣaṇaḥ // tsn_18 //
+
+advayatvasvabhāvatvād dvayābhāvasvabhāvataḥ /
+niṣpannāt kalpitaścaiva vijñeyo 'bhinnalakṣaṇaḥ // tsn_19 //
+
+yathākhyānamasadbhāvāt tathāsattvasvabhāvataḥ /
+svabhāvāt paratantrākhyānniṣpanno 'bhinnalakṣaṇaḥ // tsn_20 //
+
+asaddvayasvabhāvatvād yathākhyānāsvabhāvataḥ /
+niṣpannāt paratantro 'pi vijñeyo 'bhinnalakṣaṇaḥ // tsn_21 //
+
+kramabhedaḥ svabhāvānāṃ vyavahārādhikārataḥ /
+tatpraveśādhikārācca vyutpattyarthaṃ vidhīyate // tsn_22 //
+
+kalpito vyavahārātmā vyavahartrātmako 'paraḥ /
+vyavahārasamucchedasvabhāvaścānya iṣyate // tsn_23 //
+
+dvayābhāvātmakaḥ pūrvaṃ paratantraḥ praviśyate /
+tataḥ praviśyate tatra kalpamātramasaddvayam // tsn_24 //
+
+tato dvayābhāvabhāvo niṣpanno 'tra praviśyate /
+tathā hyasāveva tadā astināstīti cocyate // tsn_25 //
+
+trayo 'pyete svabhāvā hi advayālambalakṣaṇāḥ /
+abhāvādatathābhāvāt tadabhāvasvabhāvataḥ // tsn_26 //
+
+māyākṛtaṃ mantravaśāt khyāti hastyātmanā yathā /
+ākāramātraṃ tatrāsti hastī nāsti tu sarvathā // tsn_27 //
+
+svabhāvaḥ kalpito hastī paratantrastadākṛtiḥ /
+yastatra hastyabhāvo 'sau pariniṣpanna iṣyate // tsn_28 //
+
+asatkalpastathā khyāti mūlacittād dvayātmanā /
+dvayamatyantato nāsti tatrāstyākṛtimātrakam // tsn_29 //
+
+mantravanmūlavijñānaṃ kāṣṭhavattathatā matā /
+hastyākāravadeṣṭavyo vikalpo hastivad dvayam // tsn_30 //
+
+arthatattvaprativedhe yugapallakṣaṇatrayam /
+parijñā ca prahāṇaṃ ca prāptiśceṣṭā yathākramam // tsn_31 //
+
+parijñānupalambho 'tra hānirakhyānamiṣyate /
+upalambhanimittā tu prāptiḥ sākṣātkriyāpi sā // tsn_32 //
+
+dvayasyānupalambhena dvayākāro vigacchati /
+vigamāt tasya niṣpanno dvayābhāvo 'dhigamyate // tsn_33 //
+
+hastino 'nupalambhaśca vigamaśca tadākṛteḥ /
+upalambhaśca kāṣṭhasya māyāyāṃ yugapad yathā // tsn_34 //
+
+viruddhadhīvāraṇatvād buddhyā vaiyarthyadarśanāt /
+jñānatrayānuvṛtteśca mokṣāpattirayatnataḥ // tsn_35 //
+
+cittamātropalambhena jñeyārthānupalambhatā /
+jñeyārthānupalambhena syāccittānupalambhatā // tsn_36 //
+
+dvayoranupalambhena dharmadhātūpalabhbhatā /
+dharmadhātūpalambhena syād vibhutvopalambhatā // tsn_37 //
+
+upalabdhavibhutvaśca svaparārthaprasiddhitaḥ /
+prāpnotyanuttarāṃ bodhiṃ dhīmān kāyatrayātmikām // tsn_38 //
+
+iti trisvabhāvanirdeśaḥ samāptaḥ //
+
+kṛtirācāryavasubandhupādānāmiti //

@@ -1,0 +1,106 @@
+Nāgārjuna: Bhavasaṅkrāntiparikathā (reconstructed text)
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-bhavasaGkrAntiparikathA.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Pandit Aiswamy Shastri: Bhavasankrantiparikatha. Madras : Adyar Library, 1938, pp. 1-7.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Bhavasaṅkrāntiparikathā = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsa067_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Nagarjuna: Bhavasamkrantiparikatha (reconstructed text)
+Based on the edition by Pandit Aiswamy Shastri: Bhavasankrantiparikatha.
+Madras : Adyar Library, 1938, pp. 1-7.
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sastra section, text no. 67
+The transliteration emulates the conventions of Nagari script.
+Therefore, many word boundaries are not marked by blanks.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+nāgārjuna: bhavasaṅkrāntiparikathā
+
+namaḥ kumārabhūtāya mañjuśriye /
+
+bhāvānna jāyate 'bhāvo nābhāvādapi jāyate /
+bhāva utpaddyate nityaṃ bhābo bhrāntiḥ khapuṣpavat // 1 //
+
+sati dharme nabhastulye khatulyaṃ jāyate param /
+pratītya sarva khasamaṃ bhāvastasmādabhāvavān // 2 //
+
+sbabhāvataḥ karma nāsti heturnāsti phalaṃ na ca /
+na viddyata idaṃ sarbaṃ loko nāsti na bhañjanam // 3 //
+
+anutpannaśca yo bhāvaḥ paraṃ (sa) janayetkatham /
+lokaḥ prathamato 'jātaḥ kenāpi na hi nirmitaḥ /
+somasiṃhapurītulyo loko bhramyatyanarthake // 4 //
+
+loko vikalpadutpanno vikalpaścittasaṃbhavaḥ /
+cittaṃ hi kāyāśrayakaṃ tasmātkāyo vicāryate // 5 //
+
+rūpaṃ śūnyaṃ vedanā niḥsvabhāvā saṃjñā nāste nāsti saṃskārabhāvaḥ /
+bhūtaṃ hitvā cittacaitte ca nastastasmātkāyaḥ kalpahīnasvabhāvaḥ // 6 //
+
+citta nāsti na dharmāste na kāyo nāpi dhātavaḥ /
+advayīkaraṇaṃ hīdaṃ tattvaṃ vidvadbhirucyate // 7 //
+
+anālambamidaṃ sarvamanālambaṃ prabhāṣitam /
+kṛtvā matimanālambāmanālambaṃ samuddhitaṃ // 8 //
+
+dānaśīlakṣamāvīryadhyānādau suniṣevite /
+acireṇaiva kālena paramāṃ bodhimāpsyati // 9 //
+
+upāyaprajñayosthitvā sattvāṃśca karuṇāpayet /
+sarvajñānaṃ śighrameva lapsyate nahi saṃśayaḥ // 10 //
+
+nāmamātramidaṃ sarvaṃ saṃjñāmātre pratiṣṭhitam /
+nābhidhānātpṛthagbhūtamabhidheyaṃ na vidyate // 11 //
+
+anāmakāḥ sarvadharmā nirātmānaḥ prakīrtitāḥ /
+ime dharmā abhūtāśca kalpanāyāḥ samuddhitāḥ /
+kalpanā sāpi śūnyeyaṃ yayā śūnyeti kalpitāḥ // 12 //
+
+cakṣu paśyati rūpāṇi tattvavaktrā yaducyate /
+mithyābhimānalokasya sāṃvṛtaṃ satyamīritam // 13 //
+
+sāmagryā darśanaṃ yatra prakāśayati nāyakaḥ /
+prāhopacārabhūmiṃ tāṃ paramārthasya buddhimān // 14 //
+
+na cakṣuḥ prekṣate rūpaṃ mano dharmānnvetti ca /
+etattu paraṃ satyaṃ lokasya viṣayo na yat // 15 //
+
+cakṣurnāsti na rūpañca dṛśyaṃ nāsti na manaskriyā /
+cittaṃ svapnasamaṃ bhrāntiḥ sarvaṃ na sadasanna ca // 16 //
+
+ācārya āryanāgārjunakṛta bhavasaṅkrāntiparikathā sampūrṇā //

@@ -1,0 +1,232 @@
+Tārāsragdharāstotra
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_tArAsragdharAstotra.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Klaus Wille
+## Contribution: Klaus Wille
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Godefroy de Blonay: Matériaux pour servir à l'histoire de la déesse Tāra, Paris 1895 (Bibliothèque de l'École des Hautes Études, 107), pp. 34-40.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Tārāsragdharāstotra = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from tarasdhu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Tarasragdharastotra = Tss
+Based on the edition by Godefroy de Blonay: Matériaux pour servir à l'histoire de la déesse Tāra,
+Paris 1895 (Bibliothèque de l'École des Hautes Études, 107), pp. 34-40.
+Input by Klaus Wille.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+āryatārāsragdharāstotra
+
+oṃ namo bhagavatyai āryatārāyai.
+
+bālārkālokatāmrapravarasuraśiraścārucūḍāmaṇiśrī-
+saṃpatsaṃparkarāganāticiraracitālaktakavyaktabhaktī /
+bhaktyā pādau tavārye karapuṭamukuṭātopabhugnottamāṅgas
+tāriṇy āpaccharaṇyair navanutikusumasragbhir abhyarcayāmi // tss_1
+
+durlaṅghe duḥkhavahnau vinipatitatanur durbhagaḥ kāṃdiśīkaḥ
+kiṃ kiṃ mūḍhaḥ karomīty asakṛd api kṛtārambhavaiyarthyakhinnaḥ /
+śrutvā bhūyaḥ parebhyaḥ kṣatanayana iva vyomni candrārkalakṣmīm
+ālokāśānibaddhaḥ paragatigamanas tvāṃ śraye pāpahantrīṃ // tss_2
+
+sarvasmin satvamārge nanu tava karuṇā nirviśeṣaṃ pravṛttā
+tanmadhye tadgraheṇa grahaṇam upagataṃ mādṛśasyāpy avaśyam /
+sāmarthyaṃ cādvitīyaṃ sakalajagadaghadhvāntatigmāṃśubimbaṃ
+duḥkhīvāhaṃ tathāpi pratapati dhig aho duṣkṛtaṃ durvidagdham // tss_3
+
+dhig dhig māṃ mandabhāgyaṃ divasakararucāpy apraṇuṇṇāndhakāraṃ
+tṛṣyantaṃ kūlakacche himaśakalaśilāśītale haimavatyāḥ /
+ratnadvīpapratolyāvipulamaṇiguhāgehagarbhe daridraṃ
+nāthīkṛtvāpy ānāthaṃ bhagavati bhavatīṃ sarvalokaikadhātrīm // tss_4
+
+mātāpi stanyahetor viruvati bahuśaḥ khedam āyāti putre
+krodhaṃ dhatte pitāpi pratidivasam asatprārthanāsu prayuktaḥ /
+tvaṃ tu trailokyavāñchāvipulaphalamahākalpavṛkṣāgravallī
+sarvebhyo 'bhyārcitārthān visṛjasi na ca te vikriyā jātu kācit // tss_5
+
+yo yaḥ kleśoghavahnijvalitatanur ahaṃ tāraṇī tasya tasye-
+tyātmopajñāṃ pratijñāṃ kuru mayi saphalāṃ duḥkhapātālamagne /
+vardhante yāvad ante paruṣaparibhavāḥ prāṇināṃ duḥkhavegāḥ
+samyaksaṃbuddhayāne praṇidhidhṛtadhiyāṃ tāvad evānukampā // tss_6
+
+ity uccair ūrdhvabāhau nadati nutipadavyājam ākrandanādaṃ
+nārhaty anyo 'py upekṣāṃ janani janayituṃ kiṃ punar yādṛśī tvam /
+tvattaḥ paśyan pareṣām abhimatavibhavaprārthanāḥ prāptakāmā
+dahye sahyena bhūyastaram aratibhuvā saṃtatāntarjvareṇa // tss_7
+
+pāpī yady asmi kasmāt tvayi mama mahatī vardhate bhaktir eṣā
+śrutyā smṛtyā ca nāmno 'py apaharasi haṭhāt pāpam ekā tvam eva /
+tyaktavyāpārabhārā nudasi mayi kathaṃ kathyatāṃ tathyakathye
+pathyaṃ glāne mariṣyaty api vipulakṛpaḥ kiṃ bhiṣag rorudhīti // tss_8
+
+māyāmātsaryamānaprabhṛtibhir adhamais tulyakālaṃ kramāc ca
+svair doṣair vākyamāno maṭhakarabha ivānekasādhāraṇāṃsaḥ /
+yuṣmatpādābjapūjāṃ kṣaṇam api na labhe yat tadarthaṃ viśeṣād
+eṣā kārpaṇyadīnākṣarapadaracanā syān mamāvandhyakāmā // tss_9
+
+kalpāntabhrāntavātabhramitajalavalallolakallolahelā-
+saṃkṣobhotkṣiptavelātaṭavikaṭacaṭasphoṭamoṭāṭṭahāsāt /
+majjadbhir bhinnanaukaiḥ sakaruṇaruditākrandaniṣpandamandaiḥ
+svacchandaṃ devi sadyas tvadabhibhūtiparais tīram uttīryate 'bdheḥ // tss_10
+
+dhūmabhrāntābhragarbhodbhavagagaṇagṛhotsaṅgariṅgatsphuliṅga-
+sphūrjaj jvālākarālajvalanajavaviśadveśmaviśrāntaśayyāḥ /
+tvayy ābaddhapraṇamāñjalipuṭamukuṭā gadgadodgītayājñāḥ
+prodyadvidyudvilāsojjvalajaladajavair āpriyante kṣaṇena // tss_11
+
+dānāṃbhaḥpūryamāṇobhayakaṭakaṭakālambirolambamālā-
+huṃkārāhūyamānapratigajajanitadveṣavahner dvipasya /
+dantāntottuṅgadolātalatulitatanus tvām anusmṛtya mṛtyuṃ
+pratyācaṣṭe prahṛṣṭaḥ pṛthuśikharaśiraḥkoṭikoṭṭopaviṣṭaḥ // tss_12
+
+prauḍhaprāsaprahāraprahatanaraśiraḥśūlavallyutsavāyāṃ
+śūnyāṭavyāṃ karāgragrahavilasadasisphoṭakasphītadarpān /
+dasyūn dāsye niyuṅkte sabhṛkuṭīkuṭilabhrūkaṭākṣekṣitākṣāṃś
+cintālekhany akhinnasphuṭalikhitapadaṃ nāmadhāmaśriyāṃ te // tss_13
+
+vajrakrūraprahāraprakharaṇakhamukhotkhātamattebhakumbhaś
+cyotatsāndrāsradhautasphuṭavikaṭasaṭāsaṃkaṭaskandhasaṃdhiḥ /
+krudhyann āpitsur ārād upari mṛgaripus tīkṣṇadāṃṣṭrotkaṭāsyas
+trasyann āvṛtya yāti tvaducitaracitastotradugdhārthavācaḥ // tss_14
+
+dhūmāvartāndhakārākṛtivikṛtiphaṇisphāraphūtkārapūra-
+vyāpāravyāttavaktrasphuradururasanārajjukīnāśapāśaiḥ /
+pāpāt saṃbhūya bhūyas tava guṇagaṇanā tatparas tvatparātmā
+dhatte mattālimālāvalayakuvalayasragvibhūṣāṃ vibhūtiṃ // tss_15
+
+bhartṛbhrūbhedabhītodbhaṭakaṭakabhaṭākṛṣṭaduḥśliṣṭakeśaś
+cañcadvācāṭaceṭotkaṭaraṭitakaṭugranthipāśopagūḍhaḥ /
+kṣuttṛṭkṣāmoṣṭhakaṇṭhas tyajati sa sapadi vyāpadaṃ tāṃ durantāṃ
+yo yāyād āryātārācaraṇaśaraṇatāṃ snigdhavandhūjjhito 'pi // tss_16
+
+māyānirmāṇakarmakramakṛtavikṛtānekanepathyamithyā-
+rūpārambhānurūpapraharaṇakiraṇāḍaṃbaroḍḍāmarāṇi /
+tvattantroddhāryamantrasmṛtihṛtaduritasyā vahanty apradhṛṣyaṃ
+pretaprotāntratantrīnicayaviracitasrāñji rakṣāṃsi rakṣāṃ // tss_17
+
+garjajjīmūtamūrtitrimadamadanadībadhhadhārāndhakāre
+vidyuddyotāyamānapraharaṇakiraṇe niṣpatadbāṇavarṣe /
+ruddhaḥ saṃgrāmakāle prabalabhujabalair vidviṣadbhir dviṣadbhis
+tvaddattotsāhapuṣṭiḥ prasabham arimahīm ekavīraḥ pinaṣṭi // tss_18
+
+pāpācārānubandhoddhatagadavigalatpūtipūyāsravisra-
+tvaṅmāṃsāsaktanāḍīmukhakuharagalajjantujagdhakṣatāṅgāḥ /
+yuṣmatpādopasevāgadavaraguṭikābhyāsabhaktiprasaktā
+jāyante jātarūpapratinidhivapuṣaḥ puṇḍarīkāyatākṣāḥ // tss_19
+
+viśrāntaṃ śrotrapātre gurubhir upahṛtāṃ yāsya nāmnāyaṃ bhaikṣyaṃ
+vidvadgoṣṭhīṣu yaś ca śrutadhanavirahān mūkatām abhyupaiti /
+sarvālaṃkārabhūṣāvibhāvasamuditaṃ prāpya vāgīśvaratvaṃ
+so 'pi tvadbhaktiśaktyā harati nṛpasabhe vādisiṃhāsanāni // tss_20
+
+bhūśayyādhūlidhūmrasphuṭitakaṭakaṭīkarpaṭodghāṭitāṅgo
+yūkāyuṃṣi prapiṃśan parapurapurataḥ karpare tarpaṇārthī /
+tvām ārādhyādhyavasyanvarayuvativahaccāmarasmeracārvīm
+urvīṃ dhatte madāndhadvipadaśanaghanām uddhṛtaikātapatrāṃ // tss_21
+
+sevākarmāntaśilpāpraṇayavinimayopāyaparyāyakhinnaḥ
+prāgjanmopāttapuṇyopacitaśubhaphalaṃ vittam aprāpnuvantaḥ /
+daivātikrāmanīṃ tvāṃ kṛpaṇajanajanany artham abhyarthya bhūyo
+bhūmer nirvāntacāmīkaranikaranidhīn nirddhanā prāpnuvanti // tss_22
+
+vṛttichede vilakṣaḥ kṣatanivasanayā bhāryayā bhartsyamāno
+dūrād ātmaṃbharitvāt svajanasutasuhṛdbandhubhir varjyamānaḥ /
+tvayy āvedya svaduḥkhaṃ turagakhuramukhotkhātasīmnāṃ gṛhāṇām
+īṣṭe svāntaḥpurastrīvalayajhaṇajhaṇājātanidrāprabodhaḥ // tss_23
+
+cakraṃdikcakracumbi sphuradurukiraṇā lakṣaṇālaṃkṛtāstrī
+ṣaḍdanto dantimukhyaḥ śikhigalaruciraśyāmaromā varāśvaḥ /
+bhāsvadbhāsvanmayūkho maṇir amalaguṇaḥ koṣabhṛt pūrṇakoṣaḥ
+senānīr vīrasainyo bhavati bhagavati tvatprasādāṃśaleśāt // tss_24
+
+svacchandaś candanāṃbhaḥsurabhimaṇiśilādattasaṃketakāntaḥ
+kāntākrīḍānurāgād abhinavaracitātithyatathyopacāraḥ /
+tvadvidyālabdhasiddhir malayamadhuvanaṃ yāti vidyādharendraḥ
+khaḍgāṃśuśyāmapīnonnatabhujaparigha prollasatpārihāryaḥ // tss_25
+
+hārākrāntastanāntāḥ śravaṇakuvalayaspardhamānāyatākṣā
+mandārodāraveṇītaruṇaparimalāmoghamādyaddvirephāḥ /
+kācīnādānubandhoddhatataracaraṇodāramañjīratūryās
+tvannāthaṃ prārthayante smaramadamuditāḥ sādarā devakanyāḥ // tss_26
+
+ratnacchannāntavāpīkanakakamalinīvajrakiñjalkamālām
+unmajjatpārijātadrumadhuramadhūddhūtadhūlīvitānām /
+vīṇāveṇupravīṇāmarapuraramaṇīdattamādhūryatūryāṃ
+kṛtvāyuṣmatsaparyām anubhavati ciraṃ nandanodyānayātrām // tss_27
+
+karpūrailālavaṅgatvagagarunaladakṣogandhodakāyāṃ
+dāntākandarpadarpotkaṭakucakuharāvartaviśrāntavīcyām /
+mandākinyām amandacchaṭasalilasaritkrīḍayā sundarībhiḥ
+krīḍanti tvadgatāntaḥkaraṇapariṇatottaptapuṇyaprabhāvāḥ // tss_28
+
+gīrvāṇagrāmaṇībhir vinayabharanamanmaulibhir vanditājñaḥ
+svargotsaṅge dhirūḍhaḥ surakariṇi raṇadbhūṣaṇodbhāsitāṅge /
+śacyā dordāmadolāviralavalayitoddāmaromāñcamūrtiḥ
+pūtas tvaddṛṣṭipātair avati suramahīṃ hīrabhinnaprakoṣṭhaḥ // tss_29
+
+cūḍāratnāvataṃsāsanagatasugatavyomalakṣmīvitānaṃ
+prodyadbālārkakoṭipaṭutarakiraṇāpūryamānatrilokam /
+prauḍhālīḍhaikapadaṃ kramabharavinamadbrahmarudrendraviṣṇu
+tvadrūpaṃ bhāvyamānaṃ bhavati bhavabhayocchittaye janmabhājām // tss_30
+
+paśyanty eke sakopaṃ praharaṇakiraṇodgūrṇadordaṇḍakhaṇḍa-
+vyāptavyomāntarālaṃ valayaphaṇiphaṇādāruṇāhāryacaryām /
+dviṣṭavyuttrāsihāsoḍḍamaraḍamarukoḍḍāmarāsphālavelā-
+vetālottālatālapramadamadamahākelikolāhalogram // tss_31
+
+kecit tv ekaikaromodgamagatagagaṇābhogabhūbhūtalastha-
+svasthabrahmendrarudraprabhṛtinaramarutsiddhagandharvanāgam /
+dikcakrākrāmidhāmasthitasugataśatānantanirmāṇacitram
+citraṃ trailokyavandyaṃ sthiracararacitāśeṣabhāvasvabhāvam // tss_32
+
+lākṣāsindūrarāgāruṇatarakiraṇādityalauhityam eke
+śrīmatsāndrendranīlopaladaladalitakṣodanīlaṃ tathānye /
+kṣīrābdhikṣubdhadugdhādhikataradhavalaṃ kāñcanābhaṃ ca kecit
+tvadrūpaṃ viśvarūpaṃ sphaṭikavad upadhāyuktibhedād vibhinnam // tss_33
+
+sārvajñajñānadīpaprakaṭitasakalajñeyatattvaikasākṣī
+sākṣād vetti tvadīyaṃ guṇagaṇagaṇanāṃ sarvavit tatsuto vā /
+yat tu vyādāya vaktraṃ valibhujaraṭitaṃ mādṛśo raṭīti
+vyāpat sā tīvraduḥkhajvarajanitarujaścetaso hāsyahetuḥ // tss_34
+
+yan me vijñapsyamānaṃ prathamataram adas tvaṃ viśeṣeṇa vettrī
+tvadvyāhārātirekaśramavidhir abudhasvāntasaṃtoṣahetuḥ /
+kiṃ tu snigdhasya bandhor viṣaṃ iva purato duḥkham udgīrya vācā
+jñātārthasyāpi duḥkhī hṛdayalaghutayā svasthatāṃ vindatīva // tss_35
+
+kalyāṇānandasindhuprakaṭaśaśikale śītalāṃ dehi dṛṣṭiṃ
+puṣṭiṃ jñānopadeśaiḥ kuru ghanakaruṇe dhvaṃsaya dhvāntamantaḥ /
+tvatstotrāṃbhaḥpavitrīkṛtamanasi mayi śreyasaḥ sthānam ekaṃ
+dṛṣṭaṃ yasmād amoghaṃ jagati tava guṇastotramātraṃ prajānām // tss_36
+
+saṃstutya tvadguṇaughāvayavam aniyateyattam āptaṃ mayā yat /
+puṇyaṃ puṇyāhavāñchāphalamadhurarasāsvādam āmuktibhogyam /
+lokas tenāryalokeśvaracaraṇatalasvastikasvasticihnām
+ahnāyāyaṃ prayāyāt sugatasutamahīṃ tāṃ sukhāvatyupākhyām // tss_37

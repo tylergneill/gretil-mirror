@@ -1,0 +1,60 @@
+Hayagrīvavidyā
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_hayagrIvavidyA.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - N. Dutt: Gilgit Manuscript, vol. I. Delhi : Sri Satguru Publication, 1984, 41-46.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Hayagrīvavidyā = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsu017_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Hayagrivavidya = Hgv
+Based on the edition by N. Dutt: Gilgit Manuscript, vol. I.
+Delhi : Sri Satguru Publication, 1984, 41-46.
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sutra section, text no. 17
+STRUCTURE OF REFERENCES (added):
+Hgv nnn = pagination of Dutt's ed.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+hayagrīvavidyā
+
+namo ratnatrayāya / nama āryāvalokiteśvarāya bodhisattvāya mahāsattvāya mahākāruṇikāya / namaḥ sarvasattvavyasanaghātine / namaḥ sarvasattvabhayapraśamanakarāya / namaḥ sarvasattvabhayottāraṇakarāya / namaḥ sarvavidyādhigatāya / namaḥ sarvavidyāvidhigatamūrtaye mahākāruṇikāya / namo mahāvidyārājaprāptaye mahāyogine /
+
+tasmai namaskṛtvā idamāryāvalokiteśvaramukhodgīrṇaṃ vajradharamahīyaṃ hayagrīvaṃ nāma paramahṛdayamāvartayiṣyāmisarvakarmārthasādhakam / asahyaṃ sarvabhūtānāṃ yakṣāṇāṃ cavināśakam / amoghaṃ sarvakarmaṇāṃ viṣāṇāṃ ca nāśakam / tadyathā
+
+om tarula tarula vitarula vitarula sarvaviṣaghātaka jvalitavisphuliṅgāṭṭahāsa kesarāṭopapravṛddhavega vajrakhuranirghātaka calitavasudhātala niḥsvasitahasitamārutotkṣiptadharaṇīdhara parabhṛtagaṇasamūhavikṣobhaṇakara paravidyāsaṃbhakṣaṇakara sarvagrāhotsādanakara paramaśāntikarasarvagrahapraśamanakara budhya budhya dhāva dhāva ca bhagavā hayagrīva khāda khāda paramaṃtrām / rakṣa rakṣa kṣamasva kṣamasva sa mayābhihitāṃ mantrām / siddhiṃ me diśadiśa āviśa āviśa / ghorapiśāca sarvagraheṣvapratihato mama varavajradaṃṣṭra kiṃ cirāpayasi / idaṃ duṣṭagrahaṃ duṣṭasattvaṃ duṣṭapiśācaṃ vā dhuna dhuna vidhuna vidhuna kampa kampa matha matha pramatha pramatha / tathāgatājñāṃ pālaya buddhadharmasaṃghānujñātaṃ me karma śīghraṃ (hgv 44) kuru kuru mā vilamba / hayagrīvāya phaṭ vajrakhurāya phaṭ vajradaṃṣṭrāya phaṭ vajradaṃṣṭrotkaṭabhayabhairavāya phaṭ / paravidyāsaṃbhakṣaṇāya phaṭ / paramantravināśakāya phaṭ / sarvagrahotsādakāya phaṭ / sarvaviṣaghātakāya phaṭ / sarvagraheṣvapratihatāya phaṭ / vaḍavāmukhāya phaṭ / sarvagrahapiśācān me vaśamānaya / yāvanto mamaye kecitahitaiṣiṇastān sarvān vaḍavāmukhena nikṛntaya phaṭ / namo nama āryāvalokiteśvarāya bodhisattvāya mahāsattvāya / sidhyantu mama maṃtrapadā hayagrīvo bhagavān ājñāpayati svāhā /
+
+ayaṃ hayagrīvavidyā rājā paṭhitasiddhaḥ upacāraḥ ātmarakṣājāpena pararakṣā paṃcaraṃgīsūtram ekaviṃśatigranthayaḥ kṛtvā bandhitavyam / yāvajīvaṃ rakṣā kṛtā bhavati / ḍāinīgrahagṛhītasya pratikṛtiṃ kṛtvā piṇḍaśastreṇa chettavyā / sarvaparakṛtā maṃtrāśchinnā bhavanti sarvaśatravastambhanaṃ manasā vyavahāre svakham mukhe kṛtvā vidyā japtayā uttarāyati / spṛṣṭāveśaneṣusnātaṃ śucivastraprāvṛtaṃ śucau pradeśe sumanasāsaṃbaddhā āveśaye śuklavaliryathālaṃbhena / candragrahe sūryagrahe ghṛtaṃ tāmrabhājane kṛtvā tāvajjepadyāvaccandro mukto bhavati taṃ ghṛtaṃ pive medhāvī bhavati ekenoddeśena ślokaśatamudgṛṇhāti / padmāṃ juhe ghṛtamakṣayaṃ bhavati / atha sādhitumicchet / candanamayaṃ lokeśvarapratimā kartavyā / dakṣiṇenāryavajradharaḥ / vāmenāryāvalokiteśvaraḥ (hgv 45) trimūrtiḥ kāryaḥ / sarvopari vaḍavāmukhaḥ paravidyāsaṃbhakṣaṇaḥ / tasyāgrataḥ ayaṃ hayagrīvavidyārājam aṣṭasahasraṃ japet / tataḥ sarvakarmāṇi kuryāt / spṛṣṭāveśanaṃ gugguladhūpena / satatajāpena sarvakāryasiddhirbhavati / sarvaḍāinī dṛṣṭamātrā vaśībhavati / bhasmanā sarṣapeṇa udakena sapta japtena rakṣā kartavyā / sīmābandhaḥ kṛto bhavati / sarvamudrāmokṣaṇam udakena vaśīkaraṇaṃ phalapuṣpādyaiḥ / ayaṃ paṭhitasiddhaḥ / asādhita eva sarvakarmāṇi kurute // 0 //

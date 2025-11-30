@@ -1,0 +1,54 @@
+Pratisarākalpadhāraṇī
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_pratisarAkalpadhAraNI.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Klaus Wille
+## Contribution: Klaus Wille
+## Date of this version: 2020-07-31
+
+## Source: 
+   - "Pratisarākalpadhāraṇī". Dhīḥ Journal 28 (1999), eds. S. Rinpoche and Janardan Pandey, pp. 140-142.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Pratisarākalpadhāraṇī = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from psarkdhu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Pratisarakalpadharani
+Bsed on the edition "Pratisarākalpadhāraṇī". Dhīḥ Journal 28 (1999), eds. S. Rinpoche and Janardan Pandey, pp. 140-142.
+Input by Klaus Wille (Göttingen)
+NOTE:
+This text is included in the ed. of Iwamoto, Yutaka: Mahāpratisarā Pañcarakṣā II,
+Kyoto 1937 (Beiträge zur Indologie, 3), pp. 29.20-31.4 and 33.20-25.
+STRUCTURE OF REFERENCES:
+Pkdh_nn = pagination of the "Dhīḥ" ed.
+#<...># = BOLD for references
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+atha vidyādharakalpaṃ pravakṣye sattvānukampayā / namo buddhāya namo dharmāya namaḥ saṃghāya /
+
+namo bhagavate śākyamunaye mahākāruṇikāya tathāgatāyārhate samyaksaṃbuddhāya / namaḥ samantebhyaḥ samyaksaṃbuddhebhyaḥ / oṃ giri giri giriṇi giriṇi girivati guṇavati ākāśavati ākāśaviśuddhe sarvapāpavigate ākāśe gaganatale ākāśavicāriṇi maṇidhari vajriṇi jvalitaśikhare maṇimuktākhacitamaulidhare sukeśe suveṣe suvaktre sunetre suvarṇagaure atīte anutpanne anāgate pratyutpanne namaḥ sarvabuddhānāṃ jvalitaujasāṃ buddhe subuddhe bhagavati surakṣaṇi akṣaya sukṣaya sūkṣme suprabhe sudame sudānte suvrate varade pravare bhagavati bhadravati subhadravati bhadre subhadre vimale jayabhadre caṇḍi pracaṇḍi caṇḍe vajracaṇḍe mahācaṇḍe gauri gandhāri caṇḍāli mātaṅgi vaccasi sumati pukkasi sumukhi śabari śāvari śaṃkari dramaṇḍi drāmaṇḍi raudriṇi sarvārthasādhani paramārthasādhani hana hana sarvaśatrūn daha daha sarvaduṣṭān pretapiśācaḍākinīmanuṣyāmanuṣyāṇāṃ (pkdh_141) paca hṛdayaṃ vidhvaṃsaya jīvitaṃ sarvaduṣṭagrahāṇāṃ nāśaya naśaya sarvapāpāni me bhagavati / rakṣa rakṣa mama sarvasattvānāñ ca sarvatra sarvadā sarvabhayopadravebhyaḥ / sarvaduṣṭānāṃ bandhanaṃ kuru kuru / sarvakilviṣanāśani mārtaṇḍe mṛtyudaṇḍe mṛtyudaṇḍanivāriṇi mānande mānini mahāmānini mānadhāriṇi cale vicale vimale viṭi viṭi taṭi tiṭi niṭi niṭi tuṭṭe dhoriṇi dhariṇi nimiṇi viriṇi vīryaṇi pracale pravarasamare caṇḍāli mātaṅgi rundhasi karasi śarasi varcasi sumati pukkasi śabari śabari śaṃkari mani draviḍi ḍāviḍi hanani dahani pacani pācani marddani sarali sarale saralambhe hīnamadhyotkṛṣṭavidāriṇi mahiri mahiri mahāmahili nigaḍe nigaḍabhaṃje marte marte matti mattini dāṃte cakre cakravākini jvale jvale jvalini śabari śābari sarvavyādhihariṇi muni muni cuṇḍi cuṇḍi cuṇḍini cuṇḍini mahācuṇḍini nimi nimi nimiṃdhari trailokyavardhani trilokajanani trilokālokakari traidhātukavyavalokani vajraparaśupāśamuṣalakhaḍgacakratriśūlacintāmaṇimakuṭamahāvidyādhāriṇi rakṣa rakṣa māṃ sarvasattvāṃś ca sarvasthānagata sarvaduṣṭabhayebhyaḥ sarvamanuṣyāmanuṣyabhayebhyaḥ sarvavyādhibhyaḥ / vajre vajre vajravati vajradhare vajrapāṇidhare hiri hiri mili mili kili kili cili cili śili śili cala cala vala vala varade (pkdh_142) varadāṃkuśe sarvatra jayalabdhe svāhā / sarvapāpavidāriṇi svāhā / sarvavyādhihariṇi svāhā / garbhasaṃbharaṇi svāhā / sarvatra bhayaharaṇi svāhā / svasti bhavatu mama sarvasattvānāñ ca svāhā / oṃ bhuvaḥ svāhā / svasti svāhā / śānti svāhā / puṣṭi svāhā / balavarddhani svāhā / oṃ jayatu jayavati jayakamale vimale svāhā / vipule svāhā / sarvatathāgatamūrte svāhā / oṃ bhūri mahāśānte svāhā / oṃ bhuḥ bhūri bhūri vajravati sarvatathāgatahṛdayapūraṇi āyuḥsandhāraṇi bale balavati / oṃ jayavijaye hūm hūṃ phaṭ / oṃ maṇidhari vajriṇi hūm hūṃ phaṭ phaṭ svāhā // oṃ maṇivajre hṛdayavajre mārasainyavidrāvaṇi hana hana sarvaśatrūn vajragarbhe trāsaya trāsaya sarvamārabhavanāni hūṃ hūṃ phaṭ phaṭ saṃbhara saṃbhara svāhā / buddhamaitrī sarvatathāgatavajrakalpādhiṣṭhite sarvakarmāvaraṇāny apanaye svāhā /
+
+// āryapratisarākalpadhāraṇī samāptā //

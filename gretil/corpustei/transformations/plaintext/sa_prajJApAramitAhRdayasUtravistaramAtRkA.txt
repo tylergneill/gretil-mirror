@@ -1,0 +1,68 @@
+Prajñāpāramitāhṛdayasūtra, vistaramātṛkā
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_prajJApAramitAhRdayasUtravistaramAtRkA.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - P.L. Vaidya in: Mahayana-sutra-samgrahah, Part 1. Darbhanga: The Mithila Institute 1961 (Buddhist Sanskrit Texts, 17).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Prajñāpāramitāhṛdayasūtra, vistaramātṛkā = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsu053_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Prajnaparamitahrdayasutra [vistaramatrka]
+Based on the ed. by P.L. Vaidya in: Mahayana-sutra-samgrahah, Part 1.
+Darbhanga: The Mithila Institute 1961 (Buddhist Sanskrit Texts, 17)
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sutra section, text no. 53.
+The transliteration emulates the conventions of Nagari script.
+Therefore, many word boundaries are not marked by blanks.
+REFERENCE SYSTEM:
+(Vaidya n) = pagination of P.L. Vaidya's edition (added by Klaus Wille)
+NOTE: Where a page break occurs within a word, the pagination mark has been
+shifted to the end of the word in order not to interfere with word search.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+prajñāpāramitāhṛdayasutram | [vistaramātṛkā]
+
+| namaḥ sarvajñāya ||
+
+evaṃ mayā śrutam | ekasmin samaye bhagavān rājagṛhe viharati sma gṛdhrakūṭe parvate mahatā bhikṣusaṃghena sārdhaṃ mahatā ca bodhisattvasaṃghena | tena khalu samayena bhagavān gambhīrāvasaṃbodhaṃ nāma samādhiṃ samāpannaḥ | tena ca samayena āryāvalokiteśvaro bodhisattvo mahāsattvo gambhīrāyāṃ prajñāpāramitāyāṃ caryāṃ caramāṇaḥ evaṃ vyavalokayati sma | pañca skandhāṃstāṃśca svabhāvaśūnyaṃ vyavalokayati ||
+
+athāyuṣmān śāriputro buddhānubhāvena āryāvalokiteśvaraṃ bodhisattvametadavocat - yaḥ kaścit kulaputro [vā kuladuhitā vā asyāṃ] gambhīrāyāṃ prajñāpāramitāyāṃ caryāṃ cartukāmaḥ, kathaṃ śikṣitavyaḥ? evamukte āryāvalokiteśvaro bodhisattvo mahāsattvaḥ āyuṣmantaṃ śāriputrametadavocat - yaḥ kaścicchāriputra kulaputro va kuladuhitā vā [asyāṃ] gambhīrāyāṃ prajñāpāramitāyāṃ caryāṃ cartukāmaḥ, tenaivaṃ vyavalokitavyam - pañca skandhāṃstāṃśca svabhāvaśūnyān samanupaśyati sma | rūpaṃ śūnyatā, śūnyataiva rūpam | rūpānna pṛthak śūnyatā, śūnyatāyā na pṛthag rūpam | yadrūpaṃ sā śūnyatā, yā śūnyatā tadrūpam | evaṃ vedanāsaṃjñāsaṃskāravijñānāni ca śūnyatā | evaṃ śāriputra sarvadharmāḥ śūnyatālakṣaṇā anutpannā aniruddhā amalā vimalā anūnā asaṃpūrṇāḥ | tasmāttarhi śāriputra śūnyatāyāṃ na rūpam, na vedanā, sa saṃjñā, na saṃskārāḥ, na vijñānam, na cakṣurna śrotraṃ na ghrāṇaṃ na jihvā na kāyo na mano na rūpaṃ na śabdo na gandho na raso na spraṣṭavyaṃ na dharmaḥ | na cakṣurdhāturyāvanna manodhāturna dharmadhāturna manovijñānadhātuḥ | na vidyā nāvidyā na kṣayo yāvanna jarāmaraṇaṃ na jarāmaraṇakṣayaḥ, na duḥkhasamudayanirodhamārgā na jñānaṃ na prāptirnāprāptiḥ | tasmācchāriputra aprāptitvena bodhisattvānāṃ prajñāpāramitāmāśritya (pphṛdv, vaidya 99) viharati cittāvaraṇaḥ | cittāvaraṇanāstitvādatrasto viparyāsātikrānto niṣṭhanirvāṇaḥ | tryadhvavyavasthitāḥ sarvabuddhāḥ prajñāpāramitāmāśritya anuttarāṃ samyaksaṃbodhimabhisaṃbuddhāḥ | tasmād jñātavyaḥ prajñāpāramitāmahāmantraḥ anuttaramantraḥ asamasamamantraḥ sarvaduḥkhapraśamanamantraḥ satyamamithyatvāt prajñāpāramitāyāmukto mantraḥ | tadyathā - gate gate pāragate pārasaṃgate bodhi svāhā | evaṃ śāriputra gambhīrāyāṃ prajñāpāramitāyāṃ caryāyāṃ śikṣitavyaṃ bodhisattvena ||
+
+atha khalu bhagavān tasmātsamādhervyutthāya āryāvalokiteśvarasya bodhisattvasya sādhukāramadāt - sādhu sādhu kulaputra | evametat kulaputra, evametad gambhīrāyāṃ prajñāpāramitāyāṃ caryaṃ cartavyaṃ yathā tvayā nirdiṣṭam | anumodyate tathāgatairarhadbhiḥ ||
+
+idamavocadbhagavān | ānandamanā āyuṣmān śāriputraḥ āryāvalokiteśvaraśca bodhisattvaḥ sā ca sarvāvatī pariṣat sadevamānuṣāsuragandharvaśca loko bhagavato bhāṣitamabhyanandan ||
+
+iti prajñāpāramitāhṛdayasūtraṃ samāptam |

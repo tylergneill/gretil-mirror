@@ -1,0 +1,386 @@
+Maitreyavyākaraṇa
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_maitreyavyAkaraNa-alt.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - N. Dutt: Gilgit Manuscripts, Vol IV. Delhi : Sri Satguru Publications, 1984, 185-214.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Maitreyavyākaraṇa-alt = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsu009_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Maitreyavyakaranam = Mvyā
+Based on the edition by N. Dutt: Gilgit Manuscripts, Vol IV.
+Delhi : Sri Satguru Publications, 1984, 185-214.
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sutra section, text no. 9
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+ārya maitreyavyākaraṇaṃ
+
+namaḥ āryamaitreyāya /
+
+śāriputro mahāprajñaḥ dharmasenāpatibibhuḥ /
+lokānāmanukampāya śāstāraṃ paryapṛcchata // mvyā_1 //
+
+sūtrāntare purā 'khyātaṃ yaṃ lokanāyakasya ca /
+buddhasyānāgatasya hi maitreyanāma śāsanaṃ // mvyā_2 //
+
+vyākhyāhi tadvalaṃ cāpi ṛddhiṃ sarvārthavardhanaṃ /
+śrotumicchāma eva ca nāyakasya narottama // mvyā_3 //
+
+tacchrutvā bhagavānāha śṛṇu naravarasya tvaṃ /
+tasya maitreyabuddhasya vibhavaṃ vyākṛtaṃ mayā // mvyā_4 //
+
+śukṣyanti ca tadārnavāḥ samantāt bahuyojanāḥ /
+pratipādyā bhaviṣyanti mārgāśca cakravartinaḥ // mvyā_5 //
+
+jambudvīpaṃ samantataḥ āyatanaṃ tadāhi ca /
+āvāsaṃ sarvabhūtānāṃ daśasahasrayojanam // mvyā_6 //
+
+narāstaddeśikāśca hi bhaviṣyanti śubhaṅkarāḥ /
+ahiṃsakāśca nirdaṇḍyāḥ susamṛddhāśca subhagāḥ // mvyā_7 //
+
+niṣkaṇṭakaśca bhūsthalaṃ samatalaṃ hi śyāmalaṃ /
+unnamāvanamaśritaṃ mṛdutūla 'picopamaṃ // mvyā_8 //
+
+gandhaśāli janiṣyate kṛṣṭimṛte ca madhuraṃ /
+nānāvarṇābhilaṅkṛtā bhaviṣyanti cailadrumāḥ // mvyā_9 //
+
+drumāśca krośavistṛtā patrapuṣpaphalānatāḥ /
+sahasrāśītimātraśca āyustadā bhaviṣyati // mvyā_10 //
+
+varṇavantaḥ bhaviṣyanti balavanto mahākāyāḥ /
+sattvāḥ dakṣāśca niṣkleśā nirdoṣā dirghajīvinaḥ // mvyā_11 //
+
+rogatrayaṃ bhaviṣyati kāmojarā 'gnimāndyañca /
+pañcaśatatame varṣe pariṇītā ca dārikā // mvyā_12 //
+
+tadā ketumatī nāma purī tatra bhaviṣyati /
+sattvānāñca nivāsanaṃ prāṇināṃ hitakāriṇāṃ // mvyā_13 //
+
+dīrghā dvādaśayaujana sapta vistāraśo hyasau /
+nagaraṃ puṇyavacca tat viśuddhañca manoramaṃ // mvyā_14 //
+
+saptaratnamayāḥ prāṃśuprākārāḥ krośavistṛtāḥ /
+nānāratnavibhūṣitagopuratoraṇānyapi // mvyā_15 //
+
+iṣṭakairnimitāśca te ratnamayairbhaviṣyanti /
+padmotpalasamācchanāḥ parikhā haṃsaśobhitā // mvyā_16 //
+
+mālairhi pariveṣṭitaṃ saptatālaismamantataḥ /
+catūratnamayāstālāḥ kiṅkinījālaśobhitāḥ // mvyā_17 //
+
+tattālebhyonilājjātaḥ śabdaścaiva manoramaḥ /
+sumadhuro yathā tūryaṃ tacca pañcāṅgasaṃyutaṃ // mvyā_18 //
+
+nagare 'smin narāśca ye viśrāmasukhakāminaḥ /
+prahṛṣṭābhirabhiṣyante tālaśabdaiśca te tadā // mvyā_19 //
+
+nagaramapi tatkṛtamutpalakumudākīrṇaṃ /
+taḍāgopavanodyānaṃ trayametadbhaviṣyati // mvyā_20 //
+
+śaṅkhonāma nṛpastatra mahātejā bhaviṣyati /
+caturdvīrpādhipeśvaraścakravarttī mahābalaḥ // mvyā_21 //
+
+saptaratnasamanvitaścaturaṅgabalādhipaḥ /
+sahasraṃ hi janiṣyante putrāstadāsya bhūpateḥ // mvyā_22 //
+
+pṛthivīṃ sāgarāntāñca sa paripālayiṣyati /
+yathādharmadaṇḍeṇa narādhipo hi tadyathā // mvyā_23 //
+
+caturmahānidhistadā śaṅkhākhyasya ca bhūpateḥ /
+ratnānāṃ śatakoṭīnāṃ rājñastadā hi lokyate // mvyā_24 //
+
+piṅgalaśca kaliṅgeṣu mithilāyām ca pāṇḍukaḥ /
+elapatraśca gāndhāre śaṃkho vārāṇasīpure // mvyā_25 //
+
+caturbhirebhinidhibhissa rājā susamanvitaḥ /
+bhaviṣyati mahāvīraḥ śatapuṇyabaloditaḥ // mvyā_26 //
+
+brāhmaṇastasya rājñāśca subrahmaṇaḥ purohitaḥ /
+bahuśrutaścaturvedastasyopādhyāyo bhaviṣyati // mvyā_27 //
+
+adhyāpako mantradharaḥ smṛtimān vedapāragaḥ /
+kaiṭabhe sanighaṇṭe ca padavyākaraṇe tathā // mvyā_28 //
+
+tadā brahmāvatī nāma tasya bhāryā bhaviṣyati /
+darśanīyā prāsādikā abhirūpā yaśasvinī // mvyā_29 //
+
+tuṣitebhyaścayavitvā tu maitreyo hyagrapugdalaḥ /
+tasyāḥ kukṣau sa niyataṃ pratisandhiṃ grahīṣyati // mvyā_30 //
+
+daśamāsāṃśca nikhilāṃ dhārayitvā mahādyūtiṃ /
+supuṣpitesminnudyāne maitreyajananī tataḥ // mvyā_31 //
+
+na niṣaṇṇā nipannā vā sthitā sā dharmacāriṇī /
+drumasya śākhāmālamvya maitreyaṃ janayiṣyati // mvyā_32 //
+
+niṣkramiṣyati pārśvena dakṣiṇena narottamaḥ /
+abhrakūṭādyathā sūryo nirgataśca prabhāvyate // mvyā_32* //
+
+alipto garbhapaṅkena kuśeśayamivāmvunā /
+traidhātukamidaṃ sarvaṃ prabhayā pūrayiṣyati // mvyā_33 //
+
+prīto 'tha taṃ sahasrākṣo devarājā śacīpatiḥ /
+jāyamānaṃ grahītā ca maitreyaṃ dvipadottamam // mvyā_34 //
+
+padāni jātamātraśca saptāsau prakamiṣyati /
+pade pade nidhānañca padmaṃ padmaṃ bhaviṣyati // mvyā_35 //
+
+diśaścatasraścodvīkṣya vācaṃ pravyāhariṣyati /
+iyaṃ me paścimā jāti nāsti bhūyaḥ punarbhavaḥ /
+na punarabhā gamiṣyāmi nirvāsyāmi nirāsravaḥ // mvyā_36 //
+
+saṃsārārṇavamagnānāṃ sattvānāṃ duḥkhabhāgināṃ /
+tṛṣṇābandhanabaddhānāṃ kariṣyāmi vimocanam // mvyā_37 //
+
+śvetaṃ cāsya surāśchatraṃ dhārayiṣyanti mūrdhani /
+śītoṣṇavāridhārābhyāṃ nāgendrau snāpayiṣyataḥ // mvyā_38 //
+
+pratigṛhya ca taṃ dhātrī dvātriṃśadvaralakṣaṇam /
+śriyā jvalantaṃ maitreyaṃ mātre samupaneṣyati // mvyā_39 //
+
+manoramāṃ ca śivikāṃ nānāratnavibhūṣitāṃ /
+ārūḍhāṃ putrasahitāṃ vahiṣyanti ca devatā // mvyā_40 //
+
+tatastūrya sahasreṣu vādyamāneṣu tatpuraṃ /
+praviṣṭamātre maitreye puṣpavarṣaṃ patiṣyati // mvyā_41 //
+
+dṛṣṭaivaṃ putraṃ subrahmā dvātriṃśadvaralakṣaṇam /
+pratyavīkṣātha mantreṣu tadā prīto bhaviṣyati // mvyā_42 //
+
+gatidvayaṃ kumārasya yathā mantreṣu dṛśyate /
+narādhipaścakravarttī buddho vā dvipadottamaḥ // mvyā_43 //
+
+sa ca yauvanasaṃprāpto maitreyaḥ puruṣottamaḥ /
+cintayiṣyati dharmātmā duḥkhitā khalviyaṃ prajāḥ // mvyā_44 //
+
+brahmakharo mahāghoṣo hemavarṇo mahādyutiḥ /
+viśālavakṣaḥ pīnāṃsaḥ padmapatranibhekṣaṇaḥ // mvyā_45 //
+
+hastaḥ pañcāśaducchrāya tasya kāyo bhaviṣyati /
+visṛtaśca tato 'rddheṇa śubhavarṇasamucchrayaḥ // mvyā_46 //
+
+aśītibhiścaturbhiśca sahasraiḥ saṃpuraskṛtaḥ /
+mānavānāṃ sa maitreyo mantrānadhyāpayiṣyati // mvyā_47 //
+
+atha śaṃkho narapatiḥ yūpamucchrāpayiṣyati /
+tiryañca ṣoḍaśavyāmaṃ ūrddhva vyāmasahasrakam // mvyā_48 //
+
+sa taṃ yūpaṃ narapatirnānāratnavibhūṣitaṃ /
+pradāsyati dvijātibhyo yajñaṃ kṛtvā puraḥsaraṃ // mvyā_49 //
+
+tañca ratnamayaṃ yūpaṃ dattamātraṃ manoramaṃ /
+brāhmaṇāṇāṃ sahasrāṇi vikiriṣyanti tatkṣaṇāt // mvyā_50 //
+
+yūpasyatasya maitreyo dṛṣṭvā caitāmanityatāṃ /
+kṛtasraṃ vicintya saṃsāraṃ pravrajyāṃ rocayiṣyati // mvyā_51 //
+
+yatvahaṃ pravrajitveha spṛśeyamamṛtaṃ padaṃ /
+vimocayeyaṃ janatāṃ vyādhimṛtyujarābhayāt // mvyā_52 //
+
+aśītibhiḥ sahasraissa caturbhiśca puraskṛtaḥ /
+niṣkramiṣyati maitreyaḥ pravrajyāmagrapugdalaḥ // mvyā_53 //
+
+nāgavṛkṣastadā tasya bodhivṛkṣo bhaviṣyati /
+pañcāśadyojanānyasya śākhā ūrddhaṃ samucchritāḥ // mvyā_54 //
+
+niṣadya tasya cādhastānmaitreyaḥ puruṣottamaḥ /
+anuttarāṃ śivāṃ bodhiṃ samavāpsyati nāyakaḥ // mvyā_55 //
+
+yasyāmeva ca rātrau sa pravrajyāṃ niṣkramiṣyati /
+tasyāṃ eva ca rātrau hi parāṃ bodhimavāpsyati // mvyā_56 //
+
+aṣṭāṅgopetayā vācā tataḥ sa puruṣottamaḥ /
+deśayiṣyati saddharmaṃ sarvaduḥkhāpahaṃ śivam // mvyā_57 //
+
+prasannāṃ janatāṃ dṛṣṭvā satyāni kathayiṣyati /
+duḥkhaṃ duḥkhasamutpādaṃ duḥkhasya samatikramaṃ // mvyā_58 //
+
+āryaṃ cāṣṭāṅgikaṃ mārgaṃ kṣemaṃ nirvāṇagāminaṃ /
+taṃ cāpi dharmaṃ saṃśrutya pratipatsyanti śāsane // mvyā_59 //
+
+udyāne puṣpasaṃcchanne sannipāto bhaviṣyati /
+pūrṇaṃ ca yojanaśataṃ parṣattasya bhaviṣyati // mvyā_60 //
+
+śrutvā narapati rājā śaṅkho nāma mahāyaśāḥ /
+datvā dānamasaṃkhyeyaṃ pravrajyāṃ niṣkramiṣyati // mvyā_61 //
+
+aśītibhiścaturbhiśca sahasraiḥ parivāritaḥ /
+narādhipo viniṣkramya pravrajyāmupayāsyati // mvyā_62 //
+
+anenaiva pramāṇena mānavānāṃ puraskṛtaḥ /
+maitreyasya pitā tatra pravrajyāṃ niṣkramiṣyati // mvyā_63 //
+
+tato gṛhapatistatra sudhano nāma viśrutaḥ /
+pravrajiṣyati śuddhātmā maitreyasyānuśāsane // mvyā_64 //
+
+strīratnamatha śaṅkhasya viśākhā nāma viśrutā /
+aśītibhiścaturbhiśca sahasraiḥ saṃpuraṣkṛtā //
+nārīṇāmabhiniṣkramya pravrajyāṃ rocayiṣyati // mvyā_65 //
+prāṇinaḥ tatra samaye sahasrāṇi śatāni ca /
+pravrajyāmupayāsyanti maitreyasyānuśāsane // mvyā_66 //
+
+supuṣpite 'sminnudyāne sannipāto bhaviṣyati /
+samantato yojanaśataṃ parṣat tasya bhaviṣyati // mvyā_67 //
+
+tataḥ kāruṇikaḥ śāstā maitreyaḥ puruṣottamaḥ /
+samitiṃ vyavalokyātha imamarthaṃ pravakṣayati // mvyā_68 //
+
+sarvete śākyasiṃhena guṇiśreṣṭheṇa trāyinā /
+arthato lokanāthena dṛṣṭvā saddharmadhātunā /
+ropitā mokṣamārgeṇa vikṣiptā mama śāsane // mvyā_69 //
+
+chatradhvajapatākābhirgandhamālyavilepanaiḥ /
+kṛtvā stūpeṣu satkāraṃ āgatā hi mamāntikam // mvyā_70 //
+
+saṃghe datvā ca dānāni cīvaraṃ pānabhojanaṃ /
+vividhaṃ glānabhaiṣajyaṃ āgatā hi mamāntikam // mvyā_71 //
+
+kuṃkumodakasekaṃ ca candanenānulepanaṃ /
+datvā śākyamuneḥ stūpeṣvāgatā hi mamāntikam // mvyā_72 //
+
+śikṣāpadāni cādhāya śākyasiṃhasya śāsane /
+paripālaya yathābhūtaṃ āgatā hi mamāntikam // mvyā_73 //
+
+upoṣadhaṃ upoṣyeha āryamaṣṭāṅgikaṃ śubhaṃ /
+caturdaśīṃ pañcadaśīṃ pakṣasyehāṣṭamīṃ tathā /
+prātihārikapakṣaṃ cāṣyaṣṭāṅgaṃ susamāhitaṃ // mvyā_74 //
+
+śīlāni ca samādāya saṃprāptāni ca śāsanam /
+buddhaṃ dharmeṃ ca saṃghaṃ ca sattvāste śāsanaṃ gatāḥ //
+kṛtvā ca kuśalaṃ karma macchāsanamupāgatāḥ // mvyā_75 //
+tenaite preṣitāḥ sattvā pratiṣṭāśca mayāpyamī /
+gaṇiśreṣṭheṇa muninā parītā bhūrimedhasā // mvyā_76 //
+
+prasannāṃ janatāṃ dṛṣṭvā satyāni kathayiṣyati /
+śrutvā ca te tato dharmaṃ prāpsyanti padamuttamam // mvyā_77 //
+
+prātihāryatrayeṇāsau śrāvakānvinayiṣyati /
+sarvete āsravāstatra kṣipayiṣyanti suratāḥ // mvyā_78 //
+
+prathamaḥ sannipātosya śrāvakāṇāṃ bhaviṣyati /
+pūrṇāḥ ṣaṇṇavatikoṭyaḥ śrāvakāṇāṃ bhavacchidāṃ // mvyā_79 //
+
+dvitīyaḥ sannipātosya śrāvakāṇāṃ bhaviṣyati /
+pūrṇāścaturnavati koṭyaḥ śāntānāṃ bhūrimedhasāṃ // mvyā_80 //
+
+tṛtīyaḥ sannipātosya śrāvakāṇāṃ bhaviṣyati /
+pūrṇāḥ dvāviṃśati koṭyaḥ śāntānāṃ śāntacetasāṃ // mvyā_81 //
+
+dharmacakraṃ pravartyātha vinīya suramānuṣān /
+sārdhaṃ śrāvakasaṃgheṇa pure piṇḍaṃ cariṣyati // mvyā_82 //
+
+tataḥ praviśatastasyāṃ ramyāṃ ketumatīṃ purīṃ /
+māndārakāṇi puṣpāṇi patiṣyanti purottame //
+devatāḥ prakiriṣyanti tasmin puragate munau // mvyā_83 //
+catvāraśca mahārājā śakraśca tridaśādhipaḥ /
+brahmā devagaṇaiḥ sārdhaṃ pūjāṃ tasya kariṣyati // mvyā_84 //
+
+utpalaṃ kumudaṃ padmaṃ puṇḍarīkaṃ sugandhikaṃ /
+aguruṃ candanaṃ cāpi divyaṃ mālyaṃ patiṣyati // mvyā_85 //
+
+cailakṣepaṃ kariṣyanti devaputrā maharddhikāḥ /
+taṃ lokanāthamudvīkṣapa praviśantaṃ purottamam // mvyā_86 //
+
+divyaśca tūryanirghoṣo divyaṃ mālyaṃ patiṣyati /
+devatā prakiriṣyanti tasmin puragate munau // mvyā_87 //
+
+ye tu ketumatīṃ kecit vāsayaṣyanti mānuṣāḥ /
+tepi taṃ pūjayiṣyanti praviśantaṃ purottamam // mvyā_88 //
+
+pathi bhūmyāstaraṃ tatra mṛdutūlapicopamam /
+vicitrañca śubhaṃ mālyaṃ vikiriṣyanti te tadā // mvyā_89 //
+
+chatradhvajapatākabhirarcayiṣyanti mānuṣāḥ /
+śubhaiśca tūryanirghoṣaiḥ prasannamanaso narāḥ // mvyā_90 //
+
+taṃ ca śakraḥ sahasrākṣo devarājaḥ śacīpatiḥ /
+prahṛṣṭaḥ prāñjalirbhūtvā maitreyaṃ stoṣyate jinam // mvyā_91 //
+
+namaste puruṣājanya namaste puruṣottama /
+anukampasva janatāṃ bhagavannagrapugdala // mvyā_92 //
+
+maharddhiko devaputrastasya māro bhaviṣyati /
+sa cāpi prāñjalirbhūtvā stoṣyate lokanāyakam // mvyā_93 //
+
+śuddhāvāsa sahasraiśca bahubhiḥ parivāritaḥ /
+pravekṣyate ca maitreyo lokanātho vināyakaḥ // mvyā_94 //
+
+brāhmaṇaparivāreṇa brahmā cāpi girāsphuṭam /
+kathayiṣyati saddharmaṃ brāhmaṃ ghoṣamudīrayan // mvyā_95 //
+
+ākīrṇā pṛthivī sarvā arhadbhiśca bhaviṣyati /
+kṣīṇāśravairvāntadoṣaiḥ prahīṇabhavabandhanaiḥ // mvyā_96 //
+
+hṛṣṭā devamanuṣyāśca gandharvā yakṣarākṣasāḥ /
+śāstuḥ pūjāṃ kariṣyanti nāgāścāpi maharddhikāḥ // mvyā_97 //
+
+te vai nūnaṃ bhaviṣyanti cyānaghācchinnasaṃśayāḥ /
+utkṣiptaparikhāḥ dhīrā anādānā nirutsakāḥ //
+brahmacaryañcariṣyanti maitreyasyānuśāsane // mvyā_98 //
+te 'pi nūnaṃ bhaviṣyanti amamā aparigrahāḥ /
+ajātarūparajatā aniketā asaṃstavāḥ /
+brahmacaryañcariṣyanti ye maitreyānuśāsane // mvyā_99 //
+
+te vai pāraṃ gamiṣyanti chitvā jālameva bhujāt /
+dhyānāni copasaṃpadya prītisaukhyasamanvitāḥ /
+brahmacaryañcariṣyanti maitreyasyānuśāsane // mvyā_100 //
+
+ṣaṣṭhiṃ varṣa sahasrāṇi maitreyo dvipadottamaḥ /
+deśayiṣyati saddharmaṃ śāstā lokānukampayā // mvyā_101 //
+
+śatāni ca sahasrāṇi prāṇiṇāṃ sa vināyakaḥ /
+vinīya dharmakāyena tato nirvāṇameṣyati // mvyā_102 //
+
+tasmiṃśca nirvṛte dhīre maitreye dvipadottame /
+daśavarṣasahasrāṇi saddharmaṃ sthāsyati kṣitau // mvyā_103 //
+
+prasādayati cittāni tasmācchākyamunau jine /
+tatodṛkṣatha maitreyaṃ saṃbuddhaṃ dvipadottamam // mvyā_104 //
+
+tasmāddharme ca buddhe ca saṃghe cāpi gaṇottame /
+prasādayati cittāni bhaviṣyati maharddhikaṃ // mvyā_105 //
+
+taṃ tādṛśaṃ kāruṇikaṃ maitreyaṃ dvipadottamaṃ /
+ārādhayitvā kālena tato nirvāṇameṣyatha // mvyā_106 //
+
+idamāścaryakaṃ śrutvā dṛṣṭvā ca vibhavānalpikāṃ /
+ko vidvānna prasīdeta api kṛṣṇāsu jātiṣu // mvyā_107 //
+
+tasmādihātmakāmena māhātmayamabhikāṃkṣatāḥ /
+saddharmo gurukarttavyaḥ smaratā buddhaśāsanam // mvyā_108 //
+
+// maitreyavyākaraṇaṃ samāptaṃ //

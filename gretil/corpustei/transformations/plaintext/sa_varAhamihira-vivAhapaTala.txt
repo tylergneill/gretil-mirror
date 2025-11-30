@@ -1,0 +1,336 @@
+Varāhamihira: Vivāhapaṭala
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_varAhamihira-vivAhapaTala.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Mizue Sugita
+## Contribution: Mizue Sugita
+## Date of this version: 2020-07-31
+
+## Source: 
+   - of Deviprasada Lamsala, Vivahapatalam, Rastriya Abhilekhalayata, 2035 with reference to Utpala's commentary [marked by U.].
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Vivāhapaṭala = VP,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from vivahapu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Varahamihira: Vivahapatalam
+Input by Mizue Sugita (Novermber 11, 1997)
+Based on the edition of
+Deviprasada Lamsala, Vivahapatalam,
+Rastriya Abhilekhalayata, 2035
+with reference to Utpala's commentary [marked by U.]
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+ajñātamadhyāntasamudbhavāya sarvātmane sarvagatāya tasmai/
+praṇamya devāya manobhavāya khalīkṛtaṃ yena jagat samagram// VP_1
+
+prajāpatir manmatha eva yasmāt kāmād vinā na prabhavaḥ prajānām/
+mahatsu sūkṣmeṣu ca so 'sti devaḥ sarvātmakaḥ sarvagataś ca yasmāt// VP_2
+
+yasmāt paran nāparam asti kiñcit saukṣmyān mahatvāc ca yataś ca nānyat/
+tenedam ekena manobhavena vyāptaṃ jagac chāṛṅgabhṛteva sarvam// VP_3
+
+agamyagāmī bhagavān prajeśaḥ śroṇīsahasrāṅkatanuś ca śakraḥ/
+caturmukho yena kṛtaś ca śambhu samanmatho maṅgalam ādadhātu// VP_4
+
+bhagavān api śārṅgarathāṅgadharo bhagavat(t)vam avāpa yataḥ/
+bahavo 'sya bhagā iti tena kṛtaṃ bhagavān iti nāma jagat prathitam// VP_5
+
+sītāviyogena bahuni duḥkhāny āptāni rāmeṇa salakṣmaṇena/
+tānīha saṃsmṛtya kalau sahasrāṇy aṣṭau tathāṣṭau ca vivāhitāni// VP_6
+
+durbhagās tanayavarjitāś ca yā niḥsvasanti vanitāḥ pativratā/
+tāḥ kudaivavinipātayantritā nānyajanmajanitaiḥ suduskṛtaiḥ// VP_7
+
+surabhikusumagandhais tarpayitvā dvijedrān śubhatithidivasarkṣe daivavitsaṃpradiṣṭe/
+ubhayakulaviśuddhe jñātaśīle surūpe prathamavayasi dadyāt kanyakāṃ yauvanasthe// VP_8
+
+puṣye divase 'thavā kṣaṇe vaivāhyeṣu ca bheṣu kārayet/
+ghaṭakāramṛdā sulakṣaṇām indrāṇīṃ kuśalena śilpinā// VP_9
+
+kusumbharaktāmbarabhūṣaṇojjvalāḥ sādhvyaḥ surūpāḥ subhagāḥ kulodbhavāḥ/
+nadīṃ nayeyuḥ saro 'thavā taṭaṃ kanyām alaṅkṛtya sahendra jāyayā// VP_10
+
+sūrpeṇadikṣu pramadā baliṃ tā datvā sakālīyakagandhadigdhām/
+kusumbharaktāmbaraveṣṭitāṅgīṃ śacīsakāśaṃ pramadā nayeyuḥ// VP_11
+
+dadhyodanena haviṣā madhunā ca kanyā saṃpūjya śakradayitāṃ ca salohastā [u. salohahastā]/
+tūṣṇīṃ praṇamya śirasā gṛham eva yāyād devīṃ pragṛhya muditā niyataiś ca keśaiḥ// VP_12
+
+gṛhe stitāṃ [u. sthitāṃ] tāṃ puruhūtapatnīṃ prāṅmadhyāstamayeṣu kanyā/
+sraggandhadhūpaiḥ pratipūjaṇec [u. pratipūjayec] ca pāṇīgrahaṃ yāvad upāgateti// VP_13
+
+ratnānīndukaraḥ srajaḥ śubhagatā harmyotpalāny āsavaḥ
+tāṃbūlaṃ pravarāmbarāṇi ruciraṃ gītaṃ vibhūtyaś cayā/
+yasmān na striyam antareṇa hi nṛṇāṃ sarvāṇy abhiprītaye
+tasmād vacmi tadāptiyogyasamayo dharmārthakāmāya ca//
+uktaṃ janmani yat tad eva bhavitā yady aṅganānāṃ phalam/
+vyartho na tv ayam ādaraṃ pariṇaye tatkālalagnādigaḥ// VP_14
+
+ajñātaṃ prathamaṃ pradhānam aparaṃ tadvyañjakaṃ yoṣitām/
+udvāhe niyati nayaty atibalād velāsamāyuk phalaiḥ// VP_15
+
+vātsyo varṣam anojam icchati tathā ebhyo janaś cottaraṃ
+strīṇāṃ mānam [u. nāmam] ṛtuṃ vihāya munayo māṇḍavyaśiṣyā jaguḥ/
+caitraṃ projjhya parāśāro kathayate durbhāgyadaṃ yoṣitāṃ
+āṣāḍhādicatuṣṭayena śubhadaṃ kaiś cit pradiṣṭaṃ dvijaiḥ// VP_16
+
+śreṣṭhaṃ pakṣam uṣanti śuklam asitasyādyaṃ tribhāgaṃ tathā/
+riktāṃ projjhya tithiṃ tathā tv ayanayoḥ sandhiṃ ca śeṣāḥ śubhāḥ// VP_17
+
+āgneyagrahavāsareṣu kalahaḥ prītis tu satsūttamān [u. satsūttamā]/
+kaiścit stharyam uṣanti sauradivase cāndre samāpatnikam// VP_18
+
+mṛgaśirasi maghāyāṃ hastamitrottarāsu svasananirṛtipūṣādhātṛdeveṣu coḍhā/
+bahusutaśukha [u. sukha]dāsīvittasaubhāgyayuktā janayati paritoṣaṃ kanyakā bāndhavānām// VP_19
+
+ārdrādye bhacatuṣṭaye vidhavatā sāgneyayāmye smṛtā/
+śeṣeṣv akṣayadoṣaśokamaraṇaṃ vyādhyādyaniṣṭaṃ bahuḥ// VP_20
+
+prītir janmasu tārakāsu parataḥ sañjñānurūpaṃ phalam/
+candre copacayā ''dyasaptamagate saubhāgyasaukhyāptayaḥ// VP_21
+
+nakṣatratulyaṃ phalam āha gargaḥ kṣeṇeṣu nakṣatrapasañjñiteṣu
+hārītababhrū dvijadevalaś ca viṣṭi vinā 'nyat karaṇaṃ praśastam// VP_22
+
+tithidinakaraṇarkṣalagnavīryaṃ paricayam āha parāśaraḥ krameṇa/
+tithir iti balabān vadanti gargāḥ karaṇabalād divaso 'pi bhāguriś ca/
+dinakaraṇabalād bhṛgur bhavīryaṃ balam udayasya jagāda jīvaśarmā// VP_23
+
+karaṇabhatithayo 'rdhabhuktabhogāḥ svaphalakarā na bhavanti tatra sāmye/
+karaṇatithivāsarodayānāṃ caraṇavivṛtthir anukramāt phalānām// VP_24
+
+ṣaṭkāṣṭake maraṇavairaviyogadoṣā dvir dvādaśe nidhanatā 'prajātā trikoṇe/
+prītiḥ parā nigaditā samasaptakeṣu śeṣeṣv anekavidhasaukhyasutārthasaṃpat// VP_25
+
+ṣaṭkāṣṭake 'pi bhavanādhipam eva bhāva
+ekādhipatyam avalokya ca vaśyarāśim/
+kāryo vivāhasamayaḥ śubhakṛt saduktaḥ
+stārā [u. tārā] bhaved yadi parasparato 'nukūlā// VP_26
+
+dāridrayaṃ [u. dāridryaṃ] raviṇā kujena maraṇaṃ saumyena nasyuḥ prajāḥ
+daurbhāgyaṃ guruṇā sitena sahite candreṇa sāpatnikā/
+pravrajyārkasutena sendujagurau vāñchanti kecit chubham
+vyādhyair mṛtyur aṇaṃgrahair [u. asaṅgrahair] bahuvidhā dīkṣā pravāsāḥ śubhaiḥ// VP_27
+
+kriye kumāreṣv anuraktacittā vihīnavittā gavi govratā ca/
+kuladvayānandakarī tṛtīye kulīralagne kulaṭā nṛśaṃsā// VP_28
+
+harau prasūtā sakṛd āśritā pituḥ patipriyā 'ti śvaśurasya ṣaṣṭhabhe/
+tulādimānārthavatī tulādhare tathālini krandati nityam asthirā// VP_29
+
+dhanuṣi kulaṭā tatpūrvārddhe satīty apare jaguḥ/
+mṛgajhaṣaghaṭeṣv anyāśaktā jarām upagacchati// VP_30
+
+dvipadabhavanaprāpī yo 'ṃśaḥ sa śubho 'nyagṛhodaye/
+dvipadabhavaneṣv apy anyāṃśā na bhavanti śubhāvahā// VP_31
+
+bhānur mṛtyur na bahudhanatāṃ bhartṛdāyād avittaṃ [u. vittaṃ] bandhudhvaṃsaṃ tanayavirahaṃ bhartṛvṛddhiṃ parāṃ ca/
+vaidhavyaṃ syān [u. prāk] na laghumaraṇaṃ dharmahāniṃ viśīlaṃ lābhānekān vyayam api dadāty udgamarkṣāt krameṇa// VP_32
+
+śaśiny aśvā sārthā tad anu śubhatā bāndhavahitā viputrā bandhyārtā bhavati sasapatnā [u. sapatnā] ''śunidhanā/
+janitrī kanyānām atha vihatakarmā 'tidhaninī vyayāśaktety eke jagur aśubhadā bandhuṣu jale// VP_33
+
+mṛtyur naiḥsvaṃ sārthatā bandhuvairaṃ na syuḥ putrā bhartṛvṛddhiṃ kumaitrīm/
+raktasrāvo nānukulye ca bhartuḥ kravyācchailyaṃ svāptināśaṃ ca bhaume// VP_34
+
+bhartṛvratā sugṛhiṇī patipakṣapūjyā bandhvarcitā bahusutā vijitāripakṣā/
+bandhyā vyasur niyamadānakṛśāṅgavittā māyāvatī dhanavatī vyayanīya [u. vyayanī] saumye// VP_35
+
+patyuḥ priyā 'ti dhaninī muditā dhanyāḍhyā putrānvitā hataparā na sameti bhartā/
+kṣīṇāyuṣā śubharatā śubhasiddhakāryā svāyānvitā tadubhayopakṛtā ca jīve// VP_36
+
+priyā patyur lubdhā patisahajaśaktā kulahitā
+suputrā vairāḍhyā tad anu kulaṭā kṣipranidhanā/
+ratā nityaṃ dharme bahukuśalakarmaṇy abhiratā
+bhavaty āyaprāyā kṣapitavibhavā ceti bhṛguṇā// VP_37
+
+puṃścaly asvā bahudhanavatī svalpadugdhārkaputre
+hṛdrogā''rtā vinihataparā garbhavisrāvaśīlā//
+rogān muktā skhalitaniyamā pāpaśīlā 'tivittā
+pānair arthān nayati vilayaṃ prāvilagnāt krameṇa// VP_38
+
+saumyā vyayāstanidhanaṃ tryaribhaṃ ca śukre [u. śukraḥ] hitvā sthitas tridhanalābhagataḥ śaśāṅkaḥ/
+pāpā triṣaḍnidhanalābhagatā vivāhe hitvā 'ṣṭamaṃ kṣitijam iṣṭaphalāni dadyuḥ// VP_39
+
+sutahibukaviyadvilagnadharmeṣv amaragurur yadi dānavārcito vā/
+yad aśubham upayāti tac chubhatvaṃ śubham api vṛddhim upaiti tatprabhāvāt// VP_40
+
+aniṣṭasthānasaṃstho 'pi praśastaphaladaḥ śaśiḥ/
+saumyabhāge 'dhimitraṇa [u. 'dhimitreṇa] balinā cen nirīkṣtaḥ// VP_41
+
+naragrahabale strīṇāṃ pumān bhavati ballabhaḥ/
+viparīte 'ṅganā bhartur arthād anyat prakalpayet// VP_42
+
+śukrasūryāstapatiṣu śatrubhe vā tadaṃśake/
+virodhamūḍhā yāty āśu śvasruśvasurabhartṛṣu// VP_43
+
+vilagnāṃśaḥ svanāthena yady udvāhe na dṛśyate/
+puṃvināśas tato 'stāṃśe yady evaṃ yoṣitas tathā// VP_44
+
+gurusitayor uccagayor ekatame vā vilagnage kanyā/
+rājñi bhavaty asaṃśayam eva gurusaumyayoś coḍhā// VP_45
+
+svajāmitrodaye lagne śubhe kāryā caturthikā/
+svavarṇasadṛśā jārās tryādyair ekarkṣasaṃsthitaiḥ// VP_46
+
+carabhavanagataṃ vihāya satyaḥ śaśinam uvāca śubhapradaṃ vivāhe/
+munivacanavirodhi tac ca sūtre na tu kathite pavanarkṣavaiśvadeve// VP_47
+
+rāśyudgamadvādaśarāśicakre yuktā vivāhā munibhiḥ pradiṣṭā/
+nāmāni cakre grahayogalagne śrīdevakīrtiḥ śṛṇu tasya ca ''ryā// VP_48
+
+nando bhadro jīvo jīmūtaḥ sthāvaro jayo vijayaḥ/
+vyālo rasātalamukhaḥ kṣayas tamo 'ntyo vivāhagaṇaḥ// VP_49
+
+saumye vilagne nandaḥ śukre bhadras tathā gurau jīvaḥ/
+ādyantau jīmūtaḥ sthāvara iti madhyamāntyābhyām// VP_50
+
+saumyair atha tair vā ravibhaumaśanaiścaraiḥ kramaśaḥ/
+saumyaiḥ jñeyā saumyā krūrāḥ kruraiḥ [u. krūraiḥ] samākhyātā// VP_51
+
+dinakarayogād vyālo bhaumena rasātalaḥ kṣayaḥ śaninā/
+tamasā tamo nirukto 'thāntye keto [u. ketor] kṛtāntaś ca// VP_52
+
+triṣu nandādiṣu rājñī caturṣu cātaḥ paraṃ mahādevī/
+vyālādyeṣu ca pañcaṣu vidhavāḥ śocyā daridrāś ca// VP_53
+
+anadhikṛtaḥ śubhakṛt syād ete [u. etaiś] candro 'nyathā 'dhikṛtaḥ/
+tasmāt vivāhasamaye na kena cit saṅgataḥ śaśī dhanyaḥ// VP_54
+
+sapta te śaśiyogā saumyā [u. saumyaiḥ] saha sarvakarmasiddhikarāḥ/
+aśubhaphaladās tu pāpaiḥ patyudvahane vivarjyās te//
+tasmād etān yogān matimāṃ[sic.] sañcivtya [u. yuñjīta] sarvakāryeṣu/ VP_55
+
+ūḍhā nande kanyā devīśabdaṃ samāpnuyād acirāt//
+bhavati narendrajananī bhartuḥ prāṇaiḥ priyā caiva/ VP_56
+
+bhadre pāṇigrahaṇe yadi nāma kumārikā samupayāti//
+sā tvaritān nṛpaśabdaṃ karoti bhārtuḥ kulasyāpi/ VP_57
+
+pariṇītā jīvākhye kanyā vijayāya kīrtyate bhartuḥ//
+prāpnoti sā trivargaṃ kuladvayaṃ cāpi nandayati/ VP_58
+
+jīmūte pariṇītā vipulān bhogān mahāphalān bhuktvā//
+dṛṣdvā ca naptṛtanayān sahabhartā devatvam/ VP_59
+
+sthāvarayoge kanyā pāṇigraham etya vipulam aiśvaryam//
+bhartur nidhānalābhān prāpya kulasyonnatiṃ kurute/ VP_60
+
+pāṇigraham etya jaye jaghanyakulajāpi bhartur aiśvaryam//
+āvahati sadā kanyā niṣevyamānā sapatnībhiḥ/ VP_61
+
+vijayāṃ prāpyodvāhaṃ prāpnoti sutān yaśo 'rthalābhaṃ ca//
+vaṃśasya ca pratiṣṭhāṃ parato maraṇāc ca suralokam/ VP_62
+
+vyāle vyālākārā pāṇigraham eti kanyakā daivāt//
+dāridryāmayayuktā naikasmin puṃsi sā ramate/ VP_63
+
+pātālanāmani gatā pāṇigrahaṇe ca pañcamān māsāt//
+sā prāpya doṣam atulaṃ paraḥ prāṇān parityajati/ VP_64
+
+kṣayam āsādyodvāhaṃ kanyā pakṣadvayāt patiṃ hatvā//
+nīcena tu saha bhartrā kṣapayati jārāgninā gotram/ VP_65
+
+pāṇigrahas tamasi cel lakṣaṇaguṇavittato 'pi sampannā//
+saptati rātrāt kṣapayati yady api jātā surendreṇa/ VP_66
+
+yadi khalu kṛtāntayoge pariṇayam āyati kanyakā daivāt//
+sā śvasurabandhuvargaṃ kṣapayaty acireṇa kālena/ VP_67
+
+ātmopekṣakapoṣakavadhakā iti rāśayo 'rthato 'bhihitaḥ//
+ebhyaḥ śubham aśubhaṃ vā nirdeśyā janmalagnābhyām/ VP_68
+
+ātmeti janmalagnaṃ pañcama navamaṃ ca kīrtitaṃ tasmāt//
+dviṣaṭkadaśamabhavanam upekṣakākhyaṃ vinirdiṣṭam// VP_69
+
+duścikyaṃ jāmitraṃ caikādaśakaṃ ca poṣakaṃ jñeyam//
+dvādaśanidhanacaturthaṃ vadhakākhyaṃ śāstranirdiṣṭam/ VP_70
+
+hitvā śaśāṅkaṃ yadi sapta saumyaiḥ pañcāśubhaiḥ kiṃ kathitā na saptā//
+dvitryādiyogān parihṛtya kasmān noktaṃ śataṃ trighanaṃ vilagne/ VP_71
+
+deśācāras tāvad ādau vicintyo deśe deśe yā sthiti saiva kāryā//
+lokadviṣṭāṃ paṇḍitā varjayanti daivajño 'pi lokamārgeṇa yāyāt/ VP_72
+
+bṛhaspatau gocaraśobhanasthe vivāham icchanti ca dakṣiṇātyāḥ/
+ravau śubhasthe ca vadanti gauḍā na gocaro mālavake pramāṇam// VP_73
+
+harau prasupte na ca dakṣiṇāyane na caitramāse na ca puṣyasaṃjñite/
+tithau ca rikte śaśini kṣayaṅgate ravīndubhaumārkidineṣu cāśubham// VP_74
+
+vyatipātahataṃ dinatrayaṃ vyatipātena samaṃ ca vaidhṛtim//
+tad api sphuṭapātadarśane dviguṇaṃ yadi vā na niścitam/ VP_75
+
+vyatipātavyāghātaḥ ṣaṣṭhe daśame ca vaidhṛtaṃ dhiṣṇye//
+vikṣobhaṇagaṇḍāntāv atidhṛtisaṃkhye ca vyāghātaḥ/ VP_76
+
+tad idaṃ vyatipātaṃ ca kathayanti uttaradiksthitājanāḥ//
+vyatipātavad ākulasthitaṃ bahusiddhāntaviśeṣakāraṇe/ VP_77
+
+tathottarāḥ sākalasannikṛṣṭā māṇḍavyamātīyatusārddhakeṣu//
+khaśeṣu hūṇeṣu na bāhlikeṣu vā na, kāṇadeśeṣu na gopabhojāḥ/ VP_78
+
+ekādaśoktāni śubhāni bhāni śeṣāṇy aniṣṭāni vivāhakāle//
+tatrāgni [u. tatrāpi] tārā śaśivīryayuktā triṃśan muhūrtāś ca vicintanīyāḥ/ VP_79
+
+tulādharastrīmithunād vivāha [u. vihāya] lagne sthitā pāpaphalā na cānye//
+triṃśāṃśakadvādaśabhāgabhedair dreṣkāṇahorāpramukhair vicintyaḥ/ VP_80
+
+māse nāṣṭāu viṣṭiduṣṭāni bhāni tatrāpy eke rātrim āhur dinaṃ ca//
+tithyarddhe 'ntye prāptināśau ca viṣṭe [u. viṣṭeḥ] cāndraṃ mānaṃ viṣṭihetu na śeṣam/ VP_81
+
+prācyāḥ prāyoḥ nyūnavarṇāḥ sagopāḥ saṃdhyākālaṃ prāhur iṣṭaṃ na śeṣam//
+yāvac chāntaṃ gorajo nābhyupeti tāvat teṣāṃ cittaśuddhir vivāhe/ VP_82
+
+gopair yaṣṭayāhatānāṃ [u. yaṣṭyāhatānāṃ] khurapuṭadalitā yā tu dhūlir dinānte
+sodvāhe sundarīṇāṃ vipuladhanasutāś cāyurārogyasaṃpat//
+tasmin kāle na ca rkṣaṃ na ca tithikaraṇaṃ naiva lagnaṃ na yogaḥ
+khyātaḥ puṃsāṃ sukhārthaṃ śamayati duritāni utthitaṃ gorajas tu/ VP_83
+
+kulasya deśasya ca cittavṛttir na khaṇḍaniyā [u. khaṇḍanīyā] viduṣā kadācit//
+dosaḥ pratisyāyakṛto 'pi yo 'tra saṃbhāvyate jyautiṣikasya so 'jñaiḥ/ VP_84
+
+śāstraśarīram abudhvā bahudhā jalpanti yady api nānumatam//
+kāṇānāṃ viṣayagataḥ prājño nimilayen netram/ VP_85
+
+evaṃ vivāhasamaye gamane praveśe kāryeṣu maṅgalayuteṣv athavā pareṣu//
+doṣaṃ kuśikṣitakudaivavido vadanti rāgeṇa vā paṭudhiyo namo 'stu tebhyaḥ/ VP_86
+
+gocaraśuddhāv induṃ kanyāyā yatnataḥ śubhaṃ vīkṣya//
+tigmakiraṇaś ca puṃsaḥ śeṣair avarṇair api vivāhaḥ/ VP_87
+
+na sakalaguṇasaṃpal labhyate 'lpair ahobhir bahutaraguṇayogaṃ yojayet maṅgaleṣu//
+prabhavati na hi doṣo bhūribhāve guṇānāṃ salilalava ivāgneḥ saṃpradīptendhanasya/ VP_88
+
+guṇaśatam api doṣaḥ kaścid eko 'pi vṛddhaḥ kṣapayati yadi nānyat tadvirodhiguṇo 'sti/
+ghaṭam api paripūrṇaṃ pañcagavyasya śaktyā malinayati surāyā bindur eko 'pi sarvam// VP_89
+
+kṛtakautukamaṅgalo varo madhuparkādyaśanād anantaram//
+jvalitāgnisamakṣamaṅgalaṃ yad avāpnoti śubhāśubhaṃ ca tam// VP_90
+
+cakre varāhamihiraḥ praṇipatya sādhūn samyak vivāhapaṭalaṃ pṛthutāṃ vihāya/
+pūrvaṃ ca yad yuvatijanmavidhau mayoktaṃ saṃcintya tac ca sadasatparikalpanīyam// VP_91

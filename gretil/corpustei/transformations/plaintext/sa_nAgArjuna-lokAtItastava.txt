@@ -1,0 +1,138 @@
+Nāgārjuna: Lokātītastava
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-lokAtItastava.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Richard Mahoney
+## Contribution: Richard Mahoney
+## Date of this version: 2020-07-31
+
+## Source: 
+   - .
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Lokātītastava = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from naglok_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Nagarjuna:
+Lokatitastava
+Version: 0.1a
+Last updated: Mon May 12 12:16:02 NZST 2003
+Text input by Richard Mahoney: r.mahoney@comnet.net.nz
+Latest Version:
+ http://homepages.comnet.co.nz/~r-mahoney/ratna_text/ratna_text.html
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+lokātīta namas tubhyaṃ viviktajñānavedine |
+yas tvaṃ jagaddhitāyaiva khinnaḥ karuṇayā ciram || naglok_01
+
+skandhamātravinirmukto na sattvo 'stīti te matam |
+sattvārthaṃ ca paraṃ khedam agamas tvaṃ mahāmune || naglok_02
+
+te 'pi skandhās tvayā dhīman dhīmadbhyaḥ saṃprakāśitāḥ |
+māyāmarīcigandharvanagarasvapnasaṃnibhāḥ || naglok_03
+
+hetutaḥ saṃbhavo yeṣāṃ tadabhāvān na santi ye |
+kathaṃ nāma na te spaṣṭaṃ pratibimbasamā matāḥ || naglok_04
+
+bhūtāny acakṣurgrāhyāṇi tanmayaṃ cākṣuṣaṃ katham |
+rūpaṃ tvayaivaṃ bruvatā rūpagrāho nivāritaḥ || naglok_05
+
+vedanīyaṃ vinā nāsti vedanāto nirātmikā |
+tac ca vedyaṃ svabhāvena nāstīty abhimataṃ tava || naglok_06
+
+saṃjñārthayor ananyatve mukhaṃ dahyeta vahninā |
+anyatve 'dhigamābhāvas tvayoktaṃ bhūtavādinā || naglok_07
+
+kartā svatantraḥ karmāpi tvayoktaṃ vyavahārataḥ |
+parasparāpekṣikī tu siddhis te 'bhimatānayoḥ || naglok_08
+
+na kartāsti na bhoktāsti puṇyāpuṇyaṃ pratītyajam |
+yat pratītya na taj jātaṃ proktaṃ vācaspate tvayā || naglok_09
+
+ajñāyamānaṃ na jñeyaṃ vijñānaṃ tad vinā na ca |
+tasmāt svabhāvato na sto jñānajñeye tvam ūcivān || naglok_10
+
+lakṣyāl lakṣaṇam anyac cet syāt tal lakṣyam alakṣaṇam |
+tayor abhāvo 'nanyatve vispaṣṭaṃ kathitaṃ tvayā || naglok_11
+
+lakṣyalakṣaṇanirmuktaṃ vāgudāhāravarjitam |
+śāntaṃ jagad idaṃ dṛṣṭaṃ bhavatā jñānacakṣuṣā || naglok_12
+
+na sann utpadyate bhāvo nāpy asan sadasan na ca |
+na svato nāpi parato na dvābhyāṃ jāyate katham || naglok_13
+
+na sataḥ sthitiyuktasya vināśa upapadyate |
+nāsato 'śvaviṣāṇena samasya śamatā katham || naglok_14
+
+bhāvān nārthāntaraṃ nāśo nāpy anarthāntaraṃ matam |
+arthāntare bhaven nityo nāpy anarthāntare bhavet || naglok_15
+
+ekatve na hi bhāvasya vināśa upapadyate |
+pṛthaktve na hi bhāvasya vināśa upapadyate || naglok_16
+
+vinaṣṭāt kāraṇāt tāvat kāryotpattir na yujyate |
+na cāvinaṣṭāt svapnena tulyotpattir matā tava || naglok_17
+
+na niruddhān nāniruddhād bījād aṅkurasaṃbhavaḥ |
+māyotpādavad utpādaḥ sarva eva tvayocyate || naglok_18
+
+atas tvayā jagad idaṃ parikalpasamudbhavam |
+parijñātam asadbhūtam anutpannam na naśyati || naglok_19
+
+nityasya saṃsṛtir nāsti naivānityasya saṃsṛtiḥ |
+svapnavat saṃsṛtiḥ proktā tvayā tattvavidāṃ vara || naglok_20
+
+svayaṃkṛtaṃ parakṛtaṃ dvābhyāṃ kṛtam ahetukam |
+tārkikair iṣyate duḥkhaṃ tvayā tūktaṃ pratītyajam || naglok_21
+
+yaḥ pratītyasamutpādaḥ śūnyatā saiva te matā |
+bhāvaḥ svatantro nāstīti siṃhanādas tavātulaḥ || naglok_22
+
+sarvasaṃkalpanāśāya śūnyatāmṛtadeśanā |
+yasya tasyām api grāhas tvayāsāv avasāditaḥ || naglok_23
+
+nirīhā vaśikāḥ śūnyā māyāvat pratyayodbhavāḥ |
+sarvadharmās tvayā nātha niḥsvabhāvāḥ prakāśitāḥ || naglok_24
+
+na tvayotpāditaṃ kiṃ cin na ca kiṃ cin nirodhitam |
+yathā pūrvaṃ tathā paścāt tathatāṃ buddhavān asi || naglok_25
+
+āryair nisevitām enām anāgamya hi bhāvanām |
+nānimittam hi vijñānaṃ bhavatīha kathaṃ cana || naglok_26
+
+animittam anāgamya mokṣo nāsti tvam uktavān |
+atas tvayā mahāyāne tat sākalyena deśitam || naglok_27
+
+yad avāptaṃ mayā puṇyaṃ stutvā tvāṃ stutibhājanam |
+nimittabandhanāpetaṃ bhūyāt tenākhilaṃ yagat || naglok_28
+
+|| iti lokātītastavaḥ samāptaḥ ||
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+copyright (c) 2003 by chr. lindtner - denmark
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

@@ -1,0 +1,226 @@
+Chandoviciti
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_chandoviciti.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Klaus Wille
+## Contribution: Klaus Wille
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Dieter Schlingloff: Chandoviciti, Texte zur Sanskritmetrik, Berlin 1958 (Sanskrittexte aus den Turfanfunden, 5). = ChV.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Chandoviciti = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from chandovu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Chandoviciti
+Based on the ed. by Dieter Schlingloff: Chandoviciti, Texte zur Sanskritmetrik, Berlin 1958 (Sanskrittexte aus den Turfanfunden, 5). = ChV
+The manuscript of the text is catalogue number 654 in: Sanskrithandschriften aus den Turfanfunden, Teil 1, unter Mitarbeit von W. Clawiter und L. Holzmann hg. von E. Waldschmidt, Wiesbaden 1965 (Verzeichnis der Orientalischen Handschriften in Deutschland, 10,1).
+This revised version includes the corrections by Chen, Ruixuan:
+"Beobachtungen zur Turfan-Chandoviciti", Indo-Iranian Journal, 56 (2013), pp. 41-60, esp. pp. 43ff.
+Input by Klaus Wille
+[GRETIL-Version vom 9.3.2015]
+%<...>% = ITALICS for restored passages
+#<...># = BOLD (marks the beginning of a new line in the manuscript)
+@ ... @@ = comments
+three hard spaces = pāda boundary
+METRICS:
+^ = short
+_ = long
+X = short/long
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+i. regeln zur metrik ii. chandoviciti iii. metrik-lehrtext
+
+i. regeln zur metrik, versgruppe a: a.1 - a.15
+
+kusumāyudhabh_ _ _ _ _ _ _ ^ _ namaskṛtvā / miśrīkṛtaṃ abhidhāsye samu _ _ _ ^ _ _ _ / 1 = chv_i_a_1 vṛttāny asaṃskṛ _ _ _ _ _ _ ^ d anyasaṃjñābhiḥ / daśadaśaṣaṭmacchandaṃ _ _ _ _ ^ _ _ .i / 2 // = chv_i_a_2 _ _ .y. kādi _ ^ tha saṃjñābhiḥ ṣaḍakṣarādīni / ś_ _ _ _ _ _ _ _ _ _ ^ _ _ ^ / 3 // = chv_i_a_3 gāyatry uṣṇīg_ .ā śakvaryy aṣṭir dhṛtiś ca jagatī _ / _ _ _ _ _ _ _ _ _ _ ^ _ _ .i / 4 // = chv_i_a_4 chv_i_a_5 nicht erhalten _ _ _ _ _ _ _ _ _ _ ^ _ _ _ / 6 // = chv_i_a_6 _ _ .ūs_ _ _ _ _ _ _ ^ _ ^ _ _ _ / _ _ _ _ _ _ _ _ _ _ adhastāt tu / 7 // = chv_i_a_7 gurulaghumiśraṃ vṛttaṃ sama _ _ _ ^ _ ^ viṣamañ ca / pāde _ _ _ _ _ _ ^ yujāyujau viṣamau / 8 // = chv_i_a_8 samaviṣamā _ _ _ _ _ _ _ darūparūpārddaiḥ / y. _ _ _ _ _ _ .iñ ga sa syāt padasamāptau / 9 // = chv_i_a_9 @b: chen: darūparūpārddhaiḥ@@ yukpāde _ _ _ _ _ _ _ ^ _ ^ _ _ _ / _ _ _ _ _ _ _ _ _ _ ^ _ _ _ / 10 // = chv_i_a_10 _ _ _ _ _ _ _ _ _ _ ^ _ ^ _ _ _ / _ svaravasusvasaṃkhyā _ _ _ _ ^ _ _ _ / 11 // = chv_i_a_11 _ _ _ _ _ _ _ _ _ _ khamaddhyanaidha _ / _ _ _ _ _ _ _ _ _ _ ^ _ _ _ / 12 // = chv_i_a_12 _ _ _ _ _ _ _ _ _ _ catuṣṭaye prathame / śeṣe _ _ _ _ _ _ _ _ ^ _ _ _ / 13 // = chv_i_a_13 _ _ _ _ _ḥ syād guruṇī pānaṃ na bhāsv^ _ _ _ / _ _ _ _ _ _ _ _ _ _ ^ _ _ _ / 14 // = chv_i_a_14 _ _ rūpe dve dve sa ^ _ catvāri _ ^ _ _ _ / _ _ _ _ _ _ _ _ _ _ ^ _ _ yaḥ // = chv_i_a_15
+
+versgruppe b: b1 - b31
+
+ekapañca _ _ _ _ _ _ ^ _ ^ _ _ _ / _ _ _ _ ^ _ vṛttaḥ 1 // = chv_i_b_1 ekena devaya _ _ _ _ _ ^ _ ^ _ _ _ / _ _ _ _ _ _ _ _ _ _ ^ _ _ _ 2 // = chv_i_b_2 brahmaṛca _ _ _ _ _ _ _ ^ _ ^ _ _ _ / _ _ _ _ _ _ _ _ _ _ ^ _ _ _ / 3 // = chv_i_b_3
+
+chv_i_b_4-5 nicht erhalten
+
+... .r. puraḥ pura ... = chv_i_b_6 ... purastādbṛhatī jā ... = chv_i_b_7 _ _ _ _ _ _ _ _ tasya dvitīyayogād bṛhatī / _ _ _ _ _ _ _ _ _ _ ^ _ _ ttyau 8 // = chv_i_b_8 mahataḥ parā ^ _ _ _ _ _ _ ^ _ ^ _ _ _ / _ _ _ _ _ _ _ _ _ _ gatāv ante / 9 // = chv_i_b_9 .i _ _ _ _ _ _ _ _ _ ^ _ ^ _ _ _ / _ _ _ _ _ _ _ _ _ _ ^ _ padbhiḥ 10 // = chv_i_b_10 @d: chen: paṅ[k](t)iḥ@@
+
+chv_i_b_11-21 nicht erhalten
+
+... t. syā tāv. m. śr. t. pr. ... = chv_i_b_22
+
+^ _ ^ _ _ ^ _ ^ _ _ _ _ p. r. y. bhilakṣyate / udīcya _ _ ^ _ ^ _ _ _ _ _ _ ^ _ ^ _ / 23 // = chv_i_b_23 _ .y. vṛttir yyad ojayoḥ prācyavṛttir atha śe ^ _ ^ _ / _ _ _ _ ^ _ ^ _ _ ^ _ ^ _ _ ^ _ ^ _ / 24 // = chv_i_b_24 mātrā daśaṣaṭsahi ^ _ _ _ _ _ _ ^ _ ^ _ / _ _ _ _ _ ^ _ ^ .ā nidhane ca tathā pi ^ _ ^ _ / 25 // = chv_i_b_25 ... .y. tathā v. c. ... = chv_i_b_26 _ _ _ b. yāyāḥ yo dvitīya _ _ ^ _ ^ _ _ _ / _ _ _ _ _ _ _ ṅśo 'nte v. l. h. ko vā 27 // = chv_i_b_27 mātrāḥ _ _ _ _ _ _ _ _ ^ _ ^ _ _ _ / _ _ _ _ _ _ ^ de yujatu pañcadaśalajalo / 28 // = chv_i_b_28 _ _ _ _ _ _ _ _ _ _ ^ _ ^ _ _ _ / na ca niyatākṣaḥ gatayo l. _ _ _ m imāḥ saṃjñāḥ 29 //
+
+pra-parā-ṇi-nir-ud-duḥ-saṃ vy-av-ānu-paryy-abhy-adhiḥ prati-sv-aṃta aty-apy- ... .. .. hi tair gītikapūrvair yathāsaṃkhyam / 30 // = chv_i_b_30 @d: chen: yyathāś@@ caturbhir api yat pādaiḥ saṃkhyāgativi _ ^ _ / x x x .āptabhi _ .i padekārthair vigadyate / 31 // = chv_i_b_31
+
+ii. chandoviciti
+
+tṛṣṭub-jagaty-anuṣṭup sā gāthā _ ^ _ ^ _ _ _ / _ _ _ _ _ _ _ yāskapiṅgalasūtrebhyaḥ / mitradhareṇa ^ _ _ _ _ _ _ ^ _ ^ _ _ _ / _ _ _ .y. kṛtiḥ cchandovicitiḥ ^ _ _ _ // .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. yat / tad vṛttaṃ jāti .. .. .. .. .. .. .. .. .. .. .. / 1 // = chv_ii_1_1 _ _ _ _ tubh.ḥ .ū .y. .. .. dve nakhenam aṣṭau ca / _ _ _ _ _ _ _ _ tā _ ^ _ _ _m 2 // = chv_ii_1_2 @ab: chen: [tu]bhyaḥ .ū .y. .. .. dve navainam aṣṭau ca@@ aṅgulyaḥ pādgulyas sarvāḥ samyakpratiṣṭhitā bhūmau / _ suvṛttanābhiḥ kanyānām ādir āryyāṇām / 3 // = chv_ii_1_3 raktamadhupadmanetrā snigdhāsitabahulasūkṣmamṛdukeśī / _ _ ^ rūrujaghanā tanuvakṣāṃsodarī pathyā / 4 // = chv_ii_1_4 vipulā jaghanorupayodhareṣu tāmrādharoṣṭhakaracaraṇā / āyatanāsākṣibhrūlalāṭakarṇā śubhā kanyā / 5 // = chv_ii_1_5 _ _ ^ locanā citralocanā k. ^ _ ^ _ _ ddhyā / kanyā vihāramadyā miṣapriyā sarvataś capalā / 6 // = chv_ii_1_6 abhyunnatauttarauṣṭhī prahāsa _ _ ^ _ ^ _ _ _ / rūkṣakapilāgrakeśīṃ mukhacapalāṃ tādṛśīṃ vindyāt / 7 // = chv_ii_1_7 @d: chen: viṃdyāt@@ śaśamṛgavarā ^ _ _ _ _ _ _ ^ _ ^ _ _ _ / _ _ ^ _ ^ gītapriyā sadā jaghanacapalā sā / 8 // = chv_ii_1_8 ... ca gaṇe yadi viśeṣa ... = chv_ii_1_9 _ _ _ _ _ _ _ _ _ _ ^ _ ^ _ _ _ / _ _ _ _ _ _ ^ pavindyāt saptamaṃ ^ _ _ _ / 10 // = chv_ii_1_10 _ _ _ _ _ _ _ _ _ _ ^ _ _ _ / su .ty. c. .. ñ caikagaṇe kanyā laghu _ ^ _ _ _ / 11 // = chv_ii_1_11 samupacitavinayajaghanavimaladaśanasamavipulacibukana ^ _ / ^ ^ ^ ^ raṇaruciramṛdurucitakiraṇavapur ava .i ^ ^ ^ mahiṣīm / 12 // = chv_ii_1_12 durvvākisalaya _ _ _ _ _ .āṃ viśālavedīmadhyām / kṛṣṇām avāpya _ _ _ _ _ _ .ṛtā laghubharā pṛthivī / 13 // = chv_ii_1_13 _ _ _ _ ṣṭatālukair jaṅghe sthūle sirātate / kheṭāḍir yasya lakṣaṇaṃ kanyānām etaj jugupsitam / 14 // = chv_ii_1_14 @ab: chen: pādāv utkṛṣṭatālak[au] jaṅghe {ca} sthūle 'nirātate@@ @c: chen: vaitāḍīyasya lakṣaṇaṃ@@ _ _ ślakṣṇair ghanāṅgulīkaiḥ susnighdopacitair 'bhigūḍhagulphaiḥ / @read vigūḍhagulphaiḥ?@@ sūtāmranakhaiḥ samunna _ _ _ _ _ _ _ ^ _ṃ labhante / 15 @cd: chen: ātāmranakhaiḥ samunnatāgraiḥ aupacchandasikaṃ vanaṃ labhante@@ govṛṣanetro jagatīndraḥ upacitamāṃsahanuḥ su ^ _ _ / _ _ _ _ ^ ^ _ _ _ _ _ āpātalikāyām / 16 // = chv 16
+
+hs. im folgenden andere reihenfolge _ _ _ _ ^ _ ^ _ _ ^ kṛṣṭa _ .ottaro guṇaiḥ / karṇo vaikarttanī vṛṣaḥ prācyavṛttināṃ _ ^ .ābhavat / 19 // = chv_ii_1_19 viśālajaghanā sahodarā hariṇākṣāḥ kalamandabhāṣiṇaḥ / ^ _ ^ _ sannibhānanās sadṛśā strībhir udīcyavṛttibhiḥ / 20 // = chv_ii_1_20 pralambabahuśaṅkhapiṇḍikaṃ _ ^ _ ^ _ _ lyanāsikam / mukhaṃ viṣamadantalocanaṃ pāpakarmaṇi sadā pravṛttakam / 21 // = chv_ii_1_21 @a: chen: pralambahanuśaṅkhapiṇḍikaṃ@@ ^ _ ^ _ _ _ _ _ ^ _ ^ _ _ _ _ _ / ^ _ ^ _ cāruhāsinī priyā bhavati _ ^ _ ^ _ / 18 // = chv_ii_1_18 dīrghasūkṣmamṛdubhiḥ śikhā ^ _ _ ^ _ ^ _ _ ^ _ ^ _ / _ ^ _ ^ _ _ ^ _ ^ _ _ ^ _ d yuvatim āparāṃtikām / 17 // = chv_ii_1_17 @a: chen: dīrghasūkṣmamṛdubhiś śi(khā)@@ aśmaśrumukho viralair dantaiḥ gambhīrākṣo valināsāgraḥ nirmāṃsahanuḥ kapilaiḥ keśair mātrāsamakaṃ labhate duḥkham / 22 // = chv.22 @b: chen: gaṃbhīrākṣo valināsāgraḥ@@ _ _ ^ raskavidāritāsyaṃ pīnaskandhorudīrghabāhum / rājānaṃ viddhi govṛrṣākṣam bhartāraṃ vānavāsikānāṃ / 23 // = chv_ii_1_23 @c: chen: viddhi govṛṣākṣam@@ strī piṅgala ^ _ ^ n. y. .e _ _ ntaromaśamahāgrakaṭim / tīkṣṇāgranāsam u ^ _ _ _ _ _ ^ _ ^ _ _ _ _ / 24 // = chv_ii_1_24 @a: chen: (str)ī piṃgala@@ _ _ ^ .orujaghanā vipulā pakvapriyaṅgunibhavarṇā _ / _ _ ^ _ ^ ^ ^ _ _ _ _ _ ^ _ ^ ^ ^ _ _ _ / 25 // = chv_ii_1_25 _ _ _ ^ payodharanetrā ghana _ _ _ _ _ _ _ / _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ / 26 // = chv_ii_1_26
+
+/// gītyāryā ///
+
+^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ pṛthur api ca / śirasi puruṣa iha kara ^ ^ ^ ^ ^ ^ ^ ^ ^ tula ^ ^ ^ ^ ^ ^ ^ .i jagati / 1 = chv_ii_2_1
+
+śikhā / siṃhaskandho mūṣābāhuḥ _ _ _ _ kambugrīvaḥ gajavṛsabhacaritasadṛśagatir api ca ruciravapur amarasadṛśa iha bhavati / 2 // = chv_ii_2_2
+// cūlikā //
+pṛthukaṭhinam urasi samavipulaśirasam asitaghanaravinadasamavacasam / ^ ^ ^ ^ ^ yanam atha bilajaṭharam anuviśati kamalavananina ^ _ / 3 // = chv_ii_2_3 asthirāṇi locanāni _ ^ _ ^ maṇḍalāni / tat samāni cānanāni dhṛṣyalubdhadāruṇāni / 4 // = chv_ii_2_4 ati pramāṇy adhaḥ kṛśā ^ _ ^ _ ^ _ ^ _ / narasya gantu _ ^ _ sa śastraghātam āpnuyāt / 5 // = chv_ii_2_5 @a: chen: ati prāmāṇy adhaḥ kṛśā@@ ājyamahi ^ ^ _ _ _ ^ ^ _ ^ ^ _ _ / _ ^ ^ _ maṇicitraṃ dhāryati mūrdhni vitānam / 6 // = chv_ii_2_6 anudbaddhaka _ _ _ x x x x ^ _ _ _ / x x x x ^ _ _ _ x x x x ^ _ _ _ / 7 // = chv_ii_2_7 urmimūlaśiro _ _ x x x x ^ _ ^ _ / x x x x ^ _ _ _ x x x x ^ _ ^ _ / 8 // = chv_ii_2_8 x n. gaṇḍāgradaśanā x x x x ^ _ _ _ / x x x x ^ ^ ^ _ x x x dhūrtasaubhāgyam / 9 // = chv_ii_2_9 pṛthupīnamṛduśroṇir x x x x ^ _ ^ _ / sin. x x ^ _ _ .ā kanyā putrārthinī matā / 10 // = chv_ii_2_10 maṇḍalaṃ śaṭha _ ^ _ _ ^ _ ^ ^ m āyatam / strīmukhe svanapatyatā durbhagaṃ tu mahāmukham / 11 = chv_ii_2_11
+
+bha-vipulā _ ^ ^ bahusatyaṃ _ ^ ^ _ viṣamauṣṭhaṃ kālahikam / kṛpanāḍhyaṃ hrasvamukhaṃ catu _ _ṃ _ rtamukham / 12 // = chv_ii_2_12
+
+ra-vipula _ ^ _ _ _ _ _ _ ^ _ _ _ _ _ _ _ ^ _ _ / _ _ _ _ _ ^ _ ṇḍaṃ krūrānāryaṃ _ ^ _ṃ syāt / 13 // = chv_ii_2_13 @d: chen: krūrānaryaṃ@@
+
+na-vipula ^ ^ ^ pāṭi _ _ ^ ^ ^ _ _ ^ _ _ ^ ^ ^ _ / _ ^ _ _ ^ ^ ^ ne vāhinīnāṃ praṇayitā / 14 // = chv_ii_2_14
+
+ta-vipulā _ _ ^ snigdha ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ / _ _ dyayaṃ devaiḥ svayaṃ skando vṛtaḥ senāpatiḥ / 15 // = chv_ii_2_15 @c: chen: dyayaṃ devais svayaṃ@@
+
+// āpīḍaḥ // samavimalalalāṭaḥ pṛthumṛdukaratalasukumāraḥ / upacitamṛgapatisusadṛśavarajānuḥ sa bhavati narapatir avanataripujanasukhabhogaḥ / 16 // = chv_ii_2_16
+
+// mañjarī //
+
+b: pṛthumṛdukaratalasukumāraḥ a: samavimalalalāṭaḥ / c: upacitamṛgapatisusadṛśavarajānuḥ d: sa bhavati narapatir avanataripujanasukhabhogaḥ / 17 // = chv_ii_2_17
+
+// lavalī //
+
+c: upacitamṛgapatisusadṛśavarajānuḥ b: pṛthumṛdukaratalasukumāraḥ / a: samavimalalalāṭaḥ d: sa bhavati narapatir avanataripujanasukhabhogaḥ / 18 // = chv_ii_2_18
+// amṛtadhārā //
+d: sa bhavati narapatir avanataripujanasukhabhogaḥ / c: upacitamṛgapatisusadṛśavarajānuḥ / b: pṛthumṛdukaratalasukumāraḥ a: samavimalalalāṭaḥ / 19 // = chv_ii_2_19
+
+udgatā ^ ^ _ ^ _ ^ ^ ^ _ ^ ^ ^ ^ ^ ^ _ ^ _ ^ _ / _ ^ ^ ^ ^ ^ ^ _ ^ ^ _ ^ ^ yāti naubhir a ^ _ ^ _ ^ _ / 20 // = chv_ii_2_20
+
+saurabhaka ^ ^ _ ^ _ ^ ^ ^ _ ^ ^ ^ ^ ^ ^ _ ^ nāsikaḥ / prasthitaś ca yadi _ ^ ^ _ ^ ^ _ ^ _ ^ ^ ^ _ ^ _ ^ _ / 21 // = chv_ii_2_21
+
+lalita baliśaktipuṣpitalatāgrataruṇara ^ _ ^ _ ^ _ / ^ ^ ^ ^ ^ ^ ^ ^ _ ^ ^ jāḥ laḍitaṃ prajāsu viniveśayanti te / 22 // = chv_ii_2_22
+
+upasthitapracupita _ _ _ ^ ^ _ ^ _ ^ _ ^ ^ _ _ ^ ^ _ ^ ^ ^ ^ _ ^ _ ^ _ _ / pracupitam acirasukho ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ _ ^ ^ _ _ / 23 // = chv_ii_2_23
+
+vardhamāna _ _ _ ^ ^ _ ^ _ ^ _ ^ ^ _ .ā puruṣe pravisṛta _ ^ _ ^ _ _ / ^ ^ ^ ^ ^ ^ ^ ^ _ ^ ^ ^ ^ ^ ^ ^ ^ t. puruṣakṛtasamayam api jīvati kālam / 24 = chv_ii_2_24
+
+śuddhavirāḍṛṣabha _ _ _ ^ ^ _ ^ _ ^ _ ^ ^ _ _ ^ ^ _ ^ ^ ^ radundubhisvanaṃ vā te satpuruṣāḥ sa _ ^ _ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ _ ^ ^ _ _ / 25 // = chv_ii_2_25
+
+upacitraka ^ ^ _ ^ ^ _ kh. r. jalpitaṃ jarjarako 'sya ra _ ^ ^ _ _ / ^ ^ _ ^ ^ _ ^ ^ _ ^ _ _ ^ ^ _ ^ ^ _ ^ ^ _ _ / 26 // = chv_ii_2_26
+
+drutamadhyā yady api śīghragatir ^ ^ _ _ ^ ^ ^ ^ _ ^ ^ _ ^ ^ _ _ / _ ^ ^ _ ^ ^ _ ^ ^ _ _ ^ ^ ^ ^ _ ^ ^ _ ^ ^ _ _ / 27 // = chv_ii_2_27
+
+vegavatī ^ ^ _ ^ ^ _ ^ ^ _ _ _ ^ ^ _ ^ .upiṃgalanetram / puruṣ. ^ ^ sauhṛda _ _ _ ^ ^ _ ^ ^ _ ^ ^ _ _ / 28 // = chv_ii_2_28
+
+bhadravirāṭ _ _ ^ ^ _ kṣavakṣaṇākṣī gambhīrasvara _ ^ _ ^ _ _ / _ _ ^ ^ _ ^ _ ^ _ _ _ _ _ ^ ^ _ ^ _ ^ _ gī / 29 // = chv_ii_2_29
+
+ketumatī ati _ ^ _ ^ ^ ^ _ _ _ ^ ^ _ ^ _ ^ ^ ^ _ _ / ^ ^ _ ^ _ ^ ^ ^ _ _ ketumatīv. _ ^ ^ ^ _ _ / 30 // = chv_ii_2_30
+
+ākhyānakī _ _ ^ _ _ ^ ^ _ ^ _ _ ^ _ ^ _ _ ^ ^ _ ^ _ _ / _ _s samācā ^ ^ _ ^ _ _ ^ _ ^ _ _ ^ ^ _ ^ _ _ / 31 // = chv_ii_2_31
+
+hariṇapluta ^ ^ _ ^ ^ _ ^ ^ _ ^ _ ^ ^ ^ haṃsagatiḥ sukh^ _ ^ _ / ^ ^ _ ^ ^ _ ^ ^ _ ^ _ ^ ^ ^ _ ^ ^ _ ^ ^ _ ^ _ / 32 // = chv_ii_2_32
+
+aparavaktra stanajaghanana _ ^ _ ^ _ ^ ^ ^ ^ _ ^ ^ _ ^ _ ^ _ ^ ^ ^ ^ ^ ^ _ ^ _ ^ _ na ratiparo 'paravaktram īkṣate / 33 // = chv_ii_2_33
+
+chv_ii_2_34-41 nicht erhalten 34: puṣpitāgrā ^ ^ ^ ^ ^ ^ _ ^ _ ^ _ _ ^ ^ ^ ^ _ ^ ^ _ ^ _ ^ _ _ / 35: yavamatī _ ^ _ ^ _ ^ _ ^ _ ^ _ ^ ^ _ ^ _ ^ _ ^ _ ^ _ ^ _ _ / 36: śikhā ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ _ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ _ 37: khañja ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ _ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ _ 40: tanumadhyā _ _ ^ ^ ^ _ 41: kumāralalitā ^ _ ^ ^ ^ _ _
+
+māṇavakrīḍitaka _ ^ ^ _ _ ^ _ ^ _ kapilākṣi ^ _ ^ / _ ^ ^ _ _ ^ _ ^ _ ^ ^ _ _ ^ _ ^ / 42 // = chv_ii_2_42
+
+citrapadā _ ^ ^ _ ^ ^ _ _ śroṇipayodharagurvī / _ ^ ^ _ ^ ^ _ _ _ ^ ^ _ _ ^ _ _ / 43 // = chv_ii_2_43
+
+bhujagaśiśusṛtā ^ ^ ^ ^ ^ ^ _ śroṇī nayanakara ^ _ _ _ / ^ ^ ^ ^ ^ ^ _ _ _ ^ ^ ^ ^ ^ ^ _ _ _ / 44 // = chv_ii_2_44 _ tt.ḥ sūkṣmasamais siv_ ^ _ _ _ _ ^ ^ _ ^ _ ^ _ / _ _ _ ^ ^ _ ^ _ ^ _ _ _ _ ^ ^ _ priyaṃvadā / 45 // = chv_ii_2_45
+
+yast. ...
+
+mattā _ _ ndhārhaḥ sa tu ^ ^ _ _ _ _ _ _ ^ ^ ^ ^ _ _ / _ _ _ _ ^ ^ ^ ^ _ _ _ _ _ _ ^ ^ ^ ^ _ _ / 47 // = chv_ii_2_47
+
+indravajrā _ māgrahastākṣinakhe ^ _ _ _ _ ^ _ _ ^ ^ _ r lalāṭam / nirk_ ^ _ .e ^ ^ _ ^ _ _ _ _ ^ _ _ ^ ^ _ ^ hanyāt / 48 // = chv_ii_2_48
+
+upendravajrā upendravajrā ^ ^ _ ^ _ _ ^ _ ^ _ _ ^ ^ _ ^ _ _ / ^ _ ^ _ _ ^ ^ _ ^ _ _ ^ _ ^ _ _ ^ ^ _ ^ _ _ / 49 // = chv_ii_2_49
+
+śālinī _ _ _ _ _ ^ _ _ ^ _ _ _ _ _ _ dakṣiṇāvartanābhiḥ / _ _ _ _ _ ^ _ _ ^ _ _ _ _ _ _ _ ^ _ _ ^ _ _ / 51 // = chv_ii_2_51
+
+vātormī _ _ _ gī vikaṭākārajan. _ _ _ _ / ^ ^ _ _ ^ _ _ / _ _ _ _ / ^ ^ _ _ ^ _ _ _ _ kanyā drutavātormilolā / 52 // = chv_ii_2_52
+
+bhramaravilasita _ _ _ _ / ^ ^ ^ ^ ^ ^ _ _ _ _ _ / ^ ^ ^ ^ ^ ^ _ kuryāt prītiṃ patiyaśa ^ ^ _ _ _ _ _ / ^ ^ ^ ^ ^ ^ _ / 53 // = chv_ii_2_53
+
+rathoddhatā _ ^ _ ^ ^ ^ _ ^ _ ^ _ _ ^ .īpsitam upaiti kanyakā / _ ^ _ ^ ^ ^ _ ^ _ ^ _ _ ^ _ ^ ^ ^ _ ^ _ ^ _ / 54 // = chv_ii_2_54
+
+svāgatā _ ^ _ ^ daśane tanujihve droṇikā vi ^ ^ _ ^ ^ _ _ / _ ^ _ ^ ^ ^ _ ^ ^ _ _ _ ^ _ ^ ^ ^ _ ^ ^ _ .mī / 55 // = chv_ii_2_55
+
+vṛṇtā cara ^ ^ ^ ^ ^ ^ _ _ _ ^ ^ ^ ^ ^ ^ ^ ^ _ _ _ / ^ ^ ^ ^ ^ ^ ^ ^ _ _ _ ^ ^ ^ ^ ^ ^ ^ ^ _ _ _ / 56 // = chv_ii_2_56
+
+śyenī śyena gṛddhravāyasā ^ _ ^ _ _ ^ _ ^ _ ^ _ ^ _ ^ _ / _ ^ _ ^ _ ^ _ ^ _ ^ _ _ ^ _ ^ _ ^ _ ^ _ ^ _ / 57 // = chv_ii_2_57
+
+cat.no 654 fol. 16v5 ... pe .. .i .i .. pi ca cat.no 654 fol. 17r1 ... .. rukha .. cat.no 654 fol. 17r2 ... lasūkṣma .. cat.no 654 fol. 17r3 ... rasi ga cat.no 654 fol. 17r4 - cat.no 654 fol. 17r5 - cat.no 654 fol. 17v1 - cat.no 654 fol. 17v2 - cat.no 654 fol. 17v3 ... va bh. cat.no 654 fol. 17v4 ... ..m / lā .. cat.no 654 fol. 17v5 ... haṃsai .. ..
+
+vaiśvadevī _ _ _ _ _ / _ ^ _ _ ^ _ _ _ _ _ _ _ / _ ^ _ _ ^ _ _ / _ _ _ _ _ / _ ^ _ _ ^ _ _ _ _ _ _ _ vaiśvadevī tanus syāt / 65 // = chv_ii_2_65
+
+navamālinī ^ ^ ^ ^ _ ^ _ ^ ^ ^ _ _ ^ ^ ^ ^ _ ^ _ ^ ^ ^ _ _ / ^ ^ ^ ^ tālasasyasadṛśī vā ^ ^ ^ ^ _ ^ _ ^ ^ ^ _ _ / 66 // = chv_ii_2_66
+
+praharṣiṇī _ _ _ / ^ ^ vipulonnat. _ ^ _ .ā vyālaṃbopabhitavī _ ^ _ ^ _ _ / _ _ _ / ^ ^ ^ ^ _ ^ _ ^ _ _ _ _ _ / ^ ^ ^ ^ _ ^ _ ^ _ _ / 1 // = chv_ii_3_1
+
+rucirā ^ _ ^ vo bhavati tanuḥ ^ .ār.uṇī si _ ^ _ / ^ ^ ^ ^ _ ^ _ ^ _ / ^ _ ^ _ / ^ ^ ^ ^ _ ^ _ ^ _ ^ _ ^ _ / ^ ^ ^ ^ _ ^ _ ^ _ / 2 // = chv_ii_3_2
+
+cat.no 654 fol. 18r5 s. .. bhi ..
+
+asaṃbādhā _ _ _ _ _ / ^ ^ ^ ^ ^ ^ _ _ _ mṛṣṭā kambugrīvasaja ^ ^ ^ _ _ _ / _ _ _ _ _ / ^ ^ ^ ^ ^ ^ _ _ _ _ _ _ gyānām urasi tanur asaṃbādhā / 4 // = chv_ii_3_4
+
+aparājitā ^ ^ ^ ^ ^ ^ _ / ^ _ ^ ^ _ ^ _ ^ ^ ^ ^ ^ ^ _ gajāṅkuśanāsikā / ^ ^ ^ ^ ^ ^ _ / ^ _ ^ ^ _ ^ _ ^ ^ ^ ^ ^ ^ _ / ^ _ ^ ^ _ ^ _ / 5 // = chv_ii_3_5
+
+chv_ii_3_6 nicht erhalten vasantatilakā _ _ ^ _ ^ ^ ^ _ si lalāṭapātraṃ snigdha ^ _ ^ ^ ^ _ ^ ^ _ ^ _ _ / _ _ ^ _ ^ ^ ha vṛttavareva nārī kṣipraṃ vasantatilakā ^ ^ _ ^ _ _ / 7 // = chv_ii_3_7
+
+candrāvartā ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ khe yadi ca bhavati mṛgapatisadṛśā ^ _ / ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ _ ^ ^ ^ ^ ^ ca narapatir amarasamaḥ / 8 // = chv_ii_3_8
+
+mālā vipula ^ ^ ^ / ^ ^ ^ ^ ^ ^ ^ ^ _ ^ ^ ^ ^ ^ ^ / ^ ^ ^ ^ caraṇapadam / akulajam api pati .i ^ ^ ^ ^ ^ _ ^ ^ ^ ^ ^ ^ / ^ ^ ^ ^ .i ^ ^ pa .i / 9 // = chv_ii_3_9
+
+maṇiguṇanikara urubharam aviṣama ^ ^ ^ ^ ^ ^ _ ^ ^ ^ ^ ^ ^ ^ ^ / ^ ^ ^ ^ ^ ^ _ / ^ ^ ^ ^ ^ ^ ^ ^ / ^ ^ ^ ^ ^ ^ _ ^ ^ ^ ^ ^ ^ ^ ^ / ^ ^ ^ ^ ^ ^ _ / 10 // = chv_ii_3_10
+
+mālinī ^ ^ ^ ^ ^ ^ _ _ / _ ^ _ _ ^ _ _ ṛṣabhagajavilasita _ ^ ^ _ ^ _ ^ / ^ ^ ^ ^ ^ ^ ^ ^ _ śikhariṇī ^ _ _ _ _ _ / ^ ^ ^ ^ ^ _ _ ^ ^ ^ _ pṛthivī ^ _ ^ ^ ^ _ ^ _ / ^ ^ ^ _ ^ _ _ ^ _ vaṃśapatrapatita _ ^ ^ _ ^ _ ^ ^ ^ _ / ^ ^ ^ ^ ^ ^ _ hariṇī ^ ^ ^ ^ ^ _ / _ _ _ _ / ^ _ ^ ^ _ ^ _ mandākrāntā _ _ _ _ / ^ ^ ^ ^ ^ _ / _ ^ _ _ ^ _ _ kusumitalatāvellitā _ _ _ _ _ / ^ ^ ^ ^ ^ _ / _ ^ _ _ ^ _ _ śārdūlavikrīḍita _ _ _ ^ ^ _ ^ _ ^ ^ ^ _ / _ _ ^ _ _ ^ _ suvadanā _ _ _ _ ^ _ _ / ^ ^ ^ ^ ^ ^ _ / _ _ ^ ^ ^ _ vṛtta _ ^ _ ^ _ ^ _ ^ _ ^ _ ^ _ ^ _ ^ _ ^ _ ^ sragdharā _ _ _ _ ^ _ _ / ^ ^ ^ ^ ^ ^ _ / _ ^ _ _ ^ _ _ madraka _ ^ ^ _ ^ _ ^ ^ ^ _ / ^ _ ^ ^ ^ _ ^ _ ^ ^ ^ _ aśvalalita ^ ^ ^ ^ _ ^ _ ^ ^ ^ _ / ^ ^ _ ^ ^ _ ^ _ ^ ^ ^ _ mattākrīḍā _ _ _ _ _ _ _ _ / ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ _ tanvī _ ^ ^ _ _ ^ ^ ^ ^ ^ ^ _ / _ ^ ^ _ ^ ^ ^ ^ ^ ^ ^ _ krauñcapadā _ ^ ^ _ _ / _ ^ ^ _ _ / ^ ^ ^ ^ ^ ^ ^ ^ / ^ ^ ^ ^ ^ ^ _ bhujaṅgavijṛmbhita _ _ _ _ _ _ _ _ / ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ _ / ^ _ ^ ^ _ ^ _ apavāhaka _ _ _ ^ ^ ^ ^ ^ ^ / ^ ^ ^ ^ ^ ^ / ^ ^ ^ ^ ^ ^ / ^ ^ _ _ _ daṇḍaka ^ ^ ^ ^ ^ ^ _ ^ _ _ ^ _ _ ^ _ _ ^ _ _ ^ _ _ ^ _ _ ^ _
+
+iii. metrik-lehrtext, 1. abschnitt
+
+chv_iii_1_1-25 nicht erhalten
+
+śrīputoṣṭhī ^ ^ ^ ^ ^ ^ _ _ _ ^ _ _ ^ ^ ^ ^ ^ ^ _ laiḥ śrīputoṣṭhī / ^ ^ ^ ^ ^ ^ _ _ _ ^ _ _ ^ ^ ^ ^ ^ ^ _ _ _ ^ _ ram / 26 // chv_iii_1_26
+
+prabhāvati oder rucirā dvi _ ^ _ ^ ^ ^ ^ _ ^ _ ^ _ ^ _ ^ _ ^ ^ ^ ^ _ ^ _ ^ _ / ^ _ ^ _ ^ ^ ^ ^ _ ^ _ ^ _ ^ _ ^ _ ^ ^ ^ ^ _ ^ _ ^ _ / 27 // chv_iii_1_27
+
+praharṣiṇī _ _ _ ^ ^ ^ ^ _ rvimiśrapādaṃ ś. _ _ ^ ^ ^ ^ _ ^ _ ^ _ _ / _ _ _ ^ ^ ^ ^ _ ^ madrilī .e _ _ _ ^ ^ ^ ^ _ ^ _ ^ _ _ / 28 // chv_iii_1_28
+
+chv_iii_1_29-36 nicht erhalten cat.no 654 fol. 30r1 ... c. .. .. bj. bd. dve ...
+
+śikhariṇī ^ _ n miśraiḥ pādaiḥ turaṅgamahi _ _ ^ ^ ^ _ ^ _ _ bjabdārkair gaganam ṛturudraiḥ śikhariṇīm / ^ _ _ _ _ _ ^ ^ ^ ^ ^ _ _ ^ ^ ^ _ ^ _ _ _ pādair vidhivicaritaiḥ .au ^ ^ ^ _ / 38 // chv_iii_1_38
+
+śārdūlavikrīḍita _ _ aṅśudharānalārkagira _ _ _ ^ _ _ ^ _ _ _ _ ^ ^ _ ^ _ ^ ^ ^ _ śārdūlavikrīḍitam / tatpādaiḥ parimiśra _ ^ ^ ^ _ _ _ ^ _ _ ^ _ _ _ _ ^ ^ _ ^ _ ^ ^ ^ _ _ _ ^ tiḥ procyate / 40 // chv_iii_1_40
+
+suvadanā catvāri _ ^ _ _ ^ ^ ^ ^ ^ ^ _ _ _ ^ ^ ^ _ _ _ _ _ ^ _ _ ^ ^ khalu bhavataḥ sā .ā ^ ^ ^ _ / _ _ _ _ ^ _ _ ^ ^ ^ ^ ^ ^ _ _ _ ^ ^ ^ _ _ _ _ _ ^ _ _ ^ ^ ^ ^ ^ ^ _ _ _ ^ ^ ^ _ / 41 // chv_iii_1_41
+
+chv_iii_1_42-44 nicht erhalten
+
+meghamālā und daṇḍaka ^ ^ ^ ^ ^ ^ _ ^ _ _ ^ _ dṛśyate miśrapādaṃ v. _ _ ^ _ ^ ^ ^ ^ ^ ^ _ ^ _ _ ^ _ _ ^ _ _ ^ _ _ ^ _ _ ^ _ niyutam iha tad udadhiśya ^ _ _ ^ _ _ ^ _ _ ^ _ _ ^ _ ^ ^ ^ ^ ^ ^ _ ^ _ _ ^ _ _ ^ _ _ ^ _ meghamālā bhavet / atha khalu ^ ^ _ ^ _ _ ^ _ _ ^ _ _ ^ _ _ r budhā daṇḍakam / api ca da ^ ^ _ ^ _ _ ^ _ _ ^ _ _ ^ _ _ ^ _ _ ^ _ ^ ^ ^ ^ ^ ^ _ ^ _ _ ghatā _ ^ .e te 'rṇava _ ^ _ _ ^ _ ........ yād dh.ā ... ṛ chv_iii_1_45-46?
+
+2. abschnitt vers 1-4 vaktra pr. x x x ^ _ _ _ x x x x ^ _ ^ _ / x x x x ^ _ _ _ x x x x p tathā gv. nn. / 1 // = chv_iii_2_1
+
+pathyā atha vaktrasya _ _ _ x x x x ^ _ ^ _ / x x x x ^ _ _ _ x x x x m athāpare / 2 // = chv_iii_2_2
+
+viparītā athāyuṅoś ca _ ^ _ x x x x ^ _ _ _ x x x ^ _ ^ _ x x x x ^ _ vaktre / 3 = chv_iii_2_3
+
+vipulā vaktrasya syur yyukcaraṇe y. x x x ^ _ ^ _ / x x x x _ ^ ^ _ x x x x ^ _ ^ _ / 4 // = chv_iii_2_4
+
+padacaturūrdhva pratipādaṃ caturvṛddhyā x x x x x x x x x x x x / x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x / 5 // = chv_iii_2_5
