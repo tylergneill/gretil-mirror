@@ -1,0 +1,211 @@
+Aśvaghoṣa (attrib.): Vajrasūcī
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_azvaghoSa-vajrasUcI.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Ramayana Prasad Dvivedi: Vajrasuchi. Varanasi : Chaukhamba Amarbharati Prakasan, 1985.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Vajrasūcī = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsa020_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Asvaghosa (attrib.): Vajrasuci
+Based on the ed. by Ramayana Prasad Dvivedi: Vajrasuchi.
+Varanasi : Chaukhamba Amarbharati Prakasan, 1985.
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sastra section, text no. 20
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+vajrasūcī (vs)
+
+jagadguruṃ mañjughoṣaṃ natvā vākkāyacetasā /
+aśvaghoṣo vajrasūcīṃ sūtrayāmi yathāmatam // vs_1 //
+
+vedāḥ pramāṇaṃ smṛtayaḥ pramāṇaṃ dharmārthayuktaṃ vacanaṃ pramāṇam /
+yasya pramāṇaṃ na bhavetpramāṇaṃ kastasya kuryādvacanaṃ pramāṇam // vs_2 //
+
+saptavyādhā daśārṇeṣu mṛgāḥ kālañjare girau /
+cakravākāḥ śaradvīpe haṃsāḥ sarasi mānase // vs_3 //
+te 'pi jātāḥ kurukṣetre brāhmaṇā vedapāragāḥ // vs_4 //
+adhītya caturo vedān sāṅgopāṅgena tavatttaḥ /
+śūdrātpratigrahagrāhī brāhmaṇo jāyate kharaḥ // vs_5 //
+
+kharo dvādaśajanmāni ṣaṣṭhijanmāni śūkaraḥ /
+śvānaḥ saptatijanmāni ityevaṃ manurabravīt // vs_6 //
+
+hastinyāmacalo jāta ulūkyāṃ keśapiṅgalaḥ /
+agastyo 'gastipuṣpācca kauśikaḥ kuśasambhavaḥ // vs_7 //
+
+kapilaḥ kapilājjātaḥ śaragulmācca gautamaḥ /
+droṇācāryastu kalaśāttittiristittirīsutaḥ // vs_8 //
+
+reṇukājanayadrāmamṛṣyaśṛṅgamuniṃ mṛgī /
+kaivartinyajanayad vyāsaṃ kuśikaṃ caiva śūdrikā // vs_9 //
+
+viśvāmitraṃ ca caṇḍālī vasiṣṭhaṃ caiva urvaśī /
+na teṣāṃ brāhmaṇī mātā lokācārācca brāhmaṇāḥ // vs_10 //
+
+sadyaḥ patati māṃsena lākṣayā lavaṇena ca /
+tryahācchūdraśca bhavati brāhmaṇaḥ kṣīravikrayī // vs_11 //
+
+ākāśagāmino viprāḥ patanti māṃsabhakṣaṇāt /
+viprāṇāṃ patanaṃ dṛṣṭvā tato māṃsāni varjayet // vs_12 //
+
+brāhmaṇatvaṃ na śāstreṇa na saṃskārairna jātibhiḥ /
+na kulena na vedena na karmaṇā bhavettataḥ // vs_13 //
+
+nirmamo nirahaṅkāro niḥsaṅgo niṣparigrahaḥ /
+rāgadveṣavinirmuktastaṃ devā brāhmaṇaṃ viduḥ // vs_14 //
+
+satyaṃ brahma tapo brahma brahma cendriyanigrahaḥ /
+sarvabhūte dayā brahma etad brāhmaṇa lakṣaṇam // vs_15 //
+
+satyaṃ nāsti tapo nāsti nāsti cendriyanigrahaḥ /
+sarvabhūte dayā nāsti etaccāṇḍālalakṣaṇam // vs_16 //
+
+devamānuṣanārīṇāṃ tiryagyonigateṣvapi /
+maithunaṃ nādhigacchanti te viprāste ca brāhmaṇāḥ // vs_17 //
+
+na jātirdṛśyate tāvad guṇāḥ kalyāṇakārakāḥ /
+caṇḍālo 'pi hi tatrasthastaṃ devā brāhmaṇaṃ viduḥ // vs_18 //
+
+vṛṣalīphenapītasya niḥśvāsopahatasya ca /
+tatraiva ca prasūtasya niṣkṛtirnopalabhyate // vs_19 //
+
+śūdrīhastena yo bhuṃkte māsamekaṃ nirantaram /
+jīvamāno bhavecchūdro mṛtaḥ śvānaśca jāyate // vs_20 //
+
+śūdrīparivṛto vipraḥ śūdrī ca gṛhamedhinī /
+varjitaḥ pitṛdevena rauravaṃ so 'dhigacchati // vs_21 //
+
+araṇīgarbhasambhūtaḥ kaṭho nāma mahāmuniḥ /
+tapasā brāhmaṇo jātastasmājjātirakāraṇam // vs_22 //
+
+kaivartīgarbhasambhūto vyāso nāma mahāmuniḥ /
+tapasā brāhmaṇo jātastasmājjātirakāraṇam // vs_23 //
+
+urvarśīgarbhasambhūto vasiṣṭho 'pi mahāmuniḥ /
+tapasā brāhmaṇo jātastasmājjātirakāraṇam // vs_24 //
+
+hariṇīgarbhasambhūta ṛṣyaśrṛṅgo mahāmuniḥ /
+tapasā brāhmaṇo jātastasmājjātirakāraṇam // vs_25 //
+
+caṇḍālī garbhasambhūto viśvāmitro? mahāmuniḥ /
+tapasā brāhmaṇo jātastasmājjātirakāraṇam // vs_26 //
+
+tāṇḍūlīgarbhasambhūto nārado hi mahāmuniḥ /
+tapasā brāhmaṇo jātastasmājjātirakāraṇam // vs_27 //
+
+jitātmā yatirbhavati..................... jitendriyaḥ / [yatātmā yatirbhavati vijitātmā(jitātmā ca)jitendriyaḥ /] tapasā tāpaso jāto brahmacaryeṇa brāhmaṇaḥ // vs_28 //
+
+na ca te brāhmaṇīputrāste ca lokasya brāhmaṇāḥ /
+śīlaśaucamayaṃ brahma tasmātkulama kāraṇam // vs_29 //
+
+śīlaṃ pradhānaṃ na kulaṃ pradhānaṃ kulena kiṃ śīlavivarjitena /
+bahavo narā nīcakula prasūtāḥ svargaṃ gatāḥ śīlamupetya dhīrāḥ // vs_30 //
+
+mukhato brāhmaṇo jāto bāhubhyāṃ kṣatriyastathā /
+urubhyāṃ vaiśyaḥ saṃjātaḥ padbhyāṃ śūdraka eva ca // vs_31 //
+
+pāṇḍostu viśrutaḥ putraḥ sa vai nāmnā yudhiṣṭhiraḥ /
+vaiśampāyanamāgamya prāñjaliḥ paripṛcchati // vs_32 //
+
+ke ca te brāhmaṇāḥ proktāḥ kiṃ vā brāhmaṇalakṣaṇam /
+etadicchāmi bho jñātuṃ tad bhavān vyākaroti me // vs_33 //
+
+kṣāntyādibhirguṇairyuktastyakta daṇḍo nirāmiṣaḥ /
+na hanti sarvabhūtāni prathamaṃ brahmalakṣaṇam // vs_34 //
+
+yadā sarvaṃ paradravyaṃ pathi vā yadi vā gṛhe /
+adattaṃ naiva gṛhṇāti dvitīyaṃ brahmalakṣaṇam // vs_35 //
+
+tyaktvā krūrasvabhāvaṃ tu nirmamo niṣparigrahaḥ /
+muktaścarati yo nityaṃ tṛtīyaṃ brahmalakṣaṇam // vs_36 //
+
+devamānuṣa nārīṇāṃ tiryagyonigateṣvapi /
+maithunaṃ hi sadā tyaktaṃ caturthaṃ brahmalakṣaṇam // vs_37 //
+
+satyaṃ śaucaṃ dayā śaucaṃ śaucamindriyanigrahaḥ /
+sarvabhūta dayā śaucaṃ tapaḥ śaucañca pañcamam // vs_38 //
+
+pañcalakṣaṇasampanna īdṛśo yo bhaved dvijaḥ /
+tamahaṃ brāhmaṇaṃ brūyāṃ śeṣāḥ śūdrā yudhiṣṭhira // vs_39 //
+
+na kulena na jātyā vā kriyābhirbrāhmaṇo bhavet /
+caṇḍālo 'pi hi vṛtastho brāhmaṇaḥ sa yudhiṣṭhira // vs_40 //
+
+ahiṃsā brahmacaryaṃ ca viśuddhācca pratigrahaḥ /
+phalena na samarthaṃ ca brāhmaṇaḥ syādyudhiṣṭhira // vs_40a //
+
+ekavarṇamidaṃ pūrvaṃ viśvamāsīdyudhiṣṭhira /
+karmakriyāviśeṣeṇa cāturvarṇyaṃ pratiṣṭhitam // vs_41 //
+
+sarve vai yonijā martyāḥ sarve mūtrapurīṣiṇaḥ /
+ekendriyendriyārthāśca tasmācchīlaguṇairdvijāḥ // vs_42 //
+
+śūdro 'pi śīlasampannoguṇavān brāhmaṇo bhavet /
+brāhmaṇo 'pi kriyāhīnaḥ śūdrātpratyavaro bhavet // vs_43 //
+
+pañcendriyārṇavaṃ ghoraṃ yadi śūdro 'pi tīrṇavān /
+tasmai dānaṃ pradātavyamaprameyaṃ yudhiṣṭhira // vs_44 //
+
+na jātirdṛśyate rājan guṇāḥ kalyāṇakārakāḥ /
+jīvitaṃ yasya dharmārthe parārthe yasya jīvitam /
+ahorātraṃ caretkṣāntiṃ taṃ devā brāhmaṇaṃ viduḥ // vs_45 //
+
+parityajya gṛhāvāsaṃ ye sthitā mokṣakākṣiṇaḥ /
+kāmeṣvasaktāḥ kaunteya brāhmaṇāste yudhiṣṭhira // vs_46 //
+
+ahiṃsānirmamatvaṃ cā matkṛtyasya varjanam /
+rāgadveṣanivṛttiśca etad brāhmaṇalakṣaṇam // vs_47 //
+
+kṣamā dayā damo dānaṃ satyaṃ śaucaṃ smṛtirghṛṇā /
+vidyā vijñānamāstikyametad brāhmaṇalakṣaṇam // vs_48 //
+
+gāyatrīmātra sāro 'pi varaṃ vipraḥ suyantritaḥ /
+nāyantritaścaturvedī sarvāśī sarvavikrayī // vs_49 //
+
+ekarātroṣitasyāpi yā gatirbrahmacāriṇaḥ /
+na tatkratusahasreṇa prāpnuvanti yudhiṣṭhira // vs_50 //
+
+pāragaṃ sarvavedānāṃ sarvatīrthābhiṣecanam /
+muktaścarati yo dharmaṃ tameva brāhmaṇaṃ viduḥ // vs_51 //
+
+yadā na kurute pāpaṃ sarvabhūteṣu dāruṇam /
+kāyena manasā vācā brahma sampadyate tadā // vs_52 //
+
+asmābhiruktaṃ yadidaṃ dvijānāṃ mohaṃ nihantuṃ hatabuddhiṃkānām /
+gṛhmantu santo yadi yuktametanmuñcantvathāyuktamidaṃ yadi syāt // vs_53 //
+
+kṛtiriyaṃ siddhācāryāśvaghoṣapādānāmiti vajrasūcī samāpteti śubham //

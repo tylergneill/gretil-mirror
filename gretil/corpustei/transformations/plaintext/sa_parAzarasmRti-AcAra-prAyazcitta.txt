@@ -1,0 +1,1800 @@
+Parāśaradharmasaṃhitā (= Parāśarasmṛti)
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_parAzarasmRti-AcAra-prAyazcitta.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Muneo Tokunaga
+## Contribution: Muneo Tokunaga
+## Date of this version: 2020-01-21
+
+## Sources: 
+   - Vāman Śāstri Islāmpurkar (ed.): The Parâśara Dharma Saṃhitâ or Parâśara Smṛiti with the commentary of Sâyaṇa Mâdhavâchârya (Vol. I,1). Bombay 1893 (Bombay Sanskrit Series 47).
+   - Vāman Śāstri Islāmpurkar (ed.): The Parâśara Dharma Saṃhitâ or Parâśara Smṛiti with the commentary of Sâyaṇa Mâdhavâchârya (Vol. I,2). Bombay 1893 (Bombay Sanskrit Series 48).
+   - Vāman Śāstri Islāmpurkar (ed.): The Parâśara Dharma Saṃhitâ or Parâśara Smṛiti with the commentary of Sâyaṇa Mâdhavâchârya (Vol. II,1). Bombay 1898 (Bombay Sanskrit Series 59).
+   - Vāman Śāstri Islāmpurkar (ed.): The Parâśara Dharma Saṃhitâ or Parâśara Smṛiti with the commentary of Sâyaṇa Mâdhavâchârya (Vol. II,2). Bombay 1906 (Bombay Sanskrit Series 64).
+   - Candrakānta Tarkālaṅkāra (ed.): Parāśara-Smṛti (Vol. I). Calcutta 1974 (Bibliotheca Indica 94).
+   - Candrakānta Tarkālaṅkāra (ed.): Parāśara-Smṛti (Vol. II). Calcutta 1973 (Bibliotheca Indica 298).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Parāśaradharmasaṃhitā = ParS,
+   - the number of the kāṇḍa in arabic numerals,
+   - the number of the adhyāya in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   Completely revised GRETIL version (2002)
+
+   Based on BSS 47, BSS 48, BSS 59, BSS 64, partly compared with BI 298.
+
+   NOT INCLUDED IN THE PRESENT E-TEXT: Vols. III,1 (BSS 67) and III,2 (BSS 74): Vyavaharakanda [NO MULA TEXT!].
+
+
+
+# Text
+
+
+ācārakāṇḍam
+
+athāto himaśailāgre devadāruvanālaye /
+vyāsam ekāgram āsīnam apṛcchann ṛṣayaḥ purā // ParS_1.1
+
+mānuṣāṇāṃ hitaṃ dharmaṃ vartamāne kalau yuge /
+śaucācāraṃ yathāvac ca vada satyavatīsuta // ParS_1.2
+
+tac chrutvā ṛṣivākyaṃ tu saśiṣyo 'gnyarkasaṃnibhaḥ /
+pratyuvāca mahātejāḥ śrutismṛtiviśāradaḥ // ParS_1.3
+
+na cāhaṃ sarvatattvajñaḥ kathaṃ dharmaṃ vadāmy ahaṃ /
+asmatpitaiva praṣṭavya iti vyāsaḥ suto 'bravīt // ParS_1.4
+
+tatas ta ṛṣayaḥ sarve dharmatattvārthakāṅkṣiṇaḥ /
+ṛṣiṃ vyāsaṃ puraskṛtya gatā badarikāśramam // ParS_1.5
+
+nānāpuṣpalatākīrṇaṃ phalavṛṣkair alaṃkṛtam /
+nadīprasravaṇopetaṃ puṇyatīrthopaśobhitaṃ // ParS_1.6
+
+mṛgapakṣininādāḍhyaṃ devatāyatanāvṛtam /
+yakṣagandharvasiddhaiś ca nṛtyagītair alaṃkṛtam // ParS_1.7
+
+tasminn ṛṣisabhāmadhye śaktiputraṃ parāśaram /
+sukhāsīnaṃ mahātejā munimukhyagaṇāvṛtam // ParS_1.8
+
+kṛtāñjalipuṭo bhūtvā vyāsas tu ṛṣibhiḥ saha /
+pradakṣiṇābhivādaiś ca stutibhiḥ samapūjayat // ParS_1.9
+
+tataḥ saṃtuṣṭahṛdayaḥ parāśaramahāmuniḥ /
+āha susvāgataṃ brūhīty āsīno munipuṅgavaḥ // ParS_1.10
+
+kuśalaṃ samyag ity uktvā vyāsaḥ pṛcchaty anantaram /
+yadi jānāsi bhaktiṃ me snehād vā bhaktavatsala // ParS_1.11
+
+dharmaṃ kathaya me tāta anugrāhyo hy ahaṃ tava /
+śrutā me mānavā dharmā vāsiṣṭhā kāśyapās tathā // ParS_1.12
+
+gargeyā gautamīyāś ca tathā cośanasā smṛtāḥ /
+atrer viṣṇoś ca saṃvartād dakṣād aṅgirasas tathā // ParS_1.13
+
+śātātapāc ca hārītād yājñavalkyāt tathaiva ca /
+āpastambakṛtā dharmā śaṅkhasya likhitasya ca // ParS_1.14
+
+kātyāyanakṛtāś caiva tathā prācetasān muneḥ /
+śrutā hy ete bhavatproktāḥ śrutyarthā me na vismṛtāḥ // ParS_1.15
+
+asmin manvantare dharmāḥ kṛtatretādike yuge /
+sarve dharmāḥ kṛte jātāḥ sarve naṣṭāḥ kalau yuge // ParS_1.16
+
+cāturvarṇyasamācāraṃ kiṃcit sādhāraṇaṃ vada /
+caturṇām api varṇānāṃ kartavyaṃ dharmakovidaiḥ // ParS_1.17
+
+brūhi dharmasvarūpajña sūkṣmaṃ sthūlaṃ ca vistarāt /
+vyāsavākyāvasāne tu munimukhyaḥ parāśaraḥ // ParS_1.18
+
+dharmasya nirṇayaṃ prāha sūkṣmaṃ sthūlaṃ ca vistarāt /
+śṛṇu putra pravakṣyāmi śṛṇvantu munayas tathā // ParS_1.19
+
+kalpe kalpe kṣayotpattyā brahmaviṣṇumaheśvarāḥ /
+śrutismṛtisadācāranirṇetāraś ca sarvadā // ParS_1.20
+
+na kaścid vedakartā ca vedaṃ smṛtvā caturmukhaḥ /
+tathaiva dharmān smarati manuḥ kalpāntare 'ntare // ParS_1.21
+
+anye kṛtayuge dharmās tretāyāṃ dvāpare yuge /
+anye kaliyuge nṝṇāṃ yugarūpānusārataḥ // ParS_1.22
+
+tapaḥ paraṃ kṛtayuge tretāyāṃ jñānam ucyate /
+dvāpare yajñam evāhuḥ dānam eva kalau yuge // ParS_1.23
+
+kṛte tu mānavā dharmās tretāyāṃ gautamāḥ smṛtāḥ /
+dvāpare śāṅkhalikhitāḥ kalau pārāśarāḥ smṛtāḥ // ParS_1.24
+
+tyajed deśaṃ kṛtayuge tretāyāṃ grāmam utsṛjet /
+dvāpare kulam ekaṃ tu kartāraṃ tu kalau yuge // ParS_1.25
+
+kṛte saṃbhāṣaṇād eva tretāyāṃ sparśanena ca /
+dvāpare tv annam ādāya kalau patati karmaṇā // ParS_1.26
+
+kṛte tātkālikaḥ śāpas tretāyāṃ daśabhir dinaiḥ /
+dvāpare caikamāsena kalau saṃvatsareṇa tu // ParS_1.27
+
+abhigamya kṛte dānaṃ tretāsv āhūya dīyate /
+dvāpare yācamānāya sevayā dīyate kalau // ParS_1.28
+
+abhigamyottamaṃ dānam āhūyaiva tu madhyamam /
+adhamaṃ yācamānāya sevādānaṃ tu niṣphalam // ParS_1.29
+
+jito dharmo hy adharmeṇa satyaṃ caivānṛtena ca /
+jitāś coraiś ca rājānaḥ strībhiś ca puruṣāḥ kalau // ParS_1.30
+
+sīdanti cāgnihotrāṇi gurupūjā praṇaśyati /
+kumāryaś ca prasūyante asmin kaliyuge sadā // ParS_1.31
+
+kṛte tv asthigatāḥ prāṇās tretāyāṃ māṃsam āśritāḥ /
+dvāpare rudhiraṃ caiva kalau tv annādiṣu sthitāḥ // ParS_1.32
+
+yuge yuge ca ye dharmās tatra tatra ca ye dvijāḥ /
+teṣāṃ nindā na kartavyā yugarūpā hi te dvijāḥ // ParS_1.33
+
+yuge yuge tu sāmarthyaṃ śeṣaṃ munivibhāṣitam /
+parāśareṇa cāpy uktaṃ prāyaścittaṃ vidhīyate // ParS_1.34
+
+aham adyaiva tat sarvam anusmṛtya bravīmi vaḥ /
+cāturvarṇyasamācāraṃ śṛṇvantu ṛṣipuṅgavāḥ // ParS_1.35
+
+parāśaramataṃ puṇyaṃ pavitraṃ pāpanāśanam /
+cintitaṃ brāhmaṇārthāya dharmasaṃsthāpanāya ca // ParS_1.36
+
+caturṇām api varṇānām ācāro dharmapālakaḥ /
+ācārabhraṣṭadehānāṃ bhaved dharmaḥ parāṅmukhaḥ // ParS_1.37
+
+ṣaṭkarmābhirato nityaṃ devatātithipūjakaḥ /
+hutaśeṣaṃ tu bhuñjāno brāhmaṇo nāvasīdati // ParS_1.38
+
+saṃdhyāsnānaṃ japo homo devatātithipūjanam /
+ātithyaṃ vaiśvadevaṃ ca ṣaṭkarmāṇi dine dine // ParS_1.39
+
+iṣṭo vā yadi vā dveṣyo mūrkhaḥ paṇḍita eva vā /
+saṃprāpto vaiśvadevānte so 'tithiḥ svargasaṃgramaḥ // ParS_1.40
+
+dūrādhvopagataṃ śrāntaṃ vaiśvadeva upasthitam /
+atithiṃ taṃ vijānīyān nātithiḥ pūrvam āgataḥ // ParS_1.41
+
+naikagrāmīṇam atithiṃ saṃgṛhṇīta kadācana /
+anityam āgato yasmāt tasmād atithir ucyate // ParS_1.42
+
+atithiṃ tatra saṃprāptaṃ pūjayet svāgatādinā /
+arghyāsanapradānena pādaprakṣālanena ca // ParS_1.43
+
+śraddhayā cānnadānena priyapraśnottareṇa ca /
+gacchantaṃ cānuyānena prītim utpādayed gṛhī // ParS_1.44
+
+atithir yasya bhagnāśo gṛhāt pratinivartate /
+pitaras tasya nāśnanti daśa varṣāṇi pañca ca // ParS_1.45
+
+kāṣṭhabhārasahasreṇa ghṛtakumbhaśatena ca /
+atithir yasya bhagnāśas tasya homo nirarthakaḥ // ParS_1.46
+
+sukṣetre vāpayed bījaṃ supātre nikṣiped dhanam /
+sukṣetre ca supātre ca hy uptaṃ dattaṃ na naśyati // ParS_1.47
+
+na pṛcched gotracaraṇe na svādhyāyaṃ śrutaṃ tathā /
+hṛdaye kalpayed devaṃ sarvadevamayo hi saḥ // ParS_1.48
+
+apūrvaḥ suvratī vipro hy apūrvaś cātitihir yathā /
+vedābhyāsarato nityaṃ tāv apūrvau dine dine // ParS_1.49
+
+vaiśvadeve tu saṃprāpte bhikṣuke gṛham āgate /
+uddhṛtya vaiśvadevārthaṃ bhikṣukaṃ tu visarjayet // ParS_1.50
+
+yatiś ca brahmacārī ca pakvānnasvāmināv ubhau /
+tayor annam adattvā tu bhuktvā cāndrāyaṇaṃ caret // ParS_1.51
+
+dadyāc ca bhikṣātritayaṃ parivrāḍ brahmacāriṇām /
+icchayā ca tato dadyād vibhave satyavāritam // ParS_1.52
+
+yatihaste jalaṃ dadyād bhaikṣaṃ dadyāt punar jalam /
+tad bhaikṣyaṃ meruṇā tulyaṃ taj jalaṃ sāgaropamam // ParS_1.53
+
+yasya chatraṃ hayaś caiva kuñjarāroham ṛddhimat /
+aindraṃ sthānam upāsīta tasmāt taṃ na vicārayet // ParS_1.54
+
+vaiśvadevakṛtaṃ pāpaṃ śakto bhikṣur vyapohitum /
+na hi bhikṣukṛtān doṣān vaiśvadevo vyapohati // ParS_1.55
+
+akṛtvā vaiśvadevaṃ tu bhuñjate ye dvijādhamāḥ /
+sarve te niṣphalā jñeyāḥ patanti narake 'śucau // ParS_1.56
+
+vaiśvadevavihīnā ye ātithyena bahiṣkṛtāḥ /
+sarve te narakaṃ yānti kākayoniṃ vrajanti ca // ParS_1.57
+
+pāpo vā yadi caṇḍālo vipraghnaḥ pitṛghātakaḥ /
+vaiśvadeve tu saṃprāptaḥ so 'tithiḥ svargasaṃkramaḥ // ParS_1.58
+
+yo veṣṭitaśirā bhuṅkte yo bhuṅkte dakṣiṇāmukhaḥ /
+vāmapāde karaṃ nyasya tad vai rakṣāṃsi bhuñjate // ParS_1.59
+
+avratā hy anadhīyānā yatra bhaikṣacarā dvijāḥ /
+taṃ grāmaṃ daṇḍayed rājā corabhaktaprado hi saḥ // ParS_1.60
+
+kṣatriyo hi prajā rakṣañ śastrapāṇiḥ pradaṇḍavān /
+nirjitya parasainyāni kṣitiṃ dharmeṇa pālayet // ParS_1.61
+
+puṣpaṃ puṣpaṃ vicinuyān mūlacchedaṃ na kārayet /
+mālākāra ivārāme na yathāṅgārakārakaḥ // ParS_1.62
+
+lābhakarma tathā ratnaṃ gavāṃ ca paripālanam /
+kṛṣikarma ca vāṇijyaṃ vaiśyavṛttir udāhṛtā // ParS_1.63
+
+śūdrasya dvijaśuśrūṣā paramo dharma ucyate /
+anyathā kurute kiṃcit tad bhavet tasya niṣphalam // ParS_1.64
+
+lavaṇaṃ madhutailaṃ ca dadhitakraṃ ghṛtaṃ payaḥ /
+na duṣyec chūdrajātīnāṃ kuryāt sarveṣu vikrayam // ParS_1.65
+
+vikrīṇan madhyamāṃsāni hy abhakṣasya ca bhakṣaṇam /
+kurvann agamyā gamanaṃ śūdraḥ patati tatkṣaṇāt // ParS_1.66
+
+kapilākṣīrapānena brāhmaṇīgamanena ca /
+vedākṣaravicāreṇa śūdraś cāṇḍālatāṃ vrajet // ParS_1.67
+
+ataḥ paraṃ gṛhasthasya karmācāraṃ kalau yuge /
+dharmaṃ sādhāraṇaṃ śaktyā cāturvarṇyāśramāgatam // ParS_2.1
+
+taṃ pravakṣyāmy ahaṃ pūrvaṃ parāśaravaco yathā /
+ṣaṭkarmasahito vipraḥ kṛṣikarma ca kārayet // ParS_2.2
+
+kṣudhitaṃ tṛṣitaṃ śrāntaṃ balīvardaṃ na yojayet /
+hīnāṅgaṃ vyādhitaṃ klībaṃ vṛṣaṃ vipro na vāhayet // ParS_2.3
+
+sthirāṅgaṃ nīrujaṃ tṛptaṃ sunardaṃ ṣaṇḍhavarjitam /
+vāhayed divasasyārdhaṃ paścāt snānaṃ samācaret // ParS_2.4
+
+japyaṃ devārcanaṃ homaṃ svādhyāyaṃ caivam abhyaset /
+ekadvitricatur viprān bhojayet snātakān dvijaḥ // ParS_2.5
+
+svayaṃkṛṣṭe tathā kṣetre dhānyaiś ca svayamarjitaiḥ /
+nirvapet pañca yajñāṃś ca kratudīkṣāṃ ca kārayet // ParS_2.6
+
+tilā rasā na vikreyā vikreyā dhānyatatsamāḥ /
+viprasyaivaṃvidhā vṛttis tṛṇakāṣṭhādivikrayaḥ // ParS_2.7
+
+brāhmaṇaś cet kṛṣiṃ kuryāt tanmahādoṣam āpnuyāt /
+saṃvatsareṇa yat pāpaṃ matsyaghātī samāpnuyāt // ParS_2.8
+
+ayomukhena kāṣṭhena tad ekāhena lāṅgalī /
+pāśako matsyaghātī ca vyādhaḥ śākunikas tathā // ParS_2.9
+
+adātā karṣakaś caiva sarve te samabhāginaḥ /
+vṛkṣaṃ chittvā mahīṃ bhittvā hatvā ca kṛmikīṭakān // ParS_2.10
+
+karṣakaḥ khalayajñena sarvapāpaiḥ pramucyate /
+yo na dadyād dvijātibhyo rāśimūlam upāgataḥ // ParS_2.11
+
+sa cauraḥ sa ca pāpiṣṭho brahmaghnaṃ taṃ vinirdiśet /
+rājñe dattvā tu ṣaḍbhāgaṃ devānāṃ caikaviṃśakam // ParS_2.12
+
+viprāṇāṃ triṃśakaṃ bhāgaṃ sarvapāpaiḥ pramucyate /
+kṣatriyo 'pi kṛṣiṃ kṛtvā devān viprāṃś ca pūjayet // ParS_2.13
+
+vaiśyaḥ śūdras tathā kuryāt kṛṣivāṇijyaśilpakam /
+vikarma kurvate śūdrā dvijaśuśrūṣayojjhitāḥ // ParS_2.14
+
+bhavanty alpāyuṣas te vai nirayaṃ yānty asaṃśayaṃ /
+caturṇām api varṇānām eṣa dharmaḥ sanātanaḥ // ParS_2.15
+
+ataḥ śuddhiṃ pravakṣyāmi janane maraṇe tathā /
+dinatrayeṇa śudhyanti brāhmaṇāḥ pretasūtake // ParS_3.1
+
+kṣatriyo dvādaśāhena vaiśyaḥ pañcadaśāhakaiḥ /
+śūdraḥ śudhyati māsena parāśaravaco yathā // ParS_3.2
+
+upāsane tu viprāṇām aṅgaśuddhiś ca jāyate /
+brāhmaṇānāṃ prasūtau tu dehasparśo vidhīyate // ParS_3.3
+
+jātau vipro daśāhena dvādaśāhena bhūmipaḥ /
+vaiśyaḥ pañcadaśāhena śūdro māsena śudhyati // ParS_3.4
+
+ekāhāc chudhyate vipro yo 'gnivedasamanvitaḥ /
+tryahāt kevalavedas tu dvihīno daśabhir dinaiḥ // ParS_3.5
+
+janmakarmaparibhraṣṭaḥ saṃdhyopāsanavarjitaḥ /
+nāmadhārakavipras tu daśāhaṃ sūtakī bhavet // ParS_3.6
+
+ekapiṇḍās tu dāyādāḥ pṛthagdāraniketanāḥ /
+janmany api vipattau ca teṣāṃ tat sūtakaṃ bhavet // ParS_3.7
+
+tāvat tat sūtakaṃ gotre caturthapuruṣeṇa tu /
+dāyād vicchedam āpnoti pañcamo vātmavaṃśajaḥ // ParS_3.8
+
+caturthe daśarātraṃ syāt ṣaṇṇiśāḥ puṃsi pañcame /
+ṣaṣṭhe caturahāc chuddhiḥ saptame tu dinatrayāt // ParS_3.9
+
+bhṛgvagnimaraṇe caiva deśāntaramṛte tathā /
+bāle prete ca saṃnyaste sadyaḥ śaucaṃ vidhīyate // ParS_3.10
+
+deśāntaramṛtaḥ kaścit sagotraḥ śrūyate yadi /
+na trirātram ahorātraṃ sadyaḥ snātvā śucir bhavet // ParS_3.11
+
+deśāntaragato vipraḥ prayāsāt kālakāritāt /
+dehanāśam anuprāptas tithir na jñāyate yadi // ParS_3.12
+
+kṛṣṇāṣṭamī tv amāvāsyā kṛṣṇā caikādaśī ca yā /
+udakaṃ piṇḍadānaṃ ca tatra śrāddhaṃ ca kārayet // ParS_3.13
+
+ajātadantā ye bālā ye ca garbhād viniḥsṛtāḥ /
+na teṣām agnisaṃskāro nāśaucaṃ nodakakriyā // ParS_3.14
+
+yadi garbho vipadyeta sravate vāpi yoṣitaḥ /
+yāvanmāsaṃ sthito garbho dinaṃ tāvat tu sūtakam // ParS_3.15
+
+ā caturthād bhavet srāvaḥ pātaḥ pañcamaṣaṣṭhayoḥ /
+ata ūrdhvaṃ prasūtiḥ syād daśāhaṃ sūtakaṃ bhavet // ParS_3.16
+
+dantajāte 'nujāte ca kṛtacūḍe ca saṃsthite /
+agnisaṃskaraṇe teṣāṃ trirātram aśucir bhavet // ParS_3.16 [double numbering]
+
+ā dantajanmanaḥ sadya ā cūḍān naiṣikī smṛtā /
+trirātram ā vratādeśād daśarātram ataḥ param // ParS_3.17
+
+brahmacārī gṛhe yeṣāṃ hūyate ca hutāśanaḥ /
+saṃparkaṃ na ca kurvanti na teṣāṃ sūtakaṃ bhavet // ParS_3.18
+
+saṃparkād duṣyate vipro janane maraṇe tathā /
+saṃparkāc ca nivṛttasya na pretaṃ naiva sūtakam // ParS_3.19
+
+śilpinaḥ kārukā vaidyā dāsīdāsāś ca nāpitāḥ /
+rājānaḥ śrotriyāś caiva sadyaḥ śaucāḥ prakīrtitāḥ // ParS_3.20
+
+savrataḥ satrapūtaś ca āhitāgniś ca yo dvijaḥ /
+rājñaś ca sūtakaṃ nāsti yasya cecchati pārthivaḥ // ParS_3.21
+
+udyato nidhane dāne ārto vipro nimantritaḥ /
+tadaiva ṛṣibhir dṛṣṭaṃ yathā kālena śudhyati // ParS_3.22
+
+prasave gṛhamedhī tu na kuryāt saṃkaraṃ yadi /
+daśāhāc chudhyate mātā tv avagāhya pitā śuciḥ // ParS_3.23
+
+sarveṣāṃ śāvam āśaucaṃ mātā pitros tu sūtakam /
+sūtakaṃ mātur eva syād upaspṛśya pitā śuciḥ // ParS_3.24
+
+yadi patnyāṃ prasūtāyāṃ saṃparkaṃ kurute dvijaḥ /
+sūtakaṃ tu bhavet tasya yadi vipraḥ ṣaḍaṅgavit // ParS_3.25
+
+saṃparkāj jāyate doṣo nānyo doṣo 'sti vai dvije /
+tasmāt sarvaprayatnena saṃparkaṃ varjayed budhaḥ // ParS_3.26
+
+vivāhotsavayajñeṣu tv antarā mṛtasūtake /
+pūrvasaṃkalpitaṃ dravyaṃ dīyamānaṃ na duṣyati // ParS_3.27
+
+antarā daśāhasya punar maraṇajanmanī /
+tāvat syād aśucir vipro yāvat tat syād anirdaśam // ParS_3.28
+
+brāhmaṇārthe vipannānāṃ bandigograhaṇe tathā /
+āhaveṣu vipannānām ekarātram aśaucakam // ParS_3.29
+
+dvāv imau puruṣau loke sūryamaṇḍalabhedinau /
+parivrāḍ yogayuktaś ca raṇe cābhimukho hataḥ // ParS_3.30
+
+yatra yatra hataḥ śūraḥ śatrubhiḥ pariveṣṭitaḥ /
+akṣayāṃl labhate lokān yadi klībaṃ na bhāṣate // ParS_3.31
+
+saṃnyastaṃ brāhmaṇaṃ dṛṣṭvā sthānāc calati bhāskaraḥ /
+eṣa me maṇḍalaṃ bhittvā paraṃ sthānaṃ prayāsyati // ParS_3.32
+
+yas tu bhagneṣu sainyeṣu vidravatsu samantataḥ /
+paritrātā yadā gacchet sa ca kratuphalaṃ labhet // ParS_3.33
+
+yasya cchedakṣataṃ gātraṃ śaramudgarayaṣṭibhiḥ /
+devakanyās tu taṃ vīraṃ haranti ramayanti ca // ParS_3.34
+
+devāṅganāsahasrāṇi śūram āyodhane hatam /
+tvaramāṇāḥ pradhāvanti mama bhartā mameti ca // ParS_3.35
+
+yaṃ yajñasaṃghais tapasā ca viprāḥ svargaiṣiṇo vātra yathā yānti /
+kṣaṇena yānty eva hi tatra vīrāḥ prāṇān suyuddhena parityajantaḥ // ParS_3.36
+
+jitena labhyate lakṣmīr mṛtenāpi surāṅganāḥ /
+kṣaṇadhvaṃsini kāye 'smin kā cintā maraṇe raṇe // ParS_3.37
+
+lalāṭadeśe rudhiraṃ sravac ca yasyāhave tu praviśec ca vaktram /
+tat somapānena kilāsya tulyaṃ saṃgrāmayajñe vidhivac ca dṛṣṭam // ParS_3.38
+
+anāthaṃ brāhmaṇaṃ pretaṃ ye vahanti dvijātayaḥ /
+pade pade yajñaphalam ānupūrvyāṃl labhanti te // ParS_3.39
+
+na teṣām aśubhaṃ kiṃcit pāpaṃ vā śubhakarmaṇām /
+jalāvagāhanāt teṣāṃ sadyaḥśaucaṃ vidhīyate // ParS_3.40
+
+asagotram abandhuṃ ca pretībhūtaṃ dvijottamam /
+vahitvā ca dahitvā ca prāṇāyāmena śudhyati // ParS_3.41
+
+anugamyecchayā pretaṃ jñātim ajñātim eva vā /
+snātvā sacailaṃ spṛṣṭvāgniṃ ghṛtaṃ prāśya viśudhyati // ParS_3.42
+
+kṣatriyaṃ mṛtam ajñānād brāhmaṇo yo 'nugacchati /
+ekāham aśucir bhūtvā pañcagavyena śudhyati // ParS_3.43
+
+śavaṃ ca vaiśyam ajñānād brāhmaṇo yo 'nugacchati /
+kṛtvāśaucaṃ dvirātraṃ ca prāṇāyāmān ṣaḍ ācaret // ParS_3.44
+
+pretībhūtaṃ tu yaḥ śūdraṃ brāhmaṇo jñānadurbalaḥ /
+anugacchen nīyamānaṃ trirātram aśucir bhavet // ParS_3.45
+
+trirātre tu tataḥ pūrṇe nadīṃ gatvā samudragām /
+prāṇāyāmaśataṃ kṛtvā ghṛtaṃ prāśya viśudhyati // ParS_3.46
+
+vinirvartya yadā śūdrā udakāntam upasthitāḥ /
+dvijais tadānugantavyā eṣa dharmaḥ sanātanaḥ // ParS_3.47
+
+
+prāyaścittakāṇḍam
+
+atimānād atikrodhāt snehād vā yadi vā bhayāt /
+udbadhnīyāt strī pumān vā gatir eṣā vidhīyate // ParS_4.1
+
+pūyaśoṇitasaṃpūrṇe tv andhe tamasi majjati /
+ṣaṣṭhīr varṣasahasrāṇi narakaṃ pratipadyate // ParS_4.2
+
+nāśaucaṃ nodakaṃ nāgniṃ nāśrupātaṃ ca kārayet /
+voḍhāro 'gnipradātāraḥ pāśacchedakarās tathā // ParS_4.3
+
+taptakṛcchreṇa śudhyantīty evam āha prajāpatiḥ /
+gobhir hataṃ tathodbaddhaṃ brāhmaṇena tu ghātitam // ParS_4.4
+
+saṃspṛśanti tu ye viprā voḍhāraś cāgnidāś ca ye /
+anye ye vānugantāraḥ pāśacchedakarāś ca ye // ParS_4.5
+
+taptakṛcchreṇa śuddhās te kuryur brāhmaṇabhojanam /
+anaḍutsahitāṃ gāṃ ca dadyur viprāya dakṣiṇām // ParS_4.6
+
+tryaham uṣṇaṃ pibed vāri tryaham uṣṇaṃ payaḥ pibet /
+tryaham uṣṇaṃ pibet sarpir vāyubhakṣo dinatrayam // ParS_4.7
+
+ṣaṭpalaṃ tu pibed ambhas tripalaṃ tu payaḥ pibet /
+palam ekaṃ pibet sarpis taptakṛcchraṃ vidhīyate // ParS_4.8
+
+yo vai samācared vipraḥ patitādiṣv akāmataḥ /
+pañcāhaṃ vā daśāhaṃ vā dvādaśāham athāpi vā // ParS_4.9
+
+māsārdhaṃ māsam ekaṃ vā māsadvayam athāpi vā /
+abdārdham abdam ekaṃ vā tad ūrdhvaṃ caiva tatsamaḥ // ParS_4.10
+
+trirātraṃ prathame pakṣe dvitīye kṛcchram ācaret /
+tṛtīye caiva pakṣe tu kṛcchraṃ sāṃtapanaṃ caret // ParS_4.11
+
+caturthe daśarātraṃ syāt parākaḥ pañcame mataḥ /
+kuryāc cāndrāyaṇaṃ ṣaṣṭhe saptame tv aindavadvayam // ParS_4.12
+
+śuddhyartham aṣṭame caiva ṣaṇ māsān kṛcchram ācaret /
+pakṣasaṃkhyāpramāṇena suvarṇāny api dakṣiṇā // ParS_4.13
+
+ṛtusnātā tu yā nārī bhartāraṃ nopasarpati /
+sā mṛtā narakaṃ yāti vidhavā ca punaḥ punaḥ // ParS_4.14
+
+ṛtusnātāṃ tu yo bhāryāṃ saṃnidhau nopagacchati /
+ghorāyāṃ bhrūṇahatyāyāṃ yujyate nātra saṃśayaḥ // ParS_4.15
+
+daridraṃ vyādhitaṃ mūrkhaṃ bhartāraṃ yāvamanyate /
+sā śunī jāyate mṛtvā sūkarī ca punaḥ punaḥ // ParS_4.16
+
+patyau jīvati yā nārī upoṣya vratam ācaret /
+āyuṣyaṃ harate bhartuḥ sā nārī narakaṃ vrajet // ParS_4.17
+
+apṛṣṭvā caiva bhartāraṃ yā nārī kurute vratam /
+sarvaṃ tad rākṣasān gacched ity evaṃ manur abravīt // ParS_4.18
+
+bāndhavānāṃ sajātīnāṃ durvṛttaṃ kurute tu yā /
+garbhapātaṃ ca yā kuryān na tāṃ saṃbhāṣayet kvacit // ParS_4.19
+
+yat pāpaṃ brahmahatyāyāṃ dviguṇaṃ garbhapātane /
+prāyaścittaṃ na tasyāḥ syāt tasyās tyāgo vidhīyate // ParS_4.20
+
+na kāryam āvasathyena nāgnihotreṇa vā punaḥ /
+sa bhavet karmacāṇḍālo yas tu dharmaparāṅmukhaḥ // ParS_4.21
+
+oghavātāhṛtaṃ bījaṃ yasya kṣetre prarohati /
+sa kṣetrī labhate bījaṃ na bījī bhāgam arhati // ParS_4.22
+
+tadvat parastriyāḥ putrau dvau smṛtau kuṇḍagolakau /
+patyau jīvati kuṇḍaḥ syāt mṛte bhartari golakaḥ // ParS_4.23
+
+aurasaḥ kṣetrajaś caiva dattaḥ kṛtrimakaḥ sutaḥ /
+dadyān mātā pitā vāpi sa putro dattako bhavet // ParS_4.24
+
+parivittiḥ parivettā yayā ca parividyate /
+sarve te narakaṃ yānti dātṛyājakapañcamāḥ // ParS_4.25
+
+dvau kṛcchrau parivittes tu kanyāyāḥ kṛcchra eva ca /
+kṛcchrātikṛcchrau dātus tu hotā cāndrāyaṇaṃ caret // ParS_4.26
+
+kubjavāmanaṣaṇḍheṣu gadgadeṣu jaḍeṣu ca /
+jātyandhe badhire mūke na doṣaḥ parivedane // ParS_4.27
+
+pitṛvyaputraḥ sāpatnaḥ paranārīsutas tathā /
+dārāgnihotrasamyoge na doṣaḥ parivedane // ParS_4.28
+
+jyeṣṭho bhrātā yadā tiṣṭhed ādhānaṃ naiva kārayet /
+anujñātas tu kurvīta śaṅkhasya vacanaṃ yathā // ParS_4.29
+
+naṣṭe mṛte pravrajite klībe ca patite patau /
+pañcasv āpatsu nārīṇāṃ patir anyo vidhīyate // ParS_4.30
+
+mṛte bhartari yā nārī brahmacaryavrate sthitā /
+sā mṛtā labhate svargaṃ yathā te brahmacāriṇaḥ // ParS_4.31
+
+tisraḥ koṭyo 'rdhakoṭī ca yāni romāṇi mānuṣe /
+tāvatkālaṃ vaset svarge bhartāraṃ yānugacchati // ParS_4.32
+
+vyālagrāhī yathā vyālaṃ balād uddharate bilāt /
+evaṃ strī patim uddhṛtya tenaiva saha modate // ParS_4.33
+
+vṛkaśvānasṛgālādyair daṣṭo yas tu dvijottamaḥ /
+snātvā japet sa gāyatrīṃ pavitrāṃ vedamātaram // ParS_5.1
+
+gavāṃ śṛṅgodakaiḥ snānaṃ mahānadyos tu saṃgame /
+samudradarśanād vāpi śunā daṣṭaḥ śucir bhavet // ParS_5.2
+
+vedavidyāvratasnātaḥ śunā daṣṭo dvijo yadi /
+sa hiraṇyodakaiḥ snātvā ghṛtaṃ prāśya viśudhyati // ParS_5.3
+
+savratas tu śunā daṣṭo yas trirātram upāvaset /
+ghṛtaṃ kuśodakaṃ pītvā vrataśeṣaṃ samāpayet // ParS_5.4
+
+avrataḥ savrato vāpi śunā daṣṭo bhaved dvijaḥ /
+praṇipatya bhavet pūto vipraiś cakṣurnirīkṣitaḥ // ParS_5.5
+
+śunā ghrātāvalīḍhasya nakhair vilikhitasya ca /
+adbhiḥ prakṣālanaṃ proktam agninā copacūlanam // ParS_5.6
+
+śunā tu brāhmaṇī daṣṭā jambukena vṛkeṇa vā /
+uditaṃ grahanakṣatraṃ dṛṣṭvā sadyaḥ śucir bhavet // ParS_5.7
+
+kṛṣṇapakṣe yadā somo na dṛśyeta kadācana /
+yāṃ diśaṃ vrajate somas tāṃ diśaṃ vāvalokayet // ParS_5.8
+
+asadbrāhmaṇake grāme śunā daṣṭo dvijottamaḥ /
+vṛṣaṃ pradakṣiṇīkṛtya sadyaḥ snātvā śucir bhavet // ParS_5.9
+
+caṇḍālena śvapākena gobhir viprair hato yadi /
+āhitāgnir mṛto vipro viṣeṇātmahato yadi // ParS_5.10
+
+dahet taṃ brāhmaṇaṃ vipro lokāgnau mantravarjitam /
+spṛṣṭvā voḍhvā ca dagdhvā ca sapiṇḍeṣu ca sarvathā // ParS_5.11
+
+prājāpatyaṃ caret paścād viprāṇām anuśāsanāt /
+dagdhāsthīni punar gṛhya kṣīraiḥ prakṣālayed dvijaḥ // ParS_5.12
+
+punar dahet svāgninā tu svatantreṇa pṛthak pṛthak /
+āhitāgnir dvijaḥ kaścit pravasan kālacoditaḥ // ParS_5.13
+
+dehanāśam anuprāptas tasyāgnir vasate gṛhe /
+pretāgnihotrasaṃskāraḥ śrūyatām ṛṣipuṅgavāḥ // ParS_5.14
+
+kṛṣṇājinaṃ samāstīrya kuśais tu puruṣākṛtim /
+ṣaṭśatāni śataṃ caiva palāśānāṃ ca vṛntataḥ // ParS_5.15
+
+catvāriṃśac chire dadyāc chataṃ kaṇṭhe tu vinyaset /
+bāhubhyāṃ śatakaṃ dadyād aṅgulīṣu daśaiva tu // ParS_5.16
+
+śataṃ tu jaghane dadyād dviśataṃ tūdare tathā /
+dadyād aṣṭau vṛṣaṇayoḥ pañca medhre tu vinyaset // ParS_5.17
+
+ekaviṃśatim ūrubhyāṃ dviśataṃ jānujaṅghayoḥ /
+pādāṅgulīṣu ṣaḍ dadyād yajñapātraṃ tato nyaset // ParS_5.18
+
+śamyaṃ śiśne viniḥkṣipya araṇīṃ muṣkayor api /
+juhūṃ ca dakṣiṇe haste vāme tūpabhṛtaṃ nyaset // ParS_5.19
+
+karṇe colūkhalaṃ dadyāt pṛṣṭhe ca musalaṃ nyaset /
+urasi kṣipya dṛṣadaṃ taṇḍulājyatilān mukhe // ParS_5.20
+
+śrotre ca prokṣaṇīṃ dadyād ājyasthalīṃ tu cakṣuṣoḥ /
+karṇe netre mukhe ghrāṇe hiraṇyaśakalaṃ nyaset // ParS_5.21
+
+agnihotropakaraṇam aśeṣaṃ tatra nikṣipet /
+asau svargāya lokāya svāhety ekāhutiṃ sakṛt // ParS_5.22
+
+dadyāt putro 'thavā bhrātāpy anyo vāpi ca bāndhavaḥ /
+yathā dahanasaṃskāras tathā kāryaṃ vicakṣaṇaiḥ // ParS_5.23
+
+īdṛśaṃ tu vidhiṃ kuryād brahmalokagatiḥ smṛtā /
+dahanti ye dvijās taṃ tu te yānti paramāṃ gatim // ParS_5.24
+
+anyathā kurvate karma tv ātmabuddhyā pracoditāḥ /
+bhavanty alpāyuṣas te vai patanti narake 'śucau // ParS_5.25
+
+ataḥ paraṃ pravakṣyāmi prāṇihatyāsu niṣkṛtim /
+parāśarena pūrvoktā manvarthe 'pi ca vistṛtām // ParS_6.1
+
+krauñcasārasahaṃsāṃś ca cakravākaṃ ca kukkuṭam /
+jālapādaṃ ca śarabham ahorātreṇa śudhyati // ParS_6.2
+
+balākāṭiṭṭibhau vāpi śukapārāvatāv api /
+ahinakravighātī ca śudhyate naktabhojanāt // ParS_6.3
+
+vṛkakākakapotānāṃ śāritittirighātakaḥ /
+antarjala ubhe saṃdhye prāṇāyāmena śudhyati // ParS_6.4
+
+gṛdhraśyenaśaśādānām ulūkasya ca ghātakaḥ /
+apakvāśī dinaṃ tiṣṭhet trikālaṃ mārutāśanaḥ // ParS_6.5
+
+valguṇīṭiṭṭibhānāṃ ca kokilākhañjarīṭake /
+lāvikāraktapakṣeṣu śudhyate naktabhojanāt // ParS_6.6
+
+kāraṇḍavacakorāṇāṃ piṅgalākurarasya ca /
+bhāradvājādikaṃ hatvā śivaṃ pūjya viśudhyati // ParS_6.7
+
+bheruṇḍacāṣabhāsāṃś ca pārāvatakapiñjalau /
+pakṣiṇāṃ caiva sarveṣām ahorātram abhojanam // ParS_6.8
+
+hatvā mūṣakamārjārasarpājagaraḍuṇḍubhān /
+kṛsaraṃ bhojayed viprān lohadaṇḍaś ca dakṣiṇā // ParS_6.9
+
+śiśumāraṃ tathā godhāṃ hatvā kūrmaṃ ca śalyakam /
+vṛntākaphalabhakṣī cāpy ahorātreṇa śudhyati // ParS_6.10
+
+vṛkajambūkaṛkṣāṇāṃ tarakṣuśvānaghātakaḥ /
+tilaprasthaṃ dvije dadyād vāyubhakṣo dinatrayam // ParS_6.11
+
+gajasya ca turaṅgasya mahiṣoṣṭranipātane /
+prāyaścittam ahorātraṃ trisaṃdhyam avagāhanam // ParS_6.12
+
+kuraṅgaṃ vānaraṃ siṃhaṃ citraṃ vyāghraṃ tu ghātayan /
+śudhyate sa trirātreṇa viprāṇāṃ tarpaṇena ca // ParS_6.13
+
+mṛgarohidvarāhāṇām aver bastasya ghātakaḥ /
+aphālakṛṣṭam aśnīyād ahorātram upoṣya saḥ // ParS_6.14
+
+evaṃ catuṣpadānāṃ ca sarveṣāṃ vanacāriṇām /
+ahorātroṣitas tiṣṭhej japed vai jātavedasam // ParS_6.15
+
+śilpinaṃ kārukaṃ śūdraṃ striyaṃ vā yas tu ghātayet /
+prājāpatyadvayaṃ kṛtvā vṛṣaikādaśadakṣiṇā // ParS_6.16
+
+vaiśyaṃ vā kṣatriyaṃ vāpi nirdoṣaṃ yo 'bhighātayet /
+so 'pi kṛcchradvayaṃ kuryād goviṃśad dakṣiṇāṃ dadet // ParS_6.17
+
+vaiśyaṃ śūdraṃ kriyāsaktaṃ vikarmasthaṃ dvijottamam /
+hatvā cāndrāyaṇaṃ tasya triṃśad goś caiva dakṣiṇām // ParS_6.18
+
+caṇḍālaṃ hatavān kaścid brāhmaṇe yadi kaṃcana /
+prājāpatyaṃ caret kṛcchraṃ godvayaṃ dakṣiṇāṃ dadat // ParS_6.19
+
+kṣatriyeṇāpi vaiśyena śūdreṇaivetareṇa vā /
+caṇḍālasya vadhe prāpte kṛcchrārdhena viśudhyati // ParS_6.20
+
+corau śvapākacaṇḍālau vipreṇābhihatau yadi /
+ahorātroṣitaḥ snātvā pañcagavyena śudhyati // ParS_6.21
+
+śvapākaṃ vāpi caṇḍālaṃ vipraḥ saṃbhāṣate yadi /
+divjasaṃbhāṣaṇaṃ kuryāt sāvitrīṃ tu sakṛj japet // ParS_6.22
+
+caṇḍālaiḥ saha suptaṃ tu trirātram upavāsayet /
+caṇḍālaikapathaṃ gatvā gāyatrīsmaraṇāc chuciḥ // ParS_6.23
+
+caṇḍāladarśane sadya ādityam avalokayet /
+caṇḍālasparśane caiva sacailaṃ snānam ācaret // ParS_6.24
+
+caṇḍālakhātavāpīṣu pītvā salilam agrajaḥ /
+ajñānāc caikabhaktena tv ahorātreṇa śudhyati // ParS_6.25
+
+caṇḍālabhāṇḍasaṃspṛṣṭaṃ pītvā kūpagataṃ jalam /
+gomūtrayāvakāhāras trirātrāc chuddhim āpnuyāt // ParS_6.26
+
+caṇḍālaghaṭasaṃsthaṃ tu yat toyaṃ pibati dvijaḥ /
+tatkṣaṇāt kṣipate yas tu prājāpatyaṃ samācaret // ParS_6.27
+
+yadi na kṣipate toyaṃ śarīre yasya jīryati /
+prājāpatyaṃ na dātavyaṃ kṛcchraṃ sāṃtapanaṃ caret // ParS_6.28
+
+caret sāṃtapanaṃ vipraḥ prājāpatyam anantaraḥ /
+tadardhaṃ tu cared vaiśyaḥ pādaṃ śūdras tad ācaret // ParS_6.29
+
+bhāṇḍastham antyajānāṃ tu jalaṃ dadhi payaḥ pibet /
+brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś caiva pramādataḥ // ParS_6.30
+
+brahmakūrcopavāsena dvijātīnāṃ tu niṣkṛtiḥ /
+śūdrasya copavāsena tathā dānena śaktitaḥ // ParS_6.31
+
+bhuṅkte 'jñānād dvijaśreṣṭhaś caṇḍālānnaṃ kathaṃcana /
+gomūtrayāvakāhāro daśarātreṇa śudhyati // ParS_6.32
+
+ekaikaṃ grāsam aśnīyād gomūtrayāvakasya ca /
+daśāhaṃ niyamasthasya vrataṃ tat tu vinirdiśet // ParS_6.33
+
+avijñātas tu caṇḍālo yatra veśmani tiṣṭhati /
+vijñāte tupasannasya dvijāḥ kurvanty anugraham // ParS_6.34
+
+munivaktrodgatān dharmān gāyanto vedapāragāḥ /
+patantam uddhareyus taṃ dharmajñāḥ pāpasaṃkarāt // ParS_6.35
+
+dadhnā ca sarpiṣā caiva kṣīragomūtrayāvakam /
+bhuñjīta saha sarvaiś ca trisaṃdhyam avagāhanam // ParS_6.36
+
+tryahaṃ bhuñjīta dadhnā ca tryahaṃ bhuñjīta sarpiṣā /
+tryahaṃ kṣīreṇa bhuñjīta ekaikena dinatrayam // ParS_6.37
+
+bhāvaduṣṭaṃ na bhuñjīta nocchiṣṭaṃ kṛmidūṣitam /
+dadhikṣīrasya tripalaṃ palaṃ ekaṃ ghṛtasya tu // ParS_6.38
+
+bhasmanā tu bhavec chuddhir ubhayos tāmrakāṃsyayoḥ /
+jalaśaucena vastrāṇāṃ parityāgena mṛṇmayam // ParS_6.39
+
+kusumbhaguḍakārpāsalavaṇaṃ tailasarpiṣī /
+dvāre kṛtvā tu dhānyāni dadyād veśmani pāvakam // ParS_6.40
+
+evaṃ śuddhas tataḥ paścāt kuryād brāhmaṇatarpaṇam /
+triṃśataṃ govṛṣaṃ caikaṃ dadyād vipreṣu dakṣiṇām // ParS_6.41
+
+punar lepanakhātena homajapyena śudhyati /
+ādhāreṇa ca viprāṇāṃ bhūmidoṣo na vidyate // ParS_6.42
+
+caṇḍālaiḥ saha saṃparkaṃ māsaṃ māsārdham eva vā /
+gomūtrayāvakāhāro māsārdhena viśudhyati // ParS_6.43
+
+rajakī carmakārī ca lubdhakī veṇujīvinī /
+cāturvarṇyasya ca gṛhe tv avijñātā tu tiṣṭhati // ParS_6.44
+
+jñātvā tu niṣkṛtiṃ kuryāt pūrvoktasyārdham eva ca /
+gṛhadāhaṃ na kurvīta śeṣaṃ sarvaṃ ca kārayet // ParS_6.45
+
+gṛhasyābhyantaraṃ gacchec caṇḍālo yadi kasyacit /
+tam agārād vinirvāsya mṛdbhāṇḍaṃ tu visarjayet // ParS_6.46
+
+rasapūrṇaṃ tu yad bhāṇḍaṃ na tyajet tu kadācana /
+gomayena tu saṃmiśrair jalaiḥ prokṣed gṛhaṃ tathā // ParS_6.47
+
+brāhmaṇasya vraṇadvāre pūyaśoṇitasaṃbhave /
+kṛmir utpadyate yasya prāyaścittaṃ kathaṃ bhavet // ParS_6.48
+
+gavāṃ mūtrapurīṣeṇa dadhnā kṣīreṇa sarpiṣā /
+tryahaṃ snātvā ca pītvā ca kṛmiduṣṭaḥ śucir bhavet // ParS_6.49
+
+kṣatriyo 'pi suvarṇasya pañcamāṣān pradāya tu /
+godakṣiṇāṃ tu vaiśyasyāpy upavāsaṃ vinirdiśet // ParS_6.50
+
+śūdrāṇāṃ nopavāsaḥ syāc chūdro dānena śudhyati /
+acchidram iti yad vākyaṃ vadanti kṣitidevatāḥ // ParS_6.51
+
+praṇamya śirasā grāhyam agniṣṭomaphalaṃ hi tat /
+japac chidraṃ tapac chidraṃ yac chidraṃ yajñakarmaṇi // ParS_6.52
+
+sarvaṃ bhavati niśchidraṃ brāhmaṇair upapāditam /
+vyādhivyasanini.śrānte durbhikṣe ḍāmare tathā // ParS_6.53
+
+upavāso vrataṃ homo dvijasaṃpāditāni vai /
+athavā brāhmaṇās tuṣṭāḥ sarvaṃ kurvanty anugraham // ParS_6.54
+
+sarvān kāmān avāpnoti dvijasaṃpāditair iha /
+durbale 'nugrahaḥ proktas tathā vai bālavṛddhayoḥ // ParS_6.55
+
+ato 'nyathā bhaved doṣas tasmān nānugrahaḥ smṛtaḥ /
+snehād vā yadi vā lobhād bhayād ajñānato 'pi vā // ParS_6.56
+
+kurvanty anugrahaṃ ye tu tat pāpaṃ teṣu gacchati /
+śarīrasyātyaye prāpte vadanti niyamaṃ tu ye // ParS_6.57
+
+mahat kāryoparodhena na svasthasya kadācana /
+svasthasya mūḍhāḥ kurvanti vadanty aniyamaṃ tu ye // ParS_6.58
+
+te tasya vighnakartāraḥ patanti narake 'śucau /
+svayam eva vrataṃ kṛtvā brāhmaṇaṃ yo 'vamanyate // ParS_6.59
+
+vṛthā tasyopavāsaḥ syān na sa puṇyena yujyate /
+sa eva niyamo grāhyo yady eko 'pi vaded dvijaḥ // ParS_6.60
+
+kuryād vākyaṃ dvijānāṃ tu anyathā bhrūṇahā bhavet /
+brāhmaṇā jaṅgamaṃ tīrthaṃ tīrthabhūtā hi sādhavaḥ // ParS_6.61
+
+tedāṃ vākyodakenaiva śudhyanti malinā janāḥ /
+brāhmaṇā yāni bhāṣante manyante tāni devatāḥ // ParS_6.62
+
+sarvadevamayo vipro na tadvacanam anyathā /
+upavāso vrataṃ caiva snānaṃ tīrthaṃ japas tapaḥ // ParS_6.63
+
+viprasaṃpāditaṃ yasya saṃpūrṇaṃ tasya tat phalam /
+annādye kīṭasamyukte makṣikākeśadūṣite // ParS_6.64
+
+tadantarā spṛśec cāpas tad annaṃ bhasmanā spṛśet /
+bhuñjānaś caiva yo vipraḥ pādaṃ hastena saṃspṛśet // ParS_6.65
+
+svam ucchiṣṭam asau bhuṅkte pāṇinā muktabhājane /
+pādukāstho na bhuñjīta paryaṅke saṃsthito 'pi vā // ParS_6.66
+
+śvānacaṇḍāladṛṣṭau ca bhojanaṃ parivarjayet /
+yad annaṃ pratiṣiddhaṃ syād annaśuddhis tathaiva ca // ParS_6.67
+
+yathā parāśareṇoktaṃ tathaivāhaṃ vadāmi vaḥ /
+śṛtaṃ droṇāḍhakasyānnaṃ kākaśvānopaghātitam // ParS_6.68
+
+kenedaṃ śudhyate ceti brāhmaṇebhyo nivedayet /
+kākaśvānāvalīḍhaṃ tu droṇānnaṃ na parityajet // ParS_6.69
+
+vedavedāṅgavidviprair dharmaśāstrānupālakaiḥ /
+prasthā dvātriṃśatir droṇaḥ smṛto dviprastha āḍhakaḥ // ParS_6.70
+
+tato droṇāḍhakasyānnaṃ śrutismṛtivido viduḥ /
+kākaśvānāvalīḍhaṃ tu gavāghrātaṃ khareṇa vā // ParS_6.71
+
+svalpam annaṃ tyajed vipraḥ śuddhir droṇāḍhake bhavet /
+annasyoddhṛtya tan.mātraṃ yac ca lālāhataṃ bhavet // ParS_6.72
+
+suvarṇodakam abhyukṣya hutāśenaiva tāpayet /
+hutāśanena saṃspṛṣṭaṃ suvarṇasalilena ca // ParS_6.73
+
+viprāṇāṃ brahmaghoṣeṇa bhojyaṃ bhavati tatkṣaṇāt /
+sneho vā goraso vāpi tatraśuddhiḥ kathaṃ bhavet // ParS_6.74
+
+alpaṃ parityajet tatra snehasyotpavanena ca /
+analajvālayā śuddhir gorasasya vidhīyate // ParS_6.75
+
+
+dravya-śuddhiḥ
+
+athāto dravyaśuddhis tu parāśaravaco yathā /
+dāravāṇāṃ pātrāṇāṃ takṣaṇāc chuddhir iṣyate // ParS_7.1
+
+bhasmanā śudhyate kāṃsyaṃ tāmramamlena śudhyati /
+rajasā śudhyate nārī vikalaṃ yā na gacchati // ParS_7.2
+
+nadī vegena śudhyeta lopo yadi na dṛśyate /
+vāpīkūpataḍāgeṣu dūṣiteṣu kathaṃcana // ParS_7.3
+
+uddhṛtya vai ghaṭaśataṃ pañcagavyena śudhyati /
+aṣṭavarṣā bhaved gaurī navavarṣā tu rohiṇī // ParS_7.4
+
+daśavarṣā bhavet kanyā ata ūrdhvaṃ rajasvalā /
+prāpte tu dvādaśe varṣe yaḥ kanyāṃ na prayacchati // ParS_7.5
+
+māsi māsi rajas tasyāḥ pibanti pitaraḥ svayam /
+mātā caiva pitā caiva jyeṣṭho bhrātā tathaiva ca // ParS_7.6
+
+trayas te narakaṃ yānti dṛṣṭvā kanyāṃ rajasvalām /
+yas tāṃ samudvahet kanyāṃ brāhmaṇo madamohitaḥ // ParS_7.7
+
+asaṃbhāṣyo hy apāṅkteyaḥ sa vipro vṛṣalīpatiḥ /
+yaḥ karoty ekarātreṇa vṛṣalīsevanaṃ dvijaḥ // ParS_7.8
+
+sa bhaikṣabhuj japan nityaṃ tribhir varṣair viśudhyati /
+astaṃgate yadā sūrye caṇḍālaṃ patitaṃ striyam // ParS_7.9
+
+sūtikāṃ spṛśataś caiva kathaṃ śuddhir vidhīyate /
+jātavedaḥ suvarṇaṃ ca somamārgaṃ vilokya ca // ParS_7.10
+
+brāhmaṇānumataś caiva snānaṃ kṛtvā viśudhyati /
+spṛṣṭvā rajasvalānyonyaṃ brāhmaṇī brāhmaṇī tathā // ParS_7.11
+
+tāvat tiṣṭhen nirāhārā trirātreṇaiva śudhyati /
+spṛṣṭvā rajasvalānyonyaṃ brāhmaṇī kṣatriyā tathā // ParS_7.12
+
+ardhakṛcchraṃ caret pūrvā pādam ekam anantarā /
+spṛṣṭvā rajasvalānyonyaṃ brāhmaṇī vaiśyajā tathā // ParS_7.13
+
+pādahīnaṃ caret pūrvā pādam ekam anantarā /
+spṛṣṭvā rajasvalānyonyaṃ brāhmaṇī śūdrajā tathā // ParS_7.14
+
+kṛcchreṇa śudhyate pūrvā śūdrā dānena śudhyati /
+snātā rajasvalā yā tu caturthe 'hani śudhyati // ParS_7.15
+
+kuryād rajo nivṛttau tu daivapitryādi karma ca /
+rogeṇa yad rajaḥ strīṇām anvahaṃ tu pravartate // ParS_7.16
+
+nāśuciḥ sā tatas tena tat syād vaikālikaṃ matam /
+sādhvācārā na tāvat syād rajo yāvat pravartate // ParS_7.17
+
+rajonivṛttau gamyā strī gṛhakarmaṇi caiva hi /
+prathame 'hani caṇḍālī dvitīye brahmaghātinī // ParS_7.18
+
+tṛtīye rajakī proktā caturthe 'hani śudhyati /
+āture snānotpanne daśakṛtvo hy anāturaḥ // ParS_7.19
+
+snātvā snātvā spṛśed enaṃ tataḥ śudhyet sa āturaḥ /
+ucchiṣṭocchiṣṭasaṃspṛṣṭaḥ śunā śūdreṇa vā dvijaḥ // ParS_7.20
+
+upoṣya rajanīm ekāṃ pañcagavyena śudhyati /
+anucchiṣṭena śūdreṇa sparśe snānaṃ vidhīyate // ParS_7.21
+
+tenocchiṣṭena saṃspṛṣṭaḥ prājāpatyaṃ samācaret /
+bhasmanā śudhyate kāṃsyaṃ surayā yan na lipyate // ParS_7.22
+
+surāmātreṇa saṃspṛṣṭaṃ śudhyate 'gnyupalekhanaiḥ /
+gavāghrātāni kāṃsyāni śvakākopahatāni ca // ParS_7.23
+
+śudhyanti daśabhiḥ kṣāraiḥ śūdrocchiṣṭāni yāni ca /
+gaṇḍūṣaṃ pādaśaucaṃ ca kṛtvā vai kāṃsyabhājane // ParS_7.24
+
+ṣaṇmāsān bhuvi niḥkṣipya uddhṛtya punar āharet /
+āyaseṣv āyasānāṃ ca sīsasyāgnau viśodhanam // ParS_7.25
+
+dantam asthi tathā bhṛṅgaṃ rūpyaṃ sauvarṇabhājanam /
+maṇipāṣāṇapātrāṇīty etān prakṣālayej jalaiḥ // ParS_7.26
+
+pāṣāṇe tu punar gharṣaḥ śuddhir evam udāhṛtā /
+mṛṇmaye dahanāc chuddhir dhānyānāṃ mārjanād api // ParS_7.27
+
+veṇuvalkalacīrāṇāṃ kṣaumakārpāsavāsasām /
+aurṇanetrapaṭānāṃ ca prokṣaṇāc chuddhir iṣyate // ParS_7.28
+
+muñjopaskaraśūrpāṇāṃ śaṇasya phalacarmaṇām /
+tṛṇakāṣṭhasya rajjūṇām udakābhyukṣaṇaṃ matam // ParS_7.29
+
+tūlikādyupadhānāni raktavastrādikāni ca /
+śoṣayitvātapenaiva prokṣaṇāc chuddhitām iyuḥ // ParS_7.30
+
+mārjāramakṣikākīṭapataṅgakṛmidardurāḥ /
+medhyāmedhyaṃ spṛśanto 'pi nocchiṣṭaṃ manur abravīt // ParS_7.31
+
+mahīṃ spṛṣṭvāgataṃ toyaṃ yāś cāpy anyonyavipruṣaḥ /
+bhuktocchiṣṭaṃ tathā snehaṃ nocchiṣṭaṃ manur abravīt // ParS_7.32
+
+tāmbūlekṣuphale caiva bhuktasnehānulepane /
+madhuparke ca some ca nocchiṣṭaṃ dharmato viduḥ // ParS_7.33
+
+rathyākardamatoyāni nāvaḥ panthās tṛṇāni ca /
+mārutārkeṇa śudhyanti pakveṣṭakacitāni ca // ParS_7.34
+
+aduṣṭā saṃtatā dhārā vātoddhūtāś ca reṇavaḥ /
+striyo vṛddhāś ca bālāś ca na duṣyanti kadācana // ParS_7.35
+
+deśabhaṅge pravāse vā vyādhiṣu vyasaneṣv api /
+rakṣed eva svadehādipaścād dharmaṃ samācaret // ParS_7.36
+
+yena kena ca dharmeṇa mṛdunā dāruṇena vā /
+uddhared dīnam ātmānaṃ samartho dharmam ācaret // ParS_7.37
+
+āpatkāle tu nistīrṇe śaucācāraṃ tu cintayet /
+śuddhiṃ samuddharet paścāt svastho dharmaṃ samācaret // ParS_7.38
+
+gavāṃ bandhanayoktreṣu bhaven mṛtyur akāmataḥ /
+akāmakṛtapāpasya prāyaścittaṃ kathaṃ bhavet // ParS_8.1
+
+vedavedāṅgaviduṣāṃ dharmaśāstraṃ vijānatām /
+svakarmarataviprāṇāṃ svakaṃ pāpaṃ nivedayet // ParS_8.2
+
+sāvitryāś cāpi gāyatryāḥ saṃdhyopāstyagnikāryayoḥ /
+ajñānāt kṛṣikartāro brāhmaṇā nāmadhārakāḥ // ParS_8.3
+
+avratānām amantrāṇāṃ jātimātropajīvinām /
+sahasraśaḥ sametānāṃ pariṣattvaṃ na vidyate // ParS_8.4
+
+yad vadanti tamomūḍhā mūrkhā dharmam atadvidaḥ /
+tat pāpaṃ śatadhā bhūtvā tadvaktṝn adhigacchati // ParS_8.5
+
+ajñātvā dharmaśāstrāṇi prāyaścittaṃ dadāti yaḥ /
+prāyaścittī bhavet pūtaḥ kilbiṣaṃ parṣadi vrajet // ParS_8.6
+
+catvāro vā trayo vāpi yaṃ brūyur vedapāragāḥ /
+sa dharmeti vijñeyo netarais tu sahasraśaḥ // ParS_8.7
+
+pramāṇamārgaṃ mārganto ye dharmaṃ pravadanti vai /
+teṣām udvijate pāpaṃ sadbhūtaguṇavādinām // ParS_8.8
+
+yathāśmani sthitaṃ toyaṃ mārutārkeṇa śudhyati /
+evaṃ pariṣadādeśān nāśayet tasya duṣkṛtam // ParS_8.9
+
+naiva gacchati kartāraṃ naiva gacchati parṣadam /
+mārutārkādisamyogāt pāpaṃ naśyati toyavat // ParS_8.10
+
+catvāro vā trayo vāpi vedavanto 'gnihotriṇaḥ /
+brāhmaṇānāṃ samarthā ye pariṣat sābhidhīyate // ParS_8.11
+
+anāhitāgnayo ye 'nye vedavedāṅgapāragāḥ /
+pañca trayo vā dharmajñāḥ pariṣat sā prakīrtitā // ParS_8.12
+
+munīnām ātmavidyānāṃ dvijānāṃ yajñayājinām /
+vedavrateṣu snātānām eko 'pi pariṣad bhavet // ParS_8.13
+
+pañca pūrvaṃ mayā proktās teṣāṃ cāsaṃbhave trayaḥ /
+svavṛttiparituṣṭo ye pariṣat sā prakīrtitā // ParS_8.14
+
+ata ūrdhvaṃ tu ye viprāḥ kevalaṃ nāmadhārakāḥ /
+pariṣattvaṃ na teṣv asti sahasraguṇiteṣv api // ParS_8.15
+
+yathā kāṣṭhamayo hastī yathā carmamayo mṛgaḥ /
+brāhmaṇas tv anadhīyānas trayas te nāmadhārakāḥ // ParS_8.16
+
+grāmasthānaṃ yathā śūnyaṃ yathā kūpas tu nirjalaḥ /
+yathā hutam anagnau ca amantro brāhmaṇas tathā // ParS_8.17
+
+yathā ṣaṇḍho 'phalaḥ strīṣu yathā gaur ūṣarāphalā /
+yathā cājñe 'phalaṃ dānaṃ tathā vipro 'nṛco 'phalaḥ // ParS_8.18
+
+citrakarma yathānekair aṅgair unmīlyate śanaiḥ /
+brāhmaṇyam api tadvad dhi saṃskārair mantrapurvakaiḥ // ParS_8.19
+
+prāyaścittaṃ prayacchanti ye dvijā nāmadhārakāḥ /
+te dvijā pāpakarmāṇaḥ sametā narakaṃ yayuḥ // ParS_8.20
+
+ye paṭhanti dvijā vedaṃ pañcayajñaratāś ca ye /
+trailokyaṃ tārayanty ete pañcendriyaratā api // ParS_8.21
+
+saṃpraṇītaḥ śmaśāneṣu dīpto 'gniḥ sarvabhakṣakaḥ /
+evaṃ ca vedavid vipraḥ sarvabhakṣo 'pi daivatam // ParS_8.22
+
+amedhyāni tu sarvāṇi prakṣipyante yathodake /
+tathaiva kilbiṣaṃ sarvaṃ prakṣipec ca dvijānale // ParS_8.23
+
+gāyatrīrahito vipraḥ śūdrād apy aśucir bhavet /
+gāyatrībrahmatattvajñāḥ saṃpūjyante janair dvijāḥ // ParS_8.24
+
+duḥśīlo 'pi dvijaḥ pūjyo na tu śūdro jitendriyaḥ /
+kaḥ parityajya gāṃ duṣṭāṃ duhec chīlavatīṃ kharīm // ParS_8.25
+
+dharmaśāstrarathārūḍhā vedakhaḍgadharā dvijāḥ /
+krīḍārtham api yad brūyuḥ sa dharmaḥ paramaḥ smṛtaḥ // ParS_8.26
+
+cāturvedyo vikalpī ca aṅgavid dharmapāṭhakaḥ /
+trayaś ca āśramo mukhyāḥ parṣad eṣā daśāvarā // ParS_8.27
+
+rājñaś cānumate sthitvā prāyaścittam vinirdiśet /
+svayam eva na kartavyaṃ kartavyā svalpaniṣkṛtiḥ // ParS_8.28
+
+brāhmaṇāṃs tān atikramya rājā kartuṃ yad icchati /
+tat pāpaṃ śatadhā bhūtvā rājānam anugacchati // ParS_8.29
+
+prāyaścittaṃ sadā dadyād devatāyatanāgrataḥ /
+ātmakṛcchraṃ tataḥ kṛtvā japed vai vedamātaram // ParS_8.30
+
+saśikhaṃ vapanaṃ kṛtvā trisaṃdhyam avagāhanam /
+gavāṃ madhye vased rātrau divā gāś cāpy anuvrajet // ParS_8.31
+
+uṣṇe varṣati śīte vā mārute vāti vā bhṛśam /
+na kurvītātmanas trāṇaṃ gor akṛtvā tu śaktitaḥ // ParS_8.32
+
+ātmano yadi vānyeṣāṃ gṛhe kṣetre khale 'tha vā /
+bhakṣayantīṃ na kathayet pibantaṃ caiva vatsakam // ParS_8.33
+
+pibantīṣu pibet toyaṃ saṃviśantīṣu saṃviśet /
+patitāṃ paṅkamagnāṃ vā sarvaprāṇaiḥ samuddharet // ParS_8.34
+
+brāhmaṇārthe gavārthe vā yas tu prāṇān parityajet /
+mucyate brahmahatyāyā goptā gor brāhmaṇasya ca // ParS_8.35
+
+govadhasyānurūpeṇa prājāpatyaṃ vinirdiśet /
+prājāpatyaṃ tataḥ kṛcchraṃ vibhajet tac caturvidham // ParS_8.36
+
+ekāham ekabhaktāśī ekāhaṃ naktabhojanaḥ /
+ayācitāśy ekam ahar ekāhaṃ mārutāśanaḥ // ParS_8.37
+
+dinadvayaṃ caikabhakto dvidinaṃ caikabhojanaḥ /
+dinadvayam ayācī syād dvidinaṃ mārutāśanaḥ // ParS_8.38
+
+tridinaṃ caikabhaktāśī tridinaṃ naktabhojanaḥ /
+dinatrayam ayācī syāt tridinaṃ mārutāśanaḥ // ParS_8.39
+
+caturahaṃ caikabhaktāśī caturahaṃ naktabhojanaḥ /
+caturdinam ayācī syāc caturahaṃ mārutāśanaḥ // ParS_8.40
+
+prāyaścitte tataś cīrṇe kuryād brāhmaṇabhojanam /
+viprāṇāṃ dakṣiṇāṃ dadyāt pavitrāṇi japed dvijaḥ // ParS_8.41
+
+brāhmaṇān bhojayitvā tu goghnaḥ śuddho na saṃśayaḥ // ParS_8.41
+
+gavāṃ saṃrakṣaṇārthāya na duṣyed rodhabandhayoḥ /
+tad vadhaṃ tu na taṃ vidyāt kāmākāmakṛtaṃ tathā // ParS_9.1
+
+daṇḍād ūrdhvaṃ yad anyena prahārād yadi pātayet /
+prāyaścittaṃ tadā proktaṃ dviguṇaṃ govadhe caret // ParS_9.2
+
+rodhabandhanayoktrāṇi ghātaś ceti caturvidham /
+ekapādaṃ cared rodhe dvau pādau bandhane caret // ParS_9.3
+
+yoktreṣu pādahīnaṃ syāc caret sarvaṃ nipātane /
+govāṭe vā gṛhe vāpi durge vāpy asamasthale // ParS_9.4
+
+nadīṣv atha samudreṣu tv anyeṣu na nadīmukhe /
+dagdhadeśe mṛtā gāvaḥ stambhanād rodha ucyate // ParS_9.5
+
+yoktradāmakadoraiś ca kaṇṭhābharaṇabhūṣaṇaiḥ /
+gṛhe vāpi vane vāpi baddhā syād gaur mṛtā yadi // ParS_9.6
+
+tad eva bandhanaṃ vidyāt kāmākāmakṛtaṃ ca yat /
+hale vā śakaṭe paṅktau pṛṣṭhe vā pīḍito naraiḥ // ParS_9.7
+
+gopatir mṛtyum āpnoti yoktro bhavati tadvadhaḥ /
+mattaḥ pramatta unmattaś cetano vāpy acetanaḥ // ParS_9.8
+
+kāmākāmakṛtakrodho daṇḍair hanyād athopalaiḥ /
+prahṛtā vā mṛtā vāpi tad dhi hetur nipātane // ParS_9.9
+
+aṅguṣṭhamātrasthūlas tu bāhumātraḥ pramāṇataḥ /
+ādras tu sapalāśaś ca daṇḍa ity abhidhīyate // ParS_9.10
+
+mūrchitaḥ patito vāpi daṇḍenābhihitaḥ sa tu /
+utthitas tu yadā gacchet pañca sapta daśaiva vā // ParS_9.11
+
+grāsaṃ vā yadi gṛhṇīyāt toyaṃ vāpi pibed yadi /
+pūrvaṃ vyādhyupasṛṣṭaś cet prāyaścittaṃ na vidyate // ParS_9.12
+
+piṇḍasthe pādam ekaṃ tu dvau pādau garbhasaṃmite /
+pādonaṃ vratam uddiṣṭaṃ hatvā garbham acetanam // ParS_9.13
+
+pāde 'ṅgaromavapanaṃ dvipāde śmaśruṇo 'pi ca /
+tripāde tu śikhā varjaṃ saśikhaṃ tu nipātane // ParS_9.14
+
+pāde vastrayugaṃ caiva dvipāde kāṃsyabhājanam /
+tripāde govṛṣaṃ dadyāc caturthe godvayaṃ smṛtam // ParS_9.15
+
+niṣpannasarvagātras tu dṛśyate vā sacetanaḥ /
+aṅgapratyaṅgasaṃpūrṇo dviguṇaṃ govrataṃ caret // ParS_9.16
+
+pāṣāṇenātha daṇḍena gāvo yenābhighātitāḥ /
+śṛṅgabhaṅge caret pādaṃ dvau pādau netraghātane // ParS_9.17
+
+lāṅgūle pādakṛcchraṃ tu dvau pādāv asthibhañjane /
+tripādaṃ caiva karṇe tu caret sarvaṃ nipātane // ParS_9.18
+
+śṛṅgabhaṅge 'sthibhaṅge ca kaṭibhaṅge tathaiva ca /
+yadi jīvati ṣaṇmāsān prāyaścitttaṃ na vidyate // ParS_9.19
+
+vraṇabhaṅge ca kartavyaḥ snehābhyaṅgas tu pāṇinā /
+yavasaś copahartavyo yāvad dṛḍhabalo bhavet // ParS_9.20
+
+yāvat saṃpūrṇasarvāṅgas tāvat taṃ poṣayen naraḥ /
+gorūpaṃ brāhmaṇasyāgre namaskṛtvā visarjayet // ParS_9.21
+
+yady asaṃpūrṇasargāṅgo hīnadeho bhavet tadā /
+goghātakasya tasyārthaṃ prāyaścittaṃ vinirdiśet // ParS_9.22
+
+kāṣṭhaloṣṭakapāṣāṇaiḥ śastreṇaivoddhato balāt /
+vyāpādayati yo gāṃ tu tasya śuddhiṃ vinirdiśet // ParS_9.23
+
+caret sāṃtapanaṃ kāṣṭhe prājāpatyaṃ tu loṣṭake /
+taptakṛcchraṃ tu pāṣāṇe sastre caivātikṛcchrakam // ParS_9.24
+
+pañca saṃtapane gāvaḥ prājāpatye tathā trayaḥ /
+taptakṛcchre bhavanty aṣṭāv atikṛcchre trayodaśa // ParS_9.25
+
+pramāpaṇe prāṇabhṛtāṃ dadyāt tat pratirūpakam /
+tasyānurūpaṃ mūlyaṃ vā dadyād ity abravīn manuḥ // ParS_9.26
+
+anyatrāṅkanalakṣmabhyāṃ vāhane mocane tathā /
+sāyaṃ saṃgopanārthaṃ ca na duṣyed rodhabandhayoḥ // ParS_9.27
+
+atidāhe 'tivāhe ca nāsikābhedane tathā /
+nadīparvatasaṃcāre prāyaścittaṃ vinirdiśet // ParS_9.28
+
+atidāhe caret pādaṃ dvau pādau vāhane caret /
+nāsikye padahīnaṃ tu caret sarvaṃ nipātane // ParS_9.29
+
+dahānāt tu vipadyate anaḍvān yoktrayantritaḥ /
+uktaṃ parāśareṇaiva hy ekapādaṃ yathāvidhi // ParS_9.30
+
+rodhanaṃ bandhanaṃ caiva bhāraḥ praharaṇaṃ tathā /
+durgapreraṇayoktraṃ ca nimittāni vadhasya ṣaṭ // ParS_9.31
+
+bandhapāśasuguptāṅgo mriyate yadi gopaśuḥ /
+bhavane tasya pāpī syāt prāyaścittārdham arhati // ParS_9.32
+
+na nārikelair na ca śāṇavālaiḥ na vāpi mauñjair na ca valkaśṛṅkhalaiḥ /
+etais tu gāvo na nibandhanīyā baddhvāpi tiṣṭhet paraśuṃ gṛhītvā // ParS_9.33
+
+kuśaiḥ kāśaiś ca badhnīyād gopaśuṃ dakṣiṇāmukham /
+pāśalagnāgnidagdhāsu prāyaścittaṃ na vidyate // ParS_9.34
+
+yadi tatra bhavet kāṣṭhaṃ prāyaścittaṃ kathaṃ bhavet /
+japitvā pāvanīṃ devīṃ mucyate tatra kilbiṣāt // ParS_9.35
+
+prerayan kūpavāpīṣu vṛkṣacchedeṣu pātayan /
+gavāśaneṣu vikrīṇaṃs tataḥ prāpnoti govadham // ParS_9.36
+
+ārādhitas tu yaḥ kaścid bhinnakakṣo yadā bhavet /
+śravaṇaṃ hṛdayaṃ bhinnaṃ magno vā kūpasaṃkaṭe // ParS_9.37
+
+kūpād utkramaṇe caiva bhagno vā grīvapādayoḥ /
+sa eva mriyate tatra trīn pādāṃs tu samācaret // ParS_9.38
+
+kūpakhāṭe taṭābandhe nadībandhe prapāsu ca /
+pānīyeṣu vipannānāṃ prāyaścittaṃ na vidyate // ParS_9.39
+
+kūpakhāte taṭākhāte dīrghakhāte tathaiva ca /
+anyeṣu dharmakhāteṣu prāyaścittaṃ na vidyate // ParS_9.40
+
+veśmadvāre nivāseṣu yo naraḥ khātam icchati /
+svakāryagṛhakhateṣu prāyaścittaṃ vinirdiśet // ParS_9.41
+
+niśi bandhaniruddheṣu sarpavyāghrahateṣu ca /
+agnividyudvipannānāṃ prāyaścittaṃ na vidyate // ParS_9.42
+
+grāmaghāte śaraugheṇa veśmabhaṅgān nipātane /
+ativṛṣṭihatānāṃ ca prāyaścittaṃ na vidyate // ParS_9.43
+
+saṃgrāme prahatānāṃ ca ye dagdhā veśmakeṣu ca /
+dāvāgnigrāmaghāteṣu prāyaścittaṃ na vidyāte // ParS_9.44
+
+yantritā gauś cikitsārthaṃ mūḍhagarbhavimocane /
+yatne kṛte vipadyeta prāyaścittaṃ na vidyate // ParS_9.45
+
+vyāpannānāṃ bahūnāṃ ca bandhane rodhane 'pi vā /
+bhiṣaṅmithyopacāre ca prāyaścittaṃ vinirdiśet // ParS_9.46
+
+govṛṣāṇāṃ vipattau ca yāvantaḥ prekṣakā janāḥ /
+anivārayatāṃ teṣāṃ sarveṣāṃ pātakaṃ bhavet // ParS_9.47
+
+eko hato yair bahubhiḥ sametair na jñāyate yasya hato 'bhighātāt /
+divyena teṣām upalabhya hantā nivartanīyo nṛpasaṃniyuktaiḥ // ParS_9.48
+
+ekā ced bahubhiḥ kācid daivād vyāpāditā yadi /
+pādaṃ pādaṃ tu hatyāyāś careyus te pṛthak pṛthak // ParS_9.49
+
+hate tu rudhiraṃ dṛśyaṃ vyādhigrastaḥ kṛśo bhavet /
+lālā bhavati daṣṭeṣu evam anveṣaṇaṃ bhavet // ParS_9.50
+
+grāsārthaṃ codito vāpi adhvānaṃ naiva gacchati /
+manunā caivam ekena sarvaśāstrāṇi jānatā // ParS_9.51
+
+prāyaścittaṃ tu tenoktaṃ goghnaś cāndrāyaṇaṃ caret /
+keśānāṃ rakṣaṇārthāya dviguṇaṃ vratam ācaret // ParS_9.52
+
+dviguṇe vrata ādiṣṭe dviguṇā dakṣiṇā bhavet /
+rājā vā rājaputro vā brāhmaṇo vā bahuśrutaḥ // ParS_9.53
+
+akṛtvā vapanaṃ tasya prāyaścittaṃ vinirdiśet /
+sarvān keśān samuddhṛtya cchedayed aṅguladvayam // ParS_9.54
+
+evaṃ nārīkumārīṇāṃ śiraso muṇḍanaṃ smṛtam /
+na striyāḥ keśavapanaṃ na dūre śayanāśanam // ParS_9.55
+
+na ca goṣṭhe vased rātrau na divā gā anuvrajet /
+nadīṣu saṃgame caiva araṇyeṣu viśeṣataḥ // ParS_9.56
+
+na strīṇām ajinaṃ vāso vratam eva samācaret /
+trisaṃdhyaṃ snānam ity uktaṃ surāṇām arcanaṃ tathā // ParS_9.57
+
+bandhumadhye vrataṃ tāsāṃ kṛcchracāndrāyaṇādikam /
+gṛheṣu satataṃ tiṣṭhec chucir niyamam ācaret // ParS_9.58
+
+iha yo govadhaṃ kṛtvā pracchādayitum icchati /
+sa yāti narakaṃ ghoraṃ kālasūtram asaṃśayam // ParS_9.59
+
+vimukto narakāt tasmān martyaloke prajāyate /
+klībo duḥkhī ca kuṣṭhī ca sapta janmāni vai naraḥ // ParS_9.60
+
+tasmāt prakāśayet pāpaṃ svadharmaṃ satataṃ caret /
+strībālabhṛtyagovipreṣv atikopaṃ vivarjayet // ParS_9.61
+
+cāturvarṇyeṣu sarveṣu hitāṃ vakṣyāmi niṣkṛtim /
+agamyā gamane caiva śuddhyai cāndrāyaṇaṃ caret // ParS_10.1
+
+ekaikaṃ hrāsayed grāsaṃ kṛṣṇe śukle ca vardhayet /
+amāvāsyāṃ na bhuñjīta hy eṣa cāndrāyaṇo vidhiḥ // ParS_10.2
+
+kukkuṭāṇḍapramāṇaṃ tu grāsaṃ vai parikalpayet /
+anyāthā bhāvadoṣeṇa na dharmo na ca śudhyati // ParS_10.3
+
+prāyaścitte tataś cīrṇe kuryād brahmaṇabhojanam /
+godvayaṃ vastrayugmaṃ ca dadyād vipreṣu dakṣiṇām // ParS_10.4
+
+caṇḍālīṃ vā śvapākīṃ vā hy abhigacchati yo dvijaḥ /
+trirātram upavāsitvā viprāṇām anuśāsanam // ParS_10.5
+
+saśikhaṃ pavanaṃ kṛtvā prājāpatyadvayaṃ caret /
+godvayaṃ dakṣiṇāṃ dadyāc chuddhiṃ pārāśaro 'bravīt // ParS_10.6
+
+kṣatriyo vātha vaiśyo vā caṇḍālīṃ gacchato yadi /
+prājāpatyadvayaṃ kuryād dadyād gomithunadvayam // ParS_10.7
+
+śvapākīṃ vātha caṇḍālīṃ śūdro vā yadi gacchati /
+prājāpatyaṃ caret kṛcchraṃ catur gomithunaṃ dadet // ParS_10.8
+
+mātaraṃ yadi gacchet tu bhaginīṃ svasutāṃ tathā /
+etās tu mohito gatvā trīṇi kṛcchrāṇi saṃcaret // ParS_10.9
+
+cāndrāyaṇatrayaṃ kuryāc chiśnacchedena śudhyati /
+mātṛṣvasṛgame caivam ātmameḍhranikartanam // ParS_10.10
+
+ajñānena tu yo gacchet kuryāc cāndrāyaṇadvayam /
+daśa gomithunaṃ dadyāc chuddhiṃ pāraśaro 'bravīt // ParS_10.11
+
+pitṛdārān samāruhya mātur āptāṃ tu bhrātṛjām /
+gurupātnīṃ snuṣāṃ caiva bhrātṛbhāryāṃ tathaiva ca // ParS_10.12
+
+mātulānīṃ sagotrāṃ ca prājāpatyatrayaṃ caret /
+godvayaṃ dakṣiṇāṃ dadyāc chudhyate nātra saṃśayaḥ // ParS_10.13
+
+paśuveṣyādigamane mahiṣyuṣṭrīkapīs tathā /
+kharīṃ ca sūkarīṃ gatvā prājāpatyavrataṃ caret // ParS_10.14
+
+gogāmī ca trirātreṇa gām ekāṃ brāhmaṇe dadan /
+mahiṣyuṣṭrīkharīgāmī tv ahorātreṇa śudhyati // ParS_10.15
+
+ḍāmare samare vāpi durbhikṣe vā janakṣaye /
+bandigrāhe bhayārtā vā sadā svastrīṃ nirīkṣayet // ParS_10.16
+
+caṇḍālaiḥ saha saṃparkaṃ yā nārī kurute tataḥ /
+viprān daśa varān kṛtvā svakaṃ doṣaṃ prakāśayet // ParS_10.17
+
+ākaṇṭhasaṃmite kūpe gomayodakakardame /
+tatra sthitvā nirāhārā tv ahorātreṇa niṣkramet // ParS_10.18
+
+saśikhaṃ vapanaṃ kṛtvā bhuñjīyād yāvakaudanam /
+trirātram upavāsitvā tv ekarātraṃ jale vaset // ParS_10.19
+
+śaṃkhapuṣpīlatāmūlaṃ patraṃ vā kusumaṃ phalam /
+suvarṇaṃ pañcagavyaṃ ca kvāthayitvā pibej jalam // ParS_10.20
+
+ekabhaktaṃ caret paścād yāvat puṣpavatī bhavet /
+vrataṃ carati tad yāvat tāvat saṃvasate bahiḥ // ParS_10.21
+
+prāyaścitte tataś cīrṇe kuryād brāhmaṇabhojanam /
+godvayaṃ dakṣiṇāṃ dadyac chuddhiṃ pārāśaro 'bravīt // ParS_10.22
+
+cāturvarṇyasya nārīṇāṃ kṛcchraṃ cāndrāyaṇaṃ vratam /
+yathā bhūmis tathā nārī tasmāt tāṃ na tu dūṣayet // ParS_10.23
+
+bandigrāheṇa yā bhuktā hatvā baddhvā balād bhayāt /
+kṛtvā sāṃtapanaṃ kṛcchraṃ śudhyet pārāśaro 'bravīt // ParS_10.24
+
+sakṛd bhuktā tu yā nārī necchantī pāpakarmabhiḥ /
+prājāpatyena śudhyeta ṛtuprasravaṇena ca // ParS_10.25
+
+pataty ardhaṃ śarīrasya yasya bhāryā surāṃ pibet /
+patitārdhaśarīrasya niṣkṛtir na vidhīyate // ParS_10.26
+
+gāyatrīṃ japamānas tu kṛcchraṃ sāṃtapanaṃ caret /
+gomūtraṃ gomayaṃ kṣīraṃ dadhi sarpiḥ kuśodakam // ParS_10.27
+
+ekarātropavāsaś ca kṛcchraṃ sāṃtapanaṃ smṛtam /
+jāreṇa janayed garbhaṃ mṛte 'vyakte gate patau // ParS_10.28
+
+tāṃ tyajed apare rāṣṭre patitāṃ pāpakāriṇīm /
+brāhmaṇī tu yadā gacchet parapuṃsā samanvitā // ParS_10.29
+
+sā tu naṣṭā vinirdiṣṭā na tasyāgamanaṃ punaḥ /
+kāmān mohāt tu yā gacchet tyaktvā bandhūn sutān patim // ParS_10.30
+
+sā tu naṣṭā pare loke mānuṣeṣu viśeṣataḥ /
+madamohagatā nārī krodhād daṇḍāditāḍitā // ParS_10.31
+
+advitīyā gatā caiva punarāgamanaṃ bhavet /
+daśame tu dine prāpte prāyaścittaṃ na vidyate // ParS_10.32
+
+daśāhaṃ na tyajen nārīṃ tyajen naṣṭaśrutāṃ tathā /
+bhartā caiva caret kṛcchraṃ kṛcchārdhaṃ caiva bāndhavāḥ // ParS_10.33
+
+teṣāṃ bhuktvā ca pītvā ca ahorātreṇa śudhyati /
+brāhmaṇī tu yadā gacchet parapuṃsā vivarjitā // ParS_10.34
+
+gatvā puṃsāṃ śataṃ yāti tyajeyus tāṃ tu gotriṇaḥ /
+puṃso yadi gṛhe gacchet tad aśuddhaṃ gṛhaṃ bhavet // ParS_10.35
+
+patimātṛgṛhaṃ yac ca jārasyaiva tu tad gṛham /
+ullikhya tad gṛhaṃ paścāt pañcagavyena secayet // ParS_10.36
+
+tyajec ca mṛṇmayaṃ pātraṃ vastraṃ kāṣṭhaṃ ca śodhayet /
+saṃbhārān śodhayet sarvān gobālaiś ca phalodbhavān // ParS_10.37
+
+tāmrāṇi pañcagavyena kāṃsyāni daśa bhasmabhiḥ /
+prāyaścittaṃ cared vipro brāhmaṇair upapāditam // ParS_10.38
+
+godvayaṃ dakṣiṇāṃ dadyāt prājāpatyadvayaṃ caret /
+itareṣām ahorātraṃ pañcagavyaṃ ca śodhanam // ParS_10.39
+
+upavāsair vrataiḥ puṇyaiḥ snānasaṃdhyārcanādibhiḥ /
+japahomadayādānaiḥ śudhyante brāhmaṇādayaḥ // ParS_10.40
+
+ākāśaṃ vāyur agniś ca medhyaṃ bhūmigataṃ jalam /
+na praduṣyanti darbhāś ca yajñeṣu camasā yathā // ParS_10.41
+
+amedhyareto gomāṃsaṃ caṇḍālānnam athāpi vā /
+yadi bhuktaṃ tu vipreṇa kṛcchraṃ cāndrāyaṇaṃ caret // ParS_11.1
+
+tathaiva kṣatriyo vaiśyo 'py ardhaṃ cāndrāyaṇaṃ caret /
+śūdro 'py evaṃ yadā bhuṅkte prājāpatyaṃ samācaret // ParS_11.2
+
+pañcagavyaṃ pibec chūdro brahmakūrcaṃ pibed dvijaḥ /
+ekadvitricatur gā vā dadyād viprādyanukramāt // ParS_11.3
+
+śūdrānnaṃ sūtakānnaṃ ca abhojyasyānnam eva ca /
+śaṅkitaṃ pratiṣiddhānnaṃ pūrvocchiṣṭaṃ tathaiva ca // ParS_11.4
+
+yadi bhuktaṃ tu vipreṇa ajñānād āpadāpi vā /
+jñātvā samācaret kṛcchraṃ brahmakūrcaṃ tu pāvanam // ParS_11.5
+
+bālair nakulamārjārair annam ucchiṣṭitaṃ yadā /
+tiladarbhodakaiḥ prokṣya śudhyate nātrasaṃśayaḥ // ParS_11.6
+
+ekapaṅktyupaviṣṭānāṃ viprāṇāṃ saha bhojane /
+yady eko 'pi tyajet pātraṃ śeṣam annaṃ na bhojayet // ParS_11.7
+
+mohād bhuñjīta yas tatra paṅktāv ucchiṣṭabhojane /
+prāyaścittaṃ cared vipraḥ kṛcchraṃ sāṃtapanaṃ tathā // ParS_11.8
+
+pīyūṣaṃ śvetalaśunaṃ vṛntākaphalagṛñjane /
+palāṇḍuvṛkṣaniryāsadevasvakavakāni ca // ParS_11.9
+
+uṣṭrīkṣīram avikṣīram ajñānād bhuñjate dvijaḥ /
+trirātram upavāsena pañcagavyena śudhyati // ParS_11.10
+
+maṇḍūkaṃ bhakṣayitvā tu mūṣikāmāṃsam eva ca /
+jñātvā vipras tv ahorātraṃ yāvakānnena śudhyati // ParS_11.11
+
+kṣatriyaś cāpi vaiśyaś ca kriyāvantau śucivratau /
+tadgṛhe tu dvijair bhojyaṃ havyakavyeṣu nityaśaḥ // ParS_11.12
+
+ghṛtaṃ tailaṃ tathā kṣīraṃ bhakṣyaṃ snehena pācitam /
+gatvā nadītaṭe vipro bhuñjīyāc chūdrabhojanam // ParS_11.13
+
+madyamāṃsarataṃ nityaṃ nīcakarmapravartakam /
+taṃ śūdraṃ varjayed vipraḥ śvapākam iva dūrataḥ // ParS_11.14
+
+dvijaśuśrūṣaṇaratān madyamāṃsavivarjitān /
+svakarmaṇi ratān nityaṃ na tān śūdrān tyajed dvijaḥ // ParS_11.15
+
+ajñānād bhuñjate viprāḥ sūtake mṛtake 'pi vā /
+prāyaścittaṃ kathaṃ teṣāṃ varṇe varṇe vinirdiśet // ParS_11.16
+
+gāyatryaṣṭasahasreṇa śuddhiḥ syāc chūdrasūtake /
+vaiśye pañcasahasreṇa trisahasreṇa kṣatriye // ParS_11.17
+
+brāhmaṇasya yadā bhuṅkte dve sahasre tu dāpayet /
+athavā vāmadaivyena sāmnaivaikena śudhyati // ParS_11.18
+
+śuṣkānnaṃ gorasaṃ snehaṃ śūdraveśmana āgatam /
+pakvaṃ vipragṛhe bhuktaṃ bhojyaṃ tan manur abravīt // ParS_11.19
+
+āpatkāleṣu vipreṇa bhuktaṃ śūdragṛhe yadi /
+manastāpena śudhyeta drupadāṃ vā japec chatam // ParS_11.20
+
+dāsanāpitagopālakulamitrārdhasīliṇaḥ /
+ete śūdreṣu bhojyānnā yaś cātmānaṃ nivedayet // ParS_11.21
+
+śūdrakanyāsamutpanno brāhmaṇena tu saṃskṛtaḥ /
+saṃskārāt tu bhaved dāsaḥ asaṃskārāt tu nāpitaḥ // ParS_11.22
+
+kṣatriyāc chūdrakanyāyāṃ samutpannas tu yaḥ sutaḥ /
+sa gopāla iti jñeyo bhojyo viprair na saṃśayaḥ // ParS_11.23
+
+vaiśyakanyāsamutpanno brāhmaṇena tu saṃskṛtaḥ /
+sa hy ārdhika iti jñeyo bhojyo viprair na saṃśayaḥ // ParS_11.24
+
+bhāṇḍasthitam abhojyeṣu jalaṃ dadhi ghṛtaṃ payaḥ /
+akāmatas tu yo bhuṅkte prāyaścittaṃ kathaṃ bhavet // ParS_11.25
+
+brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdro vā upasarpati /
+brahmakūrcopavāsena yājyavarṇasya niṣkṛtiḥ // ParS_11.26
+
+śūdrāṇāṃ nopavāsaḥ syāc chūdro dānena śudhyati /
+brahmakūrcam ahorātraṃ śvapākam api śodhayet // ParS_11.27
+
+gomūtraṃ gomayaṃ kṣīraṃ dadhi sarpiḥ kuśodakam /
+nirdiṣṭaṃ pañcagavyaṃ tu pavitraṃ pāpaśodhanam // ParS_11.28
+
+gomūtraṃ kṛṣṇavarṇāyāḥ śvetāyāś caiva gomayam /
+payaś ca tāmravarṇāyā raktāyā gṛhyate dadhi // ParS_11.29
+
+kapilāyā ghṛtaṃ grāhyaṃ sarvaṃ kāpilam eva vā /
+mūtram ekapalaṃ dadyād aṅguṣṭhārdhaṃ tu gomayam // ParS_11.30
+
+kṣīraṃ saptapalaṃ dadyād dadhi tripalam ucyate /
+ghṛtam ekapalaṃ dadyāt palam ekaṃ kuśodakam // ParS_11.31
+
+gāyatryādāya gomūtraṃ gandhadvāreti gomayam /
+āpyāyasveti ca kṣīraṃ dadhikrāvṇas tathā dadhi // ParS_11.32
+
+tejo 'si śukram ity ājyaṃ devasya tvā kuśodakam /
+pañcagavyam ṛcā pūtaṃ sthāpayed agnisaṃnidhau // ParS_11.33
+
+āpohiṣṭheti cāloḍya mānastoketi mantrayet /
+saptāvarās tu ye darbhā achinnāgrāḥ śukatviṣaḥ // ParS_11.34
+
+etair uddhṛtya hotavyaṃ pañcagavyaṃ yathāvidhi /
+irāvatī idaṃ viṣṇur mānastoketi śaṃvatī // ParS_11.35
+
+etābhiś caiva hotavyaṃ hutaśeṣaṃ pibed dvijaḥ /
+āloḍya praṇavenaiva nirmanthya praṇavena tu // ParS_11.36
+
+uddhṛtya praṇavenaiva pibec ca praṇavena tu /
+yat tv asthigataṃ pāpaṃ dehe tiṣṭhati dehinām // ParS_11.37
+
+brahmakūrco dahet sarvaṃ pradīptāgnir ivendhanam /
+pavitraṃ triṣu lokeṣu devatābhir adhiṣṭhitam // ParS_11.38
+
+varuṇaś caiva gomūtre gomaye havyavāhanaḥ /
+dadhni vāyuḥ samuddiṣṭaḥ somaḥ kṣīre ghṛte raviḥ // ParS_11.39
+
+pibataḥ patitaṃ toyaṃ bhājane mukhaniḥsṛtam /
+apeyaṃ tad vijānīyāt pītvā cāndrāyaṇaṃ caret // ParS_11.40
+
+kūpe ca patitaṃ dṛṣṭvā śvasṛgālau ca markaṭam /
+asthicarmādi patitaṃ pītvāmedhyā apo dvijaḥ // ParS_11.41
+
+nāraṃ tu kuṇapaṃ kākaṃ viḍvarāhakharoṣṭrakam /
+gāvayaṃ saupratīkaṃ ca māyūraṃ khāḍgakaṃ tathā // ParS_11.42
+
+vaiyāghram ārkṣaṃ saiṃhaṃ vā kūpe yadi nimajjati /
+taṭākasyātha duṣṭasya pītaṃ syād udakaṃ yadi // ParS_11.43
+
+prāyaścittaṃ bhavet puṃsaḥ krameṇaitena sarvaśaḥ /
+vipraḥ śudhyet trirātreṇa kṣatriyas tu dinadvayāt // ParS_11.44
+
+ekāhena tu vaiśyas tu śūdro naktena śudhyati /
+parapākanivṛttasya parapākaratasya ca // ParS_11.45
+
+apacasya ca bhuktvānnaṃ dvijaś cāndrāyaṇaṃ caret /
+apacasya ca yad dānaṃ dātuś cāsya kutaḥ phalam // ParS_11.46
+
+dātā pratigrahītā ca tau dvau nirayagāminau /
+gṛhītvāgniṃ samāropya pañcayajñān na nirvapet // ParS_11.47
+
+parapākanivṛtto 'sau munibhiḥ parikīrtitaḥ /
+pañcayajñān svayaṃ kṛtvā parānnenopajīvati // ParS_11.48
+
+satataṃ prātar utthāya parapākaratas tu saḥ /
+gṛhasthadharmā yo vipro dadāti parivarjitaḥ // ParS_11.49
+
+ṛṣibhir dharmatattvajñair apacaḥ parikīrtitaḥ /
+yuge yuge tu ye dharmās teṣu teṣu ca ye dvijāḥ // ParS_11.50
+
+teṣāṃ nindā na kartavyā yugarūpā hi te dvijāḥ /
+huṃkāraṃ brāhmaṇasyoktvā tvaṃkāraṃ ca garīyasaḥ // ParS_11.51
+
+snātvā tiṣṭhann ahaḥ śeṣam abhivādya prasādayet /
+tāḍayitvā tṛṇenāpi kaṇṭhe baddhvāpi vāsasā // ParS_11.52
+
+vivādenāpi nirjitya praṇipatya prasādayet /
+avagūrya tv ahorātraṃ trirātraṃ kṣitipātane // ParS_11.53
+
+atikṛcchraṃ ca rudhire kṛcchro 'bhyantaraśoṇite /
+navāham atikṛcchrī syāt pāṇipūrānnabhojanaḥ // ParS_11.54
+
+trirātram upavāsī syād atikṛcchraḥ sa ucyate /
+sarveṣām eva pāpānāṃ saṃkare samupasthite // ParS_11.55
+
+daśasāhasram abhyastā gāyatrī śodhanaṃ paraṃ // ParS_11.56
+
+duḥsvapnaṃ yadi paśyet tu vānte tu kṣurakarmaṇi /
+maithune pretadhūme ca snānam eva vidhīyate // ParS_12.1
+
+ajñānāt prāśya viṇmūtraṃ surāsaṃspṛṣṭam eva ca /
+punaḥ saṃskāram arhanti trayo varṇā dvijātayaḥ // ParS_12.2
+
+ajinaṃ mekhalā daṇḍo bhaikṣyacaryā vratāni ca /
+nivartante dvijātīnāṃ punaḥ saṃskārakarmaṇi // ParS_12.3
+
+viṇmūtrabhojī śudhyarthaṃ prājāpatyaṃ samācaret /
+pañcagavyaṃ ca kurvīta snātvā pītvā śucir bhavet // ParS_12.4
+
+jalāgnipatane caiva pravrajyānāśakeṣu ca /
+pratyāvasitavarṇānāṃ kathaṃ śuddhir vidhīyate // ParS_12.5
+
+prājāpatyadvayenaiva tīrthābhigamanena ca /
+vṛṣaikādaśadānena varṇāḥ śudhyanti te trayaḥ // ParS_12.6
+
+brāhmaṇasya pravakṣyāmi vanaṃ gatvā catuṣpathe /
+saśikhaṃ vapanaṃ kṛtvā prājāpatyadvayaṃ caret // ParS_12.7
+
+godvayaṃ dakṣiṇāṃ dadyāc chuddhiṃ svāyaṃbhuvo 'bravīt /
+mucyate tena pāpena brāhmaṇatvaṃ ca gacchati // ParS_12.8
+
+snānāni pañca puṇyāni kīrtitāni manīṣibhiḥ /
+āgneyaṃ vāruṇaṃ brāhmaṃ vāyavyaṃ divyam eva ca // ParS_12.9
+
+āgneyaṃ bhasmanā snānam avagāhya tu vāruṇam /
+āpo hi ṣṭheti ca brāhmaṃ vāyavyaṃ gorajaḥ smṛtam // ParS_12.10
+
+yat tu sātapavarṣeṇa tat snānaṃ divyam ucyate /
+tatra snātvā tu gaṅgāyāṃ snāto bhavati mānavaḥ // ParS_12.11
+
+snātuṃ yāntaṃ dvijaṃ sarve devāḥ pitṛgaṇaiḥ saha /
+vāyubhūtās tu gacchanti tṛṣārtāḥ salilārthinaḥ // ParS_12.12
+
+nirāśās te nivartante vastraniṣpīḍane kṛte /
+tasmān na pīḍayed vastraṃ akṛtvā pitṛtarpaṇam // ParS_12.13
+
+romakūpeṣv avasthāpya yas tilair tarpayet pitṝn /
+pitaras tarpitās tena rudhireṇa malena ca // ParS_12.14
+
+avadhūnoti yaḥ keśān snātvā yas tūtsṛjen malam /
+ācāmed vā jalasthe 'pi sa bāhyaḥ pitṛdaivataiḥ // ParS_12.15
+
+śiraḥ prāvṛttya kaṇṭhaṃ vā muktakacchaśikho 'pi vā /
+vinā yajñopavītena ācānto 'py aśucir bhavet // ParS_12.16
+
+jale sthalastho nācāmej jalasthaś ca bahiḥsthale /
+ubhe spṛṣṭvā samācānta ubhayatra śucir bhavet // ParS_12.17
+
+snātvā pītvā kṣute supte bhuktvā rathyopasarpaṇe /
+ācāntaḥ punar ācāmed vāso viparidhāya ca // ParS_12.18
+
+kṣute niṣṭhīvane caiva dantocchiṣṭe tathānṛte /
+patitānāṃ ca saṃbhāṣe dakṣiṇaṃ śravaṇaṃ spṛśet // ParS_12.19
+
+prabhāsādīni tīrthāni gaṅgādyāḥ saritas tathā /
+viprasya dakṣiṇe karṇe santīti manur abravīt // ParS_12.20 [= not in BI]
+
+agnir āpaś ca vedāś ca somasūryānilās tathā /
+sarva eva tu viprasya śrotre tiṣṭhanti dakṣiṇe // ParS_12.21 [= BI 12.20]
+
+bhāskarasya karaiḥ pūtaṃ divā snānaṃ praśasyāte /
+apraśastaṃ niśi snānaṃ  rāhor anyatra darśanāt // ParS_12.22 [= BI 12.21]
+
+snānaṃ dānaṃ japo homaḥ kartavyo rāhudarśane /
+anyadā tv aśucī rātris tasmāt tāṃ parivarjayet // ParS_12.23 [= BI 12.22]
+
+maruto vasavo rudrā ādityāś caiva devatāḥ /
+sarve some pralīyante tasmād dānaṃ tu tadgrahe // ParS_12.24 [= BI 12.23]
+
+khalayajñe vivāhe ca saṃkrāntau grahaṇe tathā /
+śarvaryāṃ dānam asty eva nānyatraiva vidhīyate // ParS_12.25 [= BI 12.24]
+
+putrajanmani yajñe ca tathā cātyayakarmaṇi /
+rāhoś ca darśane dānaṃ praśastaṃ nānyadā niśi // ParS_12.26 [= BI 12.25]
+
+mahāniśā tu vijñeyā madhyasthaṃ praharadvayam /
+pradoṣapaścimau yāmau dinavat snānam ācaret // ParS_12.27 [= BI 12.26]
+
+caityavṛkṣaś citir yūpaś caṇḍālaḥ somavikrayī /
+etāṃs tu brāhmaṇaḥ spṛṣṭvā savāsā jalam āviśet // ParS_12.28 [= BI 12.27]
+
+asthisaṃcayanāt pūrvaṃ ruditvā snānam ācaret /
+antardaśāhe viprasya hy ūrdhvam ācamanaṃ bhavet // ParS_12.29 [= BI 12.28]
+
+sarvaṃ gaṅgāsamaṃ toyaṃ rāhugraste divākare /
+somagrahe tathaivoktaṃ snānadānādikarmasu // ParS_12.30 [= BI 12.29]
+
+kuśaiḥ pūtaṃ tu yat snānaṃ kuśenopaspṛśed dvijaḥ /
+kuśena coddhṛtaṃ toyaṃ somapānasamaṃ bhavet // ParS_12.31 [= BI 12.30]
+
+agnikāryāt paribhraṣṭāḥ saṃdhyopāsanavarjitāḥ /
+vedaṃ caaivānadhīyānāḥ sarve te vṛṣalāḥ smṛtāḥ // ParS_12.32 [= BI 12.31]
+
+tasmād vṛṣalabhītena brāhmaṇena viśeṣataḥ /
+adhyetavyo 'py ekadeśo yadi sarvaṃ na śakyate // ParS_12.33 [= BI 12.32]
+
+śūdrānnarasapuṣṭasyāpy adhīyānasya nityaśaḥ /
+japato juhvato vāpi gatir ūrdhvā na vidyate // ParS_12.34 [= BI 12.33]
+
+śūdrānnaṃ śūdrasaṃparkaḥ śūdreṇa tu sahāsanam /
+śūdrāj jñānāgamaś caiva jvalantam api pātayet // ParS_12.35 [= BI 12.34]
+
+yaḥ śūdryā pācayen nityaṃ śūdrī ca gṛhamedhinī /
+varjitaḥ pitṛdevebhyo rauravaṃ yāti sa dvijaḥ // ParS_12.36 [= BI 12.35]
+
+mṛtasūtakapuṣṭāṅgo dvijaḥ śūdrānnabhojanaḥ /
+ahaṃ tan na vijānāmi kāṃ kāṃ yoniṃ gamiṣyati // ParS_12.37 [= BI 12.36]
+
+gṛdhro dvādaśajanmāni daśajanmāni sūkaraḥ /
+śvayonau saptajanmā syād ity evaṃ manur abravīt // ParS_12.38 [= BI 12.37]
+
+dakṣiṇārtham tu yo vipraḥ śūdrasya juhuyād dhaviḥ /
+brāhmaṇas tu bhavec chūdraḥ śūdras tu brāhmaṇo bhavet // ParS_12.39 [= BI 12.38]
+
+maunavrataṃ samāśritya āsīno na vaded dvijaḥ /
+bhuñjāno hi vaded yas tu tad annaṃ parivarjayet // ParS_12.40 [= BI 12.39]
+
+ardhe bhukte tu yo vipras tasmin pātre jalaṃ pibet /
+hataṃ daivaṃ ca pitryaṃ ca ātmānaṃ copaghātayet // ParS_12.41 [= BI 12.40]
+
+bhuñjāneṣu tu vipreṣu yo 'gre pātraṃ vimuñcati /
+sa mūḍhaḥ sa ca pāpiṣṭho brahmaghnaḥ sa khalūcyate // ParS_12.42 [= BI 12.41]
+
+bhājaneṣu ca tiṣṭhatsu svastikurvanti ye dvijāḥ /
+na devās tṛptim āyānti nirāśāḥ pitaras tathā // ParS_12.43 [= BI 12.42]
+
+asnātvā naiva bhuñjītā ajaptvāgnim ahūya ca /
+parṇapṛṣṭhe na bhuñjīta rātrau dīpaṃ vinā tathā // ParS_12.44 [= BI 12.43]
+
+gṛhasthas tu dayāyukto dharmam evānucintayet /
+poṣyavargārthasiddhyarthaṃ nyāyavartī subuddhimān // ParS_12.45 [= BI 12.44]
+
+nyāyopārjitavittena kartavyaṃ hy ātmarakṣaṇam /
+anyāyena tu yo jīvet sarvakarmabahiṣkṛtaḥ // ParS_12.46 [= BI 12.45]
+
+agnicit kapilā satrī rājā bhikṣur mahodadhiḥ /
+dṛṣṭamātrāḥ punanty ete tasmāt paśyet tu nityaśaḥ // ParS_12.47 [= BI 12.46]
+
+araṇiṃ kṛṣṇamārjāraṃ candanaṃ sumaṇiṃ ghṛtam /
+tilān kṛṣṇājinaṃ chāgaṃ gṛhe caitāni rakṣayet // ParS_12.48 [= BI 12.47]
+
+gavāṃ śataṃ saikavṛṣaṃ yatra tiṣṭhaty ayantritam /
+tat kṣetraṃ daśagaṇitaṃ gocarmaparikīrtitam // ParS_12.49 [= BI 12.48]
+
+brahmahatyādibhir martyo manovākkāyakarmajaiḥ /
+etad gocarmadānena mucyate sarvakilbiṣaiḥ // ParS_12.50 [= BI 12.49]
+
+kuṭumbine daridrāya śrotriyāya viśeṣataḥ /
+yad dānaṃ dīyate tasmai tad dānaṃ śubhakārakam // ParS_12.51 [= BI 12.50]
+
+vāpīkūpataḍāgādyair vājapeyaśatair mukhaiḥ /
+gavāṃ koṭipradānena bhūmihartā na śudhyati // ParS_12.52 [= BI 12.51]
+
+aṣṭādaśadinād arvāk snānam eva rajasvalā /
+ata ūrdhvaṃ trirātraṃ syād uśanā munir abravīt // ParS_12.53 [= BI 12.52]
+
+yugaṃ yugadvayaṃ caiva triyugaṃ ca caturyugam /
+cāṇḍālasūtikodakyāpatitānām adhaḥ kramāt // ParS_12.54 [= BI 12.53]
+
+tataḥ saṃnidhimātreṇa sacailaṃ snānam ācaret /
+snātvāvalokayet sūryam ajñānāt spṛśate yadi // ParS_12.55 [= BI 12.54]
+
+vidyamāneṣu hasteṣu brāhmaṇo jñānadurbalaḥ /
+toyaṃ pibati vaktreṇa śvayonau jāyate dhruvam // ParS_12.56 [= BI 12.55]
+
+yas tu kruddhaḥ pumān brūyāj jāyāyās tu agamyatām /
+punar icchati ced enāṃ vipramadhye tu śrāvayet // ParS_12.57 [= BI 12.56]
+
+śrāntaḥ kruddhas tamo'ndho vā kṣutpipāsābhayārditaḥ /
+dānaṃ puṇyam akṛtvā tu prāyaścittaṃ dinatrayam // ParS_12.58 [= BI 12.57]
+
+upaspṛśet triṣavaṇaṃ mahānadyupasaṃgame /
+cīrṇānte caiva gāṃ dadyād brāhmaṇān bhojayed daśa // ParS_12.59 [= BI 12.58]
+
+durācārasya viprasya niṣiddhācaraṇasya ca /
+annaṃ bhuktvā dvijaḥ kuryād dinam ekam abhojanam // ParS_12.60 [= BI 12.59]
+
+sadācārasya viprasya tathā vedāntavedinaḥ /
+bhuktvānnaṃ mucyate pāpād ahorātrāntarān naraḥ // ParS_12.61 [= BI 12.60]
+
+ūrdhvocchiṣṭam adhocchiṣṭam antarikṣam ṛtau tathā /
+kṛcchratrayaṃ prakurvīta aśaucamaraṇe tathā // ParS_12.62 [= BI 12.61]
+
+kṛcchraṃ devy ayutaṃ caiva prāṇāyāmaśatadvayam /
+puṇyatīrthe 'nārdraśiraḥ snānaṃ dvādaśasaṃkhyayā // ParS_12.63 [= BI 12.62]
+
+dviyojane tīrthayātrā kṛcchram ekaṃ prakalpitam /
+gṛhasthaḥ kāmataḥ kuryād retasaḥ skhalanaṃ bhuvi // ParS_12.64 [= BI 12.63]
+
+sahasraṃ tu japed devyāḥ prāṇāyāmais tribhiḥ saha /
+caturvidyopapannas tu vidhivad brahmaghātake // ParS_12.65 [= BI 12.64]
+
+samudrasetugamanaṃ prāyaścittaṃ vinirdiśet /
+setubandhapathe bhikṣāṃ cāturvarṇyāt samācaret // ParS_12.66 [= BI 12.65]
+
+varjayitvā vikarmasthāṃś chatropānadvivarjitaḥ /
+ahaṃ duṣkṛtakarmā vai mahāpātakakārakaḥ // ParS_12.67 [= BI 12.66]
+
+gṛhadvāreṣu tiṣṭhāmi bhikṣārthī brahmaghātakaḥ /
+gokuleṣu vasec caiva grāmeṣu nagareṣu vā // ParS_12.68 [= BI 12.67]
+
+tapo vaneṣu tīrtheṣu nadīprasravaṇeṣu vā /
+eteṣu khyāpayann enaḥ puṇyaṃ gatvā tu sāgaram // ParS_12.69 [= BI 12.68]
+
+daśayojanavistīrṇaṃ śatayojanam āyatam /
+rāmacandrasamādiṣṭanalasaṃcayasaṃcitam // ParS_12.70 [= BI 12.69]
+
+setuṃ dṛṣṭvā samudrasya brahmahatyāṃ vyapohati /
+setuṃ dṛṣṭvā viśuddhātmā tv avagāheta sāgaram // ParS_12.71 [= BI 12.70]
+
+yajeta vāśvamedhena rājā tu pṛthivīpatiḥ /
+punaḥ pratyāgate veśma vāsārtham upasarpati // ParS_12.72 [= BI 12.71]
+
+saputraḥ saha bhṛtyaiś ca kuryād brāhmaṇabhojanam /
+gāś caivaikaśataṃ dadyāc caturvidhyeṣu dakṣiṇām // ParS_12.73 [= BI 12.72]
+
+brāhmaṇānāṃ prasādena brahmahā tu vimucyate /
+savanasthāṃ striyaṃ hatvā brahmahatyāvrataṃ caret // ParS_12.74 [= BI 12.73]
+
+madyapaś ca dvijaḥ kuryān nadīṃ gatvā samudragām /
+cāndrāyaṇe tataś cīrṇe kuryād brāhmaṇabhojanam // ParS_12.75 [= BI 12.74]
+
+anaḍutsahitāṃ gāṃ ca dadyād vipreṣu dakṣiṇām /
+surāpānaṃ sakṛt kṛtvā agnivarṇaṃ surāṃ pibet // ParS_12.76 [= BI 12.75]
+
+sa pāvayed athātmānam ihaloke paratra ca /
+apahṛtya suvarṇaṃ tu brāhmaṇasya tataḥ svayam // ParS_12.77 [= BI 12.76]
+
+gacchen musalam ādāya rājābhyāśaṃ vadhāya tu /
+tataḥ śuddhim avāpnoti rājñāsau mukta eva ca // ParS_12.78 [= BI 12.77]
+
+kāmatas tu kṛtaṃ yat syān nānyathā vadham arhati /
+āsanāc chayanād yānāt saṃbhāṣāt saha bhojanāt // ParS_12.79 [= BI 12.78]
+
+saṃkrāmanti hi pāpāni tailabindur ivāmbhasi /
+cāndrāyaṇaṃ yāvakaṃ tu tulāpuruṣa eva ca // ParS_12.80 [= BI 12.79]
+
+gavāṃ caivānugamanaṃ sarvapāpapraṇāśanam /
+etat pārāśaraṃ śāstraṃ ślokānāṃ śatapañcakaṃ /
+dvinavatyā samāyuktaṃ dharmaśāstrasya saṃgrahaḥ // ParS_12.81 [= BI 12.80]
+
+yathādhyayanakarmāṇi dharmaśāstram idaṃ tathā /
+adhyetavyaṃ prayatnena niyataṃ svargagāminā // ParS_12.82 [= BI 12.81]

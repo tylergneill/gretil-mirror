@@ -1,0 +1,88 @@
+Candrasūtra
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_candrasUtra.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Klaus Wille
+## Contribution: Klaus Wille
+## Date of this version: 2020-07-31
+
+## Source: 
+   - K. Wille: "Neue Fragmente des Candrasūtra". In: Bauddhasāhityastabakāvalī, Essays and Studies on Buddhist Sanskrit Literature dedicated to Claus Vogel by Colleagues, Students, and Friends, ed. D. Dimitrov, M. Hahn, and R. Steiner. Marburg 2008 (Indica et Tibetica, 36), pp. 339-351.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Candrasūtra = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from candras_tu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Candrasutra
+Based on the ed. by K. Wille: "Neue Fragmente des Candrasūtra".
+In: Bauddhasāhityastabakāvalī, Essays and Studies on Buddhist Sanskrit Literature dedicated to Claus Vogel by Colleagues, Students, and Friends, ed. D. Dimitrov, M. Hahn, and R. Steiner. Marburg 2008 (Indica et Tibetica, 36), pp. 339-351.
+Input by Klaus Wille
+[GRETIL-Version: 2018-05-25]
+MARKUP
+restored passagesremarks' = avagraha, not written in the MS
+* = virāma
++ = lost akṣara
+.. = illegible akṣara
+. = single element thereof
+(...) = restored akṣara
+[...] = damaged akṣara
+⟨...⟩ = omitted akṣara or corrected vocal quantity (.⟨ā⟩ corrected from .a)
+⟨⟨...⟩⟩ = interlinear correction or insertion
+/// = leaf broken off here
+/ = single daṇḍa
+// = double daṇḍa
+· = interpunct
+Metrics:
+ ^ = short syllable
+ - = long syllable
+ x = short/long
+ xx = short-short/long
+TRANSLITERATION
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+candrasūtra
+
+1. evaṃ mayā śrutam ekasamayaṃ bhagavāñ śrāvastyāṃ viharati jetavana anāthapiṇḍadārāme / 2. tena khalu samayena rāhuṇā asurendreṇa sarvaṃ candramaṇḍalam āvṛtam* / 3. atha yā devatā tasmiṃś candramaṇḍala adhyuṣitā sā bhītā trastā saṃvignā āhṛṣṭaromakūpā yena bhagavāṃs tenopajagāma / upetya bhagavatpādau śirasā vanditvaikāṃte 'sthād ekāntasthitā sā devatā tasyāṃ velāyāṃ gāthā babhāṣe //
+
+ed. bhitā but ms reads bhītā 4. buddhavīra namas te 'stu vipramuktāya sarvataḥ saṃbādhapratipannāsmi tasya me śaraṇaṃ bhava : ed. buddha vīra
+
+5.
+arhantaṃ sugataṃ loke candramāḥ śaraṇaṃ gataḥ
+rāhoś candramasaṃ muñca buddhā lokānukampakāḥ //
+
+6. bhagavān āha //
+
+tamonudaṃ taṃ nabhasi prabhākaraṃ virocanaṃ śuklaviśuddhavarcasam* rāho śaśāṅkaṃ grasa māntarīkṣe prajāpradīpaṃ drutam utsṛjainam* //
+
+7. atha rāhuṇā asurendreṇa tvaritatvaritaṃ candramaṇḍalam utsṛṣṭam* ⟨/⟩ tataḥ saṃtvaramāṇo 'sau rāhuś candram avāsṛjat* saṃsvinnagātro vyathitaḥ saṃbhrānta āturo yathā //
+
+8. adrākṣīd baḍir vairocano rāhuṇā asurendreṇa tvaritatvaritaṃ candramaṇḍalam utsṛṣṭam* / dṛṣṭvā ca baḍir gāthāṃ babhāṣe //
+
+9. kiṃ nu saṃtvaramāṇas tvaṃ rāhuś candraṃ vimuñcasi · saṃsvinnagātro vyathitaḥ saṃbhrānta āturo yathā //
+cf. pelliot sanskrit bleu 449 ac: /// ro yathā //
+10. rāhur avocat* //
+
+saptadhā me sphalen mūrdhā jīvan na sukham āpnuyāṃ tatra buddhābhigītena muñceyaṃ śaśinaṃ na cet* cf. pelliot sanskrit bleu 449 ac: rāhu prāha // saptadhā me sphal[e] mūrdhā 11. baḍir vairocano 'vocat* / x x x x x - - - x x x x madarśināṃ teṣāṃ gāthābhigītena rāhuś candraṃ vimuñcati // cf. pelliot sanskrit bleu 449 ad: + + + + + .. .. .. .. .. .. .. (bh)i(g)itena muñce 12. candrasūtraṃ samāptam* // 

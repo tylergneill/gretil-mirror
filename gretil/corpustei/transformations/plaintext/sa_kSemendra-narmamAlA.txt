@@ -1,0 +1,1340 @@
+Kṣemendra: Narmamālā
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kSemendra-narmamAlA.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Martin Straube
+## Contribution: Martin Straube
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Fabrizia Baldissera: The Narmamālā of Kṣemendra. Critical Edition, Study and Translation. [Beträge zur Südasienforschung. Südasien-Institut Universität Heidelberg 197]. Würzburg: Ergon, 2005.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Narmamālā = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from ksnarm_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Ksemendra: Narmamala
+Based on the ed. by Fabrizia Baldissera: The Narmamālā of Kṣemendra. Critical Edition, Study and Translation.
+[Beträge zur Südasienforschung. Südasien-Institut Universität Heidelberg 197]. Würzburg: Ergon, 2005.
+Input by Martin Straube
+[GRETIL-Version: 2018-09-12]
+METRICS:
+^ = short
+- = long
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+kṣemendra: narmamālā
+
+prathamaḥ parihāsaḥ
+
+yenedaṃ svecchayā sarvaṃ māyayā mohitaṃ jagat /
+sa jayatyajitaḥ śrīmān kāyasthaḥ parameśvaraḥ // knarm_1.1 //
+
+asti svastimatāmagryaṃ maṇḍitaṃ budhamaṇḍalaiḥ /
+khaṇḍitākhaṇḍalāvāsadarpaṃ kaśmīramaṇḍalam // knarm_1.2 //
+
+yasmin prājyabhujastambhastambhitāhitavikramaḥ /
+trivikrama iva śrīmānananto balijinnṛpaḥ // knarm_1.3 //
+
+tena prajopasargeṣu vāriteṣu vivekinā /
+durniyogiṣu .. .. .. nīteṣu smṛtiśeṣatām // knarm_1.4 //
+
+vidagdhacūḍāmaṇinā kenacitkeliśālinā /
+vidvadgoṣṭhīgariṣṭhena kaścitsahṛdayo janaḥ // knarm_1.5 //
+
+hāsāyātītakāyasthacaritaṃ kartumīritaḥ /
+karoti tatprasaṅgena durācāraviḍambanām // knarm_1.6 //
+
+kṛtaviśvaprapañcāya namo māyāvidhāyine /
+utpattisthitisaṃhārakāriṇe purahāriṇe // knarm_1.7 //
+
+vyāpine janmahīnāya nirguṇāya kalābhṛte /
+sarvādhikāriṇe sarvakālakūṭāśanāya te // knarm_1.8 //
+
+purā hateṣu daityeṣu viṣṇunā prabhaviṣṇunā /
+duḥkhito dīrghavairāgyastadgehagaṇanāpatiḥ // knarm_1.9 //
+
+gatvā vaitaraṇītīraṃ tapo vārṣasahasrakam /
+svamūtraculakāhāraḥ suravairāccakāra saḥ // knarm_1.10 //
+
+tuṣṭastametya varadaḥ kaliḥ sākṣādabhāṣata /
+sarvadevavināśāya gaccha vatsa mahītalam // knarm_1.11 //
+
+anena kalamāstreṇa maddattena prahāriṇā /
+vicchinnadīpakusumāndhūpahīnānnirambarān // knarm_1.12 //
+
+bhraṣṭālayāndhūliliptānhāhābhūtānśvabhirvṛtān /
+kariṣyasi surānsarvānbhaktapānīyakāṅkṣiṇaḥ // knarm_1.13 //
+
+jagati brāhmaṇānāṃ ca vṛtticchede tvayā kṛte /
+yajñacchedādvinaṅkṣyanti divi devā na saṃśayaḥ // knarm_1.14 //
+
+daityakṣaye kṛte yasmādbhavatā divi roditam /
+tasmāttvaṃ diviro nāma bhuvi khyāto bhaviṣyasi // knarm_1.15 //
+
+maṣī sakalamā yasya kālī kavalitākhilā /
+sadā sakalamāyasya tasya sarvārthasiddhidā // knarm_1.16 //
+
+tvadvaṃśe 'tra bhaviṣyanti daityā divirarūpiṇaḥ /
+yairiyaṃ labdhavibhavaiḥ pṛthivī na bhaviṣyati // knarm_1.17 //
+
+ityuktvāntarhite tasminkalau kalmaṣamānasaḥ /
+yāti kāle suvipule mahīmavatatāra saḥ // knarm_1.18 //
+
+saunikena prajāto 'tha bhūtale marmaghātinā /
+sa *kuddālikabhāryāyāṃ jagadunmūlanavrataḥ // knarm_1.19 //
+
+tīkṣṇaistadanvaye jātaiḥ sarvavṛttivilopibhiḥ /
+rūkṣairna kasyacinmitraiḥ pāpaiḥ sarvāpahāribhiḥ // knarm_1.20 //
+
+kalpāntairiva sarvatra grastasthāvarajaṅgamaiḥ /
+maṣīviliptasarvāṅgaiḥ kālenāliṅgitairiva // knarm_1.21 //
+
+adhogatairmṛdutaraiḥ stabdhairabhyudgataiḥ kṣaṇāt /
+purīṣairiva kāyasthaiḥ kāyasthairdoṣakāribhiḥ // knarm_1.22 //
+
+sevākāle bahumukhairlubdhakairbahubāhubhiḥ /
+vañcane bahumāyaiśca bahurūpaiḥ surāribhiḥ // knarm_1.23 //
+
+vyāptāsu nagaragrāmapurapattanabhūmiṣu /
+tasminkāle maṣīliptakalamena khamullikhan // knarm_1.24 //
+
+nanarta kartarīhasto bhūrjaprāvaraṇaḥ kaliḥ /
+bhastrākakṣyābhidhāno 'yaṃ sarvabhakṣo mahāsuraḥ /
+jāto jagatkṣayāyeti piśācanicayā jaguḥ // knarm_1.25 //
+
+devāpahāriṇā tena goghāsalavaṇacchidā /
+bhujyate pīyate bhūri divireṇa divāniśam // knarm_1.26 //
+
+bhaktyā bhagavato viṣṇostrailokyākramaṇe purā /
+dharmaḥ prayāto dravatāṃ maṣīrūpeṇa tiṣṭhati // knarm_1.27 //
+
+devanāgamanuṣyāṇāṃ nityanaimittikacchidaḥ /
+tasya kāyasthanāthasya trailokyākramaṇe punaḥ // knarm_1.28 //
+
+kaliḥ prayāto dravatāṃ maṣīrūpeṇa tiṣṭhati /
+yathā svargapradā gaṅgā tathaiṣā narakapradā // knarm_1.29 //
+
+vyathitaḥ prathitairgrāmairnigaḍairlaguḍaistathā /
+bhayādvairāgyamāpannaḥ sa babhūva mahāvratī // knarm_1.30 //
+
+bhagnavyatho 'tha santyajya vrataṃ prāyāddigantaram /
+kālena vismṛto 'bhyetya bhūrjajño 'līkaniḥspṛhaḥ // knarm_1.31 //
+
+kramādgrāmaniyogena nagare gaṇanāpateḥ /
+dambhasambhāvitaḥ prāpa gṛhakṛtyaṃ vidhervaśāt // knarm_1.32 //
+
+tasyānujīvibhiḥ krūrairanuvartanajīvibhiḥ /
+vasuhīnā vasumatī kṛtā prakaṭataskaraiḥ // knarm_1.33 //
+
+dambhadhvajo niṣprapañco lubdhakaḥ kalamākaraḥ /
+sūcīmukho bhūrjagupto mahīmaṇḍaśca duḥsahāḥ // knarm_1.34 //
+
+daityāvatārāḥ saptaite tanmāhātmyānniyoginaḥ /
+luṇṭhyā vadhyāśca pūjyā ye sarva ityavadanmadāt // knarm_1.35 //
+
+upatāpo vajrapātaḥ parigho dvārabhañjakaḥ /
+dhūmaketuḥ kapimukhaḥ kukṣibhedo gṛholmukaḥ // knarm_1.36 //
+
+aṣṭau piśācāstasyaite bhaṭamukhyāḥ puraḥsarāḥ /
+martyalokavināśāya babhramuryaṣṭipāṇayaḥ // knarm_1.37 //
+
+sa vṛtaḥ sevakaśataiḥ sadā dambhaharārcane /
+stotraṃ paṭhati hāheti kurvansāsruvilocanaḥ // knarm_1.38 //
+
+sugirā cittahāriṇyā paśyantyā dṛśyamānayā /
+hyaḥ kiyanto mayā dattāḥ prāyasthā vijayeśvare // knarm_1.39 //
+
+jayatyullāsitānantamahimā parameśvaraḥ /
+ādau sthitānāmupari prayāntvete trisaptatiḥ // knarm_1.40 //
+
+yaḥ sphītaḥ śrīdayābodhaparamānandasampadā /
+prāyasthāne mṛtā bhaṭṭāḥ kṛṣyantāṃ gulphadāmabhiḥ // knarm_1.41 //
+
+vidyoddyotitamāhātmyaḥ sa jayatyaparājitaḥ /
+nirdhāmadhūmakartāro grāmānyāntu niyoginaḥ // knarm_1.42 //
+
+sarvānandasvarūpāya sarvamaṅgalyahetave /
+sarvasvaharaṇaṃ kṛtvā vadhyā daṇḍaniṣedhinaḥ // knarm_1.43 //
+
+sarvakleśāpahartre ca cidrūpabrahmaṇe namaḥ /
+pīḍitāḥ prasravantyeva prajā guggulubījavat // knarm_1.44 //
+
+ityādistotramukharo ghaṇṭābadhiritākhilaḥ /
+samādiśyāviśaccāśu niyoginibiḍāṃ sabhām // knarm_1.45 //
+
+marīcaḥ prathitasthānamāsthito janaduṣkṛtaiḥ /
+dadarśa dūrādāyāntaṃ kāryadūtaṃ niyoginam // knarm_1.46 //
+
+padāla[gnā]śivaṃ devagṛhoccāṭanacākrikam /
+susūkṣmadalavinyāsavibhāgonnataṭuppikam // knarm_1.47 //
+
+atasīkusumacchāyaṃ mṛdusparśāṅgarakṣikam /
+jātyakastūrikāmodasthūlatūlapaṭīvṛtam // knarm_1.48 //
+
+hastāṅgulīnyastahaimatriguṇāvartavālikam /
+dūrādhvaklamasocchvāsātkurvāṇaṃ vikṛtīrmukhe // knarm_1.49 //
+
+dṛṣṭvā piśunamāyāntaṃ taṃ bhāgavatamantike /
+utthāya harṣādālambya pāṇau pārśve nyaveśayat // knarm_1.50 //
+
+iti gṛhakṛtyādhipatiḥ /
+
+piśunebhyo namastebhyo yatprasādānniyoginaḥ /
+dūrasthā api jāyante sahasraśrotracakṣuṣaḥ // knarm_1.51 //
+
+so 'bravīttvāmahaṃ śrutvā sthitaṃ śaktimatāṃ dhuri /
+prāpto devagṛhādeṣa rāśimārgapradarśakaḥ // knarm_1.52 //
+
+vastrālaṅkāraratnādi yatkiṃciddevaveśmasu /
+vidyamānamaśeṣaṃ tatkariṣye prakaṭaṃ tava // knarm_1.53 //
+
+vijayeśvaravārāhamārtaṇḍādiṣu vidyate /
+tvadbhāgyopacayādrāśirapoṣyaparipūrakaḥ // knarm_1.54 //
+
+abhīrurapavādeṣu niḥśaṅkaḥ pātakeṣu ca /
+tatra tīkṣṇo bhṛśaṃ śaśvatkriyatāṃ paripālakaḥ // knarm_1.55 //
+
+sa cāsti bhuvi vikhyātaḥ kāyastho bhavatā samaḥ /
+vinā dhanaṃ vināyāsaṃ sarvasvaharaṇaṃ vinā // knarm_1.56 //
+
+brahmahatyā na gaṇyante govadheṣu kathaiva kā /
+prabhubhaktikṛtā yena mūlādunmūlyate janaḥ // knarm_1.57 //
+
+anye 'pi santi sarvatra tadvidhastu na labhyate /
+nītaḥ svajanako yena nidhanaṃ bandhane dhanī // knarm_1.58 //
+
+yadi nāma bhavatpuṇyaiḥ sa sameṣyati madgirā /
+tatsvagehaṃ nidhānānāṃ viddhi svacchandamandiram // knarm_1.59 //
+
+iti bruvāṇamasakṛtkarṇe vihitasaṃvidam /
+mahattamastamavadattūrṇamānīyatāmiti // knarm_1.60 //
+
+tataḥ sa satvaraṃ dvitrairādarāya gatāgataiḥ /
+tamānināya niścitya pāpinaṃ paripālakam // knarm_1.61 //
+
+iti cākrikaḥ puṃścalako vā /
+
+kāṣṭhastabdhonnatagrīvaḥ saniḥspandordhvalocanaḥ /
+kāmalāharitacchāyaśiraḥśāṭakakañcukaḥ // knarm_1.62 //
+
+lambamānena mahatāmedhyakroḍānukāriṇā /
+*udareṇa dareṇeva vyāptaḥ piśitaveśmanā // knarm_1.63 //
+
+tīvradarpo mahākopaḥ prāṇahṛnniṣpratikriyaḥ /
+sopadravaḥ sopatāpaḥ sannipāta iva jvaraḥ // knarm_1.64 //
+
+sa mahāntaṃ samāsādya duḥsahaṃ daṃśanaṃ viṭam /
+līlayaiva vaśīkṛtya lebhe devagṛhānbahūn // knarm_1.65 //
+
+tato mūrtairivāyāsaiḥ sahasaiva puraḥsaraiḥ /
+argha velāṃ yayau kartumasaṅkhyaiḥ parivāritaḥ // knarm_1.66 //
+
+kācaro 'yaṃ hiraṇyākṣaḥ pūrvavairamanusmaran /
+devānavāptaḥ saṃhartumiti taṃ bubudhe janaḥ // knarm_1.67 //
+
+bhayātpalāyya yāteṣu dhanikeṣu surālayāt /
+tamayuḥ punarakṣīṇā devāgāranivāsinaḥ // knarm_1.68 //
+
+bhaṭairargalitadvārakavāṭasphoṭanākulaiḥ /
+prārabdhe gṛhabhāṇḍādiviluṇṭhanamahotsave // knarm_1.69 //
+
+sahasā hṛtavastrāṇāṃ gṛhiṇīnāṃ samāyayau /
+santrastabālakānāṃ ca karuṇo rodanadhvaniḥ // knarm_1.70 //
+
+iti paripālakaḥ /
+
+athāyayau cirāvāptabahuharṣaskhaladgatiḥ /
+kṛśaḥ śanaiścarākāro dhūsaraḥ kṣutkṣatodaraḥ // knarm_1.71 //
+
+bahucchidraśiraḥśāṭalaḍatparyantatūstakaḥ /
+śatacakralikāsyūtamalaliptāṅgarakṣakaḥ // knarm_1.72 //
+
+śīrṇajīrṇapaṭīguptakakṣyāniyamitāñcalaḥ /
+yācitānītasaṃśuṣkapāda[tra]vyathitaḥ khalaḥ // knarm_1.73 //
+
+lekhādhikārī niḥsvo 'pi lekhasaṃskāragarvitaḥ /
+paripālakanirdiṣṭo vāyubhakṣa ivoragaḥ // knarm_1.74 //
+
+tadgehinī śīrṇavastrakha[ṇḍā]vṛtakaṭītaṭā /
+kajjalāliptanāsāgrā laḍanmṛtkarṇabhūṣaṇā // knarm_1.75 //
+
+kṣudhitāpatyakupitā śūrpārdhāvṛtamastakā /
+samutthāya saśūtkāraṃ kaṣantī bahuśaḥ sphijau // knarm_1.76 //
+
+patyau cirātprāptapade hṛṣṭādāya yatastataḥ /
+..kṣepāpūpadhūpādyairgaṇādhipamapūjayat // knarm_1.77 //
+
+so 'pyanekārthasandeśānākarṇyāvahitaḥ prabhoḥ /
+dāpyaprasāritakaro lekhānaskhalito 'likhat // knarm_1.78 //
+
+dhāvatkalamacītkāratāraḥ kapirivāhataḥ /
+dīnārāngaṇayannāśu dadau lekhaśatadvayam // knarm_1.79 //
+
+paripālakapādānāṃ yatkiṃcidupayujyate /
+darvī bṛsī paṭalikā kuṇḍabhāṇḍakaraṇḍikā // knarm_1.80 //
+
+ityādilekhadānena prasiddhiṃ paramāṃ gataḥ /
+so 'cireṇābhavatpuṣṭaḥ pūrṇapāṇirmadoddhataḥ // knarm_1.81 //
+
+lekhapattrāṇi vigalallocanaḥ parivācayan /
+cakāra vikṛtīstāstā nānābhrūnetrakuñcanaiḥ // knarm_1.82 //
+
+iti lekhakopādhyāyaḥ /
+
+tato gṛhītamadhyasthacchattrabhaṅgavyavasthayā (?) /
+āyayau gañjadiviro bhaṭṭabhāgavatārthitaḥ // knarm_1.83 //
+
+sa prāyasthakhalīkārānmānī santyaktakarpaṭaḥ /
+śiraḥśāṭakavinyāsaśvitritārdhalalāṭabhūḥ // knarm_1.84 //
+
+sarvadevagṛhagrāmarāśisaṃhāratatparaḥ /
+rajjuśeṣīkṛtāśeṣanirjara..ripālakaḥ // knarm_1.85 //
+
+sa prāpya pradadau dīrghāṃ śaratṣaṇmāsakalpanām /
+yasyā madhye 'sti likhitaṃ sārdhaṃ lakṣacatuṣṭayam // knarm_1.86 //
+
+svārthopāyaṃ tataḥ pṛṣṭastena svīkārasaṃvidā /
+uvāca bhāgasantoṣātkiṃcitsadbhāvamāsthitaḥ // knarm_1.87 //
+
+asmindevagṛhe te te prasiddhāḥ paripālakāḥ /
+vikrītanijasarvasvāḥ prayātā madvirodhinaḥ // knarm_1.88 //
+
+bhavato 'dya tu kartavyā snehādupakṛtirmayā /
+kulācāryaḥ sa bhagavāneko hi gururāvayoḥ // knarm_1.89 //
+
+svīkṛtairiha dānena pañcaṣaiścākrikāśivaiḥ /
+bhujyate nikhilaṃ devadravyaṃ bhuktiśca pārṣadī // knarm_1.90 //
+
+vikrītaśeṣaṃ yatkiñcidvidyate suramaṇḍale /
+tanmatenaiva tatsarvaṃ bhujyate nijavattvayā // knarm_1.91 //
+
+tathā hi tāmrajaḥ pūrvaṃ mahān nīto ghaṭo mayā /
+bhaktitastacchatāṃśena kṛtā ghaṇṭā surālaye // knarm_1.92 //
+
+kālena ghaṇṭāṃ vikrīya tadaṃśena kṛtā ghaṭī /
+krameṇa bhakṣitā sāpi kṛtā śeṣeṇa ghaṇṭikā // knarm_1.93 //
+
+ciraṃ sañcūrṇitā sāpi kṛtā sūkṣmajhilīmalī /
+iti kṛtvā tataḥ stokaghaṇṭāṃśaḥ paripālitaḥ // knarm_1.94 //
+
+evaṃ caturbhujā luṇṭhiḥ kriyate śivapūjayā /
+santi dhānyasahasrāṇi kriyatāṃ bhavatātra tu /
+krayavikrayikā nāma tato vijñapyase mayā // knarm_1.95 //
+
+ityupāyaśataistaistaistaduktaiḥ paripālakaḥ /
+*jaraṭhākhurivākṣoṭaṃ śūnyaṃ cakre surālayam // knarm_1.96 //
+
+iti gañjadiviraḥ /
+
+athānyarāśipravaṇaḥ pravīṇaḥ sādhuluṇṭhane /
+āpatpraśamanaṃ prāpa grāmaṃ tasmānniyogavit // knarm_1.97 //
+
+tasyāvaskarasaṃchannamahārauravasodare /
+khaṇḍasphuṭitanāsāgravāridhānīmahādhane // knarm_1.98 //
+
+dāmaprotajaraddvāraskhalatkhaḍakhaḍārave /
+yasya sthitirabhūdgehe kukuṭṭīkoṭarodare // knarm_1.99 //
+
+dagdhakambalikākhaṇḍakṛtamuṇḍāvaguṇṭhanaḥ /
+śvajagdhajīrṇaśīrṇāgropānatkhañjaḥ śanairvrajan // knarm_1.100 //
+
+karpaṭītilamṛddarbhapavitrārghasamudgakaiḥ /
+dārupāttrīṃ vahanpūrṇāṃ bhagnāmākhuvikhaṇḍitām // knarm_1.101 //
+
+snāyī japoccalatkūrcaḥ sadācārapade sthitaḥ /
+dinārdhamapaṭhatstotraṃ gatvā yaḥ suramandiram // knarm_1.102 //
+
+gopradakṣiṇakṛdviprapraṇato dvādaśīvrataḥ /
+dadau dīnajane mārge yatnenaikakapardikām // knarm_1.103 //
+
+tasyaiva daivādāyātakāryasyāśu niyoginaḥ /
+upaskaraṇabhāṇḍādiparipūrṇamabhūdgṛham // knarm_1.104 //
+
+śiśire yasya nāṅgāraṃ pradaduḥ prātiveśminaḥ /
+ayācitaṃ dadustasya vastrālaṅkaraṇepsitam // knarm_1.105 //
+
+tataḥ sudhādhavalitaṃ tasya sammārjitāṅganam /
+bahudāsamabhūdgehaṃ sindūrodaramandiram // knarm_1.106 //
+
+miṣṭabhojanasañjātanavalāvaṇyasacchaviḥ /
+tasyābhūttaruṇī bhāryā di[nai]rapsarasaḥ samā // knarm_1.107 //
+
+tato 'pi vrajato grāmaṃ karaṇḍaśayanādikam /
+niryayau purataśchattraṃ kalaśaṃ tāmrakuṇḍakam // knarm_1.108 //
+
+śaktiḥ patadgraho ghaṇṭā tāmrapātramupānahau /
+karikā bhagavatpādā bhūrjabhastrātha sruksruvau // knarm_1.109 //
+
+akṣasūtraṃ maṣībhāṇḍaṃ darpaṇaḥ snānaśāṭikā /
+sampuṭīṭuppikākhaḍgāḥ pāduke mantrapustikā // knarm_1.110 //
+
+nakṣatrapattrikā khaḍgapatraṃ lohitakambalaḥ /
+pavitrasūtrakaṃ tantrī sūcī kalamakartarī // knarm_1.111 //
+
+vacā jatumayī rakṣā kṣurikā yogapaṭṭakaḥ /
+stotramantrāṇi gaṅgāmṛdbilvamucchiṣṭaphālakam // knarm_1.112 //
+
+ityekīkṛtya tasyāgre bhāṇḍopaskaraṇaṃ yayau /
+itastataḥ samānītamapunardānacetasā // knarm_1.113 //
+
+uccaiḥkṛtalatāpāṇirbhāṭakānītaghoṭakaḥ /
+jhāṅkārapārṣṇiprahatirvadanenāñcatā muhuḥ // knarm_1.114 //
+
+santarjayanniva janaṃ jyo..rtamiva kurvatā /
+śithilasthūlavasanaḥ sa yayau puramutphalan // knarm_1.115 //
+
+praviveśa tato grāmaṃ sudhautasitakarpaṭaḥ /
+kṣayāya grāmyamatsyānāṃ vṛddho baka ivāgataḥ // knarm_1.116 //
+
+atha bhojanacaryādivyapadeśaiḥ sahasraśaḥ /
+tasya yakṣeśvarasyeva nidhānānyāyayuḥ puraḥ // knarm_1.117 //
+
+yogī haraṇacintāsu prayogī bhūrjayojane /
+viyogī nijadārāṇāṃ bhogī narakasampadām // knarm_1.118 //
+
+nopayogī phalotpattau doṣodyogī tu kevalam /
+aśo[kaḥ] satataṃ rogī niyogī jayati prabhuḥ // knarm_1.119 //
+
+vṛkṣārohasahasreṣu prāyaḥklāntaśateṣu ca /
+grāme tasya vipanneṣu narakapratimābhavat // knarm_1.120 //
+
+gavāṃ daṇḍāya yaścakre nidhanāvadhibandhanam /
+kā nāma gaṇanā tasya nṛṣu sarvāparādhiṣu // knarm_1.121 //
+
+sarvasvaharaṇaṃ bandho nigraho gṛhabhañjanam /
+iti tasya mukhādghoraṃ na cacāla vacaḥ sadā // knarm_1.122 //
+
+pañcaṣāḥ satataṃ tasya karabhā iva bhārikāḥ /
+ghṛtamākṣikadīnāramaricārdrakasaindhavam // knarm_1.123 //
+
+mudgakambalamāyūropānanmeṣavihaṅgamam /
+bisadrākṣāmadhughaṭākṣoṭaparyaṅkapīṭhikam // knarm_1.124 //
+
+kāṃsyatāmrāyasānekagṛhopaskaraṇādikam /
+ninyustattadaviśrāntā gṛhaṃ yaccāvadadvacaḥ // knarm_1.125 //
+
+daṇḍatyājanalekhāṃśca sa prāptānsvāmino 'ntikāt /
+sādhikṣepaṃ sathūtkāraṃ cakāra tilaśo nakhaiḥ // knarm_1.126 //
+
+nityaṃ māṃsaghṛtāhāraḥ sa rājapuruṣe sthite /
+bhuṅkte vilavaṇaṃ dambhādeko mudgapaladvayam // knarm_1.127 //
+
+iti mārgapatirvyāpāriko vā /
+
+nirasya mūladiviraṃ cauryāṇāmacikitsakam /
+cakāra vārikaṃ so 'tha cikitsācaturaṃ param // knarm_1.128 //
+
+sa mukto bandhanāttena kṣipraṃ dvādaśavārṣikāt /
+lilekha kūṭakapaṭaṃ prakaṭākṣarakovidaḥ // knarm_1.129 //
+
+kṛttāṅguṣṭhaḥ sa vāmena pāṇinā diviro rahaḥ /
+khala..sya gṛhaṃ gatvā vidadhe bhūrjayojanam // knarm_1.130 //
+
+gṛhītvā madyakalaśaṃ sa jānuyugalāntare /
+muhurmuhuḥ parimitaṃ pibanbahutaraṃ śanaiḥ // knarm_1.131 //
+
+lilekha cīrīcītkāratāraṃ kalamarekhayā /
+antyāṅgulyā sanirghoṣaṃ lālayotpuṃsitākṣaraḥ // knarm_1.132 //
+
+vilumpanvipragodevanityanaimittikavyayam /
+śrīcarmakāraguruṇā rugṇanāthena bhāṣitam // knarm_1.133 //
+
+śivabhaktibharākrandaṃ muhurgāyankharasvaraḥ /
+yūkāḥ piṣannakhāgreṇa muhuruccitya kambalāt // knarm_1.134 //
+
+muhurniḥśvasya niḥśvasya nindansaṃsāraceṣṭitam /
+vyayena sa samīkurvanpraveśaṃ harṣanirbharaḥ // knarm_1.135 //
+
+āviṣṭa iva vetālaścakampe madyaghūrṇitaḥ /
+utsaratpaṭalīmiśrakaṅkāvalayamālitaḥ // knarm_1.136 //
+
+sthūlabhūrjaphaḍatkārasphāravādyarasākulaḥ /
+karparīcchidraniryātavyāvalgivṛṣaṇadvayaḥ // knarm_1.137 //
+
+luṭhatpūrṇamaṣībhāṇḍacchaṭācchuritavigrahaḥ /
+nanarta diviraḥ kṣībo nagno bhagnabṛsīghaṭaḥ // knarm_1.138 //
+
+dhūsaro maladigdhāṅgaḥ sa piśāca ivotthitaḥ /
+janajīvāpahāreṇa nananda madanirbharaḥ // knarm_1.139 //
+
+kakṣākuṭṭanasaṅghaṭṭaṭāṃkārā..jakāriṇaḥ /
+skandhavādyarasaḥ ko 'pi tasyābhūnnirjane ciram // knarm_1.140 //
+
+iti grāmadiviraḥ /
+
+vyāpṛto 'pyaniśaṃ tena divireṇāpahāriṇā /
+vātenevānalaḥ sārdhaṃ jajvāla janakānanam // knarm_1.141 //
+
+acirādatha saṃvṛtte gṛhe tasya mahādhane /
+alaṅkṛtā mālyavatī tāmbūladalanavratā // knarm_1.142 //
+
+gṛhiṇī darpaṇaparā rājamārgāvalokinī /
+babhāra tadvirahitā bhūpālalalanāmadam // knarm_1.143 //
+
+hāro bhārāyate hematāṭaṅkaṃ me na vallabham /
+dhigvaṇigvanitāyogyāṃ gurvīṃ kanakasūtrikām // knarm_1.144 //
+
+ekaivaikāvalī kāntā laliteyaṃ priyā mama /
+iti darpagirā tasyā nābhavat kasya vismayaḥ // knarm_1.145 //
+
+aho bhagavatī kāryasarvasiddhipradā maṣī /
+aho prabalavānko 'pi kalamaḥ kamalāśrayaḥ // knarm_1.146 //
+
+yā papau yācitaṃ cāmaṃ bhagnasyūtāśmabhājane /
+tayaiva pīyate raupyapātre kastūrikāmadhu // knarm_1.147 //
+
+ityadhastāṃ samālokya harmye kāyasthasundarīm /
+tatprātiveśmikasutāḥ kulīnā jaguraṅganāḥ // knarm_1.148 //
+
+[iti] narmamālāyāṃ prathamaḥ parihāsaḥ //
+
+dvitīyaḥ parihāsaḥ
+
+sāpi bālakuraṅgākṣī yauvanena pramāthinā /
+bhidyamāneva darpeṇa na dadarśa vasundharām // knarm_2.1 //
+
+śvaśrūjanaviruddhā sā taruṇaprātiveśmikā /
+parihāsakathāśīlā gītavādyānurāgiṇī // knarm_2.2 //
+
+cārusaurabhaliptāṅgī na sā jagrāha kañcukam /
+darśayantī stanābhogamardhasrastaśiroṃśukā // knarm_2.3 //
+
+jṛmbhamāṇā parāvṛttya sācīkṛtavilocanā /
+janamaikṣata lolākṣī valitatrivalīlatā // knarm_2.4 //
+
+ayatnasādhyāṃ tāṃ vīkṣya viṭā lalitalocanām /
+babhramustadgṛhopānte nirvyāpāragatāgatāḥ // knarm_2.5 //
+
+ciraṃ tadarthinaścitravastra*veṣavibhūṣitāḥ /
+sugandhitailatāmbūladhūpādivyayakāriṇaḥ // knarm_2.6 //
+
+niyogidhanabaddhāśāḥ strīratnaprāptisotsukāḥ /
+sasmitākṣinikocādivikāraśatakāriṇaḥ // knarm_2.7 //
+
+tajjñairapyaparijñātapadāśchidrapratīkṣiṇaḥ /
+daṃśakāmā bhujaṅgāste līlākuṭilagāminaḥ // knarm_2.8 //
+
+śūnyāṃ devakuṭīṃ gatvā prasiddhāḥ pāradārikāḥ /
+dvitrāstatsaṅgamopāyaṃ prātiveśmyā vyacintayan // knarm_2.9 //
+
+eko 'vadattatra viṭaḥ sulabhaiṣā na saṃśayaḥ /
+khalvāṭaṃ tundilaṃ vṛddhaṃ svapatiṃ sahate katham // knarm_2.10 //
+
+nityapravāsinaṃ lubdhamīrṣyāluṃ suratāsaham /
+mattacchāgamadāmodaṃ bahalaṣṭhīvinaṃ śaṭham // knarm_2.11 //
+
+sutoparodhovandhyāyā nāsyā na ca vayaḥkṣayaḥ /
+na ca duḥkhābhibhūtāsau rāgadagdhā na lakṣyate // knarm_2.12 //
+
+etairhi doṣairnāyānti duḥśīlā api yoṣitaḥ /
+aparaḥ prāha bhavatā sābhiprāyaṃ vicintitam /
+pratyāsattyā paricaye kintu yatno vidhīyatām // knarm_2.13 //
+
+vivāhayajñatīrthādidevayātrotsavairvinā /
+na labhyate paricayaḥ paradāropasarpaṇe // knarm_2.14 //
+
+suciraṃ prekṣaṇaṃ lolakuntalottālanaṃ muhuḥ /
+tatsambaddhāḥ sāpadeśāḥ kathāstyāgaprakāśanam // knarm_2.15 //
+
+bhogasaubhāgyayaśasāṃ prasiddhipratipādanam /
+mandamandaṃ vacaḥ svairaṃ tadvākyaśravaṇādaraḥ // knarm_2.16 //
+
+tanmukhanyastanayanaṃ cumbanāliṅganaṃ śiśoḥ /
+śilpasampādanaṃ cāsyā vastrālaṅkara*ṇekṣitam // knarm_2.17 //
+
+jāte paricaye mālyatāmbūlādisamarpaṇam /
+bhittau nipīḍanaṃ gāḍhaṃ vijane paricumbanam // knarm_2.18 //
+
+guhyasparśo ratiśceti śīlavidhvaṃsayuktayaḥ /
+itthaṃ kā nāma na mayā kṛtā śīlaparāṅmukhī // knarm_2.19 //
+
+niyogibhāryā labhyaiva sarvadā gamanonmukhī /
+
+iti pāradārikaḥ /
+
+athāvadattṛtīyo 'pi svādhīnaṃ sarvameva naḥ /
+kintvatra vidhivaimukhyād vighnaḥ samupalakṣyate // knarm_2.20 //
+
+yo 'yaṃ tīkṣṇākṣapaṭale citraguptaviceṣṭitaḥ /
+niḥśeṣajīvanātaṅkavidhāyī nirguṭāntakaḥ // knarm_2.21 //
+
+bhārakocchṛṅkhalāyāsakhaṇḍalekhyādiyuktibhiḥ /
+nirguṭāḥ prāpitā yena gopālapaśupālatām // knarm_2.22 //
+
+na kālo yadi nāmāsau tat kiṃ jīvanahṛnnṛṇām /
+pakṣā .. .. .. .. .. ścettatkimekāṅganāśanaḥ // knarm_2.23 //
+
+kiyanto 'dya mṛtāḥ kutra pṛcchanniti muhurmuhuḥ /
+mṛtajīvī śvatulyo 'sau bhuṅkte kāpālikavratam // knarm_2.24 //
+
+haraṇodyatahasto 'sau sādhūnāmapi vartane /
+sadoṣairdīyate 'smābhirna[ra]kāya tilāñjaliḥ // knarm_2.25 //
+
+yadyapyasau snuṣākāmī kalyapālakulojjvalaḥ /
+tathāpi sarvaḥ sarvajñaḥ paradoṣānudarśane // knarm_2.26 //
+
+athavāstyeva me mitraṃ śaktimānrājavallabhaḥ /
+vāṅmātreṇaiva naḥ sarvaṃ saṃrakṣiṣyati jīvanam // knarm_2.27 //
+
+agāradāhino dhenustrīśiśubrāhmaṇāntakāḥ /
+bahavo rakṣitāstena digvārtāmātrasevakāḥ // knarm_2.28 //
+
+iti jīvanadiviraḥ /
+
+gṛhaṃ niyogikāntāyāḥ praviśatyatinirbharam /
+eṣā śramaṇikā nityaṃ kuṭṭanī vajrayoginī // knarm_2.29 //
+
+yā mātā vaśyayogānāṃ jārāṇāṃ siddhadūtikā /
+naropapattidīkṣāsu strīṇāṃ samayadevatā // knarm_2.30 //
+
+arundhatīmapi kṣipraṃ pratārayati līlayā /
+purāṇapuṃścalī sā hi jāhnavīṃ manyate tṛṇam // knarm_2.31 //
+
+sā samīhitamasmākamacireṇa vidhāsyati /
+ityuktvā te yayurdhūrtā vṛddhaśramaṇikāgṛham // knarm_2.32 //
+
+śramaṇikā /
+kadācidatha tāmeva harmye hariṇalocanām /
+sattrabhojanapūrṇāṅgaḥ punarāyātayauvanaḥ // knarm_2.33 //
+
+nirdagdhacandanasphāratilakaḥ pṛthujūṭabhṛt /
+māyūropānadāmandamandarārāvagarvitaḥ // knarm_2.34 //
+
+kakṣāntasaṃvṛtapaṭo brāhmaṇānapi na spṛśan /
+re re dāsīsutetyādi janaṃ kopena bhartsayan // knarm_2.35 //
+
+malapatraṃ vahanmūrkho dadarśa maṭhadaiśikaḥ /
+sahasā vismayāviṣṭo daṣṭo makaraketunā // knarm_2.36 //
+
+niyogigṛhabālānāmupādhyāyamupetya saḥ /
+āyayau māsamūlyena nityamakṣaraśikṣakaḥ // knarm_2.37 //
+
+labdhapraveśastāmeva dhyāyandhū[rtaḥ] papāṭha saḥ /
+jānannapi lipiṃ sarvāmoṃkāramalikhacchanaiḥ // knarm_2.38 //
+
+kautukādgṛhanārībhirvṛtastasthau tadunmukhaḥ /
+upādhyāyo 'pi dīnāragaṇanāṃ vidadhaddhiyā // knarm_2.39 //
+
+aṣṭāvatārastotreṇa sarvajña iva garvitaḥ /
+daiśikaṃ pāṭhayāmīti so 'bhūdadhikamuddhataḥ // knarm_2.40 //
+
+pāntu no bhagavatpādā jaghanyajanavatsalāḥ /
+paralokasya hantāro gamane kṣemakāriṇaḥ // knarm_2.41 //
+
+bhābhūto kuṅkumārdrau ^ ^ ^ ^ ^ _ rainaisaddṛśau _ _ _ _ ^ _ _ ^ ^ ^ musimusi lakṣaṇau phenaparvau /
+_ _ _ _ ^ _ _ maṇikanakadharau divyagandhānuliptau saṅgrāmeṇa praviṣṭau palupa ^ ^ ^ nau labhyatāṃ rājyalakṣmīḥ // knarm_2.42 //
+
+gaṅgāyamunayorbilvavṛṣabhaṃ *pūrṇakumbhayoḥ /
+pañcacandana lī paṭṭabandhaṃ bhaviṣyati (?) // knarm_2.43 //
+
+ityādi dattvā bālānāṃ nityaṃ phalahakeṣu saḥ /
+varṣaṃ tiṣṭhati niḥśaṃko gaṇayanmāsavetanam // knarm_2.44 //
+
+kartanaṃ likhanaṃ sūcīpaṭṭikāvānamauṣadham /
+kurvanna *vetti purataḥ sthitānno vā kumārakān // knarm_2.45 //
+
+upādhyāyetyabhihito vakti krodhāgninā jvalan /
+gāndharvikaścarmakṛdvā kiṃ tavāsmīti niṣṭhuraḥ // knarm_2.46 //
+
+iti dārkopādhyāyaḥ /
+
+sasmitaṃ sasmitālāpaṃ muhurgoṣṭhīvidhāyinam /
+niyogikāntā paśyantī daiśikaṃ nācalat tataḥ // knarm_2.47 //
+
+sa bhāṣāṃ buddhyamāno 'pi tattatstrībhirudāhṛtām /
+kiṃ bhaṇantīti papraccha prollasadbhrūlato muhuḥ // knarm_2.48 //
+
+sa tābhirnarmasotprāsasādhikṣepaviḍambanaiḥ /
+āyāsyamāno mattābhirabhūtprahasitānanaḥ // knarm_2.49 //
+
+nāyaṃ kiñcinmahābhāgo jānāti na ca budhyate /
+iti no bhejire lajjā vivastrā api tasya tāḥ // knarm_2.50 //
+
+ṛṣyaśṛṅgavrataḥ so 'tha vi .. .. .. .. .. .. .. /
+tāsāṃ goṣṭhīrasābhijñaḥ stanau pasparśa pāṇinā // knarm_2.51 //
+
+sa bījāśva ivotsṛṣṭo vaḍavāmaṇḍale yuvā /
+siṣeve lalanāḥ sarvāḥ proṣitasya niyoginaḥ // knarm_2.52 //
+
+bhrātṛjāyāṃ svasāraṃ ca tāṃ ca bhāryāṃ mṛgīdṛśam /
+anyāścāsya sadā svairamakāmayata daiśikaḥ // knarm_2.53 //
+
+tāstena jāraguruṇā kṛtadīkṣā varāṅganāḥ /
+babhūvuḥ sarvagāminyo nirvikalpavrate sthitāḥ // knarm_2.54 //
+
+iti maṭhadaiśikaḥ /
+
+tayā śramaṇikādūtyā tataste 'pi kṛtodyamāḥ /
+dhūrtāḥ svādhīnatāṃ prāptāṃ svairiṇīṃ tāṃ siṣevire // knarm_2.55 //
+
+athādhikārī taruṇīṃ sotkaṇṭhastāṃ smaranpriyām /
+bhṛtavastro viveśāśu mithyāgrāmacikitsayā // knarm_2.56 //
+
+sa sevārthaṃ samānītaghṛtamākṣikasarpiṣā /
+bhārikairdhanikairbhītyā nagaraṃ samapūrayat // knarm_2.57 //
+
+prāptaṃ vilokya sucirāttaṃ dṛṣṭānekakāmukā /
+pīvaraṃ grāmyamāsannarogaṃ pūrṇamivāmbunā // knarm_2.58 //
+
+tāṃ ca meṣaghṛtāmikṣākilāṭamadhusampadam /
+rurodaikena netreṇa jahāsānyena tadvadhūḥ // knarm_2.59 //
+
+idaṃ suruciraṃ vastraṃ krītamābharaṇañca te /
+tasyetivādino dṛptā sā cakre sarvamaśrutam // knarm_2.60 //
+
+sā śirovedanāvyājanibaddhābhyaṅgapaṭṭikā /
+stanantī sasvanaṃ patyurnābhavatpārśvavartinī // knarm_2.61 //
+
+tato vācāla[vā]cālamālākalakalākule /
+gṛhe tasyābhavadvyagragrāma[dā]se mahotsavaḥ // knarm_2.62 //
+
+dinānte bahubhaktāśī lohitāsavadurmadaḥ /
+niyogī śayane tasthau kumbhakarṇa ivāparaḥ // knarm_2.63 //
+
+atha kṛcchrādivābhyetya rātriśeṣe tadaṅganā /
+āliṅgane samudvignā cumbane valitānanā // knarm_2.64 //
+
+rundhānā jaghanasparśamūrusvastikaniścalā /
+gṛhavyāpārakhinneva nidrāṃ cakre mudhaiva sā // knarm_2.65 //
+
+tataḥ prabhāte prasṛte bhūrjabhāṇḍādike puraḥ /
+vadantī sarvagātreṣu śūlaṃ sāpyakarotklamam // knarm_2.66 //
+
+athāhūtaḥ parijanairvaidyo madyāmiṣapriyaḥ /
+nidhiṃ hastagataṃ daivānmanyamānaḥ samāyayau // knarm_2.67 //
+
+sabhārtṛkā /
+
+namo vidyāvihīnāya vaidyāyāvadyakāriṇe /
+nihatānekalokāya *sarpāyevāpamṛtyave // knarm_2.68 //
+
+bhrānto gṛhaśataṃ tūrṇaṃ bhārākrānta ivocchvasan /
+lalāṭasvedasalilaṃ pāṇinā vikṣipanmuhuḥ // knarm_2.69 //
+
+vahannauṣadhasaṅketanāmasaṃyogacīrikām /
+kṛtāntādhikṛtasyāgrādyaḥ prāyastha ivāgataḥ // knarm_2.70 //
+
+cikitsako 'rthaprāṇānāṃ vyādhīnāmacikitsakaḥ /
+ājīvamīśvaraḥ śūlī yena na tyajyate janaḥ // knarm_2.71 //
+
+sa vaidyaḥ kālakūṭo vā vyālo vetāla eva vā /
+bhūyasā yāti māṃsena yaḥ kṣipramanukūlatām // knarm_2.72 //
+
+sa vaidya eva kupito vāyurāyuḥkṣayaṅkaraḥ /
+hastasparśena trimalakṣālakaḥ kṣapitendriyaḥ // knarm_2.73 //
+
+kṛcchrasannyāsakṛtpuṃsāṃ prāṇācāryaḥ kimucyate /
+sthitaṃ bhuktaṃ nu pītaṃ nu vaidyeneti pralāpinaḥ // knarm_2.74 //
+
+yā .. vidhatte yatnena bhiṣagārtopajīvakaḥ /
+nagarotsavayātrāsu vivāheṣvatibhojanāt /
+janatā yāti yanmāndyaṃ tadvaidyasya śaneḥ phalam // knarm_2.75 //
+
+guhyāṅgasparśakṛtstrīṇāṃ bahvāśī jīvitāpahaḥ /
+nṛṇāṃ tridoṣakṛtsatyaṃ vaidya eva na tu jvaraḥ // knarm_2.76 //
+
+vidyāvirahitā vaidyāḥ kāyasthāḥ prabhaviṣṇavaḥ /
+durācārāśca guravaḥ prajānāṃ kṣayahetavaḥ // knarm_2.77 //
+
+upasṛtya sa pasparśa stanau tasyāḥ susaṃhatau /
+kaṭhinau satatasparśau khalaḥ khalatarāviva // knarm_2.78 //
+
+laṅghanaṃ sahate naiṣā hitaṃ śūle na vṛṃhaṇam /
+karotu mama cintāsu sarvāhāraṃ mayā saha // knarm_2.79 //
+
+jaḍā hyasyāḥ sthitā buddhirdhātuśca viṣamaḥ sthitaḥ /
+tasmātsnigdhā dadhi pūrvamatra yojyaṃ saśarkaram // knarm_2.80 //
+
+ityukte vaidyanāthena strībhiḥ tūrṇaṃ sasambhramam /
+āhūtaḥ pādapatanairjyotirgaṇaka āyayau // knarm_2.81 //
+
+vaidyaḥ /
+
+jyotiḥśāstravide tasmai namo 'stu jñānacakṣuṣe /
+varṣaṃ pṛcchatyavarṣaṃ vā dhīvarānyo vinaṣṭadhīḥ // knarm_2.82 //
+
+grahanakṣatratārāṇāṃ saṃkhyāne 'pyakṛtaśramaḥ /
+atītānāgatajñānadambhāya malapatrabhṛt // knarm_2.83 //
+
+tava varṣatrayīmadhye kaścidvittavyayo bhavet /
+jvaraśca netrapīḍā ca lābhāṃśo 'pyavicintitaḥ // knarm_2.84 //
+
+na kaścidupakāraṃ te manyate śatravaśca te /
+santi tebhyo bhayaṃ deharakṣāyāṃ naiva bādhate // knarm_2.85 //
+
+durbalo dṛśyase bhrātaryūṣaṃ na kuruṣe katham /
+apyasti kāmalā nūnaṃ tāṃ mantreṇa nudāmyaham // knarm_2.86 //
+
+iti sādhāraṇajñānamantravaidyakamiśritam /
+jyotiḥśāstraṃ vigaṇayanyo muṣṇāti jaḍāśayān // knarm_2.87 //
+
+prāṅniyogivadhūvṛttaṃ jānannapi janaśrutam /
+dhūrto dhūlipaṭe cakre rāśicakraṃ mudhaiva saḥ // knarm_2.88 //
+
+kṣipte niyoginā tatra dīnārakusumotkare /
+dambhastabdhaściraṃ tasthau svāṅgulīgaṇanāparaḥ // knarm_2.89 //
+
+tato 'vadanmandamandaṃ protkṣiptabhrūlato muhuḥ /
+iyamāpāṇḍuramukhī ratikāmena pīḍitā // knarm_2.90 //
+
+durnivāraśca nārīṇāṃ piśāco ratirāgakṛt /
+punaḥ śūnyagṛhe snātā guhyakena nirambarā /
+gṛhītetyatra paśyāmi cakre śukrasamāgamāt // knarm_2.91 //
+
+iti gaṇakaḥ /
+
+tataḥ prayāte gaṇake cintite śukrapūjane /
+niryatpalālapūlīkaḥ pādato dhūlidhūsaraḥ // knarm_2.92 //
+
+dāmabaddhakaṭirgrāmyaḥ śīrṇaniṣka .. .. lakaḥ /
+visṛṣṭaṃ tatsahāyena dadau lekhaṃ niyoginaḥ // knarm_2.93 //
+
+eḍikāvyapadeśena gāvaḥ pādairhṛtā daśa /
+tāsāṃ madhyān mṛtāḥ pañca pañca śeṣāḥ sthitāḥ khale // knarm_2.94 //
+
+tanmuktaye tvarāyātāḥ sahanto 'pi dinatrayam /
+tadabhāve 'pi lābhaste grāme daṇḍaḥ patiṣyati // knarm_2.95 //
+
+ghṛtanāḍīnimittena yaścāsau bandhane dhṛtaḥ /
+so 'pi vipro nirāhārastīkṣṇaḥ pañcatvamāgataḥ // knarm_2.96 //
+
+pādāntike ca prahitaṃ tasya pradhanapatrakam /
+baddhaṃ mayā tatkalatraṃ mudritaṃ sakalaṃ gṛham // knarm_2.97 //
+
+yānskandhakanimittena prāyasthānparipālakaḥ /
+pradadau māsavṛttyaiva te mayā tadgṛhe dhṛtāḥ // knarm_2.98 //
+
+dhānyarāśiḥ prabhūto 'sti tūrṇamāgamyatāmiha /
+tātparyamiti vijñaptāḥ pādā jyeṣṭhārkavāsare // knarm_2.99 //
+
+khvāśapatiḥ tūṇarakṣako /
+
+vācayannityasau lekhaṃ tasya karmaṇyatāṃ *tataḥ /
+praśaśaṃsa sahāyasya niyogī harṣanirbharaḥ // knarm_2.100 //
+
+so 'bhūtpūrvataraṃ bauddhastato dambhāya vaiṣṇavaḥ /
+rakṣārthamatha bhāryāyā jātakaulāgamādaraḥ // knarm_2.101 //
+
+ānināya guruṃ garvadambhalobhaniketanam /
+māyākuhakalaulyānāṃ dīkṣāsamayamaṇḍalam // knarm_2.102 //
+
+namaste gurunāthāya dhanadārāpahāriṇe /
+kṣobhiṇe sarvabhakṣāya yakṣāyeva kṣapāśine // knarm_2.103 //
+
+*bhālanyastārdhasindūrapattrikāpuṣpagucchakaḥ /
+bi[ndū]pabindunityārdramahālālāṭakarparaḥ // knarm_2.104 //
+
+karṇamūlaśikhāmātragrathitasvalpajūṭikaḥ /
+kuṅkumāṅkitakarṇāgraḥ kācarākṣo mahāhanuḥ // knarm_2.105 //
+
+khalvāṭo viralaśmaśrurdīrghavākpraskhalankvacit /
+bibhrāṇo vadanaṃ vṛddhamahiṣībhagavibhramam // knarm_2.106 //
+
+kṣaṇātpibati yo madyaghaṭaṃ ghaṭaghaṭāravaiḥ /
+tasya kaṇṭhapraṇālasya sthaulyaṃ kenopamīyatām // knarm_2.107 //
+
+madyamāṃsadurāmodamalinaṃ yogapaṭṭakam /
+dadhānaḥ stanasampūrṇaṃ vakṣasā *rākṣasākṛtiḥ // knarm_2.108 //
+
+sindūrapūrṇagambhīranābhirandhropaśobhitaḥ /
+lopikāpūpa*śapharāmikṣābhṛtamahodaraḥ // knarm_2.109 //
+
+madhumāṃsakṛtājīrṇapratyagrāmodaduḥsahān /
+dhūmodgāra*gaḍatkārānmuñcanmegha ivākulaḥ // knarm_2.110 //
+
+gururgurutarāvidyāvadyamadyamadāndhadhīḥ /
+ahaṃkāra ivākāramāgataḥ pratyadṛśyata // knarm_2.111 //
+
+ākāreṇa gururguruśca vacasā kausīdyamaurkhyairgurur meḍhreṇātigurustathāsyakuharaśmaśrūdarasphigguruḥ /
+veśyākāminiyogivañcanaguruḥ sadvṛttaśūnyo guruś citraṃ sarvaguruḥ śivoditamahāśikṣāsu nityaṃ laghuḥ // knarm_2.112 //
+
+api nāma sa jāyeta pavitracaritaḥ kṣitau /
+aśaucanidhayo yena guravo nopasevitāḥ // knarm_2.113 //
+
+ahaṃpūrvikayā sarve patitāstasya pādayoḥ /
+cakruḥ śirobhirbhūkampaluṭhatpiṭharakabhramam // knarm_2.114 //
+
+rakṣāyai nijabhāryāyāḥ sampadāṃ ca vivṛddhaye /
+niyoginā yāgavidhau vijñapto bhagavānguruḥ // knarm_2.115 //
+
+likhitvā kuṅkumenāśu svalpasambhāracīrikām /
+hṛṣṭaḥ prātaḥ sameṣyāmītyuktvā prāyātsahānugaiḥ // knarm_2.116 //
+
+guruḥ /
+
+śvaśuro yāgasambhāre yatnāhūto niyoginā /
+*pāpī dharmādhikaraṇadiviro 'tha samāyayau // knarm_2.117 //
+
+tasmai namo 'stu nagarācāryavaryāya bhogine /
+yasya haste sthitā bhūmiḥ saśailavanakānanā // knarm_2.118 //
+
+karoti praśrayaṃ vakti madhuraṃ diviraḥ puraḥ /
+jaracchagalaśṛṅgābhāṃ na ca tyajati vakratām // knarm_2.119 //
+
+kalamāṅkitakarṇena bhūrjapatrakapāṇinā /
+āsthānadivireṇeyaṃ grastā bhagavatī mahī // knarm_2.120 //
+
+mithyā mahāvarāheṇa daityeṣvāḍambaraḥ kṛtaḥ /
+āsthānadivirairgrastā yadiyaṃ noddhṛtā kṣitiḥ // knarm_2.121 //
+
+utthāya veśyāśayanātprabhāte madyaghūrṇitaḥ /
+dhanārthī diviraḥ śastamukhaṃ draṣṭuṃ pratīkṣate // knarm_2.122 //
+
+nūnaṃ niśi bhagāpānaṃ karoti diviraḥ sadā /
+prātaḥ prātarmṛdā vaktraṃ kṣālayatyanyathā katham // knarm_2.123 //
+
+snāto mṛddarbhatilabhṛtkaroti suciraṃ japam /
+diviraḥ kūṭasaṃketapaṭīpātrāṇi cintayan // knarm_2.124 //
+
+vipraṃ puraḥ samāyāntaṃ thūtkṛtya tvaritaḥ punaḥ /
+praviśya gehaṃ niryāti śaṅkamānaḥ parābhavam // knarm_2.125 //
+
+śrīkāmo gomayabhrāntyā vandate śvaśakṛtpathi /
+puraścāptāṃ siddhikāmaścaṇḍālīṃ sakaraṇḍakām // knarm_2.126 //
+
+suprabhātatarāyātaiḥ sakaṣṭaśaṭilairvṛtaḥ /
+āsthānaṃ yāti kalayanbhṛṣṭamāṃsaṃ sapānakam // knarm_2.127 //
+
+bhūrja*peṭalaḍatklinnamaṣī subhṛtabhājanaḥ /
+kathayanniva gandhena bhāvinīṃ narakasthitim // knarm_2.128 //
+
+maṣīviṣārdrayā nighnansādhūnkalamadaṃṣṭrayā /
+āsthānajaladherantardiviro makarāyate // knarm_2.129 //
+
+tanmaṣīvipruṣastasya dṛśyante kalamacyutāḥ /
+bhuvo viluṇṭhyamānāyāḥ sāñjanāśrukaṇā iva // knarm_2.130 //
+
+adhomukhā vimānebhyaḥ patanto divi rodanam /
+kurvanti pitarastasya yo bhuṅkte divirodanam // knarm_2.131 //
+
+jāmātuḥ śrīmato dṛṣṭvā sa gṛhaṃ harṣanirbharaḥ /
+acintayatkadāsyāpi ṣaṭirdaivādbhavediti // knarm_2.132 //
+
+āsthānadiviraḥ /
+
+tatsaṅgatyāpyadṛśyanta bhūrjabhaṭṭā bhayaṅkarāḥ /
+tadgṛhe kalayanto 'ntastasya sthāvaraviplavam // knarm_2.133 //
+
+saṃharanti sadā lokānye sasthāvarajaṅgamān /
+tebhyaḥ pralayakāribhyo bhaṭṭebhyo 'stu namo namaḥ // knarm_2.134 //
+
+ṣaṭīpāśasamākṛṣṭaḥ prāpto 'dhikaraṇaṃ bhayāt /
+sādhurnigīryate bhaṭṭairmatsyairiva jale baliḥ // knarm_2.135 //
+
+bhaṭṭairbhaṭṭaiḥ sadiviraiḥ śaṭīnipatito janaḥ /
+mucyate nāsthiśeṣo 'pi raktakṣībairiva śvabhiḥ // knarm_2.136 //
+
+brāhmaṇyādye hatā naiva rāmeṇa brahmarākṣasāḥ /
+āsthānabhaṭṭāste manye sadā khādanti mānuṣān // knarm_2.137 //
+
+kṛtaḥ parājito jetā jayī yaiśca parājitaḥ /
+teṣāṃ svatantravacasāṃ vacasā kena jīvyate // knarm_2.138 //
+
+ante narakapālairye vṛtā vetālatāṃ gatāḥ /
+ṣaṭyantaḥkṛtahṛdghaṇṭā bhaṭṭāste kasya nāntakāḥ // knarm_2.139 //
+
+paśyannandho vadanmūkaḥ śṛṇvaṃśca badhiro 'dhamaḥ /
+utkocena vinā bhaṭṭaściraṃ nidrāyate śaṭhaḥ // knarm_2.140 //
+
+utkocabhakṣaṇaṃ chidraśikṣaṇaṃ sādhutakṣaṇam /
+ṣaṭisandhukṣaṇaṃ kūṭarakṣaṇaṃ bhaṭṭalakṣaṇam // knarm_2.141 //
+
+carmakṛnnartakībhrātā saṅgatyā nartako 'bhavat /
+so 'tha gāruḍakalpajñaḥ prayātaḥ sasyapālatām // knarm_2.142 //
+
+so 'pi grāmagaṇeśasya prāptaḥ prāsādapālatām /
+sandhivigrahakāyasthacākrikāsevako 'dhamaḥ // knarm_2.143 //
+
+bhaṭṭatvamāptavāndūto *draṅgadeśagatāgatāt /
+tasya putrāśca pautrāśca sarve 'dhikaraṇadvijāḥ // knarm_2.144 //
+
+kuto 'nyathā bhavatyeṣāṃ vacaścarmakṛtāmiva /
+kakṣe sumahatī bhastrā śaṭidīnārabhājanam // knarm_2.145 //
+
+iti adhikaraṇabhaṭṭāḥ sātikā vā /
+iti narmamālāyāṃ dvitīyaḥ parihāsaḥ //
+
+tṛtīyaḥ parihāsaḥ
+
+atha yāgotsave tasminsarve divirabāndhavāḥ /
+alaṅkṛtāśca lalanā niyogigṛhamāyayuḥ // knarm_3.1 //
+
+khaṭikā karaṇī haimī pārato ratnamūṭikā /
+sindūrādyā rajobhedāḥ pañcaraṅgakasūtrakam // knarm_3.2 //
+
+śālicūrṇaṃ sitacchatraṃ śvetavastraṃ vitānakam /
+nārācāḥ kṣurikā sūtraṃ darpaṇaṃ vīrakartarī // knarm_3.3 //
+
+patākā vyajanaṃ kūrcaḥ puṣpalakṣāṇi ṣoḍaśa /
+vārdhanīkalaśau tāmrau tilāstailaṃ mṛgājinam // knarm_3.4 //
+
+sruksruvau samidho darbhā lājāḥ siddhārtakā ghṛtam /
+bilvapūgaphalākṣoṭajātīphalayavākṣatam // knarm_3.5 //
+
+dhūpakuṅkumakarpūrakautukauṣadhicandanam /
+pādukāpīṭhaparyaṅkaghaṇṭikāghaṭakuṇḍakam // knarm_3.6 //
+
+madyamāṃsasurāpūpapalāṇḍuśapharaudanam /
+piṣṭabhṛṣṭarasasvacchabhakṣyarocakamodakam // knarm_3.7 //
+
+caṭakāpūrṇapātrāṇi kṣīriṇī kṛsarā dadhi /
+daśa kṛṣṇā daśa śvetāśchāgā meṣāścaturdaśa // knarm_3.8 //
+
+bhastrā cetyādisambhāraścīrikālikhitaṃ kṣaṇāt /
+sajjīkṛtaṃ śrīsacivairbhogamitrairniyoginaḥ (?) // knarm_3.9 //
+
+tato nityāvadhānena bhagaliṅgavibhūṣitam /
+cakāra maṇḍalaṃ śiṣyaḥ sindūrāntaritāntaram // knarm_3.10 //
+
+athātmārāmatādambhamīlitāghūrṇitekṣaṇaḥ /
+gururgṛhītaḥ śiṣyābhyāṃ savyadakṣiṇahastayoḥ // knarm_3.11 //
+
+śatamātreṇānuyātaḥ śiṣyāṇāmāyayau śanaiḥ /
+luṇṭhiṃ kartumivātyugro nagarādhipatiḥ svayam // knarm_3.12 //
+
+carmakṛtsaunikaścakrī dhīvaro haṭṭatāpasaḥ /
+vṛddhaveśyā kalyapālo madyabhaṭṭo jaradviṭaḥ // knarm_3.13 //
+
+pañca nāraṅgakā rugṇāstriṭāṅkāro 'tha pācakaḥ /
+gobhakṣo bhairavācāryaḥ kulācāryo 'tha vāyakaḥ // knarm_3.14 //
+
+cūlikākṛtarudrākṣo ghaṭilaśchinnanāsikaḥ /
+mahāvratī bhagamukhaḥ śaivācāryastrighaṇṭikaḥ // knarm_3.15 //
+
+nagno velāvratī maunī stotrakṛjjānughaṇṭikaḥ /
+dvitrāśconmattavanitāḥ śvabhiḥ parivṛtāstathā // knarm_3.16 //
+
+gūthaliptastathonmatto mantravādī rasāyanī /
+indrajālī latāveśī vijñānī kāmatāttvikaḥ // knarm_3.17 //
+
+bhaṭṭāścānye gurordhūrtāḥ pānabhojanasevakāḥ /
+viviśuḥ svinnanaivedyāmodavaktrodakākulāḥ // knarm_3.18 //
+
+athāmapakvasaṃhārakāriṇaḥ sarvahāriṇaḥ /
+mattā gurubhaṭṭāścakrustiladhūpaghṛtakṣayam // knarm_3.19 //
+
+eko dvau bahavaḥ paścānninyuste bhastrayā tathā /
+śālicūrṇayavākṣoṭabilvārghaghṛtacandanam // knarm_3.20 //
+
+iti gurubhaṭṭāḥ /
+
+tataḥ svabhaginī raṇḍā bālaiva vrataśālinī /
+dhṛtā niyoginā yāgaparicaryāvidhau guroḥ // knarm_3.21 //
+
+jayatyakhaṇḍaśītāṃśumaṇḍaladyutitaskarī /
+puṇḍarīkamukhī raṇḍā navayauvanamaṇḍitā // knarm_3.22 //
+
+madaśauṇḍaṃ samuddaṇḍacaṇḍaṃ sukhakaraṇḍakam /
+vinā caṇḍaratodghṛṣṭaṃ raṇḍā khaṇḍitamānasā // knarm_3.23 //
+
+vistīrṇaśroṇipulinā pīvarorukucasthalī /
+hariṇīhārinayanā raṇḍā netrarasāyanam // knarm_3.24 //
+
+raṇḍā skandhadvayāsaktamuktakeśī virājate /
+netrotpalamukhāmbhojabhṛṅgavyāpteva padminī // knarm_3.25 //
+
+niḥsūtraruciraḥ kaṇṭhaḥ suvarṇasubhago bhagaḥ /
+raṇḍāyāḥ karṇapāśau ca nirābharaṇasundarau // knarm_3.26 //
+
+puṣpatāmbūlarahitā raṇḍā santyaktabhūṣaṇā /
+lāvaṇyenātimātreṇa saṃvibhakteva vedhasā // knarm_3.27 //
+
+hāreṇa kiṃ sumadhyāyāḥ sukeśyāḥ kusumena kim /
+kimañjanenāyatākṣyā raṇḍāyā maṇḍanena kim // knarm_3.28 //
+
+kiṃ dharmo yatra no raṇḍā dhiksukhaṃ raṇḍayā vinā /
+raṇḍāhīno 'stu mā mokṣaḥ prauḍhairityuditaṃ viṭaiḥ // knarm_3.29 //
+
+raṇḍā vilokya taruṇaṃ karoti bhrukuṭiṃ mṛṣā /
+kaṇṭhagrahaṃ cintayantī manasā tu prahṛṣyati // knarm_3.30 //
+
+saṃsmarantī ratisukhaṃ pīvarorukucasthalī /
+raṇḍā bhagasthalīṃ rātrau mṛdnātyucchvāsinī sadā // knarm_3.31 //
+
+vīkṣate taruṇaṃ tiryakkāntaṃ subhagamānatā /
+sravantī nirbharaṃ reto raṇḍā dhenuḥ payo yathā // knarm_3.32 //
+
+gauraḥ supīvaro dhatte raṇḍāyā muṇḍito bhagaḥ /
+merorarkahayollīḍhaśaṣpahemataṭabhramam // knarm_3.33 //
+
+turagādyācitānītastabdhadīrghadhvajo naraḥ /
+yadi nāma rate śakto raṇḍāṃ toṣayituṃ na vā // knarm_3.34 //
+
+śrāddheṣu mugdhaviprāṇāṃ jaṭināṃ ca tapasvinām /
+vaśe patati dhanyānāṃ raṇḍā rasataraṅgiṇī // knarm_3.35 //
+
+cūlikānyastakusumaḥ karṇe kṛtapavitrakaḥ /
+yuvā raṇḍāpriyo vipraḥ kandarpeṇopamīyate // knarm_3.36 //
+
+udañcadgurudaṇḍasya caṇḍasya brahmacāriṇaḥ /
+raṇḍā dadāti satataṃ śraddhayā mṛtabhojanam // knarm_3.37 //
+
+tameva tīrthayātrāsu paścānnayati sarvadā /
+vahantī khaḍgapātreṇa balidhūpasamudgikām // knarm_3.38 //
+
+parasparaprārthanayā sumuṇḍitabhagadhvajau /
+bhūkampakāriṇau rātrau tau raṇḍābrahmacāriṇau // knarm_3.39 //
+
+divā dambhanidhānāya namastīrthopasevine /
+rātrau raṇḍābhagāpānakṣībāya brahmacāriṇe // knarm_3.40 //
+
+raṇḍā jaṭābhṛtāṃ bhītyā gauḍalāṭatapasvinām /
+dadāti .. rjitāṃ prītyā talliptoru .. vāsakṛt // knarm_3.41 //
+
+gatvā gurugṛhaṃ raṇḍā patyuḥ parvadine satī /
+kaṣantī kaṭimā .. bhī raṇḍā nirdayamohanaiḥ // knarm_3.42 //
+
+raṇḍā tattanmṛtoddhāradīkṣādivratakāriṇī /
+dadāti niśi niḥśaṅkā kāmasattraṃ tapasvinām // knarm_3.43 //
+
+liṅgārcanāpadeśena dattvā veśmani tālakam /
+karoti carmaliṅgena raṇḍā kaṇḍūvikhaṇḍanam // knarm_3.44 //
+
+tayopacaryamāṇo 'tha mṛgākṣyā gururākulaḥ /
+śiṣyāśca tāṃ papurnetraiḥ kṣudhārtāḥ kṣīriṇīmiva // knarm_3.45 //
+
+[iti] raṇḍā /
+
+tataḥ praviviśuste te dīkṣāsamayino narāḥ /
+baddhanetrapaṭā mithyāmohenevāndhakāritāḥ // knarm_3.46 //
+
+atha vyajijñapadbhūminyastajānuḥ kṛtāñjaliḥ /
+guruṃ niyoginaḥ śraddhāśuddhāntaṃ haṭṭatāpasaḥ // knarm_3.47 //
+
+ihaiva suciraṃ nātha yāgavyagre tvayi sthite /
+pratīkṣante pare śiṣyā yāgotsavasamutsukāḥ // knarm_3.48 //
+
+ya eṣa prathito loke gṛhakṛtye mahattamaḥ /
+kṛtayāgasamārambhaḥ sa bhavantamudīkṣate // knarm_3.49 //
+
+brahmahatyādi pāpaṃ yanniḥsaṃkhyaṃ tasya vidyate /
+ekaghaṇṭāṭanatkāramātreṇa bhavatā hṛtam // knarm_3.50 //
+
+manyate sa tṛṇaṃ sarvaṃ sarvasaṃhārapātakam /
+yato mūrdhni tvayā hastastasya pañcaphaṇo dhṛtaḥ // knarm_3.51 //
+
+tvatprasādātsamuttīrṇāṃ sa kāmapi daśāṃ śritaḥ /
+śaṅkarāyatanebhyo 'pi śaivaḥ sarvaṃ jahāra yat // knarm_3.52 //
+
+sarvasvaharaṇaṃ dharmasatkāryaṃ brāhmaṇakṣayaḥ /
+yattasya nirvikalpasya tattavaiva vijṛmbhitam // knarm_3.53 //
+
+[iti] *gṛhakṛtyamahattamaḥ svakaṣaṇakāmikāro vā /
+tvāmiyaṃ nātha gaṇikā nimantrayitumāgatā /
+ghaṭīpratiṣṭhā gehe 'syāḥ kriyatāṃ śiṣyavatsala // knarm_3.54 //
+
+vitīrṇairbhavatā nityaṃ vaśīkaraṇacūrṇakaiḥ /
+asthiśeṣāḥ kṛtāste te yayā dhanikakāmukāḥ // knarm_3.55 //
+
+śmaśānakośaśapathaiḥ kṣīṇajihvākarādharā /
+tvadrakṣārakṣitaivaiṣā kāmukacchadmacāriṇī // knarm_3.56 //
+
+tailonmṛṣṭe manāksneho vadane na tu cakṣuṣi /
+veśyāyāḥ kṣīṇavitteṣu saṃkoco nāntyajātiṣu // knarm_3.57 //
+
+yadi sadbhāvinī *vaiśyā yadi kālaḥ kṛpāparaḥ /
+acauro yadi kāyasthastadveśyāpyanurāgiṇī // knarm_3.58 //
+
+veśyā /
+
+cakṣurvaidyo 'yamāyātastapasvī sarvasaṃśrayaḥ /
+kiṃśāruvartibhiryena sarvamandhīkṛtaṃ jagat // knarm_3.59 //
+
+grīṣme 'kṣikopabāhulyādasya lagne śaratphale /
+sampūrṇaḥ kriyatāṃ yāgaḥ pāṇḍuvallīnirantaraḥ // knarm_3.60 //
+
+iti cakṣurvaidyaḥ /
+
+nāpitaḥ śalyahartāyaṃ nṛṇāṃ yenopajīvinā /
+nītānyaṇḍāni durlepaiḥ sthūlasthālīpramāṇatām // knarm_3.61 //
+
+prākpratiṣṭhāpitā yena cāmuṇḍāmuṇḍakārthinā /
+*yo 'sau tasyāstvayā varṣadine yāgaṃ samīhate // knarm_3.62 //
+
+mūlyena mahatā dhīmānnāsāsaṃśleṣaṇāya yaḥ /
+māṃsapeṣīmapi chittvā dadāti svavadhūbhagāt // knarm_3.63 //
+
+śalyahartā /
+
+ayañca taruṇībhāryo vaṇigvṛddho mahādhanaḥ /
+maithune śaktidāridryādvājīkaraṇamicchati // knarm_3.64 //
+
+lālinā srutanetreṇa vṛddhena śvāsakāsinā /
+ślathapralambaśiśnena taruṇī ramate katham // knarm_3.65 //
+
+ārūḍho 'pi rate yatnādutthānopahatadhvajaḥ /
+vṛddhaḥ prāpnoti no nidrāmṛṇaṃ dhyāyannivādhanaḥ // knarm_3.66 //
+
+niṣpīḍitāntrasaṃkāśaśiśno 'pi suratotsukaḥ /
+hastaṃ dattvā bhage vṛddho nidhānamiva rakṣati // knarm_3.67 //
+
+māṃsakṣīraghṛtāhāraṃ kṛtvā vṛddho ratāśayā /
+rātrau vamati tatsarvaṃ bhajate vā viṣūcikām // knarm_3.68 //
+
+śuṣkacarmopamaṃ vṛddhaṃ madhuparke kṣaṇaṃ patim /
+sajane taruṇī dṛṣṭvā hrītā yāti rasātalam // knarm_3.69 //
+
+etena vṛddhavaṇijā dravyairvṛddhaviṭoditaiḥ /
+liptaliṅgena satataṃ dagdhevāyāsitā vadhūḥ // knarm_3.70 //
+
+sa eṣa bahunikṣepasaṃbhakṣaṇakṛtakṣaṇaḥ /
+draviṇāvaskarakṣetraṃ vaṇigvāsarataskaraḥ // knarm_3.71 //
+
+nṛtyati vyādhikāleṣu kuṭilaḥ kalipannagaḥ /
+ajñātatṛṇakāṣṭhādivikrayī dravyanāmabhiḥ // knarm_3.72 //
+
+taruṇākāṅkṣiṇīṃ vṛddhaḥ priyāmavicalekṣaṇaḥ /
+so 'yaṃ nirīkṣate dūrānmṛṣṭaṃ bhojyamivāturaḥ // knarm_3.73 //
+
+tasmātpauṣpikamāsādya kriyatāṃ mantrasaṃpadā /
+gṛhiṇī rāgiṇī yena labdhaśakteḥ prajāyate // knarm_3.74 //
+
+vṛddhavaṇik /
+
+ityādiśiṣyairāhvānaṃ śrutvā tena niveditam /
+sarvaṃ karomītyavadadbhrūvikārākulo guruḥ // knarm_3.75 //
+
+tato dinānte vipulāṃ kṛtvāgre śivakuṇḍikām /
+guruṇā saha te śiṣyāḥ papurbhuktottaraṃ ciram // knarm_3.76 //
+
+niyogilalanāḥ sarvāste ca tanmitrabāndhavāḥ /
+kapāleṣu taducchiṣṭaṃ *vamitvā bahuśaḥ papuḥ // knarm_3.77 //
+
+kaścidgātuṃ pravṛtto 'tha kaścidroditi sasvanam /
+kaścidvyāghūrṇate kaścitplavate kṛtaśūtkṛtiḥ // knarm_3.78 //
+
+kaścidatyantavaikalyaṃ nāṭayanbhaktisambhavam /
+niśceṣṭastiṣṭhati ciraṃ saṃprāptaḥ śavatāmiva // knarm_3.79 //
+
+kaścidvilolasragdāmabhūṣito madanirbharaḥ /
+kṛtakaṇṭhagrahaḥ puṃsāṃ cucumba lalanā api // knarm_3.80 //
+
+tataḥ kṣībo guruḥ kiṃ citsvakāvyaṃ deśabhāṣayā /
+vīṇāvaṃśaravodagraṃ kocchikāvādyakṛjjagau // knarm_3.81 //
+
+athaikabhujamānandādudyamyaikena pāṇinā /
+gururnanarta dvābhyāṃ ca śanairutthāya cāsanāt // knarm_3.82 //
+
+tataḥ śiṣyāḥ samuttasthuraṭṭahāsaninādinaḥ /
+kṛtāṅganāpariṣvaṅgā visrastakaṭikarpaṭāḥ // knarm_3.83 //
+
+śanaiḥ prayāte rātryardhe vinaṣṭe dīpamaṇḍale /
+nirvibhāgo 'bhavatteṣāṃ raticakramahotsavaḥ // knarm_3.84 //
+
+prabhāte gururutthāya tvarayā kalaśapradaḥ /
+kṛtavadvidadhe sarvaṃ śiṣyairanyairnimantritaḥ // knarm_3.85 //
+
+jvarādikāle vaidyānāṃ śaratkāle niyoginām /
+puṣpakāle gurūṇāṃ ca hemapūrṇā vasundharā // knarm_3.86 //
+
+athāviśatpṛthuśvāsaḥ kampamānaḥ sphuṭanniva /
+pārśvāvalokī puruṣaḥ paramāpto niyoginaḥ // knarm_3.87 //
+
+so 'bravīdadya rātryardhe gṛhakṛtyamahattamaḥ /
+rājarāśidhanaṃ bhūri hṛtvā yātaḥ sahānugaḥ // knarm_3.88 //
+
+anuktvāpasṛte tasmiṃstatsambandhiniyoginām /
+palāyanavyatikaraḥ ko 'pi jāto gṛhe gṛhe // knarm_3.89 //
+
+capeṭotsphoṭitamukhastvatsvāmī bandhanaṃ bhaṭaiḥ /
+nītaḥ patatpurīṣo 'gre sa tāvatparipālakaḥ // knarm_3.90 //
+
+yāvanno*lluñcitaśmaśrurbaddhvā tvamapi nīyase /
+tāvadrājabhaye ghore nītirasmin vidhīyatām // knarm_3.91 //
+
+iti bruvāṇe tanmitre taiḥ śiṣyaiḥ sahite gurau /
+tūrṇaṃ prayāte niḥśvasya niyogī duḥkhito 'vadat // knarm_3.92 //
+
+aho nu kāladaurātmyādghoratā kiyatī kaleḥ /
+sādhavaḥ sarvathā naṣṭāḥ kaṣṭaṃ dharmo 'stamāgataḥ // knarm_3.93 //
+
+ityuktvā sānugo yāvatpalāyanakṛtodyamaḥ /
+sa susrāva bhayānmūtraṃ tāvadetya bhaṭairvṛtaḥ // knarm_3.94 //
+
+sa rājñā hṛtasarvasvaḥ praklinno bandhane ciram /
+dhanena veśyayā svasrā mocito niragāttataḥ // knarm_3.95 //
+
+tato vibhavahīno 'sau jāpī svapnanirīkṣakaḥ /
+babhūva sarvapraṇataścāṭukāraḥ priyaṃvadaḥ // knarm_3.96 //
+
+yo 'bhūdabhyutthitastabdho niyogī liṅgasannibhaḥ /
+adhikāraparibhraṃśātsa vṛddhavṛṣaṇāyate // knarm_3.97 //
+
+adhikāramadāndhānāṃ dṛṣṭikopavatāṃ sadā /
+netranairmalyajananaṃ bandhanaṃ paramāñjanam // knarm_3.98 //
+
+yaḥ pādapatitānārtānpūjyānapyavamanyate /
+bhraṣṭādhikāraścaraṇau śakṛlliptau sa vandate // knarm_3.99 //
+
+aho bata muhūrtena bhavanti na bhavanti ca /
+palāladahanajvālācapalā diviraśriyaḥ // knarm_3.100 //
+
+svayamutthāya yātāyāṃ jāyāyāṃ nirdhano 'tha saḥ /
+babhrāma laulyanilayaḥ piṇḍārthī bandhuveśmasu // knarm_3.101 //
+
+rūkṣaḥ kṛśo 'timalinaḥ syūtadagdhapaṭaccaraḥ /
+piśāca iva duṣprekṣyo dinaireva babhūva saḥ // knarm_3.102 //
+
+tuṣāgnikuṇḍikātāpadagdhasphigvṛṣaṇodaraḥ /
+vātaśūlāpanodāya jānugrathitadāmakaḥ // knarm_3.103 //
+
+devadvijadhana*grāsajātakoṣṭhagalagrahaḥ /
+kṣutkṣāmakukṣiḥ śuṣkāsyaḥ patito 'vaskare bhraman // knarm_3.104 //
+
+śvajagdhajānucaraṇaḥ prasravadbhūriśoṇitaḥ /
+kṛpārdrocchiṣṭabhugdattabhaktagolakanirvṛtaḥ // knarm_3.105 //
+
+dagdhārdhakarpaṭīniryatsakeśavṛṣaṇadvayaḥ /
+bhasmapralipta*śīrṣāṃsavakṣaḥpārśvo gatatrapaḥ // knarm_3.106 //
+
+pralapankāñcikākāṅkṣī kenaciddattamaṇḍakaḥ /
+prapāpālikayā ḍombabhrāntyā pāne tiraskṛtaḥ // knarm_3.107 //
+
+rajasvalāpalālena channāṅgastuhināgame /
+śarāvakarparādānakalahe yācakārbhakaiḥ /
+vahnipātraprahāreṇa dagdhabhrūśmaśrulocanaḥ // knarm_3.108 //
+
+caṇḍālaiḥ pretakāryeṣu laguḍairāhato 'sakṛt /
+paṅkaśāyī sa cukrośa sattratīrthāgravartmasu // knarm_3.109 //
+
+nṛpurīṣapraṇāle 'tha patito 'sāvadhomukhaḥ /
+uccaiḥkṛtakaṭiḥ prāṇānutsasarja narādhamaḥ // knarm_3.110 //
+
+iti daurgatyatapasā prayātaḥ so 'sthiśeṣatāṃ /
+saśarīraḥ svayaṃ prāpto narakaṃ narakaṇṭakaḥ // knarm_3.111 //
+
+evaṃ krameṇa śānteṣu niyogidivirāgniṣu /
+modate gatasantāpaḥ santoṣasubhago janaḥ // knarm_3.112 //
+
+iti diviraniyogivrātaduśceṣṭitānāṃ kusṛticaritacarcā narmamālā kṛteyam /
+api sujanavinodāyombhitā hāsyasiddhyai kathayati phalabhūtaṃ sarvalokopadeśam // knarm_3.113 //
+
+iti narmamālāyāṃ tṛtīyaḥ parihāsaḥ //
+
+samāpteyaṃ narmamālā /
+
+kṛtirvyāsadāsāparanāmnaḥ kṣemendrasyeti śivam //

@@ -1,0 +1,558 @@
+Nāropa: Sekoddeśa
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAropa-sekoddeza.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Raniero Gnoli in: Orofino, Giacomella: Sekoddeśa : a critical edition of the Tibetan translations, with an appendix by Raniero Gnoli "On the Sanskrit text". Roma : Ist. Italiano per il Medio ed Estremo Oriente, 1994 (Serie orientale Roma, 72).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Sekoddeśa = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from narsekou.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Naropa: Sekoddesa
+Based on the edition by Raniero Gnoli in: Orofino, Giacomella: Sekoddeśa : a critical edition of the Tibetan translations, with an appendix by Raniero Gnoli "On the Sanskrit text".
+Roma : Ist. Italiano per il Medio ed Estremo Oriente, 1994
+(Serie orientale Roma, 72)
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sastra section
+The transliteration emulates the conventions of Nagari script.
+Therefore, many word boundaries are not marked by blanks.
+ITALICS for emendations
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+sekoddeśaḥ
+
+om namaḥ kālacakrāya
+
+sucandra āha -
+sekaḥ saptavidhaḥ śāstastrividho 'nuttarastathā /
+laukikottarasiddhyarthaṃ saṃkṣepāt kathayasva me // sekod_1 //
+
+bhagavānāha -
+śṛṇu sucandra sekārthaṃ saptadhā trividhaṃ param /
+nāḍīsaṃcāramāyāmamuddeśāt kathayāmi te // sekoddeśa_2 //
+
+uddeśastrividhastantre nirdeśastrividho bhavet /
+pratyuddeśo mahoddeśaḥ pratinirdeśako 'paraḥ // sekoddeśa_3 //
+
+uddeśa eva nirdeśastantrasaṃgītirucyate /
+pratyuddeśaśca nirdeśaḥ pañjikā padabhañjikā // sekoddeśa_4 //
+
+mahoddeśaśca nirdeśaṣṭīkā sarvārthasūcikā /
+abhijñālābhibhiḥ sā tu kartavyā naiva paṇḍitaiḥ // sekoddeśa_5 //
+
+evaṃ ṣaṭkoṭibhiḥ śuddhaṃ vajrayogaiścaturvidhaiḥ /
+catuḥsambodhibhiḥ skandhadhātvāyatanaṣaṭkulaiḥ // sekoddeśa_6 //
+
+paṭalaiḥ pañcabhiḥ śuddhaṃ lokadhātvādikairmataiḥ /
+satyābhyāmādibuddhaṃ syāt kālacakrābhidhānakam // sekoddeśa_7 //
+
+ādau saptābhiṣeko yo bālānāmavatāraṇam /
+trividho lokasaṃvṛtyā caturthaḥ paramārthataḥ // sekoddeśa_8 //
+
+satyadvayena dharmāṇāṃ deśanā vajriṇo mama /
+lokasaṃvṛtisatyena satyena paramārthataḥ // sekoddeśa_9 //
+
+udakaṃ mukuṭaḥ paṭṭo vajraghaṇṭā mahāvratam /
+nāmānujñāsamāyuktaḥ sekaḥ saptavidho nṛpa // sekoddeśa_10 //
+
+kāyavākcittasaṃśuddhirabhiṣekadvayaṃ dvayam /
+anujñā jñānaśuddhiḥ syādanyā dhātvādiśuddhitaḥ // sekoddeśa_11 //
+
+udakaṃ dhātusaṃśuddhirmaulī skandhaviśodhanam /
+paṭṭaḥ pāramitāśuddhirvajraghaṇṭā mahākṣaram // sekoddeśa_12 //
+
+buddhabhāṣā na vicchinnā arkendvekatraśodhanam /
+viṣayendriyasaṃśuddhiḥ syādvajravratamacyutam // sekoddeśa_13 //
+
+nāma maitryādiśuddhiḥ syādanujñā buddhaśodhanam /
+ete sapta sekā deyā vartayitvā tu maṇḍalam // sekoddeśa_14 //
+
+kumbho guhyābhiṣekaśca prajñājñānābhidhānakaḥ /
+punareva mahāprajñā tasyā jñānābhidhānakaḥ // sekoddeśa_15 //
+
+kṣaraḥ kṣarastataḥ spando niḥspandaśca tato 'paraḥ /
+kāyavākcittasaṃśuddhyā abhiṣekatrayaṃ kramāt // sekoddeśa_16 //
+
+caturtho jñānasaṃśuddhiḥ kāyavākcittaśodhakaḥ /
+bālaḥ prauḍhastathā vṛddhaścaturthastu prajāpatiḥ // sekoddeśa_17 //
+
+prajñāstanāṅgasaṃsparśād bodhicittacyutaṃ sukham /
+payodharābhiṣiktaḥ sa bālaḥ prāptaṃ yataḥ sukham // sekoddeśa_18 //
+
+guhyāsphālāccirājjātaṃ bodhicittacyutaṃ sukham /
+prauḍho guhyābhiṣiktaḥ sa guhyāt prāptaṃ yataḥ sukham // sekoddeśa_19 //
+
+guhyāsphālāccirājjātaṃ vajrāgre spandataḥ sukham /
+prajñājñānābhiṣiktaḥ sa vṛddhaḥ spandaṃ gato yataḥ // sekoddeśa_20 //
+
+mahāmudrānurāgādyajjātaṃ niḥspandataḥ sukham /
+mahāprajñābhiṣiktaḥ sa yato niḥspandatāṃ gataḥ // sekoddeśa_21 //
+
+prajāpatiḥ sa vijñeyo janakaḥ sarvatāyinām /
+vajrasattvo mahāsattvo bodhisattvo 'dvayo 'kṣaraḥ // sekoddeśa_22 //
+
+asau samayasattvaḥ syādvajrayogaścaturvidhaḥ /
+kālacakra iha khyāto yogināṃ muktidāyakaḥ // sekoddeśa_23 //
+
+asyaiva sādhanaṃ kuryāt pratibhāsairacintitaiḥ /
+dhūmādibhirnimittaistaiḥ prajñābimbairnabhaḥsamaiḥ // sekoddeśa_24 //
+
+astināstivyatikrāntaiḥ pratyayārthaiḥ svacetasaḥ /
+paramāṇurajaḥsaṃdohaiḥ sarvataḥ parivarjitaiḥ // sekoddeśa_25 //
+
+dhūmamarīcikhadyotadīpajvālendubhāskaraiḥ /
+tamaḥ kalā mahābindurviśvabimbaṃ prabhāsvaram // sekoddeśa_26 //
+
+pihitāpihitanetrābhyāṃ śūnye yannānukalpitam /
+dṛśyate svapnavad bimbaṃ tad bimbaṃ bhāvayet sadā // sekoddeśa_27 //
+
+abhāve bhāvanā bimbe yogināṃ sā na bhāvanā /
+bhāvo 'bhāvo na cittasya bimbe 'kalpitadarśanāt // sekoddeśa_28 //
+
+pratisenāṃ yathādarśe kumārī paśyedavastujām /
+atītānāgataṃ dharmaṃ tattvayogyambare tathā // sekoddeśa_29 //
+
+asyā bhāvo na bhāvaḥ syādvastuśūnyārthadarśanāt /
+vastuno 'bhāvato 'rtho 'sti māyāsvapnendrajālavat // sekoddeśa_30 //
+
+asati dharmiṇi hyeṣa dharmotpādaḥ pradṛśyate /
+cintāmaṇirivānantasattvāśāparipūrakaḥ // sekoddeśa_31 //
+
+adṛṣṭaṃ pratisenāyāṃ kumārī caurādi paśyati /
+tat prādeśikanetrābhyāṃ gatvā paśyanti sādhakāḥ // sekoddeśa_32 //
+
+yadi paśyati sadrūpaṃ svamukhaṃ kiṃ na paśyati /
+yadi paśyatyasadrūpaṃ śaśaśṛṅgaṃ kathaṃ na ca // sekoddeśa_33 //
+
+na paśyatyanyacakṣurbhyāṃ svacakṣurbhyāṃ na paśyati /
+dṛśyamānamajātaṃ tat kumāryā jātakaṃ yathā // sekoddeśa_34 //
+
+dṛṣṭe bimbe tataḥ kuryāt prāṇāyāmaṃ nirantaram /
+urdhvādhastriṣu nāḍīṣu kāyavākcittarodhanāt // sekoddeśa_35 //
+
+candrārkarāhuviṇmūtraśukramārgapravāhiṣu /
+toyāgniśūnyabhūvāyujñānadhātukajātiṣu // sekoddeśa_36 //
+
+candrasūryataminyo yāḥ kāyavākcittanāḍikāḥ /
+viṇmūtraśukravāhinyaḥ prāṇe 'pāne krameṇa tāḥ // sekoddeśa_37 //
+
+candraḥ kāya upāyasya prajñāyā vāgdivākaraḥ / prajñākāyastu viṇnāḍī virbhorvāṅmūtravāhinī // sekoddeśa_38 //
+
+urdhvādhaścittanāḍyau dve taminīśukravāhinyau /
+taminī cittamupāyasya prajñāyāḥ śukravāhinī // sekoddeśa_39 //
+
+ūrdhvādhaḥ ṣaṭkulaṃ hyetat kāyavākcittayogataḥ /
+prajñopāyāṅgabhāvena saṃsthitaṃ sarvadehinām // sekoddeśa_40 //
+
+ariṣṭaṃ kāyavāṅnāḍyorūrdhvādho 'dhikamārutaiḥ / taminīśukravāhinyorutpattimaraṇasthitiḥ // sekoddeśa_41 //
+
+utpāde mṛtyukāle ca maithune śukravāhinī /
+taminī ca vahatyūrdhve saṃkrāntau viṣuve raveḥ // sekoddeśa_42 //
+
+lagnodayābhisaṃdhau ca viṣuvaṃ vahati madhye / ṣaṭpañcāśatsapādañca śvāsocchvāsaṃ narādhipa // sekoddeśa_43 //
+
+adhikān pañcasaptatyā ṣaṭśatāṃśca divāniśam /
+ekaviṃśatsahasrāṃśca ṣaṭśatairadhikāṃśca yān // sekoddeśa_44 //
+
+vāmā ca dakṣiṇā nāḍī vahatyūnānanena tān /
+satripakṣitrivarṣāṇi śatavarṣe hi madhyamā // sekoddeśa_45 //
+
+vāmā savyordhve candrārkau lalaneḍā piṅgalāparā /
+toyatejaḥsvabhāvinyau padmadhṛgratnadhṛṅmate // sekoddeśa_46 //
+
+adho viṇmūtravāhinyau pṛthvīvāyusvarūpake / madhyanāḍī ca vāmā cacakradhṛk khaḍgadhṛṅmate // sekoddeśa_47 //
+
+ūrdhvādho madhyamā savyā rāhuśukrapravāhinī / śūnyajñānasvabhāvinyau vajradhṛgvajradhṛṅmate // sekoddeśa_48 //
+
+viṇnāḍī candramārgeṇa raviṇā mūtravāhinī /
+jātau mṛtyau viṣuve rāge rāhuṇā śukravāhinī // sekoddeśa_49 //
+
+yā nābhyūrdhve 'vadhūtī sā suṣumnā tamovāhinī /
+yādhaḥ khagamukhā sā ca śaṅkhinī śukravāhinī // sekoddeśa_50 //
+
+nābhyabje hṛdaye kaṇṭhe lalāṭoṣṇīṣapaṅkaje /
+bhūtoyāgnimarucchūnyaṃ saṃhāreṇa pravāhinī // sekoddeśa_51 //
+
+nirgacchantī viśantīsāsṛṣṭinā viśati kṣitau / karṇikāt karṇikāmadhye 'vadhūtyā gatirāgatiḥ // sekoddeśa_52 //
+
+nābhau guhye ca maṇyabje kāyavākcittavāhinī /
+nirgacchantī viśantī sā saṃhārasṛṣṭirūpiṇī // sekoddeśa_53 //
+
+śaṅkhinī sarvajantūnāmapānānilavāhikā /
+eṣā strīṇāṃ sukhācchukraṃ ṛtau raktapravāhinī // sekoddeśa_54 //
+
+prajñopāyāṅgabhāvena ūrdhve savyāvasavyayoḥ / adho viṇmūtravāhasya rajaḥśukrapravāhayoḥ // sekoddeśa_55 //
+
+caṇḍālī rajaso vāhāt khagamukhā śukravāhataḥ / ūdhve ṛtau smṛtā strīṇāṃ ḍombī puṃso 'vadhūtikā // sekoddeśa_56 //
+
+vijñānādyaṃ sadā vāme nāḍyāṃ maṇḍalapañcakam / bhūmyādidakṣiṇe nāḍyāṃ madhye vahati ṣaṣṭhamam // sekoddeśa_57 //
+
+nābhipadmadale ṣaṣṭi maṇḍalāni yathākramam /
+vāme ca dakṣiṇe lagne meṣādye vṛṣabhādike // sekoddeśa_58 //
+
+mūle vāme tataḥ savya ūrdhvemadhye 'nilaḥ kramāt / ekaikamaṇḍalaṃ daṇḍādbhūmyādyaṃ nāsarandhrayoḥ // sekoddeśa_59 //
+
+nāḍikā vahati śvāsān saṣaṣṭitriśatān kramāt /
+aṣṭādaśaśataśvāsānnāḍyaḥ pañca vahanti tān // sekoddeśa_60 //
+
+ṣaṣṭi nāḍyo divārātraṃ maṇḍalānīti dehataḥ /
+dalamadhye tataḥ pūrve savye vāme 'pare kramāt // sekoddeśa_61 //
+
+ākāśādyaṃ sadā vāme bhūmyādyaṃ dakṣiṇe 'parāt /
+vijñānādibhavo vāme saṃhāraḥ kṣmādi dakṣiṇe // sekoddeśa_62 //
+
+apare pūrve dharā vāyuḥ prajñopāyaḥ parasparam /
+aṅguṣṭhānāmikādvābhyāṃ yato vaktre 'bhiṣiñcanam // sekoddeśa_63 //
+
+savye vāme havistoyaṃ prajñopāyaḥ parasparam /
+madhyamātarjanīdvābhyāṃ yataḥ khaḍgo bhaviṣyati // sekoddeśa_64 //
+
+ardhacandrākṛtirmudrā daṃṣṭrā kartī kanīyasī /
+śūnyamakṣaramūrdhvādhaḥ prajñopāyaḥ parasparam // sekoddeśa_65 //
+
+daśamaṇḍalasaṃyoge aṅgulīnāṃ parasparam /
+karatale puṭite mūrdhni ekaśūkaṃ sakartikam // sekoddeśa_66 //
+
+viṣuvattanmadhye nāḍyāṃ sṛṣṭisaṃhārakārakam /
+skandhadhātutrivajrāṇāmekatvaṃ madhyamāgatau // sekoddeśa_67 //
+
+candrārkanāḍikāruddhe ruddhā viṇmūtranāḍikāḥ /
+rāhunāḍīvi(ni)ruddhe syādruddhādhaḥ śukravāhinī // sekoddeśa_68 //
+
+mukte muktā bhavantyetāḥ sṛṣṭisaṃhārakārikāḥ /
+saṃcāra eṣa nāḍīnāṃ prāṇāpānatrimārgataḥ // sekoddeśa_69 //
+
+vāmāyāṃ dakṣiṇāyāṃ vā pravahatyadhiko 'nilaḥ / ekarātraṃ tathā pañca trivarṣairmaraṇaṃtataḥ // sekoddeśa_70 //
+
+pañca diktithayo viṃśati tattvānyekottaraṃ kramāt /
+trayastriṃśaddinārohaḥ ariṣṭaṃ dakṣiṇe ravau // sekoddeśa_71 //
+
+tridvyekasamakairmāsaiḥ ṣaṭtriyugmendubhirdinaiḥ /
+tithidikpañcaguṇadvyekairāyurgacchati dehinām // sekoddeśa_72 //
+
+mūlādekottareṇa syādvāme candrasya rohaṇam / dinairmāsairdinairmāsaistridināni dvimāsakau // sekoddeśa_73 //
+
+dine 'riṣṭaṃ śubhe māse vṛddhihānistatastayoḥ /
+madhyamārohaṇaṃ mṛtyoḥ śatābdaparipūrṇataḥ // sekoddeśa_74 //
+
+samaviṣamadinaistasya janmajāto 'tha maṇḍalaiḥ /
+rohaṇaṃ savyavāme ca pakṣadvayavināśanāt // sekoddeśa_75 //
+
+anyathā maraṇaṃ na syāt pakṣadvayasyasaṃsthiteḥ / savyāvasavyasaṃcārāta pañcamaṇḍalavāhataḥ // sekoddeśa_76 //
+
+ariṣṭalakṣaṇaṃ jñātvā prāṇaṃ bindau niveśayet / avadhūtīpadamāśrityabhāvayetparamākṣaram // sekoddeśa_77 //
+
+vajrotthānaṃ sadā kuryāccandrārkagatibhañjanāt /
+anyathā nāvadhūtyaṅge viśati prāṇamārutaḥ // sekoddeśa_78 //
+
+apāno 'dhaśca śaṅkhinyāṃ maraṇaṃ tadaveśataḥ /
+ariṣṭavañcanaṃ hyetadānandairyogināṃ bhavet // sekoddeśa_79 //
+
+śukrāgamanamānandamuṣṇīṣādūrṇṇāpaṅkaje /
+kaṇṭhe hṛdi paramānandaṃ viramānandaṃ tato bhavet // sekoddeśa_80 //
+
+vividhaṃ ramaṇaṃ nābhau guhyapadme yadāgatam /
+guhyādvajramaṇiṃ yāvat sahajānandamacyutam // sekoddeśa_81 //
+
+apratiṣṭhitanirvāṇaṃ mahārāgo 'kṣaraḥ prabhuḥ /
+virāgādyaccyutaṃ saukhyaṃ tannirvāṇaṃ pratiṣṭhitam // sekoddeśa_82 //
+
+śukrendūdaya uṣṇīṣe pūrṇā guhye saroruhe /
+kalā ṣoḍaśamā yā sā maṇipadme vajramūrdhagā // sekoddeśa_83 //
+
+tadūrdhvaṃ cyutikālaḥ syāt kṛṣṇapratipadāgame /
+ravistūrṇāpadaṃ yāti amāvasyāṃ virāgataḥ // sekoddeśa_84 //
+
+kalā ṣoḍaśamā tasya uṣṇīṣakamale gatā /
+naṣṭacandra ihākhyāto viraktī rāgasaukhyataḥ // sekoddeśa_85 //
+
+adhaścandrāmṛtaṃ yāti maraṇe sarvadehinām /
+ūrdhve sūryarajo rāhuvijñānaṃ bhāvalakṣaṇe // sekoddeśa_86 //
+
+ataścandrāmṛtasyordhve kartavyaṃ gamanaṃ nṛpa /
+adho 'rkarajaso rāhuvijñānasyākṣare sukhe // sekoddeśa_87 //
+
+ūrṇṇābje sarvabuddhānāṃ candrāmṛtasya pūrṇimā /
+amārkarajaso guhye kaloṣṇīṣe maṇau tayoḥ // sekoddeśa_88 //
+
+iti vajrapadaṃ śāsturviparītaṃ sarvadehinām /
+apratiṣṭhitanirvāṇādviparītaṃ yānti dhātavaḥ // sekoddeśa_89 //
+
+maṇau cittaṃcaguhye vākkāyo nābhau mahāsukhāt / dharmasambhoganirmāṇāḥ śuddhakāyāt spharantyamī // sekoddeśa_90 //
+
+adhopāyasya rājendra prajñāyāūrdhvato bhavet / lalāṭe kāyavajramasyā grīvahṛnnābhipaṅkaje // sekoddeśa_91 //
+
+vākcittajñānavajrāṇi nirmāṇādyāt spharantyamī /
+spharaṇaṃ skandhadhātūnāṃ nirāvaraṇataḥ sukhāt // sekoddeśa_92 //
+
+karmamudrāsamāpattyā jñānamudrāvalambanaiḥ /
+mahāmudraikayogena vṛddhiṃ yāti tadakṣaram // sekoddeśa_93 //
+
+vṛddhasya na ca syāt vṛddhiḥ kṣīṇasya kṣīṇatā na ca /
+astaṃgatasya nāstamanamuditasyodayaṃ na hi // sekoddeśa_94 //
+
+na prakāśaḥ prakāśasya pihitaṃ pihitasya na /
+jātasyaiva na janma syān mṛtasya maraṇaṃ na ca // sekoddeśa_95 //
+
+muktasya na ca muktiḥ syādasthitasya ca cāsthitiḥ /
+abhāvo na hyabhāvasya bhāvo bhāvasya naiva ca // sekoddeśa_96 //
+
+kṣarasyāpi kṣaro na syādakṣarasya na cākṣaraḥ /
+svabhāvābhāvadharmāṇāṃ māyotpādaḥ kṣayastathā // sekoddeśa_97 //
+
+na kṣayaṃ yānti bhūtāni na jāyante svabhāvataḥ /
+niḥsvabhāvamidaṃ viśvaṃ bhāvābhāvaikalakṣaṇam // sekoddeśa_98 //
+
+svaprajñāliṅgitaṃ cittaṃ padme vajramaṇau gatam /
+tatra candragataspando niḥspandākṣarabhāvanā // sekoddeśa_99 //
+
+kāyavākcittanāḍīṣu kāyavākcittabhāvanā /
+samāhārastrivajrāṇāṃ śaṅkhinyāṃ jñānabhāvanā // sekoddeśa_100 //
+
+prajñārāgadrutānāṃ ca bindūnāṃ śirasaḥ kramāt /
+pūrṇāpadaṃ praviṣṭānāṃ bandhanaṃ paramārthataḥ // sekoddeśa_101 //
+
+yathoditaḥ kramāccandraḥ kalābhiryāti pūrṇatām / vāsanāharaṇaṃ pūrṇānacandracchedo na pūraṇam // sekoddeśa_102 //
+
+tathoditaṃ kramājjñānaṃ bhūmibhiryāti pūrṇatām / kleśādyāharaṇaṃ pūrṇānajñānacchedo na pūraṇam // sekoddeśa_103 //
+
+yathā madhyaśaśāṅkena pūrṇāyāṃ na sthiraḥ śaśī /
+saṃsāravāsanāṅkena tathā cittaṃ sukhe 'kṣare // sekoddeśa_104 //
+
+utpattiḥ pralayaḥ pakṣaḥśuklaḥkṛṣṇaḥ pratiṣṭhitaḥ / tayormadhye tu yā pūrṇā sā pūrṇā na pratiṣṭhitā // sekoddeśa_105 //
+
+ekakṣaṇābhisambuddhaṃ pūrṇāyāṃ niścalaṃ bhavet /
+yadā vajramaṇau citaṃ tat sarvakṣaṇapūrakam // sekoddeśa_106 //
+
+na sthitiḥ śuklapakṣe 'sya gamanaṃ nāsite kvacit /
+pakṣadvayasya madhyasthaṃ pūrṇāyāṃ gatamadvayam // sekoddeśa_107 //
+
+uṣṇīṣādudayaṃ tasya pūrṇā vajramaṇau bhavet / savirāgāt kalāhānirvajrāddhāneḥ prapūrṇatā // sekoddeśa_108 //
+
+uṣṇīse hyudayo bhūyaḥ pūrṇā vajramaṇau punaḥ /
+savirāgāt kalāhānirjñānahānirna dehinām // sekoddeśa_109 //
+
+mahāsukhasvabhāvo 'sya pūrṇāśabdena gīyate / anyabhāvāntaraṃ sarvaṃ sṛṣṭisaṃhārahetukam // sekoddeśa_110 //
+
+bhavādgacchati nirvāṇaṃ tasmādeti punarbhavam /
+svapakṣābhyāṃ yathāṃ candro 'yanābhyāṃ bhāskaro yathā // sekoddeśa_111 //
+
+pūrṇāyāṃ niścalasyāsya bhūmibhiḥ paripūrṇatā /
+dvyayutadvyaṣṭaśataiḥ śvāsairakṣarakṣaṇabhakṣitaiḥ // sekoddeśa_112 //
+
+pakṣadvayaṃ vyatikramya bhūmibhiḥ paripūritam /
+dvādaśākārasatyārthaṃ ṣoḍaśākāramakṣaram // sekoddeśa_113 //
+
+bhūmibhirdvādaśākāraṃ pūritaṃ paramādvayam /
+kalābhiḥ pūritaṃ cittaṃ ṣoḍaśākāramakṣaram // sekoddeśa_114 //
+
+ekārthamadvayaṃ dharmaṃ paramārthamavinaśvaram /
+pūrṇāvasthāṃ gataṃ cittaṃ āsamantāt prapūritam // sekoddeśa_115 //
+
+virāgādimahārāgaṃ vajrānaṅgaṃ mahākṣaram / paripūrṇamasaṃkliṣṭaṃ pakṣadvayasyavāsanaiḥ // sekoddeśa_116 //
+
+yathā nadyudakaṃ viṣṭaṃ samudre tatpayaḥsamam / tathā bhāvasamūho 'yamakṣare tatsamo 'kṣaraḥ // sekoddeśa_117 //
+
+yathā dhātusamūho 'yaṃ rasatvaṃ yāti bhakṣitaḥ / bījairbījasva bhāvaṃ ca phalakāle mānavarjitam // sekoddeśa_118 //
+
+evaṃ bhāvasamūho 'pi paramākṣarabhakṣitaḥ /
+paramākṣaratāṃ yāti sarvākārasvarūpadhṛk // sekoddeśa_119 //
+
+na daṃśe vedanāṃ vetti nānyatra cāpi daṣṭakaḥ /
+na viṣayānindriyadvāraiḥ pūrṇāvasthāṃ viṣe gate // sekoddeśa_120 //
+
+evaṃ na ca maṇau yogī nānyatra vetti satsukham /
+na viṣayānindriyadvāraiścitte pūrṇakalāṃ gate // sekoddeśa_121 //
+
+yathā lohaikadeśe 'pi saṃsthito hi mahārasaḥ /
+lohaṃ tīvrāgnisaṃtaptaṃ vedhayedāsamantataḥ // sekoddeśa_122 //
+
+tethaivaikapradeśe 'pi saṃsthitaṃ sukhamakṣaram /
+cittaṃ kāmāgnisaṃtaptaṃ vedhayedāsamantataḥ // sekoddeśa_123 //
+
+yathā ca viddhalohānāṃ naiva malo bhavet kvacit /
+tathā ca viddhacittānāṃ na vāsanā bhavet kvacit // sekoddeśa_124 //
+
+hematvaṃ hi gataṃ lohamagninā nirmalaṃ bhavet /
+bhūyo bhūyastathā cittaṃ nirmalaṃ rāgavahninā // sekoddeśa_125 //
+
+yathā mahāmaṇisparśādyāti śīlā pradīptatām /
+tathākṣarasukhasparśāt sukhatāṃ cittameti vai // sekoddeśa_126 //
+
+kimatra bahunoktena lokasaṃvṛtisatyataḥ /
+avitarkyo rasasadbhāvo lohasyāvedhanaṃ prati // sekoddeśa_127 //
+
+vitarkyo jñānasadbhāvaḥ kiṃ punaḥ paramārthataḥ /
+malāgantukaliptasya cittasyāvedhanaṃ prati // sekoddeśa_128 //
+
+nāgantuko malaścitte na cittāccirakālikaḥ /
+na cittena vinā jāto na citte saṃsthito 'vyayaḥ // sekoddeśa_129 //
+
+yadyāgantuka eva syāccittaṃ prāgamalaṃ tadā /
+cirakālī yadā cittāttasyaiva sambhavaḥ kutaḥ // sekoddeśa_130 //
+
+yadi cittaṃ vinā jātastadā khakusumaṃ yathā /
+yadi sthitaḥ sadā citte na naśyet sarvatastadā // sekoddeśa_131 //
+
+tāmrasya kālimā yadvadrasayogena naśyati /
+na tasya sattvatā naśyennirmalatvena yā sthitā // sekoddeśa_132 //
+
+tadvaccittamalaḥ śūnyatāyogena praṇaśyati /
+na tasya jñānatā naśyennirmalatvena yā sthitā // sekoddeśa_133 //
+
+rasaviddho yathā loho na punarlohatāṃ vrajet /
+sukhaviddhaṃ tathā cittaṃ na punarduḥkhatāṃ vrajet // sekoddeśa_134 //
+
+na virāgāt paraṃ pāpaṃ na puṇyaṃ sukhataḥ param /
+ato 'kṣarasukhe cittaṃ veśanīyaṃ sadā nṛpa // sekoddeśa_135 //
+
+vaktuṃ na śakyate saukhyaṃ kumāryā surataṃ vinā /
+yauvane surataṃ prāpya svato vetti mahāsukham // sekoddeśa_136 //
+
+evaṃ na śakyate vaktuṃ samādhirahitaiḥ sukham /
+samādhāvakṣaraṃ prāpya svato vindanti yoginaḥ // sekoddeśa_137 //
+
+akṣarajasukhajñāne sarvajñairapi śaṃkyate /
+tathā kvacinna kartavyo virāgo manaso 'sukhāt // sekoddeśa_138 //
+
+cyutervirāgasaṃbhūtirvirāgādduḥkhasaṃbhavaḥ /
+duḥkhāddhātukṣayaḥ puṃsāṃ kṣayān mṛtyuriti smṛtaḥ // sekoddeśa_139 //
+
+mṛtyoḥ punarbhavasteṣāṃ bhavān mṛtyuścyutiḥ punaḥ /
+evaṃ virāgasaṃbhūteḥ sattvānāṃ nānyathā bhavaḥ // sekoddeśa_140 //
+
+tasmāt sarvaprayatnena cyutirāgaṃ vivarjayet /
+yenākṣarasukhaṃ yāti yogī saṃsārabandhanāt // sekoddeśa_141 //
+
+kāmuko 'pi virāgānna kāmaśāstraṃ samīhate /
+mayokte kiṃ punastantre yogī duḥkhaṃ samīhate // sekoddeśa_142 //
+
+śukrākṣarasvabhāvena sādhayet paramākṣaram /
+ādhāre cyutimāpanne ādheyasya virāgatā // sekoddeśa_143 //
+
+ādhārādheyasaṃbandho yāvannākṣaratāṃ vrajet /
+cittamakṣaratāprāptaṃ nādhārādheyalakṣaṇam // sekoddeśa_144 //
+
+akṣarodbhavakāyasya ūrṇṇācakragatasya tu /
+ālikālisamāyogo hūṃkāro neṣyate nṛpa // sekoddeśa_145 //
+
+bimbaṃ śūnyodbhavaṃ hetuḥ phalamakṣarajaṃ sukham /
+phalena mudrito heturhetunā mudritaṃ phalam // sekoddeśa_146 //
+
+śūnyatā bimbadhṛgghetuḥ karuṇākṣaradhṛk phalam /
+śūnyatākaruṇābhinnaṃ bodhicittaṃ tadacyutam // sekoddeśa_147 //
+
+nirvāṇarahitaṃ bimbaṃ saṃsārātītamakṣaram /
+śāścatocchedanirmuttastatoryogo 'dvayo 'paraḥ // sekoddeśa_148 //
+
+abhāvo nāsti bimbasya abhāvodbhūtalakṣaṇāt /
+bhāvo nāstyakṣarasyāpi bhāvasambhūtalakṣaṇāt // sekoddeśa_149 //
+
+bhāvābhāvasamāyogo vajrayogo 'dvayo 'paraḥ /
+rūpārūpavinirmuktaḥ pratiseneva darpaṇe // sekoddeśa_150 //
+
+bimbaṃ na bhavamāyāti nāpi nirvāṇamakṣaram /
+anyonyāliṅgitaṃ śāntaṃ napuṃsakapadaṃ param // sekoddeśa_151 //
+
+prajñāhetorajātatvāt prajñāhetūdbhavaṃ phalam /
+prajñāhetorajātatvāt prajñājātaṃ na hetujam // sekoddeśa_152 //
+
+ato na hetujaṃ jñānaṃ prajñājñānamanuttaram /
+phalena hetunānyonyaṃ na parasparamudraṇam // sekoddeśa_153 //
+
+hetuḥ phalaṃ ca yat sarvaṃ tat pratītyasamudbhavam /
+anyonyamudritaṃ bimbaṃ notpannaṃ na ca nirvṛtam // sekoddeśa_154 //
+
+prajñā cātyantanirvṛtā utpannaśca paro 'kṣaraḥ /
+hetuphalavinirmuktirna parasparamudraṇam // sekoddeśa_155 //
+
+ajātasyāniruddhasya yajjñeyasyeha darśanam /
+tat svacittasya nānyasya bāhyajñeyavibhāgataḥ // sekoddeśa_156 //
+
+ato na cātmanātmānaṃ mudrituṃ śakyate kvacit /
+kiṃ chinatti mahākhaḍga ātmānamātmadhārayā // sekoddeśa_157 //
+
+bandhyāduhitṛsaṃgena svapne saukhyaṃ yathā bhavet /
+gaganodbhavabimbena sevitena tathātmanaḥ // sekoddeśa_158 //
+
+na prajñā nāpyupāyo 'sau sahajaḥ prajñayā saha /
+āpūrṇaścaiva saukhyena sarvāvaraṇavarjitaḥ // sekoddeśa_159 //
+
+ākāśavannirāvaraṇo viṣayendriyavarjitaḥ /
+sarvataḥ sarvabhūtastha acchedyo bhedavarjitaḥ // sekoddeśa_160 //
+
+svayambhūrvajrasattvo 'sau mahārthaḥ paramākṣaraḥ /
+mahārāgo mahāsattvaḥ sarvasattvaratiṃkaraḥ // sekoddeśa_161 //
+
+bodhisattvo mahādveṣaḥ kleśakṣayī mahāripuḥ /
+samayasattvo mahāmoho mūḍhadhīmohasūdanaḥ // sekoddeśa_162 //
+
+vajrayogo mahākrodhaḥ kruddhamāramahāripuḥ /
+kālacakro mahālobhaḥ kṣaralobhaniṣūdanaḥ // sekoddeśa_163 //
+
+vajramabhedyamityāha mahārthaṃ bhagavāniha /
+sattvaṃ tribhavasyaikatā taduktaṃ paramākṣaram // sekoddeśa_164 //
+
+paramākṣarasukhāpūrṇo bhūmibhiḥ paripūritaḥ /
+mahārāgo mahāsattvaḥ sarvasattvaratiṃkaraḥ // sekoddeśa_165 //
+
+bodhau vyavasthitaḥ sattvo bodhisattvastato 'calaḥ /
+kleśādidveṣasaṃghānāṃ mahādveṣo mahāripuḥ // sekoddeśa_166 //
+
+samayaścandrāmṛtaṃ śukramacyutistasya bhakṣaṇam /
+samayasattvo 'nayā vṛttyā mūḍhadhīmohasūdanaḥ // sekoddeśa_167 //
+
+ekatvaṃ sarvavajrāṇāṃ prajñākāyākṣaraiḥ saha /
+mahākrodho mahāśatrurmārāṇāṃ krodharūpiṇām // sekoddeśa_168 //
+
+mahākṣarasukhopāyāt sattvārthaṃ na tyajet kvacit /
+sattvān moktuṃ mahālobhaḥ kṣaralobhaniṣūdanaḥ // sekoddeśa_169 //
+
+ete hyuktāḥ ṣaḍākārā akṣarajñānavedanā /
+vijñānarūpasaṃskārasaṃjñāḥ skandhakulāni te // sekoddeśa_170 //
+
+jñānāgnyambarapṛthivīvāyūdakā yathākramam /
+manaścakṣuḥśrutikāyanāsajihvāstathaiva ca // sekoddeśa_171 //
+
+śabdarasadharmadhātukagandhaspraṣṭavyarūpiṇaḥ /
+krodharāṭ ṣaṇmukho bhīmaḥ ṣaṭkulaiḥ pariśodhitaḥ // sekoddeśa_172 //
+
+kāyaguhyendriyacittaṃ trividhaṃ maṇḍalaṃ sadā /
+prajñopāyatrivajrāṇāṃ jāyate vajrasattvatā // sekoddeśa_173 //
+
+idaṃ sekasya sādhanaṃ paramākṣarasādhanam /
+nāḍīkulasamāyuktamuddeśāccandra bhāṣitam // sekoddeśa_174 //
+
+iti śrīsekoddeśaḥ samāptaḥ

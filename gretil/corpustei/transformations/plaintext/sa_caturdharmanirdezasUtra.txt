@@ -1,0 +1,67 @@
+Caturdharmanirdeśasūtra
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_caturdharmanirdezasUtra.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Ngawang Samten and Janardan Pandey in: Dhih Journal, vol. 35, Sarnath: Central Institute of Higher Tibetan Studies, 2003, pp. 45-52.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Caturdharmanirdeśasūtra = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsu013_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Aryacaturdharmanirdesasutra = Cdhn
+Based on the edition by Ngawang Samten and Janardan Pandey
+in: Dhih Journal, vol. 35,
+Sarnath: Central Institute of Higher Tibetan Studies, 2003, pp. 45-52.
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sutra section, text no. 13
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+āryacaturdharmanirdeśasūtram
+
+(pāpaśodhanopāyabhūtaṃ catuḥpratipakṣabalanirdeśasūtram)
+
+(kha) saṃskṛte punaruddhāritam bhāratīyabhāṣāyām - āryacaturdharmanirdeśaṃ nāma mahāyānasutram /
+
+namaḥ sarvabuddhabodhisattvebhyaḥ evaṃ mayā śrutam - ekasmin samaye bhagavān buddhaḥ trāyastriṃśadeveṣu sudharmādevasabhāyāṃ sārddhaṃ pañcānāṃ bhikṣuśatānāṃ mahāsaṃghena, saṃbahulaiḥ maitreyamañjuśryādibodhisattvairmahāsattvairviharatisma / tasmin samaye bhagavān buddhaḥ bodhisattvaṃ mahāsattvaṃ maitreyamuddiśyopadiṣṭavān -
+
+caturbhirmaitreya! dharmaiḥ samanvāgato bodhisattvo mahāsattvaḥ kṛtopacitaṃ pāpamabhibhavati / katamaiścaturbhiḥ? yaduta vidūṣaṇāsamudācāreṇa, pratipakṣasamudācāreṇa, pratyāpattibalena, āśrayabalena ca / tatra vidūṣaṇāsamudācāro 'kuśalaṃ karmādhyācarati, tatraiva tatraiva ca vipratisārabahulo bhavati / tatra pratipakṣasamudācāraḥ kṛtvā 'pyakuśalaṃ karma kuśale karmaṇyatyarthābhiyogaṃ gataḥ / pratyāpattibalaṃ saṃvarasamādānādakaraṇasaṃvaralābhaḥ / tatrāśrayabalaṃ buddhaḥdharmasaṃghaśaraṇagamanamanutsṛṣṭabodhicittatā ca / subalavatsaṃniśrayeṇa na śakyate pāpenābhibhavitum / ebhirmaitreya !caturbhidharmaiḥ samanvāgato bodhisattvo mahāsattvaḥ kṛpopacittaṃ pāpamabhibhavatīti //
+
+bodhisattvairmahāsattvaiḥ sūtramidaṃ sadā paṭhanīyaṃ (vācayitavyaṃ) svādhyāyitavyaṃ cintayitavyaṃ subahulaṃ bhāvayitavyaṃ ca / anena duścaritāni phalaṃ nābhinirvartiṣyante / evaṃ bhagavān upadiṣṭavān / bodhisattvena mahāsattvena maitreyeṇa taiśca bhikṣubhiḥ bodhisattvaiḥ śatakratvādidevaputraiḥ sarvasampannaparimaṇḍalena ca āptamanasā bhagavataḥ pravacanamabhinanditam /
+
+// iti āryacaturdharmanirdeśaṃ nāma mahāyānasūtraṃ samāptam //
+
+bhāratīyopādhyāyasurendrabodhinā mahālocāvā - vandejñānasenena cānūditaṃ vyavasthāpitaṃ ca /
+
+// bhavatu sarvamaṅgalam //

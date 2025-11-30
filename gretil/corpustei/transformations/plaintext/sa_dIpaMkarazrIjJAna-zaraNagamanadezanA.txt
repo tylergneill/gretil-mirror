@@ -1,0 +1,110 @@
+Dīpaṃkaraśrījñāna [= Atīśa]: Śaraṇagamanadeśanā
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dIpaMkarazrIjJAna-zaraNagamanadezanA.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - .
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Śaraṇagamanadeśanā = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsa036_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Dipankarasrijnana [=Dipamkarasrijnana = Atisa]:
+Saranagamanadesana
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sastra section, text no. 36
+The transliteration emulates the conventions of Nagari script.
+Therefore, many word boundaries are not marked by blanks.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+śaraṇagamanadeśanā
+
+namo ratnatrayāya
+
+tryapāyapañcayonīnāṃ sarvaduḥkhavighātakam /
+śreyo 'bhyudayasaukhyānāṃ dātāraṃ praṇamāmi tam // 1 //
+
+atra śaraṇagamanamabhidhāsye / samāsataḥ / 
+adhiṣṭhānasthitī cintā kālaprakṛtimānakam /
+nayaḥ śikṣā niruktiśca karmaupamyavibhaktayaḥ /
+ādīnavārthaśaṃsāśca proktāḥ pañcadaśa kramāt // 2 //
+
+
+tatra adhiṣṭhānapudgalastu dvividhaḥ- mahāyānagotrīyo hīnayānagotrīyaśca / sthitirdvividhā- mahā-hīna-yānabhedataḥ / tatraivaṃ hi tāvad mahāyānaśāstreṣu ratnatrayam- tathatāratnatrayam, abhisamayaratnatrayaṃ, sammukhasthaṃ ca ratnatrayam /
+
+taccaivam- jñeyāviparyastajñānam, nirvikalpādvayajñānam, dharmadhātvavasthitatvaṃ ca / tadeva viśuddha-dharmadhātuprajñāpāramitā, samāhitāvasthāyāṃ gaganatalavat samastadharmasākṣātkāriṇyāṃ mahābhūmau avasthitāḥ bodhisattvāśca (tathatāratnatrayam) /
+
+atha caivaṃ- dvividho rupakāyaḥ , santānāvasthitāścatuḥsatya-saptatriṃśadbodhipākṣikadharma-bhūmi-pāramitādayo dharmāḥ, prayogamārgīyāśca bodhisattvāḥ /
+
+punaścaivam- citrāṅkitatotkīrṇaniṣiktamṛṇmayādi (buddhapratimādi) - navāṅgapravacanamayapothīpustakādi, saṃbhāramārgīyāśca bodhisatvāḥ / hīnayānaśāstraṃ tāvat-
+
+buddhasaṃghakarāndharmān aśaikṣānubhayāṃśca saḥ / nirvāṇaṃ ceti śaraṇaṃ yo yāti śaraṇatrayam // 3 // iti / tatra āśayo mahāyānināntu aśeṣasattvārthacintanam / itarasya ca ātmārthameva cintanam /
+
+tatra avadhirmahāyānināntu bodhimaṇḍaparyantam / itarasya tu yāvajjīvanaṃ pratijñā /
+
+tatra svabhāvo hrī-apatrapāyuktatā avijñaptpādaśca / tatra mānaṃ tu svīkaraṇam, śaraṇakaraṇaṃ vijñaptyutpādaśca / tatra nayastu śaraṇagamanavidhiḥ / sa ca guroravagantavyaḥ / tatra śikṣā sādhāraṇī asādhāraṇī ca gurupādebhyo jñeyā / tatra niruktistu dāsabhāvaḥ taditarasvāminamananviṣya śaraṇagamanam /
+
+tatra kāritraṃ tu bodhicittamahāvṛkṣotpādasya mūlatvam, mokṣamahānagarasya praveśadvāratvam, upavāsādisarvasaṃvarāṇām āśrayatvam /
+
+tatraupamyaṃ tāvad rājñaḥ mantriṇo vā prajāgaṇasya tadvacanānatikramaṇam, tadārādhanamiva ca /
+
+tatra bhedastu sādhāraṇāsādhāraṇatvena viśiṣṭaḥ /
+
+tatra ādīnavau dvau / śaraṇacyutirajñānaṃ vā / cyavanaṃ cyutirvā yathā candrakīrtipādānām-
+
+gṛhītvā sadadhiṣṭhānaṃ punarhīnasamāśraye / cyutipakṣāśrayatvāt so yāti sajjanahāsyatām // 4 // ityuktirnidarśanamātram /
+
+tatrārthastu yathoktaṃ bhagavatā-
+
+"bahavaḥ śaraṇaṃ yānti parvatāṃśca vanāni ca /
+ārāmānvṛkṣāṃścaityāṃśca manuṣyā bhayavarjitāḥ // 5 //
+
+na tvetaccharaṇaṃ śreṣṭhaṃ naitaccharaṇamuttamam /
+naitaccharaṇamāgamya sarvaduḥkhātpramucyate // 6 //
+
+yastu buddhaṃ ca dharma ca saṃghaṃ ca śaraṇaṃ gataḥ /
+catvāri cāryasatyāni paśyati prajñayā yadā // 7 //
+
+duḥkhaṃ duḥkhasamutpādaṃ duḥkhasya samatikramam /
+ārya cāṣṭāṅgikaṃ mārga kṣemaṃ nirvāṇagāminam // 8 //
+
+etaddhi śaraṇaṃ śreṣṭhaṃ etaccharaṇamuttamam / etaccharaṇamāgamya sarvaduḥkhāt pramucyate // 9 // iti /
+
+śaraṇagamamārthaḥ tādṛśaḥ /
+
+tatrānuśaṃsāstimnaḥ / hetukālānuśaṃsā mārgakālānuśaṃsā phalakālānuśaṃsā ca / hetukālā ehikī āmuṣmikī ca / ehikānuśaṃsā aṣṭamahābhayamokṣaḥ, anantarāyaḥ, śāsanapriyadevasāhāyyam, maraṇakāle ca cittaharṣādi / āmuṣmikī tu saṃsāradurgati-duḥkhebhya uddharaṇam, nirvāṇābhyudayasukhapradattvañca / mārgānuśaṃsā tu catu-(rārya-)satyāryāṣṭāṅgikamārga-saptabodhyaṅgādiyojanam / phalānusaṃsā dvividhanirvāṇasya trikāyasya ca prāptiḥ /
+
+idaṃ hi saṃkṣiptam, vistaraṃ tu guruśāstrabhyo jñeyam /
+
+śaraṇagamanadeśanā-nāma gurubodhisattva-dīpaṅkara-śrījñānaviracitā samāptā //

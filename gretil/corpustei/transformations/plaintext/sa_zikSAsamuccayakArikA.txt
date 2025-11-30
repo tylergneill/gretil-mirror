@@ -1,0 +1,129 @@
+Śikṣāsamuccayakārikā
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_zikSAsamuccayakArikA.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - .
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Śikṣāsamuccayakārikā = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsa014_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Siksasamuccayakarika
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sastra section, text no. 14
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+śikṣāsamuccayakārikā (śsk)
+
+yadā mama pareṣāṃ ca bhayaṃ duḥkhaṃ ca na priyam /
+tadātmanaḥ ko viśeṣo yattaṃ rakṣāmi netaram // śsk_1 //
+
+duḥkhāntaṃ kartukāmena sukhāntaṃ gantumicchatā /
+śraddhāmūlaṃ dṛḍhīkṛtya bodhau kāryā matirdṛḍhā // śsk_2 //
+
+(śikṣādaro) mahāyānādbodhisattvasya saṃvaraḥ /
+marmasthānānyato vidyādyenānāpattiko bhavet // śsk_3 //
+
+ātmabhāvasya bhogānāṃ tryadhvavṛtteḥ śubhasya ca /
+utsargaḥ sarvasattvebhyastadrakṣā śuddhivardhanam // śsk_4 //
+
+paribhogāya sattvānāmātmabhāvādi dīyate /
+arakṣite kuto bhogaḥ ki dattaṃ yanna bhujyate // śsk_5 //
+
+tasmātsattvopabhogārthamātmabhāvādi pālayet /
+kalyāṇamitrānutsargāt sūtrāṇāṃ ca sadekṣaṇāt // śsk_6 //
+
+tatrātmabhāve kā rakṣā yadanarthavivarjanam /
+kenaitallabhyate sarvaṃ niṣphalaspandavarjanāt // śsk_7 //
+
+etatsidhyetsadā smṛtyā smṛtistīvrādarādbhavet /
+ādaraḥ śamamāhātmyaṃ jñātvātāpena jāyate // śsk_8 //
+
+samāhito yathābhūtaṃ prajānātītyavadanmuniḥ /
+śamācca na caleccitaṃ bāhyaceṣṭā nivartanāt // śsk_9 //
+
+sarvatrāpacalo mandamatisnigdhābhibhāṣaṇāt /
+āvavarjayejjanaṃ bhavyamādeyaścāpi jāyate // śsk_10 //
+
+anādeyaṃ tu taṃ lokaḥ paribhūya jināṅkuram /
+bhasmacchanno yathā vahniḥ pacyeta narakādiṣu // śsk_11 //
+
+ratnameghe jinenoktastena saṅkṣepasaṃvaraḥ /
+yenāprasādaḥ sattvānāṃ tadyatnena vivarjayet // śsk_12 //
+
+eṣā rakṣātmabhāvasya bhaiṣajyavasānādibhiḥ /
+ātmatṛṣṇopabhogāttu kliṣṭāpattiḥ prajāyate // śsk_13 //
+
+sukṛṭārambhiṇā bhāvyaṃ mātrajñena ca sarvataḥ /
+iti śikṣāpadādasya bhogarakṣā na duṣkarā // śsk_14 //
+
+svārthavipāka vaitṛṣṇyācchubhaṃ saṃrakṣitaṃ bhavet /
+paścātāpaṃ na kurvīta na ca kṛtvā prakāśayet // śsk_15 //
+
+lābhasatkārabhītaḥ syādunnatiṃ varjayetsadā /
+bodhisattvaḥ prasannaḥ syāddharme vimatimutsṛjet // śsk_16 //
+
+śodhitasyātmabhāvasyabhogaḥ pathyo bhaviṣyati /
+samyaksiddhasya bhaktasya niṣkaṇasyeva dehinām // śsk_17 //
+
+tṛṇacchanna yathā śasyaṃ rogaiḥ sīdati naidhate /
+buddhāṅkurastathā vṛddhiṃ kleśacchanno na gacchati // śsk_18 //
+
+ātmabhāvasya kā śuddhiḥ pāpakleśaviśodhanam /
+sambuddhottayarthasāreṇa yatnabhāve tvapāyagaḥ // śsk_19 //
+
+kṣameta śrutameṣeta saṃśrayeta vanaṃ tataḥ /
+sāmādhānāya yujyeta bhāvayedaśubhādikam // śsk_20 //
+
+bhogaśuddhiṃ ca jānīyātsamyagājīvaśodhanāt /
+śūnyatākaruṇāgarbheceṣṭitātpuṇyaśodhanam // śsk_21 //
+
+grahītāraḥ subahavaḥ svalpaṃ ceda manena kim /
+na cātitṛptijanakaṃ vardhanīyamidaṃ tataḥ // śsk_22 //
+
+ātmabhāvasya kā vṛddhirbalānālasyavardhanam /
+śūnyatākaruṇāgarbhāddānādbhogasya vardhanam // śsk_23 //
+
+kṛtvādāveva yatnena vyavasāyāśayau dṛḍhau /
+karuṇāṃ ca puraskṛtya yateta śubhavṛddhaye // śsk_24 //
+
+bhadracaryāvidhiḥ kāryo vandanādiḥ sahādarāt /
+śraddhādīnāṃ sadābhyāso maitrī buddhādyanusmṛtiḥ // śsk_25 //
+
+sarvāvasthāsu sattvārtho dharmadānaṃ nirāmiṣam /
+bodhicittaṃ ca puṇyasya vṛddhihetuḥ samāsataḥ // śsk_26 //
+
+siddhiḥ samyakprahāṇānāmapramādāviyojanāt /
+smṛtyātha samprajanyena yoniśaścintanena ca // śsk_27 //

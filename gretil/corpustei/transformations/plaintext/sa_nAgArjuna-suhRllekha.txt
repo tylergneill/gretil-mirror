@@ -1,0 +1,426 @@
+Nāgārjuna: Suhṛllekha
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-suhRllekha.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Padma Tendzin: Suhridlekha. Varanasi : Central Institute of High Tibetan Studies (CIHTS), 2002.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Suhṛllekha = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsa015_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Nagarjuna: Suhrllekha
+Based on the ed. by Padma Tendzin: Suhridlekha.
+Varanasi : Central Institute of High Tibetan Studies (CIHTS), 2002.
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sastra section, text no. 15
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+ācāryanāgārjunaviracitaḥ
+
+suhṛllekhaḥ (sl)
+
+prakṛtisukṛtārhaguṇāḍhya sugatavacobhyaḥ samudānītāśca mayā /
+śubhamālakṣya kṛtā vai kāścidāryāgītayastvayā ca śravyāḥ // sl_1 //
+
+dārumayī hyapi pratimā sampūjyate kāpi sugatasya vidvadbhiḥ /
+tathāmanojñaṃ kāvyaṃ saddharmāśrayācca mamedaṃ na nindyam // sl_2 //
+
+mahāmuneratimadhuraṃ manye vacanaṃ bhavatāvagatameva syāt /
+ākalpitaṃ tu sudhayā nanvatidhavalaṃ na dṛśyate candrikayā? // sl_3 //
+
+jinairbuddhadharmasaṃghaśīlatyāgadevādiṣaḍanusmṛtayaḥ /
+pradarśitāstāstu tadguṇasambhāraiḥ pṛthaganusmaraṇīyāśca // sl_4 //
+
+daśakuśalāḥ karmapathāḥ kāyavākcittaiḥ sarvadābhyasanīyāḥ /
+madyādibhirnivṛte puṇyamayaiścājīvaiḥ suprasannaḥ syāḥ // sl_5 //
+
+jñātvā calāmasārāṃ sampattiṃ dvijabhikṣudīnamitrebhyaḥ /
+dānaṃ deyaṃ vidhinā janmāntareṣu na dānāt paraṃ mitram // sl_6 //
+
+śīlaṃ sevyamamiśraṃ tvayānupahatālaṃghitānupaliptaṃ ca /
+carācarapratiṣṭhaṃ tu guṇāśrayaṃ bhūvacca rājate śīlam // sl_7 //
+
+ṣaḍimā dānaṃ śīlaṃ kṣāntivīryadhyānaprajñāḥ pāramitāḥ /
+aprameyāḥ saṃvardhya bhavecca bhavasāgarapārago jinendraḥ // sl_8 //
+
+yatra pūjā pitṝṇāṃ kulaṃ tadācāryabrahmabhiḥ samṛddham /
+tatpūjayā ca kīrtistadanantaraṃ cādhigamyate 'bhyudayo 'pi // sl_9 //
+
+hiṃsācaurye madirā kāmāticāramṛṣoktinṛtyagītāni /
+tyājyānyakālabhaktaṃ mālāgandhādiviśeṣoccaśayanāni // sl_10 //
+
+anukṛtyārhacchīlaṃ kuryādupoṣadhamaṣṭābhiraṅgaiścet /
+labhate hi pumān strī vā suramyakāmāvacarādidevakāyam // sl_11 //
+
+mātsaryaśāṭhyamāyābhimānāsaktikausīdyarāgadveṣān /
+kularūpayauvanaśrutabalādijaṃ madaṃ ripumiva paripaśyecca // sl_12 //
+
+apramādo 'mṛtapadaṃ pramādo mṛtyupadamiti muninādiṣṭam /
+kuśaladharmasya vṛddhaye sadāpramādo 'bhyasanīyastvayā caiva // sl_13 //
+
+pūrvapramattaḥ ko 'pi meghānnirgatenduriva tato 'pramādī /
+sa hi nandāṅgulimālodayanājātaśatrusadṛśaḥ suśobheta // sl_14 //
+
+kṣāntisamaṃ naiva tapastatastvayā na krodhāvasaro deyaḥ /
+buddhenānumataṃ vai padamavaivartikaṃ krodhaprahāṇena // sl_15 //
+
+akrośīdavadhīnmāmajaiṣīnmāmahārṣīd vai vittaṃ me /
+vairairebhiḥ kalahastyajati ya etad vairaṃ sa sukhaṃ śete // sl_16 //
+
+jale 'vanau pāṣāṇe citramiva cittaṃ tridhā khalu sattvānām /
+kleśavatāṃ hi prathamo dharmābhilāṣiṇāmantimo jyāyān // sl_17 //
+
+vācastridhā janebhyaḥ proktā jinena madhurasatyamithyākhyā /
+kramaśo madhuḥ puṣpāśucitulyāścaramā ca pariharttavyaitāsu // sl_18 //
+
+caturvidhā vai puruṣāḥ prakāśātprakāśe tamasastamasi punaḥ /
+tamaḥ prakāśād gacchati tamasastejasi pudgalo varaḥ prathamaḥ // sl_19 //
+
+janānāṃ tvāmraphalamiva pakvamapakve pakve 'pakvatulyaṃ ca /
+apakve 'pakvaṃ tathā pakve pakvamiva bhāti cāturvidhyam // sl_20 //
+
+paradārānna tu paśyed dṛṣṭe ca jñeyā avasthānurūpyeṇa /
+kanyāmbābhaginīvad āsaktāvapyaśucimeva cintayecca // sl_21 //
+
+rakṣeccañcalacittaṃ śrutiputranidhiprāṇasadṛśaṃ ca nitarām /
+cittaṃ pariharttavyaṃ śatrusarpaviṣāyudhāgnisamāt kāmāt // sl_22 //
+
+kāmastvanarthajanakaḥ proktaḥ kimpākaphalasamo jinendreṇa /
+pāśaistasya hi baddho bhavacārake lokaḥ sa prahātavyaḥ // sl_23 //
+
+calādhruvāṇi ṣaḍakṣāṇi jayanti samare vā śatrūnapi caike /
+tayośca sudhiyaḥ prathamaṃ varamindriyavijetāraṃ ca manyante // sl_24 //
+
+yuvatiśarīraṃ hi pūti yannavāśucidvāramaśucibhāṇḍasamam /
+carmāvṛtaduṣpūraṃ bhūṣitamapi bhūṣaṇaiḥ pṛthag draṣṭavyam // sl_25 //
+
+kṛmipīḍito hi kuṣṭhī sukhalipsayā ca yathā vahnimāśrayate /
+pīḍā na yāti śāntiṃ tathaiva hi kāmāsaktirapi boddhavyā // sl_26 //
+
+paramārthaṃ prativettuṃ sarvabhāveṣu savidhi manasi nidhāyaiva /
+sa ca khalu bhāvayitavyo na hi tattulyo 'paro guṇayuto dharmaḥ // sl_27 //
+
+sukulīno 'pi na pūjyo jñānaśīlavimukho śrutirūpavān pumān /
+guṇadvayaitadyuktaḥ pūjyate so 'nyaguṇairhīno 'pi satatam // sl_28 //
+
+aṣṭasu lokadharmeṣu lokavit samatayā pravartayeccittam /
+hānilābhayaśo 'yaśo 'nuśaṃsānindāsukhaduḥkheṣvaśocyeṣu // sl_29 //
+
+bhavadbhirbrāhmaṇabhikṣudevātithimātāpitṛkulamahiṣībhyaḥ /
+pāpaṃ nācaraṇiyaṃ yataḥ katamo 'pi na narakaphalasya bhāgī // sl_30 //
+
+na ca kṛntati pāpakarma tatkṣaṇamastrapātavat kamapi pāpinam /
+mṛtyorhi samaye kintu tatkarmaṇaḥ phalamabhimukhībhavatyeva // sl_31 //
+
+saptadhanānyuktāni śraddhāśīlatyāgāmalaśrutadhiyaḥ /
+apatrapā hrī muninā mudhaivāparadhanāni hi sādhāraṇāni // sl_32 //
+
+dyūtakrīḍā kautukadarśanālasyakumitrasaṅgamadirāśca /
+niśāviharaṇaṃ ṣaḍime tyājyā durgatidā yaśovināśakāśca // sl_33 //
+
+sanarāmaraśāsakena santoṣaḥ sarvadhanapradhānamuktam /
+santoṣo 'nuṣṭheyaḥ dhanaṃ vinaiva sa dhanikaḥ sati santoṣe // sl_34 //
+
+yathā samṛddhāḥ puruṣā duḥkhino bhavanti naiva tathālpecchukāḥ /
+yāvatyaḥ santi phaṇā ārya, duḥkhakarāḥ, nāgasya tāvatyaḥ // sl_35 //
+
+patnī tyājyā trividhā prakṛtyā ripusambaddhā svaghātikeva /
+patyurapamānakartrī svairā laghuvastucauryaratā steyīva // sl_36 //
+
+bhaginīsamānukūlā mitravad hṛdayaṅgamā ca sevanīyā /
+mātevopakāriṇī pūjyā sevikevājñākṛd devīva // sl_37 //
+
+vihāya rāgadveṣau bhojanamauṣadhivadavagatya seveta /
+kāyasthityai nitarāṃ na ca saundaryagarvamānārthaṃ sevyam // sl_38 //
+
+dinamakhilaṃ śubhakārye yāpayed rātrerādyantau yāmau ca /
+dhīman, madhye yāme śayīta yato hi na bhaved viphalā nidrā // sl_39 //
+
+maitrīkaruṇopekṣāmuditāśca sadā samyag bhāvayitavyāḥ /
+alabdhe 'nuttarapade dhruvameva brahmaloke sukhāvāptiḥ // sl_40 //
+
+kāmān prītivicārau sukhañca duḥkhañca vihāya caturbhireva /
+dhyānairbrahmābhāsvaraśubhakṛtsnabṛhatphalabhāginaśca bhavanti // sl_41 //
+
+kuśalākuśalaṃ ca karma sadābhiniveśāpratipakṣavastuguṇaiḥ /
+pañcabhiścotpadyate tasmād yatanīyaṃ kuśalacaryāyām // sl_42 //
+
+yathālpakṣāranīraṃ parivartayatyalpajalarasaṃ na gāṅgam /
+pāpaṃ tathaiva cālpaṃ nāśayatyalpakuśalaṃ na pūrṇakuśalam // sl_43 //
+
+auddhatyaṃ kaukṛtyaṃ vyāpādaḥ styānamiddhe ca kāmecchā /
+vicikitseti pañcaiva kuśaladhanahārakāṇīmāni jñeyāni // sl_44 //
+
+uttamāḥ pañcadharmāḥ śraddhāvīrye smṛtisamādhiprajñāśca /
+balendriyāṇi cāgryāṇi kathyante yatanīyameteṣu tasmād // sl_45 //
+
+vyādhijarāmaraṇapriyaviyogavacca karmaparāyaṇāḥ sarve /
+punaḥ punastu cintayā pratipakṣeṇaivaṃ prahīyate mānaḥ // sl_46 //
+
+svargaṃ mokṣaṃ cecchet samyagdṛṣṭistāvad bhāvanīyaiva /
+kṛtāni mithyādṛṣṭyā puruṣaiḥ sucaritānyapi viṣamavipākāni // sl_47 //
+
+anātmāśucirduḥkhī pudgalo 'nityaśca samyagvijñeyaḥ /
+smṛtyupasthānarahitā vinaśyante ca viparyāsaiścaturbhiḥ // sl_48 //
+
+uktaṃ rūpaṃ nātmā rūpavāṃśca nātmā rūpe naivātmā /
+na cātmanyasti rūpaṃ śūnyamevaṃ skandhacatuṣkamapi jñeyam // sl_49 //
+
+skandhā na hi jāyante yadṛcchayā na prakṛtīśvarakālebhyaḥ /
+nāhetoḥ svabhāvato jñeyā ajñānena tṛṣṇayā jātāḥ // sl_50 //
+
+kālaḥ pacati bhūtāni kālaḥ saṃharate prajāḥ /
+kālaḥ supteṣu jāgarti kālo hi duratikramaḥ //
+
+ātmani mithyādṛṣṭiḥ śīlavrataparāmarśo vicikitsā ca /
+muktipuradvārāṇāṃ bādhakaṃ saṃyojanatrayamavagacchet // sl_51 //
+
+ātmāpekṣo mokṣaḥ parasmānna labhyate kimapi sāhāyyam /
+catvāryāryasatyāni vṛttasthaḥ śrutacintābhirabhyasyecca // sl_52 //
+
+adhiśīlacittaprajñāstistro 'pi śikṣāḥ sadaiva śikṣaṇīyāḥ /
+etāsvantarbhūtāni śatamekapañcāśacca śikṣāpadāni // sl_53 //
+
+rājan, buddhenoktaḥ kāyagatā smṛtiścaikāyano mārgaḥ /
+rakṣedimaṃ sayatnaṃ smṛtināśācca sarvadharmapradhvaṃsaḥ // sl_54 //
+
+bahubādhaṃ tu jīvanaṃ vāyūdbhūtajalabudbudavadanityaṃ ca /
+āścaryaṃ jāgarteḥ kṣaṇamidaṃ niḥśvāsocchvāsanidrābhyaḥ // sl_55 //
+
+viśaraṇagalanaḥ pūtiḥ śoṣāsāraśucisvabhāvaḥ kāyaḥ /
+rajaḥsadharmī cānte sadā viyogaśīlo naśvaro jñeyaḥ // sl_56 //
+
+pṛthvīmerusamudrāḥ saptārkajvālairnāvaśiṣyante /
+dhūlimātraṃ hi mūrtāḥ kā kathā durbalavapuṣāṃ mānavānām // sl_57 //
+
+itthaṃ sarvamanityaṃ hyanātmakamaśaraṇamanāthamaniketam /
+kadalītaruriva rājan cittamapasārayāsārasaṃsārāt // sl_58 //
+
+mahārṇavayugacchidre hi kūrmagrīvārpaṇācca mānuṣaṃ janma /
+tiryagādisudurlabhaṃ saphalīkuru saddharmābhyāsānnarendra // sl_59 //
+
+kecid ratnālaṅkṛtakanakapātraṃ ca pūrayanti purīṣeṇa /
+tato 'pyasāvatimūḍho yaśca nṛjanma labdhvāpi pāpamācarati // sl_60 //
+
+pratirūpadeśavāsaḥ satpuruṣasamāśrayaḥ śubhapraṇidhānaṃ ca /
+svakīyapūrvakuśalaṃ hyetaccakracatuṣkaṃ hi vidyate tvayi // sl_61 //
+
+kalyāṇamitrasevā brahmacaryapūrtaye deśitā muninā /
+sevyaḥ sadā supuruṣaḥ śamaḥ prāpto yato jinamapekṣya bahubhiḥ // sl_62 //
+
+mithyādṛk pratyante narakapretatiryakṣūtpadyamānaḥ /
+mleccho jaḍaśca sattvo yo hyutpanno buddhavirahite // sl_63 //
+
+dīrghāyuṣi devakule janilabdhaścāṣṭākṣaṇā ime doṣāḥ /
+ebhī rahito bhūtvā kṣaṇaṃ labdhvā janmanivṛttau prayateta // sl_64 //
+
+iṣṭavighātavyādhimṛtyujarādiduḥkhāvahaḥ saṃsāraḥ /
+virajya tataḥ śṛṇu tāvad doṣānetasyāvagacchan naradeva // sl_65 //
+
+mitratvena ca śatruḥ putratvena pitāmbā ca bhāryātvena /
+parivartyotpadyante tasmānna niyataṃ kimapīha saṃsāre // sl_66 //
+
+catuḥsamudrajalādapi janairadhikaṃ jananyāḥ stanyaṃ pītam /
+pṛthagjanānanusṛtya hi punastato 'pyadhikañca pāsyanti lokāḥ // sl_67 //
+
+ātmanaścāsthipuñjaṃ merusamaṃ tato 'dhikamuccairjāyeta /
+bhūmimṛdā badarāṇāṃ gulikābhirna gaṇanā sambhavāmbānām // sl_68 //
+
+lokapūjyo 'pi śakraḥ patati ca punaḥ karmavaśāddhi saṃsāre /
+tadvacca cakravartī rājāpi punarbhavati hi dāso loke // sl_69 //
+
+svarge 'psarasāṃ saukhyaṃ kucataṭisparśajaṃ caiva ciramanubhūya /
+narake duḥsahaduḥkhaṃ peṣaṇachedanabhedanayantrairbhuṅkte // sl_70 //
+
+sukhade sumeruśikhare ciramanubhavaṃścaraṃścaraṇasparśasukham /
+cañcalakukkulakuṇapairgāḍhaṃ duḥkhaṃ cintayet sadā manasā // sl_71 //
+
+devāṅganāsevite nandane ramye copavane ca vihṛtya /
+asipatravane teṣāṃ hastapādakarṇanāsāśca chidyante // sl_72 //
+
+suvadanadevasutābhiḥ svarṇotpalairyutāyāṃ mandākinyām /
+snātvā punaśca narake kṣāroṣṇodakavaitaraṇyāṃ hi patanti // sl_73 //
+
+deveṣu kāmasukhaṃ ca kāmavītarāgasukhaṃ brahmalokeṣu /
+prāpyāvīcau satataṃ labhyate 'gnerindhanībhūya ca duḥkham // sl_74 //
+
+padamavāpya suryendvoḥ svakāyaprabhayā pradīpya hi saṃsāram /
+tamasi ca ghane praviṣṭaḥ prasāritamapi ca svīyakaraṃ na paśyati // sl_75 //
+
+evaṃ mṛtyuṃ jñātvā grāhyastrividhapuṇyamayadīpālokaḥ /
+anyathā ravīndubhyāmamardanīye 'ndhatamasi praveṣṭavyam // sl_76 //
+
+duṣṭācaraṇe lagnāḥ sattvāḥ saṃjīvakālasūtratapaneṣu /
+rauravāvīcyādau hi saṃghāte cāpi narake sadā duḥkham // sl_77 //
+
+niṣpīḍyante tilavat kecanānye cūrṇavat peṣyante ca /
+chidyante śāṇenānye dīryante tathā tīkṣṇaparaśunāpi // sl_78 //
+
+āsye 'nyeṣāṃ tadvat pātyate jvalitaṃ tāvallauhadravam /
+āropyante kecana sakaṇṭake taptāyase sadā śūle // sl_79 //
+
+śvabhiḥ kecana krūrairlauhadantairvidīryante garjadbhiḥ /
+utthāya karau vivaśā luñcyante tīkṣṇanakhatuṇḍaiśca kākaiḥ // sl_80 //
+
+kecit kṛmisaṃsparśād māṃsādakṛṣṇamakṣikāyutapātācca /
+vṛddhaṃ vraṇantvasahyaṃ bhakṣyamāṇaṃ rudanti cākulā bhūmyām // sl_81 //
+
+dahyante 'gnikuṇḍeṣu tena tadānanāni ca bhavanti vivṛtāni /
+pacyante ca kaṭāhe taṇḍulavallauhamaye 'dhaḥśirasaste // sl_82 //
+
+śvāsāvarodhasamaye pāpaḥ kālaṃkṛte ca narakaṃ prayāti /
+śrutvāpi narakaduḥkhaṃ sahasraśo vajrasvabhāvātra bibheti // sl_83 //
+
+śrutvā dṛṣṭvā smṛtvā paṭhitvā cāpi citrāṅkanaṃ narakasya /
+ākṛtirapi bhayajanikā kā kathā tadasahyavipākānubhavasya // sl_84 //
+
+yathā samastasukhānāṃ tṛṣṇākṣaya eva sarvottamaṃ sukhamiti /
+tadvat sarvaduḥkheṣvavīcinarakaduḥkhamatyasahanīyaṃ tat // sl_85 //
+
+ihaikasmiṃśca divase, triśataśūlaghātād bhavati ca yad duḥkham /
+nārakīyaduḥkhasya hi tatrāpnoti samatāṃ na laghukalāṃ cāpi // sl_86 //
+
+koṭivarṣaparyantaṃ dāruṇātiduḥkheṣvanubhavatsu satsvapi /
+yāvattānyakuśalāni na kṣīṇāni tāvatra jīvanānmuktiḥ // sl_87 //
+
+aniṣṭaphalabījāni tu kāyavākcittānāṃ hi durācaraṇāni /
+bhavataivaṃ yatanīyaṃ śaktyā yena tadaṇumātraṃ na śiṣyeta // sl_88 //
+
+tiryagyoniṣu nānā duḥkhāni bhavanti ca badhabandhanādīni /
+parasparaṃ bhakṣayanti śamamūlaśubhakarmaparihartāraste // sl_89 //
+
+kecid vai hanyante muktorṇāsthimāṃsacarmārthaṃ jīvāḥ /
+yojyante khalu vivaśā anye padamuṣṭikaśāṅkuśaiḥ paśavaśca // sl_90 //
+
+pretayonau na kṣayaṃ yātīṣṭālābhajanitā duḥkhadhārā ca /
+duḥkhamasahyaṃ labhate śītoṣṇakṣuttṛṣāśramabhayajanitaṃ hi // sl_91 //
+
+sūcīchidravadāsyaṃ keṣāñcidudaramativiśālaṃ nagavacca /
+tacca pīḍitaṃ kṣudhayā kṣiptamaśuci vastu na pratikārakṣamam // sl_92 //
+
+kecit pretā nagnāḥ śuṣkatālaśikharavadasthicarmāṇaḥ /
+naktamagnimudgiratāṃ mukhe patattaptasikatāśanaṃ teṣām // sl_93 //
+
+nimnakoṭikaiḥ kaiścit pūyaraktādyaśucīni na ca labhyante /
+ākramyānyamukhopari galanirgatalasikādīni ca khādyante // sl_94 //
+
+candro grīṣme taptaḥ śaitye śīto bhānuśca hyetebhyaḥ /
+teṣāṃ dṛṣṭi pātācca niṣphalāstaravo nadyaśca śuṣyante // sl_95 //
+
+satataṃ duḥkhabhājaste duścaritakarmapāśasudṛḍhabaddhā vai /
+na ca mriyante kecit pañca vā daśa sahasravarṣāṇi sattvāḥ // sl_96 //
+
+yacca labhante pretā nānāduḥkhāsvādamekavidhamittham /
+prītiratra kārpaṇye mātsaryamanāryamuktamato buddhena // sl_97 //
+
+svarge cātisukhaṃ yat tato 'pyadhikaduḥkhaṃ tataścyuternūnam /
+evaṃ vicintya tajjñaiḥ kṣaratsukhāya na tṛṣṇā kāryā svarge // sl_98 //
+
+vaivarṇyaṃ dehasya svāsane na ratirmlāyate 'pi mālā ca /
+vasaneṣvapi daurgandhyaṃ svedaścāpūrvo niryāti dehāttu // sl_99 //
+
+lakṣaṇāni hi pañcaiva mṛtyorbhavanti svargasthadeveṣu /
+bhūlokīyanarāṇāṃ sadṛśānyapi tāni mṛtyulakṣaṇaiśca // sl_100 //
+
+devebhyaścyutasya yadi nāvaśiṣyet kuśalamaṇumātramapi /
+vivaśatayoṣitavyaṃ hi tatastiryakpretanarakeṣvekasmin // sl_101 //
+
+duḥkhaṃ syānmānasikaṃ devaiśvaryaṃ pratīrṣyayāsūreṣvapi /
+na kurvanti dhīmanto janmāvaraṇācca te satyadarśanāni // sl_102 //
+
+saṃsāre 'sminnevaṃ devanarakapretatiryagyoniṣu /
+janmagrahaṇamayuktaṃ bahubādhaṃ janma tatreti vijñeyam // sl_103 //
+
+jvalite śirasi ca vasane tannivṛttyupāyamupekṣya tvaritameva /
+apunarbhavāya yateta yatastasmānmahatprayojanaṃ nānyat // sl_104 //
+
+śīlasamādhijñānairbhūjalatejovāyuravividhurahitaṃ ca /
+ajarāmaraṇamakṣayaṃ prāpyaṃ śāntadāntavimalaṃ nirvāṇam // sl_105 //
+
+prasrabdhivīryaprītidharmavicayasmṛtisamādhyupekṣāḥ sapta /
+bodhyaṅgānīmāni prāptyai nirvāṇasya kuśalasambhāraḥ // sl_106 //
+
+prajñābhāve dhyānaṃ dhyānābhāve 'pi na jāyate sā prajñā /
+yatrobhe vidyete jñeyastasya bhavasāgaro goṣpadavat // sl_107 //
+
+ye 'vyākṛtadharmāścādityabandhunā caturdaśopadiṣṭāśca /
+loke na cintanīyā yato tairnāpnoti cittameva śāntim // sl_108 //
+
+evaṃ proktaṃ munināvidyayā karma karmaṇā ca vijñānam /
+tasmācca nāmarūpaṃ tataḥ ṣaḍāyatanāni tataḥ sparśā vai // sl_109 //
+
+tata utpannā vittirvedanāśrayeṇa jāyate khalu tṛṣṇā /
+tasyāścopādānaṃ tato bhavo 'pi bhavācca jāyate jātiḥ // sl_110 //
+
+satyāṃ jātau duḥkhavyādhijareṣṭa vastvalābhabhayamaraṇāni /
+duḥkhaskandho vipulaḥ sati jātiniṣedhe niṣiddhānīmāni // sl_111 //
+
+gambhīro 'narghakośaḥ priyaḥ pratītyotpādo jinavacanānām /
+samyagimaṃ yaḥ paśyati sa ca paśyati tattvadarśinaṃ buddhameva // sl_112 //
+
+śamāya bhāvyāḥ samyagdṛṣṭisaṃkalpavākkarmājīvasmṛti /
+samādhivyāyāmetyāryāṣṭāṅgikamārgāścaite cārutayā // sl_113 //
+
+jātiriyaṃ duḥkhameva tṛṣṇā ca tasya samudayo mahān jñeyaḥ /
+nirvṛtistannirodhastadadhigamāya cāṣṭāṅgiko 'yaṃ mārgaḥ // sl_114 //
+
+yatnaḥ sadā vidheyaścaturāryasatyaprativedhāyaivam /
+kroḍe śriyaśca yeṣāṃ gṛhasthāstaranti kleśanadīṃ jñānāt // sl_115 //
+
+ye dṛṣṭāryasatyāśca nāvirbhavanti te 'ṅkuravat pṛthivītaḥ /
+nāvataranti ca gaganāt te 'pi pṛthagjanāḥ kleśavaśā hi pūrvam // sl_116 //
+
+cittaṃ hi dharmamūlaṃ bhagavatoktamatastadapi sādhu damayecca /
+bho nirbhaya, kiṃ bahunā kathanena yato 'yameva hitopadeśaḥ // sl_117 //
+
+yanmayopadiṣṭaṃ tatsaprayāsairapi bhikṣubhirduḥsādhyam /
+caryāguṇān sevasva śikṣāmācara jīvanaṃ ca kuru sārtham // sl_118 //
+
+sarveṣāṃ kuśalāni tu sarvārthamanumodya svacaryātrayīṃ ca /
+buddhatvāya pariṇāmya tatastadanena puṇyarāśinā bhavatā // sl_119 //
+
+janmasvaprameyeṣu devanaralokayoginaśca vaśīkṛtya /
+duḥkhino 'nugrāhyāstvasahāyā avalokiteśvaracaryābhiḥ // sl_120 //
+
+caramaṃ bhavaṃ gṛhītvā vyādhijarārāgadveṣāṃśca prahāya /
+buddhakṣetre bhagavānamitābha iva lokeśo 'mitāyurbhava // sl_121 //
+
+prajñāśīlatyāgodbhūtavimalakhyātiṃ bhuvi khe svarge ca /
+loke prasārya śamayan narān yuvatisukharatadevāṃśca bhūmau // sl_122 //
+
+kleśopahatasattvasya jātibhayamaraṇanāśakaṃ jinendrākhyam /
+lokottaramakliṣṭaṃ śāntābhayākṣayanāmaiva padamāpnuhi // sl_123 //
+
+iti suhṛllekha samāptā //

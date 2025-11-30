@@ -1,0 +1,935 @@
+Yāmuna: Saṃvitsiddhi
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_yAmuna-saMvitsiddhi.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Somadeva Vasudeva
+## Contribution: Somadeva Vasudeva
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Roque Mesquita Wien : Verlag der Oesterreichischen Akademie der Wissenschaften, 1988.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Saṃvitsiddhi = Svs,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from yamsvsau.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Yamunacarya: Samvitsiddhi
+Based on the ed. by Roque Mesquita
+Wien : Verlag der Oesterreichischen Akademie der Wissenschaften, 1988
+Input by Somadeva Vasudeva
+Oxford, 5/11/00
+TEXT WITH PADA MARKERS
+Line numbering follows ed.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+
+yāmunācāryaḥ: saṃvitsiddhiḥ
+
+ekam evādvitīyaṃ tad brahmety upaniṣadvacaḥ // Svs_1
+
+brahmaṇo 'nyasya sadbhāvaṃ nanu tat pratiṣedhati // Svs_2
+
+atra brūmo 'dvitīyoktau samāsaḥ ko vivakṣitaḥ // Svs_3
+
+kiṃsvit tatpuruṣaḥ kiṃ vā bahuvrīhir athocyatām // Svs_4
+
+pūrvasminn uttaras tāvat prādhānyena vivakṣyate // Svs_5
+
+padārthas tatra tad brahma tato 'nyat sadṛśaṃ tu vā // Svs_6
+
+tadviruddham atho vā syāt triṣv apy anyan na bādhate // Svs_7
+
+anyatve sadṛśatve vā dvitīyaṃ siddhyati dhruvam // Svs_8
+
+viruddhatve dvitīyena tṛtīyaṃ prathamaṃ tu vā // Svs_9
+
+brahma prāpnoti yasmāt tad dvitīyena virudhyate // Svs_10
+
+ataḥ saprathamāḥ sarve tṛtīyādyartharāśayaḥ // Svs_11
+
+dvitīyena tathā spṛṣṭvā svasthās tiṣṭhanty abādhitāḥ // Svs_12
+
+nanu nañ brahmaṇo 'nyasya sarvasyaiva niṣedhakam // Svs_13
+
+dvitīyagrahaṇaṃ yasmāt sarvasyaivopalakṣaṇam // Svs_14
+
+naivaṃ niṣedho na hy asmād dvitīyasyāvagamyate // Svs_15
+
+tato 'nyat tadviruddhaṃ vā sadṛśaṃ vātra vakti saḥ // Svs_16
+
+dvitīyaṃ yasya naivāsti tad brahmeti vivakṣite // Svs_17
+
+satyādilakṣaṇoktīnām apalakṣaṇatā bhavet // Svs_18
+
+advitīye dvitīyārthanāstitāmātragocare // Svs_19
+
+svaniṣṭhatvān nañarthasya na syād brahmapadānvayaḥ // Svs_20
+
+dvitīyaśūnyatā tatra brahmaṇo na viśeṣaṇam // Svs_21
+
+viśeṣaṇe vā tad brahma tṛtīyaṃ prathamaṃ tu vā // Svs_22
+
+prasaktaṃ pūrvavat sarvaṃ bahuvrīhau samasyati // Svs_23
+
+brahmaṇaḥ prathamā ye ca tṛtīyādyā jagattraye // Svs_24
+
+brahma praty advitīyatvāt svasthās tiṣṭhanty abādhitāḥ // Svs_25
+
+kiṃca tatra bahuvrīhau samāse saṃśrite sati // Svs_26
+
+vṛttyarthasya nañarthasya na padārthāntarānvayaḥ // Svs_27
+
+saty arthāntarasambandhe ṣaṣṭhī yasyeti yujyate // Svs_28
+
+dvitīyavastunāstitvaṃ na brahma na viśeṣaṇam // Svs_29
+
+asattvān na hy asad brahma bhaven nāpi viśeṣaṇam // Svs_30
+
+tasmāt prapañcasadbhāvo nādvaitaśrutibādhitaḥ // Svs_31
+
+svapramāṇabalāt siddhaḥ śrutyā cāpy anumoditaḥ // Svs_32
+
+tenādvitīyaṃ brahmeti śruter artho 'yam ucyate // Svs_33
+
+dvitīyagaṇanāyogyo nāsīd asti bhaviṣyati // Svs_34
+
+samo vābhyadiko vāsya yo dvitīyas tu gaṇyate // Svs_35
+
+yato 'sya vibhavavyūhakalāmātram idaṃ jagat // Svs_36
+
+dvitīyavāgāspadatāṃ pratipadyeta tat katham // Svs_37
+
+yathā colanṛpaḥ samrāḍ advitīyo 'dya bhūtale // Svs_38
+
+iti tattulyanṛpatinivāraṇaparaṃ vacaḥ // Svs_39
+
+na tu tadbhṛtyatatputrakalatrādiniṣedhakam // Svs_40
+
+tathā surāsuranarabrahmabrahmāṇḍakoṭayaḥ // Svs_41
+
+kleśakarmavipākādyair aspṛṣṭasyākhileśituḥ // Svs_42
+
+jñānādiṣāḍguṇyanidher acintyavibhavasya tāḥ // Svs_43
+
+viṣṇor vibhūtimahimasamudradrapsavipruṣaḥ // Svs_44
+
+kaḥ khalv aṅgulibhaṅgena samudrān saptasaṅkhyayā // Svs_45
+
+gaṇayan gaṇayed ūrmiphenabudbudavipruṣaḥ // Svs_46
+
+yathaika eva savitā na dvitīyo nabhaḥsthale // Svs_47
+
+ity uktyā na hi sāvitrā niṣidhyante 'tra raśmayaḥ // Svs_48
+
+yathā pradhānasaṅkhyeyasaṅkhyāyāṃ naiva gaṇyate // Svs_49
+
+saṅkhyā pṛthaksatī tatra saṅkhyeyānyapadārthatvat // Svs_50
+
+tathā (Svs_p16706)
+
+pādo 'sya viśvā bhūtāni tripād asyāmṛtaṃ divi // Svs_51
+
+iti bruvañ jagat sarvam itthambhāve nyaveśayat // Svs_52
+
+tathā (Svs_p17028)
+
+etāvān asya mahimā tato jyāyastaro hi saḥ // Svs_53
+
+yatrānyan na vijānāti sa bhūmodaram antaram // Svs_54
+
+kurute 'sya bhayaṃ vyaktam ityādiśrutayaḥ parāḥ // Svs_55
+
+meror ivāṇur yasyedaṃ brahmāṇḍam akhilaṃ jagat // Svs_56
+
+ityādikāḥ samastasya taditthambhāvatāparāḥ // Svs_57
+
+vācārambhaṇamātraṃ tu jagat sthāvarajaṅgamam // Svs_58
+
+vikārajātaṃ kūṭasthaṃ mūlakāraṇam eva sat // Svs_59
+
+ananyat kāraṇāt kāryaṃ pāvakād visphuliṅgavat // Svs_60
+
+mṛttikālohabījādinānādṛṣṭāntavistaraiḥ // Svs_61
+
+nāśakad dagdhum analas tṛṇaṃ majjayituṃ jalam // Svs_62
+
+na vāyuś calituṃ śaktas tac chaktyāpyāyanād ṛte // Svs_63
+
+ekapradhānavijñānād vijñātam akhilaṃ bhavet // Svs_64
+
+ityādivedavacanatanmūlāptāgamair api // Svs_65
+
+brahmātmanātmalābho 'yaṃ prapañcaś cidacinmayaḥ // Svs_66
+
+iti pramīyate brāhmī vibhūtir na niṣidhyate // Svs_67
+
+tanniṣedhe samastasya mithyātvāl lokavedayoḥ // Svs_68
+
+vyavahārās tu lupyeraṃs tathā syād brahmadhīr api // Svs_69
+
+vyāvahārikasatyatvān mṛṣatve 'py aviruddhatā // Svs_70
+
+pratyakṣāder iti mataṃ prāg eva samadūduṣam // Svs_71
+
+ataś copaniṣajjātabrahmādvaitadhiyā jagat // Svs_72
+
+na bādhyate vibhūtitvād brahmaṇaś cety avasthitam // Svs_73
+
+nanu sattve prapañcasya nāstīti pratyayaḥ katham // Svs_74
+
+asattve vā kathaṃ tasminn astīti pratyayo bhavet // Svs_75
+
+sadasattvaṃ tathaikasya viruddhatvād asambhavi // Svs_76
+
+sadasatpratyayaprāptaviruddhadvandvasaṅgame // Svs_77
+
+tayor anyatarārthasya niścayābhāvahetutaḥ // Svs_78
+
+sadasattvaṃ prapañcasya jainās tu pratijānate // Svs_79
+
+sattvaprāptiṃ puraḥkṛtya nāstīti pratyayodayāt // Svs_80
+
+sadā sattvaṃ prapañcasya sāṅkhyās tu pratipedire // Svs_81
+
+sadasatpratyayaprāptaviruddhadvandvasaṅkaṭe // Svs_82
+
+virodhaparihārārthaṃ sattvāsattvāṃśabhaṅgataḥ // Svs_83
+
+sadasadbhyām anirvācyaṃ prapañcaṃ kecid ūcire // Svs_84
+
+sattvāsattve vibhāgena deśakālādibhedataḥ // Svs_85
+
+ghaṭāder iti manvānā vyavasthām apare jaguḥ // Svs_86
+
+tad evaṃ vādisaṃmardāt saṃśaye samupasthite // Svs_87
+
+nirṇayaḥ kriyate tatra mīmāṃsakamatena tu // Svs_88
+
+ghaṭasvarūpe nāstitvam astitvaṃ yady abūbudhat // Svs_89
+
+syād eva yugapat sattvam asattvaṃ ca ghaṭādiṣu // Svs_90
+
+idānīm idam atrāsti nāstīty evaṃvidhā yataḥ // Svs_91
+
+deśakāladaśābhedād astināstīti no dhiyaḥ // Svs_92
+
+ato deśādibhedena sadasattvaṃ ghaṭādiṣu // Svs_93
+
+vyavasthitaṃ nirastatvād vādasyeha na sambhavaḥ // Svs_94
+
+nanu deśādisambandhaḥ sata evopapadyate // Svs_95
+
+na deśakālasambandhād asataḥ sattvam iṣyate // Svs_96
+
+sambandho dvyāśrayas tasmāt sataḥ sattvaṃ sadā bhavet // Svs_97
+
+asataḥ kārakaiḥ sattvaṃ janmanety atidurghaṭam // Svs_98
+
+ādyantavān prapañco 'taḥ satkakṣyāntarniveśyate // Svs_99
+
+uktaṃ ca-(Svs_p23841)
+
+ādāv ante ca yan nāsti nāsti madhye 'pi tat tathā // Svs_100
+
+iti(Svs_p24027)
+
+ato niścitasadbhāvaḥ sadā sann abhyupeyatām // Svs_101
+
+asataḥ sarvadāsattvaṃ janyayogāt khapuṣpavat // Svs_102
+
+asattve na viśeṣo 'sti prāgatyantāsator iha // Svs_103
+
+śvetaketum upādāya tat tvam ity api yac chrutam // Svs_104
+
+ṣaṣṭhaprapāṭhake tasya kuto mukhyārthasambhavaḥ // Svs_105
+
+kārpaṇyaśokaduḥkhārtaś cetanas tvampadoditaḥ // Svs_106
+
+sarvajñaḥ satyasaṅkalpo niḥsīmasukhasāgaraḥ // Svs_107
+
+tatpadārthas tayor aikyaṃ tejastimiravat katham // Svs_108
+
+tvamarthasthe taṭasthe vā (tadarthasthe vibhedake) // Svs_109
+
+guṇe tattvampadaśrutyor aikārthyaṃ dūravāritam // Svs_110
+
+ajñatvasarvaveditvaduḥkhitvasukhitādike // Svs_111
+
+viśeṣaṇe vā ciddhātor athavāpy upalakṣaṇe // Svs_112
+
+viruddhaguṇasaṅkrānter bhedaḥ syāt tvaṃtadarthayoḥ // Svs_113
+
+vācyaikadeśabhaṅgena cidekavyaktiniṣṭhatā // Svs_114
+
+so 'yaṃ gaur itivat tattvam padayor ity apeśalam // Svs_115
+
+deśakāladaśābhedād ekasminn api dharmiṇi // Svs_116
+
+viruddhadvandvasaṅkrānteḥ so 'yaṃ gaur iti yujyate // Svs_117
+
+svaprakāśasya ciddhātor viruddhadvandvasaṅgatau // Svs_118
+
+na vyavasthāpakaṃ kiṃcid deśakāladaśādike // Svs_119
+
+nirdhūtanikhiladvandvasvaprakāśe cidātmani // Svs_120
+
+dvaitānarthabhramābhāvāc chāstraṃ nirviṣayaṃ bhavet // Svs_121
+
+etena satyakāmatvajagatkāraṇatādayaḥ // Svs_122
+
+mā(yopādhau) pare 'dhyastāḥ śokamohādayaḥ punaḥ // Svs_123
+
+avidyopādhike jīve vibhāgeneti yan matam // Svs_124
+
+kṣudrabrahmavidām etan mataṃ prāg eva dūṣitam // Svs_125
+
+citsvarūpe viśiṣṭe vā māyāvidyādyupādhayaḥ // Svs_126
+
+pūrvasmin sarvasaṅkaryaṃ parajīvāvibhāgataḥ // Svs_127
+
+uttarasminn api tathā viśiṣṭam api cid yadi // Svs_128
+
+citsvarūpaṃ hi nirbhedaṃ māyāvidyādyupādhibhiḥ // Svs_129
+
+vibhinnam iva vibhrāntaṃ viśisṭaṃ ca (iti manyate) // Svs_130
+
+taṭasthāvasthitā dharmāḥ svarūpaṃ na spṛśanti kim // Svs_131
+
+na hi daṇḍiśiraschedād devadatto na hiṃsitaḥ // Svs_132
+
+acidaṃśavyapohena cidekapariśeṣatā // Svs_133
+
+atas tat tvam asītyāder artha ity apy asundaram // Svs_134
+
+abrahmānātmatābhāve pratyakcit pariśiṣyate // Svs_135
+
+tattvampadadvayaṃ jīvaparatādātmyagocaram // Svs_136
+
+tan mukhyavṛtti tādātmyam api vastudvayāśrayam // Svs_137
+
+bhedābhedavikalpas tu yas tvayā paricoditaḥ // Svs_138
+
+abhedābhedino 'satye bandhe sati nirarthakaḥ // Svs_139
+
+abhedo bhedamardī tu svāśrayībhūtavastunoḥ // Svs_140
+
+bhedaḥ parasparānātmyaṃ bhāvānām evam etayoḥ // Svs_141
+
+svarūpam abhyupetyaiva bhedābhedavikalpayoḥ // Svs_142
+
+(bādhanam) tena vāgbādhād virodhena nigṛhyase // Svs_143
+
+bhinnābhinnatvasambandhasadasattvavikalpanam // Svs_144
+
+pratyakṣānubhavāpāstaṃ kevalaṃ kaṇṭhaśoṣaṇam // Svs_145
+
+nīle nīlamatir yādṛg utpale nīladhīr hi sā // Svs_146
+
+nīlam utpalam evedam iti sākṣāc cakāsti naḥ // Svs_147
+
+yathā viditasaṃyogasambandhe 'pyakṣagocare // Svs_148
+
+bhedābhedādidustarkavikalpādhānavibhramaḥ // Svs_149
+
+tadvat tādātmyasambandhe śrutipratyakṣamūlake // Svs_150
+
+śrutidaṇḍena dustarkavikalpabhramavāraṇam // Svs_151
+
+nirdoṣāpauruṣeyī ca śrutir atyartham ādarāt // Svs_152
+
+asakṛt tat tvam ity āha tādātmyaṃ brahmajīvayoḥ // Svs_153
+
+brahmānandahradāntastho muktātmā sukham edhate // Svs_154
+
+phale ca phalino 'bhāvān mokṣasyāpuruṣārthatā // Svs_155
+
+ekaśeṣe hi ciddhātoḥ kasya mokṣaḥ phalaṃ bhavet // Svs_156
+
+kiṃca prapañcarūpeṇa kā nu saṃvid vivartate // Svs_157
+
+na tāvad ghaṭadhīs tasyām asatyām api darśanāt // Svs_158
+
+na hi tasyām ajātāyāṃ naṣṭāyāṃ vākhilaṃ jagat // Svs_159
+
+nāstīti śakyate vaktum uktau pratyakṣabādhanāt // Svs_160
+
+nāpy anyasaṃvit tannāśe 'py anyeṣām upalambhanāt // Svs_161
+
+nanu saṃvid abhinnaikā na tasyām asti bhedadhīḥ // Svs_162
+
+ghaṭādayo hi bhidyante na tu sā citprakāśanāt // Svs_163
+
+ghaṭadhīḥ paṭasaṃvittisamaye nāvabhāti cet // Svs_164
+
+naivaṃ ghaṭo hi nābhāti sā sphuraty eva tu sphuṭam // Svs_165
+
+ghaṭavyāvṛttasaṃvittir atha na sphuratīti cet // Svs_166
+
+tadvyāvṛttipadenāpi kiṃ saivoktāthavetarat // Svs_167
+
+saiva cedbhāsate 'nyac cen na brūmas tasya bhāsanam // Svs_168
+
+kiṃcāsyāḥ svaprakāśāyā nīrūpāyā na hi svataḥ // Svs_169
+
+ṛte viṣayanānātvān nānātvāvagrahabhramaḥ // Svs_170
+
+na vastu vastudharmo vā na pratyakṣo na laiṅgikaḥ // Svs_171
+
+ghaṭādivedyabhedo 'pi kevalaṃ bhramalakṣaṇaḥ // Svs_172
+
+yadā tadā tadāyatto dhībhedāvagrahodayaḥ // Svs_173
+
+kutaḥ kutastarāṃ tasya paramārthatvasambhavaḥ // Svs_174
+
+kiṃca svayamprakāśasya svato vā parato 'pi vā // Svs_175
+
+prāgabhāvādisiddhiḥ syāt svatas tāvan na yujyate // Svs_176
+
+svasmin sati viruddhatvād abhāvasyānavasthiteḥ // Svs_177
+
+svanimittaprakāśasya svasyābhāve 'py asambhavāt // Svs_178
+
+ananyagocaratvena cito na parato 'pi ca // Svs_179
+
+kiṃca vedyasya bhedāder na ciddharmatvasambhavaḥ // Svs_180
+
+rūpādivad ataḥ saṃvid advitiyā svayamprabhā // Svs_181
+
+atas tadbhedam āśritya yad vikalpādijalpitam // Svs_182
+
+tad avidyāvilāso 'yam iti brahmavido viduḥ // Svs_183
+
+hanta brahmopadeśo 'yaṃ śraddadhāneṣu śobhate // Svs_184
+
+vayam aśraddadhānāḥ smo ye yuktiṃ prārthayāmahe // Svs_185
+
+pratipramātṛviṣayaṃ parasparavilakṣaṇāḥ // Svs_186
+
+aparokṣaṃ prakāśante sukhaduḥkhādivad dhiyaḥ // Svs_187
+
+sambandhivyaṅgyabhedasya saṃyogecchādikasya naḥ // Svs_188
+
+na hi bhedaḥ svato nāsti nāpratyakṣaś ca saṃmataḥ // Svs_189
+
+yadi sarvagatā nityā saṃvid evābhyupeyate // Svs_190
+
+tataḥ sarvaṃ sadā bhāyān na vā kiṃcit kadācana // Svs_191
+
+tadānīṃ na hi vedyasya sannidhītarakāritā // Svs_192
+
+vyavasthā ghaṭate vitter vyomavadvaibhavāśrayāt // Svs_193
+
+nāpi kāraṇabhedena nityāyās tadabhāvataḥ // Svs_194
+
+na ca svarūpanānātvāt tadekatvaparigrahāt // Svs_195
+
+tataś ca badhirāndhādeḥ śabdādigrahaṇaṃ bhavet // Svs_196
+
+guruśiṣyādibhedaś ca nirnimittaḥ prasajyate // Svs_197
+
+nanu naḥ saṃvido bhinnaṃ sarvaṃ nāma na kiṃcana // Svs_198
+
+ataḥ sarvaṃ sadā bhāyād ity akāṇḍe 'nuyujyate // Svs_199
+
+idam ākhyāhi bhoḥ kiṃ nu nīlādir na prakāśate // Svs_200
+
+prakāśamāno nīlādiḥ saṃvido vā na bhidyate // Svs_201
+
+ādau pratītisubhago nirvāho lokavedayoḥ // Svs_202
+
+yataḥ padapadārthādi na kiṃcid avabhāsate // Svs_203
+
+dvitīye saṃvido 'dvaitaṃ vyāhanyeta samīhitam // Svs_204
+
+yady ayaṃ vividhākāraprapañcaḥ saṃvidātmakaḥ // Svs_205
+
+sāpi saṃvit tadātmeti yato nānā prasajyate // Svs_206
+
+na cāvidyāvilāsatvād bhedābhedānirūpaṇā // Svs_207
+
+sā hi nyāyānalaspṛṣṭā jāṭuṣābharaṇāyate // Svs_208
+
+tathā hi yady avidyeyaṃ vidyābhāvātmikeṣyate // Svs_209
+
+nirupākhyasvabhāvatvāt sā na kiṃcin niyacchati // Svs_210
+
+arthāntaram avidyā cet sādhvī bhedānirūpaṇā // Svs_211
+
+arthānarthāntaratvādivikalpo 'syā na yujyate // Svs_212
+
+vidyāto 'rthāntaraṃ cāsāv iti suvyāhṛtaṃ vacaḥ // Svs_213
+
+athārthāntarabhāvo 'pi tasyās te bhrāntikalpitaḥ // Svs_214
+
+hantaivaṃ saty avidyaiva vidyā syāt paramārthataḥ // Svs_215
+
+kiṃca śuddhājaḍā saṃvid avidyeyaṃ tu nedṛśī // Svs_216
+
+tat kena hetunā seyam anyaiva na nirūpyate // Svs_217
+
+api ceyam avidyā te yadabhāvādirūpiṇī // Svs_218
+
+sā vidyā kiṃ nu saṃvittir vedyaṃ vā veditāthavā // Svs_219
+
+vedyatve veditṛtve ca nāsyās tābhyāṃ nivartanam // Svs_220
+
+na hi jñānād ṛte 'jñānam anyatas te nivartate // Svs_221
+
+saṃvid eveti cet tasyā nanu bhāvād asambhavaḥ // Svs_222
+
+kiṃceyaṃ tadviruddhā vā na tasyāḥ kvāpi sambhavaḥ // Svs_223
+
+yato 'khilaṃ jagad vyāptaṃ vidyayaivādvitīyayā // Svs_224
+
+abhāvo 'nyo viruddho vā saṃvido 'pi yadīṣyate // Svs_225
+
+tadānīṃ saṃvidadvaitapratijñāṃ dūratas tyaja // Svs_226
+
+kiṃcāsau kasya jīvasya ko jīvo yasya seti cet // Svs_227
+
+nanv evam asamādhānam anyonyāśrayaṇaṃ bhavet // Svs_228
+
+narte jīvād avidyā syān na ca jīvas tayā vinā // Svs_229
+
+na bījāṅkuratulyatvaṃ jīvotpatter ayogataḥ // Svs_230
+
+brahmaṇaś cen na sarvajñaṃ kathaṃ tad bambhramīti te // Svs_231
+
+avidyākṛtadehātmapratyayādhīnatā na te // Svs_232
+
+brahmasarvajñabhāvasya tatsvābhāvikatāśruteḥ // Svs_233
+
+bhedāvabhāsagarbhatvād atha sarvajñatā mṛṣā // Svs_234
+
+tata evāmṛṣā kasmān na syāc chabdāntarādivat // Svs_235
+
+yathā śabdāntarābhyāsasaṅkhyādyāḥ śāstrabhedakāḥ // Svs_236
+
+bhedāvabhāsagarbhāś ca yathārthās tādṛśī na kim // Svs_237
+
+sarvajñe nityamukte 'pi yady ajñānasya sambhavaḥ // Svs_238
+
+tejasīva tamas tasmān na nivarteta kenacit // Svs_239
+
+sarvajñatvādivacanaprāmāṇyaṃ vyāvahārikam // Svs_240
+
+tāttvikaṃ tu pramāṇatvam advaitavacasām iti // Svs_241
+
+niyāmakaṃ na paśyāmo nirbandhāt tāvakād ṛte // Svs_242
+
+āśrayapratiyogitve parasparavirodhinī // Svs_243
+
+kathaṃ vaikarasaṃ brahma sad iti pratipadyate // Svs_244
+
+pratyaktvenāśrayo brahmarūpeṇa pratiyogi cet // Svs_245
+
+rūpabhedaḥ kutastyo 'yaṃ yady avidyāprasādajaḥ // Svs_246
+
+nanu sāpi tadāyattety anyonyāśrayaṇaṃ punaḥ // Svs_247
+
+avastutvād avidyāyāḥ (naitat taddūṣaṇaṃ yadi) // Svs_248
+
+vastuno dūṣaṇatvena tvayā kvedaṃ nirīkṣitam // Svs_249
+
+(svasādhyasya puraḥ)kārād doṣo 'nyonyasamāśrayaḥ // Svs_250
+
+na vastutvād avastutvād ity ato nedam uttaram // Svs_251
+
+kiṃca vidyā na ced (vastu vyavahāraḥ kutas tv ayam) // Svs_252
+
+(na caiṣa vyoma)puṣpādivyavahāravad iṣyate // Svs_253
+
+nāpy avastv iti co(ktis te vastutāṃ tatra sādhayet) // Svs_254
+
+(niṣidhyate) samastena nañā vastv iti cet (na tat) // Svs_255
+
+samastena nañā vastu prathamaṃ yan niṣidhyate // Svs_256
+
+pratiprasūtaṃ vyastena punas tad iti vastutā // Svs_257
+
+ato na vastu nā(vastu yāvidyā tadbale sati) // Svs_258
+
+(bhedo) na kaś cakāstiti vivakṣīr mā sma jātucit // Svs_259
+
+kiṃca prapañcanirvāhajananī yeyam āśritā // Svs_260
+
+avidyā sā kim ekaiva naikā vā tad idaṃ vada // Svs_261
+
+tadāśrayaś ca saṃsārī tathaiko naika eva vā // Svs_262
+
+sā ced ekā tataḥ saikā śukasya brahmavidyayā // Svs_263
+
+pūrvam eva nirasteti vyarthas te muktaye śramaḥ // Svs_264
+
+syān mataṃ naiva te santi vāmadevaśukādayaḥ // Svs_265
+
+yadvidyayā nirastatvān nādyāvidyeti codyate // Svs_266
+
+muktāmuktādibhedo hi kalpito madavidyayā // Svs_267
+
+dṛśyatvān māmakasvapnadṛśyabhedaprapañcavat // Svs_268
+
+yat punar brahmavidyātas teṣāṃ muktir abhūd iti // Svs_269
+
+vākyaṃ tat svāpnamuktyuktiyuktyā pratyūhyatām iti // Svs_270
+
+nanv īdṛśānumānena svāvidyāparikalpitam // Svs_271
+
+prapañcaṃ sādhayaty anyaḥ kathaṃ pratyucyate tvayā // Svs_272
+
+tvadavidyānimittatve yo hetus te vivakṣitaḥ // Svs_273
+
+sa eva hetus tasyāpi bhavet sarvajñasiddhivat // Svs_274
+
+ity anyonyaviruddhoktivyāhate bhavatāṃ mate // Svs_275
+
+mukham astīti yatkiṃcit pralapann iva lakṣyase // Svs_276
+
+yathā ca svāpnamuktyuktisadṛśī tadvimuktigīḥ // Svs_277
+
+tathaiva bhavato 'pīti vyartho mokṣāya te śramaḥ // Svs_278
+
+yathā teṣām abhūtaiva purastād ātmavidyayā // Svs_279
+
+muktir bhūtocyate tadvat parastād ātmavidyayā // Svs_280
+
+abhāviny eva sā mithyā bhāvinīty apadiśyatām // Svs_281
+
+santi ca svapnadṛṣṭāni dṛṣṭāntavacanāni te // Svs_282
+
+nanu nedaṃ aniṣṭaṃ me yan muktir na bhaviṣyati // Svs_283
+
+ātmano nityamuktatvān nityasiddhaiva sā yataḥ // Svs_284
+
+tad idaṃ śāntikarmādau vetālāvāhanaṃ bhavet // Svs_285
+
+yenaivaṃ sutarāṃ vyartho brahmavidyārjanaśramaḥ // Svs_286
+
+avidyāpratibaddhatvād atha sā nityasaty api // Svs_287
+
+asatīveti tadvyaktir vidyāphalam upeyate // Svs_288
+
+hastastham eva hemādi vismṛtaṃ mṛgyate yathā // Svs_289
+
+yathā tad eva hastastham avagamyopaśāmyate // Svs_290
+
+tathaiva nityamuktātmasvarūpānavabodhataḥ // Svs_291
+
+saṃsāriṇas tathābhāvo vyajyate brahmavidyayā // Svs_292
+
+hanta keyam abhivyaktir yā vidyāphalam iṣyate // Svs_293
+
+svaprakāśasya ciddhātor yā svarūpapade sthitā // Svs_294
+
+saṃvit kiṃ saiva kiṃvāhaṃ brahmāsmītiti kidṛśī // Svs_295
+
+yadi svarūpasaṃvit sā nityaiveti na tatphalam // Svs_296
+
+atha brahmāham asmīti saṃvittir vyaktir iṣyate // Svs_297
+
+nanu te brahmavidyā sā saiva tasyāḥ phalaṃ kathaṃ // Svs_298
+
+kiṃca sā tat tvam asyādivākyajanyā bhavanmate // Svs_299
+
+utpattimaty anityeti muktasyāpi bhayaṃ bhavet // Svs_300
+
+api ca vyavahārajñāḥ sati puṣkalakāraṇe // Svs_301
+
+kāryaṃ na jāyate yena tam āhuḥ pratibandhakam // Svs_302
+
+iha kiṃ tad yad utpattum upakrāntaṃ svahetutaḥ // Svs_303
+
+avidyāpratibaddhatvād utpattiṃ na prapadyate // Svs_304
+
+na muktir nityasiddhatvān na brahmāsmīti dhīr api // Svs_305
+
+na hi brahmāham asmīti saṃvitpuṣkalakāraṇam // Svs_306
+
+saṃsāriṇas tadāstīti kathaṃ sā pratibadhyate // Svs_307
+
+yataḥ sā kāraṇābhāvād idānīṃ nopajāyate // Svs_308
+
+na punaḥ pratibaddhatvād asthāne tena tadvacaḥ // Svs_309
+
+kiṃcaiko jīva ity etad vastusthityā na yujyate // Svs_310
+
+avidyātatsamāśleṣajīvatvādi mṛṣā hi te // Svs_311
+
+prātibhāsikam ekatvaṃ pratibhāsaparāhatam // Svs_312
+
+yato naḥ pratibhāsante saṃsarantaḥ sahasraśaḥ // Svs_313
+
+āsaṃsārasamucchedaṃ vyavahārāś ca tatkṛtāḥ // Svs_314
+
+abādhitāḥ pratīyante svapnavṛttavilakṣaṇāḥ // Svs_315
+
+tena yauktikam ekatvam api yuktiparāhatam // Svs_316
+
+pravṛttibhedānumitā viruddhamitivṛttayaḥ // Svs_317
+
+tattatsvātmavad anye 'pi dehino 'śakyanihnavāḥ // Svs_318
+
+yathānumeyād vahnyāder anumānā (?) vilakṣaṇāḥ // Svs_319
+
+pratyakṣaṃ (?) te tathānyebhyo jīvebhyo na pṛthak katham // Svs_320
+
+na cec ceṣṭāviśeṣeṇa paro boddhānumīyate // Svs_321
+
+vyavahāro 'valupyeta sarvo laukikavaidikaḥ // Svs_322
+
+na caupādhikabhedena meyamātṛvibhāgadhīḥ // Svs_323
+
+svaśarīre 'pi tatprāpteḥ śiraḥpāṇyādibhedataḥ // Svs_324
+
+yathā tatra śiraḥpāṇipādādau vedanodaye // Svs_325
+
+anusandhānam ekatve tathā sarvatra te bhavet // Svs_326
+
+prāyaṇān narakakleśāt prasūtivyasanād api // Svs_327
+
+cirātivṛttāḥ prāgjanmabhogā na smṛtigocarāḥ // Svs_328
+
+yugapaj jāyamāneṣu (sukhaduḥkhādiṣu sphuṭaḥ) // Svs_329
+
+āśrayāsaṅkaras tatra katham aikārthyavibhramaḥ // Svs_330
+
+na ca prātisvikāvidyākalpitasvasvadṛśyakaiḥ // Svs_331
+
+jīvair anekair apy eṣā lokayātropapadyate // Svs_332
+
+paravārtānabhijñās te svasvasvapnaikadarśinaḥ // Svs_333
+
+kathaṃ pravartayeyus tāṃ saṅgādyekanibandhanām // Svs_334
+
+kiṃca svayamprakāśatvavibhutvaikatvanityatāḥ // Svs_335
+
+tvadabhyupetā bādheran saṃvidas te 'dvitīyatām // Svs_336
+
+saṃvid eva na te dharmāḥ siddhāyām api saṃvidi // Svs_337
+
+vivādadarśanāt teṣu tadrūpāṇāṃ ca bhedataḥ // Svs_338
+
+na ca te bhrāntisiddhās te yenādvaitāvirodhinaḥ // Svs_339
+
+tattvāvedakavedāntavākyasiddhā hi te guṇāḥ // Svs_340
+
+ānandasvaprakāśatvanityatvamahimādy atha // Svs_341
+
+brahmasvarūpam eveṣṭaṃ tatrāpidaṃ vivicyatām // Svs_342
+
+brahmeti yāvan nirdiṣṭaṃ tanmātraṃ kiṃ sukhādayaḥ // Svs_343
+
+athavā tasya te yad vā ta eva brahmasaṃjñinaḥ // Svs_344
+
+ādye tattatpadāmnānavaiyarthyaṃ vedalokayoḥ // Svs_345
+
+pūrvoktanītyā bhedaś ca jagajjanmādikāraṇam // Svs_346
+
+abhyupetyaiva hi brahma vivādās teṣu vādinām // Svs_347
+
+dvitīye saiva tair eva brahmaṇaḥ sadvitīyatā // Svs_348
+
+tṛtīye brahma bhidyeta tanmātratvāt pade pade // Svs_349
+
+tatsamūho 'thavā brahma taruvṛndavanādivat // Svs_350
+
+prakarṣaś caprakāśaśca bhinnāv evārkavartinau // Svs_351
+
+tena na kvāpi vākyārtho 'vibhāgo 'sti nidarśanam // Svs_352
+
+jāḍyaduḥkhādyapohena yady ekatraiva vartitā // Svs_353
+
+jñānānandādiśabdānāṃ na sataḥ sadvitīyatā // Svs_354
+
+apohāḥ kiṃ na santy eva santo vā nobhaye 'pi vā // Svs_355
+
+sattve sat sadvitīyaṃ syāj jaḍādyātmakatetare // Svs_356
+
+sadasadvyatirekoktiḥ pūrvam eva parākṛtā // Svs_357
+
+tathātve ca ghaṭādibhyo brahmāpi na viśiṣyate // Svs_358
+
+kiṃ cāpohyajaḍatvādiviruddhārthāsamarpaṇe // Svs_359
+
+naiva tat tad apohyeta tadekārthaiḥ padair iva // Svs_360
+
+pratiyogini dṛśye tu yā bhāvāntaramātradhīḥ // Svs_361
+
+saivābhāva itīhāpi sadbhis te sadvitīyatā // Svs_362
+
+bhūtabhautikabhedānāṃ sadasadvyatirekitā // Svs_363
+
+kuto 'vasīyate kiṃ nu pratyakṣāder utāgamāt // Svs_364
+
+pratyakṣādīni mānāni svaṃ svam arthaṃ yathāyatham // Svs_365
+
+vyavacchindanti jāyanta iti yāvat svasākṣikam // Svs_366
+
+yathāgrataḥ sthite nīle nīlimānyakathā na dhīḥ // Svs_367
+
+ekākārā na hi tathā sphaṭike dhavale matiḥ // Svs_368
+
+kṣīre madhuradhīr yādṛṅ naiva nimbakaṣāyadhīḥ // Svs_369
+
+vyavahārāś ca niyatāḥ sarve laukikavaidikāḥ // Svs_370
+
+satyaṃ pratītir asty asyā mūlaṃ nāstīti cen na tat // Svs_371
+
+sā ced asti tayā mūlaṃ kalpyatāṃ kāryabhūtayā // Svs_372
+
+kḷptaṃ cendriyaliṅgādi tadbhāvānuvidhānataḥ // Svs_373
+
+yaugapadyakramāyogād vyavacchedavidhānayoḥ // Svs_374
+
+aikyāyogāc ca bhedo na pratyakṣa iti yo bhramaḥ // Svs_375
+
+bhedetaretarābhāvavivekāgrahaṇena saḥ // Svs_376
+
+svarūpam eva bhāvānāṃ pratyakṣeṇa parisphurat // Svs_377
+
+bhedavyāhārahetuḥ syāt pratiyogivyapekṣayā // Svs_378
+
+yathā tanmātradhīr nānā nāstivyāhārasādhanī // Svs_379
+
+hrasvadīrghatvabhedā vā yathaikatra ṣaḍaṅgule // Svs_380
+
+evaṃ vyavasthitānekaprakārākāravattayā // Svs_381
+
+pratyakṣasya prapañcasya tadbhāvo 'śakyanihnavaḥ // Svs_382
+
+āgamaḥ kāryaniṣṭhatvād īdṛśe 'rthe na tu pramā // Svs_383
+
+prāmāṇye 'py anvayāyogyapadārthatvān nan bodhakaḥ // Svs_384
+
+nāsat pratīter bādhāc ca na sad ity api yan na tat // Svs_385
+
+pratīter eva sat kiṃ na bādhān nāsat kuto jagat // Svs_386
+
+tasmād avidyayaiveyam avidyā bhavatāśritā // Svs_387
+
+kiṃca bhedaprapañcasya dharmo mithyātvalakṣaṇaḥ // Svs_388
+
+mithyā vā paramārtho vā nādyaḥ kalpo 'yam añjasā // Svs_389
+
+tanmithyātve prapañcasya satyatvaṃ dūrapahnavam // Svs_390
+
+pāramārthye 'pi tenaiva tavādvaitaṃ vihanyate // Svs_391
+
+sarvāny eva pramāṇāni svaṃ svam arthaṃ yathoditam // Svs_392
+
+asato 'rthāntarebhyaś ca vyavacchindanti bhānti naḥ // Svs_393
+
+tathā hīha ghaṭo 'stīti yeyaṃ dhīr upajāyate // Svs_394
+
+sā tadā tasya nābhāvaṃ paṭatvaṃ vānumanyate // Svs_395
+
+nanv astīti yad uktaṃ kiṃ tanmātraṃ ghaṭa ity api // Svs_396
+
+arthāntaraṃ vā tanmātre sadadvaitaṃ prasajyate // Svs_397
+
+arthāntaratve siddhaṃ tat sadasadbhyāṃ vilakṣaṇam // Svs_398
+
+yady evam asti brahmeti brahmaupaniṣadaṃ matam // Svs_399
+
+ghaṭavatsadasattvābhyām anirvācyaṃ tavāpatet // Svs_400
+
+ānandasatyajñānādinirdeśair eva vaidikaiḥ // Svs_401
+
+brahmaṇo 'py atathābhāvas tvayaivaivaṃ samarthitaḥ // Svs_402
+
+sadasadvyatirekoktiḥ prapañcasya ca hīyate // Svs_403
+
+yad yathā kiṃ cid ucyeta tat sarvasya tathā bhavet // Svs_404
+
+tasmād astīti saṃvittir jāyamānā ghaṭādiṣu // Svs_405
+
+tattatpadārthasaṃsthānapāramārthyāvabodhinī // Svs_406
+
+sajātiyavijātīyavyavacchedanibandhanaiḥ // Svs_407
+
+svaiḥ svair vyavasthitai rūpaiḥ padārthānāṃ tu yā sthitiḥ // Svs_408
+
+sā sattā na svatantrānyā tatrādvaitakathā katham // Svs_409
+
+na ca nānāvidhākārapratītiḥ śakyanihnavā // Svs_410
+
+na vedyaṃ vittidharmaḥ syād iti yat prāgudīritam // Svs_411
+
+tenāpi sādhitaṃ kiṃcit saṃvido 'sti na vā tvayā // Svs_412
+
+asti cet pakṣabādhaḥ syān na cet te viphalaḥ śramaḥ // Svs_413
+
+ataḥ svarasavispaṣṭadṛṣṭabhedās tu saṃvidaḥ // Svs_414
+
+yathāvat sthāyibhir bāhyair naikyaṃ yāti ghaṭādibhiḥ // Svs_415
+
+sahopalambhaniyamān nānyo 'rthaḥ saṃvido bhavet // Svs_416
+
+yad etad aparādhīnasvaprakāśaṃ tad eva hi // Svs_417
+
+svayamprakāśatāśabdam iti vṛddhāḥ pracakṣate // Svs_418
+
+yasminn abhāsamāne hi yo nāmārtho na bhāsate // Svs_419
+
+nāsāv arthāntaras tasmān mithyendur iva candrataḥ // Svs_420
+
+abhāsamāne vijñāne na cātmārthāvabhāsanam // Svs_421
+
+iti saṃvidvivartatvaṃ prapañcaḥ sphuṭam añcati // Svs_422
+
+(manda) maivaṃ paribhava (?) pratyakṣeṇa balīyasā // Svs_423
+
+saṃrakṣyamānabhedās te nānumānānuvartinaḥ // Svs_424
+
+tathā hīdam ahaṃ vedmīty anyonyānātmanā sphuṭam // Svs_425
+
+trayaṃ sākṣāc cakāstīti sarveṣām ātmasākṣikam // Svs_426
+
+pratyakṣapratipakṣaṃ ca nānumānaṃ pravartate // Svs_427
+
+na hi vahner anuṣṇatvaṃ dravyatvād anumīyate // Svs_428
+
+kiṃ ca hetur viruddho 'yaṃ sahabhāvo dvayor yataḥ // Svs_429
+
+tavāpi na hi saṃvittiḥ svātmanā saha bhāsate // Svs_430
+
+sahopalambhaniyamo na khalv ekaikasaṃvidā // Svs_431
+
+na ced asti sasāmānyaṃ sarvaṃ saṃvedanāspadam // Svs_432
+
+nīlādyupaplavāpetasvacchacinmātrasantatiḥ // Svs_433
+
+svāpādau bhāsate naivam arthaḥ saṃvedanāt pṛthak // Svs_434
+
+tena saṃvedanaṃ satyaṃ saṃvedyo 'rthas tv asann iti // Svs_435
+
+tad etad aparāmṛṣṭasvavāgbādhasya jalpitam // Svs_436
+
+sahopalambhaniyamo yenaivaṃ sati hīyate // Svs_437
+
+yasmād ṛte yadābhāti bhāti tasmād ṛte 'pi tat // Svs_438
+
+ghaṭād ṛte 'pi nirbhātaḥ paṭād iva ghaṭaḥ svayam // Svs_439

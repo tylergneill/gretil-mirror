@@ -1,0 +1,64 @@
+Gaṇapatihṛdaydhāraṇī
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_gaNapatihRdaydhAraNI.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Klaus Wille
+## Contribution: Klaus Wille
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Yutaka Iwamoto: Kleinere Dhāraṇī Texte, Kyoto 1937 (Beiträge zur Indologie, 2), pp. 10-12.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Gaṇapatihṛdaydhāraṇī = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from ganphrdu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Ganapatihrdaya-Dharani
+Based on the edition by Yutaka Iwamoto: Kleinere Dhāraṇī Texte, Kyoto 1937
+(Beiträge zur Indologie, 2), pp. 10-12.
+[Note the translation by R. Duquenne, "Gaṇapati Rituals in Chinese", BEFEO 77 (1988), pp. 344f.]
+Input by Klaus Wille (Göttingen)
+STRUCTURE OF REFERENCES
+Gph_n = pagination of Iwamoto's edition
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+(gph_10)
+
+namo bhagavate āryamahāgaṇapatihṛdayāya / namo ratnatrayāya //
+
+evaṃ mayā śrutam ekasmin samaye bhagavān rājagṛhe viharati sma / gṛdhrakūṭaparvate mahatā bhikṣusaṃghena sārdham ardhatrayodaśabhir bhikṣuśataiḥ saṃbahulaiś ca bodhisatvair mahāsatvaiḥ / tena khalu punaḥ samayena bhagavān āyuṣmantam ānandam āmantrayate sma //
+
+yaḥ kaścit kulaputra ānanda imāni gaṇapatihṛdayāni dhārayiṣyati vācayiṣyati paryavāpsyati pravartayiṣyati tasya sarvāṇi kāryasiddhāni bhaviṣyanti //
+
+oṃ namo 'stu te mahāgaṇapataye svāhā / oṃ gaḥ gaḥ gaḥ gaḥ gaḥ gaḥ gaḥ gaḥ / oṃ namo gaṇapataye svāhā / oṃ gaṇādhipataye svāhā / oṃ gaṇeśvarāya svāhā / oṃ gaṇapatipūjitāya svāhā / oṃ kaṭa kaṭa maṭa maṭa dara dara vidara vidara hana hana gṛhṇa gṛhṇa dhāva dhāva bhañja bhañja jambha jambha tambha (gph_11) tambha stambha stambha moha moha deha deha dadāpaya dadāpaya dhanasiddhi me prayaccha / oṃ rudrāvatārāya svāhā / oṃ adbhutavindukṣubhitacittamahāhāsam āgacchati / mahābhayamahābalaparākramāya mahāhastidakṣiṇāya dadāpaya svāhā / oṃ namo 'stu te mahāgaṇapataye svāhā / oṃ gaḥ gaḥ gaḥ gaḥ gaḥ gaḥ gaḥ gaḥ / oṃ namo gaṇapataye svāhā / oṃ gaṇeśvarāya svāhā / oṃ gaṇādhipataye svāhā / oṃ gaṇapatipūjitāya svāha / oṃ suru suru svāhā / oṃ turu turu svāhā / oṃ muru muru svāhā /
+
+idam ānanda gaṇapatihṛdayāni //
+
+yaḥ kaścit kulaputro vā kuladuhitā vā bhikṣur vā bhikṣuṇī vā upāsako vā upāsikā vā / yaḥ kaścit kāryam ālabhate mantrasādhanaṃ vā triratnapūjaṃ vā deśāntaragamanaṃ vā rājakulagamanaṃ vā antardhānaṃ vā tena buddhabhagavatāṃ pūjāṃ kṛtvā āryagaṇapatihṛdayaṃ saptavārānucārayitavyaṃ sarvakāryāṇi tasya sidhyante nātra śaṃsayaḥ / sarvakalikalahamardamātsareṣu nityaṃ śamatavyaṃ sarvapraśamaṃ gacchati / dinedine kalpam utthāya sarvasaptavārānucārayitavyaṃ mahāsaubhāge bhaviṣyati / (gph_12) rājakulagamanakāle mahāprāsādo bhaviṣyanti / śrutidharo bhaviṣyati / na cāsya kāye mahāvyādhayo bhaviṣyanti / na kaścid eva tārapradakṣiṇo 'vatāraṃ lapsyate bhṛṅgo 'vatāraṃ lapsyati na cāsya bodhicittottarāyā bhaviṣyanti / jātau jātau jātismaro bhaviṣyati //
+
+idam avocat bhagavān āttamanās te ca bhikṣavas te bodhisatvā mahāsatvāḥ sā ca sarvāvatī parṣat sadevamānuṣāsuragaruḍagandharvaś ca loko bhagavato bhāṣitam abhyanandann iti //
+
+āryamahāgaṇapatihṛdayaṃ samāptam //

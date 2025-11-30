@@ -1,0 +1,1002 @@
+Nāgārjuna: Pañcakrama
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-paJcakrama.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Ram Ram Shankar Tripathi: Piṇḍīkramaḥ Pañcakramaś ca, Varanasi/Sarnath 2001.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Pañcakrama = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from nagpancu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Nagarjuna: Pancakrama (= Pk)
+Based on the ed. by Ram Ram Shankar Tripathi: Piṇḍīkramaḥ Pañcakramaś ca, Varanasi/Sarnath 2001
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Version: 2009-04-29 09:28:35
+Proof Reader: Milan Shakya
+The transliteration emulates the conventions of Nagari script.
+Therefore, many word boundaries are not marked by blanks.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+pañcakramaḥ
+
+[1] vajrajāpakramaḥ prathamaḥ
+
+oṃ namo buddhāya
+
+sarvabuddhātmakaṃ nāthaṃ natvā śrīmanmahāsukham |
+vajrajāpakramaṃ vakṣye yogatantrānusārataḥ || pk_1.1 ||
+
+utpattikramasaṃsthānāṃ niṣpannakramakāṅkṣiṇām |
+upāyaścaiṣa saṃbuddhaiḥ sopānamiva nirmitaḥ || pk_1.2 ||
+
+prāṇabhūtaśca sattvānāṃ vāyvākhyaḥ sarvakarmakṛt |
+vijñānavāhanaścaiṣa pañcātmā daśadhā punaḥ || pk_1.3 ||
+
+vāyutattvānupūrveṇa mantratattvaṃ samāviśet |
+mantranidhyaptimāgamya vajrajāpaḥ suśikṣyate || pk_1.4 ||
+
+vajrajāpasthito mantrī cittanidhyaptimāpnuyāt |
+mayopamasamādhistho bhūtakoṭyāṃ samāviśet || pk_1.5 ||
+
+bhūtakoṭeḥ samuttiṣṭhannadvayajñānamāpnuyāt |
+yuganadvasamādhistho na kiñcicchakṣate punaḥ || pk_1.6 ||
+
+ayaṃ niṣpannayogākhyo mahāvajradharaśca saḥ |
+sarvākāravaropetaḥ sarvajño jāyate tataḥ || pk_1.7 ||
+
+anāgatamatītaṃ ca vartamānaṃ bhavatrayam |
+tatkṣaṇāt nikhilaṃ paśyet prabhāsvaraviśuddhitaḥ || pk_1.8 ||
+
+etattattvaṃ sthitaṃ tantre śrīsamāje sumudritam |
+vyākhyātantrānusāreṇa boddhavyaṃ guruvaktrataḥ || pk_1.9 ||
+
+tatra prathamataraṃ vāyutattvoddeśapadaṃ mūlasūtrādevāvatāryate-
+
+nāsāgre sarṣapaṃ cintet sarṣape sacarācaram |
+bhāvayejjñānapadaṃ ramyaṃ rahasyaṃ jñānakalpitam || pk_1.10 ||
+
+pañcavarṇaṃ mahāratnaṃ sarṣapasthūlamātrakam |
+nāsikāgre prayatnena bhāvayed yogataḥ sadā || pk_1.11 ||
+
+iti sandhābhāṣeyamasya vajrapadasya nirdeśamāha caturdevīvyākhyātantre-
+
+tad devi sampravakṣyāmi sārāt sārataraṃ param |
+rahasyaṃ sarvabuddhānāṃ yat tat sarvātmani sthitam || pk_1.12 ||
+
+paścajñānamayaṃ tattvaṃ sarṣapasthūlamātrakam | tasya madhye sthito devo hyavyakto vyaktarūpavān || iti | pk_1.13 ||
+
+samājottare 'pyamumarthaṃ dyotayannāhaḥ |
+
+pañcajñānamayaṃ śvāsaṃ pañcabhūtasvabhāvakam |
+niścārya padmanāsāgre piṇḍarūpeṇa kalpayet || pk_1.14 ||
+
+pañcavarṇaṃ mahāratnaṃ prāṇāyāmamiti smṛtam | svamantraṃ hṛdaye dhyātvā cittaṃ bindugataṃ nyaset || pk_1.15 |
+
+ityasyāpi pratinirdeśamāha vajramālānāmni vyākhyātantre-
+
+nāsāgre sarṣapaṃ nāma prāṇāyāmasya kalpanā |
+prāṇāyāmasthitāḥ pañca raśmayo buddhabhāvataḥ || pk_1.16 ||
+
+ūrdhvaṃ ghrāṇād viniṣkrānto vāmadakṣiṇadvandvataḥ |
+stabdhaśceti caturdhāsmād velā ādhyātmikā smṛtā || pk_1.17 ||
+
+kaṇṭhahṛnnābhiguhyābje gatyāgatī vinirdiśet |
+vihared ardhayāmikāṃ velāṃ paripāṭyā yathākramam || pk_1.18 ||
+
+dakṣiṇād vinirgato raśmirhutabhuṅmaṇḍalaṃ ca tat |
+raktavarṇamidaṃ vyaktaṃ padmanātho 'tra devatā || pk_1.19 ||
+
+vāmād vinirgato raśmirvāyumaṇḍalasaṃjñitaḥ |
+haritaśyāmasaṅkāśaḥ karmanātho 'tra devatā || pk_1.20 ||
+
+dvābhyāṃ vinirgato raśmiḥ pītavarṇo mahādyutiḥ |
+māhendramaṇḍalaṃ caitad ratnanātho 'tra devatā || pk_1.21 ||
+
+stabdho mandrapracārastu sitakundendusannibhaḥ |
+maṇḍalaṃ vāruṇaṃ caitad vajranātho 'tra devatā || pk_1.22 ||
+
+sarvadehānugo vāyuḥ sarvaceṣṭāpravartakaḥ |
+vairocanasvabhāvo 'sau mṛtakāyād viniścaret || pk_1.23 ||
+
+vāyutattvamidaṃ vyaktaṃ pañcajñānasvabhāvakam |
+tārkikā na prajānanti agamyaṃ bālayoginām || pk_1.24 ||
+
+ityevaṃ vāyuttatvaṃ pratipādyedānīṃ mantratattvasyoddeśapadaṃ mūlasūtrādavatāryate-
+
+sarvatathāgatakāyavākcittarahasyaṃ sarvatantrahṛdayasañcodanaṃ nāma paramaguhyaṃ svakāyavākcittavajrebhyo vākpathaniruktyā mantrasamuccayamudājahāra oṃ āḥ hūṃ |
+
+arthānumajāpena niḥsvabhāvena cāruṇā |
+vicāraṇā tryadhvabuddhebhyo vajrajāpaḥ sa ucyate || pk_1.25 ||
+
+bhikṣāśinā na japtavyaṃ na ca bhaikṣarato bhavet |
+japenmantramabhinnāṅgaṃ sarvakāmopabhogakṛt || pk_1.26 ||
+
+ityuddeśapadam asya nirdeśamāha sandhyāvyākaraṇavyākhyātantre tadavatāryate-
+
+pratyuvāca tataḥ śrīmān mahāvairocanaṃ vibhum |
+viśvarūpamidaṃ cittaṃ sarvasattvopapattitaḥ || pk_1.27 ||
+
+jātaṃ san niḥsvabhāvo 'pi bhāvākhyaṃ tu pratītyataḥ |
+kṛtvā cānubhavaṃ samyag bodhicittaṃ khatulyakam || pk_1.28 ||
+
+jagadarthaṃ vidhātuṃ ca taddeśayottame jane |
+sādhanopāyitāmātraṃ jñātvā tantre vipañcitam || pk_1.29 ||
+
+ācāryā vayamityevaṃ vadantyāgāmikā vibho | yad vākyaṃ mametyevamuktvā kṣipanti bāliśāḥ | sandhyāya bodhicittaṃ te na vidanti yathārthataḥ || iti | pk_1.30 ||
+
+yathedaṃ bhagavān svāmī mahāvairocano vibhuḥ |
+triṣkṛtvā sādhuvacanaṃ vajrapāṇiṃ vadedidam || pk_1.31 ||
+
+kathayamāmi prabhedena nirvikalpārthatattvataḥ |
+pravyāhāropalambhākhyaṃ sāṅketaṃ pāramārthikam || pk_1.32 ||
+
+pravyāhāro hi sāmānyaṃ buddharūpopalambhakam |
+sāṅketaṃ mantratattvākhyaṃ tathatā pāramārthikam || pk_1.33 ||
+
+ekādirnavamadhye tu daśabhiryo na badhyate |
+tamabaddhaṃ vijānīyāt sa vetti parasampadam || pk_1.34 ||
+
+svaravyañcanavarṇāśca navasaṃkhyānuvartinaḥ |
+' abaddhānyonyasaṃyoogād yo vetti sa jagadguruḥ || pk_1.35 ||
+
+bhūtāntena samāyuktaṃ kalādiṣoḍaśe sthitam |
+pañcapañcakasaṃyuktaṃ catustrayaniyojitam || pk_1.36 ||
+
+sānusvāraṃ sadīrghaṃ na guṇasaṃyolopavat |
+hrasvaṃ samastavākyaṃ syānna cānekaṃ na caikakam || pk_1.37 ||
+
+ye varṇāḥ pṛṣṭhataḥ proktā abhimukhāśca ye punaḥ |
+strī-puṃ-napuṃsakāste ca dhātvādiparikalpitāḥ || pk_1.38 ||
+
+adha-ūrdhvasamāyuktaṃ jñātvā buddhyā niyojayet |
+pravyāhāramidaṃ mantraṃ niḥsvabhāvasvabhāvajam || pk_1.39 ||
+
+tataḥ pariṇataṃ rūpaṃ yaddevatopalambhikam |
+sāṅketikaṃ tritattvasthaṃ prakṛtijāpalapakṣaṇam || pk_1.40 ||
+
+akāroddeśakaṃ jñānaṃ buddhasya hṛdayaṃ bhavet |
+oṃkāraḥ saṃsṛjet sattvān buddharūpāgrakalpitān || pk_1.41 ||
+
+hūṃkāraḥsaṃharet sattvān āḥkāraḥ sthāpako bhavet |
+praveśaśva sthitiścaiva vyutthānaṃ ca krameṇa ca || pk_1.42 ||
+
+japen mantramabhinnāṅgaṃ prajñopāyapade sthitaḥ |
+pāṇḍarādijapaḥ praktaḥ pañcaviṃśacchatadvayam || pk_1.43 ||
+
+caturbhirguṇitaṃ samyak caturyogaśataṃ nava |
+navaśataṃ tu yad dṛṣṭaṃ caturviṃśatparikramaiḥ |
+pratyutpādād bhavet tatra dvyayutaṃ śataṣoḍaśam || pk_1.44 ||
+
+idamevādhyātmikavelāyāṃ dyotayannāha samājottare-
+
+vidyānayavidhānena catuḥsandhyāprayogataḥ |
+japenmantramabhinnāṅgaṃ lakṣamakṣarasaṃkhyayā || pk_1.45 ||
+
+bāhyajāpaṃ tyajed yogī bhāvanāyāntarāyikam |
+mantrārtho bhagavān vajrī vajrātmātra kathaṃ japet || pk_1.46 ||
+
+hastinaṃ labhate sadyo mṛgayeddhastinaḥ padam |
+mantramūrtiḥ svayaṃ sākṣāt kimanyattu gaveṣate || pk_1.47 ||
+
+api ca vajradhṛk kaścit trisaṃyogānvito naraḥ |
+āvāhanavisarjanaṃ syāt tathā sthāpanameva ca || pk_1.48 ||
+
+āvāhanaṃ praveśena tvaritena visarjanam |
+vāṣpeṇa sthāpanaṃ tat syād viśvastāt siddhiruttamā || pk_1.49 ||
+
+tvarite nibandhake vāṣpe mantraniyojanā kathitā |
+karṇamūle tu śiṣyāyācāryeṇa suprayatnataḥ || pk_1.50 ||
+
+atha yogeśvarāṇāṃ tu divyopāyaḥ pradarśitaḥ |
+guhyākṣaraṃ pravakṣyāmi yogasiddhiphalapradam || pk_1.51 ||
+
+yena cintitamātreṇa yoginaḥ syurvarapradāḥ |
+ādyakṣaraprayogeṇa ucchavāsaṃ kurute sadā || pk_1.52 ||
+
+aṣṭāntena samāyuktamukāreṇa sabindukam |
+niśvāsaṃ kurute yogī rucijāptamihocyate || pk_1.53 ||
+
+ayutadvayaṃ sahasraṃ ca ṣaṭ śatāni tathaiva ca |
+ahorātreṇa yogīndro japasaṃkhyāṃ karoti ca || pk_1.54 ||
+
+tadevaṃ guhyasandhyāyāṃ sūkṣmayogaḥ prakāśitaḥ |
+dhyānādhyayanavītaṃ tu tathāpi jāpa ucyate || pk_1.55 ||
+
+anena vajrajāpena sevāṃ kṛtvā yathāvidhi |
+sādhayet sarvakāryāṇi māyopamasamādhinā || pk_1.56 ||
+
+atrāha advayasamatāmahāyogatantre-
+
+japitvā mantramatulaṃ sādhayet sādhanātmakaḥ |
+sidhyate tasya trailokyaṃ māsaikena na saṃśayaḥ || pk_1.57 ||
+
+ṣaḍ lakṣāṇi japitvā tu mantraṃ jñānasamudbhavam |
+vajrasattvaṃ namaskṛtya pūrṇamāsyāṃ sa sidhyati || pk_1.58 ||
+
+na tasya vratamākhyātaṃ nākṣasūtraṃ na mantrakam |
+dhāraṇā homakarmāṇi varjyante ca parāparam || pk_1.59 ||
+
+yakārārthena yat kiñcit siddhimicchatā |
+rephāditritayenaiva jatatkāryaṃ pravartate || pk_1.60 ||
+
+agnivāyavyamāhendravāruṇe pratimaṇḍale |
+ardhayāmikavelāyāṃ dvau dvau karmaṇi tiṣṭhataḥ || pk_1.61 ||
+
+pūjāprāyo bhavet pūjyo jāpaprāyo viśudhyati |
+agnihotraparo bhūtiṃ mokṣaṃ dhyānaparo labhet || pk_1.62 ||
+
+jñātvā itthaṃ tato mantrī jagadbālavadācaret |
+tataḥ sidhyanti mantrāśca nirvikalpaikadharmataḥ || pk_1.63 ||
+
+mantratattvamidaṃ vyaktaṃ vāgvajrasya prasādhanam | jñānatrayaprabhedena cittamātre niyojayed || iti || pk_1. 64 ||
+
+guroravajñāsuśaṭho 'prasanno mantroddhataḥ pustakadṛṣṭigarvaḥ |
+aśraddadhānastvabhiṣekahīno vārtā kramasyāpi ca tasya noktā || pk_1.65 ||
+
+yaḥ śraddadhāno gurubhaktiraktaḥ śuśrūṣaṇāyāṃ ca sadābhiyuktaḥ |
+grāhyaḥ śrutiṃ naiva dhanaṃ nirīkṣyaṃ gurupradhāno 'ya guruprasādaḥ || pk_1.66 ||
+
+girīndramūrdhnaḥ prapatet tu kaścit neccheccyutiṃ tu cyavate tathāpi |
+guruprasādāptahitopadeśa icchenna moktaṃ sa tathāpi muktaṃḥ || pk_1.67 ||
+
+|| vajrajāpakramaḥ samāptaḥ ||
+
+kṛtiriyaṃ śrīnāgārjunapādānāmiti |
+granthapramāṇamasya ṣadadhikasaptatiḥ ||
+
+prathamaḥ kramaḥ ||
+
+[2] anuttarasandhirityaparanāmā sarvaśuddhiviśuddhikramaḥ dvitīyaḥ
+
+namaḥ śrīvajrasattvāya
+
+namaste 'stu namaste 'stu namaste 'stu namo namaḥ |
+evaṃ stute namaste 'stu kaḥ stotā kaśca saṃstutaḥ || pk_2.1 ||
+
+yathā jalaṃ jale nyastaṃ ghṛtaṃ caiva yathā ghṛte |
+svakīyaṃ ca svayaṃ paśyej jñānaṃ yatreha vandanā || pk_2.2 ||
+
+kintu sarvajñagatibhirvinā tannopalabhyate |
+tamaḥpaṭalasañchannaṃ prasādād dvīpamāpnuyāt || pk_2.3 ||
+
+śūnyaṃ ca atiśūnyaṃ ca mahāśunyaṃ tṛtīyakam |
+caturthaṃ sarvaśūnyaṃ ca phalahetuprabhedataḥ || pk_2.4 ||
+
+prajñopāyasamāyogānniṣpannamupalabdhakam |
+upalabdhācca niṣpannāt sarvaśūnyaṃ prabhāsvaram || pk_2.5 ||
+
+hetukramaviśuddhaṃ tu vijñānatrayayogataḥ |
+śūnyatrayasamāyogāllabhyate 'nuttaraṃ padam || pk_2.6 ||
+
+ālokaśśūnyaṃ prajñā ca cittaṃ ca paratantrakam |
+tasyedānīṃ pravakṣyāmi prakṛtispharaṇaṃ sphuṭam || pk_2.7 ||
+
+virāgo madhyamaścaiva adhimātrastathaiva ca |
+manogatāgataṃ caiva śokāditṛtīyaṃ tathā || pk_2.8 ||
+
+saumyaṃ vikampo bhītaśca madhyabhīto 'tibhītakaḥ |
+tṛṣṇā madhyatṛṣṇā cātitṛosṇoopādānakaṃ tathā || pk_2.9 ||
+
+niḥśubhaṃ kṣuttṛṣā caiva vedanā samavedanā |
+ativedanā kṣaṇaścaiva vettividdhāraṇāpadam || pk_2.10 ||
+
+pratyavekṣaṇaṃ lajjā ca kāruṇyaṃ snehatastrayam |
+cakitaṃ saṃśayaścaiva mātsaryaṃ ceti kīrtitāḥ || pk_2.11 ||
+
+trayastriṃśat prakṛtayaḥ svasaṃvedyāḥ śarīriṇām |
+saṃvṛtisphuṭarupeṇa niśāsaṃjñā pradarśitāḥ || pk_2.12 ||
+
+strīsaṃjñā tathā proktā mandākārā tathaiva ca |
+vāmasaṃjñā punaścaiva candramaṇḍalapaṅkajam || pk_2.13 ||
+
+dṛḍhīkaraṇahetutvāt sabinduḥ prathamaḥ svaraḥ |
+niśākarāṃśusaṅkāśa ālokajñānasambhavaḥ || pk_2.14 ||
+
+ālokābhāsamityutkam atiśūnyamupāyakam |
+parikalpitaṃ tathā proktaṃ proktaṃ caitasikaṃ tathā || pk_2.15 ||
+
+rāgo raktaṃ tathā tuṣṭaṃ madhyatuṣṭātituṣṭakam |
+harṣaṇaṃ caiva prāmodyaṃ vismayo hasitaṃ tathā || pk_2.16 ||
+
+hlādanāliṅganaṃ caiva tathā cumbanacūṣaṇam |
+dhairyaṃ vīryaṃ ca mānaśca kartṛhartṛbalāni ca || pk_2.17 ||
+
+utsāhaḥ sāhasaṃ caiva tathā cottamasāhasam |
+madhyamaṃ sāhasaṃ rādraṃ vilāso vairameva ca || pk_2.18 ||
+
+śubhaṃ ca vāk sphuṭā satyamasatyaṃ niścayastathā |
+nirupādānadātṛtve codanaṃ śūratā tathā |
+alajjā dhūrtaduṣṭaśca haṭhaḥ kuṭila eva ca |
+catvāriṃśat prakṛtayaḥ kṣaṇikāścātiśūnyajjāḥ || pk_2.20 ||
+
+divāpuruṣasaṃjñā ca kharākāraśca dakṣiṇaḥ |
+sūryamaṇḍalasaṃjñā ca vajrasaṃjñā tathaiva ca || pk_2.21 ||
+
+kalā saiva tu vijñeyā bindudvayavibhūṣitā |
+divākarāṃśuisaṅkāśā ālokābhāsayogajā || pk_2.22 ||
+
+ālokasyopalabdhiśca upalabdhaṃ tathaiva ca |
+pariniṣpannakaṃ caiva avidyā caiva nāmataḥ || pk_2.23 ||
+
+mahāśūnyapadasyaite paryāyāḥ kathitā jinaiḥ |
+madhyarāgakṣaṇaścaiva vismṛtirbhrāntireva ca || pk_2.24 ||
+
+tūṣṇīṃbhāvaśca khedaśca ālasyaṃ dandhatā tathā |
+avidyāyāḥ kṣaṇāḥ sapta vijñeyāḥ sukṣmayogibhiḥ || pk_2.25 ||
+
+na bījaṃ vindusaṃyuktaṃ na vāyurdvāranirgataḥ |
+yadālokopalabdhaṃ tu tat pariniṣpannalakṣaṇam || pk_2.26 ||
+
+etāḥ prakṛtayaḥ sūkṣmāḥ śataṃ ṣaṣṭyuttaraṃ divā |
+rātrau cāpi pravartante vāyuvāhanahetunā || pk_2.27 ||
+
+kṣaṇe lave muhūrtte ca nimeṣe mātrake tathā |
+kṣaṇa ityacchaṭāvasthā lavaḥ sarṣapavartanam || pk_2.28 ||
+
+āśvāsastu muhūrttaṃ syānnimeṣo 'kṣinimeṣaṇam |
+mātrā tu hastatālaṃ syāt kṣaṇādīnāṃ tu lakṣaṇam || pk_2.29 ||
+
+saṃvittimātrakaṃ jñānamākāśavadalakṣaṇam |
+kintu tasya prabhedo 'sti sandhyārātridivātmanā || pk_2.30 ||
+
+ālokālokābhāsau ca tathālokopalabdhakam |
+cittaṃ trividhamityuktam ādhārastasya kathyate || pk_2.31 ||
+
+vāyunā sūkṣmarūpeṇa jñānaṃ saṃmiśratāṃ gatam |
+niḥsṛtyendriyamārgemyo viṣayānavalambate || pk_2.32 ||
+
+ābhāsena yadā yukto vāyurvāhanatāṃ gataḥ |
+tadā tatprakṛtīḥ sarvā astavyastāḥ pravartayet || pk_2.33 ||
+
+yatra yatra sthito vāyustāṃ tāṃ prakṛtimudvahet |
+yāvat samīraṇotpādo nābhāso niścalo bhavet || pk_2.34 ||
+
+ābhāsadvayahetuḥ syādātmabhāvavikalpanā |
+ubhayāṃśikameva syād yadālokopalabdhakam || pk_2.35 ||
+
+sarvāsāmeva māyānāṃ strīmāyaiva viśiṣyate |
+jñānatrayaprabhedo 'yaṃ sphuṭamatraiva lakṣyate || pk_2.36 ||
+
+rāgaścaiva virāgaśca dvarorantariti trayam |
+dvīndriyasya samāpattyā vajrapadmasamāgamāt || pk_2.37 ||
+
+jñānadvayasamāyogaḥ samāpattiḥ prakīrtītā |
+jñānadvayasamāpattyā yathoktakaraṇena tu || pk_2.38 ||
+
+yajjñānaṃ prāpyate yatnāt tadālokopalabdhakam |
+yasya vajrābjasaṃyogaḥ saṃvṛtyā tu na vidyate || pk_2.39 ||
+
+sidhyate yogasāmarthyāt sakṛdapyanubhūtavān |
+yathā prabhedaṃ vijñāya jñānavṛttiṃ svabhāvataḥ || pk_2.40 ||
+
+lakṣayet satataṃ yogī tāmeva prakṛtiṃ punaḥ |
+payodharā yathā naike nānāsaṃsthānavarṇakāḥ || pk_2.41 ||
+
+udbhūtā gaganābhogāllayaṃ gacchanti tatra vai |
+evaṃ prakṛtayaḥ sarvā ābhāsatrayahetukāḥ || pk_2.42 ||
+
+nirviśya viṣayān kṛtsnān praviśanti prabhāsvaram |
+eṣāṃ svabhāvābijñānadajñānapaṭalāvṛtāḥ || pk_2.43 ||
+
+kṛtvā śubhāśubhaṃ karma bhramanti gatipañcake |
+ānantaryādikaṃ kṛtvā narakeṣu vipacyate || pk_2.44 ||
+
+śubhaṃ dānādikaṃ kṛtvā svargādiṣu mahīyate |
+anantajanmasāhasraṃ prāpya caivaṃ punaḥ punaḥ || pk_2.45 ||
+
+pūrvakarmavipāko 'yamiti śocati mohataḥ |
+prakṛtyābhāsayogena yena kliśyanti jantavaḥ || pk_2.46 ||
+
+jñātvā tameva mucyante jñānino bhavapañjarāt |
+prajñāsvabhāva evāyaṃ candramaṇḍalakalpanā || pk_2.47 ||
+
+cittameva svayaṃ paśyet svameva śaśibimbavat |
+atha candraṃ samālambya vajracinhaṃ prakalpayet || pk_2.48 ||
+
+upāyasūcakaṃ hyetad vajrādyutpattiyoginām |
+candravajrādisaṃyogaścittacaitasasaṅgamaḥ || pk_2.49 ||
+
+prajñopāyasamāyogājjāyate devatākṛtiḥ |
+caturmudrābhirāmudrya devatāgarvamudvahan || pk_2.50 ||
+
+vicaret tu sadā mantrī utpattikramayogavān |
+yathoktaṃ śrīsamājādau tatra tatra suvistaram || pk_2.51 ||
+
+yāvat syād bhāvanāyogastāvat syādādikarmikaḥ |
+pariniṣpannayogasya sūcana kriyate 'dhunā || pk_2.52 ||
+
+śūnyatrayaviśuddhiryā prabhāsvaramihocyate |
+sarvaśūnyapadaṃ tacca jñānatrayaviśuddhitaḥ || pk_2.53 ||
+
+jñānaśuddhipadaṃ tattvaṃ sarvajñatvamanuttaram |
+nirvikāraṃ nirābhāsaṃ nirdvandvaṃ paramaṃ śivam || pk_2.54 ||
+
+astīti na ca nāstīti na ca vākyagocaram |
+ataḥ prabhāsvarāccūddhājjñānatrayasamudbhavaḥ || pk_2.55 ||
+
+dvātriṃśallakṣaṇadharo hyaśītivyañcanānvitaḥ |
+sarvākāravaropetaḥ sarvajño jāyate tataḥ || pk_2.56 ||
+
+tathā coktaṃ mahāyānasūtre lalitavistare |
+abhisambodhikāmo 'yaṃ śākyasiṃhastathāgataḥ || pk_2.57 ||
+
+mahāśūnyena buddhatvaṃ prāpsyāmītyabhimānataḥ |
+nairañcanānadītīre nispādyāsphānakaṃ gataḥ || pk_2.58 ||
+
+tilabimbīva sampūrṇāḥ khamadhyasthā jināstadā |
+ekasvareṇa taṃ prāhuracchaṭena jinaurasam || pk_2.59 ||
+
+aviśuddhamidaṃ dhyānaṃ na caitadiṣṭakāvaham |
+prabhāsvaraṃ ātu ālambyamākāśatalavat param || pk_2.60 ||
+
+prabhāsvarapade prāpte svecchārūpastu jāyase |
+savaiśvaryaṃ tathā prāpya vajrakāye pramodase || pk_2.61 ||
+
+evaṃ śrutvā tu taṃ śbdaṃ visarjyāsphānakaṃ tataḥ |
+niśārdhasamaye tattvamālambyaiva jinaurasaḥ || pk_2.62 ||
+
+ṛjukenaiva kāyena vācāya ṛjureva ca |
+sāśano nāśano naiva na maunī nāpyamaunavān || pk_2.63 ||
+
+nonmīlitasunetrastu na ca mīlitalocanaḥ |
+svacchaṃ vyaktaṃ mahājñānaṃ sarvaśūnyaṃ mahādbhutam || pk_2.64 ||
+
+atha paśyati tadvayaktaṃ gurupādaprasādataḥ |
+anāgatamatītaṃ ca vartamānaṃ bhavatrayam || pk_2.65 ||
+
+tatkṣaṇānnikhilaṃ paśyet prabhāsvaraviśuddhadhṛk |
+jalacandramarīcyādimāyāguṇavibhūṣitaḥ || pk_2.66 ||
+
+aruṇodgamakāle tu vajropamasamādhinā |
+niṣadya bodhimūle tu so 'karonmārabhañcanam || pk_2.67 ||
+
+samprāpya śākyanāthena tattvajñānamanuttaram |
+jagattrayahitārthāya tadeveha pradarśitam || pk_2.68 ||
+
+tattvajñānamiti proktamabhisambodhidarśanam |
+pañcānantaryakarmā ca mandapuṇyo 'pi yo naraḥ || pk_2.69 ||
+
+guruprasādādāpnoti cintāmaṇirivāparam |
+yatheṣṭaṃ kurute caryāṃ saṃbuddho 'yamanāgataḥ || pk_2.70 ||
+
+na rāgo na virāgaśca madhyamā nopalabhyate |
+na śūnyaṃ nāpi cāśūnyaṃ madhyamā nopalabhyate || pk_2.71 ||
+
+sarvabuddhasamāyoga idameva pradarśitam |
+trijñānād vyatiriktaṃ yat tattvaṃ sandhyāya bhāṣayā || pk_2.72 ||
+
+abhāvetyādigāthābhiḥ paṭale bodhicittake |
+śrīsamāje 'pi tat proktamabhisambodhilakṣaṇam || pk_2.73 ||
+
+rāgādīnāṃ viśuddhiryā paramādye pradarśitā |
+sarvaśūnyaṃ samuddiśya sāpi proktā tathāgataiḥ || pk_2.74 ||
+
+nānāsūtreṣu tantreṣu yat tattvamupadarśitam |
+sarvaśūnyapadaṃ hyetannānyat tatrābhidhīyate || pk_2.75 ||
+
+caturaśītisāhasre dharmaskandhe mahāmuneḥ |
+sārāt sārataraṃ proktam abhisambodhilakṣaṇam || pk_2.76 ||
+
+jaṭī nagnaśca muṇḍī vā śikhiniḥsaṅgavṛttayaḥ |
+taistaiśca vividhairliṅgairabhisambodhikāminaḥ || pk_2.77 ||
+
+teṣāṃ tattvavihīnānāṃ vratacaryādikaḥ kramaḥ |
+tattvajñānavihīnatvāt tena muktirna labhyate || pk_2.78 ||
+
+ādikarmikayogena cāṣṭamīṃ bhūmimāpnuyāt |
+ālokatrayadarśī ca daśabhūmyāṃ pratiṣṭhitaḥ || pk_2.79 ||
+
+samprāpya hyabhisambodhiṃ śuddhāvāsamupāgataḥ |
+buddhakṣetresvavaivartī sarvajña iha janmani || pk_2.80 ||
+
+dharmodayābhisambodhiḥ krīḍārāgādivistaraiḥ |
+dharmadhātvābhisamabodhiryathālābhaviceṣṭitaiḥ || pk_2.81 ||
+
+anutarābhisambodhirabhisambodhiyogataḥ |
+prapañcākārādicaryābhirabhyasyantīha yoginaḥ || pk_2.82 ||
+
+āḥ kimabhyāsayogena ādiśuddhiḥ svabhāvikā |
+prakṛtyaiva hi sā siddhā tathatā na vikalpajā || pk_2.83 ||
+
+ya evaṃ kalpayantīha jñānakramamapāsya vai |
+tatprabhedamajānānāḥ punaḥ śaikṣā bhavanti te || pk_2.84 ||
+
+prakṛtyābhāsabhedajñā caturthaṃ tattvamāśritāḥ |
+tridhā nābhyasyate yastu na śīghramāpnuyāt phalam || pk_2.85 ||
+
+yathāgnirdārugarbhastho nottiṣṭhenmathanād vinā |
+tathābhyāsād binā bodhirjāyate neha janmani || pk_2.86 ||
+
+yaḥ śāṭhyabuddhiralaso gurunindakaśca prāptābhiṣeka iti garvitamānasaḥ syāt |
+sarvajñatā na sulabheti vihīnacitto doṣān sa paśyati gurorna guṇān varākaḥ || pk_2.87 ||
+
+sūśrūṣayā virahito laghu tattvamicchen neti praśstavacanaṃ calayet saroṣaḥ |
+dṛṣṭvā sabhāsu gurumasya parāṅmukhastu kuryāt praṇāmamatha tasya rahogatasya || pk_2.88 ||
+
+evaṃ ca daurātmyagataṃ kuśiṣyam svaputramapyaurasamāryagarhyam |
+vaiśyaṃ tathā pārthivamagrabodhiṃ kuryāt samīpe na hi jātu dhīraḥ || pk_2.89 ||
+
+śubhaguṇasusameto jñānavān vīryayukto gurujanamatha bhaktyā vīkṣate buddhatulyam |
+adhigatajinadharmaḥ śāsaneṣu prasannaḥ sa iha bhavati pātraṃ tasya kuryāt prasādam || pk_2.90 ||
+
+śrutabahutaratantro 'uyāgameṣu pravīṇo gurujanaparicaryāhānyalabdhopadeśaḥ |
+svahitamapi sa kartuṃ na prabhuḥ śāstracañcurbhavati tadapi śāstraṃ kevalaṃ khedahetuḥ || pk_2.91 ||
+
+atha bhavati sabhāgyaḥ prāptatattvopadeśo jaḍamatirasamartho mīlane 'rthasya yastu |
+parahitakṛtabuddhirdeśanāyāṃ pravṛtto vacanaguṇavihīnaḥ so 'pyavajñāmupaiti || pk_2.92 ||
+
+śrutabahutaratantro jñānavān ṣaṭpadajñaḥ smṛtimatidhṛtimedhāvīryasampatsametaḥ |
+gurucaṇasaparyāprāptatattvopadeśaḥ prabhavati sa hi vaktuṃ tantrarājopadeśam || pk_2.93 ||
+
+śrutabahutaratantreṇāyavajriprasādāt sphuṭaviracitavācā bodhimārgaṃ vibhajya | kuśalamupacittaṃ yacchākyamitreṇa tena prakaṭapaṭuvipākād bodhibhājo bhavantu || iti | pk_2.94 ||
+
+anuttarasandhirityaparanāmā
+
+|| sarvaśuddhiviśuddhikramaḥ samāptaḥ ||
+
+kṛtiriyaṃ śākyamitrapādānām | granthapramāṇamasya śatamekam |
+
+dvitīyaḥ kramaḥ |
+
+[3] svādhiṣṭhānakramaḥ tṛtīyaḥ
+
+namaḥ śrīvajragurave
+
+praṇipatya varaṃ vajraṃ vajrasattvādināyakam |
+svādhiṣṭhānakramaścaiva vakṣyate kṛpayā mayā || pk_3.1 ||
+
+prathamataraṃ tāvad utpattikramānusāreṇa prāptābhiṣekaścaturvidhatantrābhiprāyajñaḥ prāptakāyavākcittavivekaḥ śrutidharaḥ satyadvayādhimokṣo vajraguruṃ samyag ārādhya, tataḥ prasannāya gurave mahatīṃ gaṇapūjāṃ kṛtvā ṣoḍaśābdikāṃ mudrāṃ mahāvajragurave datvā, tadanantaraṃ guruvaktrād āptasvādhiṣṭhānakramopadeśaḥ, tato mālodakasambuddhavajraghaṇṭādānadarpaṇanāmācāryānujñā ityebhiḥ saha guhyābhiṣekaṃ labdhvā ebhiḥ śāstāraṃ guruṃ stūyātḥ |
+
+śauṣīryaṃ nāsti te kāye māṃsāsthirudhiraṃ na ca |
+indrāyudhamivākāśe kāyaṃ darśitavānasi || pk_3.2 ||
+
+nāmayā nāśuciḥ kāye kṣuttṛṣṇāsambhavo na ca |
+tvayā lokānuvṛttyarthaṃ darśitā laukikī kriyā || pk_3.3 ||
+
+dakacandravadagrāhya sarvadharmeṣvaniśrita |
+anahaṅkāra nirmoha nirālamba namo 'stu te || pk_3.4 ||
+
+sadā samāhitaścāsi gacchaṃstiṣṭhan svapaṃstathā |
+īrṣyāpatheṣu sarveṣu nirālamba namo 'stu te || pk_3.5 ||
+
+vikurvasi mahāṛddhyā māyopamasamādhinā |
+nirnānātvaṃ samāpanna nirālamba namostu te || pk_3.6 ||
+
+evaṃ vajraguraṃ sadbhūtaguṇena saṃstutya śravaṇārtham adhyeṣayed anayā gāthayā-
+
+sarvajña jñānasandoha bhavacakraviśodhaka |
+adya vyākhyānaratnena prasādaṃ kuru me vibho || pk_3.7 ||
+
+tvatpādapaṅkajaṃ muktvā nāstyanyaccharaṇaṃ vibho |
+tasmāt prasīda buddhāgra jagadvīra mahāmune || pk_3.8 ||
+
+evaṃ śrutvā tu tad vākyam adhyeṣaṇaviśāradam |
+śiṣyakāruṇyamutpādya svādhiṣṭhānamathārabhet || pk_3.9 ||
+
+svādhiṣṭhānakramo nāma saṃvṛteḥ satyadarśanam |
+gurupādaprasādena labhyate tacca nānyathā || pk_3.10 ||
+
+svādhiṣṭhānakramo yena sādhakena na labhyate |
+sūtrāntatantrakalpeṣu vṛthā tasya pariśramaḥ || pk_3.11 ||
+
+svādhiṣṭhānakramaṃ labdhvā sarvabuddhāmayaḥ prabhuḥ |
+janmanīhaiva buddhatvaṃ niḥsandehaṃ prapadyate || pk_3.12 ||
+
+svādhiṣṭhānasamādhiśca prabhāsvarapadaṃ tathā |
+satyadvayamiti khyātaṃ phalahetuviśeṣataḥ || pk_3.13 ||
+
+svādhiṣṭhānānupūrveṇa prāpyate hi prabhāsvaram |
+tasmād vajraguruḥ pūrvaṃ svādhiṣṭhānaṃ pradarśayet || pk_3.14 ||
+
+asvatantraṃ jagat sarvaṃ svatantraṃ naiva jāyate |
+hetuḥ prabhāsvaraṃ tasya sarvaśūnyaṃ prabhāsvaram || pk_3.15 ||
+
+yena cittena bālāśca saṃsāre bandhanaṃ gatāḥ |
+yoginastena cittena sugatānāṃ gatiṃ gatāḥ || pk_3.16 ||
+
+na cātrotpadyate kaścin maraṇaṃ nāpi kasyacit |
+saṃsāra eva jñātavyaścittarūpākṛtiṣṭhitaḥ || pk_3.17 ||
+
+vāyuyogād vinā cittasvarūpaṃ naiva gṛhyate |
+cittāt prakṛtihetutvāt karmajanmasamudbhavaḥ || pk_3.18 ||
+
+tadeva vāyusaṃyuktaṃ vijñānatritayaṃ punaḥ |
+jāyate yogināṃ mūrttirmāyādehastaducyate || pk_3.19 ||
+
+tasmādeva jagat sarvaṃ māyopama ihocyate |
+māyopamasamādhiṣṭhaḥ sarvaṃ paśyati tādṛśam || pk_3.20 ||
+
+rūpaṃ ca vedanā caiva saṃjñā saṃskāra eva ca |
+vijñānaṃ pañcamaṃ caiva catvāro dhātavastathā || pk_3.21 ||
+
+akṣāṇi viṣayāścaiva jñānapañcakameva ca |
+adhyātmabāhyato bhinnaṃ sarvaṃ māyaiva nānyathā || pk_3.22 ||
+
+darpaṇapratibimbena māyādehaṃ ca lakṣayet |
+varṇān indrāyudheneva vyāpitvamudakendunā || pk_3.23 ||
+
+darpaṇe vimale vyaktaṃ dṛśyate pratibimbavat |
+bhāvābhāvāvinirmukto vajrasattvaḥ sucitritaḥ || pk_3.24 ||
+
+sarvākāravaropeto asecanakavigrahaḥ |
+darśayet taṃ suśiṣyāya svādhiṣṭhānaṃ taducyate || pk_3.25 ||
+
+iyameva hi saṃlakṣyā māyā nirdoṣalakṣaṇā |
+māyaiva saṃvṛteḥ satyaṃ kāyaḥ sāmbhogikaśca saḥ || pk_3.26 ||
+
+saiva gandharvasattvaḥ syād vajrakāyaḥ sa eva hi |
+vajrasattvaḥ svayaṃ tasmāt svasya pūjāṃ pravartayet || pk_3.27 ||
+
+ātmā vai sarvabuddhatvaṃ sarvasauritvameva ca |
+tasmāt sarvaprayatnena hyātmānaṃ pūjayet sadā || pk_3.28 ||
+
+mantramudrāprayogaṃ ca maṇḍalādivikalpanam |
+balihomakriryāṃ sarvāṃ kuryān māyopamāṃ sadā || pk_3.29 ||
+
+śāntikaṃ pauṣṭikaṃ cāpi tathā vaśyābhicārikam |
+ākarṣaṇādi yat sarvaṃ kuryād indrāyudhopamam || pk_3.30 ||
+
+śṛṅgārādyupabhogaṃ ca gītavādyādisevanam |
+kalāsu ca pravṛttiṃ ca kuryād udakacandravat || pk_3.31 ||
+
+rūpe śabde tathā gandhe rase spraṣṭavya eva ca |
+cakṣurādipravṛttiṃ ca māyāvad upalakṣayet || pk_3.32 ||
+
+bahunātra kimuktena vajrayāne tu tattvataḥ |
+yad yad ālambayed yogī tad tad māyaiva kalpayet || pk_3.33 ||
+
+darpaṇe pratibimbaṃ ca svapnaṃ māyāṃ ca budbudam |
+indrajālaṃ ca sādṛśyaṃ yaḥ paśyed sa prabhuḥ smṛtaḥ || pk_3.34 ||
+
+dṛśyate spṛśyate caiva yathā māyā jagat sadā | na copalambhaḥ saṃvṛtyā māyāvat parikīrtitaḥ || iti || pk_3.35 ||
+
+yad yad indriyamārgatvaṃ māyā tattat svabhāvataḥ |
+asamāhitayogena sarvaṃ buddhamayaṃ vahet || pk_3.36 ||
+
+sarvatra sarvataḥ sarvaṃ sarvathā sarvadā svayam |
+sarvabuddhamayaṃ siddhaṃ svamātmānaṃ sa paśyati || pk_3.37 ||
+
+gacchaṃstiṣṭhan mahāsattvaḥ sarvasaukhamayaḥ prabhuḥ |
+vihārāhārapānādīnākāśāllabhate kṣaṇāt || pk_3.38 ||
+
+bhaveyurbhavacchettāraḥ śāstāraḥ pravare jane |
+pūjyante sasuraiḥ sarvaiḥ praṇipatya muhurmuhuḥ || pk_3.39 ||
+
+yathā śāstari sambaddhe lokayātrāhitaiṣiṇi |
+evameva mahāyogī viśvajñānārthasaṅgrahād || pk_3.40 ||
+
+nāsti kiñcid asādhyaṃ vai vajrasattvena lakṣitam |
+svayaṃ pratyusidhyanti sarvamudrā mahāsukhāḥ || pk_3.41 ||
+
+kleśāḥ karmapathā dehaḥ kartāraśca phalaṃ ca vai |
+marīcisvapnasaṅkāśā gandharvanagaropamāḥ || pk_3.42 ||
+
+imaṃ samādhimajñātvā saṃvṛtāvupalambhataḥ |
+jāyante vividhā rogāsteṣāṃ māyā bhiṣagjitam || pk_3.43 ||
+
+svādhiṣṭhānopadeśastu yena nāsādyate guroḥ |
+śāśvatocchedamālambya sa vaivartī bhavet punaḥ || pk_3.44 ||
+
+sarvapūjāṃ parityajya gurupūjāṃ samārabhet |
+tena tuṣṭena tallabhyaṃ sarvajñajñānamuttamam || pk_3.45 ||
+
+kiṃ tena na kṛtaṃ puṇyaṃ kiṃ vā nopāsitaṃ tapaḥ |
+anuttarakṛdācāryavajrasattvaprapūjanāt || pk_3.46 ||
+
+yad yadiṣṭataraṃ kiñcid viśiṣṭatarameva ca |
+tat taddhi gurave deyaṃ tadevākṣayamicchatā || pk_3.47 ||
+
+ācāryo harate pāpam ācāryo harate bhayam |
+ācāryastārayet pāraṃ duḥkhārṇavamahābhayāt || pk_3.48 ||
+
+yo 'haṅkāra[ma]lāliptaḥ sadbhūtakramadharṣakaḥ |
+sāvajñastattvadharmeṣu tasya tattvaṃ na darśayet || pk_3.49 ||
+
+satyavāggurubhaktaśca viviktaścaikasandhiokaḥ |
+samayācārarakṣī ca kramaṃ tasya pradarśayet || pk_3.50 ||
+
+|| svādhiṣṭhānakramastṛtīyaḥ samāptaḥ ||
+
+kṛtiriyamācāryanāgārjunapādānām | granthapramāṇamasya ṣaṭpañcāśat |
+
+[4] abhisambodhikramaḥ caturthaḥ
+
+namaḥ śrīvajrasattvāya
+
+vajrasattvaṃ namaskṛtya sarvaśūnyopadeśakam |
+caturtho hyābhisambodhikramo 'yaṃ vakṣyate mayā || pk_4.1 ||
+
+asau svayambhūrbhagavān eka evādhidaivataḥ |
+upadeśapradānāt tu vajrācāryo 'dhikastataḥ || pk_4.2 ||
+
+tatsamārādhanaṃ kṛtvā varṣaṃ māsamathāpi vā |
+tasmai tuṣṭāya gurave pūjāṃ kuryāt tu śaktitaḥ || pk_4.3 ||
+
+yathāsvabhāvato mudrāṃ nivedyāsmai suśikṣitām |
+gaṇamaṇḍalamadhye tu kuryāt pūjāṃ yathāvidhi || pk_4.4 ||
+
+tatastuṣṭo mahāyogī pañcakāmopabhogataḥ |
+ālokasyodayaṃ kuryāt samāpattividhānataḥ || pk_4.5 ||
+
+kalaśādau susaṃsthāpya bodhicittaṃ prayatnataḥ |
+ardharātre cābhisiñcet suśiṣyaṃ kṛpayā guruḥ || pk_4.6 ||
+
+abhiṣekaṃ tu samprāpya pratyūṣamaye punaḥ |
+sampūjyārādhayet stotrairguruṃ śiṣyaṃ kṛtāñjaliḥ || pk_4.7 ||
+
+traidhātukavinirmukta ākāśasamatāṃ gataḥ |
+nopariṣyasi kāmeṣu nirālamba namo 'stu te || pk_4.8 ||
+
+aniḥśrito 'si skandheṣu dhātuṣvāyataneṣu ca |
+viparyāsavinirmukta nirālamba namo 'stu te || pk_4.9 ||
+
+avikalpitasaṅkalpa apratiṣṭhitamānasa |
+acintyamanasikāra nirālamba namo 'stu te || pk_4.10 ||
+
+anālayaṃ yathākāśaṃ niṣprapañcaṃ nirañcanam |
+ākāśasamacitto 'si nirālamba namo 'stu te || pk_4.11 ||
+
+draṣṭukāmo 'bhisambodhiṃ sarvaśūnyasvabhāvikām |
+stutvā kṛtāñjaliḥ śiṣyo guraṃ sañcodayet punaḥ || pk_4.12 ||
+
+prayaccha me mahānātha abhisambodhidarśanam |
+karmajanmavinirmuktam ābhāsatrayavarjitam || pk_4.13 ||
+
+prayaccha me mahācārya vajrajñānamanuttaram |
+sarvabuddhamahājñānaṃ sarvatāthāgatālayam || pk_4.14 ||
+
+prayaccha me mahāvajra kāyavākcittaśodhanam |
+anādinidhanaṃ śāntaṃ sarvakleśaviśodhanam || pk_4.15 ||
+
+evamārādhito yogī sadbhūtaguṇakīrtanaiḥ |
+śiṣye kāruṇyamutpādya kramamevamathārabhet || pk_4.16 ||
+
+āloko rātribhāgaḥ sphuṭaravikiraṇaḥ syād divālokabhāsaḥ |
+sandhyālokopalabdhaḥ prakṛtibhirasakṛd yujyate svābhiretat |
+no rātrirnāpi sandhyā na ca bhavati divā yaḥ prakṛtyā vimuktaḥ
+sa syād bodhikṣaṇo 'yaṃ varagurukathito yogināmeva gamyaḥ || pk_4.17 ||
+
+naiśaṃ dhvāntaṃ vinaṣṭaṃ vyapagatamakhilaṃ sāndhyatejastu yasmin bhāsvānnodeti yāvat kṣaṇa iha vimale darśayed bhūtakoṭim |
+
+śiṣyāyācāryamukhyo vinihatatimiro bāhyasambodhidṛṣṭyā |
+prāpnotyadhyātmasaukhyaṃ vyapagatakaluṣaṃ buddhabodhiṃ kṣaṇena || pk_4.18 ||
+
+anādibhūtaṃ tvathavādibhūtaṃ amadhyabhūtaṃ tvatha madhyabhūtam |
+anantabhūtaṃ tvathavāntabhūtaṃ tat sarvaśūnyaṃ pravadanti santaḥ || pk_4.19 ||
+
+gamanāgamanaṃ ca yatra nāsti kṣayavṛddhī na cāpyabhāvabhāvau |
+ativismayarūpam arūpyavismayaṃ sthitimannāpi na cāpi gatvaram || pk_4.20 ||
+
+yadasti-nāstivyavahāramuktaṃ na puṇyarūpaṃ na ca pāparūpam |
+na puṇyapāpātmakamagrabhūtaṃ tat sarvaśūnyaṃ pravadanti buddhāḥ || pk_4.21 ||
+
+evaṃvidhaṃ tattvamavāpya yogī carācarātmā jagadekabandhuḥ |
+yaḥ paryaṭejjñānamayo nṛsiṃhaḥ kṛtsnaṃ jagat so 'vyayakāyalābhī || pk_4.22 ||
+
+sa jihyakāyo 'pyavijihyakāyaḥ so 'nāsano 'pyāsanabandhadhīraḥ |
+samīlitākṣo 'pi vibuddhanetraḥ samāhitaḥ sanna samāhitau'sau || pk_4.23 ||
+
+sa vāgyuto vāgasamanvito 'pi bhogānvitaḥ so 'pi virupavṛttiḥ |
+sa lokanāthaḥ parabhṛtyabhūto yastattvavit kṣīṇasamastadoṣaḥ || pk_4.24 ||
+
+prāptopadeśakaḥ śiṣyo dvidhā yogamathābhyaset |
+piṇḍagrāhakrameṇaiva tathā caivānubhedataḥ || pk_4.25 ||
+
+śirasaḥ pādato cāpi yāvaddhṛdayamāgataḥ |
+bhūtakoṭiṃ viśed yogī piṇḍagrāha iti smṛtaḥ || pk_4.26 ||
+
+sthāvaraṃ jaṅgamaṃ caiva pūrvaṃ kṛtvā prabhāsvaram |
+paścāt kuryāt tathātmānam anubhedakramo hyayam || pk_4.27 ||
+
+śvāsavāto yathādarśe layaṃ gacchati sarvataḥ |
+bhūtakoṭiṃ tathā yogī praviśocca muhurmuhuḥ || pk_4.28 ||
+
+gacchaṃstiṣṭhan svapan bhuñjannunmiṣan nimiṣan hasan |
+anena dhyānayogena sadā tiṣṭhati tattvavit || pk_4.29 ||
+
+sattvārtho 'pi kadācit syāt tattatsārūpyaraśminā |
+vāyuvijñānayuktena svādhiṣṭhānakrameṇa tu || pk_4.30 ||
+
+yathā nadījalāt svacchānmīnamuttiṣṭhate drutam |
+sarvaśūnyāt tathā svacchānmāyājālamudīryate || pk_4.31 ||
+
+pañcabuddhakulāyattā mahāmudrādikalpanā |
+pañcaraśmisamucchreyā gagane śakracāpavat || pk_4.32 ||
+
+mudrābandhaṃ prakuryād vā mantraṃ cāpi japed yadi |
+sarvamanyat prakuryācca sarvaśūnyapade sthitaḥ || pk_4.33 ||
+
+sarvabhuk sarvapaścaiva sarvavandī ca sarvagaḥ |
+sarvakṛt sarvaliṅgī ca sarvaśūnyena sidhyati || pk_4.34 ||
+
+prāptopadeśaḥ subhagaḥ suśiṣyo baudhau hi cittaṃ paramārthanāma |
+guroḥ sakāśāt punarādadīta kṛtāñjalirdhāritapuṣpahastaḥ || pk_4.35 ||
+
+sarvabhāvavigataṃ skandhadhātvāyatanagrāhyagrāhakavarjitaṃ dharmanairātmyasamatayā svacittam ādyanutpannaṃ śūnyatāsvabhāvamiti |
+
+tatastu gurave dadyād dakṣiṇāṃ tvanurūpataḥ |
+ratnaṃ gṛhaṃ vā hastyaśvaṃ grāmaṃ vā śayanāsanam || pk_4.36 ||
+
+dāsaṃ dāsīṃ priyāṃ bhāryāṃ putrīṃ cāpyativarṇabhām |
+ātmānaṃ cāpi yaddadyāt kimanyadavaśiṣyate || pk_4.37 ||
+
+prāptācāryaprasādo vimaladṛḍhamatiḥ sarvabhāvasvabhāvaḥ
+svacchaṃ śuddhaṃ susūkṣmaṃ paramaśivamayaṃ buddhanirvāṇadhātum |
+nirdvandvaṃ nirvikalpaṃ satatasukhamayaṃ bhāvayet tattvayogī
+puṇyāpuṇyād vimuktaḥ svayamiha bhagavān jāyate vajrasattvaḥ || pk_4.38 ||
+
+| paramarahasyasukhābhisambodhikramaścaturthaḥ samāptaḥ ||
+
+kṛtiriyam ācāryanāgārjunapādānām | granthapramāṇamasya ślokāścatvāriṃśat |
+
+[5] yuganaddhakramaḥ pañcamaḥ
+
+namaḥ śrīvajradharāya
+
+phalahetvātmakaṃ nāthaṃ sarvadvandvavivarjitam |
+praṇamya likhyate samyag yuganaddhakramottamaḥ || pk_5.1 ||
+
+saṃsāro nirvṛtiśceti kalpanādvayavarjanāt |
+ekībhāvo bhaved yatra yuganaddhaṃ taducyate || pk_5.2 ||
+
+saṅkleśaṃ vyavadānaṃ ca jñātvā tu paramārthataḥ |
+ekībhāvaṃ tu yo vettiṃ sa vetti yuganaddhakam || pk_5.3 ||
+
+sākārabhāvasaṅkalpaṃ nirākāratvakalpanām |
+ekīkṛtya cerad yogī sa vetti yuganaddhakam || pk_5.4 ||
+
+grāhyaṃ ca grāhakaṃ caiva dvidhā buddhirna vidyate |
+abhinnatā bhaved yatra tadāha yuganaddhakam || pk_5.5 ||
+
+śāśvatocchedabuddhī tu yaḥ prahāya pravartate |
+yuganaddhakramākhyaṃ vai tattvaṃ vetti sa paṇḍitaḥ || pk_5.6 ||
+
+prajñākaruṇayoraikyaṃ jñātvā yatra pravartate |
+yuganaddha iti khyātaḥ kramo 'yaṃ buddhagocaraḥ || pk_5.7 ||
+
+prajñopāyasamāpattyā jñātvā sarvaṃ samāsataḥ |
+yatra sthito mahāyogī tad bhaved yuganaddhakam || pk_5.8 ||
+
+yatra sopadhiśeṣaṃ ca tathānupadhiśeṣakam |
+ityevaṃ kalpanā nāsti tat taddhi yuganaddhakam || pk_5.9 ||
+
+yatra pudgalanairātmyaṃ dharmanairātmyamityapi |
+kalpanāyā viviktatvaṃ yuganaddhasya lakṣaṇam || pk_5.10 ||
+
+jñātvā krameṇa tattvajñaḥ svādhiṣṭhānaprabhāsvaram |
+tayoreva samājaṃ yad yuganaddhakramo hyayam || pk_5.11 ||
+
+piṇḍagrāhanubhedābhyāṃ praveśastathatālaye |
+utthānaṃ ca tato yatra samantād yuganaddhakam || pk_5.12 ||
+
+saṃvṛtiṃ paramārthaṃ ca pṛthag jñātvā vibhāgataḥ |
+saṃmīlanaṃ bhaved yatra yuganaddhaṃ taducyate || pk_5.13 ||
+
+tathātalambanaṃ naiva vyutthānaṃ yatra naiva hi |
+yuganaddhaṃ bhavet tacca yogināṃ padamavyayam || pk_5.14 ||
+
+suptaḥ prabuddha ityetadavasthādvayavarjitam |
+yuganaddhaṃ vadecchāstā svāpabodhavivarjitam || pk_5.15 ||
+
+samādhānāsamādhānaṃ yasya nāstyeva sarvathā |
+yuganaddhe sthito yogī bhāvābhāvavivarjitaḥ || pk_5.16 ||
+
+asmṛtismṛtinirmuktaḥ satatodayalakṣaṇaḥ |
+vicaredicchayā yogī yuganaddhakrame sthitaḥ || pk_5.17 ||
+
+rāgārāgavinirmuktaḥ paramānandamūrtimān |
+āsaṃsāraṃ sthitiṃ kuryād yuganaddhavibhāvakaḥ || pk_5.18 ||
+
+kāryaṃ ca kāraṇaṃ caiva kṛtvābhinnaṃsvabhāvataḥ |
+yā sthitiryogināṃ buddhā yuganaddhaṃ vadanti tat || pk_5.19 ||
+
+utpattikrama eko 'yam utpannakrama ityapi |
+ekatvaṃ tu dvayoryatra yuganaddhastaducyate || pk_5.20 ||
+
+devatā pariśuddheyam aśuddheyaṃ bhavediti |
+iti yā kalpanābhinnā yatra tad yuganaddhakam || pk_5.21 ||
+
+rūpīti cāpyarūpīti kalpanādvayavarjanāt |
+yaḥśāntiṃ vetti yogīndraḥ sa prāpto yuganaddhakam || pk_5.22 ||
+
+evaṃ vai yaḥ sthito yogī yuganaddhakrame sthitaḥ |
+ucyate sa hi sarvajñaḥ tattvadarśī ca viśvadhṛk || pk_5.23 ||
+
+māyājālābhisambuddhaḥ saṃsārārṇavapāragaḥ |
+kṛtakṛtyo mahāyogī satyadvayanaye sthitaḥ || pk_5.24 ||
+
+etadevādvayaṃ jñānam apratiṣṭhitanirvṛtiḥ | buddhatvaṃ vajrasattvatvaṃ sarvaiśvaryaṃ tathaiva ca || pk_5.25 | 
+vajropamasamādhistu niṣpannakrama eva ca |
+vajropamasamādhiścāpyadvayaṃ tacca kathyate || pk_5.26 ||
+
+
+anutpādādayaḥ śabdā advayajñānasūcakāḥ |
+asyaiva vācakāḥ sarve nānyat tatrābhidhīyate || pk_5.27 ||
+
+mahāmudrātmikāṃ siddhiṃ sadasatpakṣavarjitām |
+anenaiva gatā buddhā gaṅgāyāḥ sikatopamāḥ || pk_5.28 ||
+
+ghaṭamāno mahāyogī yuganaddhapade sthitaḥ |
+bhāvayed yuganaddhaṃ tu caryāṃ cāpi tadanvayām || pk_5.29 ||
+
+yathātmani tathā śatrau yathā bhāryā tathātmajā |
+yathā mātā tathā vaiśyā yathā ḍombī tathā dvijā || pk_5.30 ||
+
+yathā vastraṃ tathā carma yathā ratnaṃ tathā tuṣam |
+yathā mūtraṃ tathā madyaṃ yathā bhaktaṃ tathā śakṛt || pk_5.31 ||
+
+yathā sugandhi karpūraṃ tathā gandhamamedhyajam |
+yathā stutikaraṃ vākyaṃ tathā vākyaṃ jugupsitam || pk_5.32 ||
+
+yathā rudrastathā vajrī yathā rātrīstathā divā |
+yathā svapnaṃ tathā dṛṣṭaṃ yathā naṣṭaṃ tathā sthitam || pk_5.33 ||
+
+yathā saukhyaṃ tathā duḥkhaṃ yathā duṣṭastathā sutaḥ |
+yathāvīcistathā svargastathā puṇyaṃ tu pāpakam || pk_5.34 ||
+
+evaṃ jñātvā cared jñānī nirviśaṅkastu sarvakṛt |
+pracchannavratamāsādya sidhyante sarvasampadaḥ || pk_5.35 ||
+
+prakāśya puṇyaṃ yat prāptaṃ pañcakramamanuttaram | anena krīḍatāṃ loko yuganaddhasamādhinā || iti || pk_5.36 ||
+
+yuganaddhakramaḥ pañcamaḥ samāptaḥ ||
+
+kṛtiriyam ācāryanāgārjunapādānām | granthapramāṇamasya ślokāḥ pañcatriṃśat |
+
+|| pañcakramaḥ samāptaḥ ||
+
+prajñākaruṇayoraikyaṃ jñātvā yatra pravartate |
+yuganaddha iti khyātaḥ kramo 'yaṃ buddhagocaraḥ ||
+
+(pañcakramaḥ, 5-7)
+
+atyudgāḍharayasthirākṛtighanadhvānabhramanmandara-
+kṣubdhadhīradhivīcisañcayagataprāleyapādopamaḥ |
+śrīmatpotalake gabhīravivṛtidhvānapratidhvānite
+sāndrasvāṃśucayaśriyā valayito lokeśvaraḥ pātu vaḥ ||
+
+(subhāṣitaratnakośe vidyākaraḥ)
+
+na satyā nāsatyā na ca tadubhayī nāpyanubhayī
+nirullekhā sarvākṛtivaramayī madhyamakadhīḥ |
+jinaḥ śāstā saiva sthira-calajagattattvamapi sā
+svasaṃvittirdevī jayati sukhavajrapraṇayinī ||
+
+(amṛtakaṇikābhidhāyāṃ nāmasaṃgītiṭikāyām, raviśrīḥ)
+
+ye dharmā hetuprabhavā hetusteṣāṃ tathāgato hyavadat |
+teṣāṃ ca yo nirodha evaṃvādī mahāśramaṇaḥ ||
+
+śubhamastu

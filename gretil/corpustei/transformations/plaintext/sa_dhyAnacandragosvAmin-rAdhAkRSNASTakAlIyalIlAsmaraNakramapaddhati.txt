@@ -1,0 +1,620 @@
+Dhyānacandragosvāmin: Rādhākṛṣṇāṣṭakālīyalīlāsmaraṇakramapaddhati
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dhyAnacandragosvAmin-rAdhAkRSNASTakAlIyalIlAsmaraNakramapaddhati.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: n.n.
+## Contribution: n.n.
+## Date of this version: 2020-07-31
+
+## Source: 
+   - .
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Rādhākṛṣṇāṣṭakālīyalīlāsmaraṇakramapaddhati = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from dhyrkk_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Dhyanacandra Gosvami:
+Radhakrsnastakaliyalilasmaranakramapaddhati
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+śrī śrī rādhā-kṛṣṇāṣṭa-kālīya-līlā-smaraṇa-krama-paddhatiḥ
+
+evaṃ padmopari dhyātvā rādhā-kṛṣṇau tatas tayoḥ /
+aṣṭa-kālocitāṃ sevāṃ vidadhyāt siddha-dehataḥ /
+guru-vargājñayā tatra pūjayed rādhikā-harī // rkk_1 //
+
+bāhya-pūjāṃ tataḥ kṛtvā pādyam arghyaṃ krameṇa ca /
+vidhi-pūrvaka-śuśrūṣā-nantaraṃ sādhakaḥ kramāt /
+dvātriṃśad-akṣara-mukhānj apen mantrān atandritaḥ // rkk_2 //
+
+mahā-mantraṃ japed ādau daśārṇaṃ tad-antaram /
+tataḥ śrī-rādhikā-mantraṃ gāyatrīṃ kāmikīṃ tataḥ // rkk_3 //
+
+tato yugala-mantraṃ ca japed rāsa-sthalī-pradam /
+tato 'ṣṭānāṃ sakhīnāṃ ca japen mantrān yathā-kramam /
+tato 'ṣṭa-mañjarīṇāṃ ca sva-sva-mantrān kramāj japet // rkk_4 //
+
+aṣṭa-kālīya-sūtram āha, yathā--
+niśāntaḥ prātaḥ pūrvāhno madhyāhnaś cāparāhnakaḥ /
+sāyaṃ pradoṣo rātriś ca kālā aṣṭau yathā-kramam // rkk_5 //
+
+madhyāhno yāminī cobhau ṣaṇ-muhūrta-mitau smṛtau /
+tri-muhūrta-mitā jñeyā niśānta-pramukhāḥ pare // rkk_6 //
+
+teṣu siddha-dehena sevanaṃ yathā sanat-kumāra-saṃhitāyām, 
+śrī-nārada uvāca-
+bhagavan sarvam ākhyātaṃ yad yat pṛṣṭhaṃ tvayā guro /
+adhunā śrotum icchāmi rāga-mārgam anuttamam // rkk_7 //
+
+
+śrī-sadāśiva uvāca--
+sādhu pṛṣṭhaṃ tvayā vipra sarva-loka-hitaiṣiṇā /
+rahasyam api vakṣyāmi tan me nigaditaṃ śṛṇu // rkk_8 //
+
+parakīyābhimāninyas tathāsya ca priyā janāḥ /
+pracureṇaiva bhāvena ramayanti nija-priyam // rkk_9 //
+
+ātmānaṃ cintayet tatra tāsāṃ madhye manoramām /
+rūpa-yauvana-sampannāṃ kiśorīṃ pramadākṛtim // rkk_10 //
+
+nānā-śilpa-kalābhijñāṃ kṛṣṇa-bhogānurūpiṇīm /
+prārthitām api kṛṣṇena tato bhoga-parāṅ-mukhīm // rkk_11 //
+
+rādhikānucarīṃ nityaṃ tat-sevana-parāyaṇām /
+kṛṣṇād apy adhikaṃ prema rādhikāyāṃ prakurvatīm // rkk_12 //
+
+prītyānudivasaṃ yatnāt tayoḥ saṅgama-kāriṇīm /
+tat-sevana-sukhāsvāda-bhareṇātisunirvṛtām // rkk_13 //
+
+ity ātmānaṃ vicintyaiva tatra sevāṃ samācaret /
+brāhma-muhūrtam ārabhya yāvat sāntā mahā-niśā // rkk_14 //
+
+śrī-nārada uvāca--
+harer atra gatāṃ līlāṃ śrotum icchāmi tattvataḥ /
+līlām ajānatāṃ sevyo manasā tu kathaṃ hariḥ // rkk_15 //
+
+śrī-sadāśiva uvāca--
+nāhaṃ jānāmi tāṃ līlāṃ harer nārada tattvataḥ /
+vṛndā-devīṃ samāgaccha sā te līlāṃ pravakṣyati // rkk_16 //
+
+avidūre itaḥ sthānāt keśī-tīrtha-samīpataḥ /
+sakhībhiḥ saṃvṛtā sāste govinda-paricārikā // rkk_17 //
+
+śrī-sanat-kumāra uvāca--
+ity uktas taṃ parikramya guruṃ natvā punaḥ punaḥ /
+vṛndā-sthānaṃ jagāmāsau nārado muni-sattamaḥ // rkk_18 //
+
+vṛndāpi nāradaṃ dṛṣṭvā praṇamyāpi punaḥ punaḥ /
+uvāca taṃ muni-śreṣṭhaṃ katham atrāgatis tava // rkk_19 //
+
+śrī-nārada uvāca--
+tvatto veditum icchāmi naityikaṃ caritaṃ hareḥ /
+tad ādito mama bruhi yadi yogyo 'smi śobhane // rkk_20 //
+
+śrī-vṛndā-devy uvāca--
+rahasyaṃ tvāṃ pravakṣyāmi kṛṣṇa-bhakto 'si nārada /
+na prakāśyaṃ tvayā hy etad guhyād guhyataraṃ mahat // rkk_21 //
+
+atha niśānta-sevā--
+madhye vṛndāvane ramye pañcāśat-kuñja-maṇḍite /
+kalpa-vṛkṣa-nikuñje tu divya-ratna-maye gṛhe // rkk_22 //
+
+nidritau tiṣṭhatas talpe niviḍāliṅgitau mithaḥ /
+mad-ājñā-kāribhiḥ paścāt pakṣibhir bodhitāv api // rkk_23 //
+
+gāḍhāliṅgana-nirbhedam āptau tad-bhaṅga-kātarau /
+na manas kurutas talpāt samutthātuṃ manāg api // rkk_24 //
+
+tataś ca śārikā-saṃghaiḥ śukādyair api tau muhuḥ /
+bodhitau vividhaiḥ padyaiḥ sva-talpād udatiṣṭhatām // rkk_25 //
+
+upaviṣṭau tato dṛṣṭvā sakhyas talpe mudānvitau /
+praviśya cakrire sevāṃ tat-kālasyocitāṃ tayoḥ // rkk_26 //
+
+punaś ca śārikā-vākyair utthāya tau sva-talpataḥ /
+gacchataḥ sva-sva-bhavanaṃ bhīty-utkaṇṭhākulau mithaḥ // rkk_27 //
+
+iti niśānta-sevā 
+atha prātaḥ-sevā--
+prātaś ca bodhito mātrā talpād utthāya satvaram /
+kṛtvā kṛṣṇo danta-kāṣṭhaṃ baladeva-samanvitaḥ // rkk_28 //
+
+
+mātrānumodito yāti gośālāṃ dohanotsukaḥ /
+rādhāpi bodhitā vṛddha-vayasyābhiḥ sva-talpataḥ // rkk_29 //
+
+utthāya danta-kāṣṭhādi kṛtvābhyaṅga samācaret /
+snāna-vedīṃ tato gatvā snāpitā lalitādibhiḥ // rkk_30 //
+
+bhūṣā-gṛhaṃ vrajet tatra vayasyā bhūṣayanty api /
+bhūṣaṇair vividhair divyair gandha-mālyānulepanaiḥ // rkk_31 //
+
+tataś ca sva-janais tasyāḥ śvaśrūṃ samprārthya yatnataḥ /
+paktum āhūyate tūrṇaṃ sa-sakhī sā yaśodayā // rkk_32 //
+
+śrī-nārada uvāca--
+katham āhūyate devi pākārthaṃ sā yaśodayā /
+satīṣu pāka-kartrīṣu rohiṇī-pramukhāṣv api // rkk_33 //
+
+śrī-vṛndovāca--
+durvāsasā svayaṃ datto varas tasyai maharṣiṇā /
+iti kātyāyanī-vaktrāc chrutam āsīn mayā purā // rkk_34 //
+
+tvayā yat pacyate devi tad-annaṃ mad-anugrahāt /
+miṣṭaṃ svādv-amṛta-sparddhi bhoktur āyuṣkaraṃ tathā // rkk_35 //
+
+ity āhvayati tāṃ nityaṃ yaśodā putra-vatsalā /
+āyuṣmān me bhavet putraḥ svādu-lobhāt tathā satī // rkk_36 //
+
+śvaśrvānumoditā sāpi hṛṣṭā nandālayaṃ vrajet /
+sa-sakhī-prakarā tatra gatvā pākaṃ karoti ca // rkk_37 //
+
+kṛṣṇo 'pi dugdhvā gāḥ kāścid dohayitvā janaiḥ parāḥ /
+āgacchati pitur vākyāt sva-gṛhaṃ sakhibhir vṛtaḥ // rkk_38 //
+
+abhyaṅga-mardanaṃ kṛtvā dāsaiḥ saṃsnāpito mudā /
+dhauta-vastra-dharaḥ sragvī candanākta-kalevaraḥ // rkk_39 //
+
+dvi-phāla-baddha-keśaiś ca grīvā-bhālopari sphuran /
+candrākāra-sphurad-bhāla-tilakālaka-rañjitaḥ // rkk_40 //
+
+kaṅkaṇāṅgada-keyūra-ratna-mudrālasat-karaḥ /
+muktāhāra-sphurad-vakṣā makarākṛti-kuṇḍalaḥ // rkk_41 //
+
+muhur ākārito mātrā praviśed bhojanālaye /
+avalambya karaṃ mātur baladevam anuvrataḥ // rkk_42 //
+
+bhuktvā ca vividhānnāni mātrā ca sakhibhir vṛtaḥ /
+hāsayan vividhair vākyaiḥ sakhīṃs tair hāsitaḥ svayam // rkk_43 //
+
+itthaṃ bhuktvā tathācamya divya-khaṭṭopari kṣaṇāt /
+viśramet sevakair dattaṃ tāmbūlaṃ vibhajann adan // rkk_44 //
+
+rādhāpi bhojanānandaṃ dṛṣṭvā yaśodayāhūta /
+lalitādi-sakhī-vṛtā bhuṅkte 'nnaṃ lajjayānvitā // rkk_45 //
+
+iti prātaḥ-sevā
+
+atha pūrvāhna-sevā--
+gopa-veśa-dharaḥ kṛṣṇo dhenu-vṛnda-puraḥ-saraḥ /
+vraja-vāsi-janaiḥ prītyā sarvair anugataḥ pathi // rkk_46 //
+
+pitaraṃ mātaraṃ natvā netrāntena priyā-gaṇān /
+yathāyogyaṃ tathā cānyān sannivartya vanaṃ vrajet // rkk_47 //
+
+vanaṃ praviśya sakhibhiḥ krīḍitvā ca kṣaṇaṃ tataḥ /
+vañcayitvā ca tān sarvān dvi-traiḥ priya-sakhair yutaḥ // rkk_48 //
+
+saṅketakaṃ vrajed dharṣāt priyā-sandarśanotsukaḥ /
+sāpi kṛṣṇe vanaṃ yāte dṛṣṭvā taṃ gṛham āgatā // rkk_49 //
+
+sūryādi-pūjā-vyājena kusumādy-āhṛti-cchalāt /
+vañcayitvā gurūn yāti priya-saṅgecchayā vanaṃ // rkk_50 //
+
+iti pūrvāhna-sevā 
+atha madhyāhna-sevā--
+itthaṃ tau bahu-yatnena militvā sva-gaṇair vṛtau /
+vihārair vividhais tatra vane vikrīḍato mudā // rkk_51 //
+
+
+syandolikā-samārūḍhau sakhībhir dolitau kvacit /
+kvacid veṇuṃ kara-srastaṃ priyayā coritaṃ hariḥ // rkk_52 //
+
+anveṣayann upālabdho vipralabdhaḥ priyā-gaṇaiḥ /
+hāsito bahudhā tābhir hṛta-sva iva tiṣṭhati // rkk_53 //
+
+vasanta-ṛtunā juṣṭaṃ vana-khaṇḍaṃ kvacin mudā /
+praviśya candanāmbhobhiḥ kuṅkumādi-jalair api // rkk_54 //
+
+viṣiñcato yantra-muktais tat-paṅkenāpi tau mithaḥ /
+sakhyo 'py evaṃ viṣiñcanti tāś ca tau siñcataḥ punaḥ // rkk_55 //
+
+tathānyartusu juṣṭāsu krīḍato vana-rājiṣu /
+tat-tat-kālocitair nānā-vihāraiḥ sa-gaṇau dvija // rkk_56 //
+
+śrāntau kvacid vṛkṣa-mūlam āsādya muni-sattama /
+upaviśyāsane divye madhu-pānaṃ pracakratuḥ // rkk_57 //
+
+tato madhu-madonmattau nidrayā mīlitekṣaṇau /
+mithaḥ pāṇiṃ samālambya kāma-bāṇa-vaśaṅgatau // rkk_58 //
+
+riraṃsu viśataḥ kuñjaṃ skhalat-pādābjakau pathi /
+tato vikrīḍatas tatra kariṇī-yūthapau yathā // rkk_59 //
+
+sakhyo 'pi madhubhir mattā nidrayā pihitekṣaṇāḥ /
+abhitaḥ kuñja-puñjeṣu sārvā eva vililyire // rkk_60 //
+
+pṛthag ekena vapuṣā kṛṣṇo 'pi yugapad vibhuḥ /
+sarvāsāṃ sannidhiṃ gacchet priyāṇāṃ parito muhuḥ // rkk_61 //
+
+ramayitvā ca tāḥ sarvāḥ kariṇī-gajarāḍ iva /
+priyayā ca tathā tābhiḥ sarovaram athāvrajet // rkk_62 //
+
+śrī-nārada uvāca--
+vṛnde śrī-nanda-putrasya mādhurya-krīḍane katham /
+aiśvaryasya prakāśo 'bhūd iti me chindhi saṃśayam // rkk_63 //
+
+śrī-vṛndovāca--
+mune mādhurya-mayy asti līlā-śaktir harer dṛśā /
+tayā pṛthak-kṛtaḥ krīḍed gopikābhiḥ samaṃ hariḥ // rkk_64 //
+
+rādhayā saha rūpeṇa nijena ramate svayam /
+iti mādhurya-līlāyāḥ śaktir neśatāyā hareḥ // rkk_65 //
+
+jala-sekair mithas tatra krīḍitvā sa-gaṇau tataḥ /
+vāsaḥ-srak-candanair divya-bhūṣaṇair api bhūṣitau // rkk_66 //
+
+tatraiva sarasas tīre divya-ratna-maye gṛhe /
+aśnītaḥ phala-mūlāni kalpitāni mayaiva hi // rkk_67 //
+
+haris tu prathamaṃ bhuktvā kāntayā pariveśitam /
+dvi-trābhiḥ sevito gacchec chayyāṃ puṣpa-vinirmitām // rkk_68 //
+
+tāmbūlair vyajanais tatra pāda-saṃvāhanādibhiḥ /
+sevyamāno bhṛśantābhir moditaḥ preyasīṃ smaran // rkk_69 //
+
+śrī-rādhāpi harau supte sa-gaṇā muditāntarā /
+kānta-dattaṃ prīta-manā ucchiṣṭaṃ bubhuje tataḥ // rkk_70 //
+
+kiñcid evo tato bhuktvā vrajec chayyā-niketanam /
+draṣṭuṃ kānta-mukhāmbhojaṃ cakorīvan niśā-karam // rkk_71 //
+
+tāmbūla-carvitaṃ tasya tatratyābhir niveditam /
+tāmbūlāny api cāśnāti vibhajanti priyāliṣu // rkk_72 //
+
+kṛṣṇo 'pi tāsāṃ śuśrūṣuḥ svacchandaṃ bhāṣitaṃ mithaḥ /
+prāpta-nidra ivābhāti vinidro 'pi paṭāvṛtaḥ // rkk_73 //
+
+tāś ca kṣvelīṃ kṣaṇaṃ kṛtvā mithaḥ kānta-kathāśrayāḥ /
+vyāja-nidrāṃ harer jñātvā kutaścid anumānataḥ // rkk_74 //
+
+vimṛśya vadanaṃ dṛgbhiḥ paśyantyo 'nyonya-mānanam /
+līnā iva lajjayā syuḥ kṣaṇam ucur na kiñcanam // rkk_75 //
+
+kṣaṇād eva tato vastraṃ dūrī-kṛtya tad aṅgataḥ /
+sādhu nidrāṃ gato 'sīti hāsayantyo hasanti tam // rkk_76 //
+evaṃ tau vividhair hāsai ramamāṇau gaṇaiḥ saha /
+anubhūya kṣaṇaṃ nidrā-sukhaṃ ca muni-sattama // rkk_77 //
+
+upaviśyāsane divye sa-gaṇau vistṛte mudā /
+paṇī-kṛtya mitho hāra-cumbāśleṣa-paricchadān // rkk_78 //
+
+akṣair vikrīḍitaḥ premṇā narmālāpa-puraḥsaram /
+parājito 'pi priyayā jitam ity avadan mṛṣā // rkk_79 //
+
+hārādi-grahaṇe tasyāḥ pravṛttas tāḍyate tayā /
+tayaivaṃ tāḍitaḥ kṛṣṇaḥ karṇotpala-saroruhaiḥ // rkk_80 //
+
+viṣaṇḍa-vadano bhūtvā gata-sva iva nārada /
+jito 'smi ca tvayā devi gṛhyatāṃ yat paṇī-kṛtam // rkk_81 //
+
+cumbanādi mayā dattam ity uktvā ca tathācarat /
+kauṭilyaṃ tad-bhruvor draṣṭuṃ śrotuṃ tad-bhartsanaṃ vacaḥ // rkk_82 //
+
+tataḥ śārī-śukānāṃ ca śrutvā vāgāhavaṃ mithaḥ /
+nirgacchatas tataḥ sthānād gantukāmo gṛhaṃ prati // rkk_83 //
+
+kṛṣṇaḥ kāntām anujñāpya gavām abhimukhaṃ vrajet /
+sā tu sūrya-gṛhaṃ gacchet sakhī-maṇḍala-saṃyutā // rkk_84 //
+
+kiyad-dūraṃ tato gatvā parāvṛtya hariḥ punaḥ /
+vipra-veśaṃ samāsthāya yāti sūrya-gṛhaṃ prati // rkk_85 //
+
+sūryaṃ ca pūjayet tatra prārthitas tat-sakhī-janaiḥ /
+tad eva kalpitair vedaiḥ parihāsyāvagarbhitaiḥ // rkk_86 //
+
+tatas tā api taṃ kāntaṃ parijñāya vicakṣaṇāḥ /
+ānanda-sāgare līnā na viduḥ svaṃ na cāparam // rkk_87 //
+
+vihārair vividhair evaṃ sārdha-yāma-dvayaṃ mune /
+nītvā gṛhaṃ vajeṣus tāḥ sa ca kṛṣṇo gavāṃ vrajet // rkk_88 //
+
+iti madhyāhna-sevā
+
+athāparāhna-sevā--
+saṅgamya tu sakhīn kṛṣṇo gṛhītvā gāḥ samantataḥ /
+āgacchati vrajaṃ karṣann uttāna-muralī-ravaiḥ // rkk_89 //
+
+tato nandādayaḥ sarve śrutvā veṇu-ravaṃ hareḥ /
+go-dhūli-paṭalair vyāptaṃ dṛṣṭvā cāpi nabhaḥ-sthalam // rkk_90 //
+
+visṛjya sarva-karmāṇi striyo bālādayo 'pi ca /
+kṛṣṇasyābhimukhaṃ yānti tad-darśana-samutsukāḥ // rkk_91 //
+
+rādhikāpi samāgatya gṛhaṃ snātvā vibhūṣitā /
+sampācya kānta-bhogārthaṃ dravyāṇi vividhāni ca /
+sakhī-saṃgha-yutā yānti kāntaṃ draṣṭuṃ samutsukāḥ // rkk_92 //
+
+rāja-mārge vraja-dvāri yatra sarve vrajaukasaḥ /
+kṛṣṇo 'py etān samāgamya yathāvad anupūrvaśaḥ // rkk_93 //
+
+darśanaiḥ sparśanair vāpi smita-purvāvalokanaiḥ /
+gopa-vṛddhān namaskāraiḥ kāyikair vācikair api // rkk_94 //
+
+sāṣṭāṅga-pātaiḥ pitarau rohiṇīm api nārada /
+netrānta-sūcitenaiva vinayena priyās tathā // rkk_95 //
+
+evaṃ taiś ca yathā-yogyaṃ vrajaukobhiḥ prapūjitaḥ /
+gavālayaṃ tathā gāś ca sampraveśya samantataḥ // rkk_96 //
+
+pitṛbhyām arthito yāti bhrātrā saha nijālayam /
+snātvā pitvā tathā kiñcid bhuktvā mātrānumoditaḥ /
+gavālayaṃ punar yāti dogdhu-kāmo gavāṃ payaḥ // rkk_97 //
+
+ity aparāhna-sevā
+
+atha sāyaṃ-sevā--
+tāś ca dugdhvā dohayitvā pāyayitvā ca kāścana /
+pitrā sārdhaṃ gṛhaṃ yāti payo-bhāri-śatānugaḥ // rkk_98 //
+
+tatrāpi mātṛ-vṛndaiś ca tat-putraiś ca balena ca /
+saṃbhuṅkte vividhānnāni carvya-cūṣyādikāni ca // rkk_99 //
+
+iti sāyaṃ-sevā 
+atha pradoṣa-sevā--
+tan-mātuḥ prārthanāt pūrvaṃ rādhayāpi tadaiva hi /
+prasthāpyante sakhī-dvārā pakvānnāni tad-ālayam // rkk_100 //
+
+
+ślāghayaṃś ca haris tāni bhuktvā pitrādibhiḥ saha sabhā-gṛhaṃ vrajet taiś ca juṣṭaṃ vandi-janādibhiḥ // rkk_101 //
+
+pakvānnāni gṛhītvā yāḥ sakhyas tatra samāgatāḥ /
+bahūni ca punas tāni pradattāni yaśodayā // rkk_102 //
+
+sakhyā tatra tayā dattaṃ kṛṣṇocchiṣṭaṃ tathā rahaḥ sarvaṃ tābhiḥ samānīya rādhikāyai nivedyate // rkk_103 //
+
+sāpi bhuktvā sakhī-varga-yutā tad-anupūrvaśaḥ sakhībhir maṇḍita tiṣṭhed abhisartuṃ mudānvitā // rkk_104 //
+
+prasthāpyate 'nayā kācid ita eva tataḥ sakhī /
+tayābhisāritā sā 'tha yamunāyāḥ samīpataḥ // rkk_105 //
+
+kalpa-vṛksa-nikuñje 'smin divya-ratna-maye gṛhe /
+sita-kṛṣṇa-niśāyogya-veśa yāti sakhī-yutā // rkk_106 //
+
+kṛṣṇo 'pi vividhaṃ tatra dṛṣṭvā kautuhalaṃ tataḥ /
+kavitvāni manojñāni śrutvā ca gītakāny api // rkk_107 //
+
+dhana-dhānyādibhis tāṃś ca prīṇayitvā vidhānataḥ /
+janair ākārito mātrā yāti śayyā-niketanam // rkk_108 //
+
+mātari prasthitāyāntu bhojayitvā tato gṛhāt /
+saṅketakaṃ kāntayātra samāgacched alakṣitaḥ // rkk_109 //
+
+iti pradoṣa-sevā
+
+atha rātri-sevā-
+militvā tāv ubhāv atra krīḍato vana-rājiṣu /
+vihārair vividhair hāsya-lāsya-gīta-puraḥsaraiḥ // rkk_110 //
+
+sārdha-yāma-dvayaṃ nītvā rātrer evaṃ vihārataḥ /
+suṣupsū viśataḥ kuñjaṃ pañca-ṣābhir alakṣitau // rkk_111 //
+
+nirvṛnta-kusumaiḥ k pte keli-talpe manorame /
+suptāvatiṣṭhatāṃ tatra sevyamānau priyālibhiḥ // rkk_112 //
+
+iti rātri-sevā
+
+śrī-nārada uvāca--
+śrotum icchāmi bho deva vraja-rāja-sutasya ca /
+vṛndāvane rasaṃ divyaṃ rādhayaikāntikaṃ saha // rkk_113 //
+
+śrī-sadāśiva uvāca--
+śṛṇu nārada vakṣyāmi rādhā-kṛṣṇa-rasaṃ śuciṃ /
+su-gopyaṃ paramodāraṃ na vaktavyaṃ hi kasyacit // rkk_114 //
+
+aikāntika-rasāsvādaṃ kartuṃ vṛndāvane mune /
+vraja-rāja-kumāraṃ ca bahu-kālam abhāvayam // rkk_115 //
+
+mayi prasannaḥ śrī-kṛṣṇo mantra-yugmam anuttamam /
+yugalākhyaṃ dadau mahyaṃ svīyojjvala-rasāplutam // rkk_116 //
+
+samabravīt tadā kṛṣṇaḥ sva-śiṣyaṃ māṃ svakaṃ rasam /
+bravīmi tvāṃ śṛṇuṣvādya brahmādīnām agocaram // rkk_117 //
+
+vraja-rāja-suto vṛndā-vane pūrṇatamo vasan /
+sampūrṇa-ṣoḍaśa-kalā vihāraṃ kurute sadā // rkk_118 //
+
+vāsudevaḥ pūrṇataro mathurāyāṃ vasan puri /
+kalābhiḥ pañca-daśabhir yutaḥ krīḍati sarvadā // rkk_119 //
+
+dvārakādhipatir dvāra-vatyāṃ pūrṇas tv asau vasan /
+catur-daśa-kalāyukto viharaty eva sarvadā // rkk_120 //
+
+ekayā kalayā dvābhyāṃ mathurā-dvārakādhipau /
+vṛndāvana-pate rūpau pūrṇau sve sve pade rase // rkk_121 //
+
+mathurā-nātho vṛndāvanādhipāpekṣayā svarūpeṇa līlayā ca ekayā kalayā ūnaḥ / mathurā-līlāyāṃ mathurāyāṃ ca sampūrṇa-ṣoḍaśa-kalaḥ / tathā dvārakā-nātho vṛndāvanādhipāpekṣayā svarūpeṇa līlayā ca / dvābhyāṃ kalābhyām ūnaḥ / dvārakāyāṃ dvārakā-līlāyāṃ ca pūrṇa-ṣoḍaśa-kalaḥ /
+
+śrīr bhū-līlā yogamāyā cintyācintyā tathaiva ca /
+mohinī kauśalīty aṣṭau bahiraṅgāś ca śaktayaḥ // rkk_122 //
+
+ līlā prema-svarūpā casthāpany ākarṣaṇī tathā /
+ saṃyoginī viyoginyā-hlādinīty antaraṅgikā // rkk_123 //
+
+vraje śrī-kṛṣṇa-candrasya santi ṣoḍaśa-śaktayaḥ /
+poṣikā madhurasyaiva tasyaitā vai sanātanāḥ // rkk_124 //
+
+hlādinī ya mahā-śaktiḥ sarva-śakti-varīyasī /
+tat-sāra-bhāva-rūpā śrī-rādhikā parikīrtitā // rkk_125 //
+
+tayā śrī-kṛṣṇa-candrasya kriḍāyāḥ samaye mune /
+tad-āviṣṭaṃ vāsudevaṃ saha kṣīrābdhi-nāyakam // rkk_126 //
+
+antarīkṣya-gataṃ kuryāc chaktir ākarṣaṇī hareḥ /
+krīḍānte sthāpayet tantu sthāpanī kṛṣṇa-dehataḥ // rkk_127 //
+
+sampūrṇa-ṣoḍaśa-kalaḥ kevalo nanda-nandanaḥ /
+vikrīḍan rādhayā sārdhaṃ labhate paramaṃ sukham // rkk_128 //
+
+śrī-nārada uvāca--
+gate madhu-purīṃ kṛṣṇe vipralambha-rasaḥ katham /
+vāsudeve rādhikāyāḥ saṃśayaṃ chindhi me prabho // rkk_129 //
+
+śrī-sadāśiva uvāca--
+śaktiḥ saṃyoginī kāmā vāmā śaktir viyoginī /
+hlādinī kīrtidā-putrī caivaṃ rādhā-trayaṃ vraje // rkk_130 //
+
+mama prāṇeśvaraḥ kṛṣṇas tyaktvā vṛndāvanaṃ kvacit /
+kadācin naiva yātīti jānīte kīrtidā-sutā // rkk_131 //
+
+kāmā-vāme na jānīta iti ca brahma-nandana /
+rāsārambha ivāntardhiṃ gatavān nanda-nandanaḥ // rkk_132 //
+
+mathurāṃ mathurā-nātho vāsudevo jagāma ha /
+antar-hite nanda-sute śrīmad-vṛndāvane mune // rkk_133 //
+
+pravāsākhyaṃ rasaṃ lebhe rādhā vai kīrtidā-sutā /
+tato vadanti munayaḥ pravāsaṃ saṅga-vicyutim // rkk_134 //
+
+mama jīvana-netā ca tyaktvā māṃ mathurāṃ gataḥ /
+iti vihvalitā vāmā rādhā yā virahād abhūt // rkk_135 //
+
+yamunāyāṃ nimagnā sā prakāśaṃ gokulasya ca /
+golakaṃ prāpya tatrābhūt saṃyoga-rasa-peśalā // rkk_136 //
+
+kāmā rādhā ca mathurā-viraheṇa nipīḍitā /
+kurukṣetraṃ gatā tīrtha-yātrā-parama-lālasā // rkk_137 //
+
+nanda-nandana-bhāva-jña uddhavo vrajam āgataḥ /
+sāntvayiṣyan kīrtidāyāḥ sutāṃ māsa-dvaye gate // rkk_138 //
+
+rādhām āsvādayāmāsa śrīmad-bhāgavatārthakaṃ /
+kathāyāṃ bhāgavatyāntu jātāyāṃ muni-puṅgava // rkk_139 //
+vrajendra-nandanaḥ śrīmāṃs tadā pratyakṣatāṃ gataḥ // rkk_140 //
+ataeva pādmottara-khaṇḍoktaṃ dvārakādhipater vṛndāvanaṃ prati-gamanaṃ kṣīrābdhiśāyy āviṣṭatvāt kṣīrābdhiśāyino droṇādīnāṃ labdha-vara-tvāt, teṣāṃ punaḥ sva-sthāna-prāpaṇārtham evety avagantavyam / śrīmad-bhāgavata-vākyānām evaṃ vicāro 'vagantavyaḥ padmottara-khaṇḍe tu ôkālindi-puline ramyeö ity atra śrī-dvārakā-nāthasya śrī-nanda-nandana-madhura-līlā-saṃdarśane sotkaṇṭhatvād vyoma-yānair etya śrī-vṛndāvane māsa-dvayam uvāsety abhiprāyo jñeyaḥ / tad yathā śrī-lalita-mādhave (8.34)--ôaparikalita-pūrvaḥö ityādi /
+
+iti te sarvam ākhyātaṃ naityikaṃ caritaṃ hareḥ /
+pāpino 'pi vimucyante smaraṇād yasya nārada // rkk_141 //
+
+aṣṭa-kālokta-śuśrūṣā-nantaraṃ sādhakaḥ kramāt /
+dvātriṃśad-akṣara-mukhyān japen mantrān atandritaḥ // rkk_142 //
+
+mahā-mantraṃ japed ādau daśārṇaṃ tad-anantaram /
+tataḥ śrī-rādhikā-mantraṃ gāyatrīṃ kāmakīṃ tathā // rkk_143 //
+
+tato yugala-mantraṃ ca japed rāsa-sthalī-pradam /
+tato 'ṣṭānāṃ sakhīnāṃ ca japen mantrān yathā-kramam /
+tataḥ ṣaṇ-mañjarīṇāṃ ca sva-sva-mantrān kramāj japet // rkk_144 //
+
+yathā ādi-purāṇe--
+gopī-bhāvena ye bhaktā mām eva paryupāsate /
+teṣu tāsv iva tuṣṭo 'smi satyaṃ satyaṃ dhanañjaya // rkk_145 //
+
+veśa-bhūṣā-vayo-rūpair gopikā-bhāvam āśritāḥ /
+bhāvukīyāś ca tad-bhāvaṃ yānti pāda-rajo 'rcanāt // rkk_146 //
+
+yathā ekāmra-purāṇe--
+aho bhajana-māhātmyaṃ vṛndāvana-pater hareḥ /
+pumān yoṣid bhaved yatra yoṣid-ātma-samānikā // rkk_147 //
+
+pādme ca (uttara-khaṇḍe)--
+purā maharṣayaḥ sarve daṇḍakāraṇya-vāsinaḥ /
+rāmaṃ dṛṣṭvā hariṃ tatra bhoktum aicchan su-vigraham // rkk_148 //
+
+te sarve strītvam āpannāḥ samudbhūtāś ca gokule /
+hariṃ samprāpya kāmena tato muktā bhavārṇavāt // rkk_149 //
+
+bṛhad-vāmana-siddhāś ca śrutayo 'pi yathā purā /
+gopī-bhāvena saṃsevya samudbhūtā hi gokule // rkk_150 //
+
+yad-uktaṃ śrī-rūpa-gosvāmi-caraṇaiḥ--
+hariṃ su-rāga-mārgeṇa sevate yo narottamaḥ /
+kevalenaiva sa tadā gopikātvam iyād vraje // rkk_151 //
+
+bhakti-tattva-kaumudyām--
+ekasmin vāsanā-dehe yadi cānyasya bhāvanā /
+tarhi tat sāmyam eva syāt yathā vai bharate nṛpe // rkk_152 //
+
+yathā sanat-kumāra-saṃhitāyām-- 
+śrī-nārada uvāca--
+dhanyo 'smy anugṛhīto 'smi tvayā devi na saṃśayaḥ /
+harer me naityikī līlā yato me 'dya prakāśitā // rkk_153 //
+
+
+śrī-sanat-kumāra uvāca--
+ity uktvā tāṃ parikramya tayā cāpi prapūjitaḥ /
+antardhānaṃ gato rājan nārado muni-sattamaḥ // rkk_154 //
+
+mayāpy etad ānupūrvyaṃ sarvaṃ tat parikīrtitam /
+japan nityaṃ prayatnena mantra-yugmam anuttamam // rkk_155 //
+
+kṛṣṇa-vaktrād idaṃ labdhaṃ purā rudreṇa yatnataḥ /
+tenoktaṃ nāradāyātha nāradena mayoditam // rkk_156 //
+
+saṃsārāgni-vināśāya mayāpy etat tavoditam /
+tvayā caitad gopanīyaṃ rahasyaṃ paramādbhutam // rkk_157 //
+
+śrī-ambarīṣa uvāca--
+kṛta-kṛtyo 'bhavaṃ sākṣāt tvat prasādād ahaṃ guro /
+rahasyātirahasyaṃ yat tvayā mahyaṃ prakāśitam // rkk_158 //
+
+śrī-sanat-kumāra uvāca--
+dharmān etān upādiṣṭo japan mantram ahar niśam /
+acirād eva tad-dāsyam avāpsyasi na saṃśayaḥ // rkk_159 //
+
+ôetān dharmān--aṣṭa-kāla-sevā-rūpān; mantram--yugala-mantram; tad-dāsyam--tayoḥ śrī-rādhā-kṛṣṇayor dāsyaṃ dāsī-bhāvamö iti /
+
+mayāpi gamyate rājan guror āyatanaṃ mama /
+vṛndāvane yatra nityaṃ gurur me 'sti sadāśivaḥ // rkk_160 //
+
+dvātriṃśad-akṣarādīnāṃ mantrāṇāṃ krameṇa phalaṃ yathā pādme--
+
+dvātriṃśad-akṣaraṃ mantraṃ nāma-ṣoḍaśakānvitam /
+prajapan vaiṣṇavo nityaṃ rādhā-kṛṣṇa-sthalaṃ labhet // rkk_161 //
+
+gautamīya-tantre ca--
+ahar-niśaṃ japen mantraṃ mantrī niyata-mānasaḥ /
+sa paśyati na sandeho gopa-rūpiṇam īśvaram // rkk_162 //
+
+gaurī-tantre ca--
+śrīmad-aṣṭākṣaraṃ mantraṃ rādhāyāḥ prema-siddhi-dam /
+prajapet sādhako yas tu sa rādhāntikam āpnuyāt // rkk_163 //
+
+sanat-kumāra-saṃhitāyām--
+japed yaḥ kāma-gāyatrīṃ kāma-bīja-samanvitām /
+tasya siddhir bhavet prema rādhā-kṛṣṇa-sthalaṃ vrajet // rkk_164 //
+
+etāṃ pañca-padīṃ japtvā śraddhayā 'śraddhayāsakṛt /
+vṛndāvane tayor dāsyaṃ gacchaty eva na saṃśayaḥ // rkk_165 //
+
+kiśorī-tantre ca--
+etān sakhīnām aṣṭānāṃ mantrān yaḥ sādhako japet /
+śrī-rādhā-kṛṣṇayoḥ kṣipraṃ vihāra-sthalam āpnuyāt // rkk_166 //
+
+tatraiva--
+mantrān etān mañjarīṇām aṣṭānāṃ yo japet sadā /
+prema-siddhir bhavet tasya śrī-vṛndāvanam āpnuyāt // rkk_167 //
+
+smaraṇānantaraṃ siddha-dehasyaiva ca sādhakaḥ /
+aṣṭa-kāloditāṃ līlāṃ saṃsmaret sādhakāṅgakaḥ // rkk_168 //
+
+kālau niśānta-pūrvāhnāv aparāhna-pradoṣakau /
+vijñeyau tri-tri-ghaṭikau prātaḥ sāyaṃ dvayaṃ dvayam // rkk_169 //
+dvi-dvi-praghaṭikau jñeyau madhyāhna-rātrikāv iti // rkk_170 //
+eteṣu samayeṣv evaṃ yā yā līlā puroditā /
+tāṃ tām eva yathā-kālaṃ saṃsmaret sādhako janaḥ // rkk_171 //
+
+iti śrī-dhyāna-candra-gosvāmi-viracitā śrī śrī rādhā-kṛṣṇāṣṭa-kālīya-līlā-smaraṇa-krama-paddhatiḥ /

@@ -1,0 +1,4015 @@
+Jonarāja and Pseudo-Jonarāja: Rājataraṅginī
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_jonarAja-and-pseudo-jonarAja-rAjataraGginI.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Walter Slaje
+## Contribution: Walter Slaje
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Slaje, Walter: Kingship in Kaśmīr (ad 1148-1459). From the pen of Jonarāja, court Paṇḍit to Sulṭān Zayn al-'Ābidīn. Halle : 2014.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Rājataraṅginī = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from jonart_au.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Jonaraja and Pseudo-Jonaraja: Rajatarangini
+Based on Slaje, Walter: Kingship in Kaśmīr (ad 1148-1459). From the pen of Jonarāja, court Paṇḍit to Sulṭān Zayn al-'Ābidīn. Halle : 2014
+Input by Walter Slaje
+[GRETIL-Version: 2017-07-14]
+MARKUP
+Rulers with their respective reign according to laukika-saṃvatsara (LS)Pseudo-Jonarāja (Ps-JRT)InterpolationsANALYTIC TEXT VERSION according to source file
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+jonarāja and pseudo-jonarāja: rājataraṅginī
+
+siddhe yatra sati trapākulam iva spardhābhilāṣāhater antardhiṃ vahati trilokamahitaṃ śeṣaṃ nijārdhadvayam /
+snehaikībhavadāśayadvayajayākāṅkṣīva gāḍhaṃ miladdehārdhadvayam astu tad bhagavatos sadbhāvasampattaye // jrt_1 //
+
+dātuṃ bhaktāya kalyāṇaṃ garbhaṃ bibhrad ivānvaham /
+tundibho gaṇarājas sa vighnaśāntiṃ karotu naḥ // jrt_2 //
+
+śrīgonandamukhair dharmasammukhair ā kaleẖ kila /
+kaśmīrakāśyapī bhūpair apāli guṇaśālibhiḥ // jrt_3 //
+
+teṣām abhāgyahemantaniśātamasi tiṣṭhati /
+naiva kaścid apaśyat tān kāvyārkānudayāc ciram // jrt_4 //
+
+rasamayyā girā vṛddhāṃ nityatāruṇyam āpipat /
+atha śrījayasiṃhāntāṃ tatkīrtiṃ kalhaṇaẖ kaviḥ // jrt_5 //
+
+tato deśādidoṣeṇa tadabhāgyair athāpi vā /
+kavir vāksudhayā kaścin nājijīvat parān nṛpān // jrt_6 //
+
+śrījainollābhadīne kṣmāṃ sampraty akṣati rakṣati /
+jonarājābhidhas teṣāṃ udyato vṛttavarṇane // jrt_7 //
+
+darpaglānibhavāṃ rājapānthānāṃ tāpasantatim /
+hantuṃ saṃropitaẖ kāvyadrumo bhāviphalodayaḥ // jrt_8 //
+
+upaskārarasaṃ kṣiptvā vinayāmṛtaśītalaiḥ /
+sajjanair vardhanīyo 'yam api yatnena bhūyasā // jrt_9 //
+
+magnān vismṛtipāthodhāv atītān nṛpatīn imān /
+śrījainollābhadīnasya kāruṇyād ujjihīrṣataḥ // jrt_10 //
+
+sarvadharmādhikāreṣu niyuktasya dayāvataḥ /
+mukhāc chrīśiryabhaṭṭasya prāpyājñām anavajñayā // jrt_11 //
+
+rājāvaliṃ pūrayituṃ samprati pratibhā mama /
+kavināmābhilāṣeṇa na tu yasmān mamodyamaḥ // jrt_12 //
+
+kva cuṇṭhījalavan madvāk kva ca kāvyataraṅgitam /
+chāyāmātrānukāreṇa kiṃ naḍaṃ puṇḍrakāyate // jrt_13 //
+
+antaśśūnyāṃ laghuṃ prajñāṃ tumbīm iva vahann aham /
+pāraṃ rājataraṅgiṇyā gantuṃ hantodyamaṃ gataḥ // jrt_14 //
+
+pṛthvīnāthaguṇādhyāne cāpalaṃ me na dūṣaṇam /
+alaṅkārair ahaṅkārāt kurūpāpi hi valgati // jrt_15 //
+
+kavīnām upayogyā vā madvāk svāntaraśuddhaye /
+gaṅgājalaṃ jalaṃ teṣāṃ yair na pītaṃ jalāntaram // jrt_16 //
+
+rājodantakathāsūtrapātamātraṃ kṛtaṃ mayā /
+kurvantu racanām atra caturāẖ kaviśilpinaḥ // jrt_17 //
+
+maṇīnāṃ gharṣaṇāyaiva mahāśāṇasya naipuṇam /
+kāntipraṇayane teṣāṃ mukhasāramaṇes tu tat // jrt_18 //
+
+vinaiva prārthanāṃ kāvyaṃ kaveḥ paśyanti sādhavaḥ /
+kim arthitaś śaśī viśvaṃ sudhāsāreṇa siñcati // jrt_19 //
+
+anunīto 'pi kāluṣyaṃ khalaẖ kāvye na muñcati /
+sudhādhauto 'pi nāṅgāraś śubhratām eti jātucit // jrt_20 //
+
+paśyantu matkāvyam iti ciraṃ dūraṃ gatā kaveḥ /
+antaḥparamukhaprekṣibhāvadainyakadarthanā // jrt_21 //
+
+samas syād apravīṇānāṃ gītasaṃskṛtayo rasaḥ /
+vānarā yuñjate guñjāś śīte vahnikaṇabhramāt // jrt_22 //
+
+kāvyaṃ śrutam api prītyai nābodhopahatātmanām /
+hīnadantabalasyekṣur mukhe nyastaẖ karoti kim // jrt_23 //
+
+padārthasundare kāvye darśite nirmalātmanām /
+durvāraṃ guṇaratnānāṃ matsarapratibimbanam // jrt_24 //
+
+lakṣmaṇā dūṣayann induṃ budhaṃ matsarayakṣmaṇā /
+vidhātā vācyatām eti parodrekāsahāgraṇīḥ // jrt_25 //
+
+madvāk kalhaṇakāvyāntaḥpraveśād etu carvaṇam /
+naḍvalāmbu sarittoye patitaṃ pīyate na kim // jrt_26 //
+
+1) jayasiṃha (ls 4203-4230)
+
+jagadānandano devadvijātikṛtavandanaḥ /
+kṣitisaṅkrandanas śrīmān āsīt sussalanandanaḥ // jrt_27 //
+
+gajarājaikavāhatvaprasiddhim api bibhratī /
+jayasiṃhābhidhāne śrīś citraṃ yasmin sadāvasat // jrt_28 //
+
+vāgdevyā lālite mātrā śriyo bhoktari bhūpatau /
+tayoś śvaśrūsnuṣātvena naivādarśi virodhitā // jrt_29 //
+
+trigartādhipater vaśyaṃ mallaṃ jātu suśarmaṇaḥ /
+vairinirvāsitaṃ prāptaṃ vṛttikāmaṃ nṛpo 'grahīt // jrt_30 //
+
+sarvatrauṣadhayas tṛṇāni maṇayo grāvāṇa evākhilair manyante guṇino digantaragatās tāvaj janāḥ prākṛtāḥ /
+yāvan naiva nayanti karmabhir abhidhyeyaprakarṣaprathaiś citraprāyadaśaiś ca nirmalam atisphāraṃ janaṃ rañjanam // jrt_31 //
+
+vasudhāvāsave yāte jetuṃ yavanamedinīm /
+sainyasya vallabho mallaś śauryodrekād athābhavat // jrt_32 //
+
+hataśeṣaṃ turuṣkeśasainyaṃ tulayituṃ niśi /
+śibiraṃ mallacandro 'gād ripūṇāṃ sāhasorjitaḥ // jrt_33 //
+
+yatra na prāviśad vāyur bhītyeva subhaṭair vṛte /
+dhruvaṃ mantrauṣadhibalāt praviśyātra balāntare // jrt_34 //
+
+suptadrohāṃhaso bhīter anighnan yavaneśvaram /
+upānahau svanāmāṅke nināyāsya śirastratām // jrt_35 //
+
+upānahau parijñāya gṛhītvā cātha so 'py ariḥ /
+bhūpateś śibiraṃ yātaś śriyaṃ kīrtim ivādita // jrt_36 //
+
+dve mūrtī tapanānalāv atha tathā śaṃbhoś śaśāṅkāmbhasī netā hanta mitho gatānugatiko lokas tulāṃ tāṃ dvayīm /
+sūryācandramasor yathāsvam upalaiẖ kāntair viśeṣaṃ paraṃ teṣāṃ tatpratiyogyasambhaviguṇair labdhā jano 'rocakī // jrt_37 //
+
+triṃśe 'bde phālguṇe kṛṣṇadvādaśyāṃ bhūmivallabhaḥ /
+svasaubhāgyena divyastrīdṛśam aprīṇayattarām // jrt_38 //
+
+2) paramāṇuka (ls 4230-4240)
+
+athābhyaṣeci tatputro jaḍais sa paramāṇukaḥ /
+aṇīyaḥpattravistāraiẖ kundo māghadinair iva // jrt_39 //
+
+avadhūya prajātrāṇam avadhīrya ca digjayam /
+kartuṃ prārabhatākhinnaṃ rājā kośasya sañcayam // jrt_40 //
+
+dātuṃ bhoktum anīśasya śrotriyasyeva sampadam /
+prayāgajanakau dhūrtau rājño mumuṣatuś śriyam // jrt_41 //
+
+tau hi svabhṛtyair nissatyau kāritai rākṣasākṛtim /
+tam atrāsayatāṃ rātrau rātrau citreṇa karmaṇā // jrt_42 //
+
+mithyātmanīnatāṃ tasya nāṭayantau kumantriṇau /
+"rakṣāsūn" iti tau vittaṃ tyājayām āsatur nṛpam // jrt_43 //
+
+sthāne bhiṣāyakasyaitāv ādiśya svānujīvinam /
+tṛṇacchannaṃ mahāratnaiś caitryāṃ pūjayatas sma tau // jrt_44 //
+
+sa punaẖ kṛtasaṅketaḥ paśyatsv atha janeṣv aho /
+rājñaẖ kṛtvāśiṣaṃ rātrau sālaṅkāro yayau vanam // jrt_45 //
+
+"bhiṣāyako baliṃ yat te gṛhītvā vyadhitāśiṣaḥ /
+nirvighnaṃ bhāvi tvadrājyam" iti tau bhūpam ūcatuḥ // jrt_46 //
+
+[ps-jrt 1]
+bhiṣāyakadine bhṛtyaṃ svaṃ kṛtvā tau bhiṣāyakam /
+ratnair abhyarcya vipinaṃ nītvātha pratyamuñcatām // jrt_b.47 //
+
+"kuberas tvayi tuṣṭo 'dya nānāratnavibhūṣitaḥ /
+kṛtvā tavāśiṣaṃ lokasamakṣaṃ sa tirohitaḥ" // jrt_b.48 //
+
+ity uktvā bhūpates mugdhasya kṛpaṇasya ca / prayāgajanakau dhūrtau prasādaṃ pratyadāpitām // jrt_b.49 //
+
+evaṃ kadīśvarasyāsya bālasyeva vibhīṣikāḥ /
+sandarśya kośaṃ niśśeṣaṃ luṇṭhayāṃ cakratur viṭau // jrt_47 //
+
+rājā sārdhān navābdān sa kṣmāṃ bhuktvā divasān daśa /
+catvāriṃśābdanābhasyasitāṣṭamyāṃ layaṃ yayau // jrt_48 //
+
+3) vantideva (ls 4240-4247)
+
+vantidevābhidhas saptacatvāriṃśe 'tha vatsare /
+bhādraśukladaśamyāṃ sa tasya putro vyapadyata // jrt_49 //
+
+4) voppadeva (ls 4247-4256)
+
+voppadevābhidhaḥ paurair yogyālābhān nṛpaẖ kṛtaḥ /
+prāpito ghāsaracitaḥ pūjām iva bhiṣāyakaḥ // jrt_50 //
+
+dṛṣṭvā sthūlaśilā hṛṣṭo mūḍhas so 'tha svamantriṇaḥ /
+ādiśat "stanyapānena vardhyantām itarā" iti // jrt_51 //
+
+śrutvā tatsthānamāhātmyaṃ bāliśo mantribhis saha /
+āgāt sureśvarīkṣetraṃ naupathena sa jātucit // jrt_52 //
+
+apsu svapratibimbe 'sya kurvato mukhavaikṛtam /
+ruṣā capeṭāṃ dadato nyapatan maṇimudrikā // jrt_53 //
+
+"rājñaẖ kva maṇimudre"ti pṛcchatas so 'bhyadhād iti /
+"patitā sā jale rekhā tatrābhijñānam" ācaran // jrt_54 //
+
+evaṃ nidarśanībhūya mūrkhāṇāṃ nāmarājatāṃ /
+navābdāṃś caturo māsān sārdhān dve ca dine vyadhāt // jrt_55 //
+
+5) jassaka (ls 4256-4274)
+
+tasyānujo 'tha bhūbhāram anicchann api jassakaḥ /
+svavṛddhikāmair atyajño lavanyair abhyaṣicyata // jrt_56 //
+
+badhyante na śukā ivoditavacassaṃvādino vāyasā
+bhūmiś śarkarilorvareva bhajate no gharṣaṇakṣodanam /
+aśmā saindhavavan na jātu gamito niṣpiṣya cūrṇīkṛtiṃ
+keṣāñcid guṇavad guṇāya mahate doṣo 'pi sañjāyate // jrt_57 //
+
+sodarau kṣukṣabhīmākhyau dvijau tasya mahībhujaḥ /
+dhūrtatvena priyāv ājñām acirād udalaṅghatām // jrt_58 //
+
+"samarthāv atisāmarthyau sa kathaṃ nau sahiṣyate" /
+bhūpaṃ matvāpi sāmarṣaṃ nānyaṃ vavratur ity amū // jrt_59 //
+
+svayaṃ yac ca na saṃbheje tayor eko nṛpaśriyam /
+lavanyotsiktatā hetur na tv anaucityaśaṅkitā // jrt_60 //
+
+[ps-jrt 2] tatra hetur lavanyendrabhayaṃ nānaucitī punaḥ / jrt_b.63ef /
+
+yānty aṅgasaṅgamam anaṅkuśam aṅkayanti rāgaṃ pradarśya hṛdi kampam udañcayanti /
+vyāpādayanti viṣavedanayā viśeṣād viśvāsya duṣṭapiṭikā yuvatīś ca hā dhik // jrt_61 //
+
+vārddhakakṣīṇaśaktitvād viraktā svavadhūr api /
+hatvā kṣukṣaṃ viṣeṇāśu bhīmaṃ bhogam akārayat // jrt_62 //
+
+sā devarasya saṅgena śvitrasañcitritā satī /
+dānena mādhavādīnāṃ svapāpaṃ paryaṇīnamat // jrt_63 //
+
+so 'ṣṭādaśābdān kṣmāṃ bhuktvā satrayodaśavāsarān /
+yugāgāṅkābdamāghāntyadaśamyāṃ pralayaṃ yayau // jrt_64 //
+
+6) jagadeva (ls 4274-4289)
+
+tataś śrījagadevas tattanayo vinayorjitaḥ /
+tatāna janatāharṣaṃ madhumāsa ivādhikam // jrt_65 //
+
+parasparaviruddhānāṃ bhṛtyānāṃ tulyavṛttitā /
+tatrābhūd utpalābjānām iva sandhyāgamakṣaṇe // jrt_66 //
+
+ujjahāra mahīnāthaḥ pṛthuvijñānakauśalaḥ /
+bhūtale durvyavasthānaṃ śalyaṃ śalyaharo yathā // jrt_67 //
+
+manaśśalyāyamānas sa nissāmānyaguṇo nṛpaḥ /
+kucakrikābalād deśān mantribhir niravāsyata // jrt_68 //
+
+nigrahānugrahādhāyimantrajñaṃ guṇarāhulam /
+sa prāpat sacivaṃ mitraṃ kapīndram iva rāghavaḥ // jrt_69 //
+
+udayaprāptilobhena sūradvijapatī samam /
+agātām atha kaśmīradeśaṃ tau vismayāvahau // jrt_70 //
+
+ciraṃ bhuktāṃ śriyaṃ tyaktum anīśās samarodyatāḥ /
+tanmantraujohutāśāntaḥ prāpuś śalabhatāṃ dviṣaḥ // jrt_71 //
+
+jitvā kṣmāṃ bubhuje bhūpaś chattracāmarahāsinīm /
+lakṣmīm arājalakṣmāṃ tu śrīguṇākararāhulaḥ // jrt_72 //
+
+rājā rajjupure rājadrājatacchattradhāriṇam /
+harṣeśvarasya prāsādaṃ nirmame nirmamehitaḥ // jrt_73 //
+
+vāllabhyād dvārapatitāṃ padmenāptavatā tataḥ /
+durātmanāvadhi cchannaviṣadānena bhūpatiḥ // jrt_74 //
+
+rakṣitvā kṣitim abdān sa satryahartūṃś caturdaśa /
+nandāṣṭāṅkābdacaitrāntyacaturdaśyāṃ layaṃ yayau // jrt_75 //
+
+7) rājadeva (ls 4289-4312)
+
+tatputro rājadevo 'tha kāṣṭhavāṭaṃ bhayād gataḥ /
+āninye vāmapārśvasthair dvāreśasya virodhibhiḥ // jrt_76 //
+
+taṃ salhaṇākhyadurgāntaḥ praviṣṭaṃ duṣṭaceṣṭitaḥ /
+aveṣṭayad balaiḥ padmo maṇḍalair iva pannagam // jrt_77 //
+
+upāyanīkṛtāpūrvapādukālokakautukāt /
+pramattaṃ ko 'pi caṇḍālo dvāreśam avadhīd raṇe // jrt_78 //
+
+abhiṣiktas tato bhaṭṭais sa bherīśaṅkhanissvanam /
+praṇatānantasāmantas sevakān anvajigrahat // jrt_79 //
+
+asāmānyo lavanyendrān sa vāstavyakuṭumbitām /
+ninye kṣoṇīparivṛḍho rūḍhabhāroḍhim ādiśan // jrt_80 //
+
+[ps-jrt 3] lavanyavanyakariṇāṃ darpanirdalanaṃ vyadhāt / narasiṃho mahātejā vanānām iva pāvakaḥ // jrt_b.84 //
+
+mallair balāḍhyacandrasya balino lahareśituḥ /
+harataś śrīnagaryardhasvāmyaṃ na prābhavat tu saḥ // jrt_81 //
+
+puṇyaṃ rāśībhavan mūrtam ivātha svābhidhāṅkitam /
+balāḍhyacandras sāndraujā nagarāntar maṭhaṃ vyadhāt // jrt_82 //
+
+"ko 'yaṃ khaśo mṛduẖ kaścid asmābhir abhiṣicyate" /
+amantrayann idaṃ bhaṭṭā rājñāvagaṇitāś cirāt // jrt_83 //
+
+"na bhaṭṭo 'haṃ na bhaṭṭo 'haṃ na bhaṭṭo 'ham" idaṃ vacaḥ /
+aśrūyatāpi bhaṭṭebhyo nirdiṣṭe bhaṭṭaluṇṭhane // jrt_84 //
+
+tadaiva vimalācāryaś śāke kheṣunavāṅkite /
+ṣaḍadrinandamāsasya malabhramam avārayat // jrt_85 //
+
+nirmame nirmamo rājapurīṃ rājolakaṃ tathā /
+rājadevas sa rājendur ājanmārjitamaṅgalaḥ // jrt_86 //
+
+ahāni saptaviṃśāni trayoviṃśāṃś ca vatsarān /
+māsatrayīṃ ca rājā sa kṣmāṃ rakṣitvā kṣayaṃ yayau // jrt_87 //
+
+8) saṅgrāmadeva (ls 4312-4328)
+
+saṅgrāmadevas tatputro gotrāsutrāmatāṃ bhajan /
+trāsam āsūtrayad rājasiṃhaś śātravadantinām // jrt_88 //
+
+visrambhāt sūryam anujaṃ cakre pratinidhiṃ svayam /
+kucakrikas sa bhogebhyo lubhyan droham acintayat // jrt_89 //
+
+śrutadroho mahībhartrā bhītas sa lahareśituḥ /
+candrasya maṇḍalaṃ sūryaḥ prāvikṣad udayecchayā // jrt_90 //
+
+dāruṇe raṇakāle sa sūryaṃ candrānvitaṃ tadā /
+svarbhānur iva bhūbhānuś citraṃ samam amīmilat // jrt_91 //
+
+śamālādhipatis tuṅgas sūryaṃ pārśvaṃ nayan madāt /
+kṛtayātreṇa rājñātha nīcabhāvam anīyata // jrt_92 //
+
+mārgair nirinduravibhiś cauravad rajanau bhraman /
+viṭatyaktas tatas sūryo baddhvā rājñā vyapādyata // jrt_93 //
+
+svalakṣmīṃ rakṣituṃ sākṣāt tasminn āttakṣaṇe prabhau /
+akārayann ahibhayaṃ stenāẖ kalhaṇanandanāḥ // jrt_94 //
+
+gotrajeṣu baliṣṭheṣu naṣṭāśas so 'tha bhūpatiḥ /
+śiṣṭam iṣṭaṃ ca śaraṇam agād rājapurīpatim // jrt_95 //
+
+tasmin daṇḍadhare dūraṃ yāte ḍāmarapheravaḥ /
+antrāṇy api viśām āśur niśśeṣaṃ raktapāyinaḥ // jrt_96 //
+
+rājñā sumanasā tyaktaṃ dvijaiś ca sparśadūṣitam /
+bhojyaṃ ḍāmaraḍombānāṃ tad rājyānnam abhūc ciram // jrt_97 //
+
+svamaṇḍale viśīrṇe 'tha paramaṇḍalam āviśan /
+na kair anumato rājā pratyāsannanavodayaḥ // jrt_98 //
+
+pratyakṣato rājapuryās sa ripūn samare jayan /
+brāhmaṇyāt kālhaṇīn rakṣan rājyaṃ puṇyaṃ ca labdhavān // jrt_99 //
+
+ekaviṃśatiśālaṃ sa śrīviśālaṃ viśāmpatiḥ /
+godvijānāṃ nivāsāya cakāra vijayeśvare // jrt_100 //
+
+kālhaṇapraṇidhīnāṃ sa dviṣāṃ luṇṭhanakāṅkṣiṇām /
+caurāṇām iva dīpo 'bhūd dveṣaṇīyo mahīpatiḥ // jrt_101 //
+
+śākhākrāntadigantas sa sadurāśair durāśayaiḥ /
+kavikalpadrumo rājā vicchinnaẖ kalhaṇātmajaiḥ // jrt_102 //
+
+nāyakīkṛtya taṃ bhūpaṃ kaviḥ paṇḍitayaḥśakaḥ /
+svoktihāralatāṃ vidvatkaṇṭhabhūṣātvam ānayat // jrt_103 //
+
+ṣoḍaśābdān daśāhāni sa bhuktvā kṣmāṃ vyapadyata /
+jagadbhadro 'tha pañcamyāṃ bhādre 'ṣṭāviṃśavatsare // jrt_104 //
+
+9) rāmadeva (ls 4328-4349)
+
+rāmadevo 'tha tatputro hatvā svapitṛghātakān /
+pṛthvīrāje prajābhāraṃ sarvam eva samarpipat // jrt_105 //
+
+ledaryā dakṣiṇe bhāge sallare sa mahīpatiḥ /
+svanāmāṅkaṃ vyadhāt koṭṭaṃ yaśorāśim ivāparam // jrt_106 //
+
+pramādād bhaṅgam ānītaś śamālāvijayodyame /
+tenotpalapure viṣṇoḥ prāsādo nūtanīkṛtaḥ // jrt_107 //
+
+[ps-jrt 4] vaiśākhe māsi pakṣe śaśadharaviṣade triṃśadabde sabhaktyā dvādaśyāṃ rāmarāje kṣitim avati nijapreyasīṃ somavāre / pṛthvīrājaś śamālāvijayanasamaye dasyubhagnaṃ murāriṃ sampūrṇāṅgaṃ vidhāyotpalapuranagare svapratiṣṭhāṃ cakāra // jrt_b.112 //
+
+puṣpaṃ candanavṛkṣasya phalaṃ caṇpakabhūruhaḥ /
+apatyaṃ tasya bhūpasya hanta nākāri vedhasā // jrt_108 //
+
+bhiṣāyakapurasthasya kasyacid brāhmaṇasya saḥ /
+putraṃ lakṣmaṇanāmānaṃ putrīyām āsa bhūpatiḥ // jrt_109 //
+
+akṛtrimapitāputraprītiṃ prītiḥ prathīyasī /
+vastv ivocitam ālekhyaṃ tayor atulayattarām // jrt_110 //
+
+śrīsamudrābhidhā devī vimudritasamudrajā /
+vitastāyāṃ svanāmāṅkaṃ nagarāntar maṭhaṃ vyadhāt // jrt_111 //
+
+trayodaśadinaṃ māsaṃ vatsarāṃś caikaviṃśatim /
+kṣmāṃ bhuktvaikonapañcāśe varṣe 'sau dyām agāt svayam // jrt_112 //
+
+10) lakṣmadeva (ls 4349-4362)
+
+kathañcil lakṣmadevo 'tha pāṭyamānāṅgavihvalaḥ /
+tām ākaṇṭakinīṃ vallīm iva kṣoṇīṃ babhāra saḥ // jrt_113 //
+
+kṣatrīkṛto 'pi nāmuñcat svadharmaṃ dvijabhūpatiḥ /
+na māṇikyaśriyaṃ dhatte rañjito 'śmāpi jātucit // jrt_114 //
+
+vitastāyās taṭe śvaśrūmaṭhopānte maṭhaṃ navam /
+niṣpaṅkā nijanāmāṅkam ahalāmahiṣī vyadhāt // jrt_115 //
+
+kajjalena turuṣkeṇa bahir etyātha maṇḍale /
+malinena prajādṛṣṭir utpāṭyāsravatā hatā // jrt_116 //
+
+trayodaśābdān māsāṃs trīn dvādaśāhaṃ ca bhūpatiḥ /
+bhuktvā dvāṣaṣṭavarṣe 'tha pauṣānte sa vyapadyata // jrt_117 //
+
+11) siṃhadeva (ls 4362-4377)
+
+kajjalopadravāt tasmāl ledarīmātranāyakaḥ /
+siṃhadevo 'tha saṅgrāmacandreṇākṣobhi bhūpatiḥ // jrt_118 //
+
+nagarāntar maṭhaṃ kṛtvā laharendre mṛte sati /
+siṃhadevo nṛsiṃho 'tha kṣmāṃ rarakṣa kṣayākulām // jrt_119 //
+
+siṃhadevo nṛsiṃhasya siṃhena guruṇānvitaḥ /
+pratiṣṭhāṃ siṃhalagne 'tha dhyānoḍḍāre 'karot kṛtī // jrt_120 //
+
+kartā kāryaṃ ca lagnaṃ ca gurus siṃhaś ca kovidaḥ /
+patiteyaṃ bhavet tasya vrate siṃhaparamparā // jrt_121 //
+
+sa niṣkalakṣavikrītakṣīreṇa vijayeśvaram /
+ekāha eva snapayan vrataśuddhiṃ yayau nṛpaḥ // jrt_122 //
+
+rājñā śrīśaṅkarasvāmī gurur mantropadeśakṛt /
+yo 'ṣṭādaśamaṭhaiśvaryadakṣiṇābhir apūjyata // jrt_123 //
+
+paralokajayopāyaṃ vāgdevīprābhṛtaṃ nṛpaḥ /
+ātmopajñam imaṃ ślokaṃ śayyotthāyaṃ sadāpaṭhat // jrt_124 //
+
+"pāvakanirmaladṛṣṭiṃ vibudhagaṇair arcyamānapādam aham /
+śaśiśakalādarśayutaṃ gaurīśaṃ śaṅkaraṃ vande" // jrt_125 //
+
+[ps-jrt 5]
+pānthānāṃ toyadānāya pitṝṇāṃ tarpaṇāya ca /
+dampatyoḥ pāpanāśāya dharmasaṃvardhanāya ca // jrt_b.131 //
+
+nijālaṅkāradānena nipānaṃ racitaṃ pathi /
+maḍavāśramagrāmānte gauryā śaṅkarabhāryayā // jrt_b.132 //
+
+khonamoṣādhipasyāsīt kanyā prajjadvijasya sā / satyaśīlānvitā bhaktā gaurī gaurīva śaṅkare // jrt_b.133 //
+
+duhitur duścaritreṇa yo 'bhūd daṇḍaḥ pituḥ patan /
+iḍāgalyārthito rājā nartakyā taṃ nyavārayat // jrt_126 //
+
+sa durjanapariṣvaṅgād āstikaprajñayojjhitaḥ /
+dhātrīputryāṃ smarādarśe svātmānaṃ pratyabimbayat // jrt_127 //
+
+daryākhyo bhaginīsvāmī kāmasūhopabṛṃhitaḥ /
+taṃ viraktaprajaṃ muktavinayaṃ chadmanāvadhīt // jrt_128 //
+
+caturdaśābdān ṣaṇmāsāṃs tryahanyūnān mahīpatiḥ /
+bhūtvā śucau divam agāt sa varṣe saptasaptate // jrt_129 //
+
+12) sūhadeva (ls 4377-4396)
+
+tadbhrātā sūhadevo 'tha kāmasūhopabṛṃhitaḥ /
+jaḍo 'pi sakalām eva kaśmīrakṣmāṃ vaśe vyadhāt // jrt_130 //
+
+digantarād upāgatya bahavo vṛttilipsayā /
+tam āśrayan mahīpālaṃ puṣpadrumam ivālayaḥ // jrt_131 //
+
+[ps-jrt 6]
+vṛttyai laṅkāracakko 'pi daraddeśāt tadāyayau /
+santater bhāvisāmrājyaḥ prājyaṃ kaśmīramaṇḍalam // jrt_b.140 //
+
+kramarājyābhidhe rāṣṭre trāhagrāmaṃ nṛgrāmaṇīḥ / dadau vasataye tasmai niyates sa niyogataḥ // jrt_b.141 //
+
+pārtho 'nya iva pārtho 'bhūt pañcagahvarasīmani /
+yo garbharapuraṃ cakre tatputro babhruvāhanaḥ // jrt_132 //
+
+tadvaṃśyaẖ kuruśāho 'bhūd yadbāhūdayaparvate /
+jyākiṇacchadmanā bheje yaśaś śubhratviṣaṃ niśā // jrt_133 //
+
+"kaśmīrāḥ pārvatī tatra rājā jñeyo harāṃśajaḥ" /
+ity etatpratyayāyeva yasyāsīc cakṣuṣāṃ trayam // jrt_134 //
+
+kaśmīreṣu hi sāmrājyaṃ kuruśāhasya santatiḥ /
+śaṃśadīnamukhī mukhyā khyātakīrtiẖ kariṣyati // jrt_135 //
+
+tāharājo 'janiṣṭāsmād yasya cāpalatāśritā /
+muhurmuhur aho maurvī śrutyantam agamattarām // jrt_136 //
+
+śāhameras svavīryoṣmagrīṣmo bhānus tato 'jani /
+yasya vairivadhūvāṣpaiḥ pratāpāgnir adīpyata // jrt_137 //
+
+vane viharatas tasya śāhmerasya kadācana /
+mṛgayā prathamaṃ dṛṣṭiṃ paścān nidrā vyalobhayat // jrt_138 //
+
+"rājyam ā santater bhāvi kaśmīreṣu tave"ti saḥ /
+svapne vāksudhayā tatra mahādevyābhyaṣicyata // jrt_139 //
+
+pañcāgnyarkamite śāke navāṣṭāṅkitavatsare /
+tatas saparivāras sa kaśmīrān aviśac chanaiḥ // jrt_140 //
+
+sakuṭumbaṃ tam āyāntaṃ vṛttidānena bhūpatiḥ /
+anujagrāha sotkarṣaṃ cūtadruma ivālinam // jrt_141 //
+
+ḍalacākhyaẖ karmasenacakravarticamūpatiḥ /
+kaśmīrān sa tadaivāgāt siṃho mṛgaguhām iva // jrt_142 //
+
+ṣaṣṭigrāmasahasreṣu svāmyaṃ dātum ivātra saḥ /
+tāvatsaṅkhyasahasrāṇi svasainye sādino 'vahat // jrt_143 //
+
+ḍalcaṃ dhanaprayogena nivivartayiṣur nṛpaḥ /
+sarveṣām eva varṇānāṃ durvarṇo daṇḍam akṣipat // jrt_144 //
+
+prāṇāhutyā prabhoẖ kope tatpratigrahasāṃhasaḥ /
+prāyasthā brāhmaṇāḥ prāyaścittīyāṃ cakrur akramam // jrt_145 //
+
+[ps-jrt 7] daṇḍaduẖkhena viprair yaś śāpo datto mahībhujaḥ / bhaviṣyan vaṃśavicchedo dhruvaṃ tasyaiva tat phalam // jrt_b.156 //
+
+tadaiva kālamānyākhyair bhauṭṭair ghaṭṭitavairibhiḥ /
+sabandhur gotrajo vyājād bakatanyo nyahanyata // jrt_146 //
+
+[ps-jrt 8] svadeśe vakatanyākhyo gotrajasyātmajo hataḥ // jrt_b.157cd //
+
+mānyo 'sāmānyadhīẖ kālamānyavaṃśadavānalaḥ /
+avāśiṣyata tatputro daivād ekas sa riñcanaḥ // jrt_147 //
+
+vyālaṭakkamukhair mantrasūtrasaṃyojitair atha /
+baddhvā saṃhatikanthāṃ sa tāñ jaḍāñ jetum iṣṭavān // jrt_148 //
+
+"nipāsyamānakośaṃ māṃ bhṛtyatve vṛṇute"ti saḥ /
+tān pratyaśrāvayad dūtamukhena svātatāyinaḥ // jrt_149 //
+
+nṛsiṃhas sa nadītīre sikatāsthagitāyudhaḥ /
+tān pratyaikṣata raktasya na tu kośasya pītaye // jrt_150 //
+
+vyālādyair āgatās tatra kālamānyā nirāyudhāḥ /
+sikatāntarniviṣṭasya paraśvagnes tṛṇīkṛtāḥ // jrt_151 //
+
+prakṣālya vairiraktena pitṛdroharajomalam /
+śeṣānekāribhītyāgāt kaśmīrān bandhubhis saha // jrt_152 //
+
+pūrṇasya rāmacandrasya rucihānyai dharāryamā /
+nīlāśābhre riñcarāhor udayaṃ so 'tha soḍhavān // jrt_153 //
+
+hetibhis tāpayaty āśā ḍalace kṛṣṇavartmani /
+kāśmīrikair janais sarvaiś śalabhatvam alabhyata // jrt_154 //
+
+ruddhayor ḍalcariñcābhyāṃ prācyudīcyor bahur janaḥ /
+vasateḥ paścimām āśāṃ prāg yamāśām athāgamat // jrt_155 //
+
+adho ḍalcāmbupūrād bhīr girau riñcanamārutāt /
+chāyājuṣāṃ phalāḍhyānāṃ puṃnāgānām abhūt tadā // jrt_156 //
+
+pakṣiśāvam iva sthānacyutaṃ cillollasadrayā /
+balaśrī raiñcanī lokaṃ kāśmīrikam apāharat // jrt_157 //
+
+dhanāmbu prāpya bhauṭṭebhyaẖ kāśmīrajanavikrayāt /
+garjann āśāḥ pyadhāt sarvās tadā riñcanavāridaḥ // jrt_158 //
+
+[ps-jrt 9]
+turuṣkatājikamlecchasainyacchāditabhūtalaḥ /
+ḍulucyo nagaraṃ prāpad athāgastya ivārṇavam // jrt_b.170 //
+
+mṛgās siṃham ivodagraṃ garutmantam ivāṇḍajāḥ /
+tam āpatantam ālokya palāyanta puraukasaḥ // jrt_b.171 //
+
+baddhāḥ palāyinas tena māntrikeṇeva pannagāḥ /
+kecit palāyitā bhītyā praviṣṭā girigahvaram // jrt_b.172 //
+
+rājāpi kvāpi sañchanno bhītyā ghūkavad āsta saḥ /
+itareṣāṃ tu lokānāṃ kā kathā tatra vāsinām // jrt_b.173 //
+
+vipraśāpo narendrāṇāṃ vṛthā jāto na jātucit /
+salakṣmā rājayakṣmā hi nāhatvā vinivartate // jrt_b.174 //
+
+gūḍhārthaṃ dāpitāḥ pūrvaṃ gāḍhayā bandhapīḍayā /
+vikrītā vājibhiḥ paścāt turuṣkair hastagā janāḥ // jrt_b.175 //
+
+viddhāẖ kecit pare baddhā virāddhās tena kecana /
+ploṣaṃ kecit pare śoṣaṃ doṣaṃ yānty analād drumāḥ // jrt_b.176 //
+
+jatruvedhena baddhānām ekayā carmavadhrayā /
+teṣāṃ durāpam apy āsīd anyo'nyamukhadarśanam // jrt_b.177 //
+
+ghāsendhanādisambhāraḍhaukanāya kṣaṇaṃ kṣaṇam /
+baddhā mlecchair amucyanta biḍālair iva mūṣakāḥ // jrt_b.178 //
+
+yeṣām anne jugupsābhūd biḍālasparśadoṣataḥ /
+mlecchocchiṣṭaṃ gavāṃś cāsthi tair baddhair bhakṣitaṃ kṣudhā // jrt_b.179 //
+
+vaitastam api ye vāri na papuḥ paṅkasaṅkulam /
+baddhair maruṣu tair nītair mūtraṃ pītaṃ bhṛśaṃ tṛṣā // jrt_b.180 //
+
+"kva mlecchānnaṃ kva vaṃśo no dussahā kṣuc chrutena kim /
+nidrā nādyāpi mārgeṇa" te 'ntar evam acintayan // jrt_b.181 //
+
+gacchatāṃ tiṣṭhatāṃ teṣām aśnatāṃ jalpatām api /
+so 'bhūn naiva kṣaṇo yatra na te kāryam asādhayan // jrt_b.182 //
+
+mlecchaiẖ kecit khaśaiẖ kecid daradbhir apare tathā /
+bhoṭṭaiẖ kecit turuṣkaiś ca kecid bandīkṛtā janāḥ // jrt_b.183 //
+
+annaṃ gṛhe vane vittaṃ mārge bandhūn vihāya ca /
+palāyām āsur apare turuṣkabhayasambhramāt // jrt_b.184 //
+
+karuṇāgauravaghṛṇā drutaṃ gantum aśaktiṣu /
+bālavṛddhābalāsv ete tyaktavantaḥ palāyinaḥ // jrt_b.185 //
+
+na bhuktaṃ kṣudhitair mārge na pītaṃ tṛṣitair api /
+kim anyad bhayasaṃbhrāntaiḥ paścāt tair nāpi vīkṣitam // jrt_b.186 //
+
+kṣudhā kecit tṛṣā kecid bhiyā kecit pare hriyā /
+bhayād biladarīṣv eva praviśyāntar vipedire // jrt_b.187 //
+
+bilapraviṣṭāṃs tāñ chrutvā tato niṣkāsanecchavaḥ /
+niṣkāruṇyās turuṣkās te dhūmaṃ bilamukhe daduḥ // jrt_b.188 //
+
+dhūmenāntar vipannānāṃ narāṇām asthirāśayaḥ /
+dṛśyante 'dyāpi dhūmotthaṃ mālinyaṃ ca guhāmukhe // jrt_b.189 //
+
+rājāpacāram akarot prajāsu phalitas tu saḥ / nārīṇāṃ capalā dṛṣṭir dantair gaṇḍas tu khaṇḍyate // jrt_b.190 //
+
+nāśitāśeṣadeśo 'tha sphītaśītabhayākulaḥ /
+ḍalcaẖ kaśmīratas tārabalamārgeṇa niryayau // jrt_159 //
+
+janāẖ kāśmirikā durgabilebhyo mūṣakā iva /
+ḍalacotau gate bandīkṛtaśeṣā viniryayuḥ // jrt_160 //
+
+nālabdha pitaraṃ putraḥ pitā taṃ ca na kañcana /
+bhrātṝṃś ca bhrātaro ḍalcarākṣasopaplavātyaye // jrt_161 //
+
+mitalokā khilakṣetrā nirbhojyā darbhanirbharā /
+sargārambha iva prāyas tadā kaśmīrabhūr abhūt // jrt_162 //
+
+samarthān nyagrahīd ḍalco riñcanaḥ prābhavat punaḥ /
+viśvam andhayati dhvānte sukhabhājo 'bhisārikāḥ // jrt_163 //
+
+ḍalcarāhuvinirmuktaṃ rājānaṃ tuṅgimaspṛśā /
+arurutsat sa śṛṅgeṇa riñcanāstācalas tataḥ // jrt_164 //
+
+dṛṣṭvā gaganagiryagre bhāsvantaṃ riñcanaṃ sthitam /
+aśaṅkyata na kai rājñaḥ pratyāsanno 'stasaṃstavaḥ // jrt_165 //
+
+riñcanaśyenarājasya jihīrṣor nagarāmiṣam /
+kulacandro rāmacandro vighnaṃ cakre pade pade // jrt_166 //
+
+bhauṭṭāṃl laharakoṭṭāntaḥ paṭṭavikrayakautukāt /
+pratyahaṃ vañcanodyogī riñcano 'tha visṛṣṭavān // jrt_167 //
+
+tathaiva laharasyāntar bhoṭṭaloke praveśite /
+apipyad rāmacandrāsramadhu śastrāṇi riñcanaḥ // jrt_168 //
+
+rāmacandrakulodyānakalpavallīṃ sa riñcanaḥ /
+vakṣassthale mahābāhuẖ koṭādevīm aropayat // jrt_169 //
+
+śrīriñcanabhayād rājā nagaraṃ tyaktavāṃs tataḥ /
+vipraśāpāgnidagdhānāṃ kutas syād udayāṅkuraḥ // jrt_170 //
+
+pramaṇḍalaguhāṃ rājajambur bhīto 'viśat tataḥ /
+pāpasya tādṛśo mṛtyus sammukhasya raṇe katham // jrt_171 //
+
+vairidhārādharaś citraṃ raṇe rājāsravarṣaṇaiḥ /
+daṇḍadānāṃ dvijātīnāṃ cakre netreṣv avagraham // jrt_172 //
+
+pañcāhonāṃś caturmāsān varṣāṃś caikonaviṃśatim /
+sa rājarākṣaso rakṣāvyājāt kṣoṇīm abhakṣayat // jrt_173 //
+
+13) lha·chen rgyal·bu rin·chen (ls 4396-4399)
+
+śrīriñcanasuratrāṇo bhujavātāyane mahīm /
+vyaśiśramad atha śrāntāṃ daussthyād dussthitiviplavaiḥ // jrt_174 //
+
+pūrvadṛṣṭam ivāśeṣaṃ timirāpagame pumān /
+kaśmīramaṇḍalam pūrvarājasaukhyaṃ tad aikṣata // jrt_175 //
+
+dīpair iva pratisthānaṃ yair lavanyais sthiraṃ sthitam /
+akampyanta prabhātasya te rājño balavāyunā // jrt_176 //
+
+mantrasūcyā kṛte bhede bāṇasūtre praveśini /
+abhūl lavanyakanthāyāś citraṃ viślathatā tadā // jrt_177 //
+
+vane kaṇṭakinīvāṅga nagno yatrākulo bhavet /
+tatraiva vyomni pattrīva deśe samacaran nṛpaḥ // jrt_178 //
+
+tasya dākṣiṇyadakṣasya prajānāṃ hitahetunā /
+putre mantriṇi mitre vā duṣṭe nālakṣyata kṣamā // jrt_179 //
+
+chedaṃ yacchann atucchānāṃ vairiṇām ucchalacchriyām /
+ācchoṭanam agacchat sa chattraśālī kadācana // jrt_180 //
+
+ṭakkabhrātā timir nāma mārge santāpakheditaḥ /
+gopālyāẖ kutracid grāme kṣīraṃ niṣpītavān haṭhāt // jrt_181 //
+
+rājñā vijñāpitenātha sadyo gopālayoṣitā /
+anuyuktas timir bhītyā vyadhāt sarvasya nihnavam // jrt_182 //
+
+asatye bhāvitā gopī yadā dhairyān na sāskhalat /
+pānāśayaṃ timer eva sa satyaikṣī vyadārayat // jrt_183 //
+
+tasya pānāśayād dīrṇān niryāntyā kṣīradhārayā /
+rājñaẖ kīrtir mukhaśrīś ca gopyāḥ prāpat prasannatām // jrt_184 //
+
+vāravāle nivasator asuvātāṃ kayoścana /
+aśve kiśorakau tulyau kasminn api vanāntare // jrt_185 //
+
+siṃhasaṅkṣayitāpatyā tayor anyatamā vane /
+aśvasādṛśyavātsalyād apuputrīyiṣat param // jrt_186 //
+
+"madīyo 'yaṃ madīyo 'yam" ity asañjātaniścayau /
+vaḍavādhipatī kṣobhād rājāntikam agacchatām // jrt_187 //
+
+sa vivādaṃ tayoś śrutvā svāntikaṃ svīyamānuṣaiḥ /
+vaḍave ca kiśoraṃ ca rājābhyānāyayat tataḥ // jrt_188 //
+
+tasmin kiśorake bālyād dūraṃ dhāvati līlayā /
+mātā dhātrī ca nitarām asnihyac cāpy aheṣayat // jrt_189 //
+
+sabhyeṣv anelamūkeṣu vādinoẖ kṣobhasajjayoḥ /
+aśve nāvānayan madhyevitastaṃ sakiśorake // jrt_190 //
+
+bālāśvaṃ pātitaṃ nadyāṃ nāvo rājñā mahādhiyā /
+haṭhād anvapatan mātā parā param aheṣayat // jrt_191 //
+
+sandigdhavyavahārāṇām evaṃ niścayakāriṇi /
+tasmin rājñi jano 'maṃsta kṛtaṃ yugam ivāgatam // jrt_192 //
+
+śrīdevasvāminaṃ śaivīṃ dīkṣāṃ yācan narādhipaḥ /
+nānvagrāhi sa bhauṭṭatvāt tenāpātratvaśaṅkayā // jrt_193 //
+
+anujas tanujo bandhur mantrī sahacaras sakhā /
+vyālarājo nṛpasyābhūt satyaikavrataniṣṭhayā // jrt_194 //
+
+jahau vyālaẖ kṛtaṃ rājñā na sa vyālakṛtaṃ punaḥ /
+mano hi kāyikaṃ hanti tatkṛtaṃ na vapuḥ punaḥ // jrt_195 //
+
+kalānidhau rasamaye vyāle bhūlokabhāsvataḥ /
+mūrchitā rucir acchaitsīd acchedyaṃ jagatāṃ tamaḥ // jrt_196 //
+
+[ps-jrt 11]
+praveṣṭukāmaṃ kaśmīrān nivartayitum añjasā /
+ḍulcyaṃ dhanaprayogeṇa yo visṛṣṭo mahībhujā // jrt_b.229 //
+
+avamantrya praviṣṭe 'tha ḍulucye bhayato gataḥ / gāndhāradeśaṃ udyānadevo labdhāntaras tataḥ // jrt_b.230 //
+
+śrīmān udyānadevo 'tha randhrapraharaṇodyataḥ /
+samādikṣata ṭakkādīn gāndhārastho bhayād iti // jrt_197 //
+
+"jīvatām eva gantavyaṃ jāne tan nagarāntaram /
+yat sevyate 'viśeṣajñas svāmī sammānalipsayā // jrt_198 //
+
+bhuṅkte vyālaś śriyaṃ prāṇapaṇair yuṣmābhir arjitām /
+karau sādhayato yatnād rasanā bhogabhāginī // jrt_199 //
+
+īśvaro bhūtiliptāṅgo vyālaṃ hārīcikīrṣati /
+anāsthāṃ tu suvarṇeṣu yuṣmāsu vidadhāti saḥ // jrt_200 //
+
+kṣīramātraikapāyitvaṃ nimittīkṛtya bhūpatiḥ /
+yuṣmacchauryābhiśaṅkitvāt timiṃ timim ivāvadhīt" // jrt_201 //
+
+evaṃ sandeśanirbhinnāṣ ṭakkādyāś śukkalaṅkitāḥ /
+viṃśaprasthe kadācit te prajahrur atha bhūbhujam // jrt_202 //
+
+tatkhaḍgadhārāsampātair vyālas teṣāṃ hṛdantarāt /
+svaiśvaryatāpam anudad rājāmūrchat tu kevalam // jrt_203 //
+
+te 'tha labdhajayammanyās tadvadhāpoḍhamanyavaḥ /
+nagarāntar yayū rājyagrahaṇārtham ahaṅkṛtāḥ // jrt_204 //
+
+kṣaṇaṃ mṛta iva sthitvā bhūyoghātabhayān nṛpaḥ /
+dūraṃ gatān ripūn dṛṣṭvā rājye rājodatiṣṭhata // jrt_205 //
+
+ārukṣan rājadhānīṃ te yāvat tāvan narādhipam /
+apetamūrcham āyāntam adrākṣuẖ kṣudrabuddhayaḥ // jrt_206 //
+
+"tvayā kiṃ na tvayā kiṃ na hato rāje"ty anītayaḥ /
+parasparavivādāt te tatkālaṃ cukṣubhur jaḍāḥ // jrt_207 //
+
+anyo'nyamanyavo 'nyo'nyaloṭhanād rājasadmanaḥ /
+kartavyaṃ maraṇaṃ rājñā vyadhus svasya svayaṃ jaḍāḥ // jrt_208 //
+
+śeṣān rājātha duśśīlāñ chūlāropeṇa kevalam /
+uccaistām anayan mānī sarvathādhogatiṃ punaḥ // jrt_209 //
+
+sagarbhā vairikoṭṭastrī roṣavān sa vyadīdarat /
+asibhir bhūpatir garbhaśāliśimbīr nakhair iva // jrt_210 //
+
+taddroharoṣajā pīḍā rājñas tatkulamāraṇāt /
+citte śāntim agāt khaḍgaghātotthā na tu mūrdhani // jrt_211 //
+
+dussvapnam iva tad dṛṣṭvā ṭakkādicaritaṃ kṣaṇāt /
+prabuddheva punaḥ prāpad abhayena śamaṃ mahī // jrt_212 //
+
+adrohamadhyage rājā śāhamere prasannadhīḥ /
+sakoṭāmātṛkaṃ vṛddhyai svaputraṃ haidaraṃ dadau // jrt_213 //
+
+vardhitaẖ koṭayā devyā prāvṛṣeva mahīruhaḥ /
+sacchāyatvaṃ sphuratpattraś śāhamero nyaṣevata // jrt_214 //
+
+parikhācchalato 'kīrtyā svaparājayajātayā /
+parito valitaṃ rājā svanāmāṅkaṃ puraṃ vyadhāt // jrt_215 //
+
+pauṣadurdinamārtāṇḍasannibho dharaṇīpatiḥ /
+māsāṃś ca katicid bhūyaḥ prakāśam akarod bhuvaḥ // jrt_216 //
+
+hemante śaityapāruṣyadoṣeṇa dharaṇīpateḥ /
+marutkopena naiviḍyaṃ śiraḥpīḍāgrahīttarām // jrt_217 //
+
+sadānekottamāṅgānāṃ pīḍāharaguṇaśriyaḥ /
+bhūpater uttamāṅgasya pīḍā kaṣṭam avardhata // jrt_218 //
+
+ekādaśyāṃ tataḥ pauṣe navanandāṅkavatsare /
+nirastā mṛtyuvaidyena bhūpater mṛtyuvedanā // jrt_219 //
+
+ekādaśadinair nyūnau māsau trīn vatsarān api /
+kṣamāṃ saṃrakṣya sa svargaṃ yayau riñcanabhūpatiḥ // jrt_220 //
+
+14) udyānadeva (ls 4399-4414)
+
+putraṃ haidaranāmānaṃ bālyād anabhiṣiktavān /
+atathāvidhaśaktitvād rājyaṃ svenāpy asaṃvahan // jrt_221 //
+
+lavanyaiẖ kulanāthatvād riñcane pratighād api /
+avyāhatapraveśāśo matimāñ śāhamerakaḥ // jrt_222 //
+
+samaṃ śrīkoṭayā devyā mūrtayeva jayaśriyā /
+tadodayanadevaṃ taṃ kaśmīrakṣmām alambhayat // jrt_223 //
+
+rājyalakṣmīmahādolā guṇabaddhā garīyasī /
+riñcanoccaiḥpadaṃ gatvā rājādhaḥpadam aśrayat // jrt_224 //
+
+rājā śāhmeraputrau tau jyaṃśirāleśirau tadā /
+kramarājyādideśānāṃ svāmyadānād arañjayat // jrt_225 //
+
+dhīr ivāsīt tadā koṭā devī sarvādhikāriṇī /
+rājā deha ivātyarthaṃ tadādiṣṭaṃ samācarat // jrt_226 //
+
+tejasā pihitāny āsan yāni riñcanabhāsvataḥ /
+lavanyajyotiṣāṃ rājapradoṣe 'bhūt tadodayaḥ // jrt_227 //
+
+yasyākramyata saumyasya gṛhiṇyā koṭayā gṛham /
+viṣayākramaṇaṃ tasya lavanyaiẖ kiṃ nu śocyate // jrt_228 //
+
+lavanyadeśacaṇḍālagṛhasparśavivarjakaḥ /
+sa śrotriya ivānaiṣīt kālaṃ snānatapojapaiḥ // jrt_229 //
+
+āstikatvaṃ kiyat tasya varṇyate varṇadhāriṇaḥ /
+krimimardabhayād ghaṇṭāṃ yo 'badhnād vājino gale // jrt_230 //
+
+tāvad draviṇatām eva kośālaṅkaraṇaṃ dadhat /
+kaṇṭhabhūṣāṃ samauliṃ sa cakriṇe 'dita kāñcanīm // jrt_231 //
+
+atha mugdhapurasvāmidattānīkinyahaṅkṛtaḥ /
+kaśmīrān acalo 'vikṣad balād ḍalca ivāparaḥ // jrt_232 //
+
+svapakṣair ākṣipaty āśā balenākramya medinīm /
+nācale gotrabhittvaṃ sa kartum aiṣṭa mahīvṛṣā // jrt_233 //
+
+prāpte bhīmānakaṃ tasmin sasainye dainyam āśritaḥ /
+bhoṭṭadeśam agāt tūrṇam urvīparivṛḍho bhayāt // jrt_234 //
+
+"nivartaya camūm anyāṃ kiṃ mithyā deśapīḍayā /
+arājakās tvayā pālyāẖ kaśmīrāẖ kulanāthavat" // jrt_235 //
+
+iti śrīkoṭayāmātyaiḥ preritair lekhadhāribhiḥ /
+āsārasainyam acalaḥ pratyamuñcad vimohitaḥ // jrt_236 //
+
+pratimuktanijāsāras sārahīno 'calas sa taiḥ /
+mārgotsavacchalāt kañcit kālaṃ mārge vilambitaḥ // jrt_237 //
+
+tāvac chrīkoṭayā devyā tadā pālayituṃ prajāḥ /
+bhauṭṭaẖ kheriñcano nāma rājabhāve nyayujyata // jrt_238 //
+
+pramītabhartṛkotpannamṛtāpatyeva sā tadā /
+adūyata nijais sarvaiś cirasyācalaśemuṣī // jrt_239 //
+
+tuṣāraliṅgapūjābhiẖ kṛtārthīkṛtya vāsarān /
+bhoṭṭadeśān nijaṃ deśam agacchad vītabhīr nṛpaḥ // jrt_240 //
+
+udayādribhuvā pūrṇaś śaśīvātha sa koṭayā /
+kheriñcanatamonāśī śirasādhāri sādaram // jrt_241 //
+
+yaṃ koṭāsūta jaṭṭākhyaṃ bhikṣaṇākhyasya mantriṇaḥ /
+vardhanāyātmajaṃ rājā sa taṃ mṛtyum ivādita // jrt_242 //
+
+śāhameras sa vīro 'tha paripālitaraiñcaniḥ /
+acakṣuṣyaẖ kṣamābhartuḥ putrapremabharād abhūt // jrt_243 //
+
+devyās tu samadṛṣṭitvāt putrayor ubhayor api /
+rājño dveṣyo 'pi śāhmero na bhayena sa paspṛśe // jrt_244 //
+
+acalopaplavātaṅke bhayāl lokais samāśritaḥ /
+śāhmeraś sa rājānaṃ na tṛṇāyāpy ajīgaṇat // jrt_245 //
+
+śāhmero haydaraśyenaṃ darśayitvā muhur muhuḥ /
+abhāyayattarāṃ rājapakṣiṇaṃ taṃ divāniśam // jrt_246 //
+
+rakṣaṃs taṭasthān udvegarahito jalavarjitaḥ /
+alleśvarāmbupūras sa prajāś citram atārayat // jrt_247 //
+
+śiraśśāṭakahindākhyau samabhūṣayatām ubhau /
+candrārkāv iva tasyāśāṃ śūrau pautrau guṇocchritau // jrt_248 //
+
+dvāraiśvaryāt sphuraddarpo rājājñālaṅghanodyataḥ /
+śāhmeras sa vipaddvāram abhūd bhūpatisevinām // jrt_249 //
+
+so 'lleśirasutāṃ dattvā lustasya tadadhīśituḥ /
+srīśaṅkarapuraṃ jitvā rājñaś śaṅkām avardhayat // jrt_250 //
+
+vaśe telākaśūro 'sya bhāṅgilaiśvaryabhājanam /
+jyaṃśirasya sutāṃ hastekṛtya kṛtyavido 'bhavat // jrt_251 //
+
+bahurūpajayī lakṣmīnidhir acyutatāpadam /
+śamālāṃ sa nṛsiṃho 'tha daityaśriyam ivādunot // jrt_252 //
+
+makarālayagāmbhīryaẖ karālambo jayaśriyaḥ /
+karāle sa karālaujāẖ karam ālambayaj janān // jrt_253 //
+
+asismarat smerayaśā dahyamānam itas tataḥ /
+rājñaẖ kalaśadevasya vijayeśapuraṃ tataḥ // jrt_254 //
+
+sthityai prakalpya cakrasya svasya cakradharācalam /
+śāhmero 'calakāryāṇi janasya samadarśayat // jrt_255 //
+
+kampaneśvaralakṣyasya lakṣmīsarvasvatāṃ dadat /
+citraṃ sa labdhavāñ śuddhaṃ sudāyam iva sadyaśāḥ // jrt_256 //
+
+narendraraṅgaśailūṣaṃ koṭarājam athāgrahīt /
+śāhmeras tanayāratnagrahaṇonmānakena saḥ // jrt_257 //
+
+sāmnā kecit pare daṇḍād dānād anye pare bhayāt /
+mānyatām anayan dhanyā lavanyās tasya śāsanam // jrt_258 //
+
+lavanyalokas tatputrīr mālā iva babhāra tāḥ /
+nājānād bhujagīr ghoraviṣāḥ prāṇaharīḥ punaḥ // jrt_259 //
+
+rājabījividheyatvān mantrād vikramataś ca vā /
+kaś śāhmeraharer nābhūl lavanyadvirado vaśe // jrt_260 //
+
+śāhamerāmbupūreṇa kāmanollāsaśālinā /
+ākrāntaḥ parito rājā mṛdrāśisthadrumopamaḥ // jrt_261 //
+
+puramātrādhipatyotthalajjayeva mahīpateḥ /
+jīvitaṃ dūram agamac chuddhena yaśasā samam // jrt_262 //
+
+śivarātritrayodaśyāṃ varṣe rājā caturdaśe /
+kṣamāvān sa kṣamām aujjhīc śāhmerasparśadūṣitām // jrt_263 //
+
+[ps-jrt 12] abdān pañcadaśa dvau ca māsau dvau vāsarāv api / kaśmīrakāśyapībhogam akārṣīt sa mahīpatiḥ // jrt_b.298 //
+
+15) koṭā devī (ls 4414-4415)
+
+atha śāhmerabhītyā śrīkoṭā catvāry ahāni sā /
+gūḍheṅgitānayad guptiṃ bhūpālapramayādikam // jrt_264 //
+
+"śāhmero matsutadvārā sāmrājyaṃ svīkarotu mā" /
+iti jyāyāṃsam utsṛjya bālatvāc ca paraṃ sutam // jrt_265 //
+
+putrasnehena vṛddhatvadoṣeṇa ca vimohitā /
+avaruddham anicchantī śrīkoṭā mahiṣī tataḥ // jrt_266 //
+
+strībhāvād bandhubhāvāc ca lavanyair upabṛṃhitā /
+asāntvayat svayaṃ bhūmiṃ vidhavāṃ svāṃ sakhīm iva // jrt_267 //
+
+[ps-jrt 13] sā rājñī śuklapratipadvītabhītā bhavanty atha / rājānaṃ gurubhis svīyaiś carameṣṭim avāpipat // jrt_b.303 //
+
+pūrvopakārasmaraṇāc chāhamerādayo 'khilāḥ /
+tāṃ prāṇamann amātyās svāṃ cāndrīm iva navāṃ kalām // jrt_268 //
+
+śamayantyā rajas sarvaṃ tāpāpahatidakṣayā /
+tayā nidāghavṛṣṭyeva latās saṃvardhitāḥ prajāḥ // jrt_269 //
+
+śāhmerāt svodayabhraṃśaśaṅkinī bhaṭṭabhikṣaṇam /
+tadudrekavināśārthaṃ mānaṃ devī nināya sā // jrt_270 //
+
+dustareṣu mahābhītijalapūreṣu sā tataḥ /
+tatprajñānāvam āruhya kāryapāraṃ paraṃ yayau // jrt_271 //
+
+antas sehe na śāhmeras taddattaṃ bhikṣaṇodayam /
+mānavantas sahante hi cchāyāsāmyaṃ kathañcana // jrt_272 //
+
+vartate dhūmatāpādilakṣaṇaṃ jātavedasaḥ /
+dhīmato 'sya na kiñcit tu roṣaliṅgam alakṣyata // jrt_273 //
+
+chalābhinītarogeṇa śāhamereṇa dhīmatā /
+pratyāsannavināśatvam ātmanas samakathyata // jrt_274 //
+
+tasyātha pratyavekṣārtham avatārādibhis saha /
+vyasarji koṭayā devyā sa śrīmān bhaṭṭabhikṣaṇaḥ // jrt_275 //
+
+"svedaẖ kupitapittasya hito no ve"ti vādibhiḥ /
+sampraveśān nyaṣidhyanta dvāssthais tadanuyāyinaḥ // jrt_276 //
+
+tau bhikṣaṇāvatārau dvau tatsamīpam avikṣatām /
+sāṅkaṭyād iva tatprāṇarakṣiṇyo devatā na tu // jrt_277 //
+
+anuyuktāmayodantas sa kālena tayor nijaiḥ /
+gātre nyakhānayac chastrīr ādhīn svasyodakhānayat // jrt_278 //
+
+sirābhiś śoṇitaṃ vāṣpaṃ dṛśāṅgais sakalair asūn /
+tau dvāv amuñcatāṃ sadyas taddveṣaṃ sa ca cetasā // jrt_279 //
+
+tad eva vraṇadīpārkapūrṇapātrārdhatacchiraḥ /
+rogamokṣocitaṃ snānaṃ sa tayoś śoṇitair vyadhāt // jrt_280 //
+
+"bhavannandanasaṃrakṣāparāv etāv ubhāv api /
+tayor anyatamaṃ dvārīkṛtyānyam aharad vidhiḥ // jrt_281 //
+
+pramītadvijaśokotthatāpaśāntyai jaḍaḥ param /
+paraprāṇān roṣavahnau pradīpte juhuyād" iti // jrt_282 //
+
+śāhmeraṃ roddhukāmāṃ tāṃ samarthām api durdhiyaḥ /
+koṭādevīm amātyās svā naye buddhiṃ nyavārayan // jrt_283 //
+
+kedāram iva kulyā sā pānīyena maharddhinā /
+lokam āpyāyayām āsa sāmrājyotpalacandrikā // jrt_284 //
+
+ājñāvyatikramāj jātu kampanādhipatiṃ prati /
+yuyutsur akarod yātrām amitrābjaśaśiprabhā // jrt_285 //
+
+saṅkaṭāt kampaneśas tāṃ kulāyād iva pakṣiṇīm /
+jīvagrāhaṃ gṛhītvātha kārāpañjaram ānayat // jrt_286 //
+
+mantrī kumārabhaṭṭākhyas tasyās sacivapuṃgavaḥ /
+tanmokṣasiddhaye 'kārṣīt tadāmātyaiś chalāt kalim // jrt_287 //
+
+rājñyāḥ puṃbhāvamātreṇa bhinnam ākārasannibham /
+kamaṇḍalukaraṃ kañcit so 'dhād vidyārthinaṃ śiśum // jrt_288 //
+
+gatvā sa kampanādhīśaṃ dhīpraśaṃsāvimaṇḍitaḥ /
+sauṣṭhavaudāryasampattiśālinīṃ vācam abhyadhāt // jrt_289 //
+
+"svaśiro malinīkṛtya jīvatāṃ yoṣidājñayā /
+puruṣatvaṃ tvayā svāmin kṛtārthīkriyate 'dya naḥ // jrt_290 //
+
+[ps-jrt 14] strītvāt kātaracittāyā dānabhogotsavadviṣaḥ / rājñyā bandhuṣu sainyāntar draviṇaṃ vartate mahat // jrt_b.327 //
+
+gatvā tvadājñayā kārāṃ tasyās tarjanasāntvanaiḥ /
+dhanaṃ janas tvadīyo 'yaṃ svāmisātkartum icchati // jrt_291 //
+
+strītvād aśaktā dātuṃ sā samacaiṣīd dhanaṃ yataḥ" /
+vyasṛjat kampaneśas taṃ kārām evaṃ vimohitaḥ // jrt_292 //
+
+kārāyā nirgamiṣyantīṃ devīṃ koṭām ivekṣitum /
+tatkālam eva sandhyāgāj jagadrañjanakovidā // jrt_293 //
+
+sandhyāvandanayogyāmbuvāhinā vaṭunā saha /
+asau kārām avikṣac ca rājñyāś niraguś śucaḥ // jrt_294 //
+
+rājñīveṣabhṛtaṃ tatra sthāpayitvā vaṭuṃ sa tam /
+tadveṣadhāriṇīṃ koṭām anvādāya viniryayau // jrt_295 //
+
+rakṣitāro 'pi nājānaṃs tad yāvat tāvad eva sā /
+kampanādhipatiṃ cakre svacakrebhaśakṛtkarim // jrt_296 //
+
+sā brāhmaṇakumāreṇa mocitā bhaṭṭabhikṣaṇāt /
+ekadantahatāreẖ kiṃ nānyenebhamukhād bhavet // jrt_297 //
+
+tayānapodito 'py aujjhi śāhmero naiva śaṅkayā /
+kṛtavairās samarthena prājñā naiva hy udāsate // jrt_298 //
+
+na prāsīdan na cākupyat tasmin sā balaśālini /
+ghṛṇā pramādasahitā vināśaprathamāṅkuraḥ // jrt_299 //
+
+[ps-jrt 16]
+devyā vāsaṃ vimuñcantyās tasyā dhanarasāśrayam /
+śāhmere viṣavallīva drohadhīr abhyavardhata // jrt_b.337 //
+
+vardhano 'nyatarasyābhūt pakṣo 'nyasya kṣayāvahaḥ / koṭāśāhmerayor asti kṣitimārutayor iva // jrt_b.338 //
+
+jayāpīḍapuraṃ yāntyāṃ tasyāṃ kāryānurodhataḥ /
+śāhamero balī jātu nagaraṃ svīcakāra saḥ // jrt_300 //
+
+tasmiṃl lavanyalokena gṛhītājñe balīyasi /
+rājñī samavṛṇot koṭṭadvāraṃ saha jayāśayā // jrt_301 //
+
+[ps-jrt 17] nivṛttanetracārasya capalatvaikakāraṇam / ākhur bilagato votoś śāhamerasya sābhavat // jrt_b.341 //
+
+niruddhe balinā koṭaguhābhre matiśālinā /
+nṛsiṃhenābhajat koṭā sṛgālīva muhur bhayam // jrt_302 //
+
+[ps-jrt 18]
+"tuṅgatvaṃ maṅgalāsaṅgam abhaṅgurataraśriyam /
+rājyāṅgaiś ca nijāṅgaiś ca dattai rājñī karotu me // jrt_b.343 //
+
+adhyaśetatarāṃ rājñī matputrāṇāṃ na kevalam / prāṇānām api caiśvaryaṃ ślāghyā sukhaparamparā" // jrt_b.344 //
+
+"siṃhāsane mayā sākaṃ śriyā sākaṃ mamorasi /
+kṣamayā saha citte me rājñī niviśatāṃ svayam" // jrt_303 //
+
+tām evamādisandeśair mugdhāṃ sammohya yatnataḥ /
+haste cakāra koṭakṣmāṃ koṭādevīṃ ca buddhimān // jrt_304 //
+
+ekasmiñ śayane rātrim ativāhya tayā samam /
+sa prātar utthito jātu tīkṣṇair devīm arodhayat // jrt_305 //
+
+varṣe pañcadaśe śukladaśamyāṃ nabhasas tataḥ /
+tāreva nabhaso rājyād rājñī bhraṃśam alabdha sā // jrt_306 //
+
+tatputrāv api tau dvau sa karaṇīyavicakṣaṇaḥ /
+babandha bandhusambandhikalpavṛkṣo bhaṭāgraṇīḥ // jrt_307 //
+
+16) šams ad-dīn ibn ṭāhir mirzā (šāh mīr) (ls 4415-4418)
+
+svaṃ rūpaṃ cidacidbhir ebhir abhito vyañjat svayaṃ nirmitair yasyonmīlati deśakālakalanākallolitaṃ tan mahaḥ /
+ātmā vāstu śivo 'stu vāstv atha haris so 'py ātmabhūr astu vā buddho vāstu jino 'stu vā bhagavate tasmai namaẖ karmaṇe // jrt_308 //
+
+bhiyaṃ lavanyalokeṣu kīrtiṃ dikṣu mahīṃ bhuje /
+lakṣmīṃ vakṣasi koṭāṃ ca kārāyāṃ sa tato vyadhāt // jrt_309 //
+
+nītvāvasthāntaraṃ daussthyaśamāt kaśmīramaṇḍalam /
+śrīśaṃśadīna ity ākhyām anyāṃ svasya vyadhān nṛpaḥ // jrt_310 //
+
+[ps-jrt 19] rājā satīsaraẖkṣoṇiśuktimuktāmaṇis tataḥ / arthacintāmaṇir vairiratnavajramaṇir babhau // jrt_b.353 //
+
+mahābale bhuje tasya kāṣṭhoddīpanaśālinaḥ /
+maurvīkiṇaḥ pratāpāgner adhūmayad anantaram // jrt_311 //
+
+prāharan mantriṇāṃ rājā saṃśayaṃ na tu tasya te /
+bhinatty anyān maṇīn vajro nānyaratnāni taṃ punaḥ // jrt_312 //
+
+[ps-jrt 20]
+rājyādhikārān akhilān strībhāvād dussahān svayam /
+yeṣu viśvāsapātreṣu śrīkoṭā svayam arpipat // jrt_b.356 //
+
+tejomahimneva ravis tamāṃsīva guhāntarāt / jrt_b.357ab /
+
+sa rājā rājato rājasthānīyān kāṣṭhavāṭagān /
+bhayāt tato 'pi vidrāvya ślāghanīyayaśā babhau // jrt_313 //
+
+[ps-jrt 21]
+yatra sandhyātapasy eva lavanyais timirair iva /
+arodhi rucisañcāras svāmino balaśālibhiḥ //
+
+kaśmīramaṇḍalaṃ caṇḍaśauryadaṇḍitavidviṣā /
+kramāgatam ivāśeṣaṃ kṣaṇāt tena vaśīkṛtam // b 358a-h //
+
+hṛtveva hṛdayāt kampaṃ sampadāpi tadā sa ca / vāmetareṇa lokasya bāhunā nayanena ca // jrt_b.359 //
+
+ciraṃ dhuraṃ parinyasya putrayos svād anūnayoḥ /
+nayocchritayaśā rājyaṃ sukhaṃ bhuṅkte sma bhūpatiḥ // jrt_314 //
+
+sapañcavāsarān bhuktvā trīn abdān medinīpatiḥ /
+aṣṭādaśe 'bde rākāyām āṣāḍhyāṃ sa vyapadyata // jrt_315 //
+
+17) ǧamšīd (ls 4418-4420)
+
+atha prathamasāmantais sammatājñas sa jyaṃśiraḥ /
+satīsaraẖkṣitirakṣām akṣāmaśrīr aṭaṅkayat // jrt_316 //
+
+rājyatoraṇasaṃvāhastambhābhyāṃ dharaṇīpateḥ /
+anujo balabuddhibhyām agamac chaṅkanīyatāṃ // jrt_317 //
+
+naiva dānaṃ na cādānaṃ nigrahaṃ nāpy anugraham /
+vihāraṃ na na cāhāraṃ rājño nyūnaṃ sa hi vyadhāt // jrt_318 //
+
+[ps-jrt 22] vidyāpraṇayavijñānaprajñātiśayaśālinaḥ / yuvarājān mahārājo vayasaivādhiko 'bhavat // jrt_b.365 //
+
+prāgvad viśvāsasampattim akurvati mahībhuji /
+yuvarājo manāk cakre nikaṭasthair viraktadhīḥ // jrt_319 //
+
+tadvaimanasyavṛttāntaśravaṇacchidralābhataḥ /
+yuvarājaṃ tato rājasthānīyāḥ prāhur añjasā // jrt_320 //
+
+āgate vigrahe vyaktiṃ rājasthānīyasaṃśrayāt /
+so 'gād avantinagaraṃ tanmūlasthānam uddhataḥ // jrt_321 //
+
+athotpalapuraṃ rājā bhaṭais saha raṇodbhaṭaiḥ /
+aśiśrayad idaṃ bhrātur vācikaṃ ca visṛṣṭavān // jrt_322 //
+
+"durjanapreraṇāt tvaṃ cen matsnehaṃ nābhyajīgaṇaḥ /
+lokāpavādajvarataẖ kathaṃ kampo na jāyate // jrt_323 //
+
+anyo'nyapālanāyājñāṃ rājñas tridivagāminaḥ /
+pālanīyām anudhyāya pratyānaya dayāṃ mayi" // jrt_324 //
+
+iti sandiśya dūtaṃ ca vyasṛjat sa nareśvaraḥ /
+kampanādhipatiṃ hantuṃ vyasṛjac ca nijātmajam // jrt_325 //
+
+"mṛgayāṃ yuvarājo 'gād" iti dūtaṃ nyarodhayat /
+bhrātṛputraṃ nihantuṃ ca śrutadroho 'gamac ca saḥ // jrt_326 //
+
+"dūtaẖ kim iti nāyātaẖ kālo hi suciraṃ gataḥ" /
+iti cintākulo lakṣmabhaṭṭo rājāntikam yayau // jrt_327 //
+
+ūce ca "jāne sa drohaṃ lakṣayitvā tavānujaḥ /
+tvatputramāraṇāyāgād yad dūtasya cirāgamaḥ // jrt_328 //
+
+snāti bhuṅkte svapity eva yuvarāja iti cchalāt /
+tvadudyoganiṣedhāya nūnaṃ ruddho vacoharaḥ // jrt_329 //
+
+tad avantipuraṃ tasmiñ śrīdevasarasaṃ gate /
+sadyo nissvāmikaṃ hanmo jayo 'smākaṃ tato dhruvaḥ" // jrt_330 //
+
+athāvantipuraṃ gatvā sattvātiśayaśālinā /
+rājñā yuddhaṃ tathākāri tadbhaṭair udbhaṭais samam // jrt_331 //
+
+alleśirāya bhṛtyānāṃ vadhaṃ nūnaṃ niveditum /
+vitastā śavaruddhaughā pratīpam agamad yathā // jrt_332 //
+
+bhrātṛputraṃ parābhūya tāvad alleśire drutam /
+vyāvṛtte raṇakhedārtaḥ prapalāyata jyaṃśiraḥ // jrt_333 //
+
+[ps-jrt 23]
+dīpasyeva śikhā dhvānte yasya dhīr āpadi sphuret /
+sa ratnaṃ ratnajāteś ca pāṣāṇebhyaẖ kim antaram // jrt_b.381 //
+
+samadhitsata bhedāya kañcit kālaṃ sa vairiṇam / amoghā dūragā buddhiś śastrāṇy apy ativartate // jrt_b.382 //
+
+anayor "naiva kartavyaẖ kalir māsadvayīm" iti /
+rājñā samaṃ vidāṃ cakre dhīmān alleśiras tataḥ // jrt_334 //
+
+pratimucya nijān yodhān avantipuram utsṛjan /
+atha kṣīrīpathenāsāv alleśo 'gamad ikṣikām // jrt_335 //
+
+nagarīrakṣitāṃ nyasya sayyarāje svamantriṇi /
+kramarājyaṃ virājacchrīr jyaṃśiraś cāgamat tadā // jrt_336 //
+
+dānamānau pratiśrutya sayyarājaṃ vibhindatā /
+yuvarājena nagarī svīkṛtā mantrayuktibhiḥ // jrt_337 //
+
+nāmarājatayā duẖkhaṃ bhuktvā kaśmīramaṇḍale /
+māsadvayonau dvau varṣāv avasānam agān nṛpaḥ // jrt_338 //
+
+18) ‘alā' ad-dīn (ls 4420-4430)
+
+jānann alāvadeno 'tha taṃ kālaṃ kalahākṣamam /
+dvāraiśvaryaṃ dadau bhrātus sadyo vighnanivṛttaye // jrt_339 //
+
+salilottaraṇopāyaṃ setuṃ suyyapure vyadhāt /
+vipatsantaraṇopāyaṃ na punar jyaṃśiro 'smarat // jrt_340 //
+
+pathikānām nivāsāya tena parvatasīmani /
+kakṣyāvibhāgasahitas svanāmnā racito maṭhaḥ // jrt_341 //
+
+[ps-jrt 25] kapaṭāpattrapāropād rājñaḥ prāptavibhīṣakaḥ / svayaṃ dvāraṃ tyajan so 'gād grāmaṃ jyeṣṭheśvarābhidham // jrt_b.391 //
+
+evaṃ vikramanītibhyāṃ deśaṃ śodhayato nijam /
+śrīśiraśśāṭako rājño dvāraiśvaryam avāptavān // jrt_342 //
+
+tasya rājño 'bhavat putro nāmnā śāhābhadenakaḥ /
+balabuddhikṣamāśauryamantrotsāhaguṇair yutaḥ // *26 //
+
+rājaputras sa vākpuṣṭāṭavīṃ līlārasād aṭan /
+yoginīcakram adrākṣīt kadācid girigahvare // jrt_343 //
+
+udayaśrīs tathā candraḍāmaraś cāsya vallabhau /
+apaśyatāṃ na kiṃ labhyaṃ mahatām anuyānataḥ // jrt_344 //
+
+acalal lāḍanādaṇḍaghaṇṭānāṃ caṇḍaṭāṅkṛtam /
+manāṃsi na punas teṣāṃ vīrāṇāṃ sāhasaspṛśām // jrt_345 //
+
+[ps-jrt 26] ghaṭitāśātaṭasvāṭṭahāsasaṃvāhanādibhiḥ / yoginyo ḍamarudhvānair bhayād iva calair babhuḥ // jrt_b.396 //
+
+māntardhāsiṣur evaitāḥ praṣṭuṃ draṣṭuṃ ca kāṅkṣitāḥ /
+iti te 'śvād avārohan pravīrā na tu tadbhayāt // jrt_346 //
+
+śanaiś śanais tato yānto maunapūrvaṃ mahāśayāḥ /
+yoginīnikaṭaṃ prāpur vikaṭaprakaṭaujasaḥ // jrt_347 //
+
+yoginīnāyikā dūrāt parijñāya nṛpātmajam /
+sāśiṣaṃ śīdhucaṣakaṃ prāhiṇon mantritaṃ tataḥ // jrt_348 //
+
+candras tad amṛtaṃ tṛptibhājā rājñāvaśeṣitam /
+udayaśrīmukhāpekṣī na saṃtṛptim aśeṣayat // jrt_349 //
+
+bhavitavyabalād aśvapālaṃ sapadi vismaran /
+udayaśrīr aśeṣaṃ tat pītvā tṛptiṃ parām agāt // jrt_350 //
+
+āścaryatṛptanetreṣu teṣu tṛpteṣu yoginī /
+nimittajñāvadad rājaputraṃ baddhāñjaliṃ tataḥ // jrt_351 //
+
+"akhaṇḍaṃ bhāvi te rājyaṃ candras tvadvibhavāṃśabhāk /
+ājīvam udayaśrīś ca maṇḍito 'khaṇḍayā śriyā // jrt_352 //
+
+aśvapālas tv asāv asmadanugrahavivarjitaḥ /
+acireṇaiva kālena nūnaṃ prāṇair viyujyate" // jrt_353 //
+
+bhaviṣyat sūcayitvaivaṃ yoginībhis samanvitā /
+sāntardadhe puraḥ prāṇāḥ paścāt turagapālinaḥ // jrt_354 //
+
+avicāratamomagnāñ jantūn uddhartum īśvarāḥ /
+sambhavanti prajāpuṇyaiḥ prakāśotkarṣahetavaḥ // jrt_355 //
+
+śvaśurād bhartṛbhāgaṃ yad avīrā puṃścalī vadhūḥ /
+haranty āsīt sa taṃ rājā durācāraṃ nyavārayat // jrt_356 //
+
+[ps-jrt 28]
+kāṣṭhavāṭāgatān rājasthānīyān vyūhatatparān /
+yuktyānīya mahīpālo baddhvā rājyaṃ sukhaṃ vyadhāt // jrt_b.408 //
+
+koṭarājasya jāmātuẖ kārāvāstavyatāṃ vyadhāt /
+bhītyā pratyaham evātha jīvanmṛtyum avārayat // jrt_b.409 //
+
+bubhuje kṣemarājaśrīsvasthāṃ śastranakhaiś śataiḥ / vidārya khaṭikābhūmiṃ rājā saukaryabhājanam // jrt_b.410 //
+
+jayāpīḍapure kṛtvā rājadhānīṃ mahāmatiḥ /
+śrīriñcanapure cakre rodham buddhagirābhidham // jrt_357 //
+
+ekonatriṃśe 11 varṣe 'tha duṣkṛtodbhavam adbhutam /
+durbhikṣaṃ kṣobhayām āsa lokaṃ śokākulaṃ mahat // jrt_358 //
+
+māsān aṣṭau dvādaśābdāṃs trayodaśa dināni ca /
+kṣmāṃ bhuktvā triṃśavarṣe 'tha caitre rājā vyapadyata // jrt_359 //
+
+19) šihāb ad-dīn (ls 4430-4449)
+
+mandarājakathākhyānāj jaḍimā vāci saṃstutaḥ /
+tīkṣṇapratāpaśāhābadenākhyānād vinaśyate // jrt_360 //
+
+rājñi śāhābadene 'tha smaraṇaṃ kṣitir atyajat /
+lalitādityasampattivipattisukhaduẖkhayoḥ // jrt_361 //
+
+[ps-jrt 29] śrīmān śāhābadeno 'tha prājyaṃ sāmrājyam agrahīt / yena rājanvatī bhūr dyām ahasat tadyaśomiṣāt // jrt_b.416 //
+
+grīṣmārkaṃ dyaur ivānyartūn rājño 'tītya bahūn mahī /
+dhruvam āpaj jayāpīḍam etaṃ na tu sa kilviṣī // jrt_362 //
+
+pūrve pare ca bhūpālā nāyakeneva bhūṣitāḥ /
+kṣmānāyakena tenātha muktāguṇalasacchriyā // jrt_363 //
+
+[ps-jrt 30] sindhau vāḍavataptāmbuny api bimbitam ambaram / yatpratāpāgnitāpārtaṃ majjatīva divāniśam // jrt_b.419 //
+
+tadīyo jayalakṣmībhiḥ praviṣṭābhiḥ pade pade /
+na pratāpānalo 'tṛpyat saridbhir iva sāgaraḥ // jrt_364 //
+
+jayaṃ vinā gaṇayataẖ kṣaṇamātraṃ vṛthā gatam /
+vṛddhasya taruṇīvābhūd yātrā tasyātivallabhā // jrt_365 //
+
+na mṛgākṣī na vā śīdhupānalīlā na candrikā /
+yātraiva kevalaṃ tasya bhūmibhartur mano 'harat // jrt_366 //
+
+na tāpo na himaṃ tasya na sandhyā na niśā tathā /
+na kṣun na vā pipāsā ca rājño yātrām avighnayat // jrt_367 //
+
+na sarid dustaratarā durāroho na parvataḥ /
+durlaṅghyo na maruś cābhūd yātrāyāṃ māninaḥ prabhoḥ // jrt_368 //
+
+ajitāṃ pūrvabhūpālaiḥ pārasīkakulākulām /
+uttarāśāṃ vijetuṃ sa prasthānaṃ prathamaṃ vyadhāt // jrt_369 //
+
+jagatāṃ vijayī kāmo madhuśīdhuvadhūr iva /
+candralolakaśūrān sa sahāyatve 'vṛṇot prabhuḥ // jrt_370 //
+
+sainyacetāṃsi sattvena tamasā svavirodhinaḥ /
+apūrayat sa rajasā digantān uddhatāntakaḥ // jrt_371 //
+
+praviṣṭaṃ tasya govindakhānapālanaśālini /
+udabhāṇḍapure pūrvaṃ bāṇais tadanu sainikaiḥ // jrt_372 //
+
+śailaśṛṅgaṃ nṛpānīke prāpte tasya virodhibhiḥ /
+bhayāturair avārohaś śṛṅgāt tuṅgād vyadhīyata // jrt_373 //
+
+sadṛśaṃ prābhṛtaṃ dātum asamartho 'sya sindhupaḥ /
+upadhīkṛtavān kanyāratnaṃ ādāya bhūpateḥ // jrt_374 //
+
+rājñas tu gauravaṃ bāhau gāndhārāṇāṃ bhuvoḍhayā /
+citraṃ tu lāghavaṃ teṣāṃ bhayabhārānuṣaṅgataḥ // jrt_375 //
+
+bhaṅgas tuṅgasya śṛṅgasya khaḍgānāṃ naiva bhūbhujā /
+śiṅgānām api deśe 'smin vihitaś śauryaśālinā // jrt_376 //
+
+ākarṇya rājasiṃhasya siṃhanādamayīṃ camūm /
+madaṃ tatyāja caskhāla bibhāya gajinīpurī // jrt_377 //
+
+[ps-jrt 31] snātaṃ raktair dviṣāṃ bhuktaṃ prāṇavātair mahītale / vratasthābhir ivāsvāpi tasyāho dhīrahetibhiḥ // jrt_b.434 //
+
+śrotriyakṣatriyair aṣṭanagare 'rodi śāmyatoḥ /
+taruṇāgnipratāpāgnyor dhūmeneva bhayāturaiḥ // jrt_378 //
+
+yaśasā saha sampattiṃ tasmiṃl luṇṭhayati prabhau /
+prāpat puruṣavīrākhyadeśākhyā rūḍhiśabdatām // jrt_379 //
+
+dattavāṣpanivāpāmbhonagarāgraharastriyaḥ /
+jīvatas svasya patyuś ca piṇḍau stananibhād daduḥ // jrt_380 //
+
+aśvapāleṣu gacchatsu ghoṣadhātutaṭacchalāt /
+udakpatitiraskārapraśastiṃ sa vyadhāt prabhuḥ // jrt_381 //
+
+tato vyāvṛtya gacchan sa dakṣiṇāśāṃ svavājinām /
+mārgakhedocitaṃ tāpaṃ śatadrūvāriṇāhanat // jrt_382 //
+
+ḍhillīm ulluṇṭhya tatkālam udakpatim upāgatam /
+mārgarodhena nṛpatir nitāntam udavejayat // jrt_383 //
+
+[ps-jrt] yoginīpurapaurān yān dhāṭyānaiṣīd udakpatiḥ / mārgadānopakāreṇa sa tān adita bhūbhuje // jrt_384 //
+
+turaṅgavastradānena sa tān sammānya bhūpatiḥ /
+svadeśaṃ prāhiṇot kīrtirāśīn mūrtān bahūn iva // jrt_385 //
+
+suśarmapurarājena tasmāt svāśarmaśaṅkinā /
+durgāhaṅkāram utsṛjya devy eva śaraṇīkṛtā // jrt_386 //
+
+[ps-jrt 32] tatpratāpānalaḥ pītvā kedārāśrayiṇāṃ rasam / jātānāṃ śivaliṅgānāṃ vata bhaṅgam adarśayat // jrt_b.444 //
+
+svayaṃ natyā na tūnnatyā bhauṭṭānām asya bhūpateḥ /
+arvatāṃ parvatārohadohado vinivāritaḥ // jrt_387 //
+
+dustaratvāt taṭasthasya devatābhis tanūkṛtaḥ /
+sindhvogho nṛpater evaṃ pūrvebhyaś śrutam adbhutam // jrt_388 //
+
+evaṃ nityajayodyogāt svadeśaḥ paradeśavat /
+paradeśas tu tasyāsīt svadeśa iva bhūpateḥ // jrt_389 //
+
+pratāpeneti sampādya diṅmukhe tilakaśriyam /
+vyadhāt praviśya kaśmīrān sa paurān ayanotsavam // jrt_390 //
+
+tasya varṇayatāṃ śauryaṃ prasaṅgād atimānuṣam /
+asmākaṃ cāṭukāritvaṃ jñāsyate bhāvibhir janaiḥ // jrt_391 //
+
+yātrāyātaẖ kadācit sa dūradeśe mahīpatiḥ /
+apsarassadṛśīṃ kāñcic chrutavān hariṇekṣaṇām // jrt_392 //
+
+nijānugān vañcayitvā rājā yuktyā kayācana /
+athaikākī sa taṃ deśam aviśad bhogalālasaḥ // jrt_393 //
+
+narmaṇā mohayitvā tāṃ dvitīya iva manmathaḥ /
+manorathān asiñcat sa tadoṣṭhāmṛtapānataḥ // jrt_394 //
+
+apaśyantas tam āśaṅkya hataṃ kenāpi vairiṇā /
+atha kopabhramāveśam udbhaṭās tadbhaṭā yayuḥ // jrt_395 //
+
+anviṣyadbhis tam aśvena nibaddhenāṅganād bahiḥ /
+samabhāvyata tai rājño vairibhir nirjayaẖ kṛtaḥ // jrt_396 //
+
+śauryasvāmyanugābhyāṃ tu vidhātuṃ yuddham udbhaṭaiḥ /
+tadbhaṭais sadanaṃ ruddham abaddhakavacāntaraiḥ // jrt_397 //
+atrasadbhiś ca tatsiṃhanādapūrṇāt tataḥ purā / 398ab /
+[ps-jrt] kṛtāskandeṣu śūreṣu śatrubhir vipinaṃ gatam // 398cd //
+
+ athāśvāsya priyāṃ tāṃ tu śatrūn matvā samāgatān / svaśauryaṃ saphalīkartuṃ yoddhuṃ rājā viniryayau // jrt_399 // 
+
+śāhābadenam ālokya taṃ teṣām anujīvinām / 400ab /
+cittaiḥ prītyā mukhair bhītyā nītyā mūrdhabhir ānatam // 400cd //
+evaṃ sa svajayastambhayūpān raṇamakhān bahūn /
+hatavairipaśūṃś cakre svapratāpānalārciṣaḥ // jrt_401 //
+
+svadeśe mantriṇos tasya koṭabhaṭṭodayaśriyoḥ /
+samareṣu bharas tv āsic candraḍāmaralolayoḥ // jrt_402 //
+
+devaśarmānvayodanvaccandro rājñārpitaṃ muhuḥ /
+vairāgyād vibhavaṃ tyaktvā koṭaśarmā vanaṃ yayau // jrt_403 //
+
+[ps-jrt 33]
+śrīvṛṣṭyā koṭabhaṭṭo 'rthisārthān sampoṣya yatnataḥ /
+vyalālayad vanavyomni sa svaṃ niyamamārutaiḥ // jrt_b.462 //
+
+koṭaśarmā tathā dharmadrumaṃ dānāmbhasāsicat / nanāśāśāmayo bhūyo yathā tatphalabhoginaḥ // jrt_b.463 //
+
+tasya darśayituṃ rājñas svabalādhikatāṃ dhruvam /
+kadācit tatprajā daivī vyāpad gāḍham apīḍayat // jrt_404 //
+
+purīkairaviṇīsūraś śūraḥ pādapavidviṣām /
+ṣaṭtriṃśe 'bde jalāpūraẖ krūro vyaplavata prajāḥ // jrt_405 //
+
+[ps-jrt 34] tadantaḥpratibimbasthe svasmin sadmāntarabhramāt / tadvīkṣārtham ivānīke toye tumbīr vyadhur gṛhāḥ // jrt_b.466 //
+
+nagarabruḍanād asru muñcanto nirjharacchalāt /
+tasyodīpasya mahataḥ parvatās taṭatām aguḥ // jrt_406 //
+
+na sa vṛkṣo na sā sīmā na sa setur na tad guham /
+taṭastham api yan naiva jalapūro vyanāśayat // jrt_407 //
+
+nādridurgāṇy apaśyat sa jātucid vairibhītitaḥ /
+ambupūrabhayāt teṣu rājā samacarattarām // jrt_408 //
+
+pīte tattejasevāmbupūre śānte mitair dinaiḥ /
+bhūyas tadviplavāśaṅkī so 'cikīrṣad girau purīm // jrt_409 //
+
+nāmnā lakṣmyā mahiṣyāś ca prasiddhāṃ nagarīṃ vyadhāt /
+svaudāryānuguṇāṃ rājā nirmāṇam avilokayan // 410cd //
+
+śārikāśailarājasya mūle puṇyajanāśritām /
+yām adrākṣīttarāṃ lokas sumeror alakām iva // 410gh //
+
+vitastāsindhusambhede svanāmnā sa purīṃ vyadhāt /
+pratibimbacchalāt toye trapayā svar nimajjati // jrt_411 //
+
+saudhotsedhamayīṃ rāśībhūtāṃ kīrtim ivācalām /
+alolaśrīḥ purīṃ lolaḍāmaras svābhidhāṃ vyadhāt // jrt_412 //
+
+[ps-jrt 35] sudhādhautair maṭhair lakṣmīṃ phalayadbhiẖ kṛtaiḥ purī / kuliśacchinnakailāsaśṛṅgabhaṅgim ajījanat // jrt_b.475 //
+
+ājanmalolatā mahyā svarasāmyāya vardhitā /
+nihanti cchāyayā tasyā dyumaṇisparśajaṃ sukham // jrt_413 //
+
+yā lakṣmyā bhāgineyītvād bālāpāli nijāntike /
+lāsākhyā sā samākrāman nṛpateś cittadarpane // jrt_414 //
+
+yaś cānurodhatantus taṃ ciraṃ lakṣmyā nibaddhavān /
+sa cchinno rāgavegena lāsāsaundaryajanmanā // jrt_415 //
+
+balijinmūrtinā tena vasantyā vakṣasi śriyaḥ /
+prātiveśmikatāṃ nītā lāsā saubhāgyabhāginī // jrt_416 //
+
+chāyā tadracitodayāpi divasaśrībhogam ātanvataḥ sūryāt sammukhatāṃ jahāti vahati śreyoharīṃ kālatām /
+strīṇām asti caturguṇā matir iti sthāne na hanta śrutir yad vā durvidhipaṅkam ākalayituṃ śakto na kaścid drutam // jrt_417 //
+
+prākṛtasyāvatārākhyābhallasyāpi sutā satī /
+lakṣmīr lāsānurakte 'dhād atha roṣaṃ mahīpatau // jrt_418 //
+
+roṣāt sindhupater deśaṃ sambandhitvād gatāṃ nṛpaḥ /
+pratyānayat trapodrekān na punas snehagauravāt // jrt_419 //
+
+[ps-jrt 36]
+alābvo nyabruḍann antar aplavanta jale śilāḥ /
+lakṣmīpakṣaẖ kṣayaṃ vṛddhiṃ lāsāpakṣas tu labdhavān // jrt_b.483 //
+
+yāvad yāvad agād dūraṃ lakṣmī rātrir iva krudhā / tāvat tāvat sa tāṃ lāsāṃ divaṃ bhāsvān ivābhajat // jrt_b.484 //
+
+apanīya tāpakhedaṃ marukariṇī padminītoyaiḥ /
+tatpadmaśevalāmbhonirmāthe karmaṭhībhavati // jrt_420 //
+
+lakṣmyā mātṛsvasus sarvamātṛkṛtyakṛto 'bhavat /
+rājapriyātha rākeva lāsā pakṣakṣayodyatā // jrt_421 //
+
+satkarmapākasamayo 'sya na ced vikāsaśobhāṃ na kiṃ pariharet kumudākarasya /
+viśvaprabodhaharaṇapravaṇakṣaṇena kustrī niśā ca sahasaiva niśākareṇa // jrt_422 //
+
+cintāsūcakaniśśvāsaklinnauṣṭhī taṃ kadācana /
+avocad bhoginīveti lāsākhyā bhoginī nṛpam // jrt_423 //
+
+"na ced vikāsayed bhāsvān padminīṃ svarucā sphuṭam /
+tasyāś chedāya śaivālavallyā iva yateta kaḥ // jrt_424 //
+
+patantīṃ premabhārārdrāṃ mayi dṛṣṭiṃ tavāsahā /
+māṃ nihantum upāyena kurute mahiṣī tava // jrt_425 //
+
+abhicāre durācāram upacārapriyaṅkaram /
+sā cārākṣī mayi dveṣād udayaśriyam airayat" // jrt_426 //
+
+"devādeśapare tasminn abhicāravinirmitiḥ /
+asambhāvye"ti tāṃ rājā pratyuvāca vicakṣaṇaḥ // jrt_427 //
+
+nirbandhenopajalpantīṃ tad eva vacanaṃ tataḥ /
+tāṃ pratyāyayituṃ devīm udayaśriyam abravīt // jrt_428 //
+
+"vyayitvātiśayenāho kośo riktatvam āgataḥ /
+prārthayante janā rājñas sarvaṃ kalpatarūn iva // jrt_429 //
+
+draviṇotpattaye tasmād upāyaḥ pratibhāty ayam /
+pratimā śrījayeśvaryā yāsti rītimayī pṛthuḥ // jrt_430 //
+
+tāṃ khaṇḍayitvā vihataiṣ ṭaṅkair mannāmacihnitaiḥ /
+vyayanirvahaṇaṃ kīrtisthiratvaṃ copajāyate" // jrt_431 //
+
+"sādhv etat kiṃ tu tanmūrtir laghvī kiṃ prabhaviṣyati /
+bṛhadbuddhena mudrāstu" kṣudras taṃ sacivo 'bhyadhāt // jrt_432 //
+
+[ps-jrt 37] puṃnāgavrajam unmumūlayiṣati prāyaẖ karākarṣaṇair uddāmaṃ vijihīrṣati pratipadaṃ kakṣyāchidāṃ kāṅkṣati / kāṃ naicchan nṛpagandhasindhurapatis tīvrāṃ na vaprakriyāṃ tīkṣṇāgrapratibhāṅkuśo 'sya nikaṭe mantrī niyantā punaḥ // jrt_b.499 //
+
+mudropakaraṇaṃ sajjīkṛtyānyedyur upāgatam /
+rājñīṃ pratyāyya bhūpālo raho mantriṇam abravīt // jrt_433 //
+
+"yāḥ pūrvair niramīyanta yaśassukṛtalabdhaye /
+aṅgīkartāsi tā devapratimā bhaṅktum añjasā // jrt_434 //
+
+amarapratimā vidhāya kecit paripūjyātha pare prasiddhim āptāḥ /
+paripālya yathocitaṃ tathānye vidalayyāham aho mahad durantam // jrt_435 //
+
+nirmāṇāj jaladhes kṛteś ca saritāṃ kaumāraśokāvadhiḥ prakhyātas sagaro bhagīrathanṛpo gaṅgāvatārāc ca saḥ /
+duṣyantas sa ca viśvaviśvavijayāj jiṣṇor bhayāny āvahan rāmo hanta daśānanena vihitāt sītāpahārāt punaḥ // jrt_436 //
+
+rājā śāhābhadīnākhyas suramūrtīr aloṭhayat /
+mā durvārtteyam atyugrā cakampad bhāvino janān" // jrt_437 //
+
+udayaśrīr nataśirā rājñīty uktavati svayam /
+mahīrandhram ivaikṣiṣṭa drāg adhogativāñchayā // jrt_438 //
+
+[ps-jrt 38] sarvaṃsahā tadā kṣmābhūd anvarthā prāgvad eva yat / lāsānuraktam api taṃ sā rājānam asevata // jrt_b.505 //
+
+bhāskaro dyuparīrambharasāsāditakautukaḥ /
+svaputraśanimukhyānāṃ grahāṇāṃ hānim icchati // jrt_439 //
+
+rāgī taddoṣavādinyā tayā devyā prabodhitaḥ /
+vyavāsayat svadeśāt sa rājaputrān parān iva // jrt_440 //
+
+kāryeṣv atimanuṣyeṣu sāhāyakavidhāyibhiḥ /
+yoginīpuranāthasya tair vyakto vikramaẖ kṛtaḥ // jrt_441 //
+
+audāryād dattavṛttīn sa hindukān eva bodhitaḥ /
+mlecchān sekandaramukhān rājadrohakṛto 'vadhīt // jrt_442 //
+
+piśunair janitāśaṅkaś śūro madanalāvikaḥ /
+rājā viplavasajjo 'pi senayāsya nivāritaḥ // jrt_443 //
+
+[ps-jrt 39]
+"audāryaśālinā rājñā svasamaṃ vardhitas svayam /
+rājādhikaṃ vyavāhārṣīt tadā madanalāvikaḥ // jrt_b.511 //
+
+tulyārthas samasāmarthyaś śaṅkyo 'yam" iti bhūpatiḥ /
+īrṣyālubhiẖ kusacivais tasmai param akopyata // jrt_b.512 //
+
+śucim apy aśuciṃ matvā taṃ vītiṃ bhūmipāladhīḥ /
+khalanāśāvṛtatvena na cittaviratābhavat // jrt_b.513 //
+
+upaplāvayituṃ vāñchaṃs taṃ muhuẖ krodhavegataḥ / rājaratnākaro 'rodhi tadīyaguṇavelayā // jrt_b.514 //
+
+rājā jātatvarāṃ yātrāṃ vyasanenābhiṣeṇayan /
+nausetukautukaṃ sindhoḥ parikhāyā ivāharat // jrt_444 //
+
+śūraẖ khaḍganagaryāṃ sa paryaṭan mṛgayārasāt /
+siṃham abhyadravad rājā siṃhasaṃhatasāhasaḥ // jrt_445 //
+
+gacchaṃś cittādhikaṃ rājā vājinā vegarājinā /
+anvagāmy atibhaktena madanenaiva kevalam // jrt_446 //
+
+[ps-jrt 40] ārūḍhaḥ pauruṣaṃ rājā so 'varūḍhas turaṅgamāt / yameneva vyadhād yuddhaṃ hariṇā krauryadhāriṇā // jrt_b.518 //
+
+ekākinaṃ ciraṃ baddhayuddham uddhatakesaraḥ /
+tam adhaẖ kṛtavān rājasiṃhaṃ siṃho 'tisāhasam // jrt_447 //
+
+utplutya vājinas tūrṇaṃ śūro madanalāvikaḥ /
+nipātitanṛpaṃ siṃhaṃ kṛpāṇyā sahasāvadhīt // jrt_448 //
+
+prāṇarakṣopakāreṇa prasannaḥ piśunāj janāt /
+yuktyā māraṇam etasya śaṅkamāno nareśvaraḥ // jrt_449 //
+
+sa vivāhacchalād dattvā draviṇaṃ karuṇāmayaḥ /
+madanaṃ vyasṛjaḍ ḍhillīpater nikaṭam añjasā // jrt_450 //
+
+utpannacaṇpakaṃ dīptyā kurvatīṃ vyoma jātucit /
+svapne śarkarasūhākhyo dṛṣṭavān kāñcanīṃ purīm // jrt_451 //
+
+veśma veśma viśaṃs tatra śūnyaṃ paśyann ayaṃ tataḥ /
+rājadhānyāṃ striyaṃ kāñcid apaśyat kāntidanturām // jrt_452 //
+
+apṛcchac ca "tvam ekaiva hanteyati mahāpure /
+vyomnīva śaśilekhā kiṃ citraṃ tiṣṭhasi nirbhayā // jrt_453 //
+
+kasyeyaṃ nagarī kasmāc chūnyā sarvatra vartate /
+atredaṃ patitaṃ kasya vartate ca kalevaram" // jrt_454 //
+
+sā taṃ jagāda "gandharvarājasyāsau mahāpurī /
+sundarī patihīneva vidhuhīneva śarvarī // jrt_455 //
+
+sa cāmātyais samaṃ sarvaiḥ pātuṃ kaśmīramedinīm /
+avatīrṇaḥ paristhāpya nijam atra kalevaram // jrt_456 //
+
+śāhābadena iti yaḥ prathito 'sti jagattraye /
+tatkalevararakṣārtham atra tiṣṭhāmi kevalā // jrt_457 //
+
+sa ca niṣpāditāśeṣakāryo māsatrayāntare /
+svām imāṃ nagarīm eva dhruvaṃ rakṣitum eṣyati" // jrt_458 //
+
+prabuddho 'bhyadhikāścaryaśokacintārasāntare /
+majjann avarṇayad rājñe svapnavṛttim akhaṇḍitām // jrt_459 //
+
+"asatye kiṃ bhayaṃ svapne satye tv aiśvaryam eva me" /
+itthaṃ tad vimṛśan rājā na tathā paspṛśe śucā // jrt_460 //
+
+"madantikam upāgamyam" iti bhūmipatis tataḥ /
+dūrasthitānāṃ putrāṇāṃ sadyo lekhān visṛṣṭavān // jrt_461 //
+
+tato mumūrṣur bhūpālo hindukānāṃ nije pade /
+aprāptatanayo dhīmān abhyaṣiñcat svayaṃ tataḥ // jrt_462 //
+
+[ps-jrt 43]
+taṃ bhaktaṃ neśvaro 'naiṣīt sadehaṃ yat sadharmatām /
+tatra hetur dhruvaṃ tasmin saubhāgyān madanabhramaḥ // jrt_b.534 //
+
+śauryaudāryavidhau vidhautavividhaśloke nṛlokeśvare tasminn astam upāgate guṇigaṇatrāṇoccarannaipuṇe /
+śakreṇonnamitaṃ śiraḥ paribhavatrāsāpasārād dhruvaṃ bhūbhārodvahanāt punar vinamitaṃ śeṣeṇa śokaspṛśā // jrt_b.535 //
+
+pratyakṣaṃ jvalataḥ pratāpaśikhinas svīkṛtya yāṃ bhuktavān nānyān ādriyatādhikaṃ spṛhayatas tadrāgabandhāc ca yā / tāṃ bhūmiṃ pravihāya hāyam agamad dyāṃ śakrabhuktāṃ ciraṃ puṃsāṃ strīṣu kadāpi na prabhavati premagrahapratyayaḥ // jrt_b.536 //
+
+jyaiṣṭhaśuklacaturdaśyāṃ tānāṅke 'bde mahīpatiḥ /
+āliṅgya nākavanitās stanaunnatyam apīphalat // jrt_463 //
+
+20) quṭb-ad-dīn (ls 4449-4465)
+
+[ps-jrt 44] matveva bhūjayād bhūyaḥ punaruktāpavādatām / śāhābhadīne nirjetuṃ dyām iva prasthite sati // jrt_b.538 //
+
+kudbhadenanarendro 'tha maulāv ājñāṃ mahībhujām /
+citte sukhaṃ mukhe harṣaṃ stutiṃ vāci nyadhāt tataḥ // jrt_464 //
+
+[ps-jrt 46]
+tasya pratāpakamalā sagarvapadavīm agāt /
+jayavyasanipūrveśavirahārteva bhūpateḥ // jrt_b.540 //
+
+tadviyogāsahā deśadevī jayam adhāt svayam / jrt_b.541ab /
+
+nātitīvro na vā mandas sarvasyaiva mahīpatiḥ /
+cittam ādita lokasya vaiṣuvo bhānumān iva // jrt_465 //
+
+[ps-jrt 47]
+ahnāyāpahnutaṃ yuddhe taddhanuḥpratikūjitam /
+śocadvairivadhūvargakranditair matsarād iva // jrt_b.542 //
+
+diṅmukhe candanālepaẖ kīrtir ambaracandrikā /
+dharaṇīramaṇasyāsya dviṣām āmlāpayan mukham // jrt_b.543 //
+
+kṣema lakṣmīṃ prajāẖ kṣoṇīpāle tanvati tanvati / bhūmāv eva sthitā nākabhogasaukhyam abhuñjata // jrt_b.544 //
+
+loharapratyavekṣārthaṃ yān nyadhāt pūrvabhūpatiḥ /
+loharādhipater bhītyā te palāyya gatās tataḥ // jrt_466 //
+
+śāmyanty oṣadhayas sarvāś śaśiny astaṃ gate sati /
+dṛṣṭo hi sūryakāntānāṃ ravau yāti dyutikṣayaḥ // jrt_467 //
+
+loharaṃ pratisandhātuṃ kudbhadenamahīpatiḥ /
+śauryaśālinam ādikṣat puro ḍāmaralolakam // jrt_468 //
+
+aveṣṭayat tato gatvā loharādriṃ sa sarvataḥ /
+prāṇā hi svāmibhaktānāṃ tṛṇāyante mahātmanām // jrt_469 //
+
+asāmarthyān nijaṃ durgaṃ durgendro 'rpayituṃ tataḥ /
+brāhmaṇān vyasṛjad dūtāṇ ḍāmarādhipatiṃ prati // jrt_470 //
+
+dvijaliṅgān sa tān matvā sāraṃ draṣṭum upāgatān /
+nyagrahīd vigrahād ugrād dvijān avyagramānasaḥ // jrt_471 //
+
+dvijadaivatam apy etaṃ śrutvā tadapakāriṇam /
+loharendreṇa koṭṭāśāṃ jīvāśāṃ ca visṛṣṭavān // jrt_472 //
+
+paśyanto maraṇaṃ svasya yuddhe vātha palāyane /
+kṣatriyāṇāṃ nijaṃ dharmam agrahīṣus tato raṇam // jrt_473 //
+
+śilāsāraśilāvarṣair durdarśā durghanā iva /
+loharādrer avārohann ārohaṃs tu yaśāṃsi te // jrt_474 //
+
+[ps-jrt 49] svaṃ khaṇḍīkṛtya śailena vibhaktaṃ svāmibhaktitaḥ / pratyekaṃ śatravas teṣu śilāvarṣiṣv amaṃsata // jrt_b.554 //
+
+viprakīrṇais sa pāṣāṇair lolo ḍāmaranāyakaḥ /
+antarhitas samaṃ kīrtyā bhāvi ko nāma laṅghati // jrt_475 //
+
+śatrukīrṇaśilārāśicchanno ḍāmaralolakaḥ /
+yavanapretasaṃskārān na vipady apy ahīyata // jrt_476 //
+
+śāhābadenabhūpālo nirvāsyāpi sutān nijān /
+ākārayat svayaṃ lekhair nijavarṇapariṣkṛtaiḥ // jrt_477 //
+
+guṇaiś ca vayasā teṣāṃ jyeṣṭho māhendramaṇḍalam /
+hassano rājaputras sa prāpa tāvad anaṅkuśam // jrt_478 //
+
+sa netraśuktimuktābhir muktābhir vāṣpavīcibhiḥ /
+śrutvā tatra pitur mṛtyuṃ nivāpāñjalim ārpayat // jrt_479 //
+
+vyāvṛtya gamanecchāyās svacchāśayam amuṃ tataḥ /
+nyavārayat pitṛvyasya lekhaẖ kaśmīrabhūpateḥ // jrt_480 //
+
+"śakrādisaukhyalobhena bhṛtyān asmān upekṣya saḥ /
+samaskuruta śāhābādīnabhūmipatir divam // jrt_481 //
+
+svasstrībhogaraseneva gamanāya tvarāvataḥ /
+tasyāsmābhir bhavatkāryam aśeṣaṃ nirapadyata // jrt_482 //
+
+kṣmārakṣālakṣaṇām ājñāṃ vicakṣaṇaśiromaṇeḥ /
+tanmantramālitāṃ maulimūle mālāṃ vidadhmahe // jrt_483 //
+
+pravāsāgamanābhyāṃ tvaṃ svapituḥ pālitājñayā /
+śrīrāma iva bhūlokaṃ yaśobhis svam apūpuraḥ // jrt_484 //
+
+bhūto bhāvī ca sammāno yady api svaguṇais tava /
+yauvarājyagrahād bhāraṃ laghūkuryās tathāpi me // jrt_485 //
+
+svadhairyaṃ sabhyasaṃyogo nānābandhusamāgamaḥ /
+tava rakṣādhikāraś ca daurmanasyaṃ vilumpate // jrt_486 //
+
+yaśaseva pramītānāṃ paradeśanivāsinām /
+mahatāṃ na hi jātu syād vibhavena sukhodgamaḥ // jrt_487 //
+
+svarūpapratibimbena bhavatā svargavāsinaḥ /
+tadutkaṇṭhābharo 'smākaṃ darśanena nivāryatām // jrt_488 //
+
+"putraś śāhābadenasya so 'yam" ity anyamaṇḍale /
+aṅgulīmukhanirdeśaḥ prākṛtasyeva māstu te // jrt_489 //
+
+rājñāṃ madanukampyānāṃ mukhaprekṣī bhavan bhavān /
+kaśmīraiśvaryam atulaṃ mā naiṣīr alpakaṃ svayam // jrt_490 //
+
+vibhajya bhavati kṣoṇībhāraṃ merugirāv iva /
+sukhaṃ sampattim atulām anantadyutir āpnuyām // jrt_491 //
+
+[ps-jrt 52]
+kīrtiṃ suravadhūgītāṃ pātre śrīpratipādanāt /
+sa karṇapūrayan rājā mādṛta svargamālatīḥ // jrt_b.572 //
+
+priyayor āvayos snehaśrutisaukhyena śītalaiḥ / niśśvāsair bhūpates svīyais syād aspṛhyaṃ ca cāmaram // jrt_b.573 //
+
+yena mānena mām anvagrahīt sa vasudhādhipaḥ /
+tvaṃ sañcarasva tenaiva mayi pālayati prajāḥ // jrt_492 //
+
+[ps-jrt 53] trātā dyauś śakrarājabhyām āvābhyāṃ ca samaṃ mahī / śeṣaikanāthāṃ pātālalakṣmīṃ hasatu nissukhām // jrt_b.575 //
+
+udayaśrīmukhāmātyamatānuṣṭhānaśālinīm /
+mamārthanāniṣedhena lakṣmīṃ maiva vṛthā kṛthāḥ" // jrt_493 //
+
+ajānaṃl lolakarṇatvaṃ rājendrakariṇām atha /
+panthānaṃ lekhavācī sa kāśmīrāṇām agāhata // jrt_494 //
+
+pavanais sammukhāyātair jhāṅkāraravadhāribhiḥ /
+nyavāryateva kaśmīrapraveśād rājanandanaḥ // jrt_495 //
+
+sa viśann atha kāśmīrasaraṇīm udajijvalat /
+amalīmasayad rājñaś śrutiṃ tu khalacodanā // jrt_496 //
+
+nakrās samudram iva kecid udetukāmā vātā latāntam iva kecana darpavṛttyā /
+durmatriṇo bhuvanakānanacakravālahavyāśanā narapatiṃ pravilolayanti // jrt_497 //
+
+atha praviṣṭe kaśmīrān hassane rājanandane /
+kudbhadenamahīpālaḥ piśunair ity akathyata // jrt_498 //
+
+"sarvāsām eva buddhīnām uparīśvarabuddhayaḥ /
+tathāpi sacivair vācyo hitāhitavinirṇayaḥ // jrt_499 //
+
+purandarādilokeśatejo'ṃśāśrayaśālinām /
+svavaṃśyebhyo mahīndrāṇāṃ antarāyo vilokyate // jrt_500 //
+
+sparśanāśitayā khyātād bhrātṛrūpād vijihmagāt /
+kṛṣṇasarpād ivāśliṣṭāt kaṣṭaṃ dūre na kasyacit // jrt_501 //
+
+vibhavais tarpyamāṇo 'yaṃ na ca svībhavitā tava /
+snehena sicyamāno 'gniś śītalatvaṃ kim ṛcchati // jrt_502 //
+
+[ps-jrt 55]
+varaṃ hālāhalo ghoro na durātmā ca durjanaḥ /
+tasya pānād galaty ekaḥ parasya tv akhilaṃ kulam // jrt_b.586 //
+
+daivād dūrataraṃ sarpaṃ prasarpadviṣadhāriṇam / vinā daivakṛtaṃ ko nu nidhau sthāpayati svayam // jrt_b.587 //
+
+na cintyaṃ "svayam ekākī rājño me kiṃ kariṣyati" /
+hareḥ puras sayūtho 'pi katamo vāraṇeśvaraḥ // jrt_503 //
+
+"madbuddhyā vikramas tasya hanyatām" iti nojjvalam /
+buddhimān udayaśrīs taṃ svāmibhaktyā hi rakṣati // jrt_504 //
+
+ādye darpodayaḥ pakṣe doṣodrekaḥ pare yataḥ /
+nānugrāhyo na cotsṛjyas tava rājendra hassanaḥ // jrt_505 //
+
+na vaivamprāyatāvṛttiṃ tejasvī sa kṣamiṣyate /
+yasmin dahati nāmbhodhiṃ sa kṣaṇo vāḍavasya kaḥ // jrt_506 //
+
+atas tasya nirodhena nirutpiñjasukhāḥ prajāḥ /
+kuṇṭhayantutarāṃ pūrvabhūpālotkaṇṭhitāṃ ciram" // jrt_507 //
+
+praviṣṭair iti durvāpyā nirgatādbhir iva hradaḥ /
+vairasyam abhajad rājā khalavākyais sa hassane // jrt_508 //
+
+paśyañ śṛṇvann anubhavaṃs tasyāpy utsekavikriyām /
+"bhrātuḥ putra" iti snehān na taṃ rājā nyarodhayat // jrt_509 //
+
+udayaśrīr athālakṣya viraktaṃ hassane nṛpam /
+lolaḍāmarabhāryāṃ taddhātrīṃ samadiśat tataḥ // jrt_510 //
+
+"svāmirāgam ivārūḍho nākaṃ ḍāmaralolakaḥ /
+ahārayad yaśo na svaṃ kusvāmimukhavīkṣaṇaiḥ // jrt_511 //
+
+asmād durmanaso rājño vibhavāśāstu dūrataḥ /
+vardhitasya tvayā prāṇasaṃśayo hassanasya tu // jrt_512 //
+
+[ps-jrt 57] ataḥ pralobhya rājetthaṃ tvayāneyo nijān gṛhān / yogyaṃ sthānāntaraṃ nāsmadvipanniryātanāvidhau // jrt_b.598 //
+
+tasmāt tvayā nijārthānāṃ grahaṇārthaṃ mahīpatiḥ /
+prārthanīyo yathābhyeti tvadgṛhān eṣa lubdhadhīḥ // jrt_513 //
+
+[ps-jrt 58]
+"viśvastāyāẖ kim arthair me dharmakāmārthahetubhiḥ /
+rājño 'rpayāmi tān sarvān yadi me syād anugrahaḥ // jrt_b.600 //
+
+atas svakīrtaye pūrtasammānasphūrtaye 'stu me /
+yat tu tvaccaraṇasparśadarśitānugrahaṃ gṛham // jrt_b.601 //
+
+pratyāhṛtya svayaṃ svīyam oṣadher iva sadvasu /
+āśāḥ prakāśayatv arthapatir bhāsvān ivābhitaḥ // jrt_b.602 //
+
+vadanyena tvayāpekṣyaṃ na tu strīdhanam ity ataḥ /
+rasāyā rasam ādatte lokāpyāyāya bhāskaraḥ // jrt_b.603 //
+
+anena vasunā rājñaḥ phalatu prārthanārthinām /
+saritāṃ vāri gṛhṇāno meghāṃs tarpayate 'mbudhiḥ // jrt_b.604 //
+
+nidhīn ahibhir āveṣṭya gopayantī mayā mahī / upahāsyeta nāthena maddravye dṛṣṭikāriṇā" // jrt_b.605 //
+
+tatrāgataṃ mahīpālaṃ haniṣyāmo vayaṃ balāt /
+badhnīmo vā tato rājaputro vṛddhim upaiṣyati" 4 // jrt_514 //
+
+[ps-jrt 58]
+"tathe"ti pratisandiśya sā puṃvad dhairyaśālinī /
+tadbuddhiparitoṣārtham evaṃ sandeśam ākṣipat // jrt_b.606 //
+
+"ekākī dīrghadhīkṛd yaẖ kim udyaccheta sāhase /
+kadācin noccaraty eva kareṇaikena tālikā // jrt_b.607 //
+
+sāmarṣas sāvalepatvāt kampanādhipatis tvayā /
+sāhāyyakārtham abhyarthyas siddhe kārye dhṛtaujasā // jrt_b.608 //
+
+bhavataiva vidhāryeyaṃ nirādhāratvaniṣphalā /
+vātāhatāśrayā drākṣāvallīvānyena bhūruhā" // jrt_b.609 //
+
+udayaśrīr iti śrutvā vācikaṃ matimān api /
+tathaivāyācat sāhāyyaṃ kampaneśvaralakṣmakam // jrt_b.610 //
+
+hassanasya jananyās sa lakṣmyā dhyāyann apakriyāḥ /
+tasmin pratyapakārecchus tad rājñe vinyavedayat // jrt_b.611 //
+
+mantribhir vivṛtas so 'tha guṇavatsalamatsaraiḥ /
+abodhy udayabhadrasya durnayaṃ taṃ narādhipaḥ // jrt_b.612 //
+
+mantriṇaṃ stanyam āpyāya svakīyam abhayāya tam /
+rājñī rājño 'sya suḍākhyā putrīyāṃ cakruṣī svayam // jrt_b.613 //
+
+sa pūrvasvāmisammānavyṛṇamārgopalabdhaye / hassanābhyudayāṅgāni prāṇān api tv ajīgaṇat // jrt_b.614 //
+
+atha daivād gate tasmin mantre bhedaṃ mahīpateḥ /
+udayaśrīs tato bhītaḥ palāyayata hassanam // jrt_515 //
+
+ātmano vadhabandhe vā mocayann aparāñ janān /
+rasendra iva loke 'smiñ ślāghanīyatvam aśnute // jrt_516 //
+
+karmaṇy abhīkṣṇatīkṣṇe 'pi tathā lakṣitam udyatam /
+kṣamāśīlaẖ kṣamāpālo nātakṣṇod udayaśriyam // jrt_517 //
+
+guṇais saṃvṛtya randhrāṇi śucitāṃ śīlayan bahiḥ /
+bisavat kālam anayat paṅkavatsu jaleṣu ca // jrt_518 //
+
+[ps-jrt 59]
+buddhelasvāminaẖ kanyāratnaṃ svīkṛtya hassanaḥ /
+aviśal loharaṃ tāvan niragāc ca diśāṃ bhayam // jrt_b.620 //
+
+kaśmīrāmbarabaddhasya ghanasyevodayaśriyaḥ /
+dhīvṛṣṭyā puṣṭim abhyāyāt kedāra iva hassanaḥ // jrt_b.621 //
+
+yuktyā mantrān ghnatāthāntar ādhinevodayaśriyā / vyādhineva bahir bhūpo hassanenābhyabhūyata // jrt_b.622 //
+
+"tāvad vamati yas toyaṃ dūrāt spṛṣṭo himāṃśunā /
+kiṃsvin naiva tadāśliṣṭaś śaśigrāvā sraved" iti // jrt_519 //
+
+udayaśrīr gantukāmo rājaputrāntikaṃ tataḥ /
+udayaśrīś śrutadroho rājñā kārāṃ niveśitaḥ // jrt_520 //
+
+[ps-jrt 60]
+maḍavāsaraṇiṃ vakrāṃ siddhihetuṃ vidan rahaḥ /
+śvaśuraṃ varṇitasvīyarahasyaṃ maḍavāpatim // jrt_b.625 //
+
+gaṅgarājam athāyācat tanmārgeṇa vinirgamam /
+ante naśyati dhīḥ puṃsas sahasrāṃśor iva dyutiḥ // jrt_b.626 //
+
+na yady udbhedayet kandakoṭiṃ śṛṅgāṭam unnatām /
+kas tasyāntarnimagnasya jñātuṃ śakto bhavet sthitim // jrt_b.627 //
+
+svanāśaśaṅkayā gaṅgarāje taddrohavarṇini / iddhatejā nṛpaẖ kruddho ruṇaddhi smodayaśriyam // jrt_b.628 //
+
+parīkṣitum ivodyuktair guros tasya ca śemuṣīm /
+surair ivārthito rājā krodhād vyāpādayat sa tam // jrt_521 //
+
+mathnan padmaṃ gajo bhañjan maruc candanapādapam /
+nighnan puruṣaratnaṃ ca rājā nindyo jagattraye // jrt_522 //
+
+yaśaḥ puruṣapuṣpāṇāṃ bhuvanodyānavartinām /
+saurabhātiśayaṃ ślāghyaṃ vicinoti manoharam // jrt_523 //
+
+vinaṣṭahastapādo 'ndho yathāticakitāśayaḥ /
+udayaśrīkṣaye rājaputro 'bhūd dhassanas tathā // jrt_524 //
+
+[ps-jrt 64] pakṣiśāva iva krūrakarakābhagnapakṣatiḥ / paryantavṛttibhiẖ krūrair hassano 'tha nyarudhyata // jrt_b.633 //
+
+prasādaprīṇitaiḥ prāyaẖ khaśarājair durātmabhiḥ /
+rājaputro hassanas sa hantuṃ pratyarpitaḥ prabhoḥ // jrt_525 //
+
+utpiñje galite śatruvarge 'py āśācyute sati /
+matis satejā lokānām ālokaśriyam āyayau // jrt_526 //
+
+vitastāyāṃ svanāmāṅkā purī tenātha nirmitā /
+ucchritaiẖ kanakacchattrair dyām uddhasati yā śriyā // jrt_527 //
+
+pratyabdaṃ janam ālakṣya durbhikṣakṣayitāyuṣam /
+māsi bhādrapade 'kārṣīt sa sattraṃ bhūridakṣiṇam // jrt_528 //
+
+sādhusūktisudhāsnānāt karṇābhyarṇatale kacaiḥ /
+dhruvaṃ dhavalim āpede vārdhake cāsya bhūpateḥ // jrt_529 //
+
+bhūṣaṇaṃ nijavaṃśasya pūṣaṇaṃ dharaṇer asau /
+śatruśrīdūṣaṇaṃ putraratnaṃ na ca sa labdhavān // jrt_530 //
+
+[ps-jrt 65] āyur vāyucaladvīcicañcalaṃ kalayann atha / sarvāgrahāranirmāṇam akarot putralipsayā // jrt_b.640 //
+
+yogino brahmanāthasya kaśmīrān āgatasya saḥ /
+prasādena mahīpālas santatiṃ prāptavāṃś cirāt // jrt_531 //
+
+[ps-jrt 67]
+"mayā vairivarān nītvā kārāgārakuṭumbitām /
+nivāritaṃ vilolatvaṃ naisargikam api śriyaḥ // jrt_b.642 //
+
+yathāparādhaṃ daṇḍena haratā dharmaviplavam /
+prajā apakṣapātena svaprajā iva pālitāḥ // jrt_b.643 //
+
+nītāś cirāya nirmathya vipaścijjanavāridhim /
+kiyanto 'pi mayā svīyāṃ maitrīṃ śāstramaṇiprabhāḥ // jrt_b.644 //
+
+iti me kṛtakṛtyasya śokaśaṅkur ayaṃ param /
+prājyasāmrājyabhārasya voḍhā nāsti kulāṅkuraḥ" // jrt_b.645 //
+
+iti śrutvā vacas tasya vaṃśacchedatamomuṣam /
+darśayan daśanajyotsnāṃ yogī taṃ pratyabhāṣata // jrt_b.646 //
+
+"mā viṣādaṃ kṛthā rājan putrānutpattihetukam /
+na hi kiñcit kadācit syād durāpaṃ puṇyaśālinām // jrt_b.647 //
+
+putrotpattinimittaṃ me yogino 'py ānuṣaṅgikam /
+kiñcit sañcitam asty eva tat tavāstūpakārakṛt // jrt_b.648 //
+
+guṇais samam imaṃ me ca kaśmīrāgamanodyamam /
+phalayatv eva mahiṣī bhuñjānā gulikām imām // jrt_b.649 //
+
+kulatantau samutpanne trilokābhayalagnake /
+narottamo jagattrāṇacintātānavam aśnutām" // jrt_b.650 //
+
+ity ūcuṣo 'tha yogīndrād ādāya gulikāṃ nṛpaḥ / abhojayat sa mahiṣīṃ caruṃ daśaratho yathā / devīm abhojayan mūrtāṃ prasādapadavīm iva // jrt_b.651 //
+
+anvayābharaṇaṃ devī pitur ānandapāraṇam /
+tamoharaṇam aryandhaṅkaraṇaṃ suṣuve sutam // jrt_532 //
+
+śṛṅgāramaṅgalāvāsam avalokya vapuś śiśoḥ /
+śṛṅgāra iti nāmāsya vyadhād bhūlokavāsavaḥ // jrt_533 //
+
+harṣād ādiśati kṣmāpe bandhamuktiṃ tadutsave /
+anvabhāvi tadā citraṃ bandho nausetubhiḥ param // jrt_534 //
+
+[ps-jrt 68] yo mātulasuto devyā bhāṇḍāgārika uddakaḥ / tatpriyāṃ sevatāṃ rājā ninye dhātrīṣu mukhyatām // jrt_b.655 //
+
+atha dvitīyaputraṃ sā devī haibatasañjñitam /
+asūta kāntisantānatarjyamānasudhākaram // jrt_535 //
+
+[ps-jrt 69]
+na kasya vastuno 'lakṣi subhikṣaśrīḥ pade pade /
+tasmin rakṣitari kṣoṇīm anyatrāribhayāj janaiḥ // jrt_b.657 //
+
+dhanur vināmitaṃ tena paśyanto naiva kutracit /
+praṇatiṃ vairiṇas tasya kasmād apy adhyagīṣata // jrt_b.658 //
+
+daivī nītir abhūt tasmin pṛthvīṃ pālayati prabhau / utpiñjakhañjatākhyānaṃ pratyutāsya tiraskriyā // jrt_b.659 //
+
+candrasyeva kalaṅko 'bhūd ayaṃ doṣo mahībhujaḥ /
+kulāgatāṃ mahīṃ yat sa vāstavyānām apāharat // jrt_536 //
+
+[ps-jrt 70]
+akalaṅkas sa rājendur vikasatkumudākaraḥ /
+nāgrāmanāmni dhāmny āpat paradhāmavilīnatām // jrt_b.661 //
+
+cirabhuktāṃ bhuvaṃ matvā so 'spṛśyāṃ bhāvikilviṣaiḥ / jagāma tridivaṃ rājā dhruvaṃ bhoktuṃ surastriyaḥ // jrt_b.662 //
+
+bhādre kṛṣṇadvitīyāyāṃ pañcaṣaṣṭhe sa vatsare /
+astaṃ jagāma rājenduẖ kudbhadenamahīpatiḥ // jrt_537 //
+
+21) sikandar šāh butšikān (ls 4465-4489)
+
+"rājñī śokāturā rājaputrau bālāv" iti prajāḥ /
+abhūvaṃś cakitās sarvā vināthavad athādhikam // jrt_538 //
+
+devyā vāṣpajale śokavarṣajāte pṛthau sati /
+parasparam amātyānāṃ mātsye nyāye 'bhavad ruciḥ // jrt_539 //
+
+"alaṃ śokaniveśena dhairyam atrocitaṃ yataḥ /
+rundhate malinātmānaẖ kṣmām aśūrām arājakām" // jrt_540 //
+
+iti prabodhya subhaṭāṃ devīm uddakasāhakau /
+jyeṣṭhaṃ sekandaraṃ putraṃ mahārājye 'bhyaṣiñcatām // jrt_541 //
+
+rājñyā matenoddako 'tha sāhaputraṃ muhammadam /
+svajāmātaram apy eṣa sajānim adahac chalāt // jrt_542 //
+
+sūkṣmān atti timir mahān svakulajān andhād ajānan vadhaṃ svām ambām api makṣikā vata madhugrāhād bhaviṣyadvadhā /
+lakṣmīlobhabhareṇa mohitadhiyaẖ kalpān analpān sthitiṃ jānanto 'pi jaḍā na kiṃ kucaritaṃ kurvanti hā hanta hā // jrt_543 //
+
+[ps-jrt 71] śobhānāmamahādevyās so 'dhivinnāṃ mahīṃ vyadhāt / pratāpahema rājā tu nādhivedanikāṃ dadau // jrt_b.670 //
+
+śrīśobhāyā mahādevyāś ślāghyā lakṣmīr abhūttarām /
+kṣmāṃ hemaliṅgair dyāṃ puṇyaliṅgair yā svair amaṇḍayat // jrt_544 //
+
+"etadbandhughnam eṣo 'pi māṃ haniṣyati niścitam" /
+ity uddako rājaputraṃ viṣeṇātha vyapādayat // jrt_545 //
+
+"nijayaiva kṛpāṇyāhaṃ svaṃ chindyāṃ kaṇṭham etayā /
+yady ahaṃ tvāṃ nirundhyāṃ vā hanyāṃ ve"ty atha saṃvidā // jrt_546 //
+
+viśvāsya sāhakaṃ vīram uddako 'tha vyapādayat /
+āsannavinipātānāṃ drohā dūtā hi durdhiyām // jrt_547 //
+
+yathā bhrātus tathā svasya vadhaṃ sambhāvayan nṛpaḥ /
+prauḍhībhūtas tato vṛddhiṃ svaṃ pakṣaṃ kiñcid ānayat // jrt_548 //
+
+bhauṭṭāñ jitvāgato dṛpto 'sahamāno 'nyavaibhavam /
+śrīśobhābhrātaraṃ khuñjyārājam uddo 'vadhīt tataḥ // jrt_549 //
+
+ādiśan sevakaṃ svaṃ sa dvārotpiñjāya nimmakam /
+rājño 'pi praṇayaṃ tyaktvā holaḍām agaman madāt // jrt_550 //
+
+tac chrutvā laddarājādyā bhūpater anuyāyinaḥ /
+yoddhuṃ baddhodyamāḥ padmapuradhanvani dhanvinaḥ // jrt_551 //
+
+pratyāsannavināśānāṃ prāyo matimatām api /
+piśācādibhramo nūnaṃ svacchāyāsv api jāyate // jrt_552 //
+
+uddasainyair yato yoddhuṃ vallāmaṭham upāgataiḥ /
+pārevitastaṃ mahiṣīṣv aśvabhrāntyā palāyyata // jrt_553 //
+
+āvitastāpuraṃ rātrau tam anudrutya bhūpatiḥ /
+vyāvartatātha taṃ baddhvā nagarotpiñjaśaṅkayā // jrt_554 //
+
+[ps-jrt 73] manoviśālaṃ gaganaṃ paṭahais tarjayann iva / sa prāviśat puraṃ rājā harṣaś ca hṛdayaṃ viśām // jrt_b.682 //
+
+taṃ vadhyam api kārāyāṃ kāruṇyāt tu nṛpo 'kṣipat /
+uddakas tu sa viśvastadrohapāpamalīmasaḥ // jrt_555 //
+
+śaṅkamāno vadhaṃ bhūpāt karuṇākomalād api /
+nijayaiva kṛpāṇyātha svagalacchedam ācarat // jrt_556 //
+
+[ps-jrt 74]
+madajvaro 'dbhutaḥ pālapaśūnām evam apy abhūt /
+āśrayan stabdhatāṃ yena tacchirāṃsi tadā ciram // jrt_b.683 //
+
+kadācit saha taiḥ pālakuñjair madaghūrṇitaiḥ /
+palaṅgam āviśad rājasiṃhas sannakharadyutiḥ // jrt_b.684 //
+
+tatra pālottamāṅgāni vapuścakrān mahīpatiḥ / śarāvān iva sūtreṇa kumbhakāro 'sinācchinat // jrt_b.685 //
+
+pattrirāja iva vyālān sṛgālān iva kesarī /
+pālān dharaṇipālas sa kālāntikam athānayat // jrt_557 //
+
+rājyaṃ śauryaṃ vayas tejo nirniyantraṇatā tathā /
+tadā tathābhavad rājñaḥ pañcāgnitapasaḥ phalam // jrt_558 //
+
+hanta rājñāṃ tataṃ darpatimiraṃ khaṇḍayan nṛpaḥ /
+yātrām asūtrayac citraṃ gotrabhidbhayadāṃ tataḥ // jrt_559 //
+
+[ps-jrt 75] rūḍhaṃ tatsevakakṣatracchattraśeṣaphaṇāśataiḥ / sa vyadhād ambarārohi rajo bhūmaṇḍalāntaram // jrt_b.691 //
+
+viśvaṃ rañjayatā tasya pratāpena prathīyasā /
+rājastrīnakhalakṣmaśrīḥ pāṇḍimānam avāpitā // jrt_560 //
+
+tadaiva dīnābharaṇām apālakatayā yutām /
+mleccharājo vyadhāḍ ḍhillīṃ vidhavām iva luṇṭhayan // jrt_561 //
+
+tataḥ pratyāvrajan mleccharājaẖ kaśmīrabhūpateḥ /
+śaṅkamāno gajendrau dvāv upāyanam acīkarat // jrt_562 //
+
+hastidvayagaladdānarājivyājāt svayaṃ vyadhāt /
+deśasīmāvibhāgaṃ sa kaśmīrādhipateẖ kila // jrt_563 //
+
+hastidvaye samārūḍhe himādriśikharaśriyi /
+vindhyavṛddhibhramād vindhyaniyantā kopam āgamat // jrt_564 //
+
+mārge kopam agātāṃ tau vitastātaraṇakṣaṇe /
+pratibimbaṃ nijaṃ dṛṣṭvā pratihastibhramaṃ gatau // jrt_565 //
+
+[ps-jrt 77] didṛkṣayaiva kariṇo rājadhānyāṃ mahīpateḥ / noccaṃ śiro 'bhavat tasya tattṛptyā timirād api // jrt_b.699 //
+
+rājastrīstanasaundaryacauryakārikaṭotkaṭau /
+tau gajau bhūmipālena vārīkārāṃ praveśitau // jrt_566 //
+
+vadanyena narendreṇa suvarṇaparipūritāḥ /
+naivārthinaḥ paraṃ deśo nijo 'pi pravyadhīyata // jrt_567 //
+
+yathākāmārpaṇaprītayācakastutilajjayā /
+vinaman saṅkucan hastas tasya dānakṣaṇe 'bhavat // jrt_568 //
+
+dānaṃ varṇayituṃ tasya śakyate naiva kenacit /
+pāṇirūpam adhaḥ padmaṃ yatropari jalaṃ sadā // jrt_569 //
+
+sadā dānāmbusekād yan na prārohad yavaẖ kare /
+khaḍgatsaruvimardānāṃ manye tatra nimittatām // jrt_570 //
+
+[ps-jrt 78]
+avācyā saubhagaślāghā śrīsekandarabhūpateḥ /
+tyaktāpi yaṃ svayaṃ lakṣmīr bhūyo bhūyas samāśritā // jrt_b.705 //
+
+dānodyamaparād rājñas sphuranmukharucaḥ puraḥ /
+kamalā dānabhītyeva padmād api palāyata // jrt_b.706 //
+
+ājīvam eva tiṣṭhantī nindyā śrīs tasya tūttamā / sānyajanmasv api prattā yad vāgdevīva bhāvinī // jrt_b.707 //
+
+prajāpāpavipākena tato yavanadarśane /
+bālasyeva mṛdi kṣoṇipate rucir avardhata // jrt_571 //
+
+aneke yavanā dānaprasiddhaṃ tam athāśrayan /
+vihāyāparabhūpālān puṣpāṇīvālayo dvipam // jrt_572 //
+
+dīptendur iva ṛkṣāṇāṃ teṣāṃ bālo 'pi vidyayā /
+yavanānām abhūj jyeṣṭho merasaidamuhammadaḥ // jrt_573 //
+
+anamad bhṛtyavac chikṣāṃ śiṣyavan nityam agrahīt /
+dāsavac ca puro nītyā rājā tatra nyavikṣata // jrt_574 //
+
+marudbhir iva vṛkṣāṇāṃ śālīnāṃ śalabhair iva /
+kaśmīradeśācārāṇāṃ dhvaṃso 'tha yavanaiẖ kṛtaḥ // jrt_575 //
+
+svāmino dānamānābhyāṃ vaiśadyaguṇavattayā /
+kaśmīrān aviśan mlecchās sukṣetraṃ śalabhā iva // jrt_576 //
+
+[ps-jrt 80] vidvān abhyāsabodhābhyāṃ vidyām iva viśāmpatiḥ / sa lakṣmīṃ tyāgabhogābhyām aśobhayad avīvṛdhat // jrt_b.714 //
+
+udabhāṇḍapurādhīśaṃ dṛpto jātu jayan nṛpaḥ /
+śrīmerāṃ tatsutāṃ prāpa mūrtām iva jayaśriyam // jrt_577 //
+
+avātarac chāhikule nūnaṃ sā kāpi devatā /
+yojayiṣyati tatputraẖ kaśmīrān mlecchanāśitān // jrt_578 //
+
+śrījainollābhadīnākhyo mūrto dharmaẖ kalāv api /
+rājāpi yogirājo 'yaṃ rājacūḍāmaṇeḥ priyaḥ // jrt_579 //
+
+[ps-jrt 82] yavanā guravo bhṛtyās sevakā vallabhās tataḥ / bāndhavāś cābhavaṃs tasya kākāḥ pikaśiśor iva // jrt_b.718 //
+
+kenāpi rasasiddhena dattastokaraso nṛpam /
+rasasiddhiṃ vadan dhūrto mahādevābhidho 'bhyadhāt // jrt_580 //
+
+[ps-jrt 83] sahasravedhitā tena rasenaiva na sādhitā / vismayena rasenāpi kāñcanaśriyam ṛcchatā // jrt_b.720 //
+
+sadā rājñi mahībhārodvahanād anurodhavān /
+adān merur mahādevarūpeṇa draviṇaṃ bahu // jrt_581 //
+
+rasasiddhaprasādo 'tha mahādevasya hīnatām /
+agaman na tu kaśmīranivāsaviṣaye manāk // jrt_582 //
+
+rasasiddhibhramārthaṃ sa kṛtvā dṛgbandham auṣadhaiḥ /
+hemeva mūṣikāmadhye ciram āsīt kiran kila // jrt_583 //
+
+vijñānajñāpito rājñā tacchadma svayam ekadā /
+akīrtiśravaṇād bhīto mahādevo 'jahād asūn // jrt_584 //
+
+[ps-jrt 84]
+dhik taṃ vāridam ambu yo jalanidher āpyāśuciśrīr bhavan mitraṃ sāśam upadravaty atha parikṣīṇas skhalaty adriṣu /
+padmas stutyatamaś ca yo vikasane sārai rasair aurasaiḥ samprīya bhramarān rasavyudasane prāṇān nijān muñcati // jrt_b.725 //
+
+śeṣaṃ viṣabhayeneva kāṭhinyeneva parvatān /
+madeneva dvipāṃs tyaktvā sukhaṃ bhūs tadbhuje 'vasat // jrt_b.726 //
+
+citraṃ ca nālabhaṭṭena guṇinā mitrabandhunā / kulapadmenāpi rājavāllabhyād uccanālatā // jrt_b.727 //
+
+laddarājo 'gadaṅkāraśaṅkaro bhaṭṭasūhakaḥ /
+mantriṇaś cāntaraṅgāś ca sarvadaivābhavan prabhoḥ // jrt_585 //
+
+[ps-jrt 85]
+abhiṣeṇayatas tasya kanyāratnauṣadhārpaṇāt /
+madrendro billadevo 'tha jātu yātrām apīphalat // jrt_b.729 //
+
+aucityāt sādhuvādeṣu prasaktena prabhoḥ puraḥ /
+sakhyaṃ śaṅkaravaidyena niravadyaṃ ca baddhavān // jrt_b.730 //
+
+dhṛtāmarṣas sūhabhaṭṭaś śaṅkaraprītivatsare /
+apakārān madrarāje cintayann āsta santatam // jrt_b.731 //
+
+udīcīnāyako dhāṭyā yaṃ paurais saha nītavān /
+śikhakukkurarājasya putraṃ malekajasratam // jrt_b.732 //
+
+mṛte 'thodakpatau jāte 'tyutpiñje muktatāṃ bhajan /
+sa madranāyakadveṣāt sūhabhaṭṭārthanābalāt // jrt_b.733 //
+
+madrāsannakṣites svāmyaṃ kaśmīrendreṇa lambhitaḥ / sacetanaṃ jayastambham iva taṃ tatra ropayan / vyāvartatārilokārtikartā sa kṣmāvikartanaḥ // jrt_b.734 //
+
+merakhānaś śāhikhānaẖ khāno mahmada ity api /
+yais sañjñā abhyabhūṣanta gaṅgaughair viṣṭapā iva // jrt_586 //
+
+pratyakṣā iva dharmārthakāmāẖ kāmamanoramāḥ /
+meradevyās trayaḥ putrā rājñas tasyodapatsata // jrt_587 //
+
+kṛtrimatvān nirastānāṃ śobhādevyātmajanmanām /
+putraṃ pirujanāmānaṃ na nirāsthat purān nṛpaḥ // jrt_588 //
+
+alakāsadṛśīṃ rājā mānasapratibimbitām /
+purīṃ puṇyajanākīrṇāṃ pradyumnādritaṭe vyadhāt // jrt_589 //
+
+[ps-jrt 87]
+pūrṇānandā jayāriktā bhadrā vismayadāyinī /
+śrīs tasyātithisampattyai bhūbhujo 'bhūd divāniśam // jrt_b.739 //
+
+rājāvanāśrayatvena prasiddhas sa sadāyatiḥ /
+lakṣmīm acumbitām anyair vatācumbad dviṣāṃ balāt // jrt_b.740 //
+
+yavanā nityataddattavittasampattiśālinaḥ / āhāravyavahārādau jitavanto mahīpatim // jrt_b.741 //
+
+ayatnaprāptavittānāṃ yavanānāṃ mahīpateḥ /
+varāṭake ca koṭau ca dṛṣṭir āsīt samā tadā // jrt_590 //
+
+kaśmīramaṇḍale mlecchadurācārātidūṣite /
+mahimā brāhmaṇair mantrair devaiś ca svas samujjhitaḥ // jrt_591 //
+
+prabhāvatejo yair devais satataṃ prakaṭīkṛtam /
+khadyotair iva tair eva deśadoṣād vinihnutam // jrt_592 //
+
+pratyāhṛte tatas tejoviśeṣe tridaśair abhūt /
+pratimānāṃ śilābhāvo mantrāṇāṃ varṇamātratā // jrt_593 //
+
+[ps-jrt 89]
+kalisparśabhayāt tyaktukāmais svapratimā dhruvam /
+taddhvaṃse tridaśair mlecchā dhiyam āviśya coditāḥ // jrt_b.747 //
+
+rājāntaraṅgo yavanamatabhaktaḥ pratāritaḥ / yavanais sūhabhaṭṭo 'tha pratimānāṃ nirākṛtau // jrt_b.748 //
+
+puṇyakṣayena kartṝṇāṃ kalidoṣeṇa cojjhitāḥ /
+gīrvāṇaiḥ pratimās sarvā nirmokā bhujagair iva // jrt_594 //
+
+rakte rāgaṃ śucau śauklyaṃ maline malināṃ sthitim /
+saṅkrānte sati gāhante sphaṭikānīva bhūbhujaḥ // jrt_595 //
+
+svayaṃ brāhmakriyādveṣī mlecchaiś ca pratibodhitaḥ /
+sūhabhaṭṭaḥ prabhuṃ jātu devabhaṅgārtham airayat // jrt_596 //
+
+[ps-jrt 90]
+"pāṣāṇān devasānnidhyabhrameṇaiṣa jano naman /
+tvatpraṇāmaviśuddhaṃ svaśiro dūṣayati dhruvam // jrt_b.751 //
+
+māyayā kavalakṣobhasaṃsargāndhaṃbhaviṣṇuṣu /
+śraddadhīta ca devatvam īśvarād itareṣu kaḥ // jrt_b.752 //
+
+mukhāni kamalānīva rajjavo bhujagā iva /
+śuktayo rajatānīva sthāṇavaḥ puruṣā iva // jrt_b.753 //
+
+māyendrajālasandarbhaprabhavādinayoditāḥ /
+ye ca kecij jaḍair devā bhrāntiśaktyā prakalpitāḥ // jrt_b.754 //
+
+sannidhāpayituṃ tān kaḥ pratimāsu kṣamo bhavet /
+grahītuṃ mārutaṃ muṣṭau sauṣṭhavaṃ kasya dṛśyate // jrt_b.755 //
+
+te ca sannihitāẖ kiṃ vā kuryuẖ karma niyantritāḥ /
+śilpibhiẖ kalpyamānāsu svatulyāvayavāsv api // jrt_b.756 //
+
+kalikāle sphuraty adya tiṣṭheraṃs te janā hi kim /
+tejastimirayor nāsti sādhāraṇapadasthitiḥ" // jrt_b.757 //
+
+tenetyādikutarkoktyā duramātyena pāpinā /
+nirasto devatābhāvaḥ pratimābhyo mahīpateḥ // jrt_b.758 //
+
+surāsurāṇāṃ samare sajjānāṃ satataṃ tadā /
+asurair vijitaṃ nūnam anyathā katham apy ayuḥ // jrt_b.759 //
+
+vidhvastāḥ pratimās sarvā gīrvāṇānāṃ śilā iva / na vighno bhañjakānāṃ ca prāgvad dṛṣṭaẖ kadācana // jrt_b.760 //
+
+vihāya rājakāryāṇi prajābhāgyaviparyayāt /
+devānāṃ pratimābhaṅge rājārajyad aharniśam // jrt_597 //
+
+pāpināṃ pāpamūlo 'bhūd bhūbhṛtām anayadrumaḥ /
+harṣadevaturuṣko 'bhūd yasya prāg aṅkurāyitaḥ // jrt_598 //
+
+pattrāyito lavanyānām utpiñjo dāruṇo 'bhavat /
+ḍalaco mleccharājo 'bhūd yasya puṣpāyitas tathā // jrt_599 //
+
+devānāṃ mūrtibhaṅgecchā yasyāsīt tasya bhūbhujaḥ /
+mlecchapreraṇayā nityaṃ viplavas sa phalāyitaḥ // jrt_600 //
+
+mārtāṇḍavijayeśānacakrabhṛttripureśvarāḥ /
+bhagnā yenāsya ko vighnaś śeṣabhaṅgena kathyate // jrt_601 //
+
+sureśvarīvarāhādipratimābhaṅgakarmaṇi /
+akampata bhiyevorvī nāsya sarvaṅkaṣā tu dhīḥ // jrt_602 //
+
+na puraṃ pattanaṃ nāpi na grāmo na ca tad vanam /
+yatra sūhaturuṣkeṇa surāgāram aśeṣyata // jrt_603 //
+
+[ps-jrt 92]
+taddarśanabhayeneva tirobhūtas svayambhuvaḥ /
+tadā hutāśo nāśoci nikaṭasthair drumaiḥ param // jrt_b.770 //
+
+bhītyevāpaḥ prakāśya svās trisandhyaṃ tatra majjataḥ / sandhyādevī paraṃ vandhyā tasyāgād anukampyatām // jrt_b.771 //
+
+kathāśeṣīkṛte sarvagīrvāṇapratimāgaṇe /
+vyādhimukta ivānandaṃ sūhabhaṭṭo 'bhajat tataḥ // jrt_604 //
+
+[ps-jrt 93]
+sindhūdabhāṇḍapurayos svāminau śrīsekandaraḥ /
+śrīśobhākanyayoḥ pāṇigraheṇānvagrahīd atha // jrt_b.773 //
+
+pratyamuñcat svadeśotkaṃ merasaidamahammadam /
+rājā sahacarīkṛtya śobhāputraṃ sa pirvajam // jrt_b.774 //
+
+darśitair mausulaiś śāstrair jātidveṣamayair iva / aśrāvi tena tad rājā kim asādhyaṃ durātmanā // jrt_b.775 //
+
+apathyāśīva bālas sa sāmantasahitas tataḥ /
+janānāṃ jātividhvaṃse sūhabhaṭṭaẖ kṛtodyamaḥ // jrt_605 //
+
+"jātidhvaṃse mariṣyāmo" dvijeṣv iti vadatsv atha /
+jātirakṣānimittaṃ sa tān durdaṇḍam ajigrahat // jrt_606 //
+
+prasādaprāptilobhena bhūpater upajīviṣu /
+brāhmaṇatvādhikāṃ jātiṃ tyajatsv apy avilambitam // jrt_607 //
+
+śrīsiṃhabhaṭṭakastūṭau vaṇijau ślāghyatāṃ gatau /
+śrīnirmalācāryavaryas trijagacchlāghyatāṃ gataḥ // jrt_608 //
+
+tyaktvā jātigrahaṃ yat tāv anyadarśanasevinau /
+śuṣkaṃ turuṣkadaṇḍaṃ ca vinyavārayatāṃ tataḥ // jrt_609 //
+
+nirmalācāryavaryas sa sarvasvaṃ tṛṇavat kṣaṇāt /
+tyajan rājaprasādena na jātiṃ svām adūṣayat // jrt_610 //
+
+[ps-jrt 94] paśyatāṃ sarvalokānāṃ brahmadaṇḍo 'patad divaḥ // jrt_b.778 //
+
+ kṛtavraṇas sa tenāṅge visarpiklinnavigrahaḥ / kīryamāṇakrimikulaẖ krakacaiś cāritair abhūt // jrt_b.779 // 
+
+ anubhāvya vyathāṃ bhāvinirayakleśavarṇikām / gaṇarātreṇa taṃ prāṇāẖ kāṅkṣitāpagamā jahuḥ / brahmadaṇḍakṛtaṃ daṇḍaṃ bhuktvā daṇḍadharādhipaḥ // jrt_b.780 // 
+
+daṇḍākrāntas sa rājātha merakhānaṃ nije pade / abhiṣicyāliśāhākhyāṃ kṛtvāsyāgād yamālayam // jrt_b.781 //
+
+svāmī bhṛtyāparādhena daṇḍanīya iti sthiteḥ /
+sūhabhaṭṭāparādhena kālo bhūpe 'karot krudham // jrt_611 //
+
+jyāyāṃsam abhiṣicyātha putraṃ sikandaro nṛpaḥ /
+nandāṣṭābde tato jyaiṣṭhakṛṣṇāṣṭamyāṃ vyapadyata // jrt_612 //
+
+22a) ‛alī šāh (ls 4489-4494)
+
+[ps-jrt 95]
+rūpaṃ niṣphalam arcitaṃ kim api tan mandān amandāgrahān bhaktān yas samanugrahītum atulasvācchandyavandyakriyaḥ /
+gaurīrūpakarīṃ vapussahacarīṃ svāṃ śaktim avyaktayad bhuktiṃ muktipurassarīṃ diśatu vo devas svayambhūr ayam // jrt_b.784 //
+
+viśrāmyatutarāṃ śāhikhānavṛttāntasānuni /
+madvāk śrāntānyarājākhyāśailakoṭiśikhāṭanaiḥ // jrt_b.785 //
+
+tadguṇaugharasaślāghyāṃ pibantv api giraṃ mama / sugandhighanasāreṇa kūpāmbho 'pi manoramam // jrt_b.786 //
+
+āliśāhas sa vasudhāsudhāṃśur jagatas tamaḥ /
+pradoṣārabdham acchaitsīd bhāsvato 'ste pitus tataḥ // jrt_613 //
+
+adarpakacitaṃ bālaṃ prauḍhā lakṣmīr muhur muhuḥ /
+kulajāliṅgad aṅgais taṃ rājānaṃ natiśālibhiḥ // jrt_614 //
+
+[ps-jrt 96] tasya bālyaṃ manohāri viśeṣād rājyarājitam / kāntiṃ kalayate kāntaḥ pūrṇenduś śaradi sphuran // jrt_b.789 //
+
+pūrvorvareśavad bālam api taṃ bhūbhujo 'naman /
+ahidaṣṭo hi dāmāpi kramituṃ na pragalbhate // jrt_615 //
+
+nijabuddhibalād daivahitatvenopasaṃhitāt /
+sūhabhaṭṭena mukhyatvaṃ sacivānām avāpyata // jrt_616 //
+
+viśvāsanyastaśastraṃ sa laddamārgapatiṃ balāt /
+baddhavān saha tatputrair varjayitvā muhammadam // jrt_617 //
+
+muhammado mārgapater bandhaṃ śrutvaiva śauryavān /
+bhāṅgilācalamārgeṇa mārgābhijñaḥ palāyitaḥ // jrt_618 //
+
+[ps-jrt 99]
+mārutasyeva vīrasyeva gatiẖ kvāpi na hanyate /
+śrutvā tadgamanaṃ dūtān mantranirbhedaśaṅkitaḥ /
+laddamārgapatiṃ roddhuṃ sahasā samacintayat // jrt_b.816 //
+
+rujas saṃvīkṣaṇavyājān mārgeśasya śayāptaye /
+viśvāsanāya ca prāsyad bhaṭṭotsaṃ tasya sadmani // jrt_b.817 //
+
+cikitsakauṣadhāhārī mārgeśatiminādṛtaḥ /
+nābodhi piṇḍīnirgūḍhabaḍiśaṃ punar utsavaḥ // jrt_b.818 //
+
+tāvan mārgapates saudhaṃ siṃhanādodbhaṭair bhaṭaiḥ /
+javād rodhitavān mantrī dāśo nīḍaṃ tṛṇair iva // jrt_b.819 //
+
+tīkṣṇair api dayāviṣṭair iṣṭair iva sa vihvalaiḥ / kathañcid doṣarahito mārgeśas samarudhyata // jrt_b.820 //
+
+nirudhyamānaṃ niśśaṅkam agadaṅkāraśaṅkaram /
+aprayuktātitīkṣṇāpi śastrī dhīś ca vyaḍambayat // jrt_619 //
+
+apaśyan darpataẖ kiñcit siṃho viśatu vāgurām /
+citraṃ tu tad viśet pāśaṃ dūradṛśvāpi yat khagaḥ // jrt_620 //
+
+[ps-jrt 100]
+tato mārgapateḥ putrān meṣān iva sa saunikaḥ /
+ruddhavān uddhatakrodhaḥ pāpmā mūrta ivāparaḥ // jrt_b.823 //
+
+tābhyāṃ saparivārābhyāṃ kārāgāram apūpurat / na paraṃ bhuvanaṃ sarvaṃ duryaśobhiś ca niścalaiḥ // jrt_b.824 //
+
+ekāhenaiva tac chrutvā mahmadaḥ prāpticintayā /
+kanyayeva daridras sa naktandivam adūyata // jrt_621 //
+
+durdaṇḍadeśe govindanāmno mitrasya veśmani /
+viśvastaḥ prāviśat tāvad viśramārthaṃ muhammadaḥ // jrt_622 //
+
+[ps-jrt 101] śrīsekandaradattaitaddeśādhīkāraśālinā / mahmadasya purā śākhī tenānāṭi hi durdhiyā // jrt_b.827 //
+
+vahner dhūmavivardhitaś śamayati jvālābharaṃ vārido vṛkṣakṣodabhavo vanāni nayati kṣipraṃ kṛśānuẖ kṣayam /
+dāhaṃ janmabhuvo diśed viṣatarur vairasyadoṣāvahaṃ druhyaty atyupakāriṇe 'pi nitarāṃ lobhābhibhūto janaḥ // jrt_623 //
+
+prāpte muhammade mārgapatau viśvāsato gṛhān /
+sa govindakhaśaś citte kṣaṇam evam acintayat // jrt_624 //
+
+"mantriṇā sūhabhaṭṭena rājyopadravarakṣiṇā /
+dvairājyakārī durbuddhir vinyavāri muhammadaḥ // jrt_625 //
+
+[ps-jrt 102]
+līlevāpakriyā kartur apakāryasya sā punaḥ /
+nāḍīva vraṇitā jātu na śuṣyati kathañcana // jrt_b.831 //
+
+pariṇāme 'tiduẖkhena sukhenāsukhasīmani / apathyeneva kiṃ nas syāt sevitenāmunā phalam // jrt_b.832 //
+
+rājadrohodyataḥ pāpī nissāmarthyo bhayād ayam /
+mama deśaṃ praviṣṭo 'dya rakṣaṇīyo na yujyate" // jrt_626 //
+
+[ps-jrt 103]
+iti sammantrya viśvastajihmago mahmadaṃ tataḥ /
+suptaṃ harim iva vyādho govindas taṃ nibaddhavān // jrt_b.834 //
+
+anekenātha ratnena nissapatnatvalipsayā / ekaṃ sūhas sa puṃratnam akrīṇān mahmadaṃ tataḥ // jrt_b.835 //
+
+tāvac ca sūhabhaṭṭena visṛṣṭāś śreṣṭhabuddhayaḥ /
+anveṣakā gṛhaṃ prāptā govindasya khaśeśituḥ // jrt_627 //
+
+maitrīm ullaṅghya nirvyūḍhām āsritasya ca rakṣaṇam /
+muhammadaṃ nijam mitram arpayām āsa durmatiḥ // jrt_628 //
+
+suptaṃ harim iva vyādho yadā baddhvākṣipat khaśaḥ /
+paśuvat taṃ tadā te 'tha kaśmīrān ānayan drutam // jrt_629 //
+
+mantrārditasya phaṇinaḥ plavagāś capeṭair vyādhās saṭāvighaṭanān nirasor hareś ca /
+baddhasya kātaratayābalino 'vamānair nindāṃ vinā kim iva nāma paraṃ labhante // jrt_630 //
+
+[ps-jrt 104] karoṭīṭaṅkanāghaṭṭaradaṭāṅkārakuṭṭanaiḥ / paryabhūyata jihmena sūhabhaṭṭena mahmadaḥ // jrt_b.839 //
+
+mānyaṃ kṛtāvamānaṃ taṃ śaṅkamānaḥ palāyanam /
+bahurūpe mahādurge sūhaẖ kārām avīviśat // jrt_631 //
+
+[ps-jrt 105] hitaiṣiṇo nijaprāṇair devasya svānujīvinaḥ / viṣaye 'smin hy adhīkāras tenāmandam adhīyata // jrt_b.841 //
+
+vidyuddyotabharair niśi pravasataḥ pānthān navo vāridaḥ pañcāsyo vanavāsino mṛgagaṇān vyāvṛttya viprekṣitaiḥ /
+gatyā vakragatair dineśatanayo rāśīn ajādīn vidhir bhadrābhāsavilokanair duritino viśvāsya paryasyati // jrt_632 //
+
+śāhanāmnyās tato dāsyā mukhena pratibodhitaḥ /
+mahmado nijadhātreyair bandhasthānād akṛṣyata // jrt_633 //
+
+sa hi "svedākulas snānaṃ karomī"ti svarakṣakān /
+bhrāmayitvā praviśyātha snānakoṣṭhaṃ tato 'calat // jrt_634 //
+
+dhātreyair vihitaṃ sandhibhedasthānam upetya saḥ /
+haṃsaẖ krauñcāntaram iva nissṛto 'tha muhammadaḥ // jrt_635 //
+
+roṣād iva srutiṃ hantuṃ niṣpatan nirjharāmbhasām /
+bhṛgor iva tato durgād adāj jhampām akampitaḥ // jrt_636 //
+
+aśaknuvann amuṃ roddhuṃ pāṣāṇā rakṣiṇo na ca /
+nirjharās tu tadaṅghristhanigaḍadhvaniḍambaram // jrt_637 //
+
+dhātreyā mahmadasyātha bhañjanto nigaḍān dṛḍhān /
+sūhabhaṭṭam amanyanta bhagnaṃ sākaṃ svabandhubhiḥ // jrt_638 //
+
+[ps-jrt 106] himagamanataẖ klāntasvānto himaṃ manute 'nalaṃ taṭatarumukhaṃ nāvā gacchan vrajat paripaśyati / valati nitarāṃ viśvaṃ viśvaṃ vivetti ca mūrchitaḥ saralahṛdaye śaṅkāgrastas tanoty atiśaṅkitām // jrt_b.849 //
+
+muhammadavad evāsmiñ śaṅkamānaḥ palāyanam /
+vṛddhaṃ nipītakośo 'pi mārgeśam avadhīd dvijaḥ // jrt_639 //
+
+hate mārgapatau vṛddhe sūhabhaṭṭena durdhiyā /
+amandanindam ākrandan pitarīvākhilā janāḥ // jrt_640 //
+
+ṛkṣais saṃlakṣayann āśāviśeṣaṃ niśi niśy atha /
+pakṣīva nīḍabhraṣṭas sa sūho lokabhayād ayāt // jrt_641 //
+
+ahas tasya vihastasya rātrir āsīn niśā dinam /
+viparyeti dhruvaṃ sarvaṃ vidhau vidhuratāṃ gate // jrt_642 //
+
+kārānāvaṃ samullaṅghya calitaṃ taṃ smaran muhuḥ /
+muhammadatimiṃ sūhadhīvaraś śucam āsadat // jrt_643 //
+
+mantriṇā sūhabhaṭṭena pālitair lālitair janaiḥ /
+jñāto 'darśanamātreṇa svaryātaś śrīsekandaraḥ // jrt_644 //
+
+śrīsekandaraśāhir yaṃ śobhādevyās svam ātmajam /
+utpiñjānām abhāvārthaṃ svadeśān niravāsayat // jrt_645 //
+
+udīcīpatinā rājaputratvād abhinanditam /
+kaśmīrān āyayau jetuṃ tam ādāyātha mahmadaḥ // jrt_646 //
+
+turuṣkakaṭakais sārdhaṃ śrutvā pirujam āgatam /
+vyasṛjat tannirodhāya sūhaś śrīladdagaurakau // jrt_647 //
+
+mantraiś śrīladdarājasya vikramair gaurakasya ca /
+sā turuṣkacamūś śāntā vyādhir dānajapair iva // jrt_648 //
+
+vītabhītis tato mantrī kampanādhipatiṃ vyadhāt /
+laddarājaṃ gaurabhaṭṭaṃ kramarājyeśvaraṃ ca saḥ // jrt_649 //
+
+sandhyākṣaṇa ivodagre sūhe rañjitabhūbhṛti /
+nābhūtām uditau rājayuvarājau ravīnduvat // jrt_650 //
+
+śyeno hanti patatriṇo mṛgapatir niṣpātayiṣṇur mṛgān bhidyante maṇayo 'pi vajramaṇinā khātā khanitrair mahī /
+puṣpāṇīva ca bhāsvatā grahagaṇās sūryeṇa nirdhūnitāḥ prāyeṇātra vilokyate paribhavatrāsas sajātīyataḥ // jrt_651 //
+
+dvijātipīḍane 'nena prerito 'pi muhur muhuḥ /
+śrīsekandarabhūpālaẖ karuṇākomalāśayaḥ // jrt_652 //
+
+yavanābdhimahāvelāṃ yām akārṣīt kathañcana /
+ullaṅghitā dvijātīnāṃ tena daṇḍasthitis tataḥ // jrt_653 //
+
+darśanāntaravidveṣī pradoṣas tamasāṃ nidhiḥ /
+yāgayātrādi nāgānāṃ durvṛttas sa nyavārayat // jrt_654 //
+
+śaṅkamānaẖ kṛtātaṅkasaṅkocānāṃ dvijanmanām /
+videśagamanāj jātirakṣām akṣāmamatsaraḥ // jrt_655 //
+
+"mokṣākṣaraṃ vinā mārgo dātavyo naiva kasyacit" /
+ity ādiśad aśeṣān sa mārgarakṣādhikāriṇaḥ // jrt_656 //
+
+tato mīnān iva vyādho dattabandhe sarijjale /
+dvijātīn atidurjāto deśe 'smin nyagrahīttarām // jrt_657 //
+
+tadbhayānalasantāpaṃ pāpaṃ ca bahavo dvijāḥ /
+agnijvālāpraveśena sahasaiva nyavārayan // jrt_658 //
+
+kecid viṣeṇa pāśena pare toyena cāpare /
+bhṛguṇā vahninā cānye viprā bhītyā vipedire // jrt_659 //
+
+rājadrohasahasreṇa rakṣituṃ rājavallabhāḥ /
+na tv ekam aśakan vipram etasmin dveṣadūṣite // jrt_660 //
+
+durvahatvena nindan sa rājyabhāram alaṃ khalaḥ /
+aślāghata dvijākrandaśravaṇānandalābhataḥ // jrt_661 //
+
+gṛhād dhūmyeva viprāṇāṃ paṅktir jātyabhimāninī /
+ruddhadvārāt tato deśād apamārgair apāsarat // jrt_662 //
+
+tyaktvāpi pitaraṃ putras taṃ pitā cāgamad dvijaḥ /
+sūhāntake kṛtākṣepe videśaṃ paralokavat // jrt_663 //
+
+kṣmā rūkṣā kṣāmam aśanaṃ vyāyāmo vedanāmayaḥ /
+jīvannarakatāṃ teṣāṃ videśo 'gād dvijanmanām // jrt_664 //
+
+dhāṭīphaṇīndrabhītīvratāpasvalpāśanāturaiḥ /
+mārge 'nekair dvijair mṛtyulābhāt sukham amanyata // jrt_665 //
+
+kva ca snānaṃ kva ca dhyānaṃ tapaẖ kva ca japaẖ kva ca /
+bhikṣārtham aṭatāṃ grāmān agāt kālo dvijanmanām // jrt_666 //
+
+dvijānām upakāro 'bhūd apakāramukhād aho /
+yat tannirvāsitās sarve pāpaṃ tīrtheṣv anāśayan // jrt_667 //
+
+videśam agatāś śuṣyatkalatratrāṇacintayā /
+mlecchaveṣā dvijāẖ kecit kaśmīreṣv eva cābhraman // jrt_668 //
+
+vicchettum icchatā vidyāṃ tenāpahatavṛttibhiḥ /
+laḍitaṃ prativeśmāgraṃ piṇḍīlobhād dvijaiś śvavat // jrt_669 //
+
+turuṣkadarśane bhaktyā na tu dveṣeṇa sa dvijān /
+vyaplāvayad ataś cāsmin hatyā na prajagalbhire // jrt_670 //
+
+ity ākhyac ca sa evaiṣāṃ sa tasya parihāradaḥ /
+dveṣadyotanaśaktānāṃ kāryāṇām eva darśanāt // jrt_671 //
+
+ratnākaraṃ yam āśritya brāhmaṇā jagatībhṛtaḥ /
+pakṣarakṣāṃ vyadhus so 'bhūt kṣudrabhaṭṭo 'sya vallabhaḥ // jrt_672 //
+
+malānordīnanāmānaṃ yavanānāṃ paraṃ gurum /
+vaidagdhyāc chaṅkamānas "sa drohī"ti tam abandhayat // jrt_673 //
+
+yataḥ prabhṛti sa prāpad rājyam acchattracāmaram /
+tataḥ prabhṛti rogārtir iva darśanadūṣaṇā // jrt_674 //
+
+svapne 'pi nātyajat sūhabhaṭṭaṃ ghaṭṭitavairiṇam /
+bhogas sadvāsanā cātiśuddhānāṃ tapasāṃ phalam // jrt_675 //
+
+tasyaiva phalapūrṇānām ṛtūnām iva mantriṇām /
+mānasya hānisampattī bhāsvato 'dhīnatāṃ gate // jrt_676 //
+
+ekasmiñ śāhikhāne sa dṛṣṭvā mantraparākramau /
+atyantacintācakito nidrāṃ nāpat kadācana // jrt_677 //
+
+paśyann evāvilaṃ sūhasarpaṃ saviṣayā dṛśā /
+śāhikhānapradīpo 'bhūt tamas saṃhartum akṣamaḥ // jrt_678 //
+
+dvijātipīḍayā śāstranindayā drohacintayā /
+cikitsayā ca tasyābdair yātaṃ tricaturais tathā // jrt_679 //
+
+[ps-jrt 107]
+dāyavān iva doṣo 'sya hetumātraparīkṣayā /
+saṃvṛtaujā vyalambiṣṭa śāhikhānasya bādhane // jrt_b.891 //
+
+valīmukhamanojñas sa prajābhāgyabalodayāt / anaiṣīd bhagnatāṃ śāhikhānacintāmaṇiṃ na ca // jrt_b.892 //
+
+prajāpuṇyodayenaiva prerito duṣkṛtotthitaḥ /
+kṣayāmayo duścikitsyo dvijarājam aśoṣayat // jrt_680 //
+
+anālokyaivendor udayam agamiṣyad yadi śamaṃ samantān nādityopaladahanarāśivyatikaraḥ /
+kim adrakṣyan nāyaṃ tadudayavaśasrāvituhinadyutigrāvāmbhobhiẖ kṛtadharaṇitāpopaśamanam // jrt_681 //
+
+varṣāṃs tricaturān anyāñ jīvec cet sa na kiṃ tataḥ /
+śāhikhānodaye paśyed ihaiva svāṃhasāṃ phalam // jrt_682 //
+
+jīvaty eva tatas sūhabhaṭṭe bhītyā palāyitam /
+viśrāmya laddarājaṃ drāg haṃsagaurau babandhatuḥ // jrt_683 //
+
+śrīdhenau rāgiṇau tau dvau madodagrau vṛṣāv iva /
+anyo'nyaśṛṅgabhaṅgārthaṃ prāvartete dvije mṛte // jrt_684 //
+
+kārāyā mocite laddarāje haṃsena saṃyati /
+prāṇāṃs tyaktvā gaurabhaṭṭas surastrīṇāṃ mudaṃ vyadhāt // jrt_685 //
+
+tyaktvā gatyantarābhāvāt karikarṇavilolatām /
+puṃścalyeva patir vṛddho bheje haṃsas tadā śriyā // jrt_686 //
+
+bālo 'pi śāhikhāno 'sya notsekaṃ soḍhavān punaḥ /
+śaśīva timirasphāraṃ na hi tejo vayo'nugam // jrt_687 //
+
+ṭhakkurais saha sammantrya yuvarājo 'tha mantravit /
+laddarājaṃ vinighnantaṃ haṃsabhaṭṭaṃ raṇe 'vadhīt // jrt_688 //
+
+śāhikhānaṃ prajārāgo nimnaṃ paya ivāgamat /
+amandacūtasampattau kundaṃ nindati ṣaṭpadaḥ // jrt_689 //
+
+yuvarājaṃ jayodagraṃ parirabdhuṃ samutsukā /
+rājyaśrīs samayālābhāc cintākulam avartata // jrt_690 //
+
+snehād vidagdhabhāvāc ca prajārāgabharād api /
+adhikārabharaṃ rājā yuvarāje samarpipat // jrt_691 //
+
+merakaṃsārasañjñasya turuṣkasyātha durmateḥ /
+dvipasyeva madāndhasya dviṣṭo 'bhūt tadguṇāṅkuśaḥ // jrt_692 //
+
+suciraṃ malinai rājño mānasaṃ vāridair iva /
+paiśunyavarṣibhir netuṃ mālinyaṃ na sma śakyate // jrt_693 //
+
+bhakte dakṣe 'nuje snigdho bhūbhṛd āśritavatsalaḥ /
+atipreraṇayā teṣāṃ rājye 'py udvignatām agāt // jrt_694 //
+
+yuvarājaṃ sevakāṃś ca rakṣituṃ svān mahīpatiḥ /
+tīrthānusaraṇākāṅkṣī tam ity evam avocata // jrt_695 //
+
+"anarthitarpaṇaṃ vittaṃ cittam adhyānadarpaṇam /
+atīrthasarpaṇaṃ dehaṃ paryante śocyatāṃ vrajet // jrt_696 //
+
+diggajeṣv iva yuṣmāsu bhūbhāraṃ nyastavān aham /
+puruṣottamasevāyai yate śeṣa ivāparaḥ" // jrt_697 //
+
+śāhikhānārṇavaḥ premamandarāndolitas tataḥ /
+vāṇīṃ sudhākarakalām īśvarāya navām adāt // jrt_698 //
+
+"astu sandehasandohād dūre tīrthakadarthanā /
+dvāraṃ yaśassukṛtayoḥ prajāpālanam astu vaḥ // jrt_699 //
+
+cirasya pālitāṃ pitryāṃ hitvā niśśaraṇāṃ mahīm /
+nairghṛṇyenaiva śūras tvam aśaktyaivāṅkyase 'khilaiḥ // jrt_700 //
+
+devasya yadi tīrthārtham utkaṇṭhā vartatetarām /
+ārādhakānām asmākaṃ kim anyat kāryam ucyatām" // jrt_701 //
+
+vyaktam ity uktavaty eva yuvarāje nareśvaraḥ /
+īṣatsmitarucā cāruṃ punar vācam avocata // jrt_702 //
+
+"prajānupālanāt puṇyaṃ kevalāt kiyad arjyate /
+rasāyanānām agryaṃ yad anekarasacarvaṇam // jrt_703 //
+
+dehāt pṛthaṅ nivasato madbhujasyeva te vata /
+dṛṣṭvā parākramaṃ śaṅkā madaśaktau kathaṃ bhavet // jrt_704 //
+
+etāvad api vākyaṃ me yadi naivānutiṣṭhasi /
+tvayi saṅkalpitāś śeṣās tad āśās santu dūrataḥ" // jrt_705 //
+
+nirbandheneti jalpan sa tīrthārthaṃ dharaṇīpatiḥ /
+yuvarājaṃ haṭhād rājyabhāram agrāhayac cirāt // jrt_706 //
+
+23a) sulṭān zayn al-‘ābidīn (ls 4494-4495)
+
+"śrījainollābhadīnākhyas suratrāṇo bhavan bhavān /
+ciraṃ rājyaṃ kriyād" evaṃ rājāsyāśiṣam abhyadhāt // jrt_707 //
+
+tīrthadarśanalobhena svadeśān niragān nṛpaḥ /
+na punar yuvarājasya cittāt premārgalāñcitāt // jrt_708 //
+
+kośasārāṇi ratnāni vājiratnāni cārpayan /
+bhrātaraṃ vasatīr dvitrās so 'nvagāt premagauravāt // jrt_709 //
+
+mārge kleśaṃ prayatnena siddhiṃ tīrthaphalālpatām /
+uktvā mārge khalā rājñas tīrthaśraddhām akhaṇḍayan // jrt_710 //
+
+svajāmātus tiraskāraṃ manyamānena māninā /
+madrendreṇātha bhūpālo haṭhāt tīrthān nivartitaḥ // jrt_711 //
+
+prāptāyāṃ śaradi śreṣṭhadaśāyām iva bhūpatim /
+madrarājas tam ādāya kaśmīrān pratyagāt tataḥ // jrt_712 //
+
+bhrātur āgamanāt tuṣṭyā madrāsāragrahād ruṣā /
+navarājaḥ prasāde ca kāluṣye ca nimagnavān // jrt_713 //
+
+[ps-jrt 109]
+devasyopadravaṃ kārṣīn mā madrendracamūr iti /
+iyeṣa ṭhakkuraṃ rājā taṃ niroddhuṃ visṛṣṭavān // jrt_b.927 //
+
+yuddhaṃ vinānivartinyāṃ senāyāṃ madrabhūpateḥ / ājñāṃ vinākṣamo yoddhuṃ vyāvartata sa ṭhakkuraḥ // jrt_b.928 //
+
+kṣudreṣv atha sa madreṣu yuvarājo mahāmatiḥ /
+bhrātus snehād ruṣaṃ tyaktvā rājyatyāgaṃ svayaṃ vyadhāt // jrt_714 //
+
+22b) ‛alī šāh (ls 4495-4496)
+
+tan nyastaṃ divasāvasānasamaye sūryasya tejo nijaṃ pratyūṣe pratipādayann atiśayaślāghyasvatejā bhavan /
+vahnir yajvakulais tato 'pi divase śraddhānubandhākulais tejovṛddhimuṣā navena haviṣā yajñeṣu santarpyate // jrt_715 //
+
+ṭhakkurair anvito rājā pavanaẖ kusumair iva /
+kaśmīrebhyo gatas sarvair deśādhīśair natas tataḥ // jrt_716 //
+
+sukhaṃ tāvad agāhiṣṭa vītanakrāṃ nadīm iva /
+ṭhakkurair ujjhitāṃ madracamūẖ kaśmīramedinīm // jrt_717 //
+
+atha vistīrṇam ākrāntam āliśāhena bhūbhujā /
+pitryaṃ siṃhāsanaṃ tena na tu sajjanamānasam // jrt_718 //
+
+udyaccheta kathaṃ jaḍadyutir aho dūrollasallāñchano gacched dīptakaro na ced dinakaro lokāntaraṃ svecchayā /
+vīreṇātyavahelayā viracito 'pakṣo jaḍaẖ kātaraḥ sambhāvya svaparākrameṇa vijayaṃ viśvaṃ tṛṇaṃ manyate // jrt_719 //
+
+śākhābhaṅgena sacchāyam udyānaṃ plavagā iva /
+maṇḍalaṃ kṣobhayām āsus turuṣkā rājasevakāḥ // jrt_720 //
+
+kātarān nāma bhūpālād aniṣpannaniyantraṇaḥ /
+yavano merakaṃsāro vyadhān maṇḍalaviplavam // jrt_721 //
+
+akārṣīn malino bhṛṅgas saṅkucantīr ivābjinīḥ /
+pauranārīr anāryas sa haṭhasambhogadūṣitāḥ // jrt_722 //
+
+mahākarair madenāndhaiḥ paṅkasaṅkulatāṃ bhajat /
+akṣobhi maṇḍalaṃ svacchais saro marugajair iva // jrt_723 //
+
+mantrimantrair avāryāṇāṃ divase 'py anivartinām /
+rakṣasām eva kaśmīrās tadā hastavaśaṃ gatāḥ // jrt_724 //
+
+arājakaṃ varaṃ rājyaṃ na svāmī tādṛśaḥ punaḥ /
+abhūṣaṇau varaṃ karṇau na punar lohakuṇḍalam // jrt_725 //
+
+[ps-jrt 110] himād agnis tamas sūryāc chilā vyomnas tadāpatat / yat pālako 'pi bhūpālas sarvalokakṣayo 'bhavat // jrt_b.941 //
+
+sadma tuṅgaṃ varo vājī svacchaṃ vāso maṇir mahān /
+svīkṛtaṃ yavanais tat tad yad yac chobhāvahaṃ prabhoḥ // jrt_726 //
+
+akārṣīt pañcaṣān māsān rājyaṃ sa jaḍanāyakaḥ /
+prajāpāpavipākena na punas svena karmaṇā // jrt_727 //
+
+mālinyaṃ sumanaḥprathāḥ prathayate dainyaṃ nidhatte dṛśaḥ sūryālokatiraskṛtaṃ ca kurute saṃhāram āśā nayan /
+unnidraẖ kam upadravaṃ na tarasā kurvīta dhūmodgamo noddyotetatarāṃ śikhī yadi mahājvālākalāpākulaḥ // jrt_728 //
+
+śrīsekandaradattasya rājyasya ṛṇam ātmanaḥ /
+nivārayitukāmena svalakṣmīphalakāṅkṣiṇā // jrt_729 //
+
+madrendradveṣapūrṇena khuẖkhurasvāminā tataḥ /
+navarājo 'rthito dūtair nijadeśāgamaṃ prati // jrt_730 //
+
+nakro na cej jalanidher bahir abhyupeyāt kākas tyajen na varapādapam unnataṃ cet /
+ākhur na ced gahanagartaguhāṃ vimuñced dhantavyatāṃ katham avāpnuyur eva tat te // jrt_731 //
+
+"āśrayo yuvarājasya maddviṣo dīyate 'munā" /
+jasrathaṃ prati bhūpālaẖ krodhād ity abhyaṣeṇayat // jrt_732 //
+
+mlecchacchāditamāhātmyair udvignais sacivair nijaiḥ /
+aniṣiddhodyamamatir dūtair ubhayavetanaiḥ // jrt_733 //
+
+yuktyopodvalitaśraddhas tathā dvairājyajīvibhiḥ /
+navarājodayaṃ lekhamukhena prāpayiṣṇubhiḥ // jrt_734 //
+
+prasādalobhād yavanair atimātrakṛtastutiḥ /
+navarājajayodrekaśravaṇabhraṣṭasāhasaiḥ // jrt_735 //
+
+svasainyair dainyacakitair nindyamānodyamo nṛpaḥ /
+mallekaṃ jasrathaṃ jetuṃ prasthānam akarot tataḥ // jrt_736 //
+
+abhyamitrīṇatāṃ tasya kaśmīrendrasya gacchataḥ /
+āsīn mitrasya sāmmukhyaṃ na mitrāṇāṃ mahībhujām // jrt_737 //
+
+[ps-jrt 111]
+svasyātyaunnatyam ālakṣya śaṅkamāno 'tha pātakam /
+khujyākādas samaṃ mantram amantrayata mantribhiḥ // jrt_b.954 //
+
+"mantravikramamukhyāni lakṣaṇāni kva bhūbhujām /
+ayaṃ bāliśabhāvasya bhājanaṃ kva janādhipaḥ // jrt_b.955 //
+
+asmābhir nihitāś cāsminn upadeśā hitā api /
+pratīpaṃ yānti śaśinaḥ paṅkaje kiraṇā iva // jrt_b.956 //
+
+prāg eva yuvarājo 'bhūd ajayyo 'sahyasāhasaḥ /
+viśeṣeṇādya madreśadveṣāj jasrathamānitaḥ // jrt_b.957 //
+
+rājyāśrayeṣu nāsmāsu viśvāsī nūtano nṛpaḥ /
+hāralubdhasya dāmnas tu hāro na maṇibhṛtphaṇī // jrt_b.958 //
+
+tasmād asmābhir ete na yuvarājo vijīyate /
+yogyāḥ prāhuṇakenaiva gṛhe ghnanti bhujaṅgamam // jrt_b.959 //
+
+jīyamāne narendre na yuvarāje niraṅkuśāḥ /
+āyāntu maṇḍalaṃ sarve sādhayāmaś cikīrṣitam" // jrt_b.960 //
+
+iti sammantrya mantrī sa yuvarājābhiyojane / sodyamasya narendrasya hetukartṛdaśām agāt // jrt_b.961 //
+
+yatra yatrāgaman mlecchakaṭakas sa madotkaṭaḥ /
+tatra tatra rajovyājāt tamo mūrtam adṛśyata // jrt_738 //
+
+pālanīyeṣu deśeṣu rājapuryādiṣūddhataḥ /
+paradeśeṣv ivākārṣīt sa luṇṭhanaparābhavam // jrt_739 //
+
+prāpte 'tha mudgaravyālanāma sthānaṃ mahīpatau /
+sandeśam ity amandaujāḥ prāhiṇon madrabhūpatiḥ // jrt_740 //
+
+"pattilokas sasampattir vājino vegarājinaḥ /
+bhaṭā raṇodbhaṭās santi kaṭake tava yady api // jrt_741 //
+
+tathāpi cchalabandheṣu prasiddheṣu mahītale /
+yūyaṃ khuẖkhurayuddheṣu naiva nāma pragalbhatha // jrt_742 //
+
+vayam eva tu jānīmaẖ khuẖkhurāṇāṃ raṇacchalam /
+ahir eva bhujaṅgasya padaṃ jānāti netaraḥ // jrt_743 //
+
+ato yāvad vayaṃ prāptās tvatsevāvidhisiddhaye /
+bhavadbhis tāvad atraiva sthātavyaṃ parvatopari" // jrt_744 //
+
+madreśasya sa sandeśo mandair yavanapuṅgavaiḥ /
+svayaśolabdhaye jñāto madasammūḍhadṛṣṭibhiḥ // jrt_745 //
+
+rājñi mūḍhe 'varūḍhe 'tha mānād iva mahīdharāt /
+dhvajair vāyucalair yātaṃ khuẖkhureśabalād bhiyā // jrt_746 //
+
+dhāvadaśvabalakṣodāt tanīyasi mahītale /
+harṣabhīrasasambhede majjati sma phaṇīśvaraḥ // jrt_747 //
+
+aśvakṣuṇṇe 'srasaṃsikte bhūtale 'sikuśāñcite /
+vīrāḥ prāṇān pratāpāgnau tatrājuhuvur āhave // jrt_748 //
+
+āliśāhas tato rājā sindhau pravahaṇaṃ yathā /
+abhāgyadurmarudvegād abhajyata raṇārṇave // jrt_749 //
+
+23b) sulṭān zayn al-‘ābidīn (ls 4496-4546)
+
+viśvāndhaṅkaraṇāndhakāranikaragrastasya sūryodayaṃ hemante himamārutair hatadhṛteḥ puṣpākarābhyāgamam /
+duṣṭakṣmāpatitarjitasya jagato nirdoṣaleśaṃ prabhuṃ lokeśo janayan vyanakti nitarāṃ kāruṇyam atyujjvalam // jrt_750 //
+
+śrījainollābhadīno 'tha kaśmīrān apakalmaṣaḥ /
+anukūlo vidhāteva prāviśad vijayorjitaḥ // jrt_751 //
+
+satāṃ stutyā diśāṃ bheryā mukhāni dhvanayann ayam /
+paurāṇāṃ prāṅ manaḥ paścād rājadhānīṃ nṛpo 'viśat // jrt_752 //
+
+dhīnairmalyaṃ janasyāho jātaṃ rājño 'bhiṣekataḥ /
+pratāpo vairiṇāṃ śāntas tasmiṃś chatrāṇi bibhrati // jrt_753 //
+
+tannītiḥ pūrvarājeṣu kuṇṭhotkaṇṭhāḥ prajā vyadhāt /
+guṇātiśāyanī yā ca śarkarekṣuraseṣv iva // jrt_754 //
+
+pūrvarājavyavasthās sa vinaṣṭā navayann abhūt /
+śiśiropahatā vallīr vasanta iva bhūpatiḥ // jrt_755 //
+
+parasparādhikaṃ śatrūñ jayadbhir durjayān api /
+śastrair mantrā jitās tasya mantraiś śastrāṇi ca prabhoḥ // jrt_756 //
+
+kāntyāṅgaṃ vadanaṃ vācā śriyoraẖ kṣamayā manaḥ /
+śritaṃ paśyanty agād dūraṃ kīrtir īrṣyāvaśād iva // jrt_757 //
+
+rājñaẖ kalidaśāmadhye dharmyā sāmrājyapaddhatiḥ /
+antardaśeva śuśubhe śubhā kṛtayugasya sā // jrt_758 //
+
+bhoge sakhā naye mantrī vivektā śāstranirṇaye /
+śrīmuhammadakhāno 'bhūt kaśmīrendrasya sodaraḥ // jrt_759 //
+
+kim anyad rājyam evāsīc chattracāmaravarjitam /
+śrīmuhammadakhānasya kaśmīrendraprabhāvataḥ // jrt_760 //
+
+vasanta iva kāmasya vayasyo bhūpater abhūt /
+khuẖkarādhipatis tasya bhṛtyeṣv abhyadhikapriyaḥ // jrt_761 //
+
+durvyavasthāṃ nivāryāyaṃ deśe 'smin mlecchanāśite /
+iti rājyapariprāptiphalaṃ yāvad acintayat // jrt_762 //
+
+tāvad drohocitaṃ karma drogdhāro rājavallabhaiḥ /
+apṛṣṭvaiva mahīpālaṃ nītā vītabhayais sphuṭam // jrt_763 //
+
+yaśo diśi śriyaṃ sādhau sukhaṃ lokeṣu ropayan /
+vyadhāt prakramabhaṅgaṃ taṃ yac chatrūn udamūlayat // jrt_764 //
+
+ekāntā tigmatā bhānor mradimā śaśinaḥ punaḥ /
+sa dvau jetum ivāpuṣyat tatsaṃsargamayīṃ śriyam // jrt_765 //
+
+asaṅkhyān atra saṅkṣipte tadguṇān varṇayāmi kim /
+sṛgālānāṃ guhāmadhye kathaṃ hastipatir vaset // jrt_766 //
+
+tasmāc chailendravac citre makure sūryabimbavat /
+nyasyāmi tadguṇākhyānam atra citte trilokavat // jrt_767 //
+
+śītoṣṇayor ivorjādau viṣuve 'harniśor iva /
+tasya māno 'bhavat tulyas sve pare vāpi darśane // jrt_768 //
+
+rājā vaṇig ivātyarthaṃ tulāyāḥ puṭayor iva /
+sāmyabhaṅgaṃ darśanayor nākṣamiṣṭa kathañcana // jrt_769 //
+
+śānte siddhāśrame siṃhair mṛgā iva na pīḍitāḥ /
+turuṣkaiḥ puṣkalabhayair brāhmaṇāḥ pūrvavat tadā // jrt_770 //
+
+doṣākareṇa sūhena yeṣāṃ saṅkocitā sthitiḥ /
+vyakāsayat tato bhāsvān guṇinas tān mahīpatiḥ // jrt_771 //
+
+randhrair adhogatiṃ prāptā kulyevoddhṛtya bhūbhṛtā /
+vidyā pravāhitā tena guṇinā guṇarāgiṇā // jrt_772 //
+
+doṣacchedakaro rājā kramād bhiṣag ivānalam /
+kaśmīreṣu sadācāram apīpalad upakramaiḥ // jrt_773 //
+
+ahaṅkārāgadaṅkāro rājā prakṛtivṛddhaye /
+darśanānāṃ sa dhātūnām ivolbaṇam aśīśamat // jrt_774 //
+
+kāladharmeṇa balinā mātsyanyāyapravartanam /
+aṣṭalokeśatejo'ṃśadhāraṇasyāsya lakṣaṇam // jrt_775 //
+
+sa sūhabhaṭṭasaṃsparśaduṣṭāyāś śuddhaye bhuvaḥ /
+pratāpāgniṃ dhruvaṃ dīptamahākāśam ajijvalat // jrt_776 //
+
+rājñas sañcinvato mantraprapañcaṃ pañcadhā sthitam /
+jigīṣayeva tasyārivargaḥ pañcatvam āśrayat // jrt_777 //
+
+anityabāhyavidveṣinirjayastutisaṃstavaḥ /
+nityāntassthārisaṃhartus tasya pratyuta garhaṇā // jrt_778 //
+
+śakto 'pi kāśyapīśakraś śakyān evābhyaṣeṇayat /
+vyomni yātrāṃ karoty arkas satāre na tu soḍupe // jrt_779 //
+
+nājigīṣat sa tejasvī śatrūn vibhavatṛṣṇayā /
+harir māṃsādilobhena hinasti na hi hastinaḥ // jrt_780 //
+
+śaileṣu taddviṣo bhānupratāpādhidavaśramaiḥ /
+prāyaścittīyituṃ pañcatapastvaṃ dhruvam āśrayan // jrt_781 //
+
+prāvartiṣṭa mahīṣṭho 'pi notpathena sa jātucit /
+rākendur na niśārambhaṃ vinā jātv apy udeti yat // jrt_782 //
+
+"garvaṃ pravṛddhā vāstavyā hīnā maiva kṣayaṃ gaman" /
+iti nītividā rājñā tebhyo balir agṛhyata // jrt_783 //
+
+vairikīrtir juhotu svaṃ vikramasya viyogataḥ /
+vatāgnisadṛśe rājñaḥ pratāpe sahitaṃ śriyā // jrt_784 //
+
+ḍhillīśapīḍitaṃ jātu jasrathaṃ śaraṇāgatam /
+droṇīguhāsu so 'rakṣat tamo 'drir iva bhāskarāt // jrt_785 //
+
+tasmiñ śāsitari kṣoṇīṃ vinetari durātmanām /
+jayāpīḍapurasthasya bhūmidevasya kasyacit // jrt_786 //
+
+śaṣpagrāsābhilāṣād vā vidhātur vā niyogataḥ /
+udācitāpy agād dhenur mūrtevāśā svadhābhujām // jrt_787 //
+
+gato maḍavarājyaṃ sa tīrthasnānāya jātucit /
+svāṃ parijñātasaṅketāṃ gāṃ parijñātavān dvijaḥ // jrt_788 //
+
+saniścayo gṛhaṃ yāntīṃ sāyaṃ tām anugamya gām /
+vivādam akarod veśmasvāminā saha tatra saḥ // jrt_789 //
+
+tau lobhaniścayagrastāv aśāntakalahāv ubhau /
+mahīpālasabhāsthāne vivādaṃ kartum udyatau // jrt_790 //
+
+tayor aśaktayor jetum upapattiṃ parasparam /
+śṛṅgāṭāni parīkṣārthaṃ gor agre vyakiran nṛpaḥ // jrt_791 //
+
+sā bālye grasanābhyāsāc chīghram āghrāya saspṛhā /
+gaur abhuṅkta phalānīva na tu tatsantatiś ciram // jrt_792 //
+
+sabhāyāṃ rājanaipuṇyaṃ stuvatyāṃ kṛtaniścayāt /
+daṇḍyenājigrahad daṇḍaṃ bhāṇḍaṃ rājā dvijanmanā // jrt_793 //
+
+tasya dākṣiṇyadakṣasya prajānāṃ hitahetunā /
+putre mantriṇi mitre vā duṣṭe nālakṣyata kṣamā // jrt_794 //
+
+aparādhaṃ vinā jāyāṃ kṣībo nighnan priyo 'pi san /
+mereśāyo 'pi yavano vadhaṃ bhūpena lambhitaḥ // jrt_795 //
+
+śatrupakṣe nikāraṃ sa kṣipan kṣitipurandaraḥ /
+akarod ādaraṃ nityaṃ yogināṃ nayayoginām // jrt_796 //
+
+parākramaś ca nītiś ca tasya teṣāṃ ca bhūbhujām /
+karuṇā ca vivekaś ca yasmin rājani rājati // jrt_797 //
+
+kāmo viyogivargasya karoty apacitiṃ sadā /
+nirvikāras smaro yogivargasyāpacitiṃ vyadhāt // jrt_798 //
+
+saumyā bhīmā guṇā yasminn avasan navasaṅgamam /
+kvānyatra sāgarād dṛṣṭā viṣāmṛtajalānalāḥ // jrt_799 //
+
+ciraṃ stheyair upātto 'rthipratyarthibhyāṃ dhanagrahaḥ /
+tena dharmapravṛttena sadvṛttena nivāritaḥ // jrt_800 //
+
+kenāpi hetunā pūrvaṃ laularājadvijanmanā /
+bhūprasthadaśakāt prastho vikrīto lekhyapūrvakam ////
+
+bālānāṃ nonarājādiputrāṇāṃ tam udīrya saḥ /
+vikrayābde brahmabhūyaṃ laularājo 'gamat tataḥ // jrt_802 //
+
+nonarājādyasāmarthyāt prasthagrāhair abhujyata /
+avikrītam api prasthanavakaṃ balibhis tataḥ // jrt_803 //
+
+evaṃ kṛte daśaprasthabhoge tair balibhiś ciram / nagabhogāya kapaṭaṃ kṛtaṃ vikrayapattrake /
+
+[ps-jrt 112]
+vyañjanāgrasthitaikārarūpajñānāya lekhakāḥ /
+rekhāṃ pūrve vyañjanānāṃ paścādbhāge kilālikhan // jrt_b.1029 //
+
+kālāntare liper bhedād upary adyatanāḥ punaḥ /
+vyañjanānāṃ likhanty eva rekhām ekārabodhikām // jrt_b.1030 //
+
+bhūprastham ekaṃ vikrītam iti vikrayapattrake /
+te makārasthitaikārabodhirekhāpade tataḥ // jrt_b.1031 //
+
+bhūprasthagrāhiṇo dhūrtā dakāraṃ samalekhayan /
+makāraṃ te śakāraṃ ca kārayām āsur añjasā // jrt_b.1032 //
+
+bhūprastham ekaṃ vikrītam iti vikrayapattrake / jrt_b.1033ab /
+vikrītaṃ prasthadaśakam iti varṇān alekhayan // 804ef //
+tasmin rājñi vicārajñe nonarājasya nandanaḥ /
+balād dhṛtāṃ bhuvaṃ rājasabhāyām aham ākṣipam // jrt_805 //
+
+pratyarthibhir athānītaṃ bhūrjaṃ rājājñayā nṛpaḥ /
+yuktijñas salilasyāntar vācayitvākṣipat tataḥ // jrt_806 //
+
+naṣṭeṣu navavarṇeṣu purāṇeṣu sthireṣv atha /
+bhūprastham ekaṃ vikrītam iti sabhyān avācayat // jrt_807 //
+
+rājā kīrtim ahaṃ bhūmiṃ kūṭakṛd daṇḍam adbhutam /
+prajās sukhaṃ khalā bhītiṃ prāptavantas samaṃ tataḥ // jrt_808 //
+
+indo rāhubhayaṃ kadāpi kurute kālaẖ kalāḥ pūrayan siñcan sañcinute taḍinnipatanakṣobhaṃ taror vāridaḥ /
+vedhās satpuruṣasya sarvajagatām āhlādanāyodyamaṃ kurvann āmayadarśanena kurute bhītiprakarṣaṃ kṣaṇam // jrt_809 //
+
+abādhiṣṭatarāṃ kaṣṭo viṣasphoṭaẖ kadācana /
+prakoṣṭhaṃ bhūmipālasya prajānāṃ hṛdayaṃ ca saḥ // jrt_810 //
+
+māghamāsīva puṣpāṇāṃ mlecchaprāleyabādhayā /
+na lābho viṣavaidyāṇāṃ deśe 'sminn abhavat tadā // jrt_811 //
+
+yajvā gāruḍaśāstrajñaś śivabhaṭṭo nṛpānugaiḥ /
+atrānviṣyadbhir āpto 'tha kūpo 'dhvanyair marāv iva // jrt_812 //
+
+cikitsāyāṃ vidagdhas sa mlecchabhītyā vyalambata /
+sphuliṅgadagdhaḥ puruṣas spṛśaty api maṇiṃ cirāt // jrt_813 //
+
+svayaṃ dattābhayo rājñā prāptas tam udamūlayat /
+śivabhaṭṭo viṣasphoṭaṃ karīva viṣapādapam // jrt_814 //
+
+tasya kīrtis sukhaṃ rājñaḥ prajānāṃ harṣasantatiḥ /
+prārohaṃs trīṇi visphoṭe tatraikasmin vipāṭite // jrt_815 //
+
+tuṣṭena bhūbhujā dattāṃ yatheṣṭam api sampadam /
+naikṣiṣṭa śivabhaṭtas sa yatātmeva varāṅganām // jrt_816 //
+
+[ps-jrt 113]
+uddāhapātakavaśād iva nirghṛṇas san dagdhvā tṛṇaṃ tṛṇakṛśānur upaiti śāntim /
+jātāmbuvāhakaruṇāpraṇayāt tṛṇasya kāntiḥ punaś śataguṇā masṛṇābhirāmā // jrt_b.1046 //
+
+kṣmāṃ santāpayatā gāḍham āṣāḍheneva vāridāḥ /
+sūhabhaṭṭena saṃśuṣya parābhūtā yayur diśaḥ // jrt_b.1047 //
+
+varṣā marud iva kṣmāpas tadvidyāpratyayotsukaḥ /
+ānāyayat sa tān sarvān paṇḍitān nijamaṇḍalam // jrt_b.1048 //
+
+muktāhāropame deśe vidvadratnāni nāyakaḥ /
+kāntyā vā sudhiyā tatra yathāyogaṃ nyavīviśat // jrt_b.1049 //
+
+rājā saṃropitān arghavṛttidānena paṇḍitān /
+āpyāyayaj jaleneva mālākāro mahīruhān // jrt_b.1050 //
+
+nāśitaṃ sūhabhaṭṭena yad yat kaśmīramaṇḍale /
+yojitaṃ śiryabhaṭṭena rājaprārthanayātha tat // jrt_b.1051 //
+
+pravartya yāgayātrādi nāgānāṃ bhaṭṭaśiryakaḥ /
+turuṣkāpahṛtāṃ bhūmiṃ vidagdhebhyo nyadāpayat // jrt_b.1052 //
+
+udaye dāpite tena hindukānām akhaṇḍite /
+śiryabhaṭṭāya cukupus sarve yavanadānavāḥ // jrt_b.1053 //
+
+mahāpadmaphaṇīndrāmbhassaṃbhede kumbhakena saḥ /
+baddho 'pi dṛtivat sthitvā yavanendrān vyalakṣayat // jrt_b.1054 //
+
+tāpo yasyāhni śailāñ jvalayati sa ravis sāyam akṣṇāpi gamyaḥ svagrāvṇaś śuṣyato 'hni dravayati na śaśī pūrakas sāyam abdheḥ /
+kāruṇyād eva loke nijamatisakalaṃ svecchayā darśayitvā taṃ tadbhāgyāvasānāt prathamam atha mahāṃs tūrṇam antardadhāti // jrt_b.1055 //
+
+kalau pātakināṃ puṃsāṃ sparśadarśanavihvalā /
+avaśyaṃ śāradā devī tadāntardhānam āśrayat // jrt_b.1056 //
+
+mukhe svedo bhuje kampaḥ pādasparśe vidāhitā /
+jātu jātv abhavad devyā no tadā hi tathā kvacit // jrt_b.1057 //
+
+drohārjitād dhanād bhāgaṃ prasādena niyuñjati /
+kaśmīraloke sā devī nānugrahaparā hy abhūt // jrt_b.1058 //
+
+dūrvāmātreṇa tuṣyanti viśuddhena hi devatāḥ /
+prāṇair api na mālinyadūṣitair jātucit punaḥ // jrt_b.1059 //
+
+kalikāle tu devyās sa prabhāvo 'pi śamaṃ gataḥ /
+jātv ity agān nṛpo devīṃ draṣṭuṃ tadyātrikais saha // jrt_b.1060 //
+
+nadīṃ madhumatīṃ snānapānābhyāṃ phalayann ayam /
+śāradākṣetram āsīdat sīdatpariṣadākulam // jrt_b.1061 //
+
+devībhaktābhayodyukto vyaṅktuṃ tacchaktim udyataḥ /
+yuktāyuktavivektā sa tatra rājā nyavikṣata // jrt_b.1062 //
+
+tatrāpi teṣāṃ daurātmyadarśanād vismito nṛpaḥ /
+bhaktihrāsam agād devyāṃ yātrikeṣu ca kopitām // jrt_b.1063 //
+
+"sākṣāt tvaddarśanaṃ devi devānām api durlabham /
+asmābhir nārthanīyaṃ tat kalikālakalaṅkitaiḥ // jrt_b.1064 //
+
+aśaktānāṃ bhavadrūpaṃ niṣkalaṃ dhyātum arcitum /
+bhaktibhājām anukrośād yat tu rūpaṃ tvam agrahīḥ // jrt_b.1065 //
+
+tavāsyāṃ pratimāyāṃ ced vyapeto naiva sannidhiḥ /
+pavitrayatarām adya svapne tad darśanena mām // jrt_b.1066 //
+
+asmābhiś ca tatas sā tvaṃ yathāśakti niṣevyase /
+mithyābhaktadurātmatvāt tvaṃ ced dūram ito gatā // jrt_b.1067 //
+
+kimarthaṃ pratimā tarhi garhitā hinduvairibhiḥ" /
+vijñapyeti sa saptamyāṃ bhādre rājā jitendriyaḥ // jrt_b.1068 //
+
+aśeta śāradākṣetraprāsādasthaṇḍilopari /
+darśitaṃ na yadā svapne kiñcit sannidhisūcakam // jrt_b.1069 //
+
+rājñāṣṭānavatau varṣe svāṃ mūrtiṃ devy acūrṇayat /
+nāsyādād darśanaṃ devī mlecchasaṃsargato dhruvam /
+svāmī bhṛtyāparādhena garhaṇīya iti sthitiḥ // jrt_b.1070 //
+
+devīdarśanavicchedi tasya nāsīd dhi kiñcana /
+dayā satyaṃ vivekaś ca tam evāśrayate tadā // jrt_b.1071 //
+
+vyāvṛtya yavanānāṃ sa vanānām iva vāridaḥ /
+harṣotkarṣavaśo 'kārṣīn mahat kanakavarṣaṇam // jrt_b.1072 //
+
+yatra daṇḍyā na daṇḍyante durbalās taskaraṃ vinā /
+bhūpateḥ prāḍvivākatvaṃ sa prāpad bhaṭṭaśiryakaḥ // jrt_b.1073 //
+
+pratijānaṃs tadā kośadhanasaṃbhavane 'sati /
+svagalacchedanaṃ bhaṭṭo mithyāvaktuś ca viplavam // jrt_b.1074 //
+
+śākhābhaṅgasamudbhūtaśabdavyāptacaturdiśām /
+samudīrayatāṃ nūnam abrāhmaṇyaṃ pade pade // jrt_b.1075 //
+
+drumāṇāṃ phalanamrāṇāṃ janānāṃ namatāṃ guṇaiḥ / chedād rakṣām akārṣīt sa jiṣṇur indhanahetunā // jrt_b.1076 //
+
+– – – – – – – – trayadaṇḍaṃ nivārya saḥ /
+dvijānāṃ jātirakṣārthaṃ raupyamāṣam akalpayat // jrt_817 //
+
+[ps-jrt 115]
+māṃsādilobhān nighnatsu maṇḍaleṣu viṣeṇa gāḥ /
+gomāṃsakuṇḍīr grāhyādivāraṇāt sa nyavārayat // jrt_b.1079 //
+
+patyau mṛte 'nyaṃ gacchantyā vihitaṃ bhartṛgotrajaiḥ /
+sa mahāmatimāñ śūdryā viplavaṃ vinyavārayat // jrt_b.1080 //
+
+nyavārayat sa putrīṇām aurdhvadaihikaviplavam /
+aputrasya vipannasya lubdhais tadgotrajaiẖ kṛtam // jrt_b.1081 //
+
+śiśūnāṃ śāstrapāṭhādi sūhabhaṭṭena nāśitam /
+vṛttidānena viduṣāṃ vidyāvān ānayat punaḥ // jrt_b.1082 //
+
+vidhitsus svam abhijñānaṃ dvijadehe mahīpatiḥ /
+vyadhatta tilakavyājād vibhāgaṃ satyadharmayoḥ // jrt_b.1083 //
+
+grāmāṇāṃ prathame varṣe saṅkrāntaṃ kārakāturaiḥ /
+pattalāghoṣadeśeṣu lotradaṇḍaṃ nyavārayat // jrt_b.1084 //
+
+nivārya śākaṭatulāmānakūṭaṃ cirasthitam /
+arghavyavasthā vastūnāṃ pratimās samakārayat // jrt_b.1085 //
+
+bahirdeśāgatārthānāṃ deśakālādyapekṣayā /
+vyavasthāpyārgham utpiñjam acchinad dinamoṣaṇam // jrt_b.1086 //
+
+vidagdhaś śiryabhaṭṭo 'pi notkocaphalam ādita /
+avināśi punar dharmaphalaṃ varṣopakārataḥ // jrt_b.1087 //
+
+dehasthaivārthināṃ jñānarasavijñānakāṅkṣiṇām /
+tadecchāsiddhir abhavad rājñaḥ puṇyaphalād drutam // jrt_b.1088 //
+
+mahāśrīśiryabhaṭṭasya mukhād rājā nyavārayat /
+dharmaprakāśanāmānaṃ rājakāṅgaṭikaṃ prabhuḥ // jrt_b.1089 //
+
+dūraṃ nivārayām āsa nirdhāraṇapadāṅkitam /
+bhāvināṃ bhūmipālānāṃ durvyavasthāpathārgalam // jrt_b.1090 //
+
+asthāpayat sa dharmasthas sadvṛttaṃ pratipattanam / jrt_b.1091ab /
+
+sthāpito grāmasīmāyāṃ grāmebhyaḥ prāpito dhanam /
+araṇye 'raṇyanāthebhyaḥ pānthas tena mahībhujā // jrt_818 //
+
+hāsāś śmaśānadevīnāṃ sūhabhaṭṭaṃ pratīva tam /
+pratisthānaṃ vimānāni pretānām adyutaṃs tadā // jrt_819 //
+
+mlecchair upadrutāṃ kṣoṇīm akṣīṇakaruṇo nṛpaḥ /
+udahārṣīt kramād evaṃ dānavair iva keśavaḥ // jrt_820 //
+
+ucchṛṅgān sa nayan bhaṅgaṃ nimnān āpūrayan nṛpaḥ /
+svakīrtibījavāpārtham anudghātāṃ mahīṃ vyadhāt // jrt_821 //
+
+bhūpateḥ paradāreṣu niṣkautukamayaṃ vratam /
+abhajyata paraṃ tasya paraśrīparirambhaṇe // jrt_822 //
+
+samyagdaśabalenātha sarvajñena mahībhujā /
+saugatas tilakācāryo mahattamapade kṛtaḥ // jrt_823 //
+
+saśivabhaṭṭas tilakas sa siṃhagaṇanāpatiḥ /
+sopanāny abhavaṃs te ca padārohe dvijanmanām // jrt_824 //
+
+medinyākhaṇḍalasyāsīt pikasyeva rasaśriyā /
+akhaṇḍaṃ rasapāṇḍityaṃ brahmakuṇḍalasevayā // jrt_825 //
+
+karpūrabhaṭṭo yaś śrīmān prāṇirakṣo mahībhujaḥ /
+guṇināṃ śaraṇaṃ cakre svaguṇais surabhiṃ sabhām // jrt_826 //
+
+pūrvābdagrahasañcārād uttarābdagrahasthitim /
+ruyyabhaṭṭo vidann āsīd vinaiva gaṇitaśramam // jrt_827 //
+
+śrīrāmānandapādānāṃ bhāṣyavyākhyākṣaṇekṣaṇe /
+vīkṣate śāradā kṣoṇīm eva sambhrāntamānasā // jrt_828 //
+
+gāndhārasindhumadrādibhūbhujas tasya bhūbhujaḥ /
+grāmyā ivābhavann ājñākāriṇo jitavairiṇaḥ // jrt_829 //
+
+yuddhe jitaṃ tato baddhaṃ khuẖkhurendreṇa bhūpatiḥ /
+māladevaṃ madrarājam ājñayā niramocayat // jrt_830 //
+
+rājā rājapurīrājaṃ nayajñas svapadātibhiḥ / kṣaṇād bhrūbhaṅgamātreṇa raṇasūham aloṭhayat // jrt_831 //
+
+udabhāṇḍapurādhīśaṃ sindhurājopabṛṃhitam /
+sa kandukam ivotthāpya muhur muhur apātayat // jrt_832 //
+
+bhoṭṭabhūmau mahīndreṇa goggadeśe kadācana /
+bāṇā gaurakharāsreṇa guṇair lokāś ca rañjitāḥ // jrt_833 //
+
+samijjite śayādeśe krūrādeśo mahīpatiḥ /
+suvarṇabuddhapratimāṃ yavanebhyo rarakṣa saḥ // jrt_834 //
+
+kaṣākaraṃ kaṣaṃs tasya nikaṣo bhauṭṭatejasām /
+aprakāśāṃ pratāpo 'tha malūtanagarīṃ vyadhāt // jrt_835 //
+
+kevalaṃ hṛdayaṃ śūnyaṃ bhauṭṭānāṃ nābhavat tadā /
+bhūmipālabhayāveśāt kośo 'pi cirasañcitaḥ // jrt_836 //
+
+prakṛtīnāṃ dadad rājā śeṣopyāyau yathocitam /
+pratyavekṣām akārṣīt sa śālinām iva kārṣakaḥ // jrt_837 //
+
+nāsahiṣṭeva taccāpaṃ tulāṃ śārṅgapinākayoḥ /
+dūrakāryārthasādhinyā dhanuṣmattā bhruvaḥ punaḥ // jrt_838 //
+
+astaṃ yas tamasāṃ kulāni balato netuṃ sadā vāñchati kṣīṇaṃ taṃ vasunābhipūrya śaśinaṃ saṃvardhayaty añjasā /
+kāśyapyām avakāśamātraghaṭanāṃ śākhāmukhai rundhato vṛkṣān vṛṣṭibharaiś ca yo 'sya katamo bhānos tulām arhati // jrt_839 //
+
+laddarājasutaṃ rājā nosrataṃ yam avardhayat /
+ahṛtadraviṇaṃ taṃ "sa drohī"ti niravāsayat // jrt_840 //
+
+makkadeśāgato jātu pustakāḍambaraṃ vahan /
+sadaulanāmā yavano rājendraṃ tam upāgamat // jrt_841 //
+
+guṇān vikatthamānaṃ taṃ guṇirāgī nareśvaraḥ /
+upāgacchat pratidinaṃ darśanāyetaro yathā // jrt_842 //
+
+sa tasya paṭahasyeva rājāpaśyat kramād asau /
+antassāravihīnatvaṃ parīkṣāyāṃ vicakṣaṇaḥ // jrt_843 //
+
+mlecchamaskariṇi kṣoṇiprāṇeśo nirguṇe 'pi saḥ /
+premāṇaṃ nāmucat putre piteva karuṇārṇavaḥ // jrt_844 //
+
+pradoṣasyeva tamasāṃ durghanasyeva vidyutām /
+doṣāṇāṃ bahutā tasya prajās samudavejayat // jrt_845 //
+
+tasminn avasare kaścid yogirājo jitendriyaḥ /
+nyavikṣatonnate stambhe yogābhyāsasya siddhaye // jrt_846 //
+
+stambhopari navāhāni nirāhāram apaśyataḥ /
+tasyāśiṣaiva mahiṣī rājñaḥ putram ajījanat // jrt_847 //
+
+tapasyatas tathā tasya tatra tan navamaṃ dinam /
+rājñas tv anavamaṃ putrajanmakālamahotsavaḥ // jrt_848 //
+
+[ps-jrt 116]
+hemantānte patati tuhinaṃ phālguṇe valgu valgad dīpasyāpi sphurati sutarāṃ śāntikāle 'tidāhaḥ /
+śaityodreko vahati vahati grīṣmakāle tuṣāraṃ vastu prāyaḥ prathayati nijaṃ dharmam āyāti nāśe // jrt_b.1122 //
+
+tapaẖkavacam aspṛṣṭvā tam adho mārgaṇair gatam /
+prahartur iva nirdeṣṭuṃ bhaviṣyantīṃ tathā gatim // jrt_b.1123 //
+
+rājamānyaṃ tam ālokya kupyantaṃ śāntamānasaḥ /
+nirṇayād acalad varṇī nayān na tu bhayodayāt // jrt_b.1124 //
+
+sa stambhān na mahādhairyād avārohan mahāmanāḥ /
+naivārohaj jagaddṛṣṭiṃ sadyo dyām api yogavit // jrt_b.1125 //
+
+"atithiṃ yogapathikaṃ mā vadhīr mām" iti bruvan / mlecchamaskariṇā varṇī khaḍgaghātair acūrṇyata // jrt_b.1126 //
+
+atyarthadarśanadveṣān madirāmadamohitaḥ /
+sa mlecchasahito yogirājaṃ tam avadhīc charaiḥ // jrt_849 //
+
+santaptair malinais sthūlair janānāṃ tadvilokanāt /
+bhūtale patitaṃ vāṣpair apavādaiś ca rājani // jrt_850 //
+
+pṛthvīnātho 'tha tac chrutvā śuddhyartham iva magnavān /
+bhīhrīśokakrudhāścaryakṛtyacintārṇaveṣu saḥ // jrt_851 //
+
+prathamodbhūtaputre 'pi tasminn ahni mahībhujā /
+nāsnāyi nābhyavāhāri vyavāhāri na nākathi // jrt_852 //
+
+anyedyur bhūpatiḥ pṛṣṭasmṛtijñagurukovidaḥ /
+hantur daṇḍaṃ vadhaṃ śṛṇvan karuṇāyantrito 'bhavat // jrt_853 //
+
+pratīpaṃ kharam āropya pratihaṭṭaṃ paribhramam /
+naramūtrābhiṣiktasya kūrcasya parikartanam // jrt_854 //
+
+ṣṭhīvanaṃ sarvalokānāṃ pretāntrair bāhubandhanam /
+jīvanmaraṇam ādikṣad daṇḍaṃ tasya kṛśāyateḥ // jrt_855 //
+
+rājani mlānihīnāni diksaugandhyavahāni ca /
+apatan nākapuṣpāṇi paurāśīrvacanāni ca // jrt_856 //
+
+madrarājaduhitros sa caturas tanayān nṛpaḥ /
+yathā daśaratho rājā janakān tān ajījanat // jrt_857 //
+
+jyāyān ādhamakhānas sa hājyakhānas tathā paraḥ /
+khāno jassarathaẖ khāno baharāmaś ca sañjñitaḥ // jrt_858 //
+
+[ps-jrt 117]
+hindavas sūhabhaṭṭena balād ye pīḍitā bhṛśam /
+paradeśaṃ gatās te tu bibhrato veṣakalpanām // jrt_b.1137 //
+
+nijācāre ratā nityaṃ tadācāradviṣo hṛdā /
+svam ācāram anuṣṭhātuṃ preritāś ca dvijair balāt // jrt_b.1138 //
+
+dāritās svatrāṇabhayād utkocārpaṇatatparāḥ / rakṣitā bhūmipālena tadupadravavāraṇāt // jrt_b.1139 //
+
+kṣīrārṇavasya mathanāt paratas sudhādiratnāni tāny anupabhoganirarthakāni /
+yo nītavān saphalatāṃ kila pātradānāt stutyas sa mandaragirir girirājavarge // jrt_859 //
+
+nadīr avaṭapātena bhuvaś cāmbu vināphalāḥ /
+saṃyogāt saphalīkṛtya yaśaś citram ajījanat // jrt_860 //
+
+rājñotpalapurakṣoṇau kulyāṃ prāpayya vapriṇīm /
+tayor nirarthakatvena dūṣaṇāvinivāritā // jrt_861 //
+
+nandaśailamarau kulyām avatārya mahīpatiḥ /
+asmārayac cakradharaṃ sāgarāntar nivāsinam // jrt_862 //
+
+karālambas satāṃ bibhrad akarālaṃ sitaṃ yaśaḥ /
+kulyayākārayad deśaṃ karālākhyaṃ stuteḥ padam // jrt_863 //
+
+sāgrahārā dvijā yatra sāgrahārāś ca yoṣitaḥ /
+sātha jainapurī rājñā karāle niramīyata // jrt_864 //
+
+avantipurabhūmau ca kāntodantena bhūbhujā /
+kulyāvatāritātulyā śālisampattiśālinī // jrt_865 //
+
+girimārgeṇa gaṅgāyā mānasaṃ prāpite jale /
+kiṃ pūtaṃ mānasenedam amunā kim u mānasam // jrt_866 //
+
+vyaḍambayat svamūrtiṃ yā mānasapratibimbitām /
+vidhāya tattaṭe tena nagarī saphalāyitā // jrt_867 //
+
+[ps-jrt 118]
+śrīsvayasya yam ānetuṃ prajñā na sphuṭam asphurat /
+śrīsekandaraśāho 'pi kuṇṭhotkaṇṭho 'bhavattarām // jrt_b.1149 //
+
+śrījainollābhadenas tam ānīya paharaṃ nadam /
+prāsiñcad viṃśatikrośāñ chrīmān svayapure marum // jrt_b.1150 //
+
+durbhikṣavyāptacittānāṃ viśrāntijananān nṛṇām / viśrāntisañjñayā kulyā prasiddhābhūt pade pade // jrt_b.1151 //
+
+śrīmān suyyapurāt pārevitastaṃ dharaṇer nṛpaḥ /
+saṃyojya paharaṃ tāpavyāpadaṃ sa nyavārayat // jrt_868 //
+
+ā pradyumnagiriprāntād amareśapurāvadhi /
+maṭhāgrahārahaṭṭāḍhyāṃ sa jainanagarīṃ vyadhāt // jrt_869 //
+
+svargaṃ jetum ivodasthād unnatair aśmaveśmabhiḥ /
+saṅkrāntā jainagaṅgāyāṃ phaṇilokasya yāgamat // jrt_870 //
+
+jainagaṅgāṃ raṇasvāmiprāsādaṃ prāpitāṃ kṛtī /
+vyasismarat smerayaśā haripādakutūhalam // jrt_871 //
+
+pāresuyyapuraṃ jainagirisañjñāṃ purīṃ vyadhāt /
+kailāsācalatulyeva prāsādair abhibhūṣitā // jrt_872 //
+
+siddhakṣetre sureśvaryāṃ prasiddho vilasadyaśāḥ /
+rājadhānīṃ niṣiddhārir vyadhāt siddhipurīm asau // jrt_873 //
+
+prāsādaśikhare rājā mārtaṇḍāmaranāthayoḥ /
+rājadhānyau vyadhāt saudhadhautadūranabhastale // jrt_874 //
+
+subhikṣaṃ suyyarājena pūrvam aṅkuritaṃ kila /
+tataḥ prabhṛty atīteṣu bahuṣv api ca rājasu // jrt_875 //
+
+prajānām alpapuṇyatvān nāvardhata manāg api /
+tapobalāt pallavitaṃ puṣpitaṃ phalitaṃ tathā // jrt_876 //
+
+śrījainollābhadīnena yugapat tad vyadhīyata /
+tapasām atiśuddhatvāt kim iva jñāpakaṃ param // jrt_877 //
+
+pūrvapuṇyakṣaye rājyāt patanty anye mahīkṣitaḥ /
+tasya janmāntare rājyaprāptyai rājyam abhūt prabhoḥ // jrt_878 //
+
+sa nadīmātṛkāẖ kṛtvā dharaṇīr devamātṛkāḥ /
+agrahārān anu kṣmāpo dvijebhyo yad adāt sadā // jrt_879 //
+
+varāhakṣetranagaravijayeśānakādiṣu /
+yavanebhyo 'grahārān sa savihārān svayaṃ dadau // jrt_880 //
+
+vijayakṣetravārāhakṣetraśūrapurādiṣu /
+sattradānena sa trāsam api gotrabhido vyadhāt // jrt_881 //
+bhūmivikrayabhūrjādi kṛtacihnaṃ mahībhujā /
+nihnavaprāgabhāvāya dharmādhikaraṇaṃ kṛtam // jrt_882 //
+
+yo jayāpīḍadevena prāpto nāgaprasādataḥ /
+sa daṇḍam iva tasyādāt tāmraṃ tāmrākaro giriḥ // jrt_883 //
+
+maṇīn khanibhyaś cālabhyāṃs tadrājye bhūr ajījanat /
+ye jainamaṇayaẖ khyātāḥ padmarāgamadacchidaḥ // jrt_884 //
+
+saritāṃ saikate nītasikatābhramadaṃ tadā /
+kāñcanaṃ kāñcana cchāyāṃ bibhral lokair acīyata // jrt_885 //
+
+"saritsuvarṇāt ṣaṣṭhāṃśo grāhyo bhāvibhir īśvaraiḥ" /
+tāmrapaṭṭe 'likhad yācñāvākyam evaṃ nareśvaraḥ // jrt_886 //
+
+nagarādhikṛtaẖ kācaḍāmaro dustare pathi /
+krośamātraṃ vyadhāt setuṃ nagarāntaś śilāmayam // jrt_887 //
+
+nātmaiva setudānena tena paṅkāt samuddhṛtaḥ /
+sakalo 'pi jano madhyenagaraṃ puṇyaśālinā // jrt_888 //
+
+viṣaye viṣaye cakre śiryabhaṭṭo maṭhān pṛthūn /
+anye 'pi sacivā rājño dharmaśālā bahūr vyadhuḥ // jrt_889 //
+
+padmākarasya mathanāya gajādhirājāv abhyudyatau satatam eva tadambudṛptau /
+tāvat karākari rasād iha cātimattau kṛtvā kṣaṇād agamatāṃ svayam eva nāśam // jrt_890 //
+
+masodaśūrau dhātreyau bhūpater ekagotrajau /
+dvau randhrānveṣiṇāv āstām anyo'nyavibhavāsahau // jrt_891 //
+
+rājñā tau vāritakrodhau snehadākṣiṇyaśālinā /
+hatvānyataram utpiñjasajjāv abhavatāṃ ciram // jrt_892 //
+
+kadācid bhūpater agre spṛṣṭaś śūreṇa vākcharaiḥ /
+masodaṭhakkuraś śastrasannyāsaṃ samakārayat // jrt_893 //
+
+nyastaśastras sa rajanau gacchan mitaparicchadaḥ /
+randhraṃ labdhvātha śūreṇa masodaṣ ṭhakkuro hataḥ // jrt_894 //
+
+vinnādyaiṣ ṭhakkurais tasya bhrātṛbhiẖ khyātapauruṣaiḥ /
+hantum abhyarthitaś śūro bhūpateḥ premaśālinaḥ // jrt_895 //
+
+śūre sānucare vinnaṭhakkureṇa hate sati /
+prasādam agamat kīrtiṣ ṭhakkurāṇāṃ ca dhīs tadā // jrt_896 //
+
+tathā sa yogināṃ mānam adād bhūlokavāsavaḥ /
+teṣām agre yathā madrarājādyair laḍitaṃ śvavat // jrt_897 //
+
+sa dadad yogināṃ bhogaṃ yāgaṃ tebhyo 'grahīn nṛpaḥ /
+bhayaṃ dadad arātibhyo dadhāv abhayam apy aho // jrt_898 //
+
+mudrākarparakanthādi vārayan yogināṃ nṛpaḥ /
+kuṇḍalaṃ hemapātrāṇi dukūlam api dattavān // jrt_899 //
+chittvā parvatapakṣatīr api navāḥ pheṇena hatvāpy ahiṃ kṛtvā yajñaśataṃ trilokavijayī kīrtyā na tṛptiṃ gataḥ /
+indraḥ pītasitāsitāruṇaharidvarṇaṃ vidhatte dhanurjyotir dhūmasamīranīraghaṭanāmātre 'py asāre ghane // jrt_900 //
+
+bhūtānāṃ bhāvināṃ vāpi yad aśakyaṃ mahībhujām /
+tad iṣṭasāhaso rājā kīrtaye kartum iṣṭavān // jrt_901 //
+
+kartavyaṃ sāhasaṃ yad yad ucitaṃ yad ayaṃ nṛpaḥ /
+kālasyānavadhitvāc ca vipulatvena ca kṣiteḥ // jrt_902 //
+
+tat tat sambhāvya sādhyaṃ sa bhāvibhir medinīśvaraiḥ /
+dūrād abdhim ivāyāto ratneṣv adhikadīptiṣu // jrt_903 //
+
+sāhaseṣv ekam ādātum api prāpa na niścayam /
+upacārair daridrāṇāṃ saṃbhavodāramānasaḥ // jrt_904 //
+
+na toṣitaś śrutai rājñām atītānāṃ ca sāhase /
+agamyeṣv api bhūpālaś śaileṣu ca sarassu ca // jrt_905 //
+
+śabdeṣv artheṣv iva kavis tatas samacaran nṛpaḥ /
+vaṇijām iva vākyāni vyavahārasamutsukaḥ // jrt_906 //
+
+rājā nīlapurāṇādīn paṇḍitebhyas tato 'śṛṇot /
+cintāntarāṇi santyajya sāhasaikasamutsukaḥ // jrt_907 //
+
+kadācid dharaṇīpālaś ciram evam acintayat /
+"dehasyeva trilokasya mukhavat kṣitimaṇḍalam // jrt_908 //
+
+pradhānaṃ tatra kaśmīramaṇḍalaṃ nayanaṃ yathā /
+śailarājaśikhāḥ pakṣmatulāṃ yatra vahanti tāḥ // jrt_909 //
+tārāmaṇḍalavat tatra mahāpadmasarovaraḥ / 910ab /
+[ps-jrt 119] śaśvad udbhramito yatra mainākānveṣaṇodyataḥ // jrt_b.1194cd //
+
+ pratibimbaphalād bhāti jāne himagirīśvaraḥ / samudrasadṛśe yatra pratibimbacchalād raveḥ // jrt_b.1195 // 
+
+antaẖ kṛtāspado dīpto lakṣyate vaḍavānalaḥ / jrt_b.1196ab /
+mahāpadmāspadaṃ tatra jyotirmaṇḍalasodaram // 910cd //
+tad āpūrya kathañcic cet kiyanmātram api kramāt /
+nirmāṇaṃ śakyate kartuṃ tadā rājyaphalodayaḥ // jrt_911 //
+
+agādhasalilacchannakrośāṣṭāviṃśatipramaḥ /
+sarorājas sa hi mahān āśayo mahatām api" // jrt_912 //
+
+vicintyeti sa visraṣṭuṃ tatropāyaṃ sarovare /
+nāvāsya gatavān madhyaṃ yogīvātmānam ātmanā // jrt_913 //
+
+sadaivoddhatakallolaṃ mahāpadmasaro mahat /
+nāgāhanta nṛpāḥ pūrve taraṇībhaṅgaśaṅkinaḥ // jrt_914 //
+
+tapaḥprabhāvād dhairyād vā kāryagauravato 'pi vā /
+sthalavat salile tatra sa rājānvasarat sukham // jrt_915 //
+
+yac cetasā cirataraṃ paricintyamānaṃ cintāmaṇiẖ kila dadāti tad eva nānyat /
+cittasya cāpi yad agocaratām upaiti tat tu prayacchatitarāṃ vata buddhiratnam // jrt_916 //
+
+tasya hi kṣitipālasya nirālambamates sataḥ /
+sarasas sthalatāṃ kartum upāyaḥ pratyabhād ayam // jrt_917 //
+
+"śilāpūrṇapravahaṇair upary upari pātitaiḥ /
+śailaśṛṅgair ivāmbhodhim etad āpūrayāmy aham // jrt_918 //
+
+kṛtābhir lohanaddhābhiḥ paṭṭībhir devadāruṇaḥ /
+na klidyante tatas toye śilāpravahaṇādibhiḥ" // jrt_919 //
+
+tataḥ pratyāgato rājā vṛddhān ābaddhakautukaḥ /
+abhyagāc charaṇaṃ tatra te cainaṃ nṛpam abhyadhuḥ // jrt_920 //
+
+"dvārikeva śubhā tasya purī sandhimatī kila /
+sudarśanena cakreṇa manujānāṃ samāśritā // jrt_921 //
+
+nagaryā devatā tasya mahāpadmaḥ phaṇīśvaraḥ /
+tvam ivaitāṃś caturvarṇān putravat paryapālayat // jrt_922 //
+
+kalikālabalāt tatra durācāraniṣeviṇaḥ /
+janās taddeśavāstavyāḥ prāpur vṛddhiṃ dinād dinam // jrt_923 //
+
+atha karmānusāreṇa viparyāsānubandhataḥ /
+krodhaṃ nāgapatir yāto dūṣaṇād iva sajjanaḥ // jrt_924 //
+
+anujjhitanijācāraṃ kumbhakāraṃ sa kañcana /
+svapne 'vadad "durācārān paurān majjayitāsmy aham" // jrt_925 //
+
+"nāgaḥ prajādurācārāt prajā vroḍayatī" ti tam /
+prātar vadantam ahasan paurāḥ paśum ivākhilāḥ // jrt_926 //
+
+[ps-jrt 120]
+tadāstike kumbhakāre gate tasmāt purād drutam /
+nāgendro jalapūreṇa sarvam avroḍayat puram // jrt_b.1213 //
+
+yāvat paurāḥ purāc celus te sarve hariṇā iva / tāvad evāgram ākrāmad dāvāgnir iva tajjalam // jrt_b.1214 //
+
+phaṇāśatollasadvāridhārāśabdabhayaṅkaraḥ /
+nāgarājo 'tha nagarīṃ vairīvāveṣṭayaj jalaiḥ // jrt_927 //
+
+mantrān paṭhatsu vipreṣu 10janeṣu praṇamatsv atha /
+rudatsv api ca bāleṣu nāsyābhūd yamavad dayā // jrt_928 //
+
+bhayād bāleṣu putreṣu kaṇṭhalagneṣu yoṣitaḥ /
+vāṣpamuktāphalaiś cakruḥ pūjāṃ phaṇipater iva // jrt_929 //
+
+pādād aṅkaṃ tataẖ kaṇṭhaṃ tatas skandhaṃ tataś śiraḥ /
+prāṇā iva sutā jagmur mātṝṇāṃ bhayavihvalāḥ // jrt_930 //
+
+sarvāṇy aṅgāni nārīṇāṃ śṛṅgārīvānurāgavān /
+kampamānāni lolas sa jalapūras samaspṛśat // jrt_931 //
+
+hrasvaṃ dīrghaṃ ca sūkṣmaṃ ca sthūlaṃ cāṇu mahat tathā /
+andhakāra ivācchādya jalapūro vyajṛmbhata // jrt_932 //
+
+agādhe salile tasmin khalasparśāsahas tataḥ /
+phaṇirājas sthitiṃ cakre vipine sajjano yathā // jrt_933 //
+
+kāliyas sa hi nāgendraḥ padākrānto muradviṣā /
+śirasy utpannapadmatvān mahāpadmābhidhāṃ gataḥ // jrt_934 //
+
+naṣṭān yojayituṃ bhūyaẖ kaśmīrān icchato hareḥ /
+avatāras tvam etat te sidhyaty eva cikīrṣitam" // jrt_935 //
+
+rājā śrutveti sa svapne kṣaṇam evam acintayat /
+"evaṃvidhāni kāryāṇi sidhyeyuẖ katham anyathā // jrt_936 //
+
+prajācāraviparyāsān nākṣamiṣṭa puraṃ phaṇī /
+nāniṣṭaṃ sahate 'lpo 'pi tādṛśas tu mahān katham // jrt_937 //
+
+nāgarājocitaṃ chattrasagotram aham atra tu /
+sthalamātraṃ yaśoratnaghaṭikārabhyam ārabhe // jrt_938 //
+
+ullolasaraso madhye vartamāne mahāsthale /
+pavitre vijane cātra siddhiṃ yāsyanti sādhakāḥ" // jrt_939 //
+
+cintayitveti bhūpālaś śilāpravahaṇair dṛḍhaiḥ /
+ullolasaraso madhyam apy agādham apūrayat // jrt_940 //
+
+sarasas tu tatas tasya sthalībhūte 'tha bhūpatiḥ /
+madhyadeśe mahārājo jainalaṅkāṃ vinirmame // jrt_941 //
+
+ante tasyaiva saraso rākṣasendraprasādataḥ /
+jayāpīḍamahīpālas sthalabhāvam adāpayat // jrt_942 //
+
+hemante bisaśṛṅgāṭakavukoddharaṇādinā /
+śrījayāpīḍakoṭṭasya jñāyate 'gādhavartitā // jrt_943 //
+
+ullolasyāntabhāgeṣu suyyākuṇḍalakādayaḥ /
+dṛśyante bahavo grāmā viśālasadanāṅkitāḥ // jrt_944 //
+
+girayo 'pi nimajjanti yatra tatra tu sa vyadhāt /
+jainalaṅkāṃ mahāṭaṅkāṃ taṃ nidhāyādhikāriṇam // jrt_945 //
+
+ruyyabhāṇḍapatiṃ śilpakauśalābhyullasanmatim /
+rājadhānīmahādvāraṃ naṣṭaṃ yo 'yojayat punaḥ // jrt_946 //
+
+himācalaśikhādarpacchedaprāsādameduram /
+kramarājye sphuradrājyas suratrāṇapuraṃ vyadhāt // jrt_947 //
+
+jainakoṭṭaṃ ghaṭṭitārir aṭṭaśāli samantataḥ /
+nṛtyatpaṭṭapatākāntakāntaṃ rājā vinirmame // jrt_948 //
+
+jīrṇoddhāreṣu sarveṣu nirmāṇeṣu naveṣu ca /
+ājñā rājño babhau hetū ruyyabhāṇḍapateś ca dhīḥ // jrt_949 //
+
+mahāpadmasarastīre jainopapadaśālinaḥ /
+puramaṇḍapikāghoṣāṃs tathā śrījainakuṇḍalam /
+sa jainapattanaṃ cāpi vidadhe dharaṇīpatiḥ // jrt_950 //
+
+[ps-jrt 121]
+kāruṇyāt kīrtilobhāc ca svayam evātha bhūpatiḥ /
+vāmaparśve girau vāri visraṣṭuṃ ciram abhramat // jrt_b.1232 //
+
+dṛṣṭvā nissalilaṃ śailaṃ ledaryānayanotsukaḥ /
+aśrauṣīc chāstravṛddhebhyas tanmūlam amareśvaram // jrt_b.1233 //
+
+nirvighnaṃ kāryasiddhyarthaṃ prasādayitum īśvaram /
+ārurohāmareśādrim abhimānam ivātha saḥ // jrt_b.1234 //
+
+te latābhya iva mlecchā nāgebhyaś śaṅkayākulāḥ /
+nānyo'yam iva saṃlāpaṃ tatra svaka iva vyadhuḥ // jrt_b.1235 //
+
+tvagroginām iva svasthās turuṣkāṇāṃ vanasthitāḥ /
+nāgā darśanam apy antar nāsahanta kadācana // jrt_b.1236 //
+
+dhairyeṇopadruto rājā śuśruvān nāsahiṣṭa tān /
+bālo 'gnikaṇavipluṣṭaḥ padmarāgam ivāmalam // jrt_b.1237 //
+
+kapīnām iva baddhānāṃ bhītānām api ca dhruvam /
+mlecchānāṃ ca durācāracāpalyaṃ vinyavartata // jrt_b.1238 //
+
+yad udgarjadbhir udyadbhis savidyudbhir ghanair ghanaiḥ /
+kopenevābhavat teṣu tataẖ kālamukhaṃ nabhaḥ // jrt_b.1239 //
+
+kātareṣv iva saṅgrāmād gires tūrṇapalāyiṣu /
+mleccheṣu karakāvarṣair naṣṭadhairyeṣu tatkṣaṇam // jrt_b.1240 //
+
+mānād iva kulīno 'tha bhaktyā dhairyād avicyutaḥ /
+avarūḍho na śailendrāt kaśmīrendraẖ kathañcana // jrt_b.1241 //
+
+māntrikeṣv iva megheṣu garjatsu yavanoragaiḥ /
+tyakto nidhir iva kṣmāpo devo nāgair aśaṃsyata // jrt_b.1242 //
+
+"nivṛtyatām ito deva kāryasiddhir bhaviṣyati /
+pūjopakaraṇaṃ śambhoḥ prāptam eva visṛjyatām" // jrt_b.1243 //
+
+svapne divyākṛteḥ puṃsaś śrutveti kṣitināyakaḥ /
+siddhakāryas tataḥ prātaẖ kaśmīrāntaram āviśat // jrt_b.1244 //
+
+"ledarīṃ girimārgeṇāpaya mārtāṇḍapattanam" /
+iti rājā samādikṣad dhārmikaṃ śiryabhaṭṭakam // jrt_b.1245 //
+
+dayālutvāt praśastatvān nirlobhatvān mahībhujā /
+niyuktas sa nadīkṛṣṭāv alagad bhaṭṭaśiryakaḥ // jrt_b.1246 //
+
+so 'vyāhatājñas sarvatra lokālīpatibhis tataḥ /
+lokam ānāyya śailendraṃ saritaḥ padavīṃ vyadhāt // jrt_b.1247 //
+
+avaṭeṣu śilābandhaṃ nimneṣu grāvapūraṇam /
+khanīṣu kuṭilaṃ mārgaṃ tasyās sa sarito vyadhāt // jrt_b.1248 //
+
+taṭasthān poṣayanty uccaiḥ purastācchākhinas sarit /
+sā tu rājasabhevātha rabhasād udapūrayat // jrt_b.1249 //
+
+prajñeva viduṣas sthitvā ciraṃ pratipadaṃ sarit /
+lolīkṛtataraṅgabhrūḥ prātiṣṭhata śanaiś śanaiḥ // jrt_b.1250 //
+
+rājñas tapaḥprabhāveṇa bhaṭṭaśiryanayena ca /
+prajānām api bhāgyena nāsyā vighno 'bhavat kvacit // jrt_b.1251 //
+
+sā bhajantī giriṃ kvāpi tyajantī dūrataẖ kvacit /
+vaprāt pararatevābhūt saśabdakalahā sarit // jrt_b.1252 //
+
+navasya bhūmipālasya cittavṛttir ivāmbhasā /
+avaṭo dakṣiṇe nadyā vāme 'drir vikaṭopalaḥ /
+puras tuṅgā ca dīrghā ca śileti kvāpy adṛśyata // jrt_b.1253 //
+
+sthūlena gaṇḍaśailena purato ruddhapaddhatiḥ /
+na tasthau na yayau kulyā kāminīva vimānitā // jrt_b.1254 //
+
+rājñā svayam athāpy atra gaṇḍaśaile vidārite /
+sarit tīrṇapratijñena gacchantī kramate sma sā // jrt_b.1255 //
+
+nadyā vyākraṣṭum iṣṭāyāś śilayā mārgarodhane /
+mihirākhyo nṛpaẖ krodhāt strīlakṣāṇi jaghāna saḥ // jrt_b.1256 //
+
+śrījainollābhadīnas tu sarito mārgarodhinīm /
+dārayitvā śilāṃ śastrair janatās samajīvayat // jrt_b.1257 //
+
+girīśamukuṭabhraṣṭāṃ gaṅgām iva bhagīrathaḥ /
+ledarīm abdhivistīrṇāṃ mārtāṇḍakṣmām avāpayat // jrt_b.1258 //
+
+mekhaleva gires tasya rājñaẖ kīrtir ivāmalā /
+bhūmer muktālatevāsau sarit param aśobhata // jrt_b.1259 //
+
+"samīpastho 'pi mārtāṇḍo na māṃ śoṣayituṃ kṣamaḥ" /
+itīva taraloddāmā ninādam akarot sarit // jrt_b.1260 //
+
+ekaś śrījayanollābhadīno dharmaparo nṛpaḥ /
+saritpravāhakapaṭād iti rekhāṃ vidhir vyadhāt // jrt_b.1261 //
+
+brahmacaryopataptānāṃ strīsaṅgād iva bhūruhām /
+sekāt saritkṛtāt tatra kim apy udabhavat sukham // jrt_b.1262 //
+
+darśitā vartanābhis sā gacchantī subhagaṃ śanaiḥ /
+sarit saphenahasitā mārtāṇḍam ahasattarām // jrt_b.1263 //
+
+sūryo hāripravāhāyāṃ sariti pratibimbitaḥ /
+mūrtas sannihito jñātaẖ kalāv api ciraṃ janaiḥ // jrt_b.1264 //
+
+nanu dīnān pālayantī nadān abhimukhī satī /
+sarit prasiddhim agamaj jainadharmanadīti sā // jrt_b.1265 //
+
+sāndraṃ pradoṣajanitaṃ timiraṃ nivārya viśvaprakāśanaparasya divākarasya /
+āyāti maṇḍalatalaṃ svayam eva tejaḥ śreṣṭhauṣadhīśa ṛṇam āstatarāṃ ciraṃ yat // jrt_b.1266 //
+
+tripañcāṅgamite varṣavṛnde yāte kaleẖ kila /
+atharvakauśalād droṇo raṇaṃ kurubalair vyadhāt // jrt_b.1267 //
+
+kurubhir nihate droṇe tadātharvā nirāśrayaḥ /
+śaraṇīkṛtavān vedaẖ karṇāṭān paṭucetanān // jrt_b.1268 //
+
+śāstreṣv atharvavedasya māhātmyaṃ paripaśyatām /
+kāśmīrikāṇāṃ tatprāptyai ciram āsīn manorathaḥ // jrt_b.1269 //
+
+kāle 'tha vipule yāte sūhabhaṭṭabhayākulaḥ /
+yuddhabhaṭṭābhidho mānī deśāntaram agād guṇī // jrt_b.1270 //
+
+yajuṣaḥ paṭhanāt prītaiẖ karṇāṭais so 'tha pāṭhitaḥ /
+sarahasyam atharvāṇaṃ nijāṃ pratyāgato bhuvam // jrt_b.1271 //
+
+śrījainollābhadīnasya guṇino guṇarāgiṇaḥ /
+upadīkṛtya taṃ vedaṃ parāṃ tuṣṭim ajījanat // jrt_b.1272 //
+
+dattasvakīyavastrānnaś śiryabhaṭṭo 'tha dharmavit /
+tenaivātharvavedaṃ taṃ dvijaputrān apāṭhayat // jrt_b.1273 //
+
+sā dharmiṣṭhā śālāsya śiryabhaṭṭasya dhīmataḥ /
+karṇāṭāṇām api param agamat spṛhaṇīyatām // jrt_b.1274 //
+
+snigdhā vidyuc chravaṇamadhuraṃ garjitaṃ vṛṣṭir iṣṭā chāyā bhāsvatklamabharaharī māruto mandamandaḥ /
+varṣākālaṃ vidhir anudinaṃ vardhayan svair guṇaughair grīṣmārtāsu prathayati dayādakṣiṇatvaṃ prajāsu // jrt_b.1275 //
+
+daśāvidhurabhāvena vipakṣasya balena vā /
+dānasaṃskāramānādāv anurūpe parāṅmukhaḥ // jrt_b.1276 //
+
+yasminn ādhamakhānākhye jyeṣṭhe putre 'pi bhūpatiḥ /
+aprasanno vidagdhatvahīnais sambhāvitaś ciram // jrt_b.1277 //
+
+hājyakhānādiputrebhyo viśeṣād vihitādaraḥ /
+vibhāsitas sa rājñāpi tilako madhunā yathā // jrt_b.1278 //
+
+ādau pādatale santaṃ karālambaṃ tataẖ kṛtam /
+yaṃ darśanāntare ca drāg uttamāṅgopari sthitam // jrt_b.1279 //
+
+avardhayat kramād eva kalānāṃ nidhim īśvaraḥ /
+mallādaryāvakhānas sa sarvatrādhikṛtaẖ kṛtaḥ // jrt_b.1280 //
+
+samo vaiśravaṇasyāsīd bhaṭṭavaiśravaṇo guṇaiḥ / īśvarasya prasādena rājabhir yad avartsyata // jrt_b.1281 //
+
+bhūpateẖ komalakarā manojñācaraṇāñcitā /
+abhirāmamahodantā karuṇā vallabhābhavat // jrt_951 //
+
+anighnan karuṇānighno narendro ḍombataskarān /
+bandhayan nigaḍair gāḍhaṃ mṛtkarmākārayat sadā // jrt_952 //
+
+nirdiśan yaśasā śubhrā diśo nṛpatir ādiśat /
+avadhaṃ khagamatsyānām anekeṣu sarassu saḥ // jrt_953 //
+
+atha jātu hṛtāṃ caurair gāṃ parijñāya kañcana /
+krandantaṃ bhūmipaḥ pṛcchaṃs caurāṃś cāthāpy aḍhaukayat // jrt_954 //
+
+vayolakṣaṇasaṃvādaṃ vinā gor bhugnaśṛṅgatām /
+sabhākṣobheṇa hetuṃ sa satyavāg brāhmaṇo 'bravīt // jrt_955 //
+
+"tilakādivad evāsyās sahajā bhugnaśṛṅgatā" /
+rājñā pṛṣṭe vadaty evaṃ caure mūkā sabhābhavat // jrt_956 //
+
+parīkṣārthaṃ timisvede rājñā gośṛṅgayoẖ kṛte /
+kuṭilatvaṃ vyapaiti sma prāk caurasyātha śṛṅgayoḥ // jrt_957 //
+
+evaṃ buddhiprakarṣeṇa vyavahāravimarśataḥ /
+amātyaparṣado harṣacittotkarṣam ajījanat // jrt_958 //
+
+prāḍvivākaẖ kṣamābuddhir yuktadaṇḍatvarañjakaḥ /
+rājño 'vahat prajābhāraṃ gaṇanāpatigaurakaḥ // jrt_959 //
+
+yair dattam upakāritvād utkocadraviṇaṃ svayam /
+kālāntare kṛtaghneṣu teṣv evāsthānamaṇḍape // jrt_960 //
+
+prakāśayatsu taddānaṃ kupitena mahībhujā /
+maulāno malla esākas tebhyas tat pratidāpitaḥ // jrt_961 //
+
+ādau pādatale tiṣṭhan karālambīkṛtas tataḥ /
+atha cakṣuṣyatāṃ gacchann uttamāṅgordhvavartitām // jrt_962 //
+
+krīto daryāvakhāno 'tha kṛtajñeneśvareṇa saḥ /
+kalānidhir himaruciẖ kaumudīṃ hi tato vahan // jrt_963 //
+
+dinapatir na rasātalagaṃ tamaś śamayituṃ yatate yad avekṣya saḥ /
+ativaladruci kālaghanāvṛter harati tatpratibimbam aho jagat // jrt_964 //
+
+rājā bhūbhārakhinno 'pi khaḍgadhārādhvago 'pi san /
+svadattaṃ vibhavaṃ yasya dṛṣṭvā viśrāmam āptavān // jrt_965 //
+
+astaṃ mahmadakhānas sa kalānidhir athāgamat /
+atyantaramaṇīyānāṃ sucirasthāyitā kutaḥ // jrt_966 //
+
+pratyabdaṃ pratihāryādyair yo vyadhāt prītim arthinām /
+satyavrato divam agān mahimaśrīs sa ṭhakkuraḥ // jrt_967 //
+
+tadgotrajebhyas sa kilāgūḍhaṃ tasya vadhaṃ vyadhāt /
+yo dūtyacchalato rājñā svadeśān niravāsyata // jrt_968 //
+
+rājñas saindhavaśulkādisthāne sondhyābhidhe pure /
+pratyāgatas sa tīrthādhvakhinno vinno divaṃ yayau // jrt_969 //
+
+rājño dharmādhikāreṣu pratyavekṣāparas sadā /
+mahāśrīśiryabhaṭṭo 'pi tasmin kāle divaṃ yayau // jrt_970 //
+
+gateṣv apy eṣu dharmo 'sya rājño naivālpatāṃ gataḥ /
+kṣmāṃ dadhānasya śeṣasya diggajā hi paricchadaḥ // jrt_971 //
+
+ekāha eva dīnnārakoṭir ekā mahībhujā /
+bālebhya eva dattāsīj jayyabhaṭṭamukhena yat // jrt_972 //
+
+adbhūtānāṃ padārthānāṃ tadrājye saṅgraho 'bhavat /
+nārāyaṇāvatāro 'yaṃ jñāyeta katham anyathā // jrt_973 //
+
+yeṣāṃ himāṃśupīyūṣapravāhā nityabhikṣavaḥ /
+ikṣavas tena mārtāṇḍadeśabhūmiṣu ropitāḥ // jrt_974 //
+
+tyajatā yogamāhātmyād valīpalitavikriyām /
+śrījainollābhadenena vibudhatvaṃ prakāśitam // jrt_975 //
+
+udīpe sasyasampatter upaplavakarīṃ vyadhāt /
+tūlamūlād apākṛṣya sindhuṃ bhārosagāminīm // jrt_976 //
+
+[ps-jrt 122]
+pūrvābdatithivārarkṣasaṅkrāntyādyekasādhanaḥ /
+tithivārarkṣasaṅkrāntīr bhāvinyabde kṣaṇāl likhan // jrt_b.1313 //
+
+tadrājye ruyyabhaṭṭo 'bhūd rājavāllabhyaviśrutaḥ /
+anādaraṃ khaṇḍakhādye kārayan gaṇitāgame // jrt_b.1314 //
+
+candre 'staṃ gata eva daivavaśataś śokāgniśāntyai niśā tatkāntā ravikāntavahnim udayāt kaṣṭaṃ praviṣṭā satī /
+dyām āruhya tadīyadhūmakapaṭāt prāptā punas tanmaho yat so 'yaṃ graharājapādamahimaprāptaḥ prasādodayaḥ // jrt_b.1315 //
+
+ṛtupatiś śiśireṇa samatsaro 'py ativiruddhakaro na hitas sthitaḥ /
+yadi bhuvaṃ śiśiro na vināśayet kim iva nāma madhur vata yojayet // jrt_b.1316 //
+
+sūhabhaṭṭo 'tha śāstrārthamaṇḍito 'py atha paṇḍitaḥ /
+darśanadveṣataḥ pretadāhaṃ vata niṣiddhavān // jrt_b.1317 //
+
+pretadehās tadā kecit tyaktā gūḍhaṃ jalāntare /
+araṇye kecana tyaktā nikhātā bandhubhiḥ pare // jrt_b.1318 //
+
+kāladharmam upete 'tha sūhabhaṭṭe śanaiś śanaiḥ /
+prajā vītabhayā kāṃścit pretān gūḍham adāhayan // jrt_b.1319 //
+
+doṣān dṛṣṭvā svayaṃ rājñā saidamakke nirākṛte /
+adahan prakaṭaṃ pretadehān ahani bāndhavāḥ // jrt_b.1320 //
+
+athānusaraṇāt patnyaḥ patyus sukṛtaśālinaḥ /
+svargāṅganāṅgasaṃsargāt puṇyakṣayam avārayan // jrt_b.1321 //
+
+bhoktuṃ rājyaṃ paitṛkaṃ tad dhātrā dattaṃ saṭhakkuraḥ /
+jayanollābhadīno 'sau kaśmīrān pratyupāyayau // jrt_b.1322 //
+
+hatānāṃ vasuvāso'straśirastrādi pragṛhya tat /
+sadanaṃ sadhanaṃ jassaratho 'py āgād vimucyatām // jrt_b.1323 //
+
+śukle śukle brahmaṇo 'hni rasāṅke 'bde śaśāṅkage /
+jayanollābhadīno 'sau rājadhānīṃ viveśa saḥ // jrt_b.1324 //
+
+dānātakathaneśasya tanūjāya hanūmate /
+sarvasvakarṣaṇagrāmādhipatyaṃ pradadau nṛpaḥ // jrt_b.1325 //
+
+merakāya dadau bhūbhṛd āsthānāsanasaṃvidam /
+kartuṃ vicāradakṣāya satyāsatyaparīkṣaṇam // jrt_b.1326 //
+
+vivṛddhayavanādhikāravaravipravīrair viṭair bhaṭṭaiẖ kuṭilavartmagair mathitamohitāś ca prajāḥ /
+surejyadhiṣaṇaṃ vicāracaturaṃ paraṃ ṭhakkuraṃ nirīkṣya yuyuje vicārapadanirṇaye merakam // jrt_b.1327 //
+
+senādhipatyaṃ vīrāya ṭhakkurāyogratejase /
+vinnakaparamallekanaurujāya dadau nṛpaḥ // jrt_b.1328 //
+
+ledaryāṃ savyapāraṃ satājarājāya so 'diśat /
+malleśarājāya dadau mahāgrāmaparamparām // jrt_b.1329 //
+
+viṣayaṃ deyanirmuktaṃ nṛpo 'py ardhavanābhidham /
+ādamākhyāya sa dadau mahāvikramaśāline // jrt_b.1330 //
+
+pravareśapurādhīśatvaṃ paraṃ parameśvaraḥ /
+vīrāya mārgapataye mahmadākhyāya dhīmate // jrt_b.1331 //
+
+bhāṅgilaviṣayaṃ bhūbhṛt sa tulāyāṃ dadau nṛpaḥ /
+tasyānujān mārgapatīṃs tājakapramukhān bahūn // jrt_b.1332 //
+
+pañcagrāmīṃ mahārghāṃś ca dattvāśvān samatūtuṣat /
+śrījākoṭṭādhipatyaṃ ca mereṣkārapadaṃ dadau // jrt_b.1333 //
+
+ṭhakkurāyāhmadākhyāya mahāgrāmāṃś ca pattalām / ṭhakkurebhyo 'parebhyo 'sāv api mānyatayā samam / mahāgrāmasahasrāṇi yatheṣṭaṃ pradadau nṛpaḥ // jrt_b.1334 // 

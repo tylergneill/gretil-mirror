@@ -1,0 +1,751 @@
+Nāgārjuna: Piṇḍīkrama (transmitted as the first krama of Nāgārjuna's Pañcakrama)
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-piNDIkrama.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Ram Ram Shankar Tripathi: Piṇḍīkramaḥ Pañcakramaś ca, Varanasi/Sarnath 2001.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Piṇḍīkrama = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from nagpindu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Nagarjuna: Pindikrama (transmitted as the first krama of Nagarjuna's Pancakrama)
+Based on the ed. by Ram Ram Shankar Tripathi: Piṇḍīkramaḥ Pañcakramaś ca, Varanasi/Sarnath 2001
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Version: 2009-04-29 09:27:09
+Proof Reader: Milan Shakya
+The transliteration emulates the conventions of Nagari script.
+Therefore, many word boundaries are not marked by blanks.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+piṇḍīkramaḥ
+
+ācāryanāgārjunapraṇītaḥ
+
+piṇḍīkramaḥ
+
+namaḥ sarvajñāya
+
+trailokyācāramuktaṃ gaganasamagataṃ sarvabhāvasvabhāvam,
+śuddhaṃ śāntaṃ viviktaṃ paramaśivamayaṃ yogināmeva gamyam |
+durbodhaṃ durvicāraṃ svaparahitatamaṃ vyāpinaṃ nirnimittam,
+vande kāyaṃ jinānāṃ sukhamasamasamaṃ nirvikalpaikamūrtim || pik_1 ||
+
+śrīmatsamājatantrasya ṣaṭkoṭyarthāvabodhataḥ |
+piṇḍīkramamahaṃ vakṣye sarvasattvahitodayam || pik_2 ||
+
+vikalpavāsanādoṣān jagattrayavimohakān |
+samabhivīkṣya tān dhīmān yogatantreṇa śodhayet || pik_3 ||
+
+pañca kāmān parityajya tapobhirna ca pīḍayet | pik_ sukhena dhārayed vodhiṃ yogatantrānusārataḥ || pik_4 ||
+
+teneha saṃvarastho 'yamabhedastu sadā vratī |
+kāyavākcittavajrasya sādhanaṃ tu samārabhet || pik_5 ||
+
+mahāṭavīpradeśeṣu phalapuṣpādyalaṅkṛte |
+parvate vijate sādhyaṃ sarvasiddhisamuccayam || pik_6 ||
+
+mṛdvāsanasamāsīnaḥ sattvaparyaṅkasaṃsthitaḥ |
+dveṣavajrasamādhisthaḥ sthānarakṣāṃ vicintayet || pik_7 ||
+
+daśakrodhān samutsṛjya jvālābhāsurabhīṣaṇān |
+hūṃkārodbhūtabhānusthān pratyālīḍhapade sthitān || pik_8 ||
+
+daśadigmaṇḍalāgre tu sañcintyaivaṃ yathākramam |
+sarvavidhnavināśārthaṃ sumbhamājñāya kīlayet || pik_9 ||
+
+aṃ sumbha nisumbha hūṃ gṛhṇa gṛhṇa hūṃ gṛhṇāpaya gṛhṇāpaya hūṃ ānaya ho bhagavan vidyārāja hūṃ phaṭ |
+
+anena krodharūpeṇa ākṛṣyaivaṃ vināyakān |
+kīlayed vidhivat sarvān prayogeṇa tu buddhimān || pik_10 ||
+
+vajrāmṛtamahārājaṃ vrajakīlaṃ vibhāvayet |
+nīlotpaladalaśyāmaṃ jvālāmālākulapratham || pik_11 ||
+
+nābhideśādadhoobhāgaṃ śūlākāraṃ vibhāvayet |
+ūrdhvaṃ krodhākṛtiṃ caiva trimukhākāraṣaḍbhujam || pik_12 ||
+
+adho vighnagaṇān vīkṣya tān mantraṃ samudāharan |
+nikhanet vajrakīlaṃ tu vighnadeheṣu niścalam || pik_13 ||
+
+oṃ gha gha ghātaya ghātaya sarvaduṣṭān phaṭ phaṭ kīlaya kīlaya sarvapāpān phaṭ phaṭ hūṃ hūṃ hūṃ vajrakīla vajradhara ājñāpayati sarvavighnānāṃ kāyavākcittavajraṃ kīlaya hūṃ hūṃ hūṃ phaṭ |
+
+vajramudgarahastaṃ ca sumbharājaṃ vibhāvayet |
+vajravahniṃ samantācca vispharantaṃ vicintya vai |
+duṣṭān pralapitāṃścinted dahyamānānitastataḥ || pik_14 ||
+
+daśadik kīlayitvā tu adha ūrdhvamadhiṣya ca | bhāvayet paramārthena niḥsvabhāvabhavatrayam || pik_15 | 
+abhāve bhāvanābhāvo bhāvanā naiva bhāvanā |
+iti bhāvo na bhāvaḥ syād bhāvanā nopalabhyate || pik_16 ||
+
+
+anayā gāthayā śūnyaṃ dhyātvā sthiracarātmakam |
+anena vidhiyogena jñānabhūmiradhiṣyate || pik_17 ||
+
+ākāśadhātumadhyasthaṃ bhāvayed vāyumaṇḍalam |
+dvi-hūṃ yaṃ bījaniṣpannaṃ vajradvayasamāyutam || pik_18 ||
+
+agnimaṇḍalakaṃ cāpi tasyopari vibhāvayet |
+dvi-hūṃ raṃ bījaniṣpannaṃ vajradvayasamāṅkitam || pik_19 ||
+
+vārimaṇḍalakaṃ cāpi tasyopari vibhāvayet |
+dvi-hūṃ vaṃ bījaniṣpannaṃ vajradvayasamāyutam || pik_20 ||
+
+pṛthvīmaṇḍalakaṃ cāpi tasmopari vibhāvayet |
+dvi-hūṃ laṃ bījaniṣpannaṃ vajradvayasamanvitam || pik_29 ||
+
+caturmaṇḍalasaṃhāre vajrabhūbhāgamaṇḍalam |
+tatra bhrūṃkāraniṣpatraṃ kūṭāgāraṃ vibhāvayet || pik_22 ||
+
+caturastraṃ caturdvāraṃ catustoraṇaśobhitam |
+catuḥsūtrasamāyuktamaṣṭambhopaśobhitam || pik_23 ||
+
+hārārddhahāraracitaṃ maṇivajrārdhacandrakam |
+khacitaṃ vajraratnaistu dvāraniryūhasandhiṣu || pik_24 ||
+
+kumbhastambhamahāvajraṃ kramaśīrṣastu pakṣiṇī |
+ghaṇṭāpatākasaṃśobhaṃ cāmarādivibhūṣitam || pik_25 ||
+
+madhyamaṇḍalake dhyāyādātmānaṃ mudrayā yutam |
+trimukhaṃ ṣaḍbhujākāramindranīlasamapratham || pik_26 ||
+
+śrīvairocana-ratnau ca amitābhaśca karmarāṭ |
+pūrvādidikṣu sañcintyāstrimukhākāraṣaḍbhujāḥ || pik_27 ||
+
+moharatyādikā devyastrimukhākāraṣaḍbhujāḥ |
+āgneyīṃ diśāmārabhya sanniveśyā yathākramam || pik_28 ||
+
+rūpavajrādikāstadvad bāhyakoṇacatuṣṭaye |
+sthitaiva sparśavajrā tu vajrasattvasamāyutā || pik_29 ||
+
+paṭṭikāyāṃ nyaset pūrve maitreyaṃ kṣitigarbhakam |
+vajrapāṇiṃ khagarbhaṃ ca nyased dakṣiṇato vratī || pik_30 ||
+
+lokeśaṃ mañcughoṣaṃ ca paścimāyāṃ nyaset punaḥ |
+sarvāvaraṇaviṣkambhiṃ samantabhadrañcottare || pik_31 ||
+
+yamāntakaśca prāgdvāre dakṣiṇe tvaparājitaḥ |
+paścime tu hayagrīva uttare 'mṛtakuṇḍaliḥ || pik_32 ||
+
+acalaṣṭakkirājaśca nīladaṇḍo mahābalaḥ |
+pūrvādikoṇamārabhya pravicintyā yathāyatham || pik_33 ||
+
+sumbharājamahākrodhamadhastāt pravicintayet |
+uṣṇīṣacakravartī ca pravicintyastathopari || pik_34 ||
+
+dhyātvaivamadhimuktayā vai māṇḍaleyān yathāvidhi |
+punaḥ sampuṭayogena svakāye tān praveśayet || pik_35 ||
+
+kāyacakragatān buddhān sañcintyaivaṃ yathāyatham |
+pāramārthikacakreṇa tathatāyāṃ praveśayet || pik_36 ||
+
+mārayet tvāgataṃ vyūhaṃ sutarāṃ siddhimāpnuyāt |
+asyārtho vajramālāyāṃ vistṛto visphuṭaṃ yathā || pik_37 ||
+
+rūpaskandhagatādarśo bhūdhāturnayanendriyam |
+rūpaṃ ca pañcamaṃ yāti krodhamaitreyasaṃyutam || pik_38 ||
+
+vedanā skandhasamatā abdhātuḥ śravaṇendriyam |
+śabdaśca pañcamaṃ yāti krodhadvayasamanvitam || pik_39 ||
+
+saṃjñā ca pratyavaikṣaṇyaṃ hutabhug nāsikendriyam |
+gandhaśca pañcaṃ yāti krodhadvayasamanvitam || pik_40 ||
+
+saṃskāraḥ kṛtyānuṣṭānaṃ māruto rasanendriyam |
+rasaśca pañcamaṃ yāti krodhadvayasamanvitam || pik_41 ||
+
+urdhvādhaḥ krodhasaṃyuktaṃ prakṛtyābhāsameva ca |
+vijñānaskandhamāyāti vijñānaṃ ca prabhāsvaram || pik_42 ||
+
+nirvāṇaṃ sarvaśūnyaṃ ca dharmakāyaśca gadyate |
+dṛḍhīkaraṇahetutvān mantrametadudāharet || pik_43 ||
+
+oṃ śūnyatājñānavajrasvabhāvātmako 'ham |
+
+paramārthamaṇḍalaṃ hyetannirābhāsamalakṣaṇam |
+paramārthasatyanāmāpi sarvatāthāgatālayaḥ || pik_44 ||
+
+prabhāsvarapraviṣṭasya vyutthānaṃ ca pradarśate |
+mantramūrtiprayogeṇa devatālambanaṃ prati || pik_45 ||
+
+ākāśadhātumadhyasthaṃ bhāvayet sūryamaṇḍalam |
+tasyopari punarmantrī candrabimbaṃ vibhāvayet || pik_46 ||
+
+tatra cāṣṭadalaṃ padmaṃ raktavarṇaṃ vibhāvayet |
+padmopari mahāmantraṃ tryakṣaraṃ bhāvayet punaḥ || pik_47 ||
+
+mantraṃ padmaṃ tathā sūryaṃ praviṣṭaṃ candramaṇḍale |
+candramaṇḍalamāpūrṇaṃ bodhicittaṃ vibhāvayet || pik_48 ||
+
+sthāvaraṃ jaṅgamaṃ sarvaṃ tatraiva pravicintayet |
+dṛḍhīkaraṇahetutvānmantrametadudāharet || pik_49 ||
+
+oṃ dharmadhātusvabhāvātmako 'ham |
+
+yogamevaṃ samālambya anuyogaṃ samācaret |
+punaśca tryakṣaraṃ yogī candramadhye vicintayet || pik_50 ||
+
+tatastryakṣarasambhūtaṃ sitakundendusannibham |
+ādināthaṃ vicintyātha atiyogaṃ samārabhet || pik_51 ||
+
+akṣobhyānupraveśena trimukhaṃ ṣaḍbhujojjvalam |
+indranīlaprabhaṃ dīptaṃ vajrasattvaṃ vibhāvayet || pik_52 ||
+
+vajraṃ cakraṃ tathā padmaṃ savyahasteṣu bhāvayet |
+ghaṇṭāṃ ratnaṃ tathā khaṅgaṃ vāmahasteṣu bhāvayet || pik_53 ||
+
+tato nyāsaṃ prakurvīta skandhādīnāṃ vibhāgavit |
+vairocanādisumbhāntaṃ bījanyāsena tattvataḥ || pik_54 ||
+
+vairocanīyabījaṃ tu oṃkāraṃ śuklavarṇakam |
+rūpaskandhasvabhāvena nyasen mūrdhani mantravit || pik_55 ||
+
+āḥkāramamittābhasya saṃjñāskandhasvabhāvakam |
+raktavarṇaṃ mukhe dhyātvā vāgaiśvaryamavāpnuyāt || pik_56 ||
+
+akṣobhyasya tu hūkāraṃ rājāvartakasuprabham |
+vinyaseddhṛdaye mantrī vijñānaskandharūpataḥ || pik_57 ||
+
+svākāraṃ ratnanāthasya vedanāskandharūpataḥ |
+pītavarṇaṃ nyasennābhau vedanāśuddhihetukam || pik_58 ||
+
+pādadvaye tu hāḥkāraṃ saṃskāaskandhabhāvataḥ |
+haritābhaṃ nyasenmantrī karmanāthasya tattvataḥ || pik_59 ||
+
+moharatyādikairmantrī pṛthivyādīn praveśayet |
+kharatvaṃ dravatā auṣṇyamīraṇatvaṃ ca te kramāt || pik_60 ||
+
+thlīṃkāraṃ cakṣuṣi nyasya kṣitigarbhaṃ vibhāvayet |
+oṃkāraṃ karṇayornyasya vajrapāṇiṃ vibhāvayet || pik_61 ||
+
+oṃkāraṃ vinyased ghrāṇe khagarbhaṃ tu vibhāvayet |
+oṃkāraṃ rasane dhyātvā lokeśaṃ ca vikalpayet || pik_62 ||
+
+hūṃkāraṃ manasi dhyātvā mañjughoṣaṃ prabhāvayet |
+oṃkāraṃ sarvakāye ca dhyātvā viṣkambhiṇaṃ smaret || pik_63 ||
+
+maiṃ-kāreṇa śiraḥsaṃsthaṃ maitreyaṃ parikalpayet |
+bhadraṃ samantato dhyātvā sarvasandhiṣu sannyaset || pik_64 ||
+
+yamāntakaḥ savyabhuje apasavye 'parājitaḥ |
+hayagrīvo mukhe bhāvyo vajre cāmṛtakuṇḍaliḥ || pik_65 ||
+
+acalaṃ dakṣiṇe bhāge vāme ca ṭakkirājakam |
+jānau ca dakṣiṇe cintennīladaṇḍaṃ mahojjavalam || pik_66 ||
+
+vāmajānau mahābalaṃ mūrdhni coṣṇīṣajriṇam |
+pādāntadvayavinyastaṃ sumbharājaṃ vicintayet || pik_67 ||
+
+nyāsaṃ kṛtvā tato mantrī skandhādīnāṃ yathāvidhi |
+kāyamaṇḍalamāpanno mahāyogaṃ samārabhet || pik_68 ||
+
+mūrdhni madhyagataṃ cintet sampūrṇaṃ candramaṇḍalam |
+tatra oṃkāraṃ śuklābhaṃ prasphurat-pañcaraśmikam || pik_69 ||
+
+tato devīṃ viniścārya ādhipatyaprayogataḥ |
+locanāṃ vividhāṃ cintet sarvavyomni prapūritām || pik_70 ||
+
+kāyavajraṃ vicintyātha vyomāpūrya vyavasthitam |
+tanmadhye 'dhipatiṃ cintedātmanaśca puraḥsthitam || pik_71 ||
+
+dvātriṃśallakṣaṇadharaṃ vyañcanāśītibhūṣitam |
+prārthayet tu tato mantrī gāthādvayamudāharan || pik_72 ||
+
+buddhakāyadharaḥ śrīmāṃstrivajrābhedyabhāvitaḥ |
+adhiṣṭhānapadaṃ me 'dya karotu kāyavajriṇaḥ || pik_73 ||
+
+daśadiksaṃsthitā buddhāstrivajrābhedyabhāvitāḥ |
+adhiṣṭhānapadaṃ me 'dya kurvantu kāyavajriṇaḥ || pik_74 ||
+
+locanāsahasaṃyuktaṃ śāścataṃ ca vibhāvayet |
+tatpraveśyādhitiṣṭheta pañcuskandhaprapūritam || pik_75 ||
+
+yatkāyaṃ sarvabuddhānāṃ pañcaskandhaprapūritam |
+buddhākāyasvabhāvena mamāpi tādṛśaṃ bhavet || pik_76 ||
+
+oṃ sarvatathāgatakāyavajrasvabhāvātmako 'ham |
+
+jihvābjamadhyagataṃ cinted āḥkāraṃ raktavarṇakam |
+pāṇḍarākhyāṃ ca sagaṇāṃ saṃspharet vyomapūritām || pik_77 ||
+
+vāgvajraṃ ca tathā mantrī vyomāpūrya vyavasthitam |
+prārthayet tu tato mantrī gāthādvayamudāharan || pik_78 ||
+
+dharmo vai vākpathaḥ śrīmāṃstrivajrābhedyabhāvitaḥ |
+adhiṣṭhānapadaṃ me 'dya karotu vāgvajriṇaḥ || pik_79 ||
+
+daśadiksaṃsthitā buddhāstrivajrābhedyabhāvitāḥ |
+adhiṣṭhānapadaṃ me 'dya kurvantu vāgvajriṇaḥ || pik_80 ||
+
+svanāyakena saṃyuktāṃ pāṇḍarāṃ sahasaiva tu |
+jihvāpraviṣṭāṃ sañcintya vāgadhiṣṭhānamārabhet || pik_81 ||
+
+yadeva vajradharmasya vācā niruktisampadā |
+mamāpi tādṛśī vācā bhaved dharmadharopamā || pik_82 ||
+
+oṃ sarvatathāgatavāgvajrasvabhāvātmako 'ham |
+
+vinyasya hṛdaye mantrī śaśibimbaṃ samujjvalam |
+rājāvartanibhaṃ tatra hūṃkāraṃ pañcaraśmikam || pik_83 ||
+
+tato niścārayed devīṃ māmakīṃ sagaṇāṃ tataḥ |
+cittavajraṃ tathā dhyātvā prārthayeta yathā puraḥ || pik_84 ||
+
+cittavajradharaḥ śrīmāṃstrivajrābhedyabhāvitaḥ |
+adhiṣṭhānapadaṃ me 'dya karotu cittavajriṇaḥ || pik_84 ||
+
+daśadiksaṃsthitā buddhāstrivajrābhedyabhāvitāḥ |
+adhiṣṭhānapadaṃ me 'dya kurvantu cittavajriṇaḥ || pik_84 ||
+
+cittavajrasamāyuktaṃ hṛdaye sampraveśya ca |
+māmakīvyūhamakhilaṃ cittādhiṣṭhānamārabhet || pik_87 ||
+
+yaccittaṃ samantabhadrasya guhyakendrasya dhīmataḥ | mamāpi tādṛśaṃ cittaṃ bhaved vajradharopamam || pik_88 || pik_
+
+oṃ sarvatathāgatacittavajrasvabhāvātmako 'ham |
+
+evaṃ pṛthagadhiṣṭhāya kulatrayavibhāgataḥ |
+punaḥ sarvātmakaṃ kuryānmantreṇānena buddhimān || pik_89 ||
+
+oṃ sarvatathāgatakāyavākcittavajrasvabhāvātmako 'ham |
+
+adhiṣṭhāyaivamātmānaṃ śaśimaṇḍalamadhyagam |
+ṣaḍbhiścihnaiḥ samāyuktaṃ cintet samayasattvakam || pik_90 ||
+
+hṛnmadhyasaṃsthitaṃ sūkṣmaṃ jñānasattvaṃ vibhāvayet |
+samādhisattvasaṃjñaṃ ca hūṃkāraṃ taddṛḍhī nyaset || pik_91 ||
+
+niṣpādyaivaṃ mahāyogaṃ trisattvātmakamātmavān |
+anena vidhiyogena mahāsādhānamārabhet || pik_92 ||
+
+prāpya kanyāṃ viśālākṣīṃ rūpayauvanamaṇḍitām |
+nīlotpaladalaśyāmāṃ rajakasya mahātmanaḥ || pik_93 ||
+
+suśikṣitāṃ samādāya sādhake bhaktivatsalām |
+oṃkāraṃ śirasi dhyātvā āḥkāraṃ vākyathe nyaset || pik_94 ||
+
+hūṃkāraṃ hṛdaye dhyātvā svā nābhau hā dvipādayoḥ |
+locanāṃ māmakīṃ cāpi tathā pāṇḍaravāsinīm || pik_15 ||
+
+tārāṃ cāpi tathā mantrī pṛthivyādiṣu sannyaset |
+rūpavajrādikā devīstasyāmeva vibhāvayet || pik_ 96 ||
+
+kṣitigarbhādibhistāsāṃ samāpattiṃ vibhāvayet |
+dakṣiṇe vajravetālīṃ bhuje vāme 'parājitām || pik_97 ||
+
+bhṛkuṭiṃ ca mukhe tasyā ekajaṭāṃ ca guhyake |
+bhūyo dakṣiṇapārśvasthāṃ viśvavajrīṃ tathāgatīm || pik_98 ||
+
+viśvaratnāṃ ca vāme tu mudrāyāḥ pravibhāvayet |
+purnadakṣiṇajānusthāṃ viśvapadmāṃ tathāgatīm || pik_99 ||
+
+viśvakarmāṃ ca vāme tu mūrdhni gaganavajriṇīm | pik_ pādāntadvayavinyastāṃ dharaṇīndharadevatīm || pik_100 ||
+
+evaṃ saṃskṛtya tāṃ yogī vajrapadmathārabhet |
+mantrī hūṃkārajaṃ vajraṃ dhyāyād vai pañcasūcikam || pik_101 ||
+
+madhyasūcau tathā tasya praṇavaṃ va vibhāvayet |
+tathaivāṣṭadalaṃ padmam āḥkāreṇa tu bhāvayet |
+pañcaraśmisamākīrṇaṃ tataḥ sādhanamārabhet || pik_102 ||
+
+oṃ sarvatathāgatānurāgaṇavajrasvabhāvātmako 'ham |
+
+hūṃkāragītena tu cālayeta samudvahan vajradharasya garvam |
+svabodhicittodayakāla eva phaṭkāramantraṃ samudīrayet saḥ || pik_103 ||
+
+visargānte punarmantrī bodhicittena pūjayet |
+daśadiksaṃsthitān buddhān mantrametadudīrayet || pik_104 ||
+
+oṃ sarvatathāgatapūjājrasvabhāvātmako 'ham |
+
+svamantrākṣaraniṣpannaṃ trivajrādhiṣṭhitasvakam |
+padmamadhye tu niṣpādya dveṣavajro bhavet punaḥ || pik_105 ||
+
+vajradhṛg-mantraniṣpannaṃ paśyedakṣobhyavajriṇam |
+jaṭāmukuṭadharaṃ nātham akṣobhyakṛtaśekharam || pik_106 ||
+
+nṛpāvartakasaṅkāśaṃ kṛṣṇaraktasitānanam | pik_ sarvālaṅkārasampūrṇaṃ ṣaḍbhujaṃ tu vibhāvayet || pik_107 ||
+
+vajraṃ cakraṃ tathā padmaṃ savyahasteṣu dhārayet |
+ghaṇṭāṃ cintāmaṇiṃ khaḍgaṃ tasya vāmeṣu bhāvayet || pik_108 ||
+
+niṣkramya hṛdayādeṣa vyavalokya diśo daśa |
+buddharddhimakhilāṃ kṛtvā dharmacakraṃ pravartya ca || pik_109 ||
+
+saṃśodhya nikhilān sattvān dveṣavajrapade sthitān |
+āgatya vajranāthasya purato 'bhiniṣīdati || pik_110 ||
+
+anupraveśya tanmantrī hṛdyātmānaṃ vibhāvayet |
+pūrvarūpaṃ parāvṛttya dveṣavajrapade sthitaḥ || pik_111 ||
+
+indranīlaprabhaṃ dīptaṃ sūryamaṇḍalamadhyagam |
+svamudrāliṅgitaṃ vīraṃ sarvālaṅkārabhūṣitam || pik_112 ||
+
+raudraśāntamahārāgaṃ mukhatrayavirājitam |
+dveṣavajrasamādhisthaḥ protsṛjet sarvamaṇḍalam || pik_113 ||
+
+jinajig-mantraniṣpannaṃ sṛjed vairocanaṃ vibhum |
+śaraccandrāṃśusaṅkāśaṃ jaṭāmukuṭamaṇḍitam || pik_114 ||
+
+sitaraktakṛṣṇavadanaṃ ṣaḍbhujaṃ śāntarūpiṇam |
+cakravajrasitāmbhojaṃ dakṣiṇeṣu vicintayet || pik_115 ||
+
+ghaṇṭāṃ cintāmaṇiṃ khaḍgaṃ vāmeṣvasya vibhāvayet |
+hṛdayāt tathaiva nirgatya mohacaryāsthitāḥ prajāḥ || pik_116 ||
+
+saṃśodhya punarāgatya punaścake niṣīdati |
+ratnadhṛg-mantraniṣpannaṃ ratnaketuṃ sṛjed budhaḥ || pik_117 ||
+
+jaṭājūṭadharaṃ saumyamakṣobhyakṛtaśekharam |
+pītakṛṣṇasitāsyaṃ ca ṣaḍbhujaṃ cāpi cintayet || pik_118 ||
+
+tasya cintāmaṇiṃ vajraṃ cakraṃ savyeṣu bhāvayet |
+ghaṇṭāṃ ca pītakamalaṃ khaḍgaṃ vāmeṣu bhāvayet || pik_119 ||
+
+hṛdayāt tathaiva nirgatya ahaṅkārapade sthitān |
+saṃśodhya dakṣiṇe bhāge ratnamadhye niṣīdati || pik_120 ||
+
+ārolig-mantraniṣpannaṃ sṛjedamitavajriṇam |
+padmarāgaprabhaṃ saumyamakṣobhyakṛtaśekharam || pik_121 ||
+
+jaṭāmukuṭadharaṃ nāthaṃ raktakṛṣṇasitānanam |
+śṛṅgārarasasaṃyuktaṃ ṣaḍbhujaṃ tu vibhāvayet || pik_122 ||
+
+padmanālaṃ gṛhītvā tu vāmena saha ghaṇṭayā |
+hṛtpradeśasthitaṃ padmaṃ dakṣiṇena vikāśayet || pik_123 ||
+
+savyayorvajracakre tu vāmayoḥ ratnakhaḍgakau | pik_ pūrvavad rāgiṇaḥ śodhya pṛṣṭhato 'bje niṣīdatī || pik_124 ||
+
+amoghavajriṇaṃ mantrī prajñādhṛg-mantranirmitam |
+haritābhaṃ sṛjennāthaṃ jaṭāmukuṭamaṇḍitam || pik_125 ||
+
+haritakṛṣṇasitāsyaṃ ca ṣaḍbhujaṃ raśmibhāsuram |
+khaḍgaṃ ca viśvavajraṃ ca cakraṃ savyeṣu bhāvayet || pik_126 ||
+
+ghaṇṭāmapasavyahasteṣu haritapadmaṃ maṇiṃ tathā |
+abhūtavacasaḥ sattvān viśodhya punarāgataḥ || pik_127 ||
+
+uttarasyāṃ diśi tathā viśvavajre niṣīdati |
+dveṣo mohastathā rāgaścintāmaṇiḥ samayastathā || pik_128 ||
+
+kulā hyete tu vai pañca kāmamokṣaprasādhakāḥ |
+mantrānmoharaterjātāṃ sṛjed devīṃ tu locanām || pik_129 ||
+
+śvetāṃ śāntarasopetāṃ mūrdhni vairocanāṅkitām |
+sitaraktakṛṣṇavadanāṃ ṣaḍbhujāṃ tu vibhāvayet || pik_130 ||
+
+savye cakraṃ va vajraṃ ca tathaiva sitamutpalam |
+vāme ghaṇṭāṃ tathā ratnaṃ khaḍgaṃ cāpi vibhāvayet || pik_139 ||
+
+hṛdayāt tu vinirgatya vyavalokya diśo daśa |
+grahavyādhyāture loke śāntiṃ kṛtvā mahākṛpā || pik_132 ||
+
+āgatya cakramadhye tu pūrvakoṇe niṣīdati | mantrād dveṣaraterjātā sṛjed devīṃ tu māmakīm | nīlotpaladalaśyāmāṃ cāruvaktrāṃ manoramām | pik_ kṛṣṇaraktasitāsyāṃ ca akṣobhyakṛtaśekharām || pik_134 ||
+
+savyeṣu vajraṃ cakraṃ ca nīlaraktotpalaṃ tathā |
+ghaṇṭāṃ ratnaṃ ca khaḍgaṃ ca vāhasteṣu dhārayet || pik_135 ||
+
+mahāvighnabhayārtānāṃ rakṣāṃ kṛtvā mahākṛpā |
+niṣkramya punarāgatya nairṛtyāṃ sā niṣīdati || pik_136 ||
+
+mantrād rāgaraterjātā sṛjet pāṇḍaravāsinīm |
+raktakṛsṇasitāsyāṃ vai padmarāgamaṇiprabhām || pik_137 ||
+
+sāmitābhajaṭājūṭāṃ ṣaḍbhujāṃ tu vibhāvayet |
+gṛhītvolpalanālaṃ tu vāmena saha ghaṇṭayā || pik_138 ||
+
+utpalaṃ hṛtpradeśasthaṃ rakta savyena bodhayet |
+vajraṃ cakraṃ ca savyābhyāṃ maṇiṃ khaḍgaṃ ca vāmataḥ || pik_139 ||
+
+dhārayantī vinirgatya śāntiṃ kṛtvā mahāture |
+āgatya padmamadhye vai vāyukoṇe niṣīdati || pik_140 ||
+
+mantrād vajraraterjātāṃ sṛjet tārāṃ manoramām |
+haritakṛṣṇasitāsyāṃ ca dūrvāpatrasamaprabhām || pik_141 ||
+
+amoghena kṛtosṇīṣāṃ ṣaḍbhujāṃ tu vibhāvayet |
+viśvavajraṃ ca cakraṃ ca savyato 'sitamutpalam || pik_142 ||
+
+vāmeṣu vinyased ghaṇṭāṃ ratnaṃ khaḍgaṃ tathā vratī |
+sarvasattvān vaśīkṛtya viśvavajrāsanā punaḥ || pik_143 ||
+
+nirgatāsau samāgamya śivasthāne niṣīdati |
+dvitīye tu puṭe yogī rūpavajrādikaṃ sṛjet || pik_144 ||
+
+agnikoṇe sṛjed devīṃ rūpavajrāṃ manoramām |
+trimukhāṃ ṣaḍbhujāṃ śvetāṃ śrīvairocanamaulikām || pik_145 ||
+
+gṛhītadarpaṇāṃ dvābhyāṃ śeṣaṃ moharateriva |
+nairṛtyāṃ vinyased devīṃ śabdavajrāṃ tu ṣaḍbhujām || pik_146 ||
+
+pītavarṇāṃ trivaktrāṃ ca ratnasambhavamaulikām |
+vīṇāvyagradvihastāṃ ca śeṣaṃ māmakīvad bhavet || pik_147 ||
+
+vāyusthāne nyased devīṃ gandhavajrāṃ tu ṣaḍbhujām |
+raktavarṇāṃ trivaktrāṃ ca amitābhajaṭādharām || pik_148 ||
+
+śaṅkhavyagradvihastāṃ ca śeṣaiḥ pāṇḍaravāsinīm |
+aiśānyāṃ vinyased devīṃ rasavajrāṃ tu ṣaḍbhujām || pik_149 ||
+
+trimukhāṃ śyāmavarṇā ca dandubhisvaramaulikām |
+hastastharasabhāṇḍāṃ ca śeṣaistārāsamākṛtim || pik_150 ||
+
+vajrasattvaṃ samāliṅgya cakramadhye vyavasthitām |
+cintayet sparśavajrāṃ tu patitulyāṃ mukhādibhiḥ || pik_151 ||
+
+tṛtīye tu puṭe pūrve paṭṭikāyāṃ sṛjed vratī |
+maiṃ-thlīṃ bījaviniṣpanau maitreyakṣitigarbhakau || pik_152 ||
+
+praṇavena samutpannau vajrapāṇikhagarbhakau |
+paṭṭikāyāṃ sṛjenmantrīṃ dakṣiṇāyāṃ yathākramam || pik_153 ||
+
+o-hūṃkāraviniṣpannaṃ lokeśaṃ mañcughoṣakam |
+paścimāyāṃ sṛjedetāvuttarasyāṃ punaḥ sṛjet || pik_154 ||
+
+oṃ-saṃ-bījaviniṣpannaṃ saviṣkambhisamantakam |
+ete svanāthamukuṭā varnādyaistatsamāḥ punaḥ || pik_155 ||
+
+bhujaiḥ praharaṇaiścāpi svasvādhipatibhiḥ samāḥ |
+maitreyaḥ kevalaṃ savye nāgapuṣpaṃ bibharti ca || pik_156 ||
+
+saṃśodhyāyatanānyete divyanetrādidāyakāḥ |
+sattvānāṃ punarāgatya niṣīdantyāsaneṣu vai || pik_157 ||
+
+yamāntakṛnmantrabhavaṃ kṛṣṇaraktasitānanam |
+yamāntakaṃ sṛjenmantrī suliṅgagahanākulam || pik_158 ||
+
+daṇḍaṃ cakraṃ tathā vajraṃ savyahasteṣu dhārayan |
+hṛddeśe tarjanīpāśaṃ ghaṇṭā paraśuṃ ca vāmataḥ || pik_159 ||
+
+vighnān santrāsayan ghorān indrādīn sagaṇānapi |
+padmasūryaṃ samākramya pūrvasyāṃ diśi tiṣṭhati || pik_160 ||
+
+prajñāntakṛnmantrabhavaṃ ratnasambhavamaulikam |
+aparājitaṃ sṛjenmantrī śvetābhamahibhūṣaṇam || pik_161 ||
+
+sitakṛṣṇaraktavadanaṃ bṛhatkukṣiṃ trilocanam |
+daṃṣṭrākarālavikaṭaṃ sphuliṅgagahanākulam || pik_162 ||
+
+vajraṃ daṇḍaṃ tathā khaḍgaṃ savyahasteṣu dhārayan |
+hṛddeśe tarjanīpāśaṃ ghaṇṭāṃ paraśuṃ ca vāmataḥ || pik_163 ||
+
+vighnān santrāsayan ghorān pratyālīḍhapadena tu |
+padmasūryaṃ samākramya yāmyāṃ diśi sa tiṣṭhatio || pik_164 ||
+
+yamāntakṛnmantrabhavaṃ hayagrīvaṃ sṛjed vratī |
+padmarāganibhaṃ tryakṣaṃ raktakṛṣṇasitānanam || pik_165 ||
+
+karālāsyaṃ bṛhatkukṣimamitābhakirīṭinam |
+pratyālīḍhapadaṃ vīraṃ sphuliṅgagahanākulam || pik_166 ||
+
+padmaṃ khaṅgaṃ ca musalaṃ savyahasteṣu bhāvayet |
+ghaṇṭāṃ sagarvaparaśuṃ pāśaṃ savyetareṣu ca || pik_167 ||
+
+padmasūryaṃ samāruhya vyavalokya diśo daśa |
+vidhnasantrāsanaṃ kṛtvā vāruṇyāṃ diśi tiṣṭhati || pik_168 ||
+
+vidhnāntakṛnmantrabhavaṃ dundubhisvaramaulikam |
+nīlotpaladalaśyāmaṃ sṛjedamṛtakuṇḍalim || pik_169 ||
+
+nīlaraktasitāsyaṃ ca karālamukhavibhramam |
+bṛhatkukṣiṃ trinayanaṃ raktajvālāvibhūṣitam || pik_170 ||
+
+viśvavajraṃ tathā vakraṃ musalaṃ cāpi savyataḥ |
+dhārayaṃstarjanīpāśaṃ ghaṇṭāṃ paraśuṃ ca vāmataḥ || pik_171 ||
+
+vidhnasantrāsanaṃ kṛtvā pratyālīḍhapadena tu |
+padmasūryaṃ samāruhya kauberyāṃ diśi tiṣṭhati || pik_172 ||
+
+svamantrākṣaraniṣpannamacalaṃ ca sṛjet punaḥ |
+indranīlaprabhaṃ tryakṣaṃ śrīvairocanamaulikam || pik_173 ||
+
+daṃṣṭrākarālavadanaṃ kṛṣṇaraktasitānanam |
+aṭṭahāsaravaṃ ghoraṃ bṛhatkukṣiṃ mahābalam || pik_174 ||
+
+khaṅkaṃ vajraṃ tathā cakraṃ savyahasteṣu dhārayet |
+tarjanīṃ cāpi paraśuṃ pāśaṃ vāmeṣu pāṇiṣu || pik_178 ||
+
+vighnān jvarādikān hatvā pratyālīḍhapadena tu |
+padmasūryaṃ samāruhya vahnisthāne sa tiṣṭhati || pik_176 ||
+
+svamantrākṣaraniṣpannaṃ ṭakkirājaṃ sṛjed vratī |
+indranīlaprabhaṃ vīraṃ ratnasambhamaulikam || pik_177 ||
+
+kṛṣṇaraktasitāsyaṃ ca bṛhatkukṣiṃ bhayānakam | pik_ dadhānaṃ vajraṃ hūṃkāramudrāṃ paṇidvayena tu || pik_178 ||
+
+vajraṃ khaḍgaṃ ca savyābhyāṃ vāmataḥ pāśamaṅkuśam |
+pratyālīḍhena sūryastho nairṛtyāṃ vidhnanāśakaḥ || pik_179 ||
+
+svamantrākṣaranispannaṃ nīladṇḍaṃ sṛjed vratī |
+nīlameghanibhaṃ tryakṣamamitābhakirīṭinam || pik_180 ||
+
+nīlaraktasitāsyaṃ ca bṛhatkukṣiṃ bhayāvaham |
+daṇḍaṃ khaṅgaṃ tathā savyahasteṣu dhārayan || pik_181 ||
+
+hṛdeśe tarjanīpāśaṃ padmaṃ paraśuṃ ca vāmataḥ |
+hatvetyupadravabhayaṃ pratyālīḍhapade sthitaḥ || pik_182 ||
+
+padmasūryaṃ samāruhya vāyavyāṃ diśi tiṣṭhati |
+svamantrākṣaraniṣpannaṃ dundubhisvaramaulikam || pik_183 ||
+
+mahābalaṃ sṛjenmantrī nīlotpaladalaprabham |
+kṛṇṇaraktasitāsyaṃ ca tryakṣaṃ bhairavanāditam || pik_184 ||
+
+nāgabhūṣitasarvāṅgaṃ bṛhatkukṣiṃ bhayānakam |
+daṇḍaṃ khaḍgaṃ tathā cakraṃ savyahasteṣu dhārayan || pik_185 ||
+
+hṛddeśe tarjanīpāśaṃ padmaṃ paraśuṃ ca vāmataḥ |
+ḍākinyādibhayadhvaṃsī pratyālīḍhapadena saḥ || pik_186 ||
+
+padmasūryaṃ samāruhya aiśānyāṃ diśi tiṣṭhati |
+svamantrākṣaraniṣpannaṃ sṛjeduṣṇīṣacakriṇam || pik_187 ||
+
+ākāśaśyāmakaṃ ghoramakṣobhyakṛtaśekharam |
+kṛṣṇaraktasitāsyaṃ ca tryakṣaṃ lambodaraṃ vibhum || pik_188 ||
+
+vāmadakṣiṇahastābhyāmuṣṇīṣaṃ mūrdhniṃ dhārayan |
+vajraṃ padmaṃ ca savyābhyāṃ tarjanīkhaḍgamanyataḥ || pik_189 ||
+
+sarvopadravavidhvaṃsī pratyālīḍhapadodyataḥ |
+padmasūryaṃ samāruhya brahmasthāne sa tiṣṭhati || pik_190 ||
+
+svamantrākṣaraniṣpannaṃ sumbharājaṃ sṛjed vratī |
+ākāśasuprabhaṃ tryakṣaṃ kṛṣnaraktasitānanam || pik_191 ||
+
+bṛhatkukṣiṃ karālāsyamakṣobhyakṛtaśekharam |
+vajraṃ cakraṃ tathā ratnaṃ savyahasteṣu dhārayan || pik_192 ||
+
+hṛddeśe tarjanīpāśaṃ padmakhaḍgaṃ ca vāmataḥ |
+kālakūṭādikaṃ sarvaviṣaṃ sthāvarajaṅgamam || pik_193 ||
+
+hatvā vināyakān sarvān śāntiṃ kṛtvā tu sarvataḥ |
+ājñāṃ sampādya nikhilāṃ pratyālīḍhapade sthitaḥ |
+padmasūryaṃ samāruhya bhuvo 'dhastāt sa tiṣṭhati || pik_194 ||
+
+utsṛjya maṇḍalaṃ sarvaṃ dvātriṃśaddevatāmayam |
+cakramadhyasthito bhūtvā sūkṣmayogamathārabhet || pik_194 ||
+
+nāsagre sarṣapaṃ cintet sarṣape sacarācaram |
+bhāvayejjñānapadaṃ ramyaṃ rahasyaṃ jñānakalpitam || pik_196 ||
+
+sthiraṃ tu sphārayed ratnamasthiraṃ naiva sphārayet |
+sphārayet pravarairmeghaibuddhajvālāsamaprabhaiḥ || pik_197 ||
+
+bhikṣāśinā na japtapyaṃ na ca bhaikṣarato bhavet |
+japenmantramabhinnāṅgaṃ sarvakāmopabhogakṛt || pik_198 ||
+
+uccārya saṃsphared vajraṃ samāptau saṃhāramādiśet | idaṃ tat sarvabuddhānāṃ japoktaṃ paramārthataḥ || pik_iti | pik_ 199 ||
+
+sūkṣmayogajapaṃ cāpi dvidhā kṛtvā yathāruci |
+ātmānaṃ ca punarmantrī tathatāyāṃ praveśayet || pik_200 ||
+
+maṇḍalasthāścaturdevyo na paśyantyastataḥ patim |
+gāthācatuṣṭayenetthaṃ bodhayanti mahāsukham || pik_201 ||
+
+tvaṃ vajrasattva bhuvaneśvara sattvadhāto trāyāhi māṃ ratinojñamahārthakāmaiḥ |
+kāmāhi māṃ janaka sattvamahāgrabandho yadīcchase jīvatu mahya nātha || pik_202 ||
+
+tvaṃ vajrakāya bahusattvapriyāgracakra buddhārthabodhiparamārthahitānudarśīṃ |
+rāgeṇa rāgasamayāṃ mama kāmayasva yadīcchase jīvatu mahya nātha || pik_203 ||
+
+tvaṃ vajravāca sakalasya hitānukampī lokārthakāryakaraṇe sada sampravṛttaḥ |
+kāmāhi māṃ sugatacarya samantabhadra yadīcchase jīvatu mahya nātha || pik_204 ||
+
+tvaṃ vajrakāma samayāgra mahāhitārtha saṃbuddhavaṃśatilakaḥ samatānukampī |
+kāmāhi mām guṇanidhiṃ bahuratnabhūtāṃ yadīcchase jīvatu mahya nātha || pik_205 ||
+
+evamutthāpitaṃ nāthaṃ sadbhūtaguṇakīrtanaiḥ |
+akṣobhyādisvabhāvena saṃstuvanti tathāgatāḥ || pik_206 ||
+
+akṣobhyavajra mahājñāna vajradhātu mahābudha |
+trimaṇḍala trivajrāgra bhāṣa guhyaṃ namo 'stu te || pik_207 ||
+
+vairocana mahāśuddha vajraśānta mahārate |
+prakṛtiprabhāsvarān dharmān deśa vajra namo 'stu te || pik_208 ||
+
+ratnarāja sugambhīra khavajrākāśanirmala |
+svabhāvaśuddha nirlepa bhāṣa guhyaṃ namo 'stu te || pik_209 ||
+
+vajrāmitamahārāja nirvikalpa khavajriṇa |
+rājapāramitāprāpta bhāṣa vajra namo 'stu te || pik_210 ||
+
+amoghavajra saṃbuddha sarvāśāparipūraka |
+śuddhasvabhāvasambhūta vajrasattva namo 'stu te || pik_211 ||
+
+nutvātha buddhaiaranurāgya cakram prakāśya guhyaṃ paramaṃ yathāyatham |
+svakāyacakre viniveśya cakram mahāsukhastiṣṭhati nātha ekaḥ || pik_212 ||
+
+evaṃ caturyogakarastu yogī hūṃkāragarbhaṃ pravicintya lokam | dṛṣṭvā japat tadbhavavajrasattvaṃ vyutthāya taddhīrvicared yathāvad || iti | pik_213 ||
+
+samādhimālambayan mantrī śuṣkamūrtiryadā bhavet |
+vicintayedimaṃ yogaṃ kāyavākcittaprīṇanam || pik_214 ||
+
+vitastimātramākramya mūrdhni maṇḍalakalpanā |
+oṃkāraṃ tatragaṃ dhvātvā pañcāmṛtanipātanam || pik_215 ||
+
+anena vajrayogena tejasvī bhavati kṣaṇāt |
+kāyavākcittasausthityaṃ labhate nātra saṃśayaḥ || pik_216 ||
+
+evamabhyāsato mantrī śodhayed bodhayet yathā |
+hṛtkaṇṭhaṃ caiva saṃśodhyaṃ prīṇayecca tathāgatān || pik_217 ||
+
+hūṃkāreṇa ca saṃśodhya āḥkāreṇa tu bodhayet |
+jvālayet praṇavākrāntam iyamāhāraśodhanā || pik_218 ||
+
+kaṇṭhe śaṅkhaṃ vicintyādau tasmin hrīḥkārasambhavam |
+padmamaṣṭadalaṃ cinted hūṃkāraṃ karṇikopari || pik_219 ||
+
+hūṃkārajaṃ mahāvajraṃ pañcaśūkaṃ vibhāvayet |
+madhyaśūkāgre sañcinted oṃkāraṃ kaṇṭhaśodhanam || pik_220 ||
+
+meghanādaṃ hṛdi dhyātvā triśikhāgniṃ tataḥ spharet |
+tatrāhāraṃ ca juhuyād homamādhyātmikaṃ tvidam || pik_221 ||
+
+vāyavyaṃ dīpayed agniṃ vāruṇaṃ pacate tu saḥ |
+māhendramaṇḍalaṃ sthānaṃ yatra sañcarate haviḥ || pik_222 ||
+
+annaṃ pānaṃ ca yat kiñcit tat sarvaṃ vāruṇena tu |
+aśanaṃ mukhapadmena hṛtpadyaṃ sampraveśayet || pik_223 ||
+
+nābhipadmagataṃ paścāt sampuṭīkaraṇayogataḥ |
+gudapadmād vinirgatya bhaśmāntaṃ ca vinirdiśet || pik_224 ||
+
+na jarā nāpi rogaśca na mṛtyurna viṣādikam | nākālamaraṇaṃ tasya sarvopadravanāśanam || pik_iti | pik_ 225 ||
+
+śrīvajramālāvaramanthanena gūḍhaṃ samājāmbunidhiṃ mathitvā |
+yat sādanāṅgāmṛtamāpi tena lokaḥ samasto 'maratāmupaitu || pik_226 ||
+
+|| piṇḍīkramasādhanaṃ samāptam ||
+
+| kṛtirācāryaśrīnāgārjunapādānām |

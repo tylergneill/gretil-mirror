@@ -1,0 +1,372 @@
+Kṣemendra: Caturvargasaṃgraha
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kSemendra-caturvargasaMgraha.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Daniele Cuneo
+## Contribution: Daniele Cuneo
+## Date of this version: 2019-05-13
+
+## Source: 
+   - Paṇḍit Durgāprasād and Kāśīnāth Pāṇḍuraṅg Parab (eds.): Kāvyāmālā Part 585-101. Bombay 1937.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Caturvargasaṃgraha = CVSam,
+   - the number of the pariccheda in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+
+# Text
+
+
+mahākaviśrīkṣemendrakṛtaḥ caturvargasaṃgrahaḥ |
+
+
+prathamaḥ paricchedaḥ |
+
+satyaskandhas taruṇakaruṇāpūtapīyūṣasiktaḥ kṣānticchāyaḥ śubhamatilatālaṃkṛtaḥ śīlamūlaḥ |
+bhūyāt sattvaprasavavilasatpallavaḥ puṇyabhājāṃ dharmaḥ prodyatkuśalakusumaḥ śrīphalo maṅgalāya || CVSam_1.1
+
+upadeśāya śiṣyāṇāṃ saṃtoṣāya manīṣiṇām |
+kṣemendreṇa nijaślokaiḥ kriyate vargasaṃgrahaḥ || CVSam_1.2
+
+dharmaḥ śarma paratra ceha ca nṛṇāṃ dharmo 'ndhakāre raviḥ sarvāpatpraśamakṣamaḥ sumanasāṃ dharmābhidhāno nidhiḥ |
+dharmo bandhur abāndhave pṛthupathe dharmaḥ suhṛn niścalaḥ saṃsārorumarusthale suratarur nāsty eva dharmāt paraḥ || CVSam_1.3
+
+karṇe dharmakathā mukhe paricitaṃ dharmābhirāmaṃ vacaś citte dharmamanorathaḥ praṇayinī sarvatra dharmasthitiḥ |
+kāye dharmamayī kriyā parikaraḥ so 'yaṃ śubhaprāptaye kalpāpāyapade 'py upaplavalavair aspṛṣṭavelāphalaḥ || CVSam_1.4
+
+nindyaṃ janma pramohasthirataratamasāṃ yan manuṣyatvahīnaṃ buddhyā hīno manuṣyaḥ śubhaphalavikalas tulyaceṣṭaḥ paśūnām |
+buddhiḥ pāṇḍityahīnā bhramati sadasatos tattvacarcāvicāre pāṇḍityaṃ dharmahīnaṃ śukasadṛśagirāṃ niṣphalakleśam eva || CVSam_1.5
+
+pāṇḍityaṃ yan madāndhānāṃ parotkarṣavināśanam |
+mātsaryapāṃsupūreṇa mātaṅgasnānam eva tat || CVSam_1.6
+
+tatprājñatvaṃ harati vimalaṃ yena śīlaṃ na kāmas taddhīratvaṃ praśamavaśatāṃ yānti yenendriyāṇi |
+tadvaidagdhyaṃ bhuvanajayinī vañcyate yena māyā tatpāṇḍityaṃ bhavaparibhavaḥ śāntim āyāti yena || CVSam_1.7
+
+andhaḥ sa eva śrutavarjito yaḥ śaṭhaḥ sa evārthinirarthako yaḥ |
+mṛtaḥ sa evāsti yaśo na yasya dharme na dhīr yasya sa eva śocyaḥ || CVSam_1.8
+
+hitaṃ na kiṃcid vihitaṃ parasya dattaṃ na vittaṃ na ca satyam uktam |
+yasmin dine niṣphalatāṃ prayātam āyuḥ sa kālaḥ paridevanasya || CVSam_1.9
+
+na dānatulyaṃ dhanam anyad asti na satyatulyaṃ vratam anyad asti |
+na śītatulyaṃ śubham anyad asti na kṣāntitulyaṃ hitam anyad asti || CVSam_1.10
+
+satyaṃ vāci dṛśi prasādamayatā sarvāśayāśvāsinī pāṇau dānavimuktir ātmajananakleśāntacintā matau |
+saṃsaktā hṛdaye dayaiva dayitā kāye parārthodyamo yasyaikaḥ puruṣaḥ sa jīvati bhave bhrāmyanty ajīvāḥ pare || CVSam_1.11
+
+paraprāṇatrāṇapraṇihitadhiyāṃ dharmajananī dayaivaikā loke sakalajanatājīvitasudhā |
+asāmānyaṃ puṇyaṃ munibhir uditaṃ jñānanayanair ahiṃsā saṃsāre svapurakuśalaślāghyasaraṇiḥ || CVSam_1.12
+
+prāṇāṇāṃ parirakṣaṇāya satataṃ sarvāḥ kriyāḥ prāṇiṇāṃ prāṇebhyo 'py adhikaṃ samastajagatāṃ nasty eva kiṃcit priyam |
+puṇyaṃ tasya na śakyate gaṇayituṃ yaḥ pūrṇakāruṇyavān prāṇānām abhayaṃ dadāti sukṛtī teṣām ahiṃsāvrataḥ || CVSam_1.13
+
+sa eva sattvābharaṇaprabhāvabhūrbhuvaḥ prakāmābharaṇaṃ narottamaḥ |
+mukhāmbuje yasya vasaty anatyayā sadaiva satyābharaṇā sarasvatī || CVSam_1.14
+
+klinnaṃ koṣaniṣaṇṇam arthiviphalaṃ śalyāyate yatparaṃ vittaṃ kleśānimittam eva malinaṃ yātu svayaṃ tatkṣayam |
+yatkāruṇyaparopakāravikalaṃ bhūbhārabhūtaṃ vapuḥ svārthāsaktam anarthasārthasadanaṃ mā māstu tat kasyacit || CVSam_1.15
+
+vandyaḥ sa puṃsāṃ tridaśābhivandyaḥ kāruṇyapuṇyopacayakriyābhiḥ |
+saṃsārasāratvam upaiti yasya paropakārābharaṇaṃ śarīram || CVSam_1.16
+
+paradraviṇaniḥspṛhaḥ parakalatraniṣkautukaḥ parapraṇayavatsalaḥ paranikārabaddhakṣamaḥ |
+parastutiviśāradaḥ paragūnāpavādojjhitaḥ parārtiharaṇodyato bhavati bhūripuṇyair naraḥ || CVSam_1.17
+
+padmānām iva sā satāṃ saguṇatā yā saṃśrayārhā śriyaḥ sā śrīr bhadragajendramūrtir iva yā dānena vibhrājate |
+tad dānaṃ navacandravad yad aniśaṃ mānena saṃpūryate māno 'sau ṭṛṇavan na yaḥ paricayamlānaḥ śanaiḥ śuṣyati || CVSam_1.18
+
+lakṣmīr dānaphalā śrutaṃ śamaphalaṃ pāṇiḥ surārcāphalaś ceṣṭā dharmaphalā parārtiharaṇakrīḍāphalaṃ jīvitam |
+vāṇī satyaphalā jagatsukhaphalasphītā prabhāvonnatir bhavyānāṃ bhavaśānticintanaphalā bhūtyai bhavaty eva dhiḥ || CVSam_1.19
+
+śīlaṃ śilayatāṃ kulaṃ kalayatāṃ sadbhāvam abhyasyatāṃ vyājaṃ varjayatāṃ guṇaṃ gaṇayatāṃ dharme dhiyaṃ badhnatām |
+kṣāntiṃ cintayatāṃ tamaḥ śamayatāṃ tattvaśrutiṃ śṛṇvatāṃ saṃsāre na paropakārasadṛśaṃ paśyāmi puṇyaṃ satām || CVSam_1.20
+
+tīrthāni dīrghādhvapariśramāṇi bahuvyayāni kratuḍambarāṇi |
+tapāṃsi muktvā tanuśoṣaṇāni hiṃsāvirāme ramatāṃ matir vaḥ || CVSam_1.21
+
+yujvā vipraḥ śucir anucaraḥ saṃyatātmā tapasvī mantrī vidvān avanivanitābhūṣaṇaṃ bhūmipālaḥ |
+dharmodyāne sukṛtasalilāsārasaṃsicyamāne pūrṇaḥ so 'yaṃ kṛtayugataror bhāvino bījavāpaḥ || CVSam_1.22
+
+dambhena śīlavratam aspṛhatvaṃ viraktatā śrotriyatā mṛdutvam |
+etāni mūlāni nigūḍhagūḍhakauṭilyalīnāni kalidrumasya || CVSam_1.23
+
+yāvanti dānāni vadanti santas tapāṃsi tīrthāni ca yāni santi |
+tatpuṇyam ekatra vibhāti sarvaṃ mahārham ekatra ca niḥspṛhatvam || CVSam_1.24
+
+satām adainyaṃ vadanasya śobhā nirlobhatāntarvacasāmayācñā |
+kāyasya satsevyam asevyakatvaṃ pāṇer anuttānatalatvam eva || CVSam_1.25
+
+mānyaḥ kulīnaḥ kulajāt kalāvān vidvān kalājñād viduṣaḥ suśīlaḥ |
+dhanī suśīlād dhanino 'pi dātā dātur jitā kīrtir āyācakena || CVSam_1.26
+
+taptais tīvravrataiḥ kiṃ vikasati karuṇāsyandinī yady ahiṃsā kiṃ dūrais tīrthasārair yadi śamavimalaṃ mānasaṃ satyapūtam |
+yatnād anyopakāre prasarati yadi dhīr dānapuṇyaiḥ kim anyaiḥ kiṃ mokṣopāyayogair yadi śucimanasām ucyate bhaktir asti || CVSam_1.27
+
+iti dharmapraśaṃsā nāma prathamaḥ paricchedaḥ |
+
+
+dvitīyaḥ paricchedaḥ |
+
+pradhānadhāmnāṃ nidhaye dhanāya namo' stu tasmai guṇino 'pi yatnāt |
+yadāśayā nirguṇabhūpatīnām agre guṇān ṣaṇyadaśāṃ nayanti || CVSam_2.1
+
+dānādidharmaḥ kriyate dhanena dhanena dhanyā dhanam āpnuvanti |
+dhanair vinā kāmakathāpi nāsti trivargamūlaṃ dhanam eva nānyat || CVSam_2.2
+
+yat klībair bhaṭakukkuṭotkaṭaraṇakrīḍā samādiśyate yan mūrkhaiḥ sukhalilayā kaviśukālāpaściraṃ carvyate |
+nīcair uccataraś ca sevakahayaḥ svāmyena yad vāhyate tad vittasya vilāsanṛttavasater udvṛttavṛttāyitam || CVSam_2.3
+
+pūjā dhanenaiva na satkulena kīrtir dhanenaiva na vikrameṇa |
+rūpaṃ dhanenaiva na yauvanena kriyā dhanenaiva na jīvitena || CVSam_2.4
+
+vṛddhāḥ prasiddhā vibudhā vidagdhāḥ śūrā śrutijñāḥ kavayaḥ kulīnāḥ |
+vilokayantaḥ sadhanasya vaktraṃ jayeti jīveti sadā vadanti || CVSam_2.5
+
+kruddhyā yutaṃ niścalapakṣmanetraṃ maunānvitaṃ devam ivākulīnam |
+dīnaḥ kulīnaḥ praṇamatkulīnaḥ kṛtāñjaliḥ stauti dhanābhikāmaḥ || CVSam_2.6
+
+tasmād alabdhadraviṇasya lābhe labdhasya rakṣāniyame yatena |
+saṃrakṣamāṇasya sadā vivṛddhau vṛddhasya ca sthānavibhāgasarge || CVSam_2.7
+
+dharmādhāno 'śaśiśuciyamaḥ preyasīmitrabandhusthānotsāhopacayavijayaprāṇavidyākalāptau |
+ślāghye dehapraśamasamaye nirvivāde vibhāge vittatyāge na bhavati satāṃ granthibandhānubandhaḥ || CVSam_2.8
+
+goṣṭhī viṭaiś cāraṇacakracaryā veśyāratiḥ sādhuviśeṣagandhaḥ |
+spardhā suveṣair nijavṛttilajjā pradhānam etan nidhanaṃ dhanānām || CVSam_2.9
+
+jāyā śīlavivarjitā vyayavatī māyānikāyaḥ suhṛd duṣpūro gurur arthabhoganicayair bandhur daridraḥ śaṭhaḥ |
+dāsaś cauryaparo 'salaś ca kupade putraḥ khalaiḥ pātitaḥ so 'yaṃ kleśaśatāptasaṃcayanidheḥ pratyakṣalakṣyaḥ kṣayaḥ || CVSam_2.10
+
+dākṣyaṃ vittasya mūlaṃ sunayaparicayaḥ saṃpadudyānasekaḥ prāgalbhyaṃ ratnavarṣi vyasanavanasamunmūlanaṃ saṃyatatvam |
+śrīrakṣā mantraguptir vipadupaśamanaṃ varjanaṃ durjanānām ālasyaṃ mānavānāṃ dhanavananalināsahyabhāras tuṣāraḥ || CVSam_2.11
+
+himāsahatvaṃ ravitāpabhītiḥ kathāmatir mārgajanapratīkṣā |
+lajjābhimānaḥ kṣaṇasaṃmukhatvaṃ nakṣatracarcā ca dhanasya vighnāḥ || CVSam_2.12
+
+veṣaḥ parikleśaviśeṣacintā paroparodhaḥ svavaśāvalepaḥ |
+nadīphalānām iva śīghragānāṃ hānir dhanānāṃ grahaṇe vilambaḥ || CVSam_2.13
+
+gurugaṇakair abudhānāṃ kṣayacaturaiś cauramuṣakair vaṇijām |
+kāyasthagāyanagaṇair bhūmibhujāṃ bhujyate lakṣmīḥ || CVSam_2.14
+
+dāridryeṇa kulaṃ madena kuśalaṃ dveṣeṇa vidyāphalaṃ śīlaṃ durjanasaṃgamena malinācāreṇa śuklaṃ yaśaḥ |
+ālasyena dhanaṃ prayāti nidhanaṃ laulyena mānonnatir yācñādainyaparigraheṇa ca guṇagrāmaḥ samagro nṛṇām || CVSam_2.15
+
+maugdhyān mṛgarthī raghunandano 'pi bāṇaḥ pramādād balir ārjavena |
+nalaḥ kusaṅgena yayātijaś ca kleśāsahatvād vyasanāny avāpuḥ || CVSam_2.16
+
+maugdhyaṃ pramādo 'viśvāsaḥ kusaṅgaḥ kleśabhīrutā |
+pañca saṃkocadā doṣāḥ padminyā iva saṃpadaḥ || CVSam_2.17
+
+kubhūpakūpāntaralambanāptavittāni randhrair ghaṭasaṃnibhānām |
+asaṃvṛttair indriyanāmadheyaiḥ puṃsāṃ payāṃsīva parisravanti || CVSam_2.18
+
+sāsvāde navasaurabhe madhulihāṃ padmodare bandhanaṃ dīpe rūparatāḥ prayānti satatāpātāt pataṅgāḥ kṣayam |
+gītenaiva mṛgāḥ patanti kariṇīsparśena nītā gajās tasmād indriyasaktir eva sahasā puṃsāṃ vipaddūtikā || CVSam_2.19
+
+kulaṃ kuvṛttyā kaluṣīkṛtaṃ taiḥ kṛto guṇaughas tṛnatulyamūlyaḥ |
+mānasya mūle nihitaḥ kuṭhāraḥ prāptaṃ na vittaṃ parirakṣitaṃ yaiḥ || CVSam_2.20
+
+jātaḥ satkulajaḥ sa nīcavinayī sevāvamānair adhas tasyograṃ patitaḥ svamānayaśasor droheṇa śāpānalaḥ |
+tenāsvastimatā svahastanihitaṃ yācñāviṣaṃ bhakṣitaṃ vittaṃ yena na rakṣitaṃ ripumukhaṃ tena sthitaṃ vīkṣitam || CVSam_2.21
+
+dhāvan sevitum eti sādhur adhamaṃ kandhyas tato yāty asau nītā mūlyatulāṃ guṇāś ca guṇibhiḥ kaścin na gṛhṇāti tān |
+yācñā mānamahāśanir dhanakṛtā prāptaṃ na kiṃcit tayā kiṃ kiṃ vā na vidhīyate dhanadhiyā dhanyaḥ sa yasyāsti tat || CVSam_2.22
+
+vidyākalāparicayaḥ kṣitipālasevā digdvīpamārgagirisaṃbhramaṇaprayāsaḥ |
+yuddhākriyāś ca bhuvi bhojanalābhalobhāt tadvittalabhyam iti vittavatāṃ pravādaḥ || CVSam_2.23
+
+tāvad dharmakathā manobhavarucir mokṣaspṛhā jāyate yāvat tṛptisukhodayena na janaḥ kṣutkṣāmakukṣiḥ kṣaṇam |
+prāpte bhojanacintanasya samaye vittaṃ nimittaṃ vinā dharme kasya dhiyaḥ smaraṃ smarati kaḥ kenekṣyate mokṣabhūḥ || CVSam_2.24
+
+arthākṛṣṭiṃ vidhātuṃ kaṭuraṭanapaṭur dāmbhikaḥ śrījaḍānāṃ jānāty anyāsahiṣṇur vitathanijaguṇastotrapāṭheṣv alajjaḥ |
+āryaḥ kuryān na sevaṃ kulavinayaguṇais tena mūko 'rthanāyāṃ tīkṣṇānāṃ mārgaṇānāṃ bhavati hi purataḥ kṣmāpater lakṣalābhaḥ || CVSam_2.25
+
+ity arthapraśaṃsā nāma dvitīyaḥ paricchedaḥ |
+
+
+tṛtīyaḥ paricchedaḥ |
+
+lalitalalanālīlodañcadvilolavilocanotpalavanarucāṃ cañcantīnāṃ cayair iva carcitā |
+surabhisuhṛdaḥ pakṣacchātāvṛteva ca ṣaṭpadaiḥ kusumadhanuṣaḥ śyāmā mūrtis tanotu sukhāni vaḥ || CVSam_3.1
+
+bhramadbhramaraketakīvikasadekapatraprabhāḥ sanīlamaṇināyakā iva vimuktamuktālatāḥ |
+dṛśaḥ śaśikalā iva pracitapakṣmaleśāṅkitā jayanti hariṇīdṛsām amṛtakālakūṭacchaṭāḥ || CVSam_3.2
+
+kratuṃ dhanānāṃ phalam agryam āhuḥ phalaṃ kratūnām avivādi puṇyam |
+puṇyasya pūrṇaṃ phalam indraloko dviraṣṭvarṣāḥ striya eva nākaḥ || CVSam_3.3
+
+etāḥ santi vadhūvilāsakuṭilā bhrūkārmukaśreṇayaḥ karṇāntāyatapātinaś ca taruṇīnetratribhāgeṣavaḥ |
+nirdagdho 'ndhakavairiṇā navamanaḥkṣobhābhiyogodbhavāt saṃrambhād avicārya kevalam asau mithyā tapasvī smaraḥ || CVSam_3.4
+
+lajjāvakro manasijadhanur bhrūvilāsena tānvyaś cintāpāṇḍuḥ spṛśati kṛśatāṃ vakrakāntyā śaśāṅkaḥ |
+yāty evādhaḥ prahasitarucidorlatābhyāṃ mṛṇālī klībaṃ dhatte kuvalayakulaṃ kālimānaṃ kaṭākṣaiḥ || CVSam_3.5
+
+ayomayānāṃ hṛdayeṣu teṣāṃ ko 'py asti nūnaṃ kuliśopadeśaḥ |
+soḍhāni yaiḥ prauḍhavilāsinīnāṃ karṇāntamuktāni vilocanāni || CVSam_3.6
+
+kuvalayamayī lolāpāṅge taraṅgamayī bhruvoḥ śaśiśatamayī vaktre gātre mṛṇālalatāmayī |
+malayajamayī sparśe tanvī tuṣāramayī smite diśati viṣamaṃ smṛtyā tāpaṃ kim agnimayīva sā || CVSam_3.7
+
+smaraśaraniśitākṣyāḥ kampayante na keṣāṃ kurava iva kaṭākṣāḥ prauḍhaśalyā manāṃsi |
+bhvanajanajigīṣotsāhayogāya yeṣām adhicapalatarāṇāṃ niścalā karṇamaitrī || CVSam_3.8
+
+stanasthalī hāriṇi sundarīṇāṃ nitambabimbe raśanāsanāthe |
+dhatte viśeṣābharaṇābhimānalīlānavollekhalipiprapañcam || CVSam_3.9
+
+kāntāyā vilasadvilāsahasitasvacchāṃśacaścāmaraṃ saṃsaktāv abhiṣekahemakalaśau yac candanāṅkau stanau |
+yatkārtasvarakānti cāru jaghanaṃ siṃhāsanaṃ bhūbhujāṃ sāmrājyaṃ tad idaṃ jayājayamayaḥ śeṣas tu cintāmayaḥ || CVSam_3.10
+
+nāsāditāni vanavāsadṛḍhavratena citrāṇi netracaritāni mṛgair mṛgākṣyāḥ |
+tatkāntir ujjvalarucivyasanād aho nu hemnā hutāśapatanair api naiva labdhā || CVSam_3.11
+
+abhinavapayodharodgativiṣamasthitihārahaṃsamukhapatitā |
+śaivalavalīva cāsyās trikakalitā bhāti romalatā || CVSam_3.12
+
+neyaṃ taruṇyās trivalī taraṅgakusaṅginī rājati romarājiḥ |
+snātvā gato 'syāṃ smarakelivāpyāṃ kalaṅkalekhām apahāya candraḥ || CVSam_3.13
+
+karṇe kokilakāminīkalaravaḥ saṃtaptasūcīcayaḥ phullāśokapalāśacampakavanādyuddāmadāvānalaḥ |
+tanvaṅgyā virahe vasnatasamayaḥ kālaḥ kim anyan nṛṇāṃ dehoccāṭanam eva ṣaṭpadaghaṭāghrāṇātithir manmathaḥ || CVSam_3.14
+
+āpāṇḍutā madanakīrtisakhī mukhendau praudhiṃ bibharti virahe harināyatākṣyāḥ |
+acchinnabāṣpavisarāruṇanetrakoṇalīnapratāpam iva manmatham udvahantyāḥ || CVSam_3.15
+
+viyoge tanvaṅgyā hṛdayadamane dainyasadane ghane bhartṛsnehān madanadahane gharyacalane |
+samāsanne cintācyasanaśamane prāṇagamane tanus tāpamlāne valati nalinīpatraśayane || CVSam_3.16
+
+dākṣiṇyapraṇayena pādapatite kānte mayā nekṣite prāṇānāṃ jvalitaḥ pravāsapiśunaḥ śāpānalaḥ paśyasi |
+etaiḥ saṃbhramakātare kim adhunā mithyāsamāśvāsanaiḥ saṃtāpāya sakhi tvayaiva nanu me manopadeśaḥ kṛtaḥ || CVSam_3.17
+
+samāyāte patyau bahutaradinaprāpyapadavīṃ samulaṅghyāvighnāgamanacaturaṃ cārunayanā |
+svayaṃ harṣodbāṣpā harati turagasyādaravatī rajaḥ skandhālīnaṃ nijavasanakoṇāvahananaiḥ || CVSam_3.18
+
+vāsaḥ kampaviśṛṅkhalaṃ vitilakaṃ svedodgamādānanaṃ saṃdaṣṭo 'dharapallavaḥ kalayati śvāsoṣmanā mlānatām |
+dūti tvadvacane śaṭhasya kaṭhinasyāgre gate kuṇṭhatāṃ matsnehād vihitas tvayā kupitayā kleśapraveśaḥ kiyān || CVSam_3.19
+
+vyāptāsv aśokajvalanena dikṣu nirantarāpātaśilīmukhāsu |
+ruddhāsu jālair vanamañjarīṇāṃ naṣṭā gatiḥ pānthakuraṅgakasya || CVSam_3.20
+
+vikasati sahakāre duḥsahe karṇikāre madhukaraparihāre sasmite sindhuvāre |
+ahaha virahabhītyā kāminīṃ kaṇṭhalagnāṃ tyajati navavasante hanta kāpālikaḥ kaḥ || CVSam_3.21
+
+tanvaṅgyā navasaṃgame vyavasite kānte balān mekhalāṃ moktuṃ śvāsavikāsakampavikalāḥ kaṇṭhe luṭhantyaḥ sudhām |
+mīlatpadmanipīḍitāliraṇitāḥ klībāḥ kiranti kṣaṇaṃ dhanyānāṃ nananeti niḥsahatayā huṃkāragarbhā giraḥ || CVSam_3.22
+
+gāḍhāliṅgananiścalāṅgalatikā kāntena ruddhā balād ālambyālakavallariṃ vidadhatā vakrāmbuje cumbanam |
+kampraprasphuritāruṇādharadalā bālā nimīlyākṣiṇī manye mānasajanmajīvajananaṃ japyaṃ samabhyasyati || CVSam_3.23
+
+kenaiva viśikhāḥ sphuracchikhiśikhāśākhāsakhā māninīmaunonmāthapṛthuprathā virahinīniḥśvāsapakṣānilāḥ |
+sahyante rativallabhasya laṭabhānetrāntatīkṣṇānanāsaṃdaṣṭādharapallavāgrataruṇīsītkāraśūtkāriṇaḥ || CVSam_3.24
+
+āyur dīrghataraṃ tanotu nayanadvandvaṃ kuraṅgīdṛśāṃ kīrtiṃ te smitasaṃtatiḥ stanataṭaśroṇī viśālaśriyam |
+devasya trijagajjayāya paṭahe datte mṛgākṣīgiror ity utsāhasahe hitāya vihitā jāne jananyāśiṣaḥ || CVSam_3.25
+
+iti kāmapraśaṃsā nāma tṛtīyaḥ paricchedaḥ |
+
+
+caturthaḥ paricchedaḥ
+
+bhogābhogavilopakopakalahair astokaśokākulaṃ kāmaṃ kāmam akāmadhāmasamayaṃ yogaṃ viyogānugam |
+rogodgāravikārapākaviṣamaṃ nirmūlya netravyathāḥ sekaṃ mokṣaphalasya saṃśayataror ekaṃ vivekaṃ numaḥ || CVSam_4.1
+
+udyāne mudhacandrikā śaśimukhīgītaṃ suhṛtsatkathā kasyedaṃ na sukhādhikaṃ sukhasakhīṃ prītiṃ parāṃ varṣati |
+kiṃ tv etat khalasaṅgasarparasanāmātaṅgakarṇāñcalaprauḍhāpāṅgapataṅgapakṣagaṇikānāgendrajālopamam || CVSam_4.2
+
+bālyaṃ duḥsahamohasaṃhatihataṃ rāgolbaṇaṃ yauvanaṃ vṛddhatvaṃ sakalopabhogakalanāvaikalyaśalyākulam |
+vairāgyeṇa vinā vinaṣṭavimalālokaṃ saśokaṃ sadā saṃsāre saratāṃ punaḥ punar aho yātaṃ vṛthā jīvitam || CVSam_4.3
+
+dṛṣṭā bālakaceṣṭā yauvanadarpo 'tha vṛddhavairāgyam |
+sāpi gatā so 'pi gatas tad api gataṃ svapnamāyeyam || CVSam_4.4
+
+punaḥpunarjanmasahasrahetur malīmasaḥ snehasamo 'sti nānyaḥ |
+puṃsaḥ pradīpasya ca yaḥ karoti sevonmukhatvaṃ gṛhasaṃvibhāge || CVSam_4.5
+
+ākrāntaṃ piśunair narendrabhavanaṃ vidyāgṛhaṃ matsarair āyāsair draviṇaṃ kulaṃ kutanayair nānāvitogaiḥ sukham |
+sādhutvaṃ khalavañcanāparibhavaiś cintāsahasrair manas tan nāsty eva na yat saroṣakaluṣaṃ nirdoṣa ekaḥ śamaḥ || CVSam_4.6
+
+bhoge rogabhayaṃ sukhe kṣayabhayaṃ vitte 'gnibhūbhṛdbhayaṃ dāsye svāmibhayaṃ gune khalabhayaṃ vaṃśe kuyoṣidbhayam |
+māne mlānibhayaṃ jaye ripubhayaṃ kāye kṛtāntād bhayaṃ sarvaṃ nāma bhave bhaved bhayam aho vairāgyam evābhayam || CVSam_4.7
+
+kṛtaṃ śamajalena yair viratatīvratṛṣṇaṃ manaḥ paraṃ bhavaparābhavoddharaṇadhīradhuryair na te |
+bhajanti jananījanaprasṛtadugdhadhārāghanastanapraṇayi tat punar daśanaśūnyam āsyaṃ narāḥ || CVSam_4.8
+
+utsṛjya saṃtoṣasukhāmṛtāni prītyai parārādhanasādhanāni |
+aho nu mānāni dhanāni puṃsāṃ ghanāni nidrāsukhasādhanāni || CVSam_4.9
+
+vivekasvādhīne vijanagamane janmaśamane vikāre saṃsāre vyasanaparihāre 'pi sukare |
+puraṃ lajjā sādhoḥ prasavasamaye śoṇitamaye punaḥ pāṇiṃ mūrdhni kṣipati yadi dhātrīti patitaḥ || CVSam_4.10
+
+āyāsaprasave vicāravirase lajjājugupsāspade rāgāndhā viramanti naiva kupade strībhoganāmni cyutāḥ |
+cittaṃ nāsti sacetsām api nijākarṣe vimarṣaḥ kṣaṇaṃ ratyanyeṣu paraṅmukhatvam aniśaṃ prāpnoti nāyaṃ janaḥ || CVSam_4.11
+
+keśākule raktakaṣāyapaṅkakapālabhāji prakaṭāsthidante |
+kāyaśmaśāne ramate 'ṅganānāṃ kāmākulaḥ kāmukakākalokaḥ || CVSam_4.12
+
+aho tṛṣṇā veśyā sakalajanatāmohanakarī vidagdhā mugdhānāṃ harati vivaśānāṃ śamadhanam |
+vipaddīkṣādakṣāsahataralatāraiḥ praṇayinīkaṭākṣaiḥ kūṭākṣaiḥ kapaṭakuṭilaiḥ kāmakitavaḥ || CVSam_4.13
+
+bālyaṃ kulīrajananījanakapramohaṃ tadyauvanaṃ kulaṭabhāsubhagopayogam |
+vṛddhatvam apy upacitaṃ kukalatraputraiḥ satyaṃ na kiṃcid idam atra khacitramitram || CVSam_4.14
+
+na kasya kurvanti śamopadeśaṃ svapnopamāni priyasaṃgatāni |
+jarānipītani ca yauvanāni kṛtāntadaṣṭāni ca jīvitāni || CVSam_4.15
+
+cintyante yadi nāma rāmanahuṣaśvetādirājarṣayaḥ kiṃ tair yāti viśālakālakalanāmīlatkathākautukaiḥ |
+gaṇyantāṃ svadṛśaiva bhūrivibhavā dṛṣṭāś ca naṣṭāś ca ye tasmāt sarvam anityatākavalitaṃ jñātvā śamaḥ smaryatām || CVSam_4.16
+
+yadā lolā lakṣmīḥ kṣitipatiraṇāraṇyahariṇī yadā svapnomeṣā tanughanataḍidyauvanaruciḥ |
+yadā kālaḥ kāmaṃ janajalajakiñjalkamadhupas tadā saṃsāre 'sminn avibudhamano noparamate || CVSam_4.17
+
+saṃtoṣāmbhaḥ pibati nibhṛtasvaccham icchāmayūrī bhrāntvā cāntaḥkaraṇahariṇo yāti viśrāntim antaḥ |
+līnaś cāyaṃ śamatarujale śītale tāpatāntiṃ mīlatkāmas tyajati niyataṃ mattacittadvipendraḥ || CVSam_4.18
+
+yāte bhoge smaraṇapadavīṃ saktanānāviyoge śokaḥ stokaṃ spṛśati na manaḥ sarvathā nirvyathānām |
+kāle kāle kila kalayatām antavatsarvamantaḥ prāyaḥ kāyakṣayaparicaye niścaye nirbharaṃ naḥ || CVSam_4.19
+
+yātu vyaktiṃ kusumasamayaḥ saṃcayaḥ saurabhāṇāṃ khe khelanto malayanilayāḥ saṃtataṃ vāntu vātāḥ |
+kāmaḥ kāmaṃ kṣapayatu dhṛtiṃ pakṣmalākṣīkaṭākṣaiḥ śāntiś citte sthirasukhasakhī nirvikāre mamāstu || CVSam_4.20
+
+jarānigīrṇe subhagābhimāne mlāne śanair bhūtilatāpratāne |
+dhanāvadāne śithilābhimāne dhṛtir nidhāne praśamābhidhāne || CVSam_4.21
+
+rāgeṇa sārdhaṃ vayasi prayāte gateṣu bhogeṣu saha spṛhābhiḥ |
+dehe ca mohena samaṃ pralīne nirargalo 'sāv apavargamārgaḥ || CVSam_4.22
+
+cittaṃ vātavikāsipāṃsusacivaṃ rūpaṃ dināntātapaṃ bhogaṃ durgatagehabandhacapalaṃ puṣpasmitaṃ yauvanam |
+svapnaṃ bandhusamāgamaṃ tanum api prasthānapuṇyaprapāṃ nityaṃ cintayatāṃ bhavanti na satāṃ bhūyo bhavagranthayaḥ || CVSam_4.23
+
+abhinnārthānarthaḥ suhṛdariparicchedarahitaḥ samāvajñāmānaḥ sadṛśasukhaduḥkhavyatirekaḥ |
+na maunī nāmaunī vanajalasamānāsanamanā na dainyaṃ nādainyaṃ spṛśati guṇanairguṇyavirataḥ || CVSam_4.24
+
+sā dūre haricandanasya na paraṃ hāreṇa kiṃ hāritā no kāntākucamaṇḍalasya sulabhā candre daridre kutaḥ |
+gīte saṃgatir eva nāsti samatā tasyāṃ na siddhāmadhor nairāśye sahasaiva cetasi kṛte yā prītir ujjṛmbhate || CVSam_4.25
+
+labdhāvadhiḥ satyasukhāmṛtasya navapramodādbhutapūrṇakāmaḥ |
+bhārāvatārād iva nirvṛto 'haṃ tyāgena sarvāgrahasaṃgrahāṇām || CVSam_4.26
+
+dhanārjanavicintanaṃ hṛdayaropitāśāvanaṃ vṛthā caraṇaśātanaṃ khalakadaryasaṃsevanam |
+sadā vyasanaśocanaṃ priyaviyogadīnānanaṃ vihāya gṛhamajjanaṃ vrajati puṇyavān nirjanam || CVSam_4.27
+
+nāsti svastikaraḥ paraḥ paribhavo dharmātmanāṃ prāṇinām āpattāpaśamakṣamaṃ dhanasamaṃ nānyatkriyājīvitam |
+saṃsāre param asti no 'tra sukhadaṃ ramyaṃ na rāmānanāt sarvakleśavināśanirvrtirasaḥ ko nāma mokṣāt paraḥ || CVSam_4.28
+
+caturvargopadeśena kṣemendreṇa yad arjitam |
+puṇyaṃ tenāstu loko 'yaṃ caturvargasya bhājanam || CVSam_4.29
+
+iti mokṣapraśaṃsā nāma caturthaḥ paricchedaḥ |
+
+samāpto 'yaṃ caturvargasaṃgrahaḥ |

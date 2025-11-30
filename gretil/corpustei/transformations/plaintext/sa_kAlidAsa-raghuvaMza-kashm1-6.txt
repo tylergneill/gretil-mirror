@@ -1,0 +1,1537 @@
+Kālidāsa: Raghuvaṃśa-kashm, 1-6
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kAlidAsa-raghuvaMza-kashm1-6.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Dominic Goodall
+## Contribution: Dominic Goodall
+## Date of this version: 2020-07-31
+
+## Source: 
+   - of Dominic Goodall and Harunaga Isaacson: The Raghupañcikā of Vallabhadeva, being the earliest commentary on the Raghuvaṃśa of Kālidāsa, Critical Edition with Introduction and Notes, Volume 1. Groningen: Egbert Forsten 2003.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Raghuvaṃśa-kashm, 1-6 = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from ragh1-6u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Kalidasa: Raghuvamsa (Kashmirian text, as read by Vallabhadeva)
+Based on the edition of Dominic Goodall and Harunaga Isaacson:
+The Raghupañcikā of Vallabhadeva, being the earliest commentary
+on the Raghuvaṃśa of Kālidāsa, Critical Edition with Introduction and Notes, Volume 1.
+Groningen : Egbert Forsten 2003.
+Input by Dominic Goodall
+The transliteration emulates the conventions of Nagari script.
+Therefore, many word boundaries are not marked by blanks.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+kālidāsa: raghuvaṃśa
+
+vāgarthāviva sampṛktau vāgarthapratipattaye /
+jagataḥ pitarau vande pārvatīparameśvarau // ragh(k)_1.1 //
+
+kva sūryaprabhavo vaṃśaḥ kva cālpaviṣayā matiḥ /
+titīrṣurdustaraṃ mohāduḍupenāsmi sāgaram // ragh(k)_1.2 //
+
+mandaḥ kaviyaśaḥprārthī gamiṣyāmyavahāsyatām /
+prāṃśulabhye phale lobhādudbāhuriva vāmanaḥ // ragh(k)_1.3 //
+
+athavā kṛtavāgdvāre vaṃśe 'sminpūrvasūribhiḥ /
+maṇau vajrasamutkīrṇe sūtrasyevāsti me gatiḥ // ragh(k)_1.4 //
+
+so 'hamājanmaśuddhānāmāphalodayakarmaṇām /
+āsamudrakṣitīśānāmānākarathavartmanām // ragh(k)_1.5 //
+
+yathāvidhihutāgnīnāṃ yathākāmārcitārthinām /
+yathāparādhadaṇḍānāṃ yathākālaprabodhinām // ragh(k)_1.6 //
+
+tyāgāya sambhṛtārthānāṃ satyāya mitabhāṣiṇām /
+yaśase vijigīṣūṇāṃ prajāyai gṛhamedhinām // ragh(k)_1.7 //
+
+śaiśave 'bhyastavidyānāṃ yauvane viṣayaiṣiṇām /
+vārddhake munivṛttīnāṃ yogenānte tanutyajām // ragh(k)_1.8 //
+
+raghūṇāmanvayaṃ vakṣye tanuvāgvibhavo 'pi san /
+tadguṇaiḥ karṇamāgatya cāpalāya pratāritaḥ // ragh(k)_1.9 //
+
+taṃ santaḥ śrotumarhanti sadasadvyaktihetavaḥ /
+hemnaḥ saṃlakṣyate hyagnau viśuddhiḥ śyāmikāpi vā // ragh(k)_1.10 //
+
+vaivasvato manurnāma mānanīyo manīṣiṇām /
+āsīnmahīkṣitāmādyaḥ praṇavaśchandasāmiva // ragh(k)_1.11 //
+
+tadanvaye śuddhimati prasūtaḥ śuddhimattaraḥ /
+dilīpa iti rājendurinduḥ kṣīranidhāviva // ragh(k)_1.12 //
+
+vyūḍhorasko vṛṣaskandhaḥ sālaprāṃśurmahābhujaḥ /
+ātmakarmakṣamaṃ dehaṃ kṣātro dharma ivāśritaḥ // ragh(k)_1.13 //
+
+sarvātiriktasāreṇa sarvatejobhibhāvinā /
+sthitaḥ sarvonnatenorvīṃ krāntvā merurivātmanā // ragh(k)_1.14 //
+
+ākārasadṛśaprajñaḥ prajñayā sadṛśāgamaḥ /
+āgamaiḥ sadṛśārambhaḥ prārambhasadṛśodayaḥ // ragh(k)_1.15 //
+
+bhīmakāntairnṛpaguṇaiḥ sa babhūvopajīvinām /
+adhṛṣyaścābhigamyaśca yādoratnairivārṇavaḥ // ragh(k)_1.16 //
+
+rekhāmātramapi kṣuṇṇādātmano vartmanaḥ param /
+na vyatīyuḥ prajāstasya niyanturnemivṛttayaḥ // ragh(k)_1.17 //
+
+prajānāmeva bhūtyarthaṃ sa tābhyo balimagrahīt /
+sahasraguṇamutsraṣṭumādatte hi rasaṃ raviḥ // ragh(k)_1.18 //
+
+senā paricchadastasya dvayamevārthasādhanam /
+śāstre ca vyāpṛtā buddhirmaurvī dhanuṣi cātatā // ragh(k)_1.19 //
+
+tasya saṃvṛtamantrasya gūḍhākāreṅgitasya ca /
+phalānumeyāḥ prārambhāḥ saṃskārāḥ prāktanā iva // ragh(k)_1.20 //
+
+jugopātmānamatrasto bheje dharmamanāturaḥ /
+agṛdhnurādade so 'rthānasaktaḥ sukhamanvabhūt // ragh(k)_1.21 //
+
+jñāne maunaṃ kṣamā śaktau tyāge ślāghāviparyayaḥ /
+guṇā guṇānubandhitvāttasya saprasavā iva // ragh(k)_1.22 //
+
+anākṛṣṭasya viṣayairvidyānāṃ pāradṛśvanaḥ /
+tasya dharmaraterāsīdvṛddhatvaṃ jarasā vinā // ragh(k)_1.23 //
+
+prajānāṃ vinayādhānādrakṣaṇādbharaṇādapi /
+sa pitā pitarastāsāṃ kevalaṃ janmahetavaḥ // ragh(k)_1.24 //
+
+sthityai daṇḍayato daṇḍyānpariṇetuḥ prasūtaye /
+apyarthakāmau tasyāstāṃ dharma eva manīṣiṇaḥ // ragh(k)_1.25 //
+
+dudoha gāṃ sa yajñāya sasyāya maghavā divam /
+sampadvinimayenobhau dadhaturbhuvanadvayam // ragh(k)_1.26 //
+
+na kilānuyayustasya rājāno rakṣituryaśaḥ /
+vyāvṛttā yatparasvebhyaḥ śrutau taskaratā sthitā // ragh(k)_1.27 //
+
+dveṣyo 'pi sammataḥ śiṣṭastasyārtasya yathauṣadham /
+tyājyo duṣṭaḥ priyo 'pyāsīddaṣṭo 'ṅguṣṭha ivāhinā // ragh(k)_1.28 //
+
+taṃ vedhā vidadhe nūnaṃ mahābhūtasamādhinā /
+tathā hi sarve tasyāsanparārthaikaphalā guṇāḥ // ragh(k)_1.29 //
+
+sa velāvapravalayāṃ parikhīkṛtasāgarām /
+ananyaśāsanāmurvīṃ śaśāsaikapurīmiva // ragh(k)_1.30 //
+
+tasya dākṣiṇyarūḍhena nāmnā māgadhavaṃśajā /
+patnī sudakṣiṇetyāsīdadhvarasyeva dakṣiṇā // ragh(k)_1.31 //
+
+kalatravantamātmānamavarodhe mahatyapi /
+tayā mene manasvinyā lakṣmyā ca vasudhādhipaḥ // ragh(k)_1.32 //
+
+tasyāmātmānurūpāyāmātmajanmasamutsukaḥ /
+vilambitaphalaiḥ kālaṃ sa nināya manorathaiḥ // ragh(k)_1.33 //
+
+gaṅgāṃ bhagīratheneva pūrveṣāṃ pāvanakṣamām /
+īpsatā santatiṃ nyastā tena mantriṣu kosalā // ragh(k)_1.34 //
+
+athābhyarcya vidhātāraṃ prayatau putrakāmyayā /
+tau dampatī vasiṣṭhasya gurorjagmaturāśramam // ragh(k)_1.35 //
+
+snigdhagambhīranirghoṣamekaṃ syandanamāśritau /
+prāvṛṣeṇyaṃ payovāhaṃ vidyudairāvatāviva // ragh(k)_1.36 //
+
+mā bhūdāśramapīḍeti parimeyapuraḥsarau /
+vaśānāgau sagandhālpakalabhānugatāviva // ragh(k)_1.37 //
+
+sevyamānau sukhasparśaiḥ sālaniryāsagandhibhiḥ /
+puṣpareṇūtkirairvātairādhūtavanarājibhiḥ // ragh(k)_1.38 //
+
+pavanasyānukūlatvātprārthanāsiddhiśaṃsinaḥ /
+rajobhisturagotkīrṇairaspṛṣṭālakaveṣṭanau // ragh(k)_1.39 //
+
+haiyaṅgavīnamādāya ghoṣavṛddhānupāgatān /
+nāmadheyāni pṛcchantau vanyānāṃ mārgaśākhinām // ragh(k)_1.40 //
+
+sarasīṣvaravindānāṃ vīcivikṣobhaśītalam /
+āmodamupajighrantau svaniḥśvāsānukāriṇam // ragh(k)_1.41 //
+
+manobhirāmāḥ śṛṇvantau rathanemisvanonmukhaiḥ /
+ṣaḍjasaṃvādinīḥ kekā dvidhā bhinnāḥ śikhaṇḍibhiḥ // ragh(k)_1.42 //
+
+parasparākṣisādṛśyamadūrojjhitavartmasu /
+mṛgadvandveṣu paśyantau syandanābaddhadṛṣṭiṣu // ragh(k)_1.43 //
+
+śreṇibandhādvitanvadbhirastambhāṃ toraṇasrajam /
+sārasaiḥ kalanirhrādaiḥ kvacidunnamitānanau // ragh(k)_1.44 //
+
+grāmeṣvātmanisṛṣṭeṣu yūpacihneṣu yajvanām /
+amoghāḥ pratigṛhṇantāvarghyānupadamāśiṣaḥ // ragh(k)_1.45 //
+
+kāpyabhikhyā tayorāsīdvrajatoḥ śuddhaveśayoḥ /
+himanirmuktayoryoge citrācandramasoriva // ragh(k)_1.46 //
+
+tattadbhūmipatiḥ patnyai darśayanpriyadarśanaḥ /
+api laṅghitamadhvānaṃ bubudhe na budhopamaḥ // ragh(k)_1.47 //
+
+sa duṣprāpayaśāḥ prāpadāśramaṃ śrāntavāhanaḥ /
+sāyaṃ saṃyaminastasya maharṣermahiṣīsakhaḥ // ragh(k)_1.48 //
+
+vanāntarādupāvṛttaiḥ skandhāsaktasamitkuśaiḥ /
+agnipratyudgamātpūtaiḥ pūryamāṇaṃ tapasvibhiḥ // ragh(k)_1.49 //
+
+sekānte munikanyābhirviviktīkṛtavṛkṣakam /
+āśvāsāya vihaṅgānāmālavālāmbupāyinām // ragh(k)_1.50 //
+
+ātapāpāyasaṅkṣiptanīvārāsu niṣādibhiḥ /
+mṛgairvartitaromanthamuṭajāṅganabhūmiṣu // ragh(k)_1.51 //
+
+ākīrṇamṛṣipatnīnāmuṭajadvārarodhibhiḥ /
+apatyairiva nīvārabhāgadheyocitairmṛgaiḥ // ragh(k)_1.52 //
+
+abhyuddhṛtāgnipiśunairatithīnāśramonmukhān /
+punānaṃ pavanoddhūtairdhūmairāhutigandhibhiḥ // ragh(k)_1.53 //
+
+atha yantāramādiśya dhuryānviśramayeti saḥ /
+tāmavārohayatpatnīṃ rathādavaruroha ca // ragh(k)_1.54 //
+
+tasmai sabhyāḥ sabhāryāya goptre guptatamendriyāḥ /
+arhaṇāmarhate cakrurmunayo nayacakṣuṣe // ragh(k)_1.55 //
+
+vidheḥ sāyantanasyānte sa dadarśa taponidhim /
+anvāsitamarundhatyā svāhayeva havirbhujam // ragh(k)_1.56 //
+
+tayorjagṛhatuḥ pādau rājā rājñī ca māgadhī /
+tau gururgurupatnī ca prītyā pratinanandatuḥ // ragh(k)_1.57 //
+
+ātitheyastamātithyavinītādhvapariśramam /
+papraccha kuśalaṃ rājye rājyāśramamuniṃ muniḥ // ragh(k)_1.58 //
+
+athātharvanidhestasya vijitāripuraḥ puraḥ /
+arthyāmarthapatirvācamādade vadatāṃ varaḥ // ragh(k)_1.59 //
+
+upapannaṃ nanu śivaṃ saptasvaṅgeṣu yasya me /
+daivīnāṃ mānuṣīṇāṃ ca pratikartā tvamāpadām // ragh(k)_1.60 //
+
+tava mantrakṛto mantrairdūrātsaṃyamitāribhiḥ /
+pratyādiśyanta iva me dṛṣṭalakṣyabhidaḥ śarāḥ // ragh(k)_1.61 //
+
+havirāvarjitaṃ hotastvayā vidhivadagniṣu /
+vṛṣṭībhavati sasyānāmavagrahaviśoṣiṇām // ragh(k)_1.62 //
+
+puruṣāyuṣajīvinyo nirātaṅkā nirītayaḥ /
+yanmadīyāḥ prajāstatra hetustvadbrahmavarcasam // ragh(k)_1.63 //
+
+tadevaṃ cintyamānasya guruṇā brahmayoninā /
+sānubandhāḥ kathaṃ na syuḥ sampado me nirāpadaḥ // ragh(k)_1.64 //
+
+kiṃ tu vadhvāṃ tavaitasyāmadṛṣṭasadṛśaprajam /
+na māmavati sadvīpā ratnasūrapi medinī // ragh(k)_1.65 //
+
+matparaṃ durlabhaṃ matvā nūnamāvarjitaṃ mayā /
+payaḥ pūrve svaniḥśvāsakaduṣṇamupabhuñjate // ragh(k)_1.66 //
+
+so 'hamijyāviśuddhātmā prajālopanimīlitaḥ /
+prakāśaścāndhakāraśca lokāloka ivācalaḥ // ragh(k)_1.67 //
+
+lokāntarasukhaṃ puṇyaṃ tapodānasamudbhavam /
+santatiḥ śuddhavaṃśyā tu paratreha ca śarmaṇe // ragh(k)_1.68 //
+
+tayā hīnaṃ vinetā māṃ kathaṃ paśyanna dūyate /
+siktaṃ svayamiva snehādvandhyamāśramavṛkṣakam // ragh(k)_1.69 //
+
+asahyapīḍaṃ bhagavannṛṇabandhamavaihi me /
+aruntudamivālānaṃ navabaddhasya dantinaḥ // ragh(k)_1.70 //
+
+tasmādyathā vimucyeyaṃ saṃvidhātuṃ tathārhasi /
+ikṣvākūṇāṃ durāpe 'rthe tvadadhīnā hi siddhayaḥ // ragh(k)_1.71 //
+
+iti vijñāpito rājñā dhyānastimitalocanaḥ /
+kṣaṇamātramṛṣistasthau suptamīna iva hradaḥ // ragh(k)_1.72 //
+
+so 'paśyatpraṇidhānena santatistambhakāraṇam /
+bhāvitātmā bhuvo bharturathainaṃ pratyabodhayat // ragh(k)_1.73 //
+
+purā śakramupasthāya tavorvīṃ pratiyāsyataḥ /
+āsītkalpatarucchāyāsevinī surabhiḥ pathi // ragh(k)_1.74 //
+
+imāṃ devīmṛtusnātāṃ smṛtvā sapadi satvaraḥ /
+pradakṣiṇakriyātītastasyāḥ kopamajījanaḥ // ragh(k)_1.75 //
+
+avajānāsi māṃ yasmādataste na bhaviṣyati /
+matprasūtimanārādhya prajeti tvā śaśāpa sā // ragh(k)_1.76 //
+
+sa śāpo na tvayā rājanna ca sārathinā śrutaḥ /
+nadatyākāśagaṅgāyāḥ srotasyuddāmadiggaje // ragh(k)_1.77 //
+
+avaimi tadapadhyānādyatnāpekṣaṃ manoratham /
+pratibadhnāti hi śreyaḥ pūjyapūjāvyatikramaḥ // ragh(k)_1.78 //
+
+haviṣe dīrghasattrasya sā cedānīṃ pracetasaḥ /
+bhujaṅgapihitadvāraṃ pātālamadhitiṣṭhati // ragh(k)_1.79 //
+
+sa tvamekāntarāṃ tasyā madīyāṃ vatsamātaram /
+ārādhaya sapatnīkaḥ sā vāṃ kāmaṃ pradāsyati // ragh(k)_1.80 //
+
+iti vādina evāsya hoturāhutisādhanam /
+anindyā nandinī nāma dhenurāvavṛte vanāt // ragh(k)_1.81 //
+
+tāmrā lalāṭajāṃ rājiṃ bibhratī sāsitetarām /
+sandhyā prātipadeneva vyatibhinnā himāṃśunā // ragh(k)_1.82 //
+
+bhuvaṃ koṣṇena kuṇḍodhnī medhyenāvabhṛthādapi /
+prasnavenābhivarṣantī vatsālokapravartinā // ragh(k)_1.83 //
+
+rajaḥkaṇaiḥ khuroddhūtaiḥ spṛśadbhirgātramantikāt /
+tīrthābhiṣekajāṃ śuddhimādadhānā mahīkṣitaḥ // ragh(k)_1.84 //
+
+tāṃ puṇyadarśanāṃ dṛṣṭvā nimittajñastapodhanaḥ /
+yājyamāśaṃsitāvandhyaprārthanaṃ punarabravīt // ragh(k)_1.85 //
+
+adūravartinīṃ siddhiṃ rājanvigaṇayātmanaḥ /
+upasthiteyaṃ kalyāṇī nāmni kīrtita eva yat // ragh(k)_1.86 //
+
+vanyavṛttirimāṃ śaśvadātmānugamanena gām /
+vidyāmabhyasaneneva prasādayitumarhasi // ragh(k)_1.87 //
+
+prasthitāyāṃ pratiṣṭhethāḥ sthitāyāṃ sthānamācareḥ /
+niṣaṇṇāyāṃ niṣīdāsyāṃ pītāmbhasi piverapaḥ // ragh(k)_1.88 //
+
+vadhūrbhaktimatī caināmarcitāmā tapovanāt /
+prayātāṃ prātaranvetu sāyaṃ pratyudvrajedapi // ragh(k)_1.89 //
+
+ityā prasādādasyāstvaṃ paricaryāparo bhava /
+avighnamastu te stheyāḥ piteva dhuri putriṇām // ragh(k)_1.90 //
+
+tatheti pratijagrāha prītimānsaparigrahaḥ /
+ādeśaṃ deśakālajñaḥ śiṣyaḥ śāsiturānataḥ // ragh(k)_1.91 //
+
+atha pradoṣe doṣajñaḥ saṃveśāya viśāṃ patim /
+sūnuḥ sūnṛtavāksraṣṭurvisasarjorjitaśriyam // ragh(k)_1.92 //
+
+satyāmapi tapaḥsiddhau niyamāpekṣayā muniḥ /
+kalpavitkalpayāmāsa vanyāmevāsya saṃvidhām // ragh(k)_1.93 //
+
+nirdiṣṭāṃ kulapatinā sa parṇaśālāmadhyāsya prayataparigrahadvitīyaḥ /
+tacchiṣyādhyayananiveditāvasānāṃ saṃviṣṭaḥ kuśaśayane niśāṃ nināya // ragh(k)_1.94 //
+
+|| iti raghuvaṃśe mahākāvye prathamaḥ sargaḥ ||
+
+atha prajānāmadhipaḥ prabhāte jāyāpratigrāhitagandhamālyām /
+vanāya pītapratibaddhavatsāṃ yaśodhano dhenumṛṣermumoca // ragh(k)_2.1 //
+
+tasyāḥ khuranyāsapavitrapāṃsumapāṃsulānāṃ dhuri kīrtanīyā /
+mārgaṃ manuṣyeśvaradharmapatnī śruterivārthaṃ smṛtiranvagacchat // ragh(k)_2.2 //
+
+nivartya rājā dayitāṃ dayālustāṃ saurabheyīṃ surabhiryaśobhiḥ /
+payodharībhūtacatuḥsamudrāṃ jugopa gorūpadharāmivorvīm // ragh(k)_2.3 //
+
+vratāya tenānucareṇa dhenornyaṣedhi śeṣo 'pyanuyāyivargaḥ /
+na cānyatastasya śarīrarakṣā svavīryaguptā hi manoḥ prasūtiḥ // ragh(k)_2.4 //
+
+āsvādavadbhiḥ kavalaistṛṇānāṃ kaṇḍūyanairdaṃśanivāraṇaiśca /
+avyāhatasvairagataiśca tasyāḥ samrāṭ samārādhanatatparo 'bhūt // ragh(k)_2.5 //
+
+sthitaḥ sthitāmuccalitaḥ prayātāṃ niṣeduṣīmāsanabandhadhīraḥ /
+jalābhilāṣī jalamādadānāṃ chāyeva tāṃ bhūpatiranvagacchat // ragh(k)_2.6 //
+
+sa nyastacihnāmapi rājalakṣmīṃ tejoviśeṣānumitāṃ dadhānaḥ /
+āsīdanāviṣkṛtadānarājirantarmadāvastha iva dvipendraḥ // ragh(k)_2.7 //
+
+latāpratānodgrathitaiḥ sa keśairadhijyadhanvā vicacāra dāvam /
+rakṣāpadeśādguruhomadhenorvanyānvineṣyanniva duṣṭasattvān // ragh(k)_2.8 //
+
+visṛṣṭapārśvānucarasya tasya pārśvadrumāḥ pāśabhṛtā samasya /
+udīrayāmāsurivonmadānāmālokaśabdaṃ vayasāṃ virāvaiḥ // ragh(k)_2.9 //
+
+marutprayuktāśca marutsakhābhaṃ tamarcyamārādabhivartamānam /
+avākiranbālalatāḥ prasūnairācāralājairiva paurakanyāḥ // ragh(k)_2.10 //
+
+dhanurbhṛto 'pyasya dayārdrabhāvamākhyātamantaḥkaraṇairviśaṅkaiḥ /
+vilokayantyo vapurāpurakṣṇāṃ prakāmavistāraphalaṃ hariṇyaḥ // ragh(k)_2.11 //
+
+sa kīcakairmārutapūrṇarandhraiḥ kūjadbhirāpāditavaṃśakṛtyam /
+śuśrāva kuñjeṣu yaśaḥ svamuccairudgīyamānaṃ vanadevatābhiḥ // ragh(k)_2.12 //
+
+pṛktastuṣārairvananirjharāṇāmanokahākampanapuṣpagandhī /
+tamātapaklāntamanātapatramācārapūtaṃ pavanaḥ siṣeve // ragh(k)_2.13 //
+
+śaśāma vṛṣṭyāpi vinā davāgnirāsīdviśeṣātphalapuṣpavṛddhiḥ /
+ūnaṃ na sattveṣvadhiko babādhe tasminvanaṃ goptari gāhamāne // ragh(k)_2.14 //
+
+sañcārapūtāni digantarāṇi kṛtvā dinānte nilayāya gantum /
+pracakrame pallavarāgatāmrā prabhā pataṅgasya muneśca dhenuḥ // ragh(k)_2.15 //
+
+tāṃ devatāpitratithikriyārthamanvagyayau madhyamalokapālaḥ /
+babhūva sā tena satāṃ matena śraddheva sākṣādvidhinopapannā // ragh(k)_2.16 //
+
+sa palvalottīrṇavarāhayūthānyāvāsavṛkṣonmukhabarhiṇāni /
+yayau mṛgādhyāsitaśādvalāni śyāmāyamānāni vanāni paśyan // ragh(k)_2.17 //
+
+āpīnabhārodvahanaprayatnādgṛṣṭirgurutvāduraso narendraḥ /
+ubhāvalañcakraturañcitābhyāṃ tapovanāvṛttipathaṃ gatābhyām // ragh(k)_2.18 //
+
+vasiṣṭhadhenoranuyāyinaṃ tamāvartamānaṃ vanitā vanāntāt /
+papau nimeṣālasapakṣmapaṅktirupoṣitābhyāmiva locanābhyām // ragh(k)_2.19 //
+
+puraskṛtā vartmani pārthivena pratyudgatā pārthivadharmapatnyā /
+tadantare sā virarāja dhenurdinakṣapāmadhyagateva sandhyā // ragh(k)_2.20 //
+
+pradakṣiṇīkṛtya payasvinīṃ tāṃ sudakṣiṇā sākṣatapātrahastā /
+praṇamya cānarca viśālamasyāḥ śṛṅgāntaraṃ dvāramivātmasiddheḥ // ragh(k)_2.21 //
+
+vatsotsukāpi stimitā saparyāṃ pratyagrahītseti nanandatustau /
+bhaktyopapanneṣu hi tadvidhānāṃ prasādacihnāni puraḥphalāni // ragh(k)_2.22 //
+
+guroḥ sadārasya nipīḍya pādau samāpya sāndhyaṃ ca vidhiṃ dilīpaḥ /
+dohāvasāne punareva dogdhrīṃ bheje bhujotsannaripurniṣaṇṇām // ragh(k)_2.23 //
+
+tāmantikanyastabalipradīpāmanvāsya goptā gṛhiṇīsahāyaḥ /
+krameṇa suptāmanu saṃviveśa suptotthitāṃ prātaranūdatiṣṭhat // ragh(k)_2.24 //
+
+itthaṃ vrataṃ pālayataḥ prajārthaṃ samaṃ mahiṣyā mahanīyakīrteḥ /
+sapta vyatīyustriguṇāni tasya dinānyamitroddharaṇocitasya // ragh(k)_2.25 //
+
+anyedyurātmānucarasya bhāvaṃ jijñāsamānā munihomadhenuḥ /
+gaṅgāprapātāntavirūḍhaśaṣpaṃ gaurīgurorgahvaramāviveśa // ragh(k)_2.26 //
+
+sā duṣpradharṣā manasāpi hiṃsrairityadriśobhāprahitekṣaṇena /
+alakṣitābhyutpatano nṛpeṇa prasahya siṃhaḥ kila tāṃ cakarṣa // ragh(k)_2.27 //
+
+tadīyamākranditamārtasādhorguhānibaddhapratiśabdadīrgham /
+raśmiṣvivādāya nagendradattāṃ nivartayāmāsa nṛpasya dṛṣṭim // ragh(k)_2.28 //
+
+sa pāṭalāyāṃ gavi tasthivāṃsaṃ dhanurdharaḥ kesariṇaṃ dadarśa /
+adhityakāyāmiva dhātumayyāṃ rodhradrumaṃ sānumataḥ praphultam // ragh(k)_2.29 //
+
+tato mṛgendrasya mṛgendragāmī vadhāya vadhyasya śaraṃ śaraṇyaḥ /
+jātābhiṣaṅgo nṛpatirniṣaṅgāduddhartumaicchatprasabhoddhṛtāriḥ // ragh(k)_2.30 //
+
+vāmetarastasya karaḥ praharturnakhaprabhārūṣitakaṅkapattre /
+saktāṅguliḥ sāyakapuṅkha eva citrārpitārambha ivāvatasthe // ragh(k)_2.31 //
+
+bāhupratistambhavivṛddhamanyurabhyarṇamāgaskṛtamaspṛśadbhiḥ /
+rājā svatejobhiradahyatāntarbhogīva mantrapratibaddhavīryaḥ // ragh(k)_2.32 //
+
+tamāryagṛhyaṃ nigṛhītadhenurmanuṣyavācā manuvaṃśaketum /
+vismāpayanvismayamātmasiddhau bhūpālasiṃhaṃ nijagāda siṃhaḥ // ragh(k)_2.33 //
+
+alaṃ mahīpāla tava śrameṇa prayuktamapyastramito vṛthā syāt /
+na pādaponmūlanaśakti raṃhaḥ śiloccaye mūrchati mārutasya // ragh(k)_2.34 //
+
+kailāsagauraṃ vṛṣamārurukṣoḥ pādārpaṇānugrahapūtapṛṣṭham /
+avaihi māṃ kiṅkaramaṣṭamūrteḥ kumbhodaraṃ nāma nikumbhamitram // ragh(k)_2.35 //
+
+amuṃ puraḥ paśyasi devadāruṃ putrīkṛto 'yaṃ vṛṣabhadhvajena /
+yo hemakumbhastananiḥsṛtānāṃ skandasya mātuḥ payasāṃ rasajñaḥ // ragh(k)_2.36 //
+
+kaṇḍūyamānena kaṭaṃ kadācidvanyadvipenonmathitā tvagasya /
+athainamadrestanayā śuśoca senānyamālīḍhamivāsurāstraiḥ // ragh(k)_2.37 //
+
+tadā prabhṛtyeva mataṅgajānāṃ trāsārthamasminnahamadrikukṣau /
+vyāpāritaḥ śūlabhṛtā vidhāya siṃhatvamaṅkāgatasattvavṛtti // ragh(k)_2.38 //
+
+tasyālameṣā kṣudhitasya tṛptyai pradiṣṭakālā parameśvareṇa /
+upasthitā śoṇitapāraṇā me suradviṣaścāndramasī sudheva // ragh(k)_2.39 //
+
+sa tvaṃ nivartasva vihāya lajjāṃ gurorbhavāndarśitaśiṣyabhaktiḥ /
+śastreṇa rakṣyaṃ yadaśakyarakṣaṃ na tadyaśaḥ śastrabhṛtāṃ kṣiṇoti // ragh(k)_2.40 //
+
+iti pragalbhaṃ puruṣādhirājo mṛgādhirājasya vaco niśamya /
+pratyāhatāstro giriśaprabhāvādātmanyavajñāṃ śithilīcakāra // ragh(k)_2.41 //
+
+pratyabravīccainamiṣuprayoge tatpūrvasaṅge vitathaprayatnaḥ /
+jaḍīkṛtastryambakavīkṣitena vajraṃ mumukṣanniva vajrapāṇiḥ // ragh(k)_2.42 //
+
+saṃruddhaceṣṭasya mṛgendra kāmaṃ hāsyaṃ vacastadyadahaṃ vivakṣuḥ /
+antargataṃ prāṇabhṛtāṃ tu veda sarvaṃ bhavānbhāvamato 'bhidhāsye // ragh(k)_2.43 //
+
+mānyaḥ sa me sthāvarajaṅgamānāṃ sargasthitipratyavahārahetuḥ /
+gurorapīdaṃ dhanamāhitāgnernaśyatpurastādanupekṣaṇīyam // ragh(k)_2.44 //
+
+sa tvaṃ madīyena śarīravṛttiṃ dehena nirvartayituṃ prasīda /
+dināvasānotsukabālavatsā vimucyatāṃ dhenuriyaṃ maharṣeḥ // ragh(k)_2.45 //
+
+athāndhakāraṃ girikandarāṇāṃ daṃṣṭrāmayūkhaiḥ śakalāni kurvan /
+bhūyaḥ sa bhūteśvarapārśvavartī kiñcidvihasyārthapatiṃ babhāṣe // ragh(k)_2.46 //
+
+ekātapatraṃ jagataḥ prabhutvaṃ navaṃ vayaḥ kāntamidaṃ vapuśca /
+alpasya hetorbahu hātumicchan vicāramugdhaḥ pratibhāsi me tvam // ragh(k)_2.47 //
+
+bhūtānukampā tava cediyaṃ gaurekā bhavetsvastimatī tvadante /
+jīvanpunaḥ śaśvadupaplavebhyaḥ prajāḥ prajānātha piteva pāsi // ragh(k)_2.48 //
+
+athaikadhenoraparādhadaṇḍādguroḥ kṛṣāṇupratimādbibheṣi /
+śakyo 'sya manyurbhavatā vinetuṃ gāḥ koṭiśaḥ sparśayatā ghaṭodhnīḥ // ragh(k)_2.49 //
+
+tadrakṣa kalyāṇaparamparāṇāṃ bhoktāramūrjasvalamātmadeham /
+mahītalasparśanamātrabhinnamṛddhaṃ hi rājyaṃ padamaindramāhuḥ // ragh(k)_2.50 //
+
+etāvaduktvā virate mṛgendre pratisvanenāsya guhāgatena /
+śiloccayo 'pi kṣitipālamuccaiḥ prītyā tamevārthamabhāṣateva // ragh(k)_2.51 //
+
+tathā samarthāṃ giramūcivāṃsaṃ pratyāha devānucaraṃ dilīpaḥ /
+dhenvā tadadhyāsanakātarākṣyā nirīkṣyamāṇaḥ sutarāṃ dayāluḥ // ragh(k)_2.52 //
+
+kṣatātkila trāyata ityudagraḥ kṣattrasya śabdo bhuvaneṣu rūḍhaḥ /
+rājyena kiṃ tadviparītavṛtteḥ prāṇairupākrośamalīmasairvā // ragh(k)_2.53 //
+
+kathaṃ ca śakyo 'nunayo maharṣerviśrāṇanādanyapayasvinīnām /
+imāmanūnāṃ surabheravaihi rudraujasā tu prahṛtaṃ tvayāsyām // ragh(k)_2.54 //
+
+seyaṃ svadehārpaṇaniṣkrayeṇa nyāyyaṃ mayā mocayituṃ bhavattaḥ /
+na pāraṇā syādvihatā tavaivaṃ bhavedaluptaśca muneḥ kriyārthaḥ // ragh(k)_2.55 //
+
+bhavānapīdaṃ paravānavaiti mahānhi yatnastava devadārau /
+sthātuṃ niyokturyadi śakyamagre vināśya rakṣyaṃ svayamakṣatena // ragh(k)_2.56 //
+
+kimapyahiṃsyastava cenmato 'haṃ yaśaḥśarīre bhava me dayāluḥ /
+ekāntavidhvaṃsiṣu madvidhānāṃ piṇḍeṣvanāsthā khalu bhautikeṣu // ragh(k)_2.57 //
+
+sambandhamābhāṣaṇapūrvamāhurjātaḥ sa nau saṅgatayorvanānte /
+tadbhūtanāthānuga nārhasi tvaṃ sambandhino me praṇayaṃ vihantum // ragh(k)_2.58 //
+
+tatheti gāmuktavate dilīpaḥ sadyaḥ pratistambhavimuktabāhuḥ /
+sa nyastaśastraṃ haraye svadehamupānayatpiṇḍamivāmiṣasya // ragh(k)_2.59 //
+
+tasminkṣaṇe pālayituḥ prajānāmutpaśyataḥ siṃhanipātamugram /
+avāṅmukhasyopari puṣpavṛṣṭiḥ papāta vidyādharahastamuktā // ragh(k)_2.60 //
+
+uttiṣṭha vatsetyamṛtāyamānaṃ vaco niśamyotthitamutthitaḥ san /
+dadarśa rājā jananīmiva svāṃ gāmagrataḥ prasraviṇīṃ na siṃham // ragh(k)_2.61 //
+
+taṃ vismitaṃ dhenuruvāca sādho māyāṃ mayodbhāvya parīkṣito 'si /
+ṛṣiprabhāvānmayi nāntako 'pi prabhuḥ prahartuṃ kimutānyahiṃsrāḥ // ragh(k)_2.62 //
+
+bhaktyā gurau mayyanukampayā ca prītāsmi te putra varaṃ vṛṇīṣva /
+na kevalānāṃ payasāṃ prasūtimavaihi māṃ kāmadughāṃ prasannām // ragh(k)_2.63 //
+
+tataḥ samānīya sa mānitārthī hastau svahastārjitavīraśabdaḥ /
+vaṃśasya kartāramanantakīrtiṃ sudakṣiṇāyāṃ tanayaṃ yayāce // ragh(k)_2.64 //
+
+santānakāmāya tatheti kāmaṃ rājñe pratiśrutya payasvinī sā /
+dugdhvā payaḥ pattrapuṭe madīyaṃ putropayuṅkṣveti tamādideśa // ragh(k)_2.65 //
+
+vatsasya homārthavidheśca śeṣamṛṣeranujñāmadhigamya mātaḥ /
+ūdhasyamicchāmi tavopabhoktuṃ ṣaṣṭhāṃśamurvyā iva rakṣitāyāḥ // ragh(k)_2.66 //
+
+itthaṃ kṣitīśena vasiṣṭhadhenurvijñāpitā prītatarā babhūva /
+tadanvitā haimavatācca kukṣeḥ pratyāyayāvāśramamaśramaiva // ragh(k)_2.67 //
+
+tasyāḥ prasannendumukhaḥ prasādaṃ gururnṛpāṇāṃ gurave nivedya /
+mukhaprasādānumitaṃ priyāyai śaśaṃsa vācā punaruktayaiva // ragh(k)_2.68 //
+
+sa nandinīstanyamaninditātmā sadvatsalo vatsanipītaśeṣam /
+papau vasiṣṭhena kṛtābhyanujñaḥ śuddhaṃ yaśo bhūya ivāvitṛptaḥ // ragh(k)_2.69 //
+
+prātaryathoktavratapāraṇānte prāsthānikaṃ svastyayanaṃ prayujya /
+tau dampatī svāṃ prati rājadhānīṃ prasthāpayāmāsa vaśī vasiṣṭhaḥ // ragh(k)_2.70 //
+
+pradakṣiṇīkṛtya hutaṃ hutāśamanantaraṃ bharturarundhatīṃ ca /
+dhenuṃ savatsāṃ ca nṛpaḥ pratasthe sanmaṅgalodagratarānubhāvaḥ // ragh(k)_2.71 //
+
+śrotrābhirāmadhvaninā rathena sa dharmapatnīsahitaḥ sahiṣṇuḥ /
+yayāvanudghātasukhena mārgaṃ sveneva pūrṇena manorathena // ragh(k)_2.72 //
+
+tamāhitotkaṇṭhamadarśanena prajāḥ prajārthavratakarṣitāṅgam /
+netraiḥ papustṛptimanāpnuvadbhirnavoditaṃ nāthamivauṣadhīnām // ragh(k)_2.73 //
+
+purandaraśrīḥ puramutpatākaṃ praviśya paurairabhinandyamānaḥ /
+bhuje bhujaṅgendrasamānasāre bhūyaḥ sa bhūmerdhuramāsasañja // ragh(k)_2.74 //
+
+atha nayanasamutthaṃ jyotiratreriva dyauḥ surasaridiva tejo vahniniṣṭhyūtamaiśam /
+narapatikulabhūtyai garbhamādhatta rājñī gurubhirabhiniviṣṭaṃ lokapālānubhāvaiḥ // ragh(k)_2.75 //
+
+|| iti raghuvaṃśe mahākāvye dvitīyaḥ sargaḥ ||
+
+athepsitaṃ bharturupasthitodayaṃ sakhījanodvīkṣaṇakaumudīmukham /
+nidānamikṣvākukulasya santateḥ sudakṣiṇā dauhadalakṣaṇaṃ dadhau // ragh(k)_3.1 //
+
+mukhena sā ketakapattrapāṇḍunā kṛśāṅgayaṣṭiḥ parimeyabhūṣaṇā /
+sthitālpatārāṃ karuṇendumaṇḍalāṃ vibhātakalpāṃ rajanīṃ vyaḍambayat // ragh(k)_3.2 //
+
+tadānanaṃ sevitamṛttikālavaṃ nṛpaḥ samāghrāya na tṛptimāyayau /
+karīva siktaṃ pṛṣataiḥ payomucāṃ śucivyapāye vanarājipalvalam // ragh(k)_3.3 //
+
+divaṃ marutvāniva bhokṣyate mahīṃ digantaviśrāntaratho hi matsutaḥ /
+ato 'bhilāṣe prathamaṃ tathāvidhe mano babandhānyarasānvilaṅghya sā // ragh(k)_3.4 //
+
+na me hriyā śaṃsati kiñcidīpsitaṃ spṛhāvatī vastuṣu keṣu māgadhī /
+iti sma pṛcchatyativelamādṛtaḥ priyāsakhīruttarakosaleśvaraḥ // ragh(k)_3.5 //
+
+upetya sā dohadaduḥkhaśīlatāṃ yadeva vavre tadapaśyadāhṛtam /
+na hīṣṭamasyāstridive 'pi bhūpaterbabhūva duṣprāpamadhijyadhanvanaḥ // ragh(k)_3.6 //
+
+dineṣu gacchatsu madhūkapāṇḍuraṃ tadīyamāśyāmamukhaṃ stanadvayam /
+samudgayorvāraṇadantakośayorbabhāra kāntiṃ gavalāpidhānayoḥ // ragh(k)_3.7 //
+
+krameṇa nistīrya ca dohadavyathāmupoḍhagātropacayā rarāja sā /
+purāṇapattrāpagamādanantaraṃ lateva sannaddhamanojñapallavā // ragh(k)_3.8 //
+
+nidhānagarbhāmiva sāgarāmbarāṃ śamīmivābhyantaralīnapāvakām /
+nadīmivāntaḥsalilāṃ sarasvatīṃ nṛpaḥ sagarbhāṃ mahiṣīmamanyata // ragh(k)_3.9 //
+
+priyānurāgasya manaḥsamunnaterbhujārjitānāṃ ca digantasampadām /
+yathākramaṃ puṃsavanādikāḥ kriyā dhṛteśca dhīraḥ sadṛśīrvyadhatta saḥ // ragh(k)_3.10 //
+
+surendramātrāśritagarbhagauravāt prayatnamuktāsanayā gṛhāgataḥ /
+tayopacārāñjalikhinnahastayā nananda pāriplavanetrayā nṛpaḥ // ragh(k)_3.11 //
+
+kumārabhṛtyaiḥ kuśalairadhiṣṭhite bhiṣagbhirāptairatha garbhaveśmani /
+niratyayāya prasavāya tasthuṣī babhau samāsannaphalā kriyeva sā // ragh(k)_3.12 //
+
+grahaistataḥ pañcabhiruccasaṃśrayairasūryagaiḥ sūcitabhāgyasampadam /
+asūta putraṃ samaye śacīsamā trisādhanā śaktirivārthamakṣatam // ragh(k)_3.13 //
+
+diśaḥ prasedurmaruto vavuḥ śivāḥ pradakṣiṇārcirhutamagnirādade /
+babhūva sarvaṃ śubhaśaṃsi tatkṣaṇaṃ bhavo hi lokābhyudayāya tādṛśām // ragh(k)_3.14 //
+
+ariṣṭaśayyāṃ parito visāriṇā sujanmanastasya nijena tejasā /
+niśīthadīpāḥ sahasā hatatviṣo babhūvurālekhyasamarpitā iva // ragh(k)_3.15 //
+
+janāya śuddhāntacarāya śaṃsate kumārajanmāmṛtasammitākṣaram /
+adeyamāsīttrayameva bhūpateḥ śaśiprabhaṃ chattramubhe ca cāmare // ragh(k)_3.16 //
+
+sa vīkṣya putrasya cirātpitā mukhaṃ nidhānakumbhasya yuveva durgataḥ /
+mudā śarīre prababhūva nātmanaḥ payodhirindūdayamūrchito yathā // ragh(k)_3.17 //
+
+sa jātakarmaṇyakhile tapasvinā tapovanādetya purodhasā kṛte /
+dilīpasūnurmaṇirākarodgataḥ prayuktasaṃskāra ivādhikaṃ babhau // ragh(k)_3.18 //
+
+sukhaśravā maṅgalatūryaniḥsvanāḥ pramodanṛttaiḥ saha vārayoṣitām /
+na kevalaṃ sadmani māgadhīpateḥ pathi vyajṛmbhanta divaukasāmapi // ragh(k)_3.19 //
+
+na saṃyatastasya babhūva rakṣiturvimocayedyaṃ sutajanmaharṣitaḥ /
+ṛṇābhidhānātsvayameva kevalaṃ tadā pitṛṇāṃ mumuce sa bandhanāt // ragh(k)_3.20 //
+
+śrutasya yāyādayamantamarbhakastathā pareṣāṃ yudhi ceti pārthivaḥ /
+avekṣya dhātorgamanārthamarthaviccakāra nāmnā raghumātmasambhavam // ragh(k)_3.21 //
+
+pituḥ prayatnātsa samagrasampadaḥ śubhaiḥ śarīrāvayavairdine dine /
+pupoṣa vṛddhiṃ haridaśvadīdhiteranupraveśādiva bālacandramāḥ // ragh(k)_3.22 //
+
+umāvṛṣāṅkau śarajanmanā yathā yathā jayantena śacīpurandarau /
+tathā nṛpaḥ sā ca sutena māgadhī nanandatustatsadṛśena tatsamau // ragh(k)_3.23 //
+
+rathāṅganāmnoriva bhāvabandhanaṃ babhūva yatprema parasparaṃ prati /
+vibhaktamapyekasute na tattayoḥ parasparasyopari paryahīyata // ragh(k)_3.24 //
+
+yadāha dhātryā prathamoditaṃ vaco yayau tadīyāmavalambya cāṅgulim /
+abhūcca namraḥ praṇipātaśikṣayā piturmudaṃ tena tatāna so 'rbhakaḥ // ragh(k)_3.25 //
+
+tamaṅkamāropya śarīrayogajaiḥ sukhairniṣiñcantamivāmṛtaṃ tvaci /
+tribhāgasammīlitalocano nṛpaścirātsutasparśarasajñatāṃ yayau // ragh(k)_3.26 //
+
+amaṃsta cānena parārdhyajanmanā sthiterabhettā sthitimantamanvayam /
+svamūrtibhedena guṇāgryavṛttinā patiḥ prajānāmiva sargamātmanaḥ // ragh(k)_3.27 //
+
+sa vṛttacūlaścalakākapakṣakairamātyaputraiḥ savayobhiranvitaḥ /
+liperyathāvadgrahaṇena vāṅmayaṃ nadīmukheneva samudramāviśat // ragh(k)_3.28 //
+
+athopanītaṃ vidhivadvipaścito vininyurenaṃ guravo gurupriyam /
+avandhyayatnāśca babhūvuratra te kriyā hi vastūpahitā prasīdati // ragh(k)_3.29 //
+
+dhiyaḥ samagraiḥ sa guṇairudāradhīḥ kramāccatasraścaturarṇavopamāḥ /
+tatāra vidyāḥ pavanātipātibhirdiśo haridbhirharitāmiveśvaraḥ // ragh(k)_3.30 //
+
+tvacaṃ sa medhyāṃ paridhāya rauravīmaśikṣatāstraṃ pitureva mantravat /
+prayogasaṃhārarahasyavittamo babhūva cāstreṣu yathā purandaraḥ // ragh(k)_3.31//
+
+mahokṣatāṃ vatsataraḥ spṛśanniva dvipendrabhāvaṃ kalabhaḥ śrayanniva /
+raghuḥ kramādyauvanabhinnaśaiśavaḥ pupoṣa gambhīramanoharaṃ vapuḥ // ragh(k)_3.32 //
+
+athāsya godānavidheranantaraṃ vivāhadīkṣāṃ niravartayatprabhuḥ /
+narendrakanyāstamavāpya satpatiṃ tamopahaṃ dakṣasutā ivābabhuḥ // ragh(k)_3.33 //
+
+yuvā yugavyāyatabāhuraṃsalaḥ kavāṭavakṣāḥ pariṇaddhakandharaḥ /
+vapuṣprakarṣādajayadguruṃ raghustathāpi nīcairvinayādadṛśyata // ragh(k)_3.34 //
+
+atha prajānāṃ ciramātmanā dhṛtāṃ nitāntagurvīṃ laghayiṣyatā dhuram /
+vaśīti matvā maticakṣuṣā suto nṛpeṇa cakre yuvarājaśabdabhāk // ragh(k)_3.35 //
+
+narendramūlāyatanādanantaraṃ tadāspadaṃ śrīryuvarājasaṃjñitam /
+agacchadaṃśena guṇābhilāṣiṇī navāvatāraṃ kamalādivotpalam // ragh(k)_3.36 //
+
+uṣarbudhaḥ sārathineva vāyunā ghanavyapāyena gabhastimāniva /
+babhūva tenātitarāṃ durutsahaḥ kaṭaprabhedena karīva pārthivaḥ // ragh(k)_3.37 //
+
+niyujya taṃ medhyaturaṅgarakṣaṇe dhanurdharai rājasutairanudrutam /
+apūrṇamekena śatakratūpamaḥ śataṃ kratūnāmapavighnamāpa saḥ // ragh(k)_3.38 //
+
+ataḥ paraṃ tena makhāya yajvanā turaṅgamutsṛṣṭamanargalaṃ punaḥ /
+dhanurbhṛtāmagrata eva rakṣiṇāṃ jahāra śakraḥ kila gūḍhavigrahaḥ // ragh(k)_3.39 //
+
+viṣādaluptapratipatti vismitaṃ kumārasainyaṃ sapadi sthitaṃ ca tat /
+vasiṣṭhadhenuśca yadṛcchayāgatā śrutaprabhāvā dadṛśe 'tha nandinī // ragh(k)_3.40 //
+
+tadaṅganiḥṣyandalavena locane pramṛjya puṇyena puraskṛtaḥ satām /
+atīndriyeṣvapyupapannadarśano babhūva bhāveṣu dilīpanandanaḥ // ragh(k)_3.41 //
+
+sa pūrvataḥ parvatapakṣaśātanaṃ dadarśa devaṃ naradevasambhavaḥ /
+punaḥ punaḥ sūtaniṣiddhacāpalaṃ harantamaśvaṃ ratharaśmisaṃyutam // ragh(k)_3.42 //
+
+śataistamakṣṇāmanimeṣavṛttibhirhariṃ viditvā haribhiśca vājibhiḥ /
+avocadenaṃ gaganaspṛśā raghuḥ svareṇa dhīreṇa nivartayanniva // ragh(k)_3.43 //
+
+makhāṃśabhājāṃ prathamo manīṣibhistvameva devendra yadā nigadyase /
+ajasradīkṣāprayatasya madguroḥ kriyāvighātāya kathaṃ pravartase // ragh(k)_3.44 //
+
+trilokanāthena satā makhadviṣastvayā niyāmyā nanu divyacakṣuṣā /
+sa cetsvayaṃ karmasu dharmacāriṇāṃ tvamantarāyībhavasi cyuto vidhiḥ // ragh(k)_3.45 //
+
+tadaṅgamagryaṃ maghavanmahākratoramuṃ turaṅgaṃ pratimoktumarhasi /
+pathaḥ śucerdarśayitāra īśvarā malīmasāmādadate na paddhatim // ragh(k)_3.46 //
+
+iti pragalbhaṃ raghuṇā samīritaṃ vaco niśamyādhipatirdivaukasām /
+nivartayāmāsa rathaṃ savismayaḥ pracakrame ca prativaktumuttaram // ragh(k)_3.47 //
+
+yathāttha rājanyakumāra tattathā yaśastu rakṣyaṃ parito yaśodhanaiḥ /
+jagatprakāśaṃ tadaśeṣamijyayā bhavadgururlaṅghayituṃ mamodyataḥ // ragh(k)_3.48 //
+
+hariryathaikaḥ puruṣottamaḥ smṛto maheśvarastryambaka eva nāparaḥ /
+tathā vidurmāṃ munayaḥ śatakratuṃ dvitīyagāmī na hi śabda eṣa naḥ // ragh(k)_3.49 //
+
+ato 'yamaśvaḥ kapilānukāriṇā pitustvadīyasya mayāpahāritaḥ /
+alaṃ prayatnena tavātra mā nidhāḥ padaṃ padavyāṃ sagarasya santateḥ // ragh(k)_3.50 //
+
+tataḥ prahasyāha punaḥ purandaraṃ vyapetabhīrbhūmipurandarātmajaḥ /
+gṛhāṇa śastraṃ yadi sarga eṣa te na khalvanirjitya raghuṃ kṛtī bhavān // ragh(k)_3.51 //
+
+sa evamuktvā maghavantamunmukhaḥ kariṣyamāṇaḥ saśaraṃ śarāsanam /
+atiṣṭhadālīḍhaviśeṣaśobhinā vapuṣprakarṣeṇa viḍambiteśvaraḥ // ragh(k)_3.52 //
+
+raghoravaṣṭambhamayena pattriṇā hṛdi kṣato gotrabhidapyamarṣaṇaḥ /
+navāmbudānīkamuhūrtalāñchane dhanuṣyamoghaṃ samadhatta mārgaṇam // ragh(k)_3.53 //
+
+narendrasūnoḥ sa bṛhadbhujāntaraṃ praviśya bhīmāsuraśoṇitocitaḥ /
+papāvanāsvāditapūrvamāśugaḥ kutūhaleneva manuṣyaśoṇitam // ragh(k)_3.54 //
+
+hareḥ kumāro 'pi kumāravikramaḥ suradvipāsphālanakarkaśāṅgulau /
+bhuje śacīpattraviśeṣakāṅkite svanāmacihnaṃ nicakhāna sāyakam // ragh(k)_3.55 //
+
+jahāra cānyena mayūralāñchanaṃ śareṇa śakrasya mahāśanidhvajam /
+cukopa tasmai sa bhṛśaṃ suraśriyaḥ prasahya keśavyaparopaṇādiva // ragh(k)_3.56 //
+
+tayorupāntasthitasiddhasainikaṃ garutmadāśīviṣabhīmadarśanaiḥ /
+babhūva yuddhaṃ tumulaṃ jayaiṣiṇoradhomukhairūrdhvamukhaiśca pattribhiḥ // ragh(k)_3.57 //
+
+atiprabandhaprahitāstravṛṣṭibhistamāśrayaṃ duṣprasahasya tejasaḥ /
+śaśāka nirvāpayituṃ na vāsavaḥ svataścyutaṃ vahnimivādbhirambudaḥ // ragh(k)_3.58 //
+
+tataḥ prakoṣṭhāddharicandanāṅkitāt pramathyamānārṇavadhīranādinīm /
+raghuḥ śaśāṅkārdhamukhena pattriṇā śarāsanajyāmalunādbiḍaujasaḥ // ragh(k)_3.59 //
+
+sa cāpamutsṛjya vivṛddhamatsaraḥ pravāsanāya prabalasya vidviṣaḥ /
+mahīdhrapakṣavyaparopaṇoddhataṃ sphuratprabhāmaṇḍalamastramādade // ragh(k)_3.60 //
+
+raghurbhṛśaṃ vakṣasi tena tāḍitaḥ papāta bhūmau saha sainikāsrubhiḥ /
+nimeṣamātrādavadhūya ca vyathāṃ sahotthitaḥ sainikaharṣaniḥsvanaiḥ // ragh(k)_3.61 //
+
+tathāpi śastravyavahāraniṣṭhure vipakṣabhāve sthiramasya tasthuṣaḥ /
+tutoṣa vīryātiśayena vṛtrahā padaṃ hi sarvatra guṇairvidhīyate // ragh(k)_3.62 //
+
+asaṅgamadriṣvapi sāravattayā na me tvadanyena visoḍhamāyudham /
+avaihi māṃ prītamṛte turaṅgamādvaraṃ vṛṇīṣveti tamāha vṛtrahā // ragh(k)_3.63 //
+
+tato niṣaṅgādasamagramuddhṛtaṃ suvarṇapuṅkhadyutirañjitāṅgulim /
+dilīpasūnuḥ pratisaṃharanniṣuṃ priyaṃ vadaḥ pratyavadatsureśvaram // ragh(k)_3.64 //
+
+amocyamaśvaṃ yadi manyate prabhustataḥ samāpte vidhineva karmaṇi /
+ajasradīkṣātanuradya me guruḥ kratoraśeṣeṇa phalena yujyatām // ragh(k)_3.65 //
+
+yathā ca vṛttāntamimaṃ sadogatastrilocanaikāṃśatayā durāsadaḥ /
+tavaiva sandeśaharādviśāṃpatiḥ śṛṇoti nākeśa tathā vidhīyatām // ragh(k)_3.66 //
+
+tatheti kāmaṃ pratiśuśruvānraghoryathāgataṃ mātalisārathiryayau /
+nṛpasya nātipramanāḥ sadogṛhaṃ sudakṣiṇāsūnurapi nyavartata // ragh(k)_3.67 //
+
+tamabhyanandatprathamaprabodhitaḥ prajeśvaraḥ śāsanahāriṇā hareḥ /
+parāmṛśanharṣacalena pāṇinā tadīyamaṅgaṃ kuliśavraṇāṅkitam // ragh(k)_3.68 //
+
+iti kṣitīśo navatiṃ navādhikāṃ mahākratūnāṃ mahanīyaśāsanaḥ /
+samārurukṣurdivamāyuṣaḥ kṣaye tatāna sopānaparamparāmiva // ragh(k)_3.69 //
+
+atha sa viṣayavyāvṛttātmā yathāvidhi sūnave nṛpatikakudaṃ dattvā yūne sitātapavāraṇam /
+munivanatarucchāyāṃ devyā tayā saha śiśriye galitavayasāmikṣvākūṇāmidaṃ hi kulavratam // ragh(k)_3.70 //
+
+|| iti raghuvaṃśe mahākāvye tṛtīyaḥ sargaḥ ||
+
+sa rājyaṃ guruṇā dattaṃ pratipadyādhikaṃ babhau /
+dinānte nihitaṃ tejaḥ savitreva hutāśanaḥ // ragh(k)_4.1 //
+
+nyastaśastraṃ dilīpaṃ ca taṃ ca śuśruvuṣāṃ prabhum /
+rājñāmuddhṛtanārāce hṛdi śūlamivārpitam // ragh(k)_4.2 //
+
+puruhūtadhvajasyeva tasyonnayanapaṅktayaḥ /
+navābhyutthānadarśinyo nananduḥ saprajāḥ prajāḥ // ragh(k)_4.3 //
+
+samameva samākrāntaṃ dvayaṃ dviradagāminā /
+tena siṃhāsanaṃ pitryamakhilaṃ cārimaṇḍalam // ragh(k)_4.4 //
+
+chāyāmaṇḍalalakṣyeṇa tamadṛśyā kila svayam /
+padmā padmātapatreṇa bheje sāmrājyadīkṣitam // ragh(k)_4.5 //
+
+parikalpitasānnidhyā kāle kāle ca vandiṣu /
+stutyaṃ stutibhirarthyābhirupatasthe sarasvatī // ragh(k)_4.6 //
+
+manuprabhṛtibhirmānyairbhuktā yadyapi rājabhiḥ /
+tathāpyananyapūrveva tasminnāsīdvasundharā // ragh(k)_4.7 //
+
+sa hi sarvasya lokasya yuktadaṇḍatayā manaḥ /
+ādade nātiśītoṣṇo nabhasvāniva dakṣiṇaḥ // ragh(k)_4.8 //
+
+kāmaṃ kamalapattrāṇāṃ netre tasyānukāriṇī /
+cakṣuṣmattā tu śāstreṇa sūkṣmakāryārthadarśinā // ragh(k)_4.9 //
+
+yathā prahlādanāccandraḥ pratāpāttapano yathā /
+tathaiva so 'bhūdanvartho rājā prakṛtirañjanāt // ragh(k)_4.10 //
+
+nayavidbhirnave rājñi sadasaccopadarśitam /
+pūrva evābhavatpakṣastasminnābhavaduttaraḥ // ragh(k)_4.11 //
+
+mandotkaṇṭhāḥ kṛtāstena guṇādhikatayā gurau /
+phalena sahakārasya puṣpodgama iva prajāḥ // ragh(k)_4.12 //
+
+pañcānāmapi bhūtānāmutkarṣaṃ pupuṣurguṇāḥ /
+nave tasminmahīpāle sarvaṃ navamivābhavat // ragh(k)_4.13 //
+
+labdhapraśamanasvasthamathainaṃ samupasthitā /
+pārthivaśrīrdvitīyeva śaratpaṅkajalakṣaṇā // ragh(k)_4.14//
+
+nirvṛṣṭalaghubhirmeghaiḥ savitustasya cobhayoḥ /
+vardhiṣṇavo diśāṃ bhāgāḥ pratāpāyeva recitāḥ // ragh(k)_4.15 //
+
+adhijyamāyudhaṃ kartuṃ samayo 'yaṃ raghoriti /
+svaṃ dhanuḥ śaṅkiteneva saṃjahre śatamanyunā // ragh(k)_4.16 //
+
+puṇḍarīkātapatrastaṃ vikasatkāśacāmaraḥ /
+ṛturviḍambayāmāsa na punaḥ prāpa tacchriyam // ragh(k)_4.17 //
+
+prasādasumukhe tasmiṃścandre ca viṣadaprabhe /
+tadā cakṣuṣmatāṃ prītirāsītsamarasā dvayoḥ // ragh(k)_4.18 //
+
+haṃsaśreṇiṣu tārāsu kumudvatsu ca vāriṣu /
+vibhūtayastadīyānāṃ paryastā yaśasāmiva // ragh(k)_4.19 //
+
+ikṣucchāyāniṣādinyastasya gopturguṇodayam /
+ākumārakathodghātaṃ śāligopyo jaguryaśaḥ // ragh(k)_4.20 //
+
+prasasādodayādambhaḥ kumbhayonermahaujasaḥ /
+raghostvabhibhavāśaṅki cukṣubhe dviṣatāṃ manaḥ // ragh(k)_4.21 //
+
+madodagrāḥ kakudmantaḥ saritāṃ kūlamudrujāḥ /
+līlākhelamanuprāpurmahokṣāstasya vikramam // ragh(k)_4.22 //
+
+prasavaiḥ saptaparṇānāṃ madagandhibhirāhatāḥ /
+asūyayeva tannāgāḥ saptadhaiva prasusruvuḥ // ragh(k)_4.23 //
+
+saritaḥ kurvatī gādhāḥ pathaścāśyānakardamān /
+yātrāyai codayāmāsa taṃ śakteḥ prathamaṃ śarat // ragh(k)_4.24 //
+
+tasmai samyagghuto vahnirvājinīrājanāvidhau /
+pradakṣiṇārcirvyājena hasteneva jayaṃ dadau // ragh(k)_4.25 //
+
+sa guptamūlapratyantaḥ śuddhapārṣṇirayānvitaḥ /
+ṣaḍvidhaṃ balamādāya pratasthe digjigīṣayā // ragh(k)_4.26 //
+
+avākiranvayovṛddhāstaṃ lājaiḥ paurayoṣitaḥ /
+pṛṣatairmandaroddhūtaiḥ kṣīrormaya ivācyutam // ragh(k)_4.27 //
+
+sa yayau prathamaṃ prācīṃ tulyaḥ prācīnabarhiṣā /
+ahitānaniloddhūtaistarjayanniva ketubhiḥ // ragh(k)_4.28 //
+
+rajobhiḥ syandanoddhūtairgajaiśca ghanasannibhaiḥ /
+bhuvastalamiva vyoma kurvanvyomeva bhūtalam // ragh(k)_4.29 //
+
+pratāpo 'gre tataḥ śabdaḥ purogāstadanantaram /
+yayau paścādgajānīkaṃ catuḥskandheva sā camūḥ // ragh(k)_4.30 //
+
+purogaiḥ kaluṣāstasya sahaprasthāyibhiḥ kṛśāḥ /
+paścātprayāyibhiḥ paṅkaṃ cakrire mārganimnagāḥ // ragh(k)_4.31 //
+
+marupṛṣṭhānyudambhāṃsi nāvyāḥ supratarā nadīḥ /
+vipināni prakāśāni śaktimattvāccakāra saḥ // ragh(k)_4.32 //
+
+sa senāṃ mahatīṃ karṣanpūrvasāgaragāminīm /
+babhau harajaṭābhraṣṭāṃ gaṅgāmiva bhagīrathaḥ // ragh(k)_4.33 //
+
+tyājitaiḥ phalamutkhātairbhagnaiśca bahudhā nṛpaiḥ /
+tasyāsīdulbaṇo mārgaḥ pādapairiva dantinaḥ // ragh(k)_4.34 //
+
+paurastyānevamākrāmaṃstāṃstāñjanapadāñjitī /
+prāpa tālīvanaśyāmamupakaṇṭhaṃ mahodadheḥ // ragh(k)_4.35 //
+
+anamrāṇāṃ samuddhartustasmātsindhurayādiva /
+ātmā saṃrakṣitaḥ suhmairvṛttimāśritya vaitasīm // ragh(k)_4.36 //
+
+vaṅgānutkhāya tarasā netā nausādhanoddhatān /
+nicakhāna jayastambhāngaṅgāsrotontareṣu saḥ // ragh(k)_4.37 //
+
+āpādapadmapraṇatāḥ kalamā iva te raghum /
+phalaiḥ saṃvardhayāmāsurutkhātapratiropitāḥ // ragh(k)_4.38 //
+
+sa tīrtvā kayimāṃ sainyairbaddhadviradasetubhiḥ /
+utkalādeśitapathaḥ kaliṅgābhimukho yayau // ragh(k)_4.39 //
+
+sa pratāpaṃ mahendrasya mūrdhni tīkṣṇaṃ nyaveśayat /
+aṅkuśaṃ dviradasyeva yantā gambhīravedinaḥ // ragh(k)_4.40 //
+
+pratijagrāha kāliṅgastamastrairgajasādhanaḥ /
+pakṣacchedodyataṃ śakraṃ śilāvarṣīva parvataḥ // ragh(k)_4.41 //
+
+dviṣāṃ viṣahya kākutsthastatra nārācadurdinam /
+sanmaṅgalasnāta iva pratipede jayaśriyam // ragh(k)_4.42 //
+
+vāyavyāstravinirdhūtātpakṣāviddhādivodadheḥ /
+gajānīkātsa kāliṅgaṃ tārkṣyaḥ sarpamivādade // ragh(k)_4.43 //
+
+tāmbūlīnāṃ dalaistasya racitāpānabhūmayaḥ /
+nārikelāsavaṃ yodhāḥ śātravaṃ ca yaśaḥ papuḥ // ragh(k)_4.44 //
+
+gṛhītapratimuktasya sa dharmavijayī nṛpaḥ /
+hriyaṃ mahendranāthasya jahāra na tu medinīm // ragh(k)_4.45 //
+
+tato velātaṭenaiva phalavatpūgamālinā /
+agastyacaritāmāśāmanāśāsyajayo yayau // ragh(k)_4.46 //
+
+sa sainyaparibhogena gajadānasugandhinā /
+kāverīṃ saritāṃ patyuḥ śaṅkanīyāmivākarot // ragh(k)_4.47 //
+
+bhayotsṛṣṭavibhūṣāṇāṃ tena keralayoṣitām /
+alakeṣu camūreṇuścūrṇapratinidhīkṛtaḥ // ragh(k)_4.48 //
+
+balairadhyuṣitāstasya vijigīṣorgatādhvanaḥ /
+hārītocchiṣṭamaricā malayādrerupatyakāḥ // ragh(k)_4.49 //
+
+ājāneyakhurakṣuṇṇapakvailākṣetrasambhavam /
+vyānaśe sapadi vyoma kīṭakośābilaṃ rajaḥ // ragh(k)_4.50 //
+
+bhogiveṣṭanamārgeṣu candanānāṃ samarpitam /
+nāsraṃsatkariṇāṃ graivaṃ tripadīchedināmapi // ragh(k)_4.51 //
+
+diśi mandāyate tejo dakṣiṇasyāṃ raverapi /
+tasyāmeva raghoḥ pāṇḍyāḥ pratāpaṃ na viṣehire // ragh(k)_4.52 //
+
+tāmraparṇīsametasya muktāsāraṃ mahodadheḥ /
+te nipatya dadustasmai yaśaḥ svamiva sañcitam // ragh(k)_4.53 //
+
+sa nirviśya yathākāmaṃ taṭasvādhīnacandanau /
+stanāviva diśastasyāḥ śailau malayadurdurau // ragh(k)_4.54 //
+
+asahyavikramaḥ sahyaṃ dūramuktamudanvatā /
+nitambamiva medinyāḥ srastāṃśukamalaṅghayat // ragh(k)_4.55 //
+
+tasyānīkairvisarpadbhiraparāntajayodyataiḥ /
+rāmeṣūtsārito 'pyāsītsahyalagna ivārṇavaḥ // ragh(k)_4.56 //
+
+puro yanmārutoddhūtamagamatkaitakaṃ rajaḥ /
+tadyodhavāravāṇānāmayatnapaṭavāsatām // ragh(k)_4.57 //
+
+abhyabhūyata vāhānāṃ rathānāṃ cāsya śiñjitaiḥ /
+marmaraḥ pavanoddhūtarājatālīvanadhvaniḥ // ragh(k)_4.58 //
+
+kharjūrīskandhanaddhānāṃ madodgārasugandhiṣu /
+kaṭeṣu kariṇāṃ petuḥ punnāgebhyaḥ śilīmukhāḥ // ragh(k)_4.59 //
+
+avakāśaṃ kilodanvānrāmāyābhyarthito dadau /
+aparāntamahīpālavyājena raghave karam // ragh(k)_4.60 //
+
+mahebharadanotkīrṇavyaktavikramalakṣaṇam /
+trikūṭameva tatroccairjayastambhaṃ cakāra saḥ // ragh(k)_4.61 //
+
+pārasīkāṃstato jetuṃ pratasthe sthalavartmanā /
+indriyākhyāniva ripūṃstattvajñānena saṃyamī // ragh(k)_4.62 //
+
+yavanīmukhapadmānāṃ sehe madhumadaṃ na saḥ /
+bālātapamivābjānāmakālajaladodayaḥ // ragh(k)_4.63 //
+
+saṅgrāmastumulastasya pārasīkāśvasādhanaiḥ /
+śārṅgakūjitavijñeyapratiyodho rajasyabhūt // ragh(k)_4.64 //
+
+bhallāpavarjitaisteṣāṃ śirobhiḥ śmaśrulairmahīm /
+tastāra saraghāvyāptaiḥ sa kṣaudrapaṭalairiva // ragh(k)_4.65 //
+
+apanītaśirastrāṇāḥ śeṣāstaṃ śaraṇaṃ yayuḥ /
+praṇipātapratīkāraḥ saṃrambho hi mahātmanām // ragh(k)_4.66 //
+
+vinayante sma tadyodhā madhubhirvijayaśramam /
+āstīrṇājinaratnāsu drākṣāvalayabhūmiṣu // ragh(k)_4.67 //
+
+tataḥ pratasthe kauberīṃ bhāsvāniva raghurdiśam /
+śarairusrairivodīcyānuddhariṣyanrasāniva // ragh(k)_4.68 //
+
+jitānajayyastāneva kṛtvā rathapuraḥsarān /
+mahārṇavamivaurvāgniḥ praviveśottarāpatham // ragh(k)_4.69 //
+
+vinītādhvaśramāstasya vaṅkṣutīraviveṣṭanaiḥ /
+dudhuvurvājinaḥ skandhāṃllagnakuṅkumakesarān // ragh(k)_4.70 //
+
+tatra hūnāvarodhānāṃ bhartṛṣu vyaktavikramam /
+kapolapāṭanādeśi babhūva raghuceṣṭitam // ragh(k)_4.71 //
+
+kāmbojāḥ samare vīryaṃ tasya soḍhumanīśvarāḥ /
+gajālānaparikliṣṭairakṣoṭaiḥ sārdhamānatāḥ // ragh(k)_4.72 //
+
+teṣāṃ sadaśvabhūyiṣṭhāstuṅgā draviṇarāśayaḥ /
+viviśustaṃ viśāṃ nāthamudanvantamivāpagāḥ // ragh(k)_4.73 //
+
+tato gaurīguruṃ śailamāruroha sasādhanaḥ /
+vardhayanniva tatkūṭānuddhatairdhātureṇubhiḥ // ragh(k)_4.74 //
+
+praśaṃsaṃstulyasattvānāṃ sainyaghoṣe 'pyasambhramam /
+guhāgatānāṃ siṃhānāṃ parivṛttyāvalokitam // ragh(k)_4.75 //
+
+bhūrjeṣu marmarībhūtāḥ kīcakadhvanihetavaḥ /
+gaṅgāśīkariṇo mārge marutastaṃ siṣevire // ragh(k)_4.76 //
+
+viśaśramurnamerūṇāṃ chāyāsvadhyāsya sainikāḥ /
+dṛṣado vāsitotsaṅgā niṣaṇṇamṛganābhibhiḥ // ragh(k)_4.77 //
+
+saralāsaktamātaṅgagraiveyopacitatviṣaḥ /
+āsannoṣadhayo neturnaktamasnehadīpikāḥ // ragh(k)_4.78 //
+
+tasyāvāseṣu dānārdrairgaṇḍabhittivighaṭṭanaiḥ /
+gajavarṣma kirātebhyaḥ śaśaṃsurdevadāravaḥ // ragh(k)_4.79 //
+
+vimardaḥ saha taistatra pārvatīyairabhūdraghoḥ /
+nārācakṣepaṇīyāśmaniṣpeṣotpatitānalaḥ // ragh(k)_4.80 //
+
+śarairutsavasaṅketānsa kṛtvā karadānkṛtī /
+jayodāharaṇaṃ bāhvorgāpayāmāsa kinnarān // ragh(k)_4.81 //
+
+parasparasya vijñātasteṣūpāyanapāṇiṣu /
+rājñā himavataḥ sāro rājñaḥ sāro himādriṇā // ragh(k)_4.82 //
+
+tatrākṣobhyaṃ yaśorāśiṃ niveśyāvaruroha saḥ /
+paulastyatulitasyādrerādadāna iva hriyam // ragh(k)_4.83 //
+
+cakampe tīrṇalauhitye tasminprāgjyotiṣeśvaraḥ /
+tadgajālānatāṃ prāptaiḥ saha kālāgurudrumaiḥ // ragh(k)_4.84 //
+
+na prasehe sa ruddhārkamanabhramayadurdinam /
+rathavaṃśarajo 'pyasya kuta eva patākinīm // ragh(k)_4.85 //
+
+tamīśaḥ kāmarūpāṇāmatyākhaṇḍalavikramam /
+bheje bhinnakaṭairnāgairanyānuparurodha yaiḥ // ragh(k)_4.86 //
+
+kāmarūpeśvarastasya hemapīṭhādhidevatām /
+ratnapuṣpopahāreṇa cchāyāmānarca pādayoḥ // ragh(k)_4.87 //
+
+iti jitvā diśo jiṣṇurnyavartata rathoddhatam /
+rajo viśramayanrājñāṃ chattraśūnyeṣu mauliṣu // ragh(k)_4.88 //
+
+sa viśvajitamājahre kratuṃ sarvasvadakṣiṇam /
+ādānaṃ hi visargāya satāṃ vārimucāmiva // ragh(k)_4.89 //
+
+sattrānte sacivasakhaḥ puraskriyābhirgurvībhiḥ śamitaparājayavyalīkān /
+kākutsthaściravirahotsukāvarodhān rājanyānsvapuranivṛttaye 'numene // ragh(k)_4.90 //
+
+te rekhādhvajakalaśātapatracihnaṃ samrājaścaraṇayugaṃ prasādalabhyam /
+prasthānapraṇatibhiraṅgulīṣu cakrurmaulisrakcyutamakarandareṇugauram // ragh(k)_4.91 //
+
+|| iti raghuvaṃśe mahākāvye caturthaḥ sargaḥ ||
+
+tamadhvare viśvajiti kṣitīśaṃ niḥśeṣaviśrāṇitakośajātam /
+upāttavidyo gurudakṣiṇārthī kautsaḥ prapede varatantuśiṣyaḥ // ragh(k)_5.1 //
+
+sa mṛṇmaye vītahiraṇmayatvātpātre nidhāyārghyamanarghaśīlaḥ /
+śrutaprakāśaṃ yaśasā prakāśaḥ pratyujjagāmātithimātitheyaḥ // ragh(k)_5.2 //
+
+tamarcayitvā vidhivadvidhijñastapodhanaṃ mānadhanāgrayāyī /
+kṛtāñjaliḥ kṛtyavicāradakṣo viśāmpatirviṣṭarabhājamāha // ragh(k)_5.3 //
+
+apyagraṇīrmantrakṛtāmṛṣīṇāṃ kuśāgrabuddhe kuśalī guruste /
+yatastvayā jñānamaśeṣamāptaṃ caitanyamugrādiva dīkṣitena // ragh(k)_5.4 //
+
+kāyena vācā manasā ca taptaṃ yadvajriṇo dhairyaviparyayāya /
+āpādyate na vyayamantarāyaiḥ kaccinmaharṣestrividhaṃ tapastat // ragh(k)_5.5 //
+
+ādhārabandhapramukhaiḥ prayatnaiḥ saṃvardhitānāṃ sutanirviśeṣam /
+kaccinna vāyvādirupaplavo vaḥ śramacchidāmāśramapādapānām // ragh(k)_5.6 //
+
+kriyānimitteṣvapi vatsalatvādabhagnakāmā munibhiḥ kuśeṣu /
+tadaṅkaśayyācyutanābhinālā kaccinmṛgīṇāmanaghā prasūtiḥ // ragh(k)_5.7 //
+
+nirvartyate yairniyamābhiṣeko yato nivāpāñjalayaḥ pitṛṇām /
+tānyuñchaṣaṣṭhāṅkitasaikatāni śivāni vastīrthajalāni kaccit // ragh(k)_5.8 //
+
+nīvārapākādi kaḍaṅgarīyairāmṛṣyate jānapadairna kaccit /
+kālopapannātithibhāgadheyaṃ vanyaṃ śarīrasthitisādhanaṃ vaḥ // ragh(k)_5.9 //
+
+api prasannena maharṣiṇā tvaṃ samyagvinīyānumato gṛhāya /
+kālo hyayaṃ saṅkramituṃ dvitīyaṃ sarvopakārakṣamamāśramaṃ te // ragh(k)_5.10 //
+
+tavārhato nābhigamena tṛptaṃ mano niyogakriyayotsukaṃ me /
+apyājñayā śāsiturātmanā vā prāpto 'si sambhāvayituṃ vanānmām // ragh(k)_5.11 //
+
+ityarghyapātrānumitavyayasya raghorudārāmapi gāṃ niśamya /
+svārthopapattiṃ prati durbalāśaḥ pratyāha kautsastamapetakutsam // ragh(k)_5.12 //
+
+sarvatra no vārttamavaihi rājannāthe kutastvayyaśubhaṃ prajānām /
+sūrye tapatyāvaraṇāya dṛṣṭeḥ kalpeta lokasya kathaṃ tamisrā // ragh(k)_5.13 //
+
+bhaktiḥ pratīkṣyeṣu kulocitā te pūrvānmahābhāgatayātiśeṣe /
+vyapetakālastvahamabhyupetastvāmarthibhāvāditi me viṣādaḥ // ragh(k)_5.14 //
+
+śarīramātreṇa narendra tiṣṭhannābhāsi tīrthapratipāditarddhiḥ /
+āraṇyakopāttaphalaprasūtiḥ stambena nīvāra ivāvaśiṣṭaḥ // ragh(k)_5.15 //
+
+sthāne bhavānekanarādhipaḥ san akiñcanatvaṃ makhajaṃ vyanakti /
+paryāyapītasya surairhimāṃśoḥ kalākṣayaḥ ślāghyataro hi vṛddheḥ // ragh(k)_5.16 //
+
+tadanyatastāvadananyakāryo gurvarthamāhartumahaṃ yatiṣye /
+svastyastu te nirgalitāmbugarbhaṃ śaradghanaṃ nārdati cātako 'pi // ragh(k)_5.17 //
+
+etāvaduktvā pratiyātukāmaṃ śiṣyaṃ maharṣernṛpatirniṣidhya /
+kiṃ vastu vidvangurave pradeyaṃ tvayā kiyadveti tamanvayuṅkta // ragh(k)_5.18 //
+
+tato yathāvadvihitādhvarāya tasmai smayāveśavivarjitāya /
+varṇāśramāṇāṃ gurave sa varṇī vicakṣaṇaḥ prastutamācacakṣe // ragh(k)_5.19 //
+
+avāptavidyena mayā maharṣirvijñāpito 'bhūdgurudakṣiṇāyai /
+sa me cirādaskhalitopacārāṃ tāṃ bhaktimevāgaṇayatpurastāt // ragh(k)_5.20 //
+
+nirbandhasañjātaruṣātha kārśyamacintayitvā guruṇāhamuktaḥ /
+vittasya vidyāparisaṅkhyayā me koṭīścatasro daśa cāhareti // ragh(k)_5.21 //
+
+so 'haṃ saparyāvidhibhājanena matvā bhavantaṃ prabhuśabdaśeṣam /
+abhyutsahe samprati noparoddhumalpetaratvācchrutaniṣkrayasya // ragh(k)_5.22 //
+
+itthaṃ dvijena dvijarājakāntirāvedito vedavidāṃ vareṇa /
+enonivṛttendriyavṛttirenaṃ jagāda bhūyo jagadekanāthaḥ // ragh(k)_5.23 //
+
+gurvarthamarthī śrutapāradṛśvā raghoḥ sakāśādanavāptakāmaḥ /
+gato vadanyāntaramityayaṃ me mā bhūtparīvādanavāvatāraḥ // ragh(k)_5.24 //
+
+sa tvaṃ prayaste mahito madīye vasaṃścaturtho 'gnirivāgnyagāre /
+dvitrāṇyahānyarhasi soḍhumarhanyāvadyate sādhayituṃ tvadartham // ragh(k)_5.25 //
+
+tatheti tasyāvitathaṃ pratītaḥ pratyagrahītsaṅgaramagryajanmā /
+gāmāttasārāṃ raghurapyavekṣya niṣkraṣṭumarthaṃ cakame kuverāt // ragh(k)_5.26 //
+
+vasiṣṭhamantrokṣaṇajātprabhāvādudanvadākāśamahīdhareṣu /
+marutsakhasyeva balāhakasya gatirvijaghne na hi tadrathasya // ragh(k)_5.27 //
+
+athādhiśiśye prayataḥ pradoṣe rathaṃ raghuḥ kalpitamastragarbham /
+sāmantasambhāvanayaiva dhīraḥ kailāsanāthaṃ tarasā jigīṣuḥ // ragh(k)_5.28 //
+
+prātaḥ prayāṇābhimukhāya tasmai savismayāgantumudo niyuktāḥ /
+hiraṇmayīṃ kośagṛhasya madhye vṛṣṭiṃ śaśaṃsuḥ patitāṃ nabhastaḥ // ragh(k)_5.29 //
+
+taṃ bhūpatirbhāsvarahemarāśiṃ labdhaṃ kuverādabhiyāsyamānāt /
+dideśa kautsāya samagrameva pādaṃ sumeroriva vajrabhinnam // ragh(k)_5.30 //
+
+janasya sāketanivāsinastau dvāvapyabhūtāmabhinandyasattvau /
+gurupradeyādhikaniḥspṛho 'rthī nṛpo 'rthikāmādadhikapradaśca // ragh(k)_5.31 //
+
+athoṣṭravāmīśatahāritārthaṃ prajeśvaraṃ prītamanā manīṣī /
+spṛśankareṇānatapūrvakāyaṃ samprasthito vākyamuvāca kautsaḥ // ragh(k)_5.32 //
+
+kimatra citraṃ yadi kāmasūrbhūrvṛttasthitasyādhipateḥ prajānām /
+acintanīyastava tu prabhāvo manīṣitaṃ dyaurapi yena dugdhā // ragh(k)_5.33 //
+
+āśāsyamanyatpunaruktabhūtaṃ śreyāṃsi sarvāṇyadhijagmuṣaste /
+putraṃ labhasvātmaguṇānurūpaṃ bhavantamīḍyo bhavataḥ piteva // ragh(k)_5.34 //
+
+itthaṃ prayujyāśiṣamagryajanmā rājñe pratīyāya guroḥ sakāśam /
+rājāpi lebhe sutamāśu tasmād ālokamarkādiva jīvalokaḥ // ragh(k)_5.35 //
+
+brāhme muhūrte kila tasya devī kumārakalpaṃ suṣuve kumāram /
+ataḥ pitā brahmaṇa eva nāmnā tamagryajanmānamajaṃ cakāra // ragh(k)_5.36 //
+
+rūpaṃ tadojasvi tadeva vīryaṃ tadeva naisargikamunnatatvam /
+na kāraṇātsvādbibhide kumāraḥ pravartito dīpa iva pradīpāt // ragh(k)_5.37 //
+
+upāttavidyaṃ vidhivadgurubhyastaṃ yauvanodbhedaviśeṣakāntam /
+śrīḥ kāmayānāpi guroranujñāṃ dhīreva kanyā piturācakāṅkṣa // ragh(k)_5.38 //
+
+atheśvareṇa krathakaiśikānāṃ svayaṃvarārthaṃ svasurindumatyāḥ /
+āptaḥ kumārānayanotsukena bhojena dūto raghave visṛṣṭaḥ // ragh(k)_5.39 //
+
+taṃ ślāghyasambandhamasau vicintya dārakriyāyogyadaśaṃ ca putram /
+prasthāpayāmāsa sasainyamenamṛddhāṃ vidarbhādhiparājadhānīm // ragh(k)_5.40 //
+
+tasyopakāryāracitopakārā vandhyetarā jānapadopadhābhiḥ /
+mārge nivāsā manujendrasūnorbabhūvurudyānavihārakalpāḥ // ragh(k)_5.41 //
+
+sa narmadārodhasi śīkarārdrairmarudbhirānartitaketumāle /
+niveśayāmāsa vilaṅghitādhvā senāṃ śramotphenavanāyujāśvām // ragh(k)_5.42 //
+
+athopariṣṭādbhramarairbhramadbhiḥ prāksūcitāntaḥsalilapraveśaḥ /
+nirdhautadānāmalagaṇḍabhittirvanyaḥ saritto gaja unmamajja // ragh(k)_5.43 //
+
+apyaughavikṣālitagairikeṇa vaprakriyāmṛkṣavatastaṭeṣu /
+nīlordhvalekhāśavalena śaṃsandantadvayenāśmavikuṇṭhitena // ragh(k)_5.44 //
+
+saṃhāravikṣepalaghukriyeṇa hastena tīrābhimukhaḥ saśabdam /
+babhau sa bhindansahasā taraṅgānvāryargalābhaṅga iva pravṛttaḥ // ragh(k)_5.45 //
+
+kāraṇḍavocchiṣṭamṛdupratānāḥ pulindayoṣāmbuvihārakāñcīḥ /
+karṣansa śevālalatā nadīṣṇaḥ prohāvalagnāstaṭamutsasarpa // ragh(k)_5.46 //
+
+tasyaikanāgasya kapolabhittyorhradāvagāhakṣaṇamātraśāntā /
+vanyetarānekapadarśanena punardidīpe madadurdinaśrīḥ // ragh(k)_5.47 //
+
+saptacchadakṣīrakaṭupravāhamasahyamāghrāya madaṃ tadīyam /
+vilaṅghitādhoraṇatīvrayatnāḥ senāgajendrā vimukhā babhūvuḥ // ragh(k)_5.48 //
+
+sa cchinnabandhadrutayugyaśūnyaṃ bhagnākṣaparyastarathaṃ kṣaṇena /
+rāmāparitrāṇavihastayodhaṃ senāniveśaṃ tumulaṃ cakāra // ragh(k)_5.49 //
+
+tamāpatantaṃ nṛpateravadhyo vanyaḥ karīti śrutavānkumāraḥ /
+nivartayiṣyanviśikhena kumbhe jaghāna nātyāyatakṛṣṭaśārṅgaḥ // ragh(k)_5.50 //
+
+sa viddhamātraḥ kila nāgarūpamutsṛjya tadvismitasainyadṛṣṭaḥ /
+sphuratprabhāmaṇḍalamadhyavarti kāntaṃ vapurvyomacaraṃ prapede // ragh(k)_5.51 //
+
+atha prabhāvopanataiḥ kumāraṃ kalpadrumotthairavakīrya puṣpaiḥ /
+uvāca vāgmī daśanaprabhābhiḥ saṃvardhitoraḥsthalatārahāraḥ // ragh(k)_5.52 //
+
+mataṅgaśāpādavalepamūlādavāptavānasmi mataṅgajatvam /
+avaihi gandharvapatestanūjaṃ priyaṃvadaṃ māṃ priyadarśanasya // ragh(k)_5.53 //
+
+sa cānunītaḥ praṇatena paścānmayā maharṣirmṛdutāmagacchat /
+uṣṇatvamagnyātapasamprayogācchaityaṃ hi yatsā prakṛtirjalasya // ragh(k)_5.54 //
+
+ikṣvākuvaṃśaprabhavo yadā te bhetsyatyajaḥ kumbhamayomukhena /
+saṃyokṣyase svena punarmahimnā tadetyavocatsa taponidhirmām // ragh(k)_5.55 //
+
+sa mocitaḥ śāpakalestvayāhaṃ gatiṃ prapanno vihitāṃ vidhātrā /
+pratikriyāṃ cedbhavato na kuryāṃ vyarthā hi me syātsvapadopalabdhiḥ // ragh(k)_5.56 //
+
+gāndharvamastraṃ taditaḥ pratīccha prayogasaṃhāravibhaktamantram /
+prasvāpanaṃ nāma yataḥ praharturna cārihiṃsā vijayaśca haste // ragh(k)_5.57 //
+
+alaṃ hriyā māṃ prati yanmuhūrtaṃ dayāparo 'bhūḥ praharannapi tvam /
+tasmādupacchandayati prayojyaṃ mayi tvayā na pratiṣedharaukṣyam // ragh(k)_5.58 //
+
+tathetyupaspṛśya payaḥ pavitraṃ somodbhavāyāḥ sarito nṛsomaḥ /
+udaṅmukhaḥ so 'stravidastramantraṃ jagrāha tasmādvigṛhītaśāsī // ragh(k)_5.59 //
+
+evaṃ tayoradhvani daivayogādāseduṣoḥ sakhyamacintyahetu /
+eko yayau caitrarathapradeśānsaurājyaramyānaparo vidarbhān // ragh(k)_5.60 //
+
+taṃ tasthivāṃsaṃ nagaropakaṇṭhe tadāgamārūḍhagurupraharṣaḥ /
+pratyujjagāma krathakaiśikendraścandraṃ pravṛddhormirivormimālī // ragh(k)_5.61 //
+
+praveśya cainaṃ puramagrayāyī nīcaistathopācaradarpitaśrīḥ /
+mene yathā tatra janaḥ sameto vaidarbhamāgantumajaṃ gṛheśam // ragh(k)_5.62 //
+
+tasyādhikāripuruṣaiḥ praṇataiḥ pradiṣṭāṃ prāgdvāravediviniveśitahemakumbhām /
+ramyāṃ raghupratinidhiḥ sa navopakāryāṃ bālyātparāmiva daśāṃ madano 'dhitasthau // ragh(k)_5.63 //
+
+tatra svayaṃvarasamāhṛtarājalokaṃ kanyālalāma kamanīyamajasya lipsoḥ /
+bhāvāvabodhakaluṣā dayiteva rātrau nidrā cireṇa nayanābhimukhī babhūva // ragh(k)_5.64 //
+
+taṃ karṇabhūṣaṇanipīḍitapīvarāṃsaṃ śayyottaracchadavimardakṛśāṅgarāgam /
+vaitālikā lalitabandhamanoharābhiḥ prābodhayannuṣasi vāgbhiruṣarbudhābham // ragh(k)_5.65 //
+
+rātrirgatā matimatāṃ vara muñca śayyāṃ dhātrā dvidhaiva jagato nanu dhūrvibhaktā /
+yāmekatastava bibharti gururvitandrīryasyā bhavānaparadhuryapadāvalambī // ragh(k)_5.66 //
+
+nidrāvaśena bhavatā hyanavekṣyamāṇā paryutsukatvamabalā niśi khaṇḍiteva /
+lakṣmīrvinodayati yena digantalambī so 'pi tvadānanarucaṃ vijahāti candraḥ // ragh(k)_5.67 //
+
+tadvalgunā yugapadunmiṣitena tāvat sadyaḥ parasparatulāmadhirohatāṃ dve /
+praspandamānaparuṣetaratāramantaścakṣustava pracalitabhramaraṃ ca padmam // ragh(k)_5.68 //
+
+vṛntaślathaṃ harati puṣpamanokahānāṃ saṃsṛjyate sarasijairaruṇāṃśubhinnaiḥ /
+svābhāvikaṃ paraguṇena vibhātavātaḥ saugandhyamīpsuriva te mukhamārutasya // ragh(k)_5.69 //
+
+tāmrodareṣu patitaṃ drumapallaveṣu nirdhautahāragulikāviṣadaṃ himāmbhaḥ /
+saṃlakṣyate daśanacandrikayānuviddhaṃ bimboṣṭhalabdhaparabhāgamiva smitaṃ te // ragh(k)_5.70 //
+
+yāvatpratāpanidhirākramate na bhānurahnāya tāvadaruṇena tamo nirastam /
+āyodhanāgrasaratāṃ tvayi vīra yāte kiṃ vā ripūṃstava guruḥ svayamucchinatti // ragh(k)_5.71 //
+
+śayyāṃ jahatyubhayapakṣavinītanidrāḥ senāgajā mukharaśṛṅkhalakarṣiṇaste /
+yeṣāṃ vibhānti taruṇāruṇarāgayogādbhinnādrigairikataṭā iva dantakośāḥ // ragh(k)_5.72 //
+
+dīrgheṣvamī niyamitāḥ paṭamaṇḍapeṣu nidrāṃ vidhūya vanajākṣa vanāyujāste /
+vaktroṣmaṇā malinayanti purogatāni lehyāni saindhavaśilāśakalāni vāhāḥ // ragh(k)_5.73 //
+
+bhavati viralabhaktirmlānapuṣpopakāraḥ svakiraṇapariveśodbhedaśūnyāḥ pradīpāḥ /
+ayamapi ca giraṃ nastvatprabodhaprayuktāmanuvadati śukaste mañjuvākpañjarasthaḥ // ragh(k)_5.74 //
+
+iti sa vihṛtanidrastalpamalpetarāṃsaḥ suragaja iva gāṅgaṃ saikataṃ supratīkaḥ /
+parijanavanitānāṃ pādayorvyāpṛtānāṃ valayamaṇividaṣṭapracchadāntaṃ mumoca // ragh(k)_5.75 //
+
+atha vidhimavasāyya śāstradṛṣṭaṃ divasamukhocitamañcitākṣipakṣmā /
+kuśalaviracitānurūpaveśaḥ kṣitipasamājamagātsvayaṃvarastham // ragh(k)_5.76 //
+
+|| iti raghuvaṃśe mahākāvye pañcamaḥ sargaḥ ||
+
+sa tatra mañceṣu vimānakalpeṣvākalpasammūrchitarūpaśobhān /
+siṃhāsanasthānnṛpatīnapaśyadyūpānprayastāniva haimavedīn // ragh(k)_6.1 //
+
+ratergṛhītānunayena kāmaṃ pratyarpitasvāṅgamiveśvareṇa /
+kākutsthamālokayatāṃ nṛpāṇāṃ mano babhūvendumatīnirāśam // ragh(k)_6.2 //
+
+vaidarbhanirdiṣṭamatho kumāraḥ klṝúptena sopānapathena mañcam /
+śilāvibhaṅgairmṛgarājaśāvastuṅgaṃ nagotsaṅgamivāruroha // ragh(k)_6.3 //
+
+parārdhyavarṇāstaraṇopapannamāsedivānratnavadāsanaṃ saḥ /
+bhūyiṣṭhamāsīdupameyakāntirmayūrapṛṣṭhāśrayiṇā guhena // ragh(k)_6.4 //
+
+tāsu śriyā rājaparamparāsu prabhāviśeṣodayadurnirīkṣyaḥ /
+sahasradhātmā vyarucadvibhaktaḥ payomucāṃ paṅktiṣu vidyuteva // ragh(k)_6.5 //
+
+teṣāṃ mahārhāsanasaṃśrayāṇāmudāttanepathyabhṛtāṃ sa madhye /
+rarāja dhāmnā raghusūnureva kalpadrumāṇāmiva pārijātaḥ // ragh(k)_6.6 //
+
+netravrajāḥ paurajanasya tasminvihāya sarvānnṛpatīnnipetuḥ /
+madotkaṭe recitapuṣpavṛkṣā gandhadvipe vanya iva dvirephāḥ // ragh(k)_6.7 //
+
+atha stute vandibhiranvayajñaiḥ somārkavaṃśye naradevaloke /
+sañcārite cāgurusārayonau dhūpe śikhāvāsitaketumāle // ragh(k)_6.8 //
+
+puropakaṇṭhopavanāśrayāṇāṃ śikhaṇḍināmuddhatanṛttahetau /
+pradhmātaśaṅkhe parito digantāṃstūryasvane mūrchati maṅgalārthe // ragh(k)_6.9 //
+
+manuṣyavāhyaṃ caturantayānamāsthāya kanyāparivāraśobhi /
+viveśa mañcāntararājamārgaṃ patiṃvarā kautukamiśraveśā // ragh(k)_6.10 //
+
+tasminvidhānātiśaye vidhātuḥ kanyāmaye netrasahasralakṣye /
+nipeturantaḥkaraṇairnarendrā dehaiḥ sthitāḥ kevalamāsaneṣu // ragh(k)_6.11 //
+
+tāṃ pratyabhivyaktamanorathānāṃ mahīpatīnāṃ praṇayāgradūtyaḥ /
+pravātaśobhā iva pādapānāṃ śṛṅgāraceṣṭā vividhā babhūvuḥ // ragh(k)_6.12 //
+
+kaścitkarābhyāmupagūḍhanālamālolapattrābhihatadvirepham /
+rajobhirantaḥpariveśaśobhi līlāravindaṃ bhramayāñcakāra // ragh(k)_6.13 //
+
+visrastamaṃsādaparo vilāsī keyūrakoṭikṣaṇajātasaṅgam /
+prāvāramutkṣipya yathāpradeśaṃ nināya sācīkṛtacāruvaktraḥ // ragh(k)_6.14 //
+
+ākuñcitāgrāṅgulinā tato 'nyaḥ kiñcitsamāvarjitanetraśobhaḥ /
+ratnāṃśusampṛktanakhaprabheṇa pādena haimaṃ vililekha pīṭham // ragh(k)_6.15 //
+
+niveśya vāmaṃ bhujamāsanānte gāḍhāṅgadaṃ pārśvanipīḍanena /
+kaścidvivṛttatrikabhinnahāraḥ suhṛtsamābhāṣaṇatatparo 'bhūt // ragh(k)_6.16 //
+
+vilāsinīvibhramadantapatramāpāṇḍuraṃ ketakabarhamanyaḥ /
+priyānitambocitasannipātairvipāṭayāmāsa yuvā nakhāgraiḥ // ragh(k)_6.17 //
+
+kuśeśayātāmratalena kaścitkareṇa rekhādhvajalāñchanena /
+dīprāṅgulīyaprabhayānuviddhānudārayāmāsa salīlamakṣān // ragh(k)_6.18 //
+
+kaścidyathābhāgamavasthite 'pi svasanniveśavyatilaṅghinīva /
+vajrāṃśugarbhāṅgulirandhramekaṃ vyāpārayāmāsa karaṃ kirīṭe // ragh(k)_6.19 //
+
+tato nṛpāṇāṃ śrutavṛttavaṃśā puṃvatpragalbhā pratihārarakṣī /
+prāksannikarṣaṃ magadheśvarasya nītvā kumārīmavadatsunandā // ragh(k)_6.20 //
+
+asau śaraṇyaḥ śaraṇotsukānāmagādhasattvo magadhapratiṣṭhaḥ /
+rājā prajārañjanalabdhavarṇaḥ parantapo nāma yathārthanāmā // ragh(k)_6.21 //
+
+kāmaṃ nṛpāḥ santi sahasrasaṅkhyā rājanvatīmāhuranena pṛthvīm /
+nakṣatratārāgrahasaṅkulāpi jyotiṣmatī candramasaiva rātriḥ // ragh(k)_6.22 //
+
+kriyāprabandhādayamadhvarāṇāmajasramāhūtasahasranetraḥ /
+śacyāściraṃ pāṇḍukapolalambānmandāraśūnyānalakāṃścakāra // ragh(k)_6.23 //
+
+anena cedicchasi gṛhyamāṇaṃ pāṇiṃ vareṇyena kuru praveśe /
+prāsādavātāyanasaṃśrayāṇāṃ netrotsavaṃ puṣpapurāṅganānām // ragh(k)_6.24 //
+
+evaṃ tayokte tamavekṣya kiñcidvisraṃsidūrvāṅkamadhūkamālā /
+ṛjupraṇāmakriyayaiva tanvī pratyādideśainamabhāṣamāṇā // ragh(k)_6.25 //
+
+tāṃ sātha vetragrahaṇe niyuktā rājāntaraṃ rājasutāṃ nināya /
+samīraṇottheva taraṅgalekhā padmāntaraṃ mānasarājahaṃsīm // ragh(k)_6.26 //
+
+jagāda caināmayamaṅganāthaḥ surāṅganāprārthitayauvanaśrīḥ /
+vinītabhāgaḥ kila sūtrakārairaindraṃ padaṃ bhūmigato 'pi bhuṅkte // ragh(k)_6.27 //
+
+anena paryāsayatāśrubindūnmuktāphalasthūlatamānstaneṣu /
+pratyarpitāḥ śatruvilāsinīnāmākṣepasūtreṇa vinaiva hārāḥ // ragh(k)_6.28 //
+
+nisargabhinnāspadamekasaṃstham asmindvayaṃ śrīśca sarasvatī ca /
+kāntyā girā sūnṛtayā ca yogyā tvameva kalyāṇi tayostṛtīyā // ragh(k)_6.29 //
+
+athāṅgarājādavatārya cakṣuryāteti janyānavadatkumārī /
+nāsau na kāmyo na ca veda samyag draṣṭuṃ na sā bhinnarucirhi lokaḥ // ragh(k)_6.30 //
+
+tataḥ paraṃ duṣprasahaṃ pareṣāṃ nṛpaṃ niyuktā pratihārabhūmau /
+nidarśayāmāsa viśeṣakāntaminduṃ navotthānamivendumatyāḥ // ragh(k)_6.31 //
+
+avantinātho 'yamudagrabāhurviśālavakṣāstanuvṛttamadhyaḥ /
+āropya cakrabhramamuṣṇatejāstvaṣṭreva yantrollikhito vibhāti // ragh(k)_6.32 //
+
+asya prayāṇeṣu samagraśakteragresarairvājibhiruddhatāni /
+kurvanti sāmantaśikhāmaṇīṇāṃ prabhāprarohāstamayaṃ rajāṃsi // ragh(k)_6.33 //
+
+asau mahākālaniketanasya candrārdhamaulernivasannadūre /
+divāpi jālāntaracandrikāṇāṃ nārīsakhaḥ sparśasukhāni bhuṅkte // ragh(k)_6.34 //
+
+anena yūnā saha pārthivena rambhoru kaccinmanaso ruciste /
+siprātaraṅgānilakampitāsu vihartumudyānaparamparāsu // ragh(k)_6.35 //
+
+tasminnapi dyotanarūpabimbe pratāpasaṃśoṣitaśatrupaṅke /
+babandha sā nottamasaukumāryā kumudvatī bhānumatīva bhāvam // ragh(k)_6.36 //
+
+tāmagratastāmarasāntarābhām anūparājasya guṇairanūnām /
+vidhāya sṛṣṭiṃ lalitāṃ vidhātur jagāda bhūyaḥ sunasāṃ sunandā // ragh(k)_6.37 //
+
+saṅgrāmanirvṛttasahasrabāhuraṣṭādaśadvīpanikhātayūpaḥ /
+ananyasādhāraṇarājaśabdo babhūva yogī kila kārtavīryaḥ // ragh(k)_6.38 //
+
+akāryacintāsamakālameva prādurbhavaṃścāpadharaḥ purastāt /
+antaḥśarīreṣvapi yaḥ prajānāṃ pratyādideśāvinayaṃ vinetā // ragh(k)_6.39 //
+
+jyābandhaniḥspandabhujena yasya viniḥśvasadvaktraparampareṇa /
+kārāgṛhe nirjitavāsavena daśānanenoṣitamā prasādāt // ragh(k)_6.40 //
+
+tasyānvaye bhūpatireṣa jātaḥ pradīpa ityāgamavṛddhasevī /
+yena śriyaḥ saṃśrayadoṣarūḍhaṃ svabhāvaloletyayaśaḥ pramṛṣṭam // ragh(k)_6.41 //
+
+āyodhane kṛṣṇagatiṃ sahāyamavāpya yaḥ kṣatriyakālarātrim /
+dhārāṃ śitāṃ rāmaparaśvadhasya sambhāvayatyutpalapattrasārām // ragh(k)_6.42 //
+
+asyāṅkalakṣmīrbhava dīrghabāhormāhiṣmatīvapranitambakāñcīm /
+prāsādajālairjalaveṇiramyāṃ revāṃ yadi prekṣitumasti kāmaḥ // ragh(k)_6.43 //
+
+tasyāḥ prakāmapriyadarśano 'pi na sa kṣitīśo rucaye babhūva /
+śaratpramṛṣṭāmbudharoparāgaḥ śaśīva paryāptakalo nalinyāḥ // ragh(k)_6.44 //
+
+sā śūrasenādhipatiṃ suṣeṇamuddiśya deśāntaragītakīrtim /
+ācāraśuddhobhayavaṃśadīpaṃ śuddhāntarakṣyā jagade kumārī // ragh(k)_6.45 //
+
+nīpānvayaḥ pārthiva eṣa yajvā guṇairyamāśritya paraspareṇa /
+naisargiko 'pyutsasṛje virodhaḥ siddhāśramaṃ śāntamivaitya sattvaiḥ // ragh(k)_6.46 //
+
+yasyātmadehe nayanābhirāmā kāntirhimāṃśoriva sanniviṣṭā /
+harmyāgrasaṃrūḍhatṛṇāṅkureṣu tejo 'viṣahyaṃ ripumandireṣu // ragh(k)_6.47 //
+
+yasyāvarodhastanacandanānāṃ prakṣālanādvārivihārakāle /
+kalindakanyā mathurāgatāpi gaṅgormisampṛktajaleva bhāti // ragh(k)_6.48 //
+
+trātena tārkṣyātkila kāliyena maṇiṃ visṛṣṭaṃ yamunaukasā yaḥ /
+vakṣaḥsthalavyāpirucaṃ dadhānaḥ sakaustubhaṃ hrepayatīva kṛṣṇam // ragh(k)_6.49 //
+
+sambhāvya bhartāramamuṃ yuvānaṃ mṛdupravālottarapuṣpaśayye /
+vṛndāvane caitrarathādanūne nirviśyatāṃ sundari yauvanaśrīḥ // ragh(k)_6.50 //
+
+adhyāsya cāmbhaḥpṛṣatokṣitāni śaileyanaddhāni śilātalāni /
+kalāpināṃ prāvṛṣi paśya nṛttaṃ kāntāsu govardhanakandarāsu // ragh(k)_6.51 //
+
+nṛpaṃ tamāvartamanojñanābhiḥ sā vyatyagādanyavadhūrbhavitrī /
+mahīdharaṃ mārgavaśādupetaṃ srotovahā sāgaragāminīva // ragh(k)_6.52 //
+
+athāṅgadaśliṣṭabhujaṃ bhujiṣyā hemāṅgadaṃ nāma kaliṅganātham /
+āseduṣī sāditaśatrupakṣaṃ bālāmabālendumukhīṃ babhāṣe // ragh(k)_6.53 //
+
+asau mahendrādrisamānasāraḥ patirmahendrasya mahodadheśca /
+yasya kṣaratsainyagajacchalena yātrāsu yātīva puro mahendraḥ // ragh(k)_6.54 //
+
+jyāghātalekhe subhujo bhujābhyāṃ bibharti yaścāpabhṛtāṃ purogaḥ /
+ripuśriyaḥ sāñjanavāṣpaseke vandīkṛtāyā iva paddhatī dve // ragh(k)_6.55 //
+
+yamātmanaḥ sadmani saudhajālairālokyavelātaṭapūgamālaḥ /
+mandradhvanityājitayāmatūryaḥ prabodhayatyarṇava eva suptam // ragh(k)_6.56 //
+
+anena sārdhaṃ viharāmburāśestīreṣu tālīvanamarmareṣu /
+apākṛtasvedalavā marudbhirdvīpāntarānītalavaṅgapuṣpaiḥ // ragh(k)_6.57 //
+
+prabodhitāpyākṛtilobhanīyā vidarbharājāvarajā tayaivam /
+tasmādapāvartata pauruṣeṇa nīteva lakṣmīḥ pratikūladaivāt // ragh(k)_6.58 //
+
+athonnasaṃ nāgapurasya nāthaṃ dauvārikī devasarūpametya /
+itaścakorākṣi vilokayeti nāgāṅganābhāṃ nijagāda bhojyām // ragh(k)_6.59 //
+
+pāṇḍyo 'yamaṃsārpitalambahāraḥ klṝúptāṅgarāgo haricandanena /
+ābhāti bālātaparaktasānuḥ sanirjharodgāra ivādrirājaḥ // ragh(k)_6.60 //
+
+vindhyasya saṃstambhayitā mahādrerniḥśeṣapītojjhitasindhunāthaḥ /
+prītyāśvamedhāvabhṛthārdramūrteḥ sausnātiko yasya bhavatyagastyaḥ // ragh(k)_6.61 //
+
+astraṃ harādāptavatā durāpaṃ yenendralokāvajayāya dṛptaḥ /
+purā janasthānavimardaśaṅkī sandhāya laṅkādhipatiḥ pratasthe // ragh(k)_6.62 //
+
+anena pāṇau vidhivadgṛhīte mahākulīnena mahīva gurvī /
+ratnānuviddhārṇavamekhalāyā diśaḥ sapatnī bhava dakṣiṇasyāḥ // ragh(k)_6.63 //
+
+tāmbūlavallīpariṇaddhapūgāsvailālatāliṅgitacandanāsu /
+tamālapattrāstaraṇāsu rantuṃ prasīda śaśvanmalayasthalīṣu // ragh(k)_6.64 //
+
+indīvaraśyāmatanurnṛpo 'yaṃ tvaṃ rocanāgauraśarīrayaṣṭiḥ /
+anyonyaśobhāparivṛddhaye vāṃ yogastaḍittoyadayorivāstu // ragh(k)_6.65 //
+
+svasurvidarbhādhipatestadīyo lebhe 'ntaraṃ cetasi nopadeśaḥ /
+divākarādarśanabaddhakośe tārāpateraṃśurivāravinde // ragh(k)_6.66 //
+
+sañcāriṇī dīpaśikheva rātrau yaṃ yaṃ vyatīyāya patiṃvarā sā /
+narendramārgāṭṭa iva prapede vivarṇabhāvaṃ sa sa bhūmipālaḥ // ragh(k)_6.67 //
+
+tasyāṃ raghoḥ sūnurupasthitāyāṃ vṛṇīta māṃ neti samākulo 'bhūt /
+vāmetaraḥ saṃśayamasya bāhuḥ keyūrabandhocchvasitairnunoda // ragh(k)_6.68 //
+
+taṃ prāpya sarvāvayavānavadyaṃ nyavartatānyopagamātkumārī /
+na hi praphultaṃ sahakārametya vṛkṣāntaraṃ kāṅkṣati ṣaṭpadālī // ragh(k)_6.69 //
+
+tasminsamāveśitacittavṛttiminduprabhāmindumatīmavetya /
+pracakrame vaktumanukramajñā suvistaraṃ vākyamidaṃ sunandā // ragh(k)_6.70 //
+
+ikṣvākuvaṃśyaḥ kakudaṃ nṛpāṇāṃ kakutstha ityāhitalakṣaṇo 'bhūt /
+kākutsthaśabdaṃ yata unnatecchāḥ ślāghyaṃ dadhatyuttarakosalendrāḥ // ragh(k)_6.71 //
+
+mahendramāsthāya mahokṣarūpaṃ yaḥ saṃyati prāptapinākilīlaḥ /
+cakāra bāṇairasurāṅganānāṃ gaṇḍasthalīḥ proṣitapattralekhāḥ // ragh(k)_6.72 //
+
+airāvaṇāsphālanaviślathaṃ yaḥ saṅghaṭṭayannaṅgadamaṅgadena /
+upeyuṣaḥ svāmapi mūrtimagryāmardhāsanaṃ gotrabhido 'dhitasthau // ragh(k)_6.73 //
+
+jātaḥ kule tasya kilendukīrteḥ kulapradīpo nṛpatirdilīpaḥ /
+atiṣṭhadekonaśatakratutve śakrābhyasūyāvinivṛttaye yaḥ // ragh(k)_6.74 //
+
+yasminmahīṃ śāsati māninīnāṃ nidrāṃ vihārārdhapathe gatānām /
+vāto 'pi nāsraṃsayadaṃśukāni ko lambayedābharaṇāya hastam // ragh(k)_6.75 //
+
+putro raghustasya padaṃ praśāsti mahākratorviśvajitaḥ prayoktā /
+caturdigāvarjanasambhṛtāṃ yo mṛtpātraśeṣāmakarodvibhūtim // ragh(k)_6.76 //
+
+ārūḍhamadrīnudadhīnpratīrṇaṃ bhujaṅgamānāṃ vasatiṃ praviṣṭam /
+ūrdhvaṃ gataṃ yasya na cānubandhi yaśaḥ paricchettumiyattayālam // ragh(k)_6.77 //
+
+asau kumārastamajo 'nujātastriviṣṭapasyeva patiṃ jayantaḥ /
+gurvīṃ dhuraṃ yo bhuvanasya pitryāṃ dhuryeṇa damyaḥ sadṛśīṃ bibharti // ragh(k)_6.78 //
+
+kulena kāntyā vayasā navena guṇaiśca taistairvinayapradhānaiḥ /
+tvamātmanastulyamimaṃ vṛṇīṣva ratnaṃ samāgacchatu kāñcanena // ragh(k)_6.79 //
+
+tataḥ sunandāvacanāvasāne lajjāṃ mṛdūkṛtya narendrakanyā /
+dṛṣṭyā prasādāmalayā kumāraṃ pratyagrahītsaṃvaraṇasrajeva // ragh(k)_6.80 //
+
+sā yūni tasminnabhilāṣabandhaṃ śaśāka śālīnatayā na vaktum /
+romāñcalakṣyeṇa sa gātrayaṣṭiṃ bhittvā nirākrāmadarālakeśyāḥ // ragh(k)_6.81 //
+
+tathāgatāyāṃ parihāsapūrvaṃ sakhyāṃ sakhī vetradharā babhāṣe /
+ārye vrajāmo 'nyata ityathaināṃ vadhūrasūyākuṭilaṃ dadarśa // ragh(k)_6.82 //
+
+sā cūrṇagauraṃ raghunandanasya dhātrīkarābhyāṃ karabhopamorūḥ /
+āsañjayāmāsa yathāpradeśaṃ kaṇṭhe guṇaṃ mūrtamivānurāgam // ragh(k)_6.83 //
+
+tayā srajā maṅgalapuṣpamayyā viśālavakṣaḥsthalalambayā saḥ /
+amaṃsta kaṇṭhārpitabāhupāśāṃ vidarbharājāvarajāṃ vareṇyaḥ // ragh(k)_6.84 //
+
+śaśinamupagateyaṃ kaumudī meghamuktaṃ jalanidhimanurūpaṃ jahnukanyāvatīrṇā /
+iti samaguṇayogaprītayastatra paurāḥ śravaṇakaṭu nṛpāṇāmekavākyaṃ vivavruḥ // ragh(k)_6.85 //
+
+pramuditavarapakṣamekatastatkṣitipatimaṇḍalamanyato vitānam /
+uṣasi sara iva praphultapadmaṃ kumudavanapratipannanidramāsīt // ragh(k)_6.86 //
+
+|| iti raghuvaṃśe mahākāvye ṣaṣṭhaḥ sargaḥ ||

@@ -1,0 +1,733 @@
+Nāgārjuna: Ratnāvalī
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-ratnAvalI.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - P.L. Vaidya: Madhyamaka shastra,.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Ratnāvalī = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsa025_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Nagarjuna: Ratnavali (1-2.46, and 4; Sanskrit text of 2.47-95 and 3 lost!)
+Based on the ed. by P.L. Vaidya: Madhyamaka shastra,
+Darbhanga : Mithila Institute, 1961, pp. 296-310.
+(Buddhist Sanskrit Texts, 10)
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sastra section, text no. 25
+REFERENCE SYSTEM (added):
+NRa_n.n = Ratnavali
+Vaidya nn = pagination of P.L. Vaidya's edition
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+ratnāvalī / (nra)
+
+/ namo ratnatrayāya //
+
+sarvadoṣavinirmuktaṃ guṇaiḥ sarvairalaṃkṛtam /
+praṇamya sarvajñamahaṃ sarvasattvaikabāndhavam // nra_1.1 //
+
+dharmamekāntakalyāṇaṃ rāja[n dha]rmodayāya te /
+vakṣyāmi dharmaḥ siddhiṃ hi yāti saddharmabhājane // nra_1.2 //
+
+prāgdharmābhyudayo yatra paścānaiḥśreyasodayaḥ /
+saṃprāpyābhyudayaṃ yasmādeti naiḥśreyasaṃ kramāt // nra_1.3 //
+
+sukhamabhyudaya[statra mokṣo]naiḥśreyaso mataḥ /
+asya sādhanasaṃkṣepaḥ śraddhāprajñe samāsataḥ // nra_1.4 //
+
+śrāddhatvābhdajate dharmaṃ prājñatvādvetti tattvataḥ /
+prajñā pradhānaṃ tvanayoḥ śraddhā pūrvaṃgamāsya tu // nra_1.5 //
+
+chandād dveṣābhdayānmohādyo dharmaṃ nātivartate /
+sa śrāddha iti vijñeyaḥ śreyaso bhājanaṃ param // nra_1.6 //
+
+kāyavāṅmānasaṃ karma sarvaṃ samyakparīkṣya yaḥ /
+parātmahitamājñāya sadā kuryātsa paṇḍitaḥ // nra_1.7 //
+
+ahiṃsā cauryaviratiḥ paradāravivarjanam /
+mithyāpaiśunyapāruṣyābaddhavādeṣu saṃyamaḥ // nra_1.8 //
+
+lobhavyāpādanāstikyadṛṣṭīnāṃ parivarjanam /
+ete karmapathāḥ śuklā daśa kṛṣṇā viparyayāt // nra_1.9 //
+
+amadyapānaṃ svājīvo 'vihiṃsā dānamādarāt /
+pūjyapūjā ca maitrī ca dharmaścaiṣa samāsataḥ // nra_1.10 //
+
+śarīratāpanāddharmaḥ kevalā(nnāsti tena hi) /
+na paradrohaviratirna paresāmanugrahaḥ // nra_1.11 //
+
+dānaśīlakṣamāspaṣṭaṃ yaḥ saddharmamahāpatham /
+anādṛtya vrajet kāyakleśago daṇḍakotpathaiḥ // nra_1.12 //
+
+sa saṃsārāṭavīṃ ghorāmanantajanapādapām /
+kleśavyālāvalīḍhāṅgaḥ sudīrghaṃ pratipadyate // nra_1.13 //
+
+hiṃsayā jāyate 'lpāyuḥ bahavābādho vihiṃsayā /
+cauryeṇa bhogavyasanī saśa(truḥ) pāradārikaḥ // nra_1.14 //
+
+pratyākhyānaṃ mṛṣāvādāt paiśunyānmitrabhedanam /
+apriyaśravaṇaṃ raukṣyādabāddhā(dapārthā?)ddurbhagaṃ vacaḥ // nra_1.15 //
+
+manorathān hantyamidhyā vyāpādo bhayadaḥ smṛtaḥ /
+mithyādṛṣṭiḥ kudṛṣṭitvaṃ madyapānaṃ matibhramaḥ // nra_1.16 //
+
+apradānena dāridyaṃ mithyājīvena vañcanā /
+stambhena duṣkulīnatvamalpaujaskatvamīrṣyayā // nra_1.17 //
+
+krodhāddurvarṇatā maurkhyamapraśnena vipaścitām /
+phalametanmanuṣyatve sarvebhyaḥ prāk ca durgatiḥ // nra_1.18 //
+
+eṣāmakuśalākhyānāṃ vipāko yaḥ prakīrtitaḥ /
+kuśalānāṃ ca sarveṣāṃ viparītaḥ phalodayaḥ // nra_1.19 //
+
+lobho dveṣaśca mohaśca tajjaṃ karmeti cāśubham /
+alobhāmohādveṣāśca tajjaṃ karmetaracchubham // nra_1.20 //
+
+abhubhātsarvaduḥkhāni sarvadurgatayastathā /
+śubhātsugatayaḥ sarvāḥ sarvajanmasukhāni ca // nra_1.21 //
+
+nivṛttiraśubhātkṛtsnātpravṛttistu śubhe sadā /
+manasā karmaṇā vācā dharmo 'yaṃ dvividhaḥ smṛtaḥ // nra_1.22 //
+
+narakapretatiryagbhyo dharmādasmādvimucyate /
+nṛṣu deveṣu cāpnoti sukhaśrirājyavistarān // nra_1.23 //
+
+dhyānāpramāṇārūpyaistu brahmādyasukhamaśnute /
+ityabhyudayadharmo 'yaṃ phalaṃ cāsya samāsataḥ // nra_1.24 //
+
+naiḥśreyasaḥ punardharmaḥ sūkṣmo gambhīradarśanaḥ /
+bālānāṃ[aśrotravatām] uktastrāsakaro jinaiḥ // nra_1.25 //
+
+nāsmyahaṃ na bhaviṣyāmi na me 'sti na bhaviṣyati /
+iti bālasya saṃtrāsaḥ paṇḍitasya bhayakṣayaḥ // nra_1.26 //
+
+ahaṃkaraprasūteyaṃ mamakāropasaṃhitā /
+prajā prajāhitaikāntavādinābhihitākhilā // nra_1.27 //
+
+astyahaṃ mama cāstīti mithyaitatparamārthibhiḥ /
+yathābhūtaparijñānānna bhavatyubhayaṃ yataḥ // nra_1.28 //
+
+ahaṃkārodbhavāḥ skandhāḥ so 'haṃkāro 'nṛto 'rthataḥ /
+bījaṃ yasyānṛtaṃ tasya prarohaḥ satyataḥ kutaḥ // nra_1.29 //
+
+skandhānasatyān dṛṣṭvaivamahaṃkāraḥ prahīyate /
+ahaṃkāraprahāṇācca na punaḥ skandhasaṃbhavaḥ // nra_1.30 //
+
+yathādarśamupādāya(svamukhapratibimbakam /
+dṛśya) te nāma taccaivaṃ na kiṃcidapi tattvataḥ // nra_1.31 //
+
+ahaṃkārastathā skandhānupādāyopalabhyate /
+na ca kaścitsa tattvena svamukhapratibimbavat // nra_1.32 //
+
+yathādarśamanādāya svamukhapratibimbakam /
+na dṛśyate tathā skandhānanādāyāhamityapi // nra_1.33 //
+
+evaṃvidhārthaśravaṇāddharmacakṣuravāptavān /
+āryānandaḥ svayaṃ caiva bhikṣubhyo 'bhīkṣṇamuktavān // nra_1.34 //
+
+skandhagrāho yāvadasti tāvadevāhamityapi /
+ahaṃkāre sati punaḥ karma janma tataḥ punaḥ // nra_1.35 //
+
+trivartmaitadanādyantamadhyaṃ saṃsāramaṇḍalam /
+alātamaṇḍalaprakhyaṃ bhramatyanyonyahetukam // nra_1.36 //
+
+svaparobhayatastasya traikālyato 'pyaprāptitaḥ /
+ahaṃkāraḥ kṣayaṃ yāti tataḥ karma ca janma ca // nra_1.37 //
+
+evaṃ hetuphalotpādaṃ paśyaṃstatkṣayameva ca /
+nāstitāmastitāṃ caiva naiti lokasya tattvataḥ // nra_1.38 //
+
+sarvaduḥkhakṣayaṃ dhama śrutvaivamaparīkṣakaḥ /
+saṃkampatyaparijñānādabhayasthānakātaraḥ // nra_1.39 //
+
+na bhaviṣyati nirvāṇe sarvametanna te bhayam /
+ucyamāna ihābhāvastasya te kiṃ bhayaṃkaraḥ // nra_1.40 //
+
+mokṣe nātmā na ca skandhā mokṣaścedīdṛśaḥ priyaḥ /
+ātmaskandhāpanayanaṃ kimihaiva tavāpriyam // nra_1.41 //
+
+na cābhāvo 'pi nirvānaṃ kuta eva tasya[vāsya] bhāvatā /
+bhāvābhāvaparāmarśakṣayo nirvāṇamucyate // nra_1.42 //
+
+samāsānnāstitādṛṣṭiḥ phalaṃ nāstīti karmaṇaḥ /
+apuṇyāpāyīkī caiṣā mithyādṛṣṭiriti smṛtā // nra_1.43 //
+
+samāsādastitādṛṣṭiḥ phalaṃ cāstīti karmaṇām /
+puṇyā sugatiniṣyandā samyagdṛṣṭiriti smṛtā // nra_1.44 //
+
+jñāne nāstyastitāśānteḥ pāpapuṇyavyatikramaḥ /
+durgateḥ sugateścāsmāt sa mokṣaḥ sabhdirucyate // nra_1.45 //
+
+sahetumudayaṃ paśyan nāstitāmativartate /
+astitāmapi nopaiti nirodhaṃ saha hetunā // nra_1.46 //
+
+prāgjātaḥ sahajātaśca heturahetuko 'rthataḥ /
+prajñapterapratītatvādutpatteścaiva tattvataḥ // nra_1.47 //
+
+asmin satīdaṃ bhavati dīrghe hrasvaṃ yathā sati /
+[tasyotpādādudetīdaṃ dīpotpādādyathā] prabhā // nra_1.48 //
+
+hrasve 'sati punardīrghaṃ na bhavati svabhāvataḥ /
+pradīpasyāpyanutpādātprabhāyā apyasaṃbhavaḥ // nra_1.49 //
+
+evaṃ hetuphalotpādaṃ dṛṣṭvā nopaiti nāstikyam(nāstitām) /
+abhyupetyāsya lokasya yāthābhūtyaṃ prapañcajam // nra_1.50 //
+
+nirodhaṃ ca prapañcotthaṃ yāthābhūtyādupāgataḥ /
+nopayātyastitāṃ tasmānmucyate 'dvayaniścitaḥ // nra_1.51 //
+
+dūrādālokitaṃ rūpamāsannairdṛśyate sphuṭam /
+marīciryadi vāri syādāsannaiḥ kiṃ na dṛśyate // nra_1.52 //
+
+dūrībhūtairyathābhūto loko 'yaṃ dṛśayate tathā /
+na dṛśyate tadāsannairanimitto marīcivat // nra_1.53 //
+
+[marīcistoyasadṛśī yathā nāmbu na] cārthataḥ /
+skandhāstathātmasadṛśā nātmāno nāpi te 'rthataḥ // nra_1.54 //
+
+marīcīṃ toyamityetaditi matvāgato 'tra san /
+yadi nāstīti tattoyaṃ [gṛṇhīyānmūḍha eva saḥ // nra_1.55 //
+
+marīcipratimaṃ lokamevamastīti gṛṇhataḥ /
+nāstīti cāpi moho 'yaṃ sati mohe na mucyate // nra_1.56 //
+
+nāstiko durgatiṃ yātiṃ sugatiṃ yati cāstikaḥ /
+yathābhūtaparijñānānmokṣamadvayaniśritaḥ // nra_1.57 //
+
+anicchan nāstitāstitve yathābhūtaparijñayā /
+nāstitāṃ labhate mohāt kasmānna labhate 'stitām // nra_1.58 //
+
+syādastidūṣaṇādasya nāstitākṣipyate 'rthataḥ /
+nāstitādūṣaṇādeva kasmānnākṣipyate 'stitā // nra_1.59 //
+
+na pratijñā na caritaṃ na cittaṃ bodhiniśrayāt /
+nāstikatve 'rthato yeṣāṃ kathaṃ te nāstikāḥ smṛtāḥ // nra_1.60 //
+
+sasāṃkhyaulūkyanirgranthapugdalaskandhavādinam /
+pṛccha lokaṃ yadi vadatyastināstivyatikramam // nra_1.61 //
+
+dharmayautakamityasmānnāstyastitvavyatikramam /
+viddhi gambhīramityuktaṃ buddhānāṃ śāsanāmṛtam // nra_1.62 //
+
+vibhavaṃ naiti nāyāti na tiṣṭhatyapi ca kṣaṇam /
+traikālyavyativṛttātmā loka eva kuto 'rthataḥ // nra_1.63 //
+
+dvayorapyāgatigatī prasthitiśca na tattvataḥ /
+lokaniryāṇayostasmādviśeṣaḥ ka ivārthataḥ // nra_1.64 //
+
+sthiterabhāvādudayo nirodhaśca na tattvataḥ /
+uditaśca sthitaśceti niruddhaśca kuto 'rthataḥ // nra_1.65 //
+
+kathamakṣaṇiko bhāvaḥ pariṇāmaḥ sadā yadi /
+nāsti cetpariṇāmaḥ syādanyathātvaṃ kuto 'rthataḥ // nra_1.66 //
+
+ekadeśe kṣayādvā syāt kṣaṇikaṃ sarvaśo 'pi vā /
+vaiṣamyānupalabdheśca dvidhāpyetadayuktimat // nra_1.67 //
+
+kṣaṇike sarvathā bhāve kutaḥ kācitpurāṇatā /
+sthairyādakṣaṇike cāpi kutaḥ kācitpurāṇatā // nra_1.68 //
+
+yathānto 'sti kṣaṇasyaivamādirmadhyaṃ ca kalpyatām /
+tryātmakatvāt kṣaṇasyaivaṃ na lokasya kṣaṇaṃ sthitiḥ // nra_1.69 //
+
+ādimadhyāvasānāni[cintyāni kṣaṇavatpunaḥ /
+ādimadhyā] vasānatvaṃ na svataḥ parato 'pi vā // nra_1.70 //
+
+naiko 'nekapradeśatvānnāpradeśaśca kaścan /
+vinaikamapi nāneko nāstitvamapi cāstitām // nra_1.71 //
+
+vināśāt pratipakṣādvā syādastitvasya nāstitā /
+vināśaḥ pratipakṣo vā kathaṃ syādastyasaṃbhavāt // nra_1.72 //
+
+nirvṛtestena lokasya nopaityūnatvamarthataḥ /
+antavāniti lokaśca pṛṣṭastūṣṇīṃ jino 'bhavat // nra_1.73 //
+
+sarvajña iti sarvajño budhaistenaiva gamyate /
+yenaitaddharmagāmbhīryaṃ novācābhajane loke // nra_1.74 //
+
+iti naiḥśreyaso dharmo gambhīro niṣparigrahaḥ /
+anālaya iti proktaḥ saṃbuddhaistatvadarśibhiḥ // nra_1.75 //
+
+asmādanālayāddharmādāyalayābhiratā janāḥ /
+astināstyavyatikrāntā bhītā naśyantyamedhasaḥ // nra_1.76 //
+
+te naṣṭā nāśayantyanyānabhayasthānabhīravaḥ /
+tathā kuru yathā rājān naṣṭairna vipraṇāśyase // nra_1.77 //
+
+2
+kadalī pāṭitā yadvanniḥśeṣāvayavaiḥ saha /
+na kiṃcitpuruṣastadvatpāṭitaḥ saha dhātubhiḥ // nra_2.1 //
+
+sarvadharmā anātmāna ityato bhāṣitaṃ jinaiḥ /
+dhātuṣaṭkaṃ ca taiḥ sarvaṃ nirṇitaṃ tacca nārthataḥ // nra_2.2 //
+
+naivamātmā na cānātmā yāthābhūtyena labhyate /
+ātmānātmakṛte dṛṣṭī vavārāsmānmahāmuniḥ // nra_2.3 //
+
+dṛṣṭaśrutādyaṃ muninā na satyaṃ na mṛṣoditam /
+pakṣāddhi pratipakṣaḥ syādubhayaṃ tacca nārthataḥ // nra_2.4 //
+
+iti satyānṛtātīto loko 'yaṃ paramārthataḥ /
+asmādeva ca tattvena nopaityasti ca nāsti ca // nra_2.5 //
+
+yaccaivaṃ sarvathā neti sarvajñastatkathaṃ vadet /
+sāntamityathavānantaṃ dvayaṃ vādvayameva vā // nra_2.6 //
+
+asaṃkhyeyā gatā buddhāstathaiṣyantyatha sāṃpratāḥ /
+koṭyagraśaśca sattvāntastebhyastraikālyajo mataḥ // nra_2.7 //
+
+vṛddhiheturna lokasya kṣayastrikālyasaṃbhavaḥ /
+sarvajñena kathaṃ tasya pūrvānto 'vyākṛtaḥ kṛtaḥ // nra_2.8 //
+
+etattu dharmagāmbhīya yattadguhyaṃ pṛthagjane /
+māyopamatvaṃ lokasya buddhānāṃ śāsanāmṛtam // nra_2.9 //
+
+māyāgajasya dṛśyeta yathā janmānta eva ca /
+na ca kaścitsa tattvena janmāntaścaiva vidyate // nra_2.10 //
+
+māyopamasya lokasya tathā janmānta eva ca /
+dṛśyate paramārthena na ca janmānta eva ca // nra_2.11 //
+
+yathā māyāgajo naiti kutaścidyāti na kvacit /
+cittamohanamātratvādbhāvatvena na tiṣṭhati // nra_2.12 //
+
+tathā māyopamo loko naiti yāti na kutracit /
+cittamohanamātratvābhdāvatvena na tiṣṭhati // nra_2.13 //
+
+trakālyavyativṛttātmā loka evaṃ nu ko 'rthataḥ /
+yo 'sti nāstyathavāpi syādanyatra vyavahārataḥ // nra_2.14 //
+
+catuṣprakāramityasmāt śānto 'nanto dvayo 'dvayaḥ /
+buddhena hetornānyasmādayamavyākṛtaḥ kṛtaḥ // nra_2.15 //
+
+śarīrāśucitā tāvat sthūlā pratyakṣagocarā /
+satataṃ dṛśyamānāpi yadā citta na tiṣṭhati // nra_2.16 //
+
+tadātisūkṣmo gambhīraḥ saddharmo 'yamanālayaḥ /
+apratyakṣaḥ kathaṃ citte sukhenāvatariṣyati // nra_2.17 //
+
+saṃbudhyāsmānnivṛtto 'bhūddharmaṃ deśayituṃ muniḥ /
+durjñānamatigāmbhīryād jñātvā dharmamimaṃ janaiḥ // nra_2.18 //
+
+vināśayati durjñāto dharmo 'yamavipaścitam /
+nāstitādṛṣṭisamale yasmādasminnimajjati // nra_2.19 //
+
+aparo 'pyasya durjñānānmūrkhaḥ paṇḍitamānikaḥ /
+pratikṣepavinaṣṭātmā yātyavīcimadhomukhaḥ // nra_2.20 //
+
+durbhuktena yathānnena vināśamadhigacchati /
+subhuktenāyurārogyaṃ balaṃ saukhyāni cāśnute // nra_2.21 //
+
+durjñātena tathānena vināśamadhigacchati /
+samyagjñātenātra suikhaṃ bodhiṃ cāpnotyanuttarām // nra_2.22 //
+
+tasmādatra pratikṣepaṃ dṛṣṭiṃ tyaktvā ca nāstikīm /
+samyagjñānaparaṃ yatnaṃ kuru sarvārthasiddhaye // nra_2.23 //
+
+dharmasyāsyāparijñānādahaṃkāro 'nuvartate /
+tataḥ śubhāśubhaṃ karma tato janma śubhāśubham // nra_2.24 //
+
+tasmādyāvadavijñāto dharmo 'haṃkāraśātanaḥ /
+dānaśīlakṣamādharme tāvadādaravān bhava // nra_2.25 //
+
+dharmapūrvāṇi kāryāṇi dharmamadhyāni pārthiva /
+sādhayan dharmaniṣṭhāni neha nāmutra sīdati // nra_2.26 //
+
+dharmātkīrtiḥ sukhaṃ caiva neha bhīrna mumūrṣataḥ /
+paralokasukhaṃ sphītaṃ tasmāddharma sadā bhaja // nra_2.27 //
+
+dharma eva parā nītirdharmālloko 'nurajyate /
+rañjitena hi lokena neha nāmutra vañcyate // nra_2.28 //
+
+adharmeṇa tu yā nītistayā loko 'parajyate /
+lokoparañjanāccaiva neha nāmutra nandati // nra_2.29 //
+
+parātisaṃdhānaparā kaṣṭā durgatipaddhatiḥ /
+anarthavidyā duṣprajñairarthavidyā kathaṃ kṛtā // nra_2.30 //
+
+parātisaṃdhānaparo nītimān kathamarthataḥ /
+yena janmasahasrāṇi bahūnyātmaiva vañcyate // nra_2.31 //
+
+riporapriyamanvicchan doṣāṃstyaktvā guṇān śraya /
+svahitāvāptirevam tu ripoścāpyapriyaṃ bhavet // nra_2.32 //
+
+dānena priyavadyena hitenaikārthacaryayā /
+ebhirācara lokasya dharmasyaiva ca saṃgraham // nra_2.33 //
+
+viśvāsaṃ janayatyekaṃ satyaṃ rājñāṃ yathā dṛḍham /
+tathaivābhūtamapyeṣāmaviśvāsakaraṃ param // nra_2.34 //
+
+nāvisaṃvādavatsatyaṃ [sattve] udgatamarthataḥ /
+paraikāntahitaṃ satyamahitatvānmṛṣetarat // nra_2.35 //
+
+doṣān pracchādayatyekastyāgo rājñāṃ yathojjvalaḥ /
+tathā kārpaṇyamapyeṣāṃ guṇasarvasvaghātakam // nra_2.36 //
+
+upaśāntasya gāmbhīryaṃ gāmbhīryādgauravaṃ param /
+gauravāddīptirājñā ca tasmādupaśamaṃ bhaja // nra_2.37 //
+
+ahāryabuddhiḥ prājñatvādaparapratyayaḥ sthiraḥ /
+nātisaṃdhīyate rājā tasmātprajñāparo bhava // nra_2.38 //
+
+satyatyāgaśamaprajño caturbhadro narādhipaḥ /
+dharmaścaturbhadra iva stūyate devamānuṣaiḥ // nra_2.39 //
+
+nigṛhyavādibhiḥ suddhaiḥ prajñākāruṇyanirmalaiḥ /
+sahāsīnasya satataṃ prajñā dharmaśca vardhate // nra_2.40 //
+
+durlabhāḥ pathyavaktāraḥ śrotārastvatidurlabhāḥ /
+tebhyo 'tidurlabhatamā ye pathyasyāśukāriṇaḥ // nra_2.41 //
+
+pathyamapyapriyaṃ tasmājñātvā śīghraṃ samācara /
+pibedauṣadhamapyugramārogyāyātmavāniva // nra_2.42 //
+
+jīvitārogyarājyānāṃ cintayānityatāṃ sadā /
+tataḥ saṃvegavān dharmamekāntena prayāsyase // nra_2.43 //
+
+avaśyaṃ maraṇaṃ paśyan pāpadduḥkhaṃ mṛtasya ca /
+ehikena sukhenāpi na pāpaṃ kṣātumarhasi // nra_2.44 //
+
+kasmiṃścedabhyaṃ dṛṣṭaṃ bhayaṃ dṛṣṭaṃ kvacitkṣaṇe /
+yadyekasmin samāśvāsaḥ kimekasminna te bhayam // nra_2.45 //
+
+madyātparibhavo loke kāryahānirdhanakṣayaḥ /
+ākāryakaraṇaṃ mohāt[madyaṃ tyaja tataḥ sadā] // nra_2.46 //
+
+...
+
+(sanskrit text of 2.47-95 and 3 lost!)
+
+4
+adharmamanvāyyamapi prāyo rājānujīvibhiḥ /
+ācaran stūyate tasmāt kṛcchrādvetti kṣamākṣamam // nra_4.1 //
+
+anyo 'pi tāvadyaḥ kaściddurvacaḥ kṣamamapriyam /
+kimu rājā mahābhaumastvaṃ mayā bhikṣuṇā satā // nra_4.2 //
+
+tvatkṛtādeva tu snehājjagatāmanukampayā /
+ahameko vadāmi tvāṃ pathyamapyapriyaṃ bhṛśam // nra_4.3 //
+
+satyaṃ ślakṣṇārthavatpathyaṃ śiṣyaḥ kāle 'nukampayā /
+vācya ityāha bhagavāṃstadevamabhidhīyase // nra_4.4 //
+
+akrodhe satyavākye ca ślādhyamāno yadi sthitaḥ /
+śravyaṃ saṃparigṛṇhīyāt sattoyaṃ snāpyamānavat // nra_4.5 //
+
+tasya me vadato vākyaṃ tvamihāmutra ca kṣamam /
+jñātvā kuru hitāyedamātmano jagato 'pi ca // nra_4.6 //
+
+yācakebhyaḥ purā dānāt prāpyārthāṃścenna dāsyasi /
+akṛtajñatvalobhābhyāṃ nārthān punaravāpsyasi // nra_4.7 //
+
+iha pathyadanaṃ loke na vahatyabhṛto bhṛtaḥ /
+yācakastvabhṛto 'mutra hīnaḥ śataguṇodvahaḥ // nra_4.8 //
+
+udāracittaḥ satataṃ bhavodārakriyārataḥ /
+udārakarmaṇaḥ sarvamudāraṃ jāyate phalam // nra_4.9 //
+
+manorathairapi klībairanālīḍhaṃ narādhipaiḥ /
+kuru dharmāspadaṃ śrīmatkhyātaṃ ratnatrayāspadam // nra_4.10 //
+
+sāmantarājaromāñcakaraṃ dharmāspadaṃ na yat /
+mṛtasyāpyapraśasyatvād rājaṃstadakṛtaṃ varam // nra_4.11 //
+
+atyaudāryādudārāṇāṃ vismayotsāhavardhanam /
+utsāhanghaṃ ca mandānāṃ sarvasvenāpi kāraya // nra_4.12 //
+
+utsṛjyāmutra gantavyaṃ sarvasvamavaśena te /
+dharme niyuktaṃ yātyeva purastātsarvameva tat // nra_4.13 //
+
+sarvasvaṃ pūrvanṛpaternṛpasya vaśamāgatam /
+kiṃ pūrvakasya dharmāya sukhāya yaśase 'pi vā // nra_4.14 //
+
+bhuktādarthādiha sukhaṃ dattātpāratrikaṃ sukham /
+abhuktādattanaṣṭatvādduḥkhameva kutaḥ sukham // nra_4.15 //
+
+vinaśyan sacivairdātumasvātantryānna śakyasi /
+āpaticchedaniḥsnehairnavarājapriyaiṣibhiḥ // nra_4.16 //
+
+sarvasvenāpyataḥ svasthaḥ śīghraṃ dharmāspadaṃ kuru /
+mṛtyupratyayamadhyasthaḥ pravātasthapradīpavat // nra_4.17 //
+
+dharmādhikārā ye cānye pūrvarājapravarvitāḥ /
+devadroṇyādayaste 'pi pravartyantāṃ yathāsthitāḥ // nra_4.18 //
+
+ahiṃsakaiḥ śubhācārairvratasthairatithipriyaiḥ /
+sarvakṣamairakalahairbhajyeraṃstaiḥ sado(dya)taiḥ // nra_4.19 //
+
+andhavyādhitahīnāṅgadīnānāthavanīpakāḥ /
+te 'pyannapānaṃ sāmyena labherannavighaṭṭitāḥ // nra_4.20 //
+
+anarthānāmapi satāṃ dhārmikāṇāmanugrahān /
+apyanyarājyasaṃsthānāmanurūpān pravartaya // nra_4.21 //
+
+sarvadharmādhikāreṣu dharmādhikṛtamutthitam /
+alubdhaṃ paṇḍitaṃ dharmyaṃ kuru tesāmabādhakam // nra_4.22 //
+
+nītijñān dhārmikān snigdhān śucīn bhaktānakātarān /
+kulīnān śīlasaṃpannān kṛtajñān sacivān kuru // nra_4.23 //
+
+akṣudrāṃstyāginaḥ śūrān snigdhān saṃbhoginaḥ sthirān /
+kuru nityāpramattāṃśca dhārmikān daṇḍanāyakān // nra_4.24 //
+
+dharmaśīlān śūcīn dakṣān kāryajñān śāstrakovidān /
+kṛtavṛttīn samān snigdhān vṛddhānadhikṛtān kuru // nra_4.25 //
+
+pratimāsaṃ ca tebhyastvaṃ sarvamāyavyayaṃ śṛṇu /
+śrutvā dharmādhikārādyaṃ kāryaṃ sarvaṃ svayaṃ vada // nra_4.26 //
+
+dharmārthaṃ yadi te rājyaṃ na kīrtyarthaṃ na kāmataḥ /
+tataḥ saphalamatyarthamanarthārthamato 'nyathā // nra_4.27 //
+
+parasparāmiṣībhūte loko 'smin prāyaśo nṛpa /
+yathā rājyaṃ ca dharmaśca bhavettava tathā śṛṇu // nra_4.28 //
+
+jñānavṛddhāḥ kule jātā nyāyajñāḥ pāpabhīravaḥ /
+sametā bahavo nityaṃ santu te kāryadarśinaḥ // nra_4.29 //
+
+daṇḍabandhaprahāradīn kuryuste nyāyato 'pi cet /
+kāruṇyārdraḥ sadā bhūtvā tvamanugrahavān bhava // nra_4.30 //
+
+hitāyaiva tvayā cittamunnāmyaṃ sarvadehinām /
+kāruṇyātsatataṃ rājaṃstīvrapāpakṛtāmapi // nra_4.31 //
+
+tīvrapāpeṣu hiṃsreṣu kṛpā kāryā viśeṣataḥ /
+ta eva hi kṛpāsthānaṃ hatātmāno mahātmanām // nra_4.32 //
+
+pratyahaṃ pañcarātraṃ vā baddhān kṣīṇān vimocaya /
+śeṣānapi yathāyogaṃ mā kāṃścit naiva mocaya // nra_4.33 //
+
+yeṣvamokṣaṇacittaṃ te jāyate teṣvasaṃvaraḥ /
+tasmādasaṃvarāt pāpamajasramupacīyate // nra_4.34 //
+
+yāvacca na vimucyeraṃstāvatsyuḥ sukhabandhanāḥ /
+nāpitasnānapānānnabhaiṣajyavasanānvitāḥ // nra_4.35 //
+
+apātreṣviva putreṣu pātrīkaraṇakāṅkṣayā /
+kāruṇyā[ttāḍanaṃ kāryaṃ na dveṣān]nārthalipsayā // nra_4.36 //
+
+vimṛśya samyagvijñāya praduṣṭān ghātakānapi /
+ahatvā pīḍayitvā ca kuru nirviṣayān narān // nra_4.37 //
+
+svatantraḥ paśya sarvaṃ ca viṣayaṃ cāracakṣuṣā /
+nityāpramattaḥ smṛtimān kuru kāryaṃ ca dhārmikam // nra_4.38 //
+
+pradānamānasatkārairguṇasthān satataṃ bhaja /
+udārairanurūpaistu śeṣānapi yathāvidhi // nra_4.39 //
+
+saṃmānasphītakusumaḥ saṃpradānamahāphalaḥ /
+rājavṛkṣaḥ kṣamācchāyaḥ sevyate bhṛtyapakṣibhiḥ // nra_4.40 //
+
+tyāgaśīlamayo rājā tejasvī bhavati priyaḥ /
+śarkarāmodako yadvadelāmaricakarkaśaḥ // nra_4.41 //
+
+mātsyanyāyaśca te naivaṃ nyāyādrājyaṃ bhaviṣyati /
+na cānyāyo na vādharmo dharmaścaivaṃ bhaviṣyati // nra_4.42 //
+
+paralokāttvayā rājyaṃ nānītaṃ nāpi neṣyasi /
+dharmāt prāptamato 'syārthe nādharmaṃ kartumarhasi // nra_4.43 //
+
+rājyena bhāṇḍamūlyena duḥkhabhāṇḍaparaṃparām /
+rājan yathā nārjayasi prayatnaḥ kriyatāṃ tathā // nra_4.44 //
+
+rājyena bhāṇḍamūlyena rājyabhāṇḍaparaṃparām /
+rājan yathā nirviśasi prayatnaḥ kriyatāṃ tathā // nra_4.45 //
+
+caturdvīpamapi prāpya pṛthivīṃ cakravartinaḥ /
+śārīraṃ mānasaṃ caiva sukhadvayamidaṃ matam // nra_4.46 //
+
+duḥkhapratikriyāmātraṃ śārīraṃ vedanāsukham /
+saṃjñāmayaṃ mānasaṃ tu kevalaṃ kalpanākṛtam // nra_4.47 //
+
+duḥkhapratikriyāmātraṃ kalpanāmātrameva ca /
+lokasya sukhasarvasvaṃ vyarthametadato 'rthataḥ // nra_4.48 //
+
+dvīpadeśapurāvāsapradeśasthānavāsasām /
+śayyānnapānahastyaśvastrīṇāṃ caikaikabhogyatā // nra_4.49 //
+
+yadā ca yatra cittaṃ syāt tadānena sukhaṃ kila /
+śeṣāṇāmamanaskārātteṣāṃ vyarthatvamarthataḥ // nra_4.50 //
+
+viṣayān pañcabhiḥ pañca cakṣurādibhirindriyaiḥ /
+na kalpayati cedgaṇhan nāsmātteṣu tadā sukham // nra_4.51 //
+
+jānīte viṣayaṃ yaṃ yaṃ yena yenendriyeṇa ca /
+tadā na śeṣaiḥ śeṣāṇi vyarthānyeva yatastadā // nra_4.52 //
+
+indriyairupalabdhasya viṣayasyākṛtiṃ manaḥ /
+upalabhya vyatītasya kalpayan manyate sukham // nra_4.53 //
+
+ekamarthaṃ vijānāti yadyapyekamihendriyam /
+tadapyarthaṃ vinā vyarthaṃ vyartho 'rtho 'pi ca tadvinā // nra_4.54 //
+
+pratītya mātāpitarau yathoktaḥ putrasaṃbhavaḥ /
+cakṣūrūpe pratītyaivamukto vijñānasaṃbhavaḥ // nra_4.55 //
+
+atītānāgatā vyarthā viṣayāḥ sārdhamindriyaiḥ /
+tadudvayānatiriktatvād vyarthā ye 'pi ca sāṃpratāḥ // nra_4.56 //
+
+alātacakraṃ gṛṇhāti yathā cakṣurviparyayāt /
+tathendriyāṇi gṛṇhanti viṣayān sāṃpratāniva // nra_4.57 //
+
+indriyāṇindriyāerthāśca pañcabhūtamayā matāḥ /
+pratisvaṃ bhūtavaiyarthyādeṣāṃ vyarthatvamarthataḥ // nra_4.58 //
+
+nirindhano 'gnirbhūtānāṃ vinirbhāge prasajyate /
+saṃparke lakṣaṇābhāvaḥ śeṣeṣvapyeṣa nirṇayaḥ // nra_4.59 //
+
+evaṃ dvidhāpi bhūtānāṃ vyarthatvātsaṃgatirvṛthā /
+vyarthatvātsaṃgateścaivaṃ rūpaṃ vyarthamato 'rthataḥ // nra_4.60 //
+
+vijñānavedanāsaṃjñāsaṃskārāṇāṃ ca sarvaśaḥ /
+pratyekamātmavaiyarthyadvaiyarthyaṃ paramārthataḥ // nra_4.61 //
+
+sukhābhimāno duḥkhasya pratīkāre yathārthataḥ /
+tathā sukhābhimāno 'pi sukhasya pratighātajaḥ // nra_4.62 //
+
+sukhe saṃyogatṛṣṇaivaṃ naiḥsvābhāvyātprahīyate /
+duḥkhe viyogatṛṣṇā ca paśyatāṃ muktirityataḥ // nra_4.63 //
+
+kaḥ paśyatīti ceccittaṃ vyahāreṇa kathyate /
+na hi caittaṃ vinā cittaṃ vyarthatvānna saheṣyate // nra_4.64 //
+
+vyarthamevaṃ jaganmatvā yāthābhūtyānnirāspadaḥ /
+nirvāti nirupādāno nirupādānavanhivat // nra_4.65 //
+
+bodhisattvo 'pi dṛṣṭaivaṃ saṃbodhau niyato mataḥ /
+kevalaṃ tasya kāruṇyādā bodherbhavasaṃtatiḥ // nra_4.66 //
+
+bodhisattvasya saṃbhāro mahāyāne tathāgataiḥ /
+nirdiṣṭaḥ sa tu saṃmūḍhaiḥ pradviṣṭaścaiva nindyate // nra_4.67 //
+
+guṇadoṣānabhijño vā doṣasaṃjñī guṇeṣu vā /
+athavāpi guṇadveṣī mahāyānasya nindakaḥ // nra_4.68 //
+
+paropaghātino doṣān parānugrāhiṇo guṇān /
+jñātvocyate guṇadveṣī mahāyānasya nindakaḥ // nra_4.69 //
+
+yatsvārthanirapekṣatvāt parārthaikarasapriyam /
+guṇākaraṃ mahāyānaṃ taddviṣī tena dahyate // nra_4.70 //
+
+śrāddho 'pi durgṛhītena dviṣyāt kruddho 'thavetaraḥ /
+śrāddho 'pi dagdha ityuktaḥ kā cintā dveṣābandhure // nra_4.71 //
+
+viṣeṇāpi viṣaṃ hanyādyathaivoktaṃ cikitsakaiḥ /
+duḥkhenāpyahitaṃ hanyādityukte kiṃ virudhyate // nra_4.72 //
+
+manaḥpūrvaṃgamā dharmā manaḥśreṣṭhā iti śruteḥ /
+hitaṃ hitamanāḥ kurvan duḥkhenāpyahitaṃ katham // nra_4.73 //
+
+duḥkhamapyāyatīpathyaṃ kāryaṃ kimu sukhaṃ hitam /
+ātmanaśca pareṣāṃ ca dharma eṣā sanātanaḥ // nra_4.74 //
+
+mātrāsukhaparityāgāt paścāccedvipulaṃ sukham /
+tyajenmātrāsukhaṃ dhīraḥ saṃpaśyan vipulaṃ sukham // nra_4.75 //
+
+na mṛśyate ca yadyetat kaṭubhaiṣajyadāyinaḥ /
+tataścikitsakādyāśca hatā naivaṃ ca yujyate // nra_4.76 //
+
+apathyamapi yaddṛṣṭaṃ tatpathyaṃ paṇḍitaiḥ kvacit /
+utsargaścāpavādaśca sarvaśāstreṣu śasyate // nra_4.77 //
+
+karuṇāpūrvakāḥ sarve niṣyandā jñānanirmalāḥ /
+uktā yatra mahāyāne kastannindetsacetanaḥ // nra_4.78 //
+
+atyaudāryātigāmbhīryādviṣaṇṇairakṛtātmabhiḥ /
+nindyate 'dya mahāyānaṃ mohāt svaparavairibhiḥ // nra_4.79 //
+
+dānaśīlakṣamāvīryadhyānaprajñākṛpātmakam /
+mahāyānamatastasmin kasmāddurbhāṣitaṃ vacaḥ // nra_4.80 //
+
+parārtho dānaśīlābhyāṃ kṣāntyā vīryeṇa cātmanaḥ /
+dhyānaṃ prajñā ca mokṣāya mahāyānārthasaṃgrahaḥ // nra_4.81 //
+
+parā[tmahita]mokṣārthāḥ saṃkṣepādbuddhaśāsanam /
+te ṣaṭpāramitāgarbhāstasmād bauddhamidaṃ vacaḥ // nra_4.82 //
+
+puṇyajñānamayo yatra buddhairbodhermahāpathaḥ /
+deśitastanmahāyānamajñānādvai na dṛśyate // nra_4.83 //
+
+khamivācintyaguṇatvādukto 'cintyaguṇo jinaḥ /
+mahāyāne yato buddhamāhātmyaṃ kṣamyatāmidam // nra_4.84 //
+
+āryaśāradvatasyāpi śīlamātre 'pyagocaraḥ /
+yasmāt tadbuddhamāhātmyamacintyaṃ kiṃ na mṛṣyate // nra_4.85 //
+
+anutpādo mahāyāne paresāṃ śūnyatā kṣayaḥ /
+kṣayānutpādayośrcaikyamarthataḥ kṣamyatāṃ yataḥ // nra_4.86 //
+
+śūnyatā buddhamāhātmyamevaṃ yuktyānupaśyatām /
+mahāyānetaroktāni na sameyuḥ kathaṃ satām // nra_4.87 //
+
+tathāgatābhisaṃdhyoktānyasukhaṃ jñātumityataḥ /
+ekayānatriyānoktādātmā rakṣya upekṣayā // nra_4.88 //
+
+upekṣayā hi nāpuṇyaṃ dvesātpāpaṃ kutaḥ śubham /
+mahāyāne yato dveṣo nātmakāmaiḥ kṛto 'rhati // nra_4.89 //
+
+na bodhisattvapraṇidhirna caryāpariṇāmanā /
+uktāḥ śrāvakayāne 'smādbodhisattvaḥ kutastataḥ // nra_4.90 //
+
+adhiṣṭhānāni noktāni bodhisattvasya bodhaye /
+buddhairanyatpramāṇaṃ ca ko 'sminnarthe jinādhikaḥ // nra_4.91 //
+
+adhiṣṭhānāryasatyārthabodhipakṣopasaṃhitāt /
+mārgācchāvakasāmānyādbauddhaṃ kenādhikaṃ phalam // nra_4.92 //
+
+bodhicaryāpratiṣṭhārtha na sūtre bhāṣitaṃ vacaḥ /
+bhāṣitaṃ ca mahāyāne grāhyamasmādvicakṣaṇaiḥ // nra_4.93 //
+
+yathaiva vaiyākaraṇo mātṛkāmapi pāṭhayet /
+buddho 'vadattathā dharmaṃ vineyānāṃ yathākṣamam // nra_4.94 //
+
+keṣāṃcidavadaddharmaṃ pāpebhyo vinivṛttaye /
+keṣāṃcitpuṇyasiddhayarthaṃ keṣāṃcidū dvayaniśritam // nra_4.95 //
+
+dvayāniśritamekeṣāṃ gambhīraṃ bhīrubhīṣaṇam /
+śūnyatākaruṇāgarbhamekeṣāṃ bodhisādhanam // nra_4.96 //
+
+iti sadbhirmahāyāne kartavyaḥ pratighakṣayaḥ /
+prasādaścādhikaḥ kāryaḥ samyaksaṃbodhisiddhaye // nra_4.97 //
+
+mahāyānaprasādena taduktācaraṇena ca /
+prāpyate 'nuttarā bodhiḥ sarvasaukhyāni cāntarā // nra_4.98 //
+
+dānaṃ śīlaṃ kṣamā satyaṃ gṛhasthasya viśeṣataḥ /
+dharma uktaḥ kṛpāgarbhaḥ sa sātmīkriyatāṃ dṛḍham // nra_4.99 //
+
+atha lokasya vaidharmyādrājyaṃ dharmeṇa duṣkaram /
+tato dharmayaśorthaṃ te pravrajyādhigamaḥ kṣamaḥ // nra_4.100 //
+
+ratnāvalyāṃ rājavṛttopadeśo nāma caturthaḥ paricchedaḥ //

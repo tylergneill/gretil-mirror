@@ -1,0 +1,89 @@
+Kālidāsa: Śyāmalādaṇḍaka
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kAlidAsa-zyAmalAdaNDaka.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Dhaval Patel
+## Contribution: Dhaval Patel
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Pdt. Durgaprasad and Kasinath Pandurang Parab, Kavyamala [old, cumulative series], vol. 1, 1886 (3rd ed., 1929), pp. 8-11.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Śyāmalādaṇḍaka = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from ksyadndu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Kalidasa: Syamaladandaka
+Based on the ed. by Pdt. Durgaprasad and Kasinath Pandurang Parab,
+Kavyamala [old, cumulative series], vol. 1, 1886 (3rd ed., 1929), pp. 8-11.
+Input by Dhaval Patel
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+mahākaviśrīkālidāsakṛtaṃ śyāmalādaṇḍakam /
+
+māṇikyavīṇāmupalāpayantīṃ madālasāṃ mañjulavāgvilāsām /
+māhendranīlopalakomalāṅgīṃ mātaṅgakanyāṃ satataṃ smarāmi //
+
+jaya mātaṅgatanaye jaya nīlotpaladyute /
+jaya saṃgītarasike jaya līlāśukapriye //
+
+jaya janani sudhāsamudrāntarudyanmaṇidvīpasaṃrūḍhabilvāṭavīmadhyakalpadrumākalpakādambakāntāravāsapriye kṛttivāsaḥpriye sarvalokapriye / sādarārabdhasaṃgītasaṃbhāvanāsaṃbhramālolanīpasragābaddhacūlīsanāthatrike sānumatputrike / śekharībhūtapītāṃśurekhāmayūkhāvalībaddhasusnigdhanīlālakaśreṇiśṛṅgārite lokasaṃbhāvite / kāmalīlādhanuḥsaṃnibhabhrūlatāpuṣpasaṃdohasaṃdehakṛllocane vāksudhāsecane / cārugorocanāpaṅkakelīlalāmābhirāme surāme rame / prollasadbālikāmauktikaśreṇikācandrikāmaṇḍalodbhāsilāvaṇyagaṇḍasthalanyastakastūrikāpattrarekhāsamudbhūtasaurabhyasaṃbhrāntabhṛṅgāṅganāgītasāndrībhavanmandratantrīsvare susvare bhāsvare / vallakīvādanaprakriyālolatālīdalābaddhatāṭaṅkabhūṣāviśeṣānvite siddhasaṃmānite / 
+divyahālāmadodvelahelālasaccakṣurāndolanaśrīsamākṣiptakarṇaikanīlotpale pūritāśeṣalokābhivāñchāphale śrīphale /
+svedabindūllasadbhālalāvaṇyaniṣyandasaṃdohasaṃdehakṛnnāsikāmauktike sarvaviśvātmike kālike /
+mugdhamandasmitodāravaktrasphuratpūgatāmbūlakarpūrakhaṇḍotkare jñānamudrākare sarvasaṃpatkare padmabhāsvatkare /
+kundapuṣpadyutisnigdhadantāvalīnirmalālokasaṃmelanasmeraśoṇādhare cāruvīṇādhare pakvabimbādhare // 1 //
+
+
+sulalitanavayauvanārambhacandrodayodvelalāvaṇyadugdhārṇavāvirbhavatkambubibbokabhṛtkaṃdhare satkalāmandire manthare / divyaratnaprabhābandhuracchannahārādibhūṣāsamuddyotamānānavadyāṃśuśobhe śubhe / ratnakeyūraraśmicchaṭāpallavaprollasaddorlatārājite yogibhiḥ pūjite / viśvadiṅmaṇḍalavyāpimāṇikyatejaḥsphuratkaṅkaṇālaṃkṛte vibhramālaṃkṛte sādhakaiḥ satkṛte / vāsarārambhavelāsamujjṛmbhamānāravindapratidvandvipāṇidvaye saṃtatodyaddaye advaye / divyaratnormikādīdhitistomasaṃdhyāyamānāṅgulīpallavodyannakhenduprabhāmaṇḍale saṃnatākhaṇḍale citprabhāmaṇḍale prollasatkuṇḍale / tārakārājinīkāśahārāvalismeracārustanābhogabhārānamanmadhyavallībalicchedavīcīsamullāsasaṃdarśitākārasaundaryaratnākare vallakībhṛtkare kiṃkaraśrīkare / 
+hemakumbhopamottuṅgavakṣojabhārāvanamre trilokāvanamre /
+lasadvṛttagambhīranābhīsarastīraśaivālaśaṅkākaraśyāmaromāvalībhūṣaṇe mañjusaṃbhāṣaṇe /
+cāruśiñjatkaṭīsūtranirbhartsitānaṅgalīlādhanuḥśiñjinīḍambare divyaratnāmbare /
+padmarāgollasanmekhalābhāsvaraśroṇiśobhājitasvarṇabhūbhṛttale candrikāśītale // 2 //
+
+
+vikasitanavakiṃśukātāmradivyāṃśukacchannacārūruśobhāparābhūtasindūraśoṇāyamānendramātaṅgahastārgale vaibhavānargale śyāmale /
+komalasnigdhanīlopalotpāditānaṅgatūṇīraśaṅkākarodārajaṅghālate cārulīlāgate /
+namradikpālasīmantinīkuntalasnigdhanīlaprabhāpuñjasaṃjātadūrvāṅkurāśaṅkasāraṅgasaṃyogariṅkhannakhendūjjvale projjvale nirmale /
+prahvadeveśalakṣmīśabhūteśatoyeśavāṇīśakīnāśadaityeśayakṣeśavāyvagnikoṭīramāṇikyasaṃghṛṣṭabālātapoddāmalākṣārasāruṇyatāruṇyalakṣmīgṛhītāṅghripadme supadme ume // 3 //
+
+suruciranavaratnapīṭhasthite susthite / ratnapadmāsane ratnasiṃhāsane śaṅkhapadmadvayopāśrite / tatra vighneśadurgābaṭukṣetrapālairyute / mattamātaṅgakanyāsamūhānvite mañjulāmenakādyaṅganāmānite bhairavairaṣṭabhirveṣṭite / devi vāmādibhiḥ śaktibhiḥ sevite / dhātrilakṣmyādiśaktyaṣṭakaiḥ saṃyute / mātṛkāmaṇḍalairmaṇḍite / yakṣagandharvasiddhāṅganāmaṇḍalairarcite / pañcabāṇātmike / pañcabāṇena ratyā na saṃbhāvite / prītibhājā vasantena cānandite / bhaktibhājaṃ paraṃ śreyase kalpase / yogināṃ mānase dyotase / 
+chandasāmojasā bhrājase /
+gītavidyāvinodātitṛṣṇena kṛṣṇena saṃpūjyase /
+bhaktimaccetasā vedhasā stūyase /
+viśvahṛdyena vādyena vidyādharairgīyase // 4 //
+
+
+śravaṇaharaṇadakṣiṇakvāṇayā vīṇayā kiṃnarairgīyase / yakṣagandharvasiddhaṅganāmaṇḍalairarcyase / sarvasaubhāgyavāñchāvatībhirvadhūbhiḥ surāṇāṃ samārādhyase / sarvavidyāviśeṣātmakaṃ cāṭugāthāsamuccāraṇaṃ kaṇṭhamūlollasadvarṇarājitrayaṃ komalaśyāmalodārapakṣadvayaṃ tuṇḍaśobhātidūrībhavatkiṃśukaṃ taṃ śukaṃ lālayantī parikrīḍase / pāṇipadmadvayenākṣamālāmapi sphāṭikīṃ jñānasārātmakaṃ pustakaṃ cāṅkuśaṃ pāśamābibhratī yena saṃcintyase tasya vaktrāntarādgadyapadyātmikā bhāratī niḥsaret / yena vā yāvakābhākṛtirbhāvyase tasya vaśyā bhavanti striyaḥ pūruṣāḥ / 
+yena vā śātakumbhadyutirbhāvyase so 'pi lakṣmīsahasraiḥ parikrīḍate /
+kiṃ na siddhyedvapuḥ śyāmalaṃ komalaṃ candracūḍānvitaṃ tāvakaṃ dhyāyataḥ /
+tasya līlāsaro vāridhistasya kelīvanaṃ candanaṃ tasya bhadrāsanaṃ bhūtalaṃ tasya gīrdevatā kiṃkarī tasya cājñākarī śrīḥ svayam /
+sarvatīrthātmike sarvamantrātmike sarvatantrātmike sarvayantrātmike sarvaśaktyātmike sarvapīṭhātmike sarvatattvātmike sarvavidyātmike sarvayogātmike sarvanādātmike sarvaśabdātmike sarvaviśvātmike sarvadīkṣātmike sarvasarvātmike sarvage pāhi māṃ pāhi māṃ pāhi māṃ devi tubhyaṃ namo devi tubhyaṃ namo devi tubhyaṃ namaḥ // 5 //
+
+
+mātā marakataśyāmā mātaṅgī madaśālinī /
+kaṭākṣayatu kalyāṇī kadambavanavāsinī //
+
+iti mahākaviśrīkālidāsakṛtaṃ śyāmalādaṇḍakaṃ samāptam /

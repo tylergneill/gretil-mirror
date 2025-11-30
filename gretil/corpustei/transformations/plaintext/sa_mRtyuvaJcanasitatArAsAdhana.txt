@@ -1,0 +1,93 @@
+Mṛtyuvañcanasitatārāsādhana
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mRtyuvaJcanasitatArAsAdhana.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Johannes Schneider
+## Contribution: Johannes Schneider
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Johannes Schneider: Vāgīśvarakīrtis Mṛtyuvañcanopadeśa, eine buddhistische Lehrschrift zur Abwehr des Todes. Wien : Verlag der Österreichischen Akademie der Wissenschaften 2010. (Beiträge zur Kultur- und Geistesgeschichte Asiens ; 66) (Denkschriften der philosophisch-historischen Klasse ; 394) ISBN 978-3-7001-6722-8, p. 228.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Mṛtyuvañcanasitatārāsādhana = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from mrtvstsu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   	 Mrtyuvancanasitatarasadhana (Mvsts) / SM 103Based on the ed. by Johannes Schneider: Vāgīśvarakīrtis Mṛtyuvañcanopadeśa, eine buddhistische Lehrschrift zur Abwehr des Todes.
+Wien : Verlag der Österreichischen Akademie der Wissenschaften 2010.
+(Beiträge zur Kultur- und Geistesgeschichte Asiens ; 66) (Denkschriften der philosophisch-historischen Klasse ; 394)
+ISBN 978-3-7001-6722-8
+p. 228
+Input by Johannes Schneider
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+mṛtyuvañcanasitatārāsādhana
+
+mṛtyudoṣair aliptaḥ syāt tārāhṛccakrabhāvakaḥ /
+lābhī ca sarvasiddhīnāṃ ṣaṇmāsāvadhi tatparaḥ // mvsts_1 //
+
+vāgīśvarakṛtādeśān mṛtyuvañcanasaṃgrahāt /
+uddhṛtā sitatārāyā bhāvanā bhayanāśinī // mvsts_2 //
+
+turyavargādyasākāratviṣā visphuritāmbare /
+sitābjendvāsanāṃ dṛṣṭvā puras triśaraṇaṃ paṭhet // mvsts_3 //
+
+muhūrtaṃ śūnyatāṃ paśyet prākṛtāropahānaye /
+tataḥ praṇidhisāmarthyād bodhicittākṣaraṃ bhavet // mvsts_4 //
+
+sitāravindamadhyasthacandrabimbāsanopari /
+ābaddhavajraparyaṅkāṃ varadotpaladhāriṇīm // mvsts_5 //
+
+śaraccandrakarākārāṃ pṛṣṭhacandrasamāśritām /
+sarvālaṅkārasaṃpūrṇāṃ ṣoḍaśābdavapuṣmatīm // mvsts_6 //
+
+sarvasaṃbuddhatatputramātaraṃ kāmarūpadhām /
+dhyātvāryatārāṃ hṛdaye tasyāś cakraṃ sitadyuti // mvsts_7 //
+
+aṣṭakoṣṭhakam aṣṭābhir akṣaraiḥ paripūritam /
+oṃhāvyañjanamadhyasthasādhyanāmādyanābhikam // mvsts_8 //
+
+dhyāyād ekāgracittaḥ san ṣaṇ māsān dṛḍhaniścayaḥ /
+japed akhinnacittaḥ san mantram enaṃ daśākṣaram // mvsts_9 //
+
+oṅkāram ādito dattvā paścāt tāre prayojayet /
+tuttāre syāt ture paścāt svāhāntaḥ sārvakarmikaḥ // mvsts_10 //
+
+brahmendraviṣṇucandrārkarudradikpālamanmathaiḥ /
+apy akhaṇḍitaromāgro mṛtyuṃ jayati muktavat // mvsts_11 //
+
+valīpalitadaurbhāgyavyādhidāridryasaṃkṣayaḥ /
+siṃhādyaṣṭamahābhītiduḥkhasaṃdohanāśanam // mvsts_12 //
+
+ayācitāmbarapānaharmyaratnādisaṃgamaḥ /
+khaḍgāñjanapādalepabhadrakumbhādisiddhayaḥ // mvsts_13 //
+
+kavitā vaktṛtā medhā prajñā caikāntanirmalā /
+anyā ca vāñchitā siddhiś cakrād asmāt prajāyate // mvsts_14 //
+
+sādhanaṃ sitatārāyā mṛtyuvyādhivināśanam /
+uddhṛtya yac chubhaṃ tena jagat tārā svayaṃ bhavet // mvsts_15 //
+
+// mṛtyuvañcanasitatārāsādhanam //

@@ -1,0 +1,96 @@
+Mṛtyuvañcanopadeśatārāsādhana
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mRtyuvaJcanopadezatArAsAdhana.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Johannes Schneider
+## Contribution: Johannes Schneider
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Johannes Schneider: Vāgīśvarakīrtis Mṛtyuvañcanopadeśa, eine buddhistische Lehrschrift zur Abwehr des Todes. Wien : Verlag der Österreichischen Akademie der Wissenschaften 2010. (Beiträge zur Kultur- und Geistesgeschichte Asiens ; 66) (Denkschriften der philosophisch-historischen Klasse ; 394) ISBN 978-3-7001-6722-8, p. 235.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Mṛtyuvañcanopadeśatārāsādhana = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from mrtvutsu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   	 Mrtyuvancanopadesatarasadhana (Mvupts) / SM 112Based on the ed. by Johannes Schneider: Vāgīśvarakīrtis Mṛtyuvañcanopadeśa, eine buddhistische Lehrschrift zur Abwehr des Todes.
+Wien : Verlag der Österreichischen Akademie der Wissenschaften 2010.
+(Beiträge zur Kultur- und Geistesgeschichte Asiens ; 66) (Denkschriften der philosophisch-historischen Klasse ; 394)
+ISBN 978-3-7001-6722-8
+p. 235
+Input by Johannes Schneider
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+mṛtyuvañcanopadeśatārāsādhana
+
+utthāya pūrvasaṃdhyāyāṃ bhūpradeśe manohare /
+mṛdvāsanopaviṣṭaḥ san svahṛdi candramaṇḍale // mvupts_1 //
+
+pañcamasya prathamaṃ tu dvitīyasvarayojitam /
+ardhendubindusaṃyuktaṃ sitaraśmivibhūṣitam // mvupts_2 //
+
+tasya śuklamayūkhais tu tārām ākṛṣya vyomani /
+dvibhujāṃ sitadehāṃ tu varadotpaladhāriṇīm // mvupts_3 //
+
+pañcopacārapūjābhiḥ pūjayitvā tu bhaktitaḥ /
+pāpānāṃ deśanāṃ paścāt tataḥ puṇyānumodanam // mvupts_4 //
+
+tatpariṇāmanāṃ caiva triśaraṇagamanaṃ tathā /
+oṃ śūnyatājñānavajrasvabhāvātmako 'ham iti paṭhet // mvupts_5 //
+
+iti svaparaśūnyaṃ vai dhyātvā yogī vidhānavit /
+sitāravindamadhyasthacandrabimbāsanopari // mvupts_6 //
+
+pūrvoktabījaniṣpannāṃ tārādevīṃ manoramām /
+ābaddhavajraparyaṅkāṃ varadotpaladhāriṇīm // mvupts_7 //
+
+śaraccandrakarākārāṃ pṛṣṭhacandrasamāśritām /
+sarvālaṅkārasampūrṇāṃ ṣoḍaśābdavapuṣmatīm // mvupts_8 //
+
+sarvasaṃbuddhatatputramātaraṃ kāmarūpadhām /
+dhyātvāryatārāṃ hṛdaye tasyāś cakraṃ sitadyuti // mvupts_9 //
+
+aṣṭakoṣṭhakam aṣṭābhir akṣaraiḥ paripūritam /
+oṃhāvyañjanamadhyasthasādhyanāmādyanābhikam // mvupts_10 //
+
+dhyāyād ekāgracittaḥ san ṣaṇ māsān dṛḍhaniścayaḥ /
+japed akhinnacittaḥ san mantram enaṃ daśākṣaram // mvupts_11 //
+
+oṅkāram ādito dattvā paścāt tāre prayojayet /
+tuttāre syāt ture paścāt svāhāntaṃ sārvakarmikaḥ // mvupts_12 //
+
+brahmendraviṣṇucandrārkarudradikpālamanmathaiḥ /
+apy akhaṇḍitaromāgro mṛtyuṃ jayati muktavat // mvupts_13 //
+
+valīpalitadaurbhāgyavyādhidāridryasaṃkṣayaḥ /
+siṃhādyaṣṭamahābhītiduḥkhasaṃdohanāśanam // mvupts_14 //
+
+ayācitānnapānādiharmyavastrādisaṃgamaḥ /
+khaḍgāñjanapādalepabhadrakumbhādisiddhayaḥ // mvupts_15 //
+
+kavitā vaktṛtā medhā prajñā caikāntanirmalā /
+anyā ca vāñchitā siddhiś cakrād asmāt prajāyate // mvupts_16 //
+
+// mṛtyuvañcanopadeśatārāsādhanaṃ samāptam //

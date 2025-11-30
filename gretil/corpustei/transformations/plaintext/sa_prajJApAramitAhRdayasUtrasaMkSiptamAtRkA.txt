@@ -1,0 +1,74 @@
+Prajñāpāramitāhṛdayasūtra, saṃkṣiptamātṛkā
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_prajJApAramitAhRdayasUtrasaMkSiptamAtRkA.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - P.L. Vaidya in: Mahayana-sutra-samgrahah, Part 1. Darbhanga: The Mithila Institute 1961 (Buddhist Sanskrit Texts, 17).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Prajñāpāramitāhṛdayasūtra, saṃkṣiptamātṛkā = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsu054_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Prajnaparamitahrdayasutra [samksiptamatrka]
+Based on the ed. by P.L. Vaidya in: Mahayana-sutra-samgrahah, Part 1.
+Darbhanga: The Mithila Institute 1961 (Buddhist Sanskrit Texts, 17)
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sutra section, text no. 54.
+The transliteration emulates the conventions of Nagari script.
+Therefore, many word boundaries are not marked by blanks.
+REFERENCE SYSTEM:
+(Vaidya n) = pagination of P.L. Vaidya's edition (added by Klaus Wille)
+NOTE: Where a page break occurs within a word, the pagination mark has been
+shifted to the end of the word in order not to interfere with word search.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+prajñāpāramitāhṛdayasūtram | [saṃkṣiptamātṛkā ||]
+
+namaḥ sarvajñāya ||
+
+āryāvalokiteśvarabodhisattvo gambhīrāyāṃ prajñāpāramitāyāṃ caryāṃ caramāṇo vyavalokayati sma | pañca skandhāḥ, tāṃśca svabhāvaśūnyān paśyati sma ||
+
+iha śāriputra rūpaṃ śūnyatā, śūnyataiva rūpam | rūpānna pṛthak śūnyatā, śūnyatāyā na pṛthag rūpam | yadrūpaṃ sā śūnyatā, yā śūnyatā tadrūpam ||
+
+evameva vedanāsaṃjñāsaṃskāravijñānāni ||
+
+ihaṃ śāriputra sarvadharmāḥ śūnyatālakṣaṇā anutpannā aniruddhā amalā na vimalā nonā na paripūrṇāḥ | tasmācchāriputra śūnyatāyāṃ na rūpam, na vedanā, na saṃjñā, na saṃskārāḥ, na vijñānāni | na cakṣuḥśrotraghrāṇajihvākāyamanāṃsi, na rūpaśabdagandharasaspraṣṭavyadharmāḥ | na cakṣurdhāturyāvanna manodhātuḥ ||
+
+na vidyā nāvidyā na vidyākṣayo nāvidyākṣayo yāvanna jarāmaraṇaṃ na jarāmaraṇakṣayo na duḥkhasamudayanirodhamārgā na jñānaṃ na prāptitvam ||
+
+bodhisattvasya(śca?) prajñāpāramitāmāśritya viharati cittāvaraṇaḥ | cittāvaraṇanāstitvādatrasto viparyāsātikrānto niṣṭhanirvāṇaḥ | tryadhvavyavasthitāḥ sarvabuddhāḥ prajñāpāramitāmāśritya anuttarāṃ samyaksaṃbodhimabhisaṃbuddhāḥ ||
+
+tasmājjñātavyaḥ prajñāpāramitāmahāmantro mahāvidyāmantro 'nuttaramantro 'samasamamantraḥ sarvaduḥkhapraśamanaḥ satyamamithyatvāt prajñāpāramitāyāmukto mantraḥ | tadyathā - gate gate pāragate pārasaṃgate bodhi svāhā ||
+
+iti prajñāpāramitāhṛdayasūtraṃ samāptam ||

@@ -1,0 +1,97 @@
+Nāgārjuna: Bodhicittavivaraṇa-fragments
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_nAgArjuna-bodhicittavivaraNa-fragments.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Richard Mahoney
+## Contribution: Richard Mahoney
+## Date of this version: 2020-07-31
+
+## Source: 
+   - .
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Bodhicittavivaraṇa-fragments = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from nagbhc_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Nagarjuna:
+Bodhicittavivarana (fragments)
+Version: 0.1a
+Last updated: Sun May 18 11:11:15 NZST 2003
+Text input by Richard Mahoney: r.mahoney@comnet.net.nz
+Latest Version:
+ http://homepages.comnet.co.nz/~r-mahoney/ratna_text/ratna_text.html
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+...
+
+phenapiṇḍopamaṃ rūpaṃ vedanā budbudopamā |
+marīcisadṛśī saṃjñā saṃskārāḥ kadalīnibhāḥ || nagbhc_12
+
+māyopamaṃ ca vijñānaṃ ... nagbhc_13
+
+...
+
+parivrāṭkāmukaśunām ekasyāṃ pramadātanau |
+kuṇapaḥ kāminī bhakṣya iti tisro vikalpanāḥ || nagbhc_20
+
+...
+
+ātmagrahanivṛttyarthaṃ skandhadhātvādideśenā |
+sāpi dhvastā mahābhāgaiś cittamātravyavasthayā || nagbhc_25
+
+...
+
+cittamātram idaṃ sarvam iti yā deśanā muneḥ |
+uttrāsaparihārārthaṃ bālānāṃ sā na 'tattvataḥ || nagbhc_27
+
+...
+
+na bodhyabodhakākāraṃ cittaṃ dṛṣṭaṃ tathāgataiḥ |
+yatra boddhā ca bodhyaṃ ca tatra bodhir na vidyate || nagbhc_45
+
+alakṣaṇam anutpādam asaṃsthitam avāṅmayam |
+ākāśaṃ bodhicittaṃ ca bodhir advayalakṣaṇā || nagbhc_46
+
+...
+śūnyatāsiṃhanādena trasitāḥ sarvavādinaḥ | nagbhc_52
+...
+
+guḍe madhuratā cāgner uṣṇatvaṃ prakṛtir yathā |
+śūnyatā sarvadharmāṇāṃ tathā prakṛtir iṣyate || nagbhc_57
+
+...
+
+deśanā lokanāthānāṃ sattvāśayavaśānugāḥ |
+bhidyante bahudhā loka upāyair bahubhiḥ punaḥ || nagbhc_98
+
+gambhīrottānabhedena kva cid vobhayalakṣaṇā |
+binnāpi deśanābhinnā śūnyatādvayalakṣanā || nagbhc_99
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+copyright (c) 2003 by chr. lindtner - denmark
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

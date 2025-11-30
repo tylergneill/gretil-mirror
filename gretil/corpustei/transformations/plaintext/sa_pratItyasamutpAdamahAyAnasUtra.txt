@@ -1,0 +1,65 @@
+Pratītyasamutpādamahāyānasūtra
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_pratItyasamutpAdamahAyAnasUtra.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - P.L. Vaidya in: Mahayana-sutra-samgrahah, Part 1. Darbhanga: The Mithila Institute 1961 (Buddhist Sanskrit Texts, 17).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Pratītyasamutpādamahāyānasūtra = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsu026_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Pratityasamutpadamahayanasutra
+Based on the ed. by P.L. Vaidya in: Mahayana-sutra-samgrahah, Part 1.
+Darbhanga: The Mithila Institute 1961 (Buddhist Sanskrit Texts, 17)
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sutra section, text no. 26.
+The transliteration emulates the conventions of Nagari script.
+Therefore, many word boundaries are not marked by blanks.
+REFERENCE SYSTEM:
+(Vaidya n) = pagination of P.L. Vaidya's edition (added by Klaus Wille)
+NOTE: Where a page break occurs within a word, the pagination mark has been
+shifted to the end of the word in order not to interfere with word search.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+āryapratītyasamutpādo nāma mahāyānasūtram |
+evaṃ mayā śrutam | ekasmin samaye bhagavān trāyastriṃśānāṃ devānāṃ madhye viharati sma pāṇḍukambalakalpe śilātale jitāśvādimahāśrāvakaiḥ āryamaitreyāvalokiteśvaravajrahastādibhirbodhisattvairmahāsattvaiḥ aprameyaguṇaratnālaṃkṛtaiḥ mahābrahmasahāṃpatinārāyaṇamaheśvarādibhirdevaiḥ śakreṇa devānāmindreṇa gandharvarājena pañcaśikhena ca sārdham | athāvalokiteśvaro bodhisattvo mahāsattvaḥ utthāyāsanāt ekāṃsamuttarāsaṅgaṃ kṛtvā dakṣiṇaṃ jānuṃ merupṛṣṭhe 'vaṣṭabhya yena bhaganān tenāñjaliṃ praṇamya bhagavantametadavocat - ete hi bhagavan devāḥ caityanamaskriyāmaṇḍanāḥ etatpariṣanmaṇḍalapatitāḥ kathamapi brahmacaryapuṇyaprasavāḥ sadevake samārake sabrahmake loke saśramaṇabrāhmaṇaprajāsu bhikṣavo bhikṣuṇyaḥ upāsakopāsikāḥ subahulapuṇyaprasavāḥ bhagavato dharmadeśanāṃ yācante iti | tadā bhagavāṃsteṣāṃ pratītyasamutpādagāthāmavocat -
+
+ye dharmā hetuprabhavā hetuṃ teṣāṃ tathāgato hyavadat |
+teṣāṃ ca yo nirodha evaṃ vādī mahāśramaṇaḥ ||
+
+yadidamavalokiteśvara ayaṃ pratītyasamutpādastathāgatānāṃ dharmakāyaḥ | yaḥ pratītyasamutpādaṃ paśyati, sa tathāgataṃ paśyati | yaśca avalokiteśvara kulaputraḥ kuladuhitā vā śraddhāsamanvitaḥ apratiṣṭhite pṛthivīpradeśe āmalakamātraṃ caityaṃ sūcīmātraṃ bodhivṛkṣaṃ bakulapuṣpamātraṃ chatraṃ kṛtvā pratītyasamutpādadharmadhātugāthāṃ paṭhati, sa brāhmaṃ puṇyaṃ prasavati | itaḥ pracyāvya maraṇakālaṃ kṛtvā brahmaloke utpadyate | tataḥ pracyāvya kālaṃ kṛtvā śuddhāvāsakāyikānāṃ devānāṃ sabhāgatāyāmutpadyate ||
+
+evamavocadbhagavān | sa rve ca te śrāvakāḥ, te ca bodhisattvā mahāsattvāḥ, sarvāvatī ca sā parṣat, sadevamanuṣyāsuragandharvalokaśca bhagavato bhāṣitamabhyanandan ||
+
+āryapratītyasamutpādo nāma mahāyānasūtram ||

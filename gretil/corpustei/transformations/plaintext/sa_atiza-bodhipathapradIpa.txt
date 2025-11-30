@@ -1,0 +1,263 @@
+Atiśa: Bodhipathapradīpa
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_atiza-bodhipathapradIpa.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Shastri, Losang Norbu: Bodhipathpradipa of Atisha. Sarnath: Central Institute of Higher Tibetan Studies, 1984, 1-70.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Bodhipathapradīpa = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsa004_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Bodhipathapradipa
+Based on the ed. by Shastri, Losang Norbu: Bodhipathpradipa of Atisha.
+Sarnath: Central Institute of Higher Tibetan Studies, 1984, 1-70.
+Restored Sanskrit text
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+namo bodhisattvāya mañjuśriye kumārabhūtāya /
+
+kālatrayākhilajināṃśca tadīyadharmān saṅghān mahādaratayā praṇipatya cāpi /
+bodhiprabheṇa kathito viśadīkaromi śiṣyottamena khalu bodhipathapradipam // bpp_1 //
+
+puruṣāstrividhā jñeyā uttamādhamamadhmāḥ /
+likhyate lakṣaṇaṃ teṣāṃ sphuṭaṃ pratyekabhedataḥ // bpp_2 //
+
+upāyena tu kenāpi kevalaṃ saṃsṛteḥ sukham /
+svasyaivārthe ya īheta jñeyaḥ so puruṣo 'dhamaḥ // bpp_3 //
+
+pāpakarmanivṛttātmā bhavasukhāt parāṅmukhaḥ /
+ātmanirvāṇamātrārthī yo naro madhyamastu saḥ // bpp_4 //
+
+svasantānagatairduḥkhairduḥkhasyānyasya sarvathā /
+sarvasya yaḥ kṣayaṃ kāṅkṣeduttamaḥ puruṣastu saḥ // bpp_5 //
+
+kāṅkṣanto hi varāṃ bodhiṃ sattvānāmuttamāstathā /
+darśitān gurubhistebhyaḥ sadupāyāṃ pracakṣmahe // bpp_6 //
+
+sambuddhacitramūrtyādistūpasaddharmasammukhaḥ /
+puṣpaidhupaiḥ padārthaiśca yathāprāptaiḥ supūjayet // bpp_7 //
+
+samantabhadracaryoktā pūjā saptavidhāpi ca /
+bodhisārasya paryantam avaivartikacittataḥ // bpp_8 //
+
+suśraddhayā triratneyaḥ bhumau saṃsthāpya jānunī /
+bhūtvā kṛtāñjaliścāpi triścādau śaraṇaṃ vrajet // bpp_9 //
+
+tataḥ samastasattveṣu maitrīcitta puraskṛtaḥ /
+durgatitrayājanmādisaṅkrāntimaraṇādibhiḥ // bpp_10 //
+
+dṛṣṭvāśeṣaṃ jagaddukhaṃ duḥkhena dukhitāyāśca /
+duḥkhahetostathā duḥkhāt jagatāṃ muktikāṅkṣayā // bpp_11 //
+
+bodhicittaṃ samutpādyamanāpāyipratijñayā /
+evaṃ praṇidhicittānām utpādetu guṇāśca ye // bpp_12 //
+
+te gaṇḍavyūhasūtreṣu maitreyeṇa prabhāṣitāḥ /
+sūtrasya tasya paṭhanācchravaṇād gurorvā
+sambodhicittaguṇakāni nirantakāni // bpp_13 //
+
+vijñāya tasya khalu saṃsthitārarṇāna /
+cittaṃ tathā samudayeta muhurmuhaśca /
+vīradattaparīpṛcchāsūtre puṇyaṃ pradarśitam // bpp_14 //
+
+yattacślokatrayeṇaiva samāsenātralikhyate /
+bodhicittāddhi yatpuṇyaṃ tacca rupi bhavedyadi // bpp_15 //
+
+ākāśadhātuṃ sampūrya bhuyaścottari tadbhavet /
+gaṅgāvālikasaṅkhyāni buddhakṣetrāṇi yo naraḥ // bpp_16 //
+
+dadyātsadratna pūrṇāni lokanāthebhya eva hi /
+yaścaikaḥ prāñjalirbhūtvā cittaṃ bodhāya nāmayet // bpp_17 //
+
+iyaṃ viśeṣyate pūjā yasyānto 'pi na vidyate /
+utpādyabodhipraṇidhānacittaṃ naikaprayatnaiḥ parivardhitavyam // bpp_18 //
+
+janmāntare 'pi smaraṇārthamasya śikṣā yathoktā paripālanīyā /
+prasthānacitte svayamātiriktaṃ samyagbhavenna praṇidhānavṛddhiḥ // bpp_19 //
+
+sambodhisaṃvāra vivṛddhikāmaḥ tasmād dhruvaṃ cainamavāpnuyāta /
+saptadhāprātimokṣaiśca sadānyasaṃvarānvitaḥ // bpp_20 //
+
+bhāgyaṃ bodhisattvānāṃ saṃvarasya na cānyathā /
+saptadhā prātimokṣeṣu bhāṣiteṣu tathāgataiḥ // bpp_21 //
+
+brahmacaryaśriyaḥ śreṣṭhāḥ bhikṣusaṃvara iṣyate /
+śīlādhyāyoktavidhinā bodhisattvasya bhumiṣu // bpp_22 //
+
+saṃvaraḥ sadgurorgrāhyaḥ samyaglakṣaṇayuktataḥ /
+yaḥ saṃvaravidhau dakṣaḥ svayaṃ ca saṃvare sthitaḥ // bpp_23 //
+
+kṛpāluḥ saṃvare śaktaḥ jñātavyaḥ sadgurustu saḥ /
+tatra yatnena na prāpto guruścaitādṛśo yadi // bpp_24 //
+
+saṃvaragrahaṇasyānyo vidhiḥ tasmāt samuyacte /
+ambararājabhutena pūrvaṃ mañjuśriyā yathā // bpp_25 //
+
+bodhicittaṃ samutpādi suspaṣṭaṃ cātra likhyate /
+mañjuśribuddhakṣetrālaṅkārasūtroktivat tathā // bpp_26 //
+
+utpādayāmi sambodhau cittaṃ nāthasya sammukham /
+nimantraye jagatsarvaṃ dāridyānmocitāsmi tat // bpp_27 //
+
+vyāpādakhilacittaṃ vā īrṣyāmātsaryameva va /
+adhyāgre na kariṣyāmi bodhiṃ prāpsyāmi yāvatā // bpp_28 //
+
+brahmacaryaṃ cariṣyāmi kāmāṃstyakṣyāmi pāpakān /
+buddhānāmānuśikṣiṣye śīlasaṃvara saṃyame // bpp_29 //
+
+nāhaṃ tvaritarupeṇa bodhiṃ prāptumihotsahe /
+parāntakoṭiṃ sthāsyāmi sattvasyaikasya kāraṇāt // bpp_30 //
+
+kṣetraṃ viśodhiṣyāmi aprameyamacintim /
+nāmadheyaṃ kariṣyāmi daśadikṣu ca viśrutam // bpp_31 //
+
+kāyavākkarmaṇī cāhaṃ śodhayiṣyāmi sarvaśaḥ /
+śodhayiṣye manaskarma kartāsmi nāśabham // bpp_32 //
+
+svakāyavākacittaviśuddhihetu, prasthānacittātmayamasthitena /
+triśīlaśikṣāpariśiyeta cet, triśīlaśikṣāsu mahādarasyāt // bpp_33 //
+
+śuddhasambodhisattvānāṃ tasmāt saṃvarasaṃvṛtau /
+yatnāt sambodhisambhāraḥ paripūrṇo bhaviṣyati // bpp_34 //
+
+puṇyajñānasvabhāvasya sambhārasya tu pūrtaye /
+sarvabuddhamatoheturabhijñotpāda eva hi // bpp_35 //
+
+pakṣavṛddhiṃ vinā pakṣī khe noḍaḍetuṃ yathā kṣamaḥ /
+tathābhijñābalairhīnaḥ sattvārthakaraṇe 'kṣamaḥ // bpp_36 //
+
+abhijñasya divārātrau yāni puṇyāni santi vai /
+abhijñāyāśca rāhitye naiva janmaśateṣu ca // bpp_37 //
+
+śīghraṃ sambodhisambhāraṃ sampūrayitumicchati /
+nirālasyena yatnenābhijñāṃ saṃsādhayettu saṃ // bpp_38 //
+
+śamathasiddhayabhāve 'bhijñānaṃ na jāyate /
+ataḥ śamathasiddhayarthaṃ yatitavyaṃ punaḥ punaḥ // bpp_39 //
+
+śamathaṅgaprahīṇatve tadyatnairbhāvite 'pi ca /
+saṃvatsarasahasraiśca samādhirnaiva setsyati // bpp_40 //
+
+ataḥ samādhisambhārādhyāyoktāṅgasamāśritaḥ /
+kasmiṃścit alambane 'pi puṇye saṃsthāpayenmanaḥ // bpp_41 //
+
+yoginaḥ śamathe siddhe 'bhijñānaṃ cāpi setsyati /
+prajñāpāramitāyogaṃ vinā nāvaraṇakṣayaḥ // bpp_42 //
+
+kleśajñeyāvṛtestasmāt prahāṇārthamaśeṣataḥ /
+prajñāpāramitāṃ yogī sopāyaṃ bhāvayet sadā // bpp_43 //
+
+upāyarahitā prajñāpyupāyaḥ prajñayā vinā /
+yato bandha iti proktau praheyaṃ nobhayaṃ tataḥ // bpp_44 //
+
+kā prajñā ka upāyaśca śaṅkāmiti nirāsitum /
+upāyasya ca prajñāyāḥ bhedaḥ samyak prakāśyate // bpp_45 //
+
+prajñāpāramitāṃ tyaktvā dānapāramitādayaḥ /
+sarve hi kuśalāḥ dharmāḥ upāyāḥ jinabhāṣitāḥ // bpp_46 //
+
+upāyābhyāsavaśyātmā yo hi prajñāṃ vibhāvayet /
+śīghraṃ sa labhate bodhiṃ na nairātmyaikabhāvanāt // bpp_47 //
+
+skandhāyatanadhātūnāmanutpādāvabodhinām /
+svabhāvaśūnyatājñānaṃ prajñeti parikīrtitā // bpp_48 //
+
+sadutpattirayuktāsti asaccāpi khapuṣpavat /
+dvayordoṣaprasaṅgatvāt udbhāvo na dvayorapi // bpp_49 //
+
+anutpannaḥ svato bhāvo parato nobhayorapi /
+ahetuteśca no tasmāt niḥsvabhāvaḥ svarupataḥ // bpp_50 //
+
+athavā sarvadharmāṇāṃ caikānekavicāraṇe /
+svarupāprāpyamāṇatvāt niḥsvabhāvatvaniścayaḥ // bpp_51 //
+
+śunyatāsaptau yuktau mūlamadhyamakādiṣu /
+siddho bhāvasvabhāvastu śunyatāyāṃ bhāṣitaḥ // bpp_52 //
+
+granthasya gauravo yasmāt atra tasmānna vistaraḥ /
+siddhasiddhāntamātraikaṃ bhāvanārthaṃ prabhāṣitam // bpp_53 //
+
+tasmādaśeṣadharmāṇāṃ svabhāvanāmalābhataḥ /
+nairātmyabhāvanā yā hi sā prajñāyāstu bhāvanā // bpp_54 //
+
+prajñayā sarvadharmaṇāṃ yatsvabhāvo na dṛṣṭavat /
+yuktayā parīkṣya tāṃ prajñāṃ so 'vikalpena bhāvayet // bpp_55 //
+
+bhavo vikalpobhūto 'yaṃ tadvikalpātmakastataḥ /
+sarvakalpaparityāgaḥ nivārṇaḥ paramo 'sti hi // bpp_56 //
+
+evamapyuktaṃ bhagavatā - -
+
+mahāvidyā vikalpo hi saṃsārārṇavapātakaḥ /
+nirvikalpasamādhisthe 'vikalpo bhāsate khavat // bpp_57 //
+
+avikalpapraveśadhāraṇyāmapi uktam - -
+
+cintitenirvikalpe 'smin saddharme jinaputrakaiḥ /
+vikalpaṃ durgamaṃ tīrtvāvikalpo prāpsyate kramāt // bpp_58 //
+
+niścayīyāgamayuktibhyāṃ svabhāva rahitān tathā /
+sarvān dharmānutpannānavikalpaṃ bhāvayet // bpp_59 //
+
+bhāvayannidamevetthaṃ prāpyoṣṇatvādikaṃ kramāt /
+labhate pramuditvādiṃ buddhabodhirna lambitā // bpp_60 //
+
+sādhitairmantraśaktayā hi śāntivistarakarmabhiḥ /
+bhadrakumbhādisiddhāṣṭamahāsiddhibalena ca // bpp_61 //
+
+abhīṣṭā bodhisambhāraparipūrtiḥ sukhena cet /
+kriyācaryādi tantrokam guhyācaraṇabhiṣyate // bpp_62 //
+
+tadācāryabhiṣekārthaṃ mahāratnādidānataḥ /
+sadguruṃ prīṇayed bhaktayā sarvāñjñādipālanaiḥ // bpp_63 //
+
+prasanne ca gurau bhūte pūrṇācāryābhiṣekataḥ /
+sarvapāpaviśuddhātmā siddhibhāgī bhaviṣyati // bpp_64 //
+
+ādibuddhamahātantre prayatnena niṣedhataḥ /
+guhyaprajñābhiṣekastu na grahyā brahmacārariṇā // bpp_65 //
+
+so 'bhiṣeko gṛhītaścet brahyacaryatapaḥ sthitaiḥ /
+niṣiddhācaraṇatvāt tattapaḥ samvarakṣayaḥ // bpp_66 //
+
+jāyante vratinastasya pārājikavipattayaḥ /
+saḥ pateddurgatau nūnaṃ siddhirnaiva kadācana // bpp_67 //
+
+sarvatantraśrutau bhāṣye homayajñādikarmāsu /
+labdhācāryābhiṣekaśca tattvavida naiva duṣyati // bpp_68 //
+
+dīpaṅkaraśriyā bodhipathaḥ proktaḥ samāsataḥ /
+dṛaṣṭvā sūtrādidharmoktiṃ bodhiprabhanivedanāt // bpp_69 //

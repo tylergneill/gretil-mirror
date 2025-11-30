@@ -1,0 +1,90 @@
+Pratītyasamutpādādivibhaṅganirdeśasūtra
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_pratItyasamutpAdAdivibhaGganirdezasUtra.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - P.L. Vaidya in: Mahayana-sutra-samgrahah, Part 1. Darbhanga: The Mithila Institute 1961 (Buddhist Sanskrit Texts, 17).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Pratītyasamutpādādivibhaṅganirdeśasūtra = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsu027_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Pratityasamutpadadivibhanganirdesasutra
+Based on the ed. by P.L. Vaidya in: Mahayana-sutra-samgrahah, Part 1.
+Darbhanga: The Mithila Institute 1961 (Buddhist Sanskrit Texts, 17)
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sutra section, text no. 27.
+The transliteration emulates the conventions of Nagari script.
+Therefore, many word boundaries are not marked by blanks.
+REFERENCE SYSTEM:
+(Vaidya n) = pagination of P.L. Vaidya's edition (added by Klaus Wille)
+NOTE: Where a page break occurs within a word, the pagination mark has been
+shifted to the end of the word in order not to interfere with word search.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+pratītyasamutpādādivibhaṅganirdeśasūtram |
+evaṃ mayā śrutam | ekasmin samaye bhagavān śrāvastyāṃ viharati sma jetavane anāthapiṇḍadasyārāme mahatā bhikṣusaṃghena sārdhamardhatrayodaśabhirbhikṣuśataiḥ | tatra bhagavānāmantrayate sma - pratītyasamutpādasya vo bhikṣavaḥ ādiṃ vo deśayiṣyāmi vibhaṅgaṃ ca | tacchṛṇuta, sādhu ca suṣṭhu ca manasikuruta, bhāṣiṣye -
+
+pratītyasamutpādasya ādiḥ katamaḥ? yaduta asmin sati idaṃ bhavati, asyotpādādidamutpadyate | yaduta avidyāpratyayāḥ saṃskārāḥ | saṃskārapratyayaṃ vijñānam | vijñānapratyayaṃ nāmarūpam | nāmarūpapratyayaṃ ṣaḍāyatanam | ṣaḍāyatanapratyayaḥ sparśaḥ | sparśapratyayā vedanā | vedanāpratyayā tṛṣṇā | tṛṣṇāpratyayamupādānam | upādānapratyayo bhavaḥ | bhavapratyayā jātiḥ | jātipratyayā jarāmaraṇaśokaparidevaduḥkhadaurmanasyopāyāsāḥ saṃbhavanti | evamasya kevalasya mahato duḥkhaskandhasya samudayo bhavati | ayamucyate pratītyasamutpādasyādiḥ ||
+
+vibhaṅgaḥ katamaḥ? avidyāpratyayāḥ saṃskārāḥ ityavidyā katamā? yat pūrvānte 'jñānam, aparānte 'jñānam, pūrvāntāparānte 'jñānam, adhyātmajñānam, bahirdhājñānam, adhyātmabahirdhājñānam, karmaṇyajñānam, vipāke 'jñānam, karmavipāke 'jñānam, buddhe 'jñānam, dharme 'jñānam, saṃghe 'jñānam, duḥkhe 'jñānam, samudaye 'jñānam, nirodhe 'jñānam, mārge 'jñānam, hetāvajñānam, hetusamutpanneṣu dharmeṣvajñānam, kuśalākuśaleṣu sāvadyānavadyeṣu sevitavyāsevitavyeṣu hīnapraṇītakṛṣṇaśuklasapratibhāgapratītyasamutpanneṣu dharmeṣvajñānam, ṣaṭsu vā punaḥ sparśāyataneṣu yathābhūta(tā?)saṃprativedhaḥ iti | yadatra tatra yathābhūtasyājñānam, adarśanam, anabhisamayaḥ, tamaḥ, saṃmohaḥ, avidyāndhakāram, iyamucyate 'vidyā ||
+
+avidyāpratyayāḥ saṃskārāḥ katame? trayaḥ saṃskārāḥ - kāyasaṃskārāḥ vāksaṃskārāḥ manaḥsaṃskārā iti ||
+
+saṃskārapratyayaṃ vijñānamiti vijñānaṃ katamat? ṣaḍ vijñānakāyāḥ - cakṣurvijñānaṃ śrotraghrāṇajihvākāyamanovijñānam ||
+
+vijñānapratyayaṃ nāmarūpamiti nāma katamat? catvāra arūpiṇaḥ skandhāḥ | katame catvāraḥ? vedanāskandhaḥ saṃjñāskandhaḥ saṃskāraskandhaḥ vijñānaskandhaḥ | rūpaṃ katamat? yat kiṃcidrūpam, sarvaṃ tat catvāri mahābhūtāni | catvāri ca mahābhūtānyupādāya itīdaṃ ca nāma, tadaikadhyamabhisaṃkṣipya nāmarūpamityucyate ||
+
+nāmarūpapratyayaṃ ṣaḍāyatanamiti ṣaḍāyatanaṃ katamat? ṣaḍādhyātmikānyāyatanāni | cakṣurādhyātmikamāyatanaṃ śrotaghrāṇajihvākāyamanaādhyātmikamāyatanam ||
+
+ṣaḍāyatanapratyayaḥ sparśa iti sparśaḥ katamaḥ? ṣaṭ sparśakāyāḥ | cakṣuḥsaṃsparśaḥ śrotraghrāṇajihvākāyamanaḥsaṃsparśaḥ ||
+
+(psvibh, vaidya 118) sparśapratyayā vedaneti vedanā katamā? tisro vedanāḥ | sukhā duḥkhā aduḥkhāsukhā ca ||
+
+vedanāpratyayā tṛṣṇeti tṛṣṇā katamā? tisrastṛṣṇāḥ | kāmatṛṣṇā rūpatṛṣṇā arūpyatṛṣṇā ca ||
+
+tṛṣṇāpratyayamupādānamiti upādānaṃ katamat? catvāryupādānāni | kāmopādānaṃ dṛṣṭyupādānaṃ śīlavratopādānamātmavādopādānam ||
+
+upādānapratyayo bhava iti bhavaḥ katamaḥ? trayo bhavāḥ | kāmabhavaḥ rūpabhavaḥ arūpyabhavaḥ ||
+
+bhavapratyayā jātiriti jātiḥ katamā? yā teṣāṃ teṣāṃ sattvānāṃ tasmiṃstasmin sattvanikāye jātiḥ saṃjātiravakrāntirabhirvṛttiḥ prādurbhāvaḥ skandhapratilambho dhātupratilambhaḥ āyatanapratilambhaḥ skandhānāmabhinirvṛttiḥ jīvitendriyasya prādurbhāvaḥ ||
+
+jātipratyayaṃ jarāmaraṇamiti jarā katamā? yattat khālatyaṃ pālityaṃ valīpracuratā jīrṇatā bhugnatā kubjagopānasīvaṅkatā tilakālakācitagātratā khuapraśvāsakāyatā purataḥ prāgbhārakāyatā daṇḍaviṣkambhaṇatā dhandhatvaṃ mandatvaḥ hāniḥ parihāṇiḥ indriyāṇāṃ paripākaḥ paribhedaḥ saṃskārāṇāṃ purāṇībhāvaḥ jarjarībhāvaḥ | iyamucyate jarā ||
+
+maraṇaṃ karamat? yā teṣāṃ teṣāṃ sattvānāṃ tasmāttasmāt sattvanikāyāt cyutiḥ cyavanato bhedaḥ antarahāṇiḥ āyuṣo hāṇiḥ uṣmaṇo hāṇiḥ jīvitendriyasya nirodhaḥ skandhānāṃ nikṣepaḥ maraṇaṃ kālakriyā | idamucyate maraṇamiti | idaṃ ca maraṇa pūrvikā ca jarā, tadubhayamaikadhyamabhisaṃkṣipya jarāmaraṇamityucyate ||
+
+ayamucyate pratītyasamutpādasya vibhaṅgaḥ | pratītyasamutpādasyādiṃ vo deśayiṣyāmi iti vibhaṅgaṃ ca iti vo yaduktam, tadetat pratyuktam ||
+
+idamavocadbhagavān | āttamanasaste bhikṣavo bhagavato bhāṣitamabhyanandan ||
+
+pratītyasamutpādādivibhaṅganirdeśasūtraṃ samāptam ||

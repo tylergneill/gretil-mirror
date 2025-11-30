@@ -1,0 +1,80 @@
+Kṣemendra: Pratītyasamutpādāvadāna
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kSemendra-pratItyasamutpAdAvadAna.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Klaus Wille
+## Contribution: Klaus Wille
+## Date of this version: 2020-07-31
+
+## Source: 
+   - ed. M. Mejor. Kṣemendra's Bodhisattvāvadānakalpalatā. Studies and Materials. Tokyo 1992 (Studia Philologica Buddhica, Monograph Series, 8), pp. 16-22.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Pratītyasamutpādāvadāna = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from kbavk75u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Pratityasamutpadavadana
+from: Ksemendra: Bodhisattvavadanakalpalata (Avadana 75) = KAvk_75
+Based on ed. M. Mejor. Kṣemendra's Bodhisattvāvadānakalpalatā. Studies and Materials. Tokyo 1992 (Studia Philologica Buddhica, Monograph Series, 8), pp. 16-22.
+Input by Klaus Wille (Göttingen, Germany)
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+sarvam avidyāmūlaṃ saṃsārataruprakāravaicitryam /
+jñātum vaktuṃ hantuṃ kaḥ śakto 'nyatra sarvajñāt // kavk_75.1 //
+
+śrāvastyāṃ svastimān pūrvaṃ jino jetavane sthitaḥ /
+aśeṣadarśī bhagavān bhikṣusaṃgham abhāṣata // kavk_75.2 //
+
+śṛṇuta śreyase jñānālokanirmalamānasāḥ /
+pratītyasamutpādaṃ vaḥ kathayāmi yathākramam // kavk_75.3 //
+
+avidyāvāsanaiveyaṃ duḥkhaskandhasya bhūyasaḥ /
+saṃsāraviṣavṛkṣasya mūlabandhavidhāyinī // kavk_75.4 //
+
+tatpratyayas tu saṃskārāḥ kāyavāṅmānasātmakāḥ /
+saṃskārotthaṃ ca vijñānaṃ manaḥṣaṣṭhendriyātmakamn // kavk_75.5 //
+
+tatpratyayaṃ nāmarūpaṃ saṃjñāsaṃdarśanābhidham /
+manaḥṣaṣṭhendriyasthānaṃ ṣaḍāyatanam apy ataḥ // kavk_75.6 //
+
+ṣaḍāyatanasaṃśleṣaḥ sparśa ity abhidhīyate /
+ṣaṭsparśānubhavo yaś ca vedanā sā prakīrtitā // kavk_75.7 //
+
+tayā viṣayasaṃkleśarāgāt tṛṣṇā prajāyate /
+kāmādiṣu tadudbhūtam upādānaṃ pravartate // kavk_75.8 //
+
+upādānodbhavaḥ kāmarūpārūpyamayo bhavaḥ /
+nānāyoniparāvṛttyā jātir bhavasamudbhavā // kavk_75.9 //
+
+jarāmaraṇaśokādisaṃtatir jātisaṃśrayā /
+avidyādinirodhena teṣāṃ vyuparamakramaḥ // kavk_75.10 //
+
+pratītyotpādo 'yaṃ bahugatir avidyākṛtapadaḥ
+sa cintyo yuṣmābhir vijanavanaviśrāmaśamibhiḥ /
+parijñātaḥ samyag vrajati kila kālena tanutāṃ
+tanutvaṃ saṃprāptaḥ sukhataranivāryaś ca bhavati // kavk_75.11 //
+
+iti kṣemendraviracitāyāṃ bodhisattvāvadānakalpalatāyāṃ pratītyasamutpādāvadānaṃ pañcasaptatitamaḥ pallavaḥ |

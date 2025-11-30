@@ -1,0 +1,460 @@
+Mahendravarman I: Mattavilāsaprahasana
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mahendravarman-i-mattavilAsaprahasana.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Christian Ferstl
+## Contribution: Christian Ferstl
+## Date of this version: 2020-07-31
+
+## Source: 
+   - s by N.P. Unni 1998 (Nag Publishers) and T.G. Sastri 1917 (Trivandrum Sanskrit Series).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Mattavilāsaprahasana = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from mmatvipu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Mahendravarman I: Mattavilasaprahasana
+Based on the editions by N.P. Unni 1998 (Nag Publishers) and T.G. Sastri 1917 (Trivandrum Sanskrit Series)
+Input by Christian Ferstl
+Variants collated {in pointed brackets}
+Examples:
+{... S : ... U} records differences between the ed. Sastri 1917 and Unni 1998 (no misprints recorded)
+{... : Kha} variant in ms. kha recorded in the ed. Sastri 1917, but not recorded in Unni 1998 (Sastri's siglum K corresponds to siglum A in the ed. Unni 1998; Kha corresponds to B)
+{... : EF} variants recorded for mss. E and F in the edition Unni 1998)
+{... E} insertion or addition in ms. E
+S v.l. indicates a variant reading in a ms. used by Sastri (either Ka or Kha, but not indicated)
+If not recorded otherwise, the same readings are found in the editions Unni 1998 and Sastri 1917 (typos in Unni's ed. are not recorded).
+(...) = stage direction
+[...] = Sanskrit chāyā
+{...} = variant reading
+(1) etc. = end note
+Verses have been devided into four pādas each, one pāda per line.
+BOLD for verses
+ITALICS for dramatis personae
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+// śrīḥ //
+
+mattavilāsaprahasanaṃ śrīmahendravikramavarmapraṇītam /
+
+- - -
+
+(nāndyante tataḥ praviśati sūtradhāraḥ /)
+
+sūtradhāraḥ - bhāṣāveṣavapuḥkriyāguṇakṛtān āśritya bhedān gataṃ bhāvāveśavaśād anekarasatāṃ trailokyayātrāmayam / nṛttaṃ niṣpratibaddhabodhamahimā yaḥ (1) prekṣakaś ca svayaṃ sa vyāptāvanibhājanaṃ diśatu vo divyaḥ kapālī yaśaḥ // 1 // bhoḥ ! samāsāditaḥ khalu mayā yavīyasīṃ bhāryāṃ adhikṛtya samutpannavyalīkāyāṃ jyeṣṭhāyāṃ me kuṭumbinyāṃ yuktataraḥ prasādanopāyaḥ, yac cirasyādya vayaṃ prekṣādhikāre pariṣadā niyuktāḥ smaḥ / tad yāvad enām upasarpāmi / ({parikramya cdeh} nepathyābhimukham avalokya) ārye ! itas tāvat / (praviśya)
+
+naṭī - (saroṣam) ayya! kiṃ cirassa kālassa jovvaṇa{guṇa : guṇṇa h}bharamattavilāsappahasaṇaṃ (o?daṃ)seduṃ (2) āado si / [ārya! kiṃ cirasya kālasya yauvanaguṇabharamattavilāsaprahasanaṃ darśayitum āgato 'si /]
+
+sūtradhāraḥ - yathāha bhavatī /
+
+naṭī - tāe eva {dāva : dāṇiṃ d} daṃsehi, jā tue ramaidavvā / [tayaiva tāvad darśaya, yā tvayā ramayitavyā /] sūtradhāraḥ - tvayā saha darśayiṣyāmīti /
+
+naṭī - kiṃ tāe evva ṇiutto si / [kiṃ tayaiva niyukto 'si /]
+
+sūtradhāraḥ - evam etat / api ca, tatra gatā mahāntam anugrahaṃ lapsyase /
+
+naṭī - tava evva khu edaṃ jujjai / [{tavaiva : tathaivaṃ g} khalv etad yujyate /]
+
+sūtradhāraḥ - bhavati! kim iva na yujyate / tvatprayogaparitoṣitā pariṣad anurahīṣyatīti /
+
+naṭī - (saharṣam) evaṃ / laddho ayyamissāṇaṃ pasādo / [evam / labdha āryamiśrāṇāṃ prasādaḥ /]
+
+sūtradhāraḥ - bāḍham / labdhaḥ /
+
+naṭī - jai evaṃ, kiṃ de piakkhāṇiaṃ demi / [yady evaṃ, kiṃ te {priyākhyānikaṃ : priyākhyānitakaṃ g} dadāmi /]
+
+sūtradhāraḥ - alaṃ priyākhyānikapunaruktena / {paśya : kutaḥ e}, udbhinnaromāñcakapolarekham āvirmayūkhasmitam añcitabhru / labdhvā priye durlabham ānanaṃ te bhūyo 'pi kiṃ prārthayitavyam asti // 2 //
+
+naṭī - kiṃ dāṇi ayyeṇa paujjidavvaṃ / [kim idānīm āryeṇa {prayoktavyam : nāṭakaṃ nāṭayitavyam g} /]
+
+sūtradhāraḥ - nanu tvayaivābhihitaṃ mattavilāsaprahasanam iti /
+
+naṭī - ṇūṇaṃ {imassiṃ : imasmi unni} pakkhavādī me kovo, jeṇa abhippāāṇu{rūvaṃ : gadaṃ kha} bhaṇāvida hmi / ayya! kadamo uṇa so kavī, jo imāe kidīe paāsīadi / [{nūnam : ām g} asmin pakṣapātī me kopaḥ, yenābhiprāyānurūpaṃ bhāṇitāsmi / ārya! katamaḥ punaḥ sa kaviḥ, {yo 'nayā kṛtyā prakāsyate : yenānayā kṛtyā ātmānam eva prakāśayiṣyati g} /]
+
+sūtradhāraḥ - bhavati! śrūyatām / {vidita d}pallavakuladharaṇimaṇḍala{kula : om. h}parvatasya sarvanayavijitasamastasāmantamaṇḍalasya ākhaṇḍalasamaparākramaśriyaḥ śrimahimānurūpadānavibhūtiparibhūtarājarājasya śrīsiṃhaviṣṇuvarmaṇaḥ putraḥ śatruṣaḍvarganigrahaparaḥ parahitaparatantratayā mahābhūtasadharmā mahārājaḥ śrīmahendravikramavarmā nāma / api ca - prajñādānadayānubhāvadhṛtayaḥ kāntiḥ kalākauśalaṃ satyaṃ śauryam amāyatā vinaya ityevamprakārā guṇāḥ / aprāptasthitayaḥsametyaśaraṇaṃ yātā yam ekaṃ kalau kalpānte jagadādim ādipuruṣaṃ sargaprabhedā iva // 3 // kiṃ ca - 
+ākare sūktiratnānāṃ yasmin guṇagarīyasām /
+arghanti (3) bahu sūktāni satāṃ sāralaghūny api // 4 //
+
+
+naṭī - kiṃ dāṇi ayyeṇa vilambīadi / ṇaṃ apuruvadāe turiaṃ aṇuṭṭhidavvo aaṃ paoo / [kim idānīm āryeṇa vilambyate / nanv apūrvatayā tvaritam anuṣṭhātavyo 'yaṃ prayogaḥ /]
+
+sūtradhāraḥ - {ahaṃ tu : hanta e} - samprati saṅgītadhanaḥ kaviguṇakathayāsmi nighnatāṃ nītaḥ / 5ab / ({nepathye s : naipathye u}) priye! devasome!
+
+sūtradhāraḥ - {(śrutvā) e} yuvatisakha eṣa surayā kapālavibhavaḥ kapālīva // 5cd // (niṣkrāntau /) {sthāpanā : āmukham eh} /
+
+(tataḥ praviśati saparigrahaḥ kapālī /)
+
+kapālī - (kṣībatāṃ rūpayitvā) priye! devasome! satyam evaitat - tapasā kāmarūpatā prāpyata iti / yat tvayā paramavratasya vidhivadanuṣṭhānenānya eva rūpātiśayaḥ kṣaṇāt pratipannaḥ / tava hi - udbhinnaśramavāribinu vadanaṃ sabhrūlatāvibhramaṃ khelaṃ yātam akāraṇāni hasitāny avyaktavarṇā giraḥ / rāgākrāntam adhīratāramalasāpāṅgaṃ yugaṃ netrayor aṃsopāntavilambinaś ca vigalanmālāguṇā mūrdhajāḥ //6 //
+
+devasomā - bhaavaṃ! mattaṃ via mattaṃ via maṃ bhanāsi / [bhagavan! mattām iva mattām iva māṃ bhaṇasi /] kapālī - kim āha bhavatī /
+
+devasomā - ṇa hu kiñci bhaṇāmi / [na khalu kiñcid bhaṇāmi /]
+
+kapālī - kin nu khalu matto 'smi /
+
+devasomā - bhaavaṃ! paribbhamai paribbhamai puhuvī / puro vadāmi via / avalamba dāṇi maṃ / [bhagavan! paribhramati paribhramati pṛthivī / puraḥ patāmīva / valambasvedānīṃ mām /]
+
+kapālī - priye! {tathāstu : tathā d} / (avalambamānaḥ patanaṃ rūpayitvā) priye! somadeve! kiṃ tvaṃ kupitāsi, yad avalambitum upasarpato me dūrībhavasi /
+
+devasomā - aho ṇu khu āadakovā somadevā, jā tue sīseṇa paṇamia aṇuṇīamāṇā vi durīhoi / [aho nu khalv āgatakopā somadevā, yā tvayā śīrṣeṇa praṇamyānunīyamānāpi dūrībhavati /]
+
+kapālī - nanu tvam evāsi somadevā / (dhyātvā) na hi {na hi d}, devasomā /
+
+devasomā - bhaavaṃ! ṇaṃ tahā vallahā somadevā, ṇārhadi mama ṇāmakeṇābhidhāduṃ / [bhagavan! nanu tathā vallabhā somadevā, nārhati mama {nāmakenābhidhātum : nāmadheyenābhidhātum g} /]
+
+kapālī - bhavati! sulabhapadaskhalito me mado 'yaṃ {tavātrāparāddhaḥ : tavātrāparādhyati eg} /
+
+devasomā - diṭṭhiā ṇa tuvaṃ / [diṣṭyā na tvam /]
+
+kapālī - kathaṃ madyadoṣo mām evaṃ saṅkrāmayati / bhavatu {bhavatu : om. f} / {aham e} adyaprabhṛti madyaniṣevaṇān nivṛtto 'smi /
+
+devasomā - bhaavaṃ! mā mā mama kāraṇādo vadabhaṅgeṇa tavo khaṇḍeduṃ / [{bhagavan! mā mā mama : mā mā evaṃ bhagavan mama g} kāraṇād vratabhaṅgena tapaḥ khaṇḍayitum /] (pādayoḥ patati /)
+
+kapālī - (saharṣam {utthāpyāliṅgya : utthāpyāliḍya ca cde)} {dhṛrṇa dhṛrṇa : dhṛṣṇa dhṛṣṇa d : dhirṇa dhirṇa eg} namaḥ śivāya / priye! peyā surā priyatamāmukham īkṣitavyaṃ grāhyaḥ svabhāvalalito vikṛtaś ca veṣaḥ / yenedam īdṛśam adṛśyata mokṣavartma dīrghāyur astu bhagavān sa pinākapāṇiḥ // 7 // devasomā - bhaavaṃ! ṇaṃ tahā bhaṇidavvaṃ / aghante mokkhamaggaṃ aṇṇahā vaṇṇaanti / [bhagavan! nanu tathā bhaṇitavyam / arhanto {mokṣamārgam anyathā : anyathā mokṣamārga g (note ambiguous)} varṇayanti / ]
+
+kapālī - bhadre! te khalu mithyādṛṣṭayaḥ / kutaḥ - kāryasya niḥsaṃśayam ātmahetoḥ sarūpatāṃ hetubhir abhyupetya / duḥkhasya kāryaṃ sukham āmanantaḥ svenaiva vākyena hatā varākāḥ // 8 //
+
+devasomā - santaṃ santaṃ pāvaṃ / [śāntaṃ śāntaṃ pāpam /]
+
+kapālī - śāntaṃ śāntaṃ pāpam / na khalu te pāpā ākṣepamukhenāpy abhidhātum arhanti, ye brahmacaryakeśanirloṭana{maladhāraṇa : om. f}bhojanavelāniyama{malinapaṭa : dikpaṭa d}paridhānādibhiḥ prāṇinaḥ parikleśayanti / tadidānīṃ kutīrthasaṅkīrtanopahatāṃ jihvāṃ surayā prakṣālayitum icchāmi /
+
+devasomā - teṇa hi aṇṇaṃ {dāṇiṃ s : dāṇi u} surāpaṇaṃ gcchāmo / [tena hy anyam idānīṃ surāpāṇaṃ gacchāvaḥ /]
+
+kapālī - priye! {tathāstu / : tathāstu / kāñcī... (? c)} ({ubhau : om. (c?)} parikrāmataḥ /)
+
+kapālī - aho tu khalu vimānaśikharaviśrāntaghanarasitasandigdhamṛdaṅgaśabdasya madhusamayanirmāṇamātṛkāyamāṇamālyāpaṇasya kusumaśaravijayaghoṣaṇāyamānavarayuvatikāñcīravasya {kāñcīpurasya : om. h} parā vibhūtiḥ / api ca - anatiśayam anantaṃ saukhyam apratyanīkaṃ samadhigatasatattvā menire yan munīndrāḥ / tad iha niravaśeṣaṃ dṛṣṭam etat tu citraṃ yad uta karaṇabhogyaṃ kāmabhogātmakaṃ ca // 9 //
+
+devasomā - bhaavaṃ! bhaavadī vāruṇī via aṇavagīamahurā kañcī / [bhagavan! bhagavatī vāruṇīvānavagītamadhurā kāñcī /]
+
+kapālī - priye! paśya paśya / eṣa surāpaṇo yajñavāṭavibhūtim anukaroti / {atra hi : tatra e} dhvajastambho yūpaḥ, surā somaḥ, śauṇḍā ṛtvijaḥ, caṣakāś camasāḥ, śūlyamāṃsaprabhṛtaya upadaṃśā havir viśeṣāḥ, mattavacanāni yajūṃsi, gītāni sāmāni, udaṅkāḥ sruvāḥ, tarṣo 'gniḥ, surāpaṇādhipatir yajamānaḥ /
+
+devasomā - ahmāaṃ pi ettha bhikkhā ruddabhāo bhavissadi / [āvayor apy atra bhikṣā {rudrabhāgo : vibhāgaḥ g} bhaviṣyati /]
+
+kapālī - aho darśanīyāni prahata{mardala : maddala cde}{karaṇānugatāni : karaṇāhitāni f : karaṇāhatāni c} vividhāṅgahāravacanabhrūvikārāṇi ucchritaikahastāvalambitottarīyāṇi {vigalita : vigalitāni e}vasanapratisamādhānakṣaṇaviṣamitalayāni vyākulitakaṇṭhaguṇāni mattavilāsanṛttāni /
+
+devasomā - aho rasio khu āayyo / [aho rasikaḥ khalv ācāryaḥ /]
+
+kapālī - eṣā bhagavatī vāruṇī caṣakeṣv āvarjitā pratyādeśo maṇḍanānām, anunayaḥ praṇayakupitānāṃ, parākramo yauvanasya, jīvitaṃ vibhramānām / kiṃ bahunā - mithyā trilocanavilocanapāvakena bhasmīkṛtāṃ madanamūrtim udāharanti / snehātmikā tadabhitāpavaśād vilīnā seyaṃ priye! madayati prasabhaṃ manāṃsi // 10 //
+
+devasomā - bhaavaṃ! jujjai edaṃ / ṇa hi loovaāraṇirado loaṇāho loaṃ viṇāsedi / [bhagavan! yujyata etat / na hi lokopakāranirato lokanātho lokaṃ vināśayati /] (ubhau kapolapaṭahaṃ kurutaḥ /)
+
+kapālī - bhavati! bhikṣāṃ dehi / (nepathye) bhaavaṃ! esā bhikkhā / paḍigaṇhadu bhaavaṃ / [bhagavan! eṣā bhikṣā / pratigṛhṇātu {bhagavān : om. f : bhavān g} /]
+
+kapālī - {eṣa : eṣa eṣa cde} pratigṛhṇāmi / priye! kva me kapālam /
+
+devasomā - ahaṃ vi ṇa pekkhāmi / [aham api na paśyāmi /]
+
+kapālī - (dhyātvā) ā, tasminn eva surāpaṇe vismṛtam iti tarkayāmi / bhavatu, pratinivṛtya drakṣyāvaḥ /
+
+devasomā - bhaavaṃ! adhammo khu eso ādarovaṇīdāe bhikkhāe appaḍiggaho / kiṃ {dāṇi s : dāṇī u} karamha / [bhagavan! adharmaḥ khalv eṣa ādaropanītāyā bhikṣāyā apratigrahaḥ / kim idānīṃ kurvaḥ /]
+
+kapālī - {priye! h} āpaddharmaṃ pramāṇīkṛtya gośṛṅgeṇa pratigṛhyatām /
+
+devasomā - bhaavaṃ! taha / [bhagavan! tathā /] (pratigṛhṇāti /) (ubhau {tathā kṛtvā e} parikramyāvalokayataḥ /)
+
+kapālī - katham ihāpi na dṛśyate / (viṣādaṃ rūpayitvā) bho bho māheśvarāḥ! māheśvarāḥ! asmadīyaṃ bhikṣābhājanam iha bhavadbhiḥ kiṃ dṛṣṭaṃ / {(karṇan dattvā e)} kim āhur bhavantaḥ - na khalu vayaṃ pāśyāma iti / hā hato 'smi / bhraṣṭaṃ me tapaḥ / kenāham idānīṃ kapālī bhaviṣyāmi / bhoḥ! kaṣṭam / yena mama pānabhojana- śayaneṣu nitāntam upakṛtaṃ śucinā / tasyādya māṃ viyogaḥ sanmitrasyeva pīḍayati // 11 // (patitaḥ śirastāḍanaṃ rūpayitvā) bhavatu / asti lakṣaṇamātram / na mukto 'smi kapāli{saṃjñāyāḥ : saṃjñayā kha} / (uttiṣṭhati /)
+
+devasomā - bhaavaṃ! keṇa khu gahīḍaṃ kavālaṃ / [bhagavan! kena khalu gṛhītaṃ kapālam {bhavet g} /]
+
+kapālī - priye! tarkayāmi śūlyamāṃsagarbhatvāc chunā vā śākyabhikṣunā veti /
+
+devasomā - teṇa hi aṇṇesaṇaṇimittaṃ savvaṃ {kañcīuraṃ : kañcīpuram cf} paribbhamāmo / [tena hy anveṣaṇanimittaṃ sarvaṃ kāñcīpuraṃ paribhramāvaḥ /]
+
+kapālī - priye! tathā / (ubhau parikrāmataḥ /)
+
+- - -
+({tataḥ praviśati śākyabhikṣuḥ pātrahastaḥ / : om. h(4)})
+śākyabhikṣuḥ - aho {uvāsaassa : uvāghaassa ka(5)a(6)} dhaṇadāsaseṭṭhiṇo {mahā f}savvāvāsamahādāṇamahimāṇo, jahiṃ mae abhimadavaṇṇagandharaso macchamaṃsappaārabahulo aaṃ piṇḍavādo samāsādido / jāva dāṇi rāavihāraṃ evva gacchāmi / (parikramya ātmagatam) bhoḥ! paramakāruṇieṇa bhaavadā tahāgaeṇa pāsādesu vāso, {suvihi(a)sayyesu s : suvihiasayyesu u : suvihidasayyesu c : suvihisayyesu f(7)} pajjaṅkesu saaṇaṃ, puvvaṇhe bhoaṇaṃ, avaraṇhe surasāṇi pāṇaāṇi, {pañcasuga(ndhavvo?ndhova)hiaṃ s : pañcasugandhavodhiaṃ ka : pañcasugandhobodhiaṃ af : pañcasugandhavvo cd} {tambollaṃ : tambullaṃ cd}, saṇhavasaṇaparighāṇaṃ ti edehi uvadesehi bhikkhusaṅghassa aṇuggahaṃ karanteṇa kiṇṇu {hu : khu c} itthiāpariggaho surāvāṇavihāṇaṃ ca ṇa diṭṭhaṃ / ahava kahaṃ savvañco edaṃ ṇa pekkhadi / avassaṃ edehi duṭṭhabuddhatthavirehi ṇirucchāehi ahmāṇaṃ taruṇajaṇānaṃ macchareṇa piḍaaputthaesu itthiāsurāvāṇa{vihāṇāṇi : vaaṇāṇi khab} palāmiṭṭhāṇi tti takkemi / kahiṃ ṇu hu aviṇaṭṭhamūlapāṭhaṃ samāsādaeaṃ / tado sampuṇṇaṃ buddhavaaṇaṃ loe paāsaanto saṅghovaāraṃ karissaṃ / (parikrāmati) [{(gandham āghrāya e)} aho upāsakasya dhanadāsaśreṣṭhinaḥ sarvāvāsamahādānamahimā, yasmin mayābhimatavarṇagandharaso matsyamāṃsaprakārabahulo 'yaṃ piṇḍapātaḥ samāsāditaḥ / yāvad idānīṃ rājavihāram eva gacchāmi / bhoḥ! paramakāruṇikena bhagavatā tathāgatena prāsādeṣu vāsaḥ, suvihitaśayyeṣu paryaṅkeṣu śayanaṃ, pūrvāhṇe bhojanam, aparāhṇe surasāni pānakāni, pañca{sugandhopahitaṃ : sugandhodbodhitaṃ g} tāmbūlaṃ, ślakṣṇavasanaparidhānam ity etair upadeśair bhikṣusaṅghasyānugrahaṃ kurvatā khin nu khalu strīparigrahaḥ {surāpānavidhānaṃ : surāpānaṃ g} ca na dṛṣṭam / atha vā kathaṃ sarvajña etan na {paśyati : prekṣiṣyati g} / avaśyam etair duṣṭabuddhasthavirair nirutsāhair asmākaṃ taruṇajanānāṃ matsareṇa piṭakapustakeṣu strīsurāpāna{vidhānāni : vacanāni g} parāmṛṣṭānīti tarkayāmi / kutra nu khalv avinaṣṭamūlapāṭhaṃ samāsādayeyam / tataḥ sampūrṇaṃ buddhavacanaṃ loke prakāśayan saṅghopakāraṃ kariṣyāmi /]
+
+devasomā - bhaavaṃ! pekkha pekkha / eso rattapaḍo imassiṃ vissatthapurisasampāde rāamagge saṅkuidasavvaṅgo ubhayapakkhasañcāridadiṭṭhī saṅkidapadavikkhevo {turiaturiaṃ s : turiaturio s v.l. : turiaṃ u : turio bd} gacchai / [bhagavan! paśya paśya / eṣa raktapaṭo 'smin viśvastapuruṣa{sampāte : sañcāre g} rājamārge saṅkucitasarvāṅga ubhayapakṣasañcāritadṛṣṭiḥ śaṅkitapadavikṣepas tvaritatvaritaṃ gacchati /] kapālī - priye! evam etat / api cāsya haste cīvarāntaḥpracchāditaṃ kim apy astīva /
+
+devasomā - bhaavaṃ! teṇa hi {olambia : avila s v.l. bcd)} āsādia jānīmo / [bhagavan! tena hy {avalambyāsādya : avalambitaṃ samāsādya g} jānīvaḥ /]
+
+kapālī - bhavati! tathā / ({upagamya : ubhāv anugamya d}) bho bhikṣo! tiṣṭha /
+
+śākyabhikṣuḥ - ko ṇu khu maṃ evaṃ bhaṇādi / (nivṛtyāvalokya) ai ayaṃ eaṃvvavāsī duṭṭhakavālio / bhodu, imassa surāvibbhamassa lakkhaṃ ṇa homi / ({satvaraṃ : tvarito khabcd} gacchati /) [ko nu khalu mām evaṃ bhaṇati / ayi ayam ekāmravāsī duṣṭa{kāpālikaḥ : kapālī g} / bhavatu, asya surāvibhramasya lakṣyaṃ na bhavāmi /]
+
+kapālī - priye! hanta labdhaṃ kapālaṃ / asya hi maddarśanajanitabhayāt tvaraiva cauryasākṣitvaṃ pratipannā / (drutam upagamyāgrato ruṇaddhi / āḥ dhūrtta! {kvedānīṃ gamiṣyasi : om. c} /)
+
+śākyabhikṣuḥ - kavāliāusa! mā mā evaṃ / kiṃ edaṃ / (ātmagatam) aho laliarūvā uvāsiā / [kāpālikopāsika! {mā maivam : mā maivaṃ vaktum g : om. cf} / kim etat / aho lalitarūpā upāsikā /]
+
+kapālī - bho bhikṣo! darśaya {bhavān h} tāvat / yāvad etat te pāṇau {cīvarāntaḥpracchāditaṃ : cīvarāntaritaṃ c} draṣtum icchāmi / śākyabhikṣuḥ - kiṃ ettha pekkhidavvaṃ / bhikkhābhāaṇaṃ khu edaṃ / [kim atra draṣṭavyam / bhikṣābhājanaṃ khalv etat /]
+
+kapālī - ata eva draṣṭum icchāmi /
+
+śākyabhikṣuḥ - ā, usa! mā mā evaṃ / pacchaṇṇaṃ khu edaṃ ṇedavvaṃ / [ā, upāsaka! mā maivam / pracchannaṃ khalv etan netavyam /]
+
+kapālī - nūnam evamādipracchādananimittaṃ bahucīvaradhāraṇaṃ buddhenopadiṣṭam /
+
+śākyabhikṣuḥ - saccaṃ edam / [satyam etat /]
+
+kapālī - idaṃ {tat : om. dg} {saṃvṛtasatyam : saṃvṛṭhaṃ satyam g : saṃvṛtaṃ paramasatyam d} / paramārthasatyaṃ śrotum icchāmi /
+
+śākyabhikṣuḥ - bhodu ettao parihāso / adikkamadi bhikkhāvelā / sāhemi ahaṃ / (pratiṣṭhate /) [bhavatv etāvān parihāsaḥ / atikrāmati bhikṣāvelā / sādhayāmy aham /]
+
+kapālī - {āḥ : haḥ g}, dhūrtta! kva gamiṣyasi / dīyatāṃ me kapālam / (cīvarāntam {ālambate : avalambate cde} /)
+
+śākyabhikṣuḥ - ṇamo buddhāa / [namo buddhāya /]
+
+kapālī - namaḥ karapaṭāyeti vaktavyaṃ, yena coraśāstraṃ praṇītam / athavā kharapaṭād apy asminn adhikāre buddha evādhikaḥ / kutaḥ - vedāntebhyo gṛhītvārthān yo mahābhāratād api / viprāṇāṃ miṣatām eva kṛtavān kośasañcayam // 12 //
+
+śākyabhikṣuḥ - santaṃ pāpaṃ santaṃ pāpaṃ / [śāntaṃ {pāpaṃ : om. g} śāntaṃ pāpaṃ /]
+
+kapālī - evaṃ suvṛttasya tapasvinaḥ katham iva pāpaṃ na śāmyati / devasomā - bhaavaṃ! parissanto via lakkhīasi / ṇa edaṃ suhovāasulahaṃ kavālaṃ / tā edinā gosiṅgeṇa suraṃ pibia jādabalo bhavia imiṇā saha vivādaṃ karehi / [bhagavan! pariśrānta iva lakṣyase / naitat sukhopāyasulabhaṃ kapālaṃ / tad etena gośṛṅgeṇa surāṃ pītvā jātabalo bhūtvānena saha vivādaṃ kuru /]
+
+kapālī - tathāstu / (devasomā {kapāline : om. c} surāṃ prayacchati /)
+
+kapālī - (pītvā) priye! tvayāpi śramāpanodaḥ kartavyaḥ /
+
+devasomā - bhaavaṃ! taha / (pibati /) [bhagavan! tathā /]
+
+kapālī - ayam asmākam apakārī / saṃvibhāgapradhānaḥ svasiddhāntaḥ {pramāṇayitavyaḥ c} / śeṣam ācāryāya pradīyatām /
+
+devasomā - jaṃ bhaavaṃ āṇavedi / gahṇadu bhaavaṃ / [yad bhagavān ājñāpayati / gṛḥṇātu {bhagavān : bhavān g} /]
+
+śākyabhikṣuḥ - (ātmagatam) aho suhovaṇado abbhudao / ettao doso - mahājaṇo pekkhissadi / (prakāśam) bhodi / mā mā evaṃ / ṇa {vaḍḍhadi : vaddhai kaa} ahmāṇaṃ / (sṛkvaṇī leḍhi /) [aho sukhopanato 'bhyudayaḥ / etāvān {atra khalu eṣa g} doṣaḥ - mahājano drakṣyati / bhavati / mā maivam / na vardhate 'smākam /]
+
+devasomā - dhaṃsa / kudo de ettiāṇi bhāadheāṇi / [{dhvaṃsasva : duṣṭa g} / kutas te {etāvanti : etāni g} bhāgadheyāni /]
+
+kapālī - priye! iyam asyecchāvirodhinī vāg mukhaprasekena skhala(ya?)ti (8) /
+
+śākyabhikṣuḥ - idāṇiṃ vi ṇatthi de karuṇā / [idānīm api { nāsti te : te nāsti g} karuṇā /]
+
+kapālī - yady asti karuṇā, kathaṃ vītarāgo bhaviṣyāmi /
+
+śākyabhikṣuḥ - evaṃ vīdarāgiṇā vīdaroseṇa vi hodavvaṃ / [evaṃ vītarāgiṇā vītaroṣeṇāpi bhavitavyam /]
+
+kapālī - vītaroṣo bhaviṣyāmi, yadi me svakaṃ dāsyati /
+
+śākyabhikṣuḥ - kiṃ de saaṃ / [kiṃ te svakaṃ /]
+
+kapālī - kapālam /
+
+śākyabhikṣuḥ - kahaṃ kavālaṃ / [{kathaṃ : kasmin eg} kapālam /]
+
+kapālī - kathaṃ kapālam ity āha / athavā yuktam etat / dṛṣṭāni vastūni mahīsamudra- mahīdharādīni mahānti mohāt / apahnuvānasya sutaḥ kathaṃ tvam alpam na nihnotum alaṃ kapālam // 13 //
+
+devasomā - bhaavaṃ! kevalaṃ lālīyamāṇo ṇa daissadi / tā edassa hatthādo ācchindia gacchāmo / [bhagavan! kevalaṃ lālyamāno na dāsyati / tad etasya hastād ācchidya gacchāvaḥ /]
+
+kapālī - priye! tathā / (ācchettuṃ {vyāpriyate : vyāpriyete c} /)
+
+śākyabhikṣuḥ - dhaṃsa duṭṭhakavālia / (hastena nudan pādena {tāḍayati : pātayati d} /) [{dhvaṃsasva : dhvaṃsa (9) gaccha g} duṣṭakāpālika!]
+
+kapālī - kathaṃ patito 'smi /
+
+devasomā - mudo si dāsievutta! ({keśāpakarśaṇaṃ : keśākarśaṇaṃ d} rūpayitvā nirālambanā patitā /) [mṛto 'si dāsyāḥputra!]
+
+śākyabhikṣuḥ - (ātmagatam) aghaṃ buddhassa viṇṇāṇaṃ, jeṇa muṇḍaṇaṃ {diṭṭhaṃ : kidaṃ kaa} / (prakāśam) uṭṭhehi uṭṭhehi usie! uṭṭhehi / (iti devasomām {utthāpayati : hastena gṛhṇāti e} /) [arhaṃ {(arghaṃ vā) s: (aghaṃ vā) u} buddhasya vijñānam, yena muṇḍanaṃ dṛṣṭam / uttiṣṭhottiṣṭha upāsike uttiṣṭha /]
+
+kapālī - paśyantu paśyantu māheśvarāḥ anena duṣṭabhikṣunāmadhārakeṇa nāgasenena mama priyatamāpāṇigrahaṇaṃ kriyamāṇam /
+
+śākyabhikṣuḥ - ā vusa! mā mā evaṃ / dhammo khu ahmāṇaṃ visamapadidāṇukampā / [ā upāsaka! {(āyuṣman! vā) su} mā maivam / dharmaḥ khalv {ayam g} asmākaṃ {viṣamapatitānukampā : viṣamapatitānām anukampā g} /]
+
+kapālī - kim ayam api sarvajñadharmaḥ / nanv ahaṃ pūrvaṃ patito 'smi / bhavatu, kim anena / idānīṃ tava śiraḥkapālaṃ mama bhikṣākapālaṃ bhaviṣyati / (sarve kalahaṃ {rūpayanti : kurvanti c} /)
+
+śākyabhikṣuḥ - dukkhaṃ dukkhaṃ / [duḥkhaṃ duḥkham /]
+
+kapālī - paśyantu paśyantu māheśvarāḥ / eṣa duṣṭabhikṣunāmadhārako {nāgaseno df} mama bhikṣākapālaṃ muṣitvā svayam evākrandati / bhavatu, aham apy ākrośayiṣye / abrahmaṇyam abrahmaṇyam /
+
+- - -
+
+(tataḥ praviśati pāśupataḥ)
+
+pāśupataḥ - satyasoma! kim artham ākrandasi /
+
+kapālī - bho babhrukalpa! duṣṭabhikṣunāmadhārako nāgaseno mama bhikṣākapālaṃ corayitvā dātuṃ necchati /
+
+pāśupataḥ - (ātmagatam) {aye! d} yad asmābhir anuṣṭheyaṃ, gandharvaiḥ tad anuṣṭhitam / eṣa durātmā, tāṃ kṣaurikasya dāsīṃ mama dayitāṃ cīvarāntadarśitayā / ākarṣati kākaṇyā bahuśo {gāṃ : gaḥ e} grāsamuṣṭyeva // 14 // tad idānīṃ pratihastiprotsāhanena {asmat g}śatrupakṣaṃ dhvaṃsayāmi / (prakāśam) bho nāgasena! apy evam etad, yathāyam āha /
+
+śākyabhikṣuḥ - bhaavaṃ! tuvaṃ pi evaṃ bhaṇāsi / ādiṇṇādāṇā veramaṇaṃ sikkhāpadaṃ / mudhāvādā veramaṇaṃ sikkhāpadaṃ / {abbamhacayyā : abbamhaññacayyā (ka)(10)a} veramaṇaṃ sikkhāpadaṃ / pāṇādipādā veramaṇaṃ sikkhāpadaṃ / {akālabhoaṇā : bhoaṇakālattherā kaaf} veramaṇaṃ sikkhāpadaṃ / ahmāaṃ buddhadhammaṃ saraṇaṃ gacchāmi / [bhagavan! tvam {apy evaṃ bhaṇasi : api na jānāsi g} / adattādānād viramanaṃ śikṣāpadam / mṛṣāvādād viramanaṃ śikṣāpadam / abrahmacaryād viramanaṃ śikṣāpadam / prāṇātipātād viramanaṃ śikṣāpadam / akālabhojanād viramanaṃ śikṣāpadam / asmākaṃ {buddhadharmaṃ : buddhaṃ dharmaṃ g} śaraṇaṃ gacchāmi /]
+
+pāśupataḥ - satyasoma! īdṛśa eṣāṃ samayaḥ / kim atra prativacanam /
+
+kapālī - nanv asmākam anṛtaṃ na vaktavyam iti samayaḥ /
+
+pāśupataḥ - ubhayam apy upapannam / ko {'tra : om. d} nirṇayopāyaḥ /
+
+śākyabhikṣuḥ - buddhavaaṇaṃ pamāṇīkaraanto bhikkhū surābhāaṇaṃ gaṇhadi tti ko ettha hedū / [{bho g} buddhavacanaṃ pramāṇīkurvan bhikṣuḥ surābhājanaṃ gṛhṇātīti ko 'tra hetuḥ /]
+
+pāśupataḥ - nahi pratijñāmātreṇa hetuvādinaḥ siddhir asti /
+
+kapālī - pratyakṣe hetuvacanaṃ nirarthakam /
+
+pāśupataḥ - kathaṃ pratyakṣam eva /
+
+devasomā - bhaavaṃ! edassa hatthe civarāntappacchādidaṃ kavālaṃ / [bhagavan! etasya haste cīvarāntaḥpracchāditaṃ kapālam /]
+
+pāśupataḥ - śrutaṃ bhavatā /
+
+śākyabhikṣuḥ - bho bhaavaṃ! edaṃ kavālaṃ ṇa parakeraaṃ / [bho bhagavan! etat kapālaṃ na parakīyam /]
+
+kapālī - tena hi darśaya tāvat /
+
+śākyabhikṣuḥ - taha / [tathā /] (darśayati /)
+
+kapālī - paśyantu paśyantu māheśvarāḥ kāpālikena {kapāline kaaf} kṛtam anyāyyam asya bhadantasya sādhuvṛttatāṃ ca /
+
+śākyabhikṣuḥ - ādiṇṇādāṇā veramaṇaṃ sikkhāpadaṃ / {... (iti punas tad eva paṭhati /) : kaacd repeat the whole passage} ({ityādi paṭhitvā e} ubhau nṛtyataḥ /)
+
+śākyabhikṣuḥ - haddhi / {lajjitavve : udidavve c} kāle ṇaccadi / [hā dhik / lajjitavye kāle nṛtyati /]
+
+kapālī - āḥ ko nṛtyati / (sarvato vilokya {ātmagatam r} /) ā mama naṣṭabhikṣābhājana{darśana : janita h}kutūhalamalayānilaprayuktāyā dhruvam asya nṛttabuddhiḥ prītilatāyā vilasiteṣu /
+
+śākyabhikṣuḥ - bhaavaṃ! keṇa kāraṇeṇa edaṃ ṇa lakkhīadi / bho ācikkhadu bhaavaṃ / imassa aaṃ vaṇṇo / [{bho g} bhagavan! kena kāraṇenaitan na lakṣyate / bhoḥ ācaṣṭāṃ bhagavān / asyāyaṃ varṇaḥ /]
+
+kapālī - kim atra vaktavyam / nanu mayā dṛṣṭam / kākād api kṛṣṇam idaṃ kapālam /
+
+śākyabhikṣuḥ - teṇa hi edaṃ mamakeraaṃ ti saaṃ eva abbhuvagadaṃ / [tena hy etan madīyam iti svayam evābhyupagatam /]
+
+kapālī - satyam abhyupagataṃ tava varṇāntarakaraṇe naipuṇyam / paśya, yad etad āsīt prathamaṃ svabhāvato mṛṇālabhaṅgacchavicoram ambaram / nanu tvayā nītam acintyakarmaṇā tad eva bālāruṇarāgatāmratām // 15 // api ca, 
+āvṛtaṃ bahir antaś ca kaṣāyeṇānapāyinā /
+tvāṃ prāptaṃ syāt kathaṃ nāma kapālam akaṣāyitam // 16 //
+
+
+devasomā - hā hadahmi mandabhāā / savvalakkhaṇasampaṇṇadāe kamalāsaṇasīsakavālāṇubhāvassa puṇṇamāsisomadaṃsaṇassa ṇiccasurāgandhiṇo edassa maliṇapaḍasaṃsaggeṇa ia īdisī avitthā saṃvuttā / (iti roditi /) [hā hatāsmi mandabhāgā / sarvalakṣaṇasaṃpannatayā {kamalāsanaśīrṣakapālānubhāvasya : om. g} paurṇamāsīsomadarśanasya nityasurāgandhina etasya malinapaṭasaṃsargeṇeyam īdṛśy avasthā saṃvṛttā /]
+
+kapālī - priye! alaṃ santāpena / punaḥ śucir bhaviṣyati / śrūyante hi mahānti bhūtāni prāyaścittair apanītakalmaṣāṇi bhavanti / {tathā hi : yathā c} - āsthāya prayato mahāvratam idaṃ bālenducūḍāmaṇiḥ svāmī no mumuce pitāmahaśiraśchedodbhavād enasaḥ / nātho 'pi tridivaukasāṃ triśirasaṃ tvaṣṭus tanūjaṃ purā hatvā yajñaśatena śāntadurito bheje punaḥ puṇyatām // 17 // bho babhrukalpa! nanv evam etat /
+
+pāśupataḥ - {āgamānugatam : āgamānurūpam c} abhihitam /
+
+śākyabhikṣuḥ - {bho : bhodu c} vaṇṇo dāva mae kido / imassa saṇṭhāṇaparimāṇaṃ keṇa ṇimmidaṃ / [bhoḥ! varṇas tāvan mayā kṛtaḥ / asya saṃsthānaparimāṇaṃ {kena nirmitaṃ : tāvat katham g} /]
+
+kapālī - nanu māyāsantānasambhavāḥ khalu bhavantaḥ /
+
+śākyabhikṣuḥ - kettiaṃ velaṃ bhavantaṃ akkosāmi / gaṇhadu bhaavaṃ / [kiyantīṃ velāṃ bhavantam ākrośāmi / gṛhṇātu (11) bhagavān /]
+
+kapālī - nūnam evaṃ buddhenāpi dānaparimitā pūritā /
+
+śākyabhikṣuḥ - evaṃ {gade : kide f} {kiṃ s : ki u} dāṇiṃ me saraṇaṃ / [evaṃ gate kim idānīṃ me śaraṇam /]
+
+kapālī - nanu buddhadharmasaṅghāḥ /
+
+pāśupataḥ - nāyaṃ vyavahāro mayā paricchettuṃ śakyate / tad adhikaraṇam eva yāsyāmaḥ /
+
+devasomā - bhagavan! yady evaṃ, namaḥ kapālāya / [bhaavaṃ! jai evaṃ, ṇamo kavālassa /]
+
+pāśupataḥ - ko 'bhiprāyaḥ /
+
+devasomā - eso uṇa aṇeavihārabhoasamadhigadavittasañcao jahākāmaṃ adhikaraṇakāruṇiāṇaṃ muhāṇi pūreduṃ pāredi / ahmāaṃ puṇa ahicammabhūdimattavibhavassa dariddakavāliassa pariāriāṇaṃ ko etta vibhavo adhikaraṇaṃ pavisiduṃ / [eṣa punar anekavihārabhogasamadhigatavittasaṃcayo yathākāmam {adhikaraṇa : kāruṇa c}{kāraṇikānāṃ : kāruṇikānāṃ all mss.(12)} mukhāni pūrayituṃ pārayati / asmākaṃ punar ahicarmabhūtimātra{vibhavasya : vibhava g}daridrakāpālikasya paricārikāṇāṃ ko 'tra vibhavo 'dhikaraṇaṃ praveṣṭum / ]
+
+pāśupataḥ - {naitad evam : mā maivam c} / ajihmaiḥ sāragurubhiḥ sthiraiḥ ślakṣṇaiḥ sujanmabhiḥ / tair dharmo dhāryate stambhaiḥ prāsāda iva sādhubhḥ // 18 //
+
+kapālī - kṛtam anena / kutaś cid api nyāyya{nyāya bce}vṛtter bhayaṃ nāsti /
+
+śākyabhikṣuḥ - {(pāśupatam avalokya) d} bho bhaavaṃ! tumaṃ dāva aggado hohi {hodu abcf} / [bho bhagavan! tvaṃ tāvad agrato bhava /]
+
+pāśupataḥ - bāḍham {prathamaḥ kalpaḥ khabcde} / (sarve parikrāmanti /)
+
+- - -
+
+(tataḥ praviśaty unmattakaḥ /)
+
+unmattakaḥ - eśo eśo duṭṭhakukkule / śullamaṃśagabbhaṃ kavālaṃ gaṇhia dhāvaśi / dāśīevutta! kahiṃ gamiśśiśi / eśo dāṇiṃ kavālaṃ ṇikkhivia maṃ khāyidukāmo ahimuhaṃ āhāvai / (diśo vilokya) imiṇā patthaleṇa dantāṇi śe bhañjiśśaṃ / kahaṃ kavālaṃ ujjhia palāaśi / ummatte duṭṭhakukkule īdiśeṇa {ṇāma : om. f} śūlattaṇeṇa mae śaha vi lośaṃ kaleśi / gāmaśūgalaṃ āluhia gagaṇam uppadideṇa śāgaleṇa paḍipañjia lāvaṇaṃ balā gahīde śakkaśude timiṅgale / ai elaṇḍalukkha! kiṃ bhaṇāśi / aliaṃ aliaṃ tti / ṇaṃ eśe muśalaśamaviśālalambahatthe daddule me śakkhī / ahava tellokkavidiapalakkamaśśa śakkhiṇā kiṃ kayyaṃ / {evaṃ : evvaṃ dāva d} kaliśśaṃ / kukkilakhādiaśeśaṃ maṃśakhaṇḍaṃ khādiśśaṃ / (khādan bhrāntaḥ /) hā hā mālido mhi, bappheṇa mālido mhi / (ruditvā vilokya) ke eśe maṃ tāleśi / (vilokya /) duṭṭhadālaā! jaśśa vā kaśśa vā {bhāuṇeo s : bhāaṇeo u} khu ahaṃ, bhīmaśeṇaśśa ghaṭukkao via / avi a śuṇātha - gahīdaśūlā bahuveśadhāliṇo śadaṃ piśāā udale vahanti me / śadaṃ ca vagghāṇa ṇiśaggabhīśaṇaṃ muheṇa muñcāmi ahaṃ {maholae s : maholaye u} // 19 // kahaṃ maṃ bāhanti / paśīdantu paśīdantu dālaabhaṭṭā / imaśśa maṃśakhaṇḍaśśa kālaṇādo mā maṃ bāheha / (agrato vilokya /) eśe khu amhāṇaṃ āālie śūlanandī / {jāva s : jāvaṃ u} ṇaṃ uvaśappāmi / (iti dhāvati /) [eṣa eṣa duṣṭakukkuraḥ / śūlyamāṃsagarbhaṃ kapālaṃ gṛhītvā {dhāvasi : dhāvati g} / dāsyāḥputra! kutra gamiṣyasi / eṣa idānīṃ kapālaṃ nikṣipya māṃ khāditukāmo 'bhimukham ādhāvati / anena prastareṇa dantān asya bhaṅkṣyāmi / kathaṃ kapālam ujjhitvā palāyase / unmatto duṣṭakukkura īdṛśena nāma śūratvena {saha g} mayā {sahāpi roṣaṃ : saha virodhaṃ g} karoṣi / grāma{sūkaram : sūkaragalam g} āruhya gaganam utpatitena {sāgareṇa : (probably) śvagaṇena g(13)} {prabhañjya : pratibhañjya g} {rāvaṇaṃ balād : airāvataṃ g} gṛhītaḥ {śakrasutas : sasutas g} timiṅgilaḥ /(14) ayi eraṇḍavṛkṣa! kiṃ bhaṇasi / alīkam alīkam iti / {nanv eṣa musalasamaviśālalambahasto darduro me sākṣī : hanumata eṣā musalasamaviśālalambahaste dardure me śaktiḥ g} / {athavā trailokyaviditaparākramasya sākṣiṇā kiṃ kāryam : athavā kiṃ mama trailokyaviditaparākramasya śaktyāḥ kāryam g} / evaṃ {kariṣyāmi : tāvat kariṣye g} / kukkurakhāditaśeṣaṃ māṃsakhaṇḍaṃ khādiṣyāmi / hā hā {bāṣpeṇa mārito 'smi : mālito 'smi bāṣpeṇa g} / ka eṣa māṃ tāḍayasi / {duṣṭadārakā : duṣṭadārakabhartāra! vāsudevasya bhāgi g}! yasya vā kasya vā bhāgineyaḥ khalv ahaṃ, bhīmasenasya ghaṭotkaca iva / api ca śṛṇutha - 
+gṛhītaśūlā bahuveṣadhāriṇaḥ
+śataṃ piśācā udare {vahanti : vasanti g} me /
+śataṃ ca vyāghrāṇāṃ nisargabhīṣaṇaṃ
+mukhena muñcāmy ahaṃ mahoragān // 19 //
+
+
+kathaṃ {māṃ bādhante : punar api māṃ tāḍayanti g} / prasīdantu prasīdantu dārakabhartāraḥ! asya māṃsakhaṇḍasya kāraṇād mā māṃ {bādhadhvam : tāḍayatha g} / eṣa khalv asmākam ācāryaḥ śūranandī / yāvad enam {upasarpāmi : upaharāmi g(15)}/]
+
+pāśupata - aye! ayam unmattakaḥ ita evābhivartate / ya eṣaḥ - nirviṣṭojjhitacitracīvaradharo rūkṣair nitāntākulaiḥ keśair uddhatabhasma{pāṃsu : pāṇḍu d}nicayair nirmālya{mālākulaiḥ : mālāvṛtaḥ ce : mālāvṛtaiḥ d} / ucchiṣṭāśanalolupair balibhujām anvāsyamāno gaṇair bhūyān grāmakasārasañcaya iva bhrāmyan manuṣyākṛtiḥ // 20 //
+
+unmattakaḥ - {(pāśupatam avalokya) cde} jāva ṇaṃ uvaśappāmi / (upasṛtya) mahāśāhuṇo caṇḍālakukkulaśśa śaāśādo ahiadaṃ edaṃ {kavālaṃ : om. d} paḍigaṇhadu bhaavaṃ / [yāvad enam upasarpāmi / mahāsādhoś caṇḍālakukkurasya sakāśād {mayā g} adhigatam etat kapālaṃ pratigṛhṇātu {bhagavān : bhavān / bhagavan(16) / mastakena vandāmi g} /]
+
+pāśupataḥ - (sadṛṣṭikṣepam /) pātre pratipādyatām /
+
+unmattakaḥ - mahābamhaṇa! kaliadu paśādo / [mahābrāhmaṇa! kriyatāṃ prasādaḥ /]
+
+śākyabhikṣuḥ - eso mahāpāsuvado edassa joggī / [eṣa mahāpāśupata etasya yogyaḥ /] (satyasoma!)
+
+unmattakaḥ - (kapālinam upagamya kapālaṃ bhūmau nikṣipya pradakṣiṇīkṛtya pādayoḥ patitvā) mahādeva! kalīadu paśādo / eśo de añjalī / [mahādeva! kriyatāṃ prasādaḥ / eṣa te 'ñjaliḥ /]
+
+kapālī - {priye! c} asmadīyaṃ {idaṃ e} kapālam / devasomā - {bhagavan! g} evaṃ edaṃ / [evam etat /]
+
+kapālī - bhagavatprasādāt punar api kapālī saṃvṛttaḥ / (grahītum icchati /)
+
+unmattakaḥ - dāśīevutta! viśaṃ khādehi / [dāsyāḥputra! viṣaṃ khāda /] (kapālam ācchidya gacchati /)
+
+kapālī - (anusṛtya) {eṣa : hanta c : kaṣṭam eṣa e} yamapuruṣo me jīvitaṃ harati / abhyavapadyetāṃ bhavantau /
+
+ubhau - hodu / amhe de sahāā homa / [bhavatu / āvāṃ te sahāyau bhavāvaḥ /] (sarve rundhanti /)
+
+kapālī - bhoḥ / tiṣṭha tiṣṭha /
+
+unmattakaḥ - kiśśa maṃ lundhanti / [kasmān māṃ rundhanti /]
+
+kapālī - asmadīyaṃ kapālaṃ dattvā gamyatām /
+
+unmattakaḥ - mūḍha! ki ṇa pekkhaśi, śuvaṇṇabhāaṇaṃ khu edaṃ / [mūḍha! kiṃ na paśyasi, suvarṇabhājanaṃ khalv etat /]
+
+kapālī - evaṃvidhaṃ suvarṇabhājanaṃ kena kṛtam /
+
+unmattakaḥ - ediṇā śuvaṇṇavaṇṇapaḍāvudeṇa śuvaṇṇakārāvuttaeṇa kidaṃ tti bhaavaṃ / śuvaṇṇabhāaṇaṃ tti bhaṇāmi / [etena suvarṇavarṇapaṭāvṛtena suvarṇa{kārāvuttena : kāreṇa g} kṛtam iti bhagavan / suvarṇabhājanam iti bhaṇāmi /]
+
+śākyabhikṣuḥ - kim aaṃ ummattao / [kim ayam unmattakaḥ /]
+
+unmattakaḥ - ummattao tti bahuśo edaṃ śaddaṃ śuṇomi / edaṃ gaṇhia daliśehi ummattaaṃ / (kapāline kapālaṃ prayachati /) [{unmattaka iti bahuśa etaṃ śabdaṃ śṛṇomi / etad gṛhītvā darśayonmattakam / : yuṣmākaṃ unmattakā / yuṣmākaṃ putrā unmattakāḥ / etad dattvā darśayāmi unmattakatvam / g}]
+
+kapālī - (kapālaṃ gṛhītvā) ayam idānīṃ kuḍyenāntarhitaḥ / śīghram anugamyatām /
+
+unmattakaḥ - laddhappaśāde hmi / [labdhaprasādo 'smi /] (niṣkrānto javenonmattakaḥ /)
+
+śākyabhikṣuḥ - aho acchariaṃ / paravakkhassa lābheṇa ahaṃ parituṭṭho hmi / [aho āścaryam / parapakṣasya lābhenāhaṃ parituṣṭo 'smi /]
+
+kapālī - (kapālaṃ pariṣvajya /) ciraṃ mayā caritam akhaṇḍitaṃ tapo maheśvare bhagavati bhaktir {asti : astu c} me / tirohitaḥ sa tu sahasā sukhena nas tvam adya yat kuśali kapāla dṛśyase // 21 //
+
+devasomā - bhaavaṃ! candasamāgadaṃ via paosaṃ bhaavantaṃ pekkhantīe ajja āṇandadī via me diṭṭhī / [bhagavan! candrasamāgatam iva pradoṣaṃ bhagavantaṃ paśyatyā adyānandatīva me dṛṣṭiḥ /]
+
+pāśupataḥ - diṣṭyā bhavān vardhate /
+
+kapālī - nanv abhyudayo bhavatām eva /
+
+pāśupataḥ - (ātmagatam /) satyam etat / nāsty adoṣavatāṃ bhayam iti / {yad : om. cd} ayam adya {bhikṣur : om. d} vyāghramukhāt {katham api e} paribhraṣṭaḥ / (prakāśam /) yāvad aham idānīm eva suhṛdabhyudayakṛtam ānandaṃ purodhāya bhagavataḥ {pūrva : pūrvaṃ kaa(17)}{sthalī : sthala c}nivāsino {dhūma : dhūmra h}velāṃ {pratipālayāmi : sambhāvayāmi c}/ ayaṃ cādyaprabhṛti - virodhaḥ pūrvasambaddho yuvayor astu śāśvataḥ / parasparaprītikaraḥ kirātārjunayor iva // 22 // (niṣkrāntaḥ pāśupataḥ /)
+
+kapālī - bho nāgasena! yan mayāparādhaḥ kṛtaḥ, tat prasannahṛdayaṃ tvam icchāmi /
+
+śākyabhikṣu - kiṃ edaṃ pi abbhatthaṇīaṃ / kiṃ de piaṃ karemi / [kim etad apy abhyarthanīyam / kiṃ te priyaṃ karomi /]
+
+kapālī - yadi me bhagavān prasannaḥ, kim ataḥ param aham icchāmi /
+
+{śākyabhikṣu - gacchāmi dāva ahaṃ / [gacchāmi tāvad aham /]
+
+kapālī - gacchatu bhavān punardarśanāya /
+
+śākyabhikṣu - taha hodu / (niṣkrāntaḥ /) [tathā bhavatu /]
+
+kapālī - priye devasome! gacchāvas tāvat / : om. (no siglum)(18)}
+
+(bharatavākyam)
+
+śaśvad bhūtyai prajānāṃ vahatu vidhihutām āhutiṃ jātavedā vedān viprā bhajantāṃ surabhiduhitaro bhūridohā bhavantu / udyuktaḥ sveṣu dharmeṣv ayam api vigatavyāpad ācandratāraṃ rājanvān astu śaktipraśamitaripuṇā śatrumallena lokaḥ // 23 //
+
+(niṣkrāntau /)
+
+mattavilāsaprahasanaṃ samāptam //
+
+end notes: (1) note by sastri, also printed in unni's edition: karotīty adhyāhartavyam / (2) brackets by sastri; unni: daṃseduṃ (3) note by sastri (shortened in unni 1998): argheti mūlyaprāptyarthako dhātuḥ / bahu iti kriyāviśeṣaṇam / bahu arghanti bahu mūlyaṃ prāpnuvanti ślāghām analpāṃ labhanta iti yāvat / yaḥ svayaṃ guṇottarasūktiratnanidhiḥ san parakīyasūktāny alpaguṇāny api nāvamanyate, pratyuta ślāghata eva kevalam iti tātparyam / yasminn iti vaiṣayike sāmīpike vādhikaraṇe saptamī / (4) or does h omit pātrahastaḥ only? unni's note is ambiguous. (5) or is it upādhaassa in k? the note in my edition is not clearly ligible. (6) unni does not make clear what the akṣara gha is substituted for or where it is inserted. (7) or suvihisasayyesu? (8) brackets in both unni's and sastri's editions. (9) probably for dhvaṃsaṃ. (10) no siglum in sastri's note. (11) unni records the very same gṛhṇātu as a variant. (12) according to unni. sastri does not record any variant. (13) (mis)printed: śvaṇṇena. (14) unni prints (part of) the commentary in g: grāmasūkaraḥ kukkuraḥ, tasya galaṃ kaṇṭham; gaganam utpatitena mayā śvagaṇena saha airāvataṃ pratibhañjya gṛhītaḥ sasutas timiṅgila iti unmattapralāpaḥ / (15) g comments: pūjayāmi; asya nayiṣye kapālam iti śeṣaḥ / (16) unni prints: bhagavān. (17) unni prints: pūrvai. (18) no siglum added in unni's note.

@@ -1,0 +1,127 @@
+Vidyāsthānopamasūtra
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vidyAsthAnopamasUtra.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Klaus Wille
+## Contribution: Klaus Wille
+## Date of this version: 2020-07-31
+
+## Source: 
+   - E. Waldschmidt: "Kleine Brāhmī-Schriftrolle". In: Nachrichten der Akademie der Wissenschaften in Göttingen 1959, pp. 3-7 [reprint in: E. Waldschmidt. Von Ceylon bis Turfan, Schriften zur Geschichte, Literatur, Religion und Kunst des indischen Kulturraumes (Festgabe zum 70. Geburtstag). Göttingen 1967, pp. 373-378].
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Vidyāsthānopamasūtra = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from vsths_tu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Vidyasthanopamasutra
+Based on the ed. by E. Waldschmidt: "Kleine Brāhmī-Schriftrolle". In: Nachrichten der Akademie der Wissenschaften in Göttingen 1959, pp. 3-7
+[reprint in: E. Waldschmidt. Von Ceylon bis Turfan, Schriften zur Geschichte, Literatur, Religion und Kunst des indischen Kulturraumes (Festgabe zum 70. Geburtstag). Göttingen 1967, pp. 373-378].
+Input by Klaus Wille
+[GRETIL-Version: 2018-08-17]
+MARKUP
+restored passagesremarks( ) = restored akṣara(s)
+[ ] = damaged akṣara(s)
++ = lost akṣara
+.. = illegible akṣara
+. = single element thereof
+/// = leaf broken off here
+/ = single daṇḍa
+// = double daṇḍa
+· = interpunctuation mark
+TRANSLITERATION
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+vidyāsthānopamasūtra
+
+1 evaṃ mayā śrutam / ekasmiṃ samaye bhagavāṃ śrāvastyāṃ viharati sma jetavane anāthapiṇḍadārāme /
+
+2 tatra bhagavāṃ bhikṣūn āmaṃtrayate sma /
+
+3 utpādād vā bhikṣavaḥ tathāgatānām anutpādād vā saṃvartate ca loko vivartate ca / different beginning for paragraphs 1-3 in or.15009/83v; ed. in: the british library sanskrit fragments, vol. ii, ed. s. karashima and k. wille, tokyo 2009 (buddhist manuscripts from central asia), pp. 153f.: 1 /// .. ye bhagavāṃ śrāvastyāṃ viharati sma je[tava]ne a .. .. + + ///
+
+2 /// .. .y. dau kalyāṇaṃ madhye kalyāṇaṃ pa[rya]vasāne kaly[āṇaṃ] + ///
+
+3 /// + ṣyāmi yad uta vidya[sthā]nopamaṃ nāma dharmaparyāyas tac chṛnu[t]. [s]. ///
+
+4 /// dharmaparyāya katama utpādād vā tathāgatāṇām a .. ///
+
+for this wording cf. daśottarasūtra e.a-c
+
+4 saṃvartamāne loke yadbhūyasā satvā ābhasvare devanikāye upapadyante /
+
+5 te tatra bhavanti rūpiṇo manomayā avikalā ahīnendriyāḥ sarvāṅgapratyaṅgopetāḥ śubhā varṇasthāyinaḥ prītibhakṣāḥ prītyāhārāḥ svayaṃprabhā vaihāyasagāmino dīrghāyuṣo dīrgham adhvānaṃ tiṣṭhaṃti /
+
+6 vivartamāne loke pṛthak chilpasthānakarmasthānāni prajñāyante /
+
+7 tadyathā
+mantrā japā auṣadhayo māyākarma cikitsitam /
+divyaṃ ca cakṣu ṛddhiś ca yathocitaṃ jñānadarśanam //
+
+8
+
+mārgan tu na prajānaṃti duḥkhopaśamagāminam / unmārge na vihanyantaś caranti amarā yathā / anissaraṇadarśinaḥ //
+
+c: read unmārgena, s.e. for unmārgeṇa
+
+9 yasmiṃs tu samaye tathāgatā arhantaḥ samyaksaṃbuddhā loke utpadyante yāni ca laukikāni pṛthak chilpasthānakarmasthānāni yac ca lokottaraṃ tat sarvam abhijñāya
+
+yac chreṣṭhaṃ sarvavidyānāṃ tad deśayaṃti tathāgatāḥ /
+
+10 yad uta idaṃ duḥkham āryasatyaṃ ayaṃ duḥkhanirodhagāminī pratipad āryasatyam iti /
+cf. pelliot sanskrit bleu 375rw: /// (ārya)satyaṃ ayaṃ duḥkha[s](amuday). ///
+11 tac chreṣṭhaṃ sarvavidyānāṃ yad deśayaṃti tathāgatāḥ / sarvam eke prajānaṃti śramaṇabrāhmaṇāḥ pṛthak /
+
+12 mantrā japā auṣadhayo māyākarma cikitsitaṃ / divyaṃ ca cakṣu ṛddhiś ca uditaṃ jñānadarśanam / d: cf. pelliot sanskrit bleu 375ry: /// ṛddhiś ca uditaṃ jñānada /// 
+
+13 mārgaṃ tu na prajānaṃti duḥkhopaśamagāminam / te mārgam aprajānanto duḥkhopaśamagāminam / unmārge na vihanyantaś caranti amarā yathā / anissaraṇadarśinaḥ //
+
+e: cf. pelliot sanskrit bleu 375rz: /// .. vihanyaś caranti amarā ///; read unmārgeṇa
+
+14 yadā tu loke saṃbuddhā utpadyante karuṇikāḥ / prakāśayaṃti saddharmaṃ sarvaduḥkhavinodanam //
+
+bc: cf. pelliot sanskrit bleu 375v1: /// + [g]ā · prakāśayaṃti ye [dh](armaṃ) ///; cf. also next paragraph
+
+15 duḥkhaṃ duḥkhasamutpādaṃ duḥkhasya samatikramaṃ / āryaṃ cāṣṭāṅgikaṃ mārgaṃ kṣemaṃ nirvāṇagāminam //
+
+for the two verses in paragraph 14 and 15 cf. suvarṇavarṇāvadāna [57]; for the actual input cf. thesaurus literaturae buddhicae (tlb): https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2): 
+kadācit karhicit loke utpadyante tathāgatāḥ /
+śāstāro naradevānāñ cakṣuṣmanto raṇātigāḥ // 1 //
+
+
+prakāśayanti ye dharmaṃ sarvaduḥkhavinodanaṃ /
+duḥkhaṃ duḥkhasamutpādaṃ duḥkhasya samatikramaṃ //
+
+āryāṣṭāṅgikaṃ mārgaṃ kṣemaṃ nirvāṇagāminaṃ // 2//
+
+16
+tasmiṃ dharme deśyamāne te sarvaduḥkhavinodane /
+jñānena hatvā ajñānaṃ nāgacchanti punarbhavam //
+
+17 bhagavāṃ āptamanasas te bhikṣavo bhagavato bhāṣitam abhyanandam //
+
+18 vidyāsthānopamasūtraṃ samāptaḥ /
+
+19 rakṣaṃ bhavatu / kutkāttuṃsasya svāhā //

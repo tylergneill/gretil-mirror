@@ -1,0 +1,63 @@
+Tattvasamāsa-4versions an abstract of Sāṃkhya philosophy in (23-) 25 sūtras,
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_tattvasamAsa-4versions.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Dhaval Patel
+## Contribution: Dhaval Patel
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Vindhyesvari Prasada Dvivedin in: Sāmkhyasaṅgrahaḥ.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Tattvasamāsa-4versions = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from tttvsamu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Tattvasamasa, an abstract of Sāṃkhya philosophy in (23-) 25 sūtras,
+IN FOUR ALTERNATIVE VERSION.
+Basic text extracted from Simanandadiksita's Samkhyatattvavivecana,
+a commentary on the Tattvasamāsa (cf. separate file).
+Based on the ed. by Vindhyesvari Prasada Dvivedin in: Sāmkhyasaṅgrahaḥ
+(Chowkhamba Sanskrit Series, 50,1 [fasc. 286], pp. 1-49)
+Input by Dhaval Patel
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+aṣṭau prakṛtayaḥ || tats_1 ||ṣoḍaśa vikārāḥ || tats_2 ||puruṣaḥ || tats_3 ||traiguṇyam || tats_4 ||saṃcaraḥ || tats_5 ||pratisaṃcaraḥ || tats_6 ||adhyātmam adhibhūtam adhidaivataṃ ca || tats_7 ||pañcābhibuddhayaḥ || tats_8 ||pañca karmayonayaḥ || tats_9 ||pañca vāyavaḥ || tats_10 ||pañca karmātmānaḥ || tats_11 ||pañcaparvāvidyā || tats_12 ||aṣṭāviṃśatidhāśaktiḥ || tats_13 ||navadhā tuṣṭiḥ || tats_14 ||aṣṭadhā siddhiḥ || tats_15 ||daśa mūlikārthāḥ || tats_16 ||anugrahasargaḥ || tats_17 ||caturdaśavidho bhūtasargaḥ || tats_18 ||trividho bandhaḥ || tats_19 ||trividho mokṣaḥ || tats_20 ||trividhaṃ pramāṇam || tats_21 ||trividhaṃ duḥkham || tats_22 ||etat paramparayā yāthātathyam || tats_23 ||etat sarvaṃ jñātvā kṛtakṛtyaḥ syāt || tats_24 ||na punastrividhena duḥkhenābhibhūyate || tats_25 ||
+alternative division of the above text according to bhāvāgaṇeśa's tattvayāthārthyadīpana comm. (cf. separate file)
+aṣṭau prakṛtayaḥ || tats_1 ||ṣoḍaśa vikārāḥ || tats_2 ||puruṣaḥ || tats_3 ||traiguṇyam || tats_4 ||saṃcaraḥ || tats_5 ||pratisaṃcaraḥ || tats_6 ||adhyātmam || tats_7 ||adhibhūtam || tats_8 ||adhidaivam || tats_9 ||pañcābhibuddhayaḥ || tats_10 ||pañca karmayonayaḥ || tats_11 ||pañca vāyavaḥ || tats_12 ||pañca karmātmānaḥ || tats_13 ||pañcaparvāvidyā || tats_14 ||aṣṭaviṃśatidhāśaktiḥ || tats_15 ||navadhā tuṣṭiḥ || tats_16 ||aṣṭadhā siddhiḥ || tats_17 ||daśa mūlikārthāḥ || tats_18 ||anugrahasargaḥ || tats_19 ||caturdaśavidho bhūtasargaḥ || tats_20 ||trividho bandhaḥ || tats_21 ||trividho mokṣaḥ || tats_22 ||trividhaṃ pramāṇam || tats_23 ||trividhaṃ duḥkham || tats_24 ||etatparaṃ yāthārthyaṃ etajjñātvā kṛtakṛtyaḥ syānna punastrividhaduḥkhenābhibhūyate || tats_25 ||
+alternative division of the above text according to the sāṃkhyasūtravivaraṇa comm. (cf. separate file)
+aṣṭau prakṛtayaḥ || tats_1 ||ṣoḍaśa vikārāḥ || tats_2 ||puruṣaḥ || tats_3 ||traiguṇyam || tats_4 ||
+saṃcaraḥ || tats_5 || pratisaṃcaraḥ || tats_6 ||
+
+adhyātmam || tats_7 || adhibhūtam || tats_8 || adhidaivam || tats_9 ||
+pañcābhibuddhayaḥ || tats_10 ||pañca karmayonayaḥ || tats_11 ||pañca vāyavaḥ || tats_12 ||pañca karmātmānaḥ || tats_13 ||pañcaparvāvidyā || tats_14 ||aṣṭaviṃśatidhāśaktiḥ || tats_15 ||
+navadhā tuṣṭiḥ || tats_16 || aṣṭadhā siddhiḥ || tats_17 ||
+daśa mūlikārthāḥ || tats_18 ||anugrahasargaḥ || tats_19 ||caturdaśavidho bhūtasargaḥ || tats_20 ||trividho bandhaḥ || tats_21 ||trividho mokṣaḥ || tats_22 ||trividhaṃ pramāṇam || tats_23 ||
+alternative version extracted from a sansknet file of the sāṃkhyasūtras (cf. separate file)
+
+1. tattvapādaḥ
+aṣṭau prakṛtayaḥ | tats_1.1 |ṣoḍaśa vikārāḥ | tats_1.2 |puruṣaḥ | tats_1.3 |traiguṇyaṃ | tats_1.4 |saṃcaraḥ | tats_1.5 |pratisaṃcaraḥ | tats_1.6 |adhyātmam | tats_1.7 |adhibhūtam | tats_1.8 |adhidaivatam | tats_1.9 |
+2. prakīrṇapādaḥ
+pañcābhibuddhayaḥ | tats_2.1 |pañca karmayonayaḥ | tats_2.2 |pañca vāyavaḥ | tats_2.3 |pañca karmātmānaḥ | tats_2.4 |pañcaparvāvidyā | tats_2.5 |aṣṭāviṃśatidhāśaktiḥ | tats_2.6 |navadhā tuṣṭiḥ | tats_2.7 |aṣṭadhā siddhiḥ | tats_2.8 |daśa mūlikārthāḥ | tats_2.9 |anugrahaḥ sargaḥ | tats_2.10 |caturdaśavidho bhūtasargaḥ | tats_2.11 |trividho bandhaḥ | tats_2.12 |trividho mokṣaḥ | tats_2.13 |trividhaṃ pramāṇaṃ | tats_2.14 |trividhaṃ duḥkhaṃ | tats_2.15 |etatparaṃ yāthātathyaṃ | tats_2.16 |etatjñātvā kṛtakṛtyaḥ syāt | tats_2.17 |nāsau punaḥ trividhena duḥkhenābhibhūyate nābhibhīyate | tats_2.18 |

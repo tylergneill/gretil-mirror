@@ -1,0 +1,327 @@
+Davuldeṇa Jñāneśvara Mahāsthavira: Yaśodharācarita
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_davuldeNa-jJAnezvara-mahAsthavira-yazodharAcarita.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Bhikkhu Pāsādika and Bhikkhu Tampalawela Dhammaratana: Contemporary Sri Lankan Sanskrit Poetry: The Yaśodharācaritam by Davuldeṇa Jñāneśvara Mahāsthavira. Bulletin d'etudes indienne 21.1 (2003), pp. 47-70.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Yaśodharācarita = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from davyasou.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Davuldena Jnanesvara Mahasthavira: Yasodharacarita (= Yaśo)
+Based on the ed. Bhikkhu Pāsādika and Bhikkhu Tampalawela Dhammaratana:
+Contemporary Sri Lankan Sanskrit Poetry: The Yaśodharācaritam by Davuldeṇa Jñāneśvara Mahāsthavira.
+Bulletin d'etudes indienne 21.1 (2003), pp. 47-70.
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Version: 2009-03-19 11:28:31
+Proof Reader: Milan Shakya
+The transliteration emulates the conventions of Nagari script.
+Therefore, many word boundaries are not marked by blanks.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+śrī siddhārthaḥ kapilanagare bodhisattvaḥ saputrāṃ
+devīṃ tyaktvā sakalavibhavaṃ cakravartiśriyaṃ ca |
+māsy āṣāḍhe viratamanasā pūrṇimāyāṃ niśīthe
+niścakrāma śramaṇapadabhṛn mokṣam anveṣṭukāmaḥ || yaśo_1 ||
+
+atha prabhāte śayanāt samutthitā
+sutena sārdhaṃ mahiṣī yaśodharā |
+didṛkṣayā svāmivarasya satvaraṃ
+gatāvidūre śayanīyamandiram || yaśo_2 ||
+
+yathā pure vañcayituṃ sa me patī
+rahogataḥ kutra cid eva gūḍhavān |
+vicintya saudhe 'ntarabāhiraṃ bhṛśaṃ
+parīkṣyamāṇāpi dadarśa naiva tam || yaśo_3 ||
+
+dadhāva tasmāt sacivasya mandiraṃ
+gavākṣam udghāṭya drutaṃ drutaṃ śucā |
+kapāṭam āhatya dṛḍhaṃ muhur muhur
+vyarīravac channa bhavan bhavann iti || yaśo_4 ||
+
+apekṣya kiṃ cit kvaṇam antarād gṛhe
+vyatiṣṭhatālpaṃ pratihārasannidhau |
+vicārabhaṅgāc chvasatī ca pāṇinā
+pratāḍayām āsa kapolayugmakam || yaśo_5 ||
+
+tato gatā sā nṛpamandurālayaṃ
+turaṅgamaṃ nātra dadarśa kanthakam |
+kuto yayau kiṃ rahasā sa vallabho
+vitarkayantīti babhūva mūrchitā || yaśo_6 ||
+
+vicintya yat kiṃ cid itas tataḥ śiraś
+cacāla jaghrau ca mukhe sutasya sā |
+bhujātapatreṇa vilocanadvayān
+nyavārayat sā sravadaśruśīkaram || yaśo_7 ||
+
+aśaknuvantī nitarāṃ samudgamāṃ
+manovyathāṃ soḍhum udagramanyunā |
+patipradattaṃ maṇikaṇṭhabhūṣaṇaṃ
+pravālamālām api kuṇḍaladvayam || yaśo_8 ||
+
+lalāṭikāṃ hemamayāṅgulīyakaṃ
+hiraṇyasūtreṇa nibaddhamekhalām |
+vimucya śīrṣābharaṇaṃ ca kaṅkaṇe
+sasarja dhig dhig vadatī sasambhramam || yaśo_9 ||
+
+atītaḍat pādatalena bhūtalaṃ
+jajṛmbha ūrdhvaṃ vicakarṣa mūrdhajam |
+jajalpa vākyaṃ vigatārtham ākulaṃ
+rurāva bhīteva ruroda gadgadam || yaśo_10 ||
+
+niveśya bālaṃ śayane punaḥ punaḥ
+samutkṣipantī yugapat karadvayam |
+vikampya śīrṣaṃ ca yathā vicetanā
+jughoṣa śaśvāsa papāta vivyathe || yaśo_11 ||
+
+nipīḍyamānāpi bubhukṣayāniśaṃ
+na bhojanaṃ bhoktum iyeṣa kiṃ cana |
+tṛṣāturā nodakabindum apy asau
+papau ca kāye 'py babhūva vepathuḥ || yaśo_12 ||
+
+nihanyate dhīsmṛtiśaktidhīratā
+śarīravarṇaṃ balam indriyeṣv api |
+vinaśyate jīvam anukrameṇa ca
+durantateyaṃ priyaviprayogatā || yaśo_13 ||
+
+niṣadya bhūmyāṃ vinatārdhavigrahā
+śiraś ca pāṇidvayam aṅkamastake |
+niveśya kiṃ cit pariṇamya kaṃdharaṃ
+mamajja cintājaladhāv apāśraye || yaśo_14 ||
+
+yaśodharāyā avamānanakriyā
+asahya siddhārthakumāra ekakaḥ |
+nivāsam utsṛjya gato nu kānanam
+iti pravādo 'pi bhaved aho mama || yaśo_15 ||
+
+yad asti kāryaṃ triṣu mandireṣu tac
+cakāra kāryakṣamasevikā yathā |
+gatau sthitau vā śayane ca vipriyaṃ
+kadā canāhaṃ na cakāra kiṃ cana || yaśo_16 ||
+
+vicintayantī sahasāgatāpadaṃ
+pragamya devāyatanaṃ priyaṃ prati |
+sugandhipuspair api dhūmadīpakair
+apūpujad devagaṇaṃ sagauravam || yaśo_17 ||
+
+bhujadvayaṃ mūrdhni niveśya śokinī
+vilokya devapratimānanaśriyam |
+praṇamya bhaktyā pariśuddhacetasā
+yayāca devān iti viprayogataḥ || yaśo_18 ||
+
+trilokasargasthitināśahetavaḥ
+caturmukhaśrīpaticandraśekharāḥ |
+mahānubhāvā jagadīśvarāḥ surāḥ
+suduḥkhitāyai śaraṇaṃ bhavantu me || yaśo_19 ||
+
+vidhāya yācñām iti devahastayor
+upāyanīkṛtya babandha kārṣikau |
+upāharan miṣṭanavāmbupāyasaṃ
+sitāṃśukaṃ svarṇamayīṃ ca putrikām || yaśo_20 ||
+
+pramodam āpādayituṃ sureśvarāṃś
+cakāra ghaṇṭāninadaṃ ca bhūsurān |
+ajījapad devagirā ca saṃstavān
+nanāma bhūmāv asakṛt nipatya sā || yaśo_21 ||
+
+pure vane saṃvasathe 'pi vallabho
+vased dhi kasminn iti divyācakṣuṣā |
+vilokya gehaṃ vinivartayantu taṃ
+divaukasaḥ prārthayataiva sā punaḥ || yaśo_22 ||
+
+nirīkṣya jihmānimiṣeṇa cakṣuṣā
+nihatya gāḍhaṃ caraṇaṃ bhuvas tale |
+muhur muhur daṃśitakomalādharā
+prakarṣam utkṣipya vikampya tarjanīm || yaśo_23 ||
+
+are-tvayāryasya gṛhābhiniṣkramaḥ
+śruto na dṛṣṭaḥ vada kiṃ nirākulam |
+iti pratīhārabhaṭaṃ ruṣoccakai
+raveṇa papraccha sabāṣpalocanā || yaśo_24 ||
+
+bhavān sa ārye nṛpavaṃśaśekharo
+mayā na dṛṣṭaḥ pratihāram āgataḥ |
+varāṅganābhiḥ saha kelikānane
+gate niśīthe 'ramateti me śrutam || yaśo_25 ||
+
+avītarāgo nanu rājanandano
+vavāñcha tasmān nanu nūtanapriyām |
+mithaḥ sa kāṃ cit pariṇīya nāṭikāṃ
+bahir gato 'ddheti vitarkayāmy aham || yaśo_26 ||
+
+purā hi mandhātvabhidho mahāyaśāḥ
+sa sārvabhaumo 'pi surāṅganāgaṇe |
+kṛtānurāgo parivarjya mānuṣīṃ
+śriyaṃ prapede nu divaukasāṃ puram || yaśo_27 ||
+
+mano'bhirāmaṃ surasundarīgaṇaṃ
+vihāya vindhyāvanatāpasāśrame |
+agastipatnīṃ parirabhya tāpasīṃ
+lalāsa rantuṃ niśi pākaśāsanaḥ || yaśo_28 ||
+
+pratītalaṅkāvijite 'grabhūpatir
+daśānano daṇḍakakānanaṃ gataḥ |
+vigṛhya sītāṃ janakātmajām api
+nijapriyāvad vyadadhāt tadātmasāt || yaśo_29 ||
+
+maheśvaraś cāpi purā tapaś carann
+umāmahiṣyā saha kalikānane |
+apāsya sātatyasamādhibhāvanaṃ
+vyarīramac cājanayat sutau nanu || yaśo_30 ||
+
+śucākulāṃ sāntvayituṃ vadhūttamām
+iti pratīhāra uraḥsthale 'ñjalim |
+vidhāya valgudhvaninānukampayā
+natena mūrdhnā vacasā vyajijñapat || yaśo_31 ||
+
+are-tvam etarhi bhavantam uttamaṃ
+gṛhe bahir vopavane 'pi kutra cit |
+aharmukhe kiṃ niśi vā dadarśitha
+vyapṛcchad itthaṃ nijasevikāṃ ruṣā || yaśo_32 ||
+
+nidhāya vāmetarajānumaṇḍalaṃ
+kṣitau bhujau cāpi lalāṭamastake |
+natārdhakāyaṃ nijagāda sevikā
+śrutaṃ ca dṛṣṭaṃ na na vedmi kiṃ cana || yaśo_33 ||
+
+ataḥ-paraṃ harmyam upeyuṣī satī
+pramārjya nisyandajalaṃ vilocane |
+are-kim āryo 'tra samāgato na vā
+vyapṛcchad antaḥpurapālapaṇḍakam || yaśo_34 ||
+
+praśasyarūpeṇa girā ca valgunā
+śriyā 'pi dhṛtyā tava kakṣam āgatāḥ |
+mahottame sarvajanena mānitā
+bhavanti tasya tritayāḥ priyāṅganāḥ || yaśo_35 ||
+
+mano'bhirāmā bhavatī ca bhāratī
+tathaiva lakṣmīr iti tāḥ priyāṅganāḥ |
+sadaiva tābhī ramate kumārakaḥ
+kadā cid anyatra mano 'sya no rajet || yaśo_36 ||
+
+jugupsite satpuruṣair manasvibhiḥ
+sadoṣakāme vimukho nu te patiḥ |
+tato 'sya śuddhāntagatiḥ kadā cana
+śrutā na dṛṣṭā na divā vā niśi || yaśo_37 ||
+
+tapodhanānāṃ samatām upeyivān
+ratiṃ na kuryāt sa bhavatraye kva cit |
+amedhyagehena same 'varodhane
+kathaṃ vidhatte ratim eṣa te patiḥ || yaśo_38 ||
+
+asādhyarogāyatane sukhetare
+bubhukṣayā nityanipīḍitodare |
+atarpaṇīye vividhānnapānakaiḥ
+spṛhāṃ na dehe prakaroti paṇḍitaḥ || yaśo_39 ||
+
+vikīrṇagharmodakavipruṣi tvaci
+vicitravarṇaṃ śamalena saṃskṛte |
+śarīra ālokya jano vinaśyate
+pataṅgavad dīpaśikhojjvalaprabhām || yaśo_40 ||
+
+tato nṛpāntaḥpurapālakodite
+kṛtāvadhānā vacane yaśodharā |
+divaukasāṃ nandanakānanopamaṃ
+jagāma rājopavanaṃ calātmanā || yaśo_41 ||
+
+athābhirāmopavanasya rakṣakaḥ
+puraḥ pragamyorasi baddhapāṇinā |
+kimartham ārye 'tra samāgatis tava
+bhavāmi jijñāsur iti nyavedayat || yaśo_42 ||
+
+sakhe mamāryo rahasāruṇodaye
+samāgato vātra na kiṃ samāgataḥ |
+kim atra dṛṣṭaḥ sa na vā śrutas tvayā
+vicintya samyag vada māṃ yathātatham || yaśo_43 ||
+
+gataspṛhaḥ pañcasu kāmavastuṣu
+sa āryaputro vijitendriyo bhavet |
+tato 'bhirāmopavanaṃ samāgamo
+na dṛṣṭa ārye na hi vā śruto mayā || yaśo_44 ||
+
+vidhitsamāno 'bhyudayaṃ jagattraye
+divaukasānām adhigamya yācanam |
+divo 'vatīrṇo nanu puṇyatejasā
+manuṣyajanmany ajaniṣṭa sa prabhuḥ || yaśo_45 ||
+
+mahāmahe saty asitarṣir īyivān
+divaṃ kim ity asya vimṛśya kāraṇam |
+svamitraśuddhodanabhūpateḥ suto
+'janīti harṣāt tam avekṣituṃ yayau || yaśo_46 ||
+
+tato 'sitarṣir nṛpasaudham āgataḥ
+kumārakaṃ vīkṣya sapuṇyasampadam |
+atīndriyajñānamayena cakṣuṣā
+parīkṣamāṇo 'sya śarīralakṣaṇam || yaśo_47 ||
+
+jagāda vākyaṃ śiśur eṣa puṇyavān
+bhaved dhi buddho hatamārabandhanaḥ |
+pratārayet sarvanarāmarāsurān
+apārasaṃsāramahārṇavād iti || yaśo_48 ||
+
+dvijeṣu pañcasv atha dehalakṣaṇaṃ
+parīkṣya kauṇḍaṇyabudho 'bravīd iti |
+vinaśya tṛṣṇādimalāny ayaṃ śiśur
+anuttaraṃ buddhapadaṃ gamiṣyati || yaśo_49 ||
+
+tadā prasūtakṣaṇa eva lumbinī-
+vane sa saptāmbujamūrdhny abhivrajan |
+abhītanādaṃ nyanadaj jagattraye
+bhaveyam agras tv iti siṃhapotavat || yaśo_50 ||
+
+bhramaddvirephaśrutiramyanisvanaḥ
+sugandhinaḥ puṣpaparāgarāśinā |
+taraṃgiṇīśīkaramiśramāruto
+vavau samantād vipine śanaiḥ tadā || yaśo_51 ||
+
+mahātmanas tasya parārdhyajanmani
+vasuṃdharāyā nidhayaḥ samudgatāḥ |
+dharāṅganā tarhy atimātramoditā
+savismayāṃ siddhim adarśayad bhuvi || yaśo_52 ||
+
+tataḥ paraṃ lumbinikānanād gṛhaṃ
+vicitrajāmbūnadabimbasaṃnibham |
+kumārakaṃ tau pitarau savatsalau
+sabandhuvargaṃ parivārya ninyatuḥ || yaśo_53 ||
+
+gurupradiṣṭaṃ vidhivad gurupriyaḥ
+samastavidyāsamayaṃ ca darśanam |
+bhave bhave saṃcitapuṇyatejasā
+samadhyagīṣṭāciram eṣa buddhimā || yaśo_54 ||
+
+śrutena dhṛtyā navayauvanaśriyam
+upeyuṣo 'syāryasutasya janmanaḥ |
+saha tvayā ṣoḍaśame hi hāyane
+vivāhadīkṣāṃ vidhivac cakāra nu || yaśo_55 ||

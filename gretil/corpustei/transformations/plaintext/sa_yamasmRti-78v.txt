@@ -1,0 +1,274 @@
+Yamasmṛti (78-verse version)
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_yamasmRti-78v.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Jürgen Neuß
+## Contribution: Jürgen Neuß
+## Date of this version: 2020-01-21
+
+## Source: 
+   - Haridatta Sastri (ed.): The Smriti Sandarbha (6 Vols.). Calcutta 1952/1957 (Gurumandal Series 9).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Yamasmṛti, 78-verse version = YamS-78v,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This is the shortest version of the Yamasmṛti, containing 78 verses.
+
+   Based on The Smriti Sandarbha, pp. 2083-90.
+
+
+
+# Text
+
+
+atha yamasmṛtiḥ ||
+
+śrīgaṇeśāya namaḥ ||
+
+atha prāyaścittavarṇanam
+
+athāto hy asya dharmasya prāyaścittābhidhāyakam /
+caturṇām api varṇānāṃ dharmaśāstraṃ pravartate // YamS-78v_1
+
+jalāgnyudvandhanabhraṣṭāḥ prabrajyānaśanacyutāḥ /
+viṣaprapatanaprāyaśastraghātacyutāśca ye // YamS-78v_2
+
+sarve te pratyavasitāḥ sarvalokavahiṣkṛtāḥ /
+cāndrāyaṇena śuddhyanti taptakṛcchradvayena vā // YamS-78v_3
+
+ubhayāvasitāḥ pāpā ye 'grāmya śaraṇacyutāḥ /
+indudvayena śuddhyanti dattvā dhenuṃ tathā vṛṣam // YamS-78v_4
+
+gobrāhmaṇahanaṃ dagdhā mṛtam udvandhanena ca /
+pāśaṃ tasyaiva chittvā tu taptakṛcchraṃ samācaret // YamS-78v_5
+
+kṛmibhir vraṇasaṃbhūtair makṣikāśvopaghātitaḥ /
+kṛcchrārddhaṃ saṃprakurvīta śaktyā dadyāt tu dakṣiṇām // YamS-78v_6
+
+brāhmaṇasya maladvāre pūyaśoṇita sambhave /
+kṛmibhuktabraṇe mauñjīhomena sa viśuddhyati // YamS-78v_7
+
+yaḥ kṣatriyas tathā vaiśyaḥ śūdraścāpyanulomajaḥ /
+jñātvā bhuṅkte viśeṣeṇa carec cāndrāyaṇaṃ vratam // YamS-78v_8
+
+kukkuṭāṇḍapramāṇan tu grāsañca parikalpayet /
+anyathāhāradoṣeṇa na sa tatra viśuddhyati // YamS-78v_9
+
+ekaikaṃ varddhayec chukle kṛṣṇapakṣe ca hrāsayet /
+amāvāsyāṃ na bhuñjīta eṣa cāndrāyaṇo vidhiḥ // YamS-78v_10
+
+surānyamadyapānena gomāṃsabhakṣaṇe kṛte /
+taptakṛcchrañ cared vipras tat pāpas tu praṇaśyati // YamS-78v_11
+
+prāyaścitte hy upakrānte kartā yadi vipadyate /
+pūtas tad ahar evāpi iha loke paratra ca // YamS-78v_12
+
+yāvad ekaḥ pṛthak dravyaḥ prāyaścittena śuddhyati /
+aparās te na ca spṛśyās te 'pi sarve vigarhitāḥ // YamS-78v_13
+
+abhojyāś cāpratigrāhyā asaṃpāṭhyā vivāhinaḥ /
+pūyante 'nuvrate cīrṇe sarve te ṛkthabhāginaḥ // YamS-78v_14
+
+ūnaikādaśavarṣasya pañcavarṣāt parasya ca /
+prāyaścittaṃ cared bhrātā pitā vānyo 'pi bāndhavaḥ // YamS-78v_15
+
+ato bālatarasyāpi nāparādho na pātakam /
+rājadaṇḍo na tasyāsti prāyaścittaṃ na vidyate // YamS-78v_16
+
+aśītīryasya varṣāṇi bālo vāpy ūnaṣoḍaśaḥ /
+prāyaścittārddham arhanti striyo rogiṇa eva ca // YamS-78v_17
+
+astaṃ gato yadā sūryaś cāṇḍālarajakastriyaḥ /
+saṃspṛṣṭās tu tadā kaiścit prāyaścittaṃ kathaṃ bhavet // YamS-78v_18
+
+jātarūpaṃ suvarṇañ ca divānītaṃ ca yaj jalam /
+tena snātvā ca pītvā ca sarve te śucayaḥ smṛtāḥ // YamS-78v_19
+
+dāsanāpitagopālakulamitrārdhasīriṇaḥ /
+ete śūdreṣu bhojyānnā yaś cātmanaṃ nivedayet // YamS-78v_20
+
+annaṃ śūdrasya bhojyaṃ vā ye bhuñjanty abudhā narāḥ /
+prayaścittaṃ tathā prāptaṃ carec cāndrāyaṇaṃ vratam // YamS-78v_21
+
+prāpte dvādaśame varṣe yaḥ kanyāṃ na prayacchati /
+māsi māsi rajas tasyāḥ pitā pibati śoṇitam // YamS-78v_22
+
+mātā caiva pitā caiva jyeṣṭho bhrātā tathaiva ca /
+trayas te narakaṃ yānti dṛṣṭvā kanyāṃ rajasvalām // YamS-78v_23
+
+yas tāṃ vivāhayet kanyāṃ brāhmaṇo madamohitaḥ /
+asaṃbhāṣyo hy apāṅkteyaḥ sa vipro vṛṣalīpatiḥ // YamS-78v_24
+
+vandhyā tu vṛṣalī jñeyā vṛṣalī tu mṛtaprajāḥ /
+śūdrī tu vṛṣalī jñeyā kumārī tu rajasvalā // YamS-78v_25
+
+yat karoty ekarātreṇa vṛṣalīsevanād dvijaḥ /
+tad bhaikṣabhug japen nityaṃ tribhir varṣair vyapohati // YamS-78v_26
+
+svavṛṣaṃ yā parityajyāny avṛṣeṇa bṛhaspatiḥ /
+vṛṣalī sā tu vijñeyā na śūdrī vṛṣalī bhavet // YamS-78v_27
+
+vṛṣalīphenapītasya niḥśvāsopahatasya ca /
+tasyāñ caiva prasūtasya niṣkṛtir naiva vidyate // YamS-78v_28
+
+śvitrakuṣṭhī tathā caiva kunakhī śyāvadantakaḥ /
+rogī hīnātiriktāṅgaḥ piśuno matsaras tathā // YamS-78v_29
+
+durbhago hi tathā ṣaṇḍaḥ pāṣaṇḍī vedanindakaḥ /
+haitukaḥ śūdrayājī ca ayājyānāñ ca yājakaḥ // YamS-78v_30
+
+nityaṃ pratigrahe lubdho yācako viṣayātmakaḥ /
+śyāvadanto 'tha vaidyaś ca asadālāpakas tathā // YamS-78v_31
+
+ete śrāddhe ca dāne ca varjanīyāḥ prayatnataḥ // YamS-78v_32
+
+tato devalakaś caiva bhṛtako vedavikrayī /
+ete varjyāḥ prayatnena etad bhāsvatir abravīt // YamS-78v_33
+
+etān niyojayed yas tu havye kavye ca karmaṇi /
+nirāśāḥ pitaras tasya yānti devāmaharṣibhiḥ // YamS-78v_34
+
+agre māhiṣikaṃ dṛṣṭvā madhye tu vṛṣalīpatim /
+ante vārdhuṣikaṃ dṛṣṭvā nirāśāḥ pitaro gatāḥ // YamS-78v_35
+
+mahiṣīty ucyate bhāryā yā caiva vyabhicāriṇī /
+tān doṣān kṣamate yas tu sa vai māhiṣikaḥ smṛtaḥ // YamS-78v_36
+
+samārghan tu samuddhṛtya mahārghaṃ yah prayacchati /
+sa vai vārdhuṣiko nāma brahmavādiṣu garhitaḥ // YamS-78v_37
+
+yāvad uṣṇaṃ bhavaty annaṃ yāvad bhuñjanti vāgyatāḥ /
+aśnanti pitaras tāvad yāvan noktā havirguṇāḥ // YamS-78v_38
+
+havirguṇā na vaktavyāḥ pitaro yatra tarpitāḥ /
+pitṛbhis tarpitaiḥ paścād vaktavyaṃ śobhanaṃ haviḥ // YamS-78v_39
+
+yāvato grasate grāsān havyakavyeṣu mantravit /
+tāvato grasate piṇḍān śarīre brahmaṇaḥ pitā // YamS-78v_40
+
+ucchiṣṭocchiṣtasaṃspṛṣṭaḥ śunā śūdreṇa vā dvijaḥ /
+upoṣya rajamīm ekāṃ pañcagavyena śuddhyati // YamS-78v_41
+
+anucchiṣṭena saṃspṛṣṭe snānamātraṃ vidhīyate /
+tenaivocchiṣṭasaṃspṛṣṭaḥ prājāpatyaṃ samācaret // YamS-78v_42
+
+yāvad viprā na pūjyante sambhojanahiraṇyakaiḥ /
+tāvac cīrṇavratasyāpi tat pāpaṃ na praṇaśyati // YamS-78v_43
+
+yad veṣṭitaṃ kākabalākacillair amedhyaliptaṃ tu bhavec charīram /
+gātre mukhe ca praviśec ca samyak snānena lepopahatasya śuddhiḥ // YamS-78v_44
+
+ūrdhvaṃ nābheḥ karau muktvā yad aṅgam upahanyate /
+ūrdhvaṃ snānam adhaḥ śaucaṃ tan mātreṇaiva śuddhyati // YamS-78v_45
+
+abhakṣyāṇām apeyānām alehyānāñ ca bhakṣaṇe /
+reto mūtrapurīṣāṇāṃ prāyaścittaṃ kathaṃ bhavet // YamS-78v_46
+
+padmoḍumbaravilvāś ca kuśāśvatthapalāśakāḥ /
+eteṣām udakaṃ pītvā ṣaḍrātreṇaiva śuddhyati // YamS-78v_47
+
+yaḥ pratyavasito vipraḥ pravrajyāgnir nirāpadi /
+anāhitāgnir varteta gṛhitvañ ca cikīrṣati // YamS-78v_48
+
+ācaret trīṇi kṛcchrāṇi carec cāndrāyaṇāni ca /
+jātakarmādibhiḥ proktaiḥ punaḥ saṃskāram arhati // YamS-78v_49
+
+tūlikā upadhānāni puṣpaṃ raktāmbarāṇi ca /
+śoṣayitvā pratāpena prokṣayitvā śucir bhavet // YamS-78v_50
+
+deśaṃ kālaṃ tathātmānaṃ dravyaṃ dravyaprayojanam /
+upapattim avasthāñ ca jñātvā dharmaṃ samācaret // YamS-78v_51
+
+rathy ākardamatoyāni nāvāyasa tṛṇāni ca /
+mārutārkeṇa śuddhyanti pakveṣṭakacitāni ca // YamS-78v_52
+
+āture snānasamprāpte daśakṛtvo hy anāturaḥ /
+snātvā snātvā spṛśet tan tu tataḥ śuddhyeta āturaḥ // YamS-78v_53
+
+rajakaś carmakāraś ca naṭo vuruḍa eva ca /
+kaivartamedabhillāś ca saptaite cāntyajāḥ smṛtāḥ // YamS-78v_54
+
+eṣāṃ gatvā tu yoṣāṃ vai taptakṛcchraṃ samācaret // YamS-78v_55
+
+strīṇāṃ rajasvalānān tu spṛṣṭāspṛṣṭi yadā bhavet /
+prāyaścittaṃ kathaṃ tāsāṃ varṇe varṇe vidhīyate // YamS-78v_56
+
+spṛṣṭvā rajasvalāṃ yāntu sagotrāñ ca sabharttṛkām /
+kāmād akāmato vāpi snātvā kālena śuddhyati // YamS-78v_57
+
+spṛṣṭvā rajasvalānyonyaṃ brāhmaṇī śūdrajā tathā /
+kṛcchreṇa śudhyate pūrvā śūdrā pādena śudhyati // YamS-78v_58
+
+spṛṣṭvā rajasvalānyonyaṃ kṣatriyā śūdrajā tathā /
+pādahīnaṃ caret pūrvā pādārddhan tu tathottarā // YamS-78v_59
+
+spṛṣṭvā rajasvalānyonyaṃ vaiśyajā śūdrajā tathā /
+kṛcchrapādaṃ caret pūrvā tadarddhan tu tathottarā // YamS-78v_60
+
+spṛṣṭā rajasvalā caiva śvājajambūkarāsabhaiḥ /
+tāvat tiṣṭhet nirāhārā snātvā kālena śudhyati // YamS-78v_61
+
+spṛṣṭvā rajasvalā kaiścit cāṇḍālair arajasvalā /
+prājāpatyena kṛcchreṇa prāṇāyāmaśatena ca // YamS-78v_62
+
+vipraḥ spṛṣṭo niśāyāñ ca udakyā patitena ca /
+divānītena toyena snāpayec cāgnisannidhau // YamS-78v_63
+
+divārka raśmisaṃspṛṣṭaṃ rātrau nakṣatraraśmibhiḥ /
+sandhyobhayoś ca sandhyāyāḥ pavitraṃ sarvadā jalam // YamS-78v_64
+
+apaḥ karanakhaspṛṣṭāḥ pibed ācamane dvijaḥ /
+surāṃ pibati suvyaktaṃ yamasya vacanaṃ yathā // YamS-78v_65
+
+svāta vāpyos tathā kūpe pāṣāṇaiḥ śastraghātanaiḥ /
+yaṣṭyā tu ghātane caiva mṛtpiṇḍe gokulena ca // YamS-78v_66
+
+rodhane bandhane caiva sthāpite puṣkale tathā /
+kāṣṭhe vanaspatau rodhasaṅkaṭe rajjuvastrayoḥ // YamS-78v_67
+
+etat te kathitaṃ sarvaṃ pramādasthānam uttamam /
+yatra yatra mṛtā gāvaḥ prāyaścittaṃ samācaret // YamS-78v_68
+
+dāruṇā ghātane kṛcchraṃ pāṣāṇair dviguṇaṃ bhavet /
+arddhakṛcchran tu khāte syāt pādakṛcchran tu pādape // YamS-78v_69
+
+śastraghāte trikṛcchrāṇi yaṣṭighāte dvayaṃ caret // YamS-78v_70
+
+kṛcchreṇa vastraghāte 'pi goghnaś ceti viśuddhyati /
+yo varttayati gomadhye nadīkāntāramantike // YamS-78v_71
+
+romāṇi prathame pāde dvitīye śmaśru vāpayet /
+tṛtīye tu śikhā dhāryā caturthe saśikhaṃ vapet // YamS-78v_72
+
+na strīṇāṃ vapanaṃ kuryāt na ca sā gām anuvrajet /
+na ca rātrau vased goṣṭhe na kuryād vaidikīṃ śrutim // YamS-78v_73
+
+sarvān keśān samuddhṛtya chedayed aṅgulidvayam /
+evam eva tu nārīṇāṃ śiraso vapanaṃ smṛtam // YamS-78v_74
+
+mṛtakena tu jātena ubhayoḥ sūtakaṃ bhavet /
+pātakena tu liptena nāsya sūtakitā bhavet // YamS-78v_75
+
+catvāri khalu karmāṇi sandhyākāle vivarjayet /
+āhāraṃ maithunaṃ nidrāṃ svādhyāyañ ca caturthakam // YamS-78v_76
+
+āhārāj jāyate vyādhiḥ krūragarbhaś ca maithune /
+nidrā śriyo nivarttante svādhyāye maraṇaṃ dhruvam // YamS-78v_77
+
+ajñānāt tu dvijaśreṣṭha varṇānāṃ hitakāmyayā /
+mayā proktam idaṃ śāstraṃ sāvadhāno 'vadhāraya // YamS-78v_78
+
+iti yamaproktaṃ dharmaśāstraṃ samāptam ||

@@ -1,0 +1,167 @@
+Ravideva: Rākṣasakāvya with Ṭīkā
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_ravideva-rAkSasakAvyawithTIkA.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Christophe Vielle
+## Contribution: Christophe Vielle
+## Date of this version: 2019-06-14
+
+## Sources: 
+   - H: Kāvyarākṣasaṃ saṭīkam, ed. Karl Gustav Hoefer, Sanskrit Lesebuch mit Benutzung handschriftlicher Quellen, Berlin: Besser, 1849, pp. 86-93.
+	  
+   - C: Rākṣasakāvyam, ed. Johannes Häberlin, Kāvyasaṃgrahaḥ, Calcutta, 1861 (VS 1918), pp. 586-589 (= 2nd augm. ed. of Id., Kávya-sangraha, Calcutta: W. Thacker, 1847).
+	  
+   - K: Vidvadvinodakāvyam, ed. Haridas Hirachand, Kavya Kalapa, Number First, Bombay: Ganpat Krishnaji’s Press, 1864, pp. 137-139.
+	  
+   - J: Rākṣasakāvyam, ed. Pandit Jibananda Vidyasagara, Kavyasangraha, Calcutta: New Indian Press, 1872, pp. 572-576 (based on C; Jc = new ed. [‘3rd’] by the same together with his own vyākhyā, Kāvyasaṃgrahaḥ, vol. 3, Calcutta: Sarasvati Press, 1888, pp. 343-353, repr. 1900 and 1907).
+	  
+   - P: Rākṣasakāvyam, saṭīkam, ed. Kāśīnāth Pāṇḍuraṅg Parab, Bombay: Nirnaya Sagar Press, 1911 (‘3rd ed.’; 1st ed. in 1890, 2nd in 1900, 4th in 1917, 6th in 1935; apparently a very first ed. by the same with the title saṭīkaṃ niśacarakāvyam was already issued in śake 1806 = AD 1885).
+	  
+   - M: Buddhivinodakāvyam [saṭīkam], ed. D.R. Mankad, “Buddhivinodakāvyam (A specimen of Paryāyakāvya)”, Indian Historical Quarterly 12, 1936, pp. 692-700.
+	  
+   - D: [Rākṣasakāvyam], Dacca Ms. collated by S.K. De, “On the Identity of the Buddhi-vinoda-kāvya”, IHQ 13, 1937, pp. 172-176.
+	  
+   - T: Rākṣasakāvyam [saṭīkam], ed. Pandit Tediyūr S. Kṛṣṇamūrti Śāstrī, Thanjavur: Tanjore Sarasvati Mahal Library Series no. 377, 1997.
+	  
+   - U: Kāvyarākṣasam [saṭīkam], University of Pennsylvania Ms. Col. 390, item 1505, online: http://hdl.library.upenn.edu/1017/d/medren/9967589903503681.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Rākṣasakāvya = RaKa and Ṭīkā = RaKaT, and
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   The text of the poem (‘RaKa’) has been established on the basis of Hoefer’s text compared with the text of several other available editions or manuscripts (see list). Each stanza is followed by a paragraph providing the word-by-word and variant readings. The text of the ṭīkā (‘RaKaT’) (whose ascription to the poet himself remains doubtful in its present state*) relies on Hoefer’s edition only, slightly corrected when needed, and with a few additions in brackets (‘[ … ]’).
+   The following editions have not been collated:
+	  
+   - lith. ed. with an anonymous gloss, 10 ff, Benares, VS 1931 = AD 1874, and VS 1942 = AD 1885;
+   - Bombay ed. with Sanskrit commentary and Hindi transl., 31 pp., śake 1816 = AD 1895 (Cat. Barnett BM 1892-1906, p. 284), apparently the same as the one thereafter issued at the Lakṣmīveṅkaṭeśvara Press, VS 1959 = AD 1902, and the Śrīveṅkaṭeśvara Press, VS 1972 = AD 1915;
+   - ed. with Hindi transl. and com., Narsinghpur: Sarasvati Vilasa Press, 1908 (Cat. IO 1951, p. 1310);
+   - ed. with an Hindi word-by-word interpretation and translation and an English translation by Raja Pṛthvīpāla Siṃha of Surajpur, and a Sanskrit commentary by Sītārāma Śāstrī, Allahabad: Indian Press, VS 1966 = AD 1909 (Cat. Barnett BM 1906-28, pp. 840-1, IO 1951, p. 1310);
+   - ed. in Telugu script, with a Telugu commentary, Madras: Vavilla Press, 1926 (Cat. IO 1951, p. 1310);
+   - ed. with commentary by Yaska Śrīnavakiśorakara Śāstrī, Benares: Chowkhamba Sanskrit Series Office, Haridas Sanskrit Series no. 73, 1938 (VS 1995), 2nd ed. 1965.
+
+	  
+
+   (*) Both the text and the ṭīkā are ascribed to Ravideva in the colophons of the Mss. of Berlin (Cat. Weber 1853, p. 170 no. 580, cf. ed. Hoefer), Jammu (Cat. Stein p. 72 no. 1116 = S.RanbirS.R.I. Descr. Cat. II, 1973, pp. 318-9 no. 139 — the text itself of the colophon of “Jammu MS. no. 1118 [sic]” is to be found in Keith Cat. IO 1935 II, p. 1116 fn. 1, therefrom reproduced by Gode JIH 19, 1940, p. 317 fn. 1 = St. Ind. Lit. Hist. I 1953, p. 200 fn. 1), Poona (B.O.R.I. Descr. Cat. 13/2, 1942, p. 275 no. 610 = Peterson’s Report VI 1895-98, p. 87 no. 328), and also, following the NCC (23, 2011, p. 194) where Ravideva’s commentary is entitled Sajjanānandadāyinī, Ahmedabad (L.D.I. Cat. II 1965, pp. 642-3 no. 5011), Baroda (Alph. Ind. II 1950, pp. 1032-3 no. 638), Hoshiarpur (V.V.R.I. Cat. I 1959, p. 225 no.? 5 mss.; now in Lalchand Research Library, DAV College, Chandigarh?), Jaipur (R.O.R.I. Cat. XI 1984, p.? no. 3635), Lahore (PUL Cat. II 1941, p. 265 no. 4560-61) and Ujjain (Cat. II 1941, p. 32 no.?).
+	  
+
+
+
+# Text
+
+atha rākṣasakāvyaṃ saṭīkam ||
+
+kaś cid vanaṃ bahuvanaṃ vicaran vayaḥstho vaśyāṃ vanātmavadanāṃ vanitāṃ vanārdrām |
+tarvaryaripradam udīkṣya samutthitaṃ khe nā gām imāṃ madakalaḥ sakalāṃ babhāṣe || RaKa_1
+
+śrīgaṇeśāya nāmaḥ | kaś cid iti | kaś cid anirdiṣṭanāmā puruṣaḥ | vanaṃ kānanam | bahutaraṃ vanam udakaṃ yatra tad bahuvanam | vicaran bhraman | vayaḥstho vayasi sthito yuvā | vaśyāṃ bhāryām | kiṃviśiṣṭām | vanātmavadanām | vanaṃ pānīyam | tad ātmā yasya sa candramāḥ | kṣīrodamathanotpatteḥ | tena tulyaṃ vadanaṃ yasyāḥ sā vanātmavadanā | tāṃ candravadanām ity arthaḥ | vanitāṃ striyam | vanārdrāṃ pānīyenārdrām ukṣitām | tarvaryaripradaṃ megham | taravo vṛkṣāḥ | teṣām arir agnis tarvaryariḥ | tasyāpy arir udakam | tat pradadātīti tarvaryariprado meghaḥ | tam udīkṣya dṛṣṭvā | samutthitaṃ samutpannam | khe ākāśe | nā puruṣaḥ | madakalo harṣavibhramaḥ | gāṃ vācam imāṃ sakalāṃ samastāṃ babhāṣe uktavān ||(RaKaT_1)
+
+paśyābjadṛg giritaṭeṣu kumātṛsāhvān bhūdevarājaripuśatrusamāvadhūtān |
+vaiśvānarārijaripughnaśarābhibhūtair dṛkśrotraśatrubhir upāsitapuṣpaśobhān || RaKa_2
+
+paśyābjadṛg iti | he abjadṛk padmalocane | giritaṭeṣu parvatānteṣu | kumātā kutsitāmbā | tatsamānā āhvā yeṣāṃ tān kadambān ity arthaḥ | bhūdevā brāhmaṇāḥ | teṣāṃ rājā somaḥ | tasya ripur meghaḥ | ācchādakatvāt | tasya śatrur vātaḥ | viksepaṇatvāt | tenāvadhūtān samaṃ samyak kampitān ity arthaḥ | vaiśvānaro 'gniḥ | tasyārir udakam | tatra jāto matsyaḥ | tadripuḥ kaivartaḥ jhaṣāśanaḥ śambarāsuraḥ | tasya ghatakaḥ kāmaḥ jhaṣadhvajaḥ pradyumnaḥ | tasya śarair abhibhūtair dṛkśrotraśatrubhiś cakṣuḥśravobhujair mayūraiḥ | taiḥ sevitapuṣpaśobhān | upāsitā kusumaśrī yeṣāṃ tān kadambān paśya ||(RaKaT_2)
+
+paśyādrisārasadṛśībhir amūbhir adbhir āplāvayaty amaragub dharaṇīm ahighnaḥ |
+abdaḥ sitābhir asitaḥ śabalaḥ khagābhir vārjaiḥ sitair iva vibhāti vanaṃ prabuddhaiḥ || RaKa_3
+
+paśyādrīti | he bāle paśya | adrisārasadṛśībhiḥ parvatasāratulyābhiḥ | amūbhiḥ pratyakṣābhiḥ | adbhis toyaiḥ | āplāvayati dharaṇīm | amaragup śakraḥ devapatiḥ | ahiṃ vṛtraṃ hatavān ahighnaḥ | abdo meghaḥ | sitābhiḥ śuklābhiḥ khagābhir ākāśagābhir balākābhiḥ | asitaḥ kṛṣṇaḥ śabalaś citraḥ | vārjaiḥ abjaiḥ kumudaiḥ sitair vanaṃ pānīyaṃ yathā vibhāti prabuddhair vikasitaiḥ, tathāyaṃ megho vibhāti ||(RaKaT_3)
+
+goṣṭhaṃ ghṛtaṃ sughṛtavāḍbhir amūbhir agryaṃ gobhiḥ samuddharati yad bahudhā himaghnaḥ |
+tad gavyam ambaragataṃ śikhijātmasaṃsthaṃ viṣyandamānam abhivardhayatīha gojān || RaKa_4
+
+goṣṭhaṃ ghṛtam iti | gavi tiṣṭhatīti goṣṭham | ghṛtaṃ pānīyam | suṣṭhu ghṛtaṃ vahantīti sughṛtavāhā raśmayaḥ | amūbhis tābhiḥ | agrebhavam agryam | gobhiḥ raśmibhiḥ | yad samuddharati ākarṣati | bahudhā bahuprakāram | himaghno raviḥ | goṣu raṣmiṣu bhavaṃ gavyaṃ nīram | ambaragatam ākāśagatam | śikhī vahniḥ | tajjo dhūmaḥ | sa ātmā yasya sa meghaḥ | tatrasthaṃ śikhijātmasaṃstham | tad ghṛtaṃ viṣyandamānam iha bhūtale | gojān gavi bhūmau jātāṃs tṛṇādīn abhivardhayatīti paśya ||(RaKaT_4)
+
+abruṭpalāśanibhadṛg ghanajātmavaktrā vārcasvarebhanibhagā gajadoḥsamoruḥ |
+sīridhvajaprasavatulyaviṣāhvadāsau nrā saṃgatā pramuditā prasamīkṣya vārdam || RaKa_5
+
+abruṭpalāśeti | abruṭpalāśanibhadṛk | apsu rohatīty abruṭ kamalam | tasya palāśaṃ tannibhe dṛśau yasyāḥ sā | ghanajātmavadanā | ghane jīmūte jātam udakaṃ ghanajam | tad atmā yasya sa candraḥ | tena tulyaṃ vaktraṃ yasyāḥ sā | vārcasvarā haṃsasvarā | vāri caratīti vārcaḥ | ibhena nibhaṃ gamanaṃ yasyāḥ sā ibhanibhagā | gajadoḥsamoruḥ ibhakarasamānāv ūrū yasyāḥ sā | sīridhvajaprasavatulyaviṣāhvadā asau | sīrī balabhadraḥ | tasya dhvajas tālaḥ | tatprasavāni phalāni | tattulyau viṣāhvadau kṣīradau stanau yasyāḥ sā | viṣaṃ pānīyam āhvā nāma yasya tat viṣāhvaṃ kṣīram | nrā saṃgatā puruṣeṇa sahitā | pramuditā prahṛṣṭā | prasamīkṣya dṛṣṭvā | vārdaṃ jaladaṃ megham ||(RaKaT_5)
+
+sūryāṃśunāmapatir unnatadṛkpragāmī vāṅnāmabhiḥ parivṛto viṣanāmadābhiḥ |
+ukṣā varaḥ pramuditaḥ pratinānadīti garjantam īkṣaṇahitoccayatulyarūpam || RaKa_6
+
+sūryāṃśur iti | sūryāṃśavo raśmayaḥ | tan nāma vidyate yāsāṃ tāḥ sūryāṃśunāmānaḥ | tāsāṃ patir vṛṣabhaḥ | unnatadṛkpragāmī adhodṛśaṃ meghaṃ prati gacchatīti | vāṅnāmabhir vāco nāma vidyate yāsāṃ tābhir gobhiḥ parivṛto viṣanāmadābhiḥ kṣīradābhiḥ | viṣaṃ pānīyaṃ tasya nāma vidyate yasya tat kṣīram | ukṣā varo vṛṣabhaḥ | pramuditaḥ prahṛṣṭaḥ | pratinānadīti pratispardhayā nadati | garjantaṃ megham | īkṣaṇahitoccayatulyarūpam | īkṣaṇāni netrāni | tebhyo hitam añjanam, tena uccayo yasya sa añjanaparvataḥ, tattulyaṃ rūpaṃ yasya tam | paśyeti saṃbandhaḥ ||(RaKaT_6)
+
+enaṃ payodapatir unnamitaṃ payodaṃ khasthaṃ mahītalagataḥ pratigarjatīva |
+bhittvāvaniṃ vanaruhākṣi śiroruhābhyāṃ saṃprasthito 'mṛtadharair abhiṣicyamānaḥ || RaKa_7
+
+enam iti | he vanaruhākṣi kamalalocane paśyeti saṃbandhaḥ | enaṃ payodam udakadaṃ megham unnamitam avalambamānaṃ khastham ākāśasthaṃ prati garjatīva payodapatiḥ | payodāḥ kṣīradāḥ gāvaḥ | tāsāṃ patir vṛṣabhaḥ | kiṃviśiṣṭaḥ | mahītalagataḥ bhūsthaḥ | kiṃ kṛtvā | bhittvā vidārya | avaniṃ pṛthvīṃ | kābhyām | śiroruhābhyāṃ śṛṅgābhyām | saṃprasthitaḥ sa pathi sthitaḥ pravṛttaḥ | abhiṣicyamānaḥ abhivṛṣyamāṇaḥ kaiḥ | amṛtadharair meghaiḥ | amṛtam udakaṃ dharantīti ||(RaKaT_7)
+
+srotojavikṣatajabhūdharadhāturūpāḥ khasthāḥ payojadaladṛk śuciśukramāse |
+māsor nabhasyanabhasor atisaṃpatantas tīvraṃ viṣaṃ viṣadharāḥ parinirvapanti || RaKa_8
+
+srotojavikṣateti | he payojadaladṛk kamalapattralocane paśya | srotasi jātaṃ srotojaṃ suvarṇam | vikṣatāj jātaṃ vikṣatajaṃ rudhiram | bhūdharāḥ parvatāḥ | teṣāṃ dhātavo bhūdharadhātavaḥ suvarṇaraupyādayaḥ | tais tulyaṃ rūpaṃ yeṣāṃ te srotojavikṣatajabhūdharadhāturūpāḥ | khasthā ākāśe stithāḥ | śuciśukramāse jyeṣṭhāṣāḍhamāse | māsor nabhasyanabhasor bhādrapadaśrāvaṇayoḥ | atisaṃpatantaḥ saṃpattimantaḥ | tīvram asaham | viṣam udakam | viṣadharā meghāḥ | parinirvapanti parikṣipantīty arthaḥ ||(RaKaT_8)
+
+svayonibhakṣadhvajasaṃbhavānāṃ śrutvā ninādaṃ girigahvarasthaḥ |
+tamo'ribimbapratibimbadhārī virauti kānte pavanāśanāśaḥ || RaKa_9
+
+svayonibhakṣeti | svayonibhakṣo vahniḥ | svajanma adharāraṇyām, tāṃ bhakṣayati dahatīti saḥ | tasya dhvajo dhūmaḥ | tadbhāvā meghāḥ | teṣāṃ ninādaṃ śrutvā śabdam ākarṇya | giriguhāsu stithaḥ san | tamaso 'riś candramāḥ | tasya maṇḍalam indubimbam | tadrūpapratibimbadhārī candrakavān | virauty atinadati pavanāśanāśo vāyubhakṣabhug mayūraḥ | he kānte paśyeti saṃbandhaḥ ||(RaKaT_9)
+
+goṣṭhaś ca kuṅkumavapuḥ pratirājate 'sau saptādridaityabhujagottamaśatrugopaḥ |
+urvīdharābham acirotthitam abdharaṃ khe dṛṣṭvāhihā pramudito himahāhvayānaḥ || RaKa_10
+
+goṣṭhaś ceti | gavi bhūmau tiṣṭhatīti goṣṭhaḥ | kuṅkumena vahniśikhena sadṛśaṃ vapur yasya sa kuṅkumavapuḥ | raktavarṇa ity arthaḥ | ko 'sau pratirājate śobhate | asāv iti pratyakṣaḥ | saptādridaityabhujagottamaśatrugopaḥ | adrayaḥ parvatāḥ | daityā asurāḥ | bhujagottamāḥ sarpaśreṣṭhāḥ | teṣāṃ śatrur indraḥ | tena rakṣitāḥ prāvṛṭkālajā atiraktavarṇāḥ kīṭāḥ śakragopakā indravadhva iti loke | saptā bhuktā indragopā yena sa mayūraḥ | urvīdharaḥ parvataḥ | tadvad ābhā yasya sa urvīdharābhaḥ | tam acirotthitam idānīm evotthitam | apo dharatīty abdharo meghaḥ | taṃ khe ākāśe dṛṣṭvā | ahiḥ sarpaḥ, taṃ hantīty ahihā mayūraḥ | pramuditaḥ prahṛṣṭaḥ | himahāhvayānaḥ | himahā himāpaho 'gniḥ | agnir āhvā yasya sa skando 'gnijaḥ | taṃ vahatīty āgneyayānaḥ śikhī | he bāle paśyeti saṃbandhaḥ ||(RaKaT_10)
+
+kṛṣṇo 'bdharaḥ kṣarati toyam asāv ajasram anyāv imau raṇagatāv iva cebharājau |
+anye tv amī dviradavṛndanibhāḥ kṣarantaḥ pracchādayanty amarasiddhavimānamārgam || RaKa_11
+
+kṛṣṇo 'bdhara iti | kṛṣṇo nīlaḥ | abdharo meghaḥ asau | kṣarati varṣati | toyaṃ pānīyam | ajasraṃ prabhūtam | anyāv imau aparāv etau meghau ca | ibhā hastinaḥ | teṣāṃ rājānau | raṇe saṃgrāme gatāv iva | anyo'nyaṃ spardhamānāv ity arthaḥ | anye apare tv amī | dviradā hastinaḥ | teṣāṃ vṛndaṃ kulam | tena nibhāḥ sadṛśāḥ | kṣaranto varṣantaḥ | pracchādayanti kam | amarasiddhavimānamārgam ākāśam ity arthaḥ | he bāle paśyeti saṃbandhaḥ ||(RaKaT_11)
+
+vārdāḥ khagāḥ kṣitidharāgamanaprakāśā nemībharāsabhaturaṃgamatulyaghoṣāḥ |
+vāyvīritāḥ kham avatatya vanaṃ kṣaranto vārbhiḥ kṣitiṃ ghṛtadharāḥ pariṇirvapanti || RaKa_12
+
+vārdā iti | vār dadatīti vārdā meghāḥ | khe gacchantīti khagāḥ | yeṣām āgamane kṣitidharāṇāṃ parvatānāṃ prakāśāḥ samānās te kṣitidharāgamanaprakāśāḥ | nemī rathacakradhārā | ibho hastī | rāsabho gardabhaḥ | turaṃgamo 'śvaḥ | teṣāṃ tulyo ghoṣo dhvanir yeṣāṃ te nemībharāsabhaturaṃgamatulyaghoṣāḥ | vāyvīritā vāyunā kṣiptāḥ | kham ākāśam | avatatya vyāpya | vanam udakam | kṣaranto varṣantaḥ | vārbhiḥ pānīyaiḥ | kṣitiṃ pṛthvīm | ghṛtaṃ pānīyam | tad dhārayantīti ghṛtadharāḥ | pariṇirvapanti nayantīty arthaḥ | he bāle paśyeti saṃbandhaḥ ||(RaKaT_12)
+
+eṣo 'ṅghripāśanaripughnasutārisāhvam āruhya tiṣṭhati sugātri bhujaṃgamāriḥ |
+yasya svanaiḥ pramuditasya mamādya bāle tāladhvajāvarajasūnuśarāḥ patanti || RaKa_13
+
+eṣo 'ṅghripeti | eṣa ityādi pratyakṣanirdeśaḥ | aṅghripā vṛkṣāḥ, tān aśnātīty aṅghripāśano 'gniḥ | tasya ripuḥ pānīyam | aṅghripāśanaripuḥ | taṃ hantīti ghna ādityaḥ | tasya sutaḥ karṇaḥ | tasyārir arjunaḥ | tena samānā āhvā yasya so 'rjunavṛkṣaḥ | tam āruhya tiṣṭhati | he sugātri | śobhanaṃ gātraṃ yasyāḥ sā sugātrī | tasyāmantraṇaṃ sugātri | bhujaṃgamāḥ sarpāḥ | teṣām arir mayūraḥ | kathaṃbhūtaḥ | yasya svanaiḥ śabdaiḥ pramuditasya prahṛṣṭasya mama | adya asminn ahani | he bāle priye paśya | tāladhvajo balabhadraḥ | tasyāvarajo 'nujaḥ kṛṣṇaḥ | tatsūnuḥ pradyumno madanaḥ | tasya śarāḥ patanti vyathayantīty arthaḥ ||(RaKaT_13)
+
+usrāviṣaṃ sthalagato 'tti tathaiva vārjo vārbhyo dvijo haridṛg eṣa daśārdhagūḍhaḥ |
+vātāśanaḥ khaśayanaḥ smarati sthalasya cakṣuḥśravā vanabhayāt suraśatrunāmā || RaKa_14
+
+usrāviṣam iti | usrā gāvaḥ, tāsāṃ viṣaṃ gomayaṃ kṣīraṃ vā | yathā sthalagato bhūmiśayaḥ kṣitijaḥ kīṭa iva gomayam atti bhakṣayati, tathaiva vārjo jalajaḥ kṣīrodadhāv avatīrṇaḥ kṣīraṃ khādati | ko 'sau | dvijaḥ kacchapaḥ | harir vānaraḥ viṣṇur vā | tena tulyā dṛg yasya sa bhavati haridṛk | haritavarṇaḥ kāśyapīgo harisvarūpo vā kūrmāvatāra iti śleṣaḥ | eṣa iti pratyakṣanirdeśaḥ | daśārdhagūḍhaḥ | pañcabhir aṅgaiḥ kacchapo nigūḍha ity arthaḥ | kasmāt pañcāṅgaguptaḥ saḥ | vārbhyaḥ meghavisṛṣṭapānīyebhyaḥ varṣebhyaḥ | ko 'nyaḥ | vātāśanaḥ pavanāśanaḥ sarpaḥ | khaśayanaḥ bilaśayaḥ | cakṣuḥśravāḥ dṛkkarṇaḥ | suraśatrunāmā ahir ity āhvā devaripor vṛtrasya | ayaṃ vanabhayāj jalabhayahetoḥ sthalasya smarati sthalīyasthānaṃ dhyāyati | he bāle paśyeti saṃbandhaḥ ||(RaKaT_14)
+
+pakṣy aśvamedhaturagapratimo 'ṣṭavarṇo vārdaṃ na bahv iti samāhvayate hy ahighnaḥ |
+bhekas tathaiva khaśayāśayavedyavāṇiḥ śabdaṃ karoty atibhṛśaṃ viṣarāśimagnaḥ || RaKa_15
+
+pakṣīti | pakṣī mayūraḥ | aśvamedhaturagapratimaḥ | aśvamedho yajñaviśeṣaḥ, tatra turaṃgo vicitraḥ sarvarūpo 'ṣṭamaṅgalaḥ, tena tulyā pratimā yasya so 'ṣṭavarṇaḥ | vārdaṃ megham | na bahv analaṃ megho varṣatīti hetos taṃ samāhvayata ākārayaty ahighnaḥ sarpāśana ity arthaḥ | bhekas tu maṇḍūkaḥ | yathā mayūras tathaiva sa śabdaṃ karoty atibhṛśam | khaśayāśayavedyavāṇiḥ | khaśayo bilavāsī bhekabhuk sarpaḥ, tasyāśayo bilam, tasmād vedyā upalabdhā vāṇir vāg yasya saḥ | viṣarāśimagnaḥ | viṣaṃ pānīyam, tasya rāśir nicayaḥ, tatra magno nimajjatīty arthaḥ | he bāle paśyeti saṃbandhaḥ ||(RaKaT_15)
+
+nā viṣkirāvanam upetya kumātṛsāhvam ākrīdate madhukalo 'ṅganayā sametaḥ |
+anyas tv ayaṃ maṇivarābham upetya gojaṃ nā rāmayā saha payaḥpatijāṃ vṛṇīte || RaKa_16
+
+nā viṣkirāvanam iti | nā puruṣaḥ | upetya prāpya | viṣkirāḥ pakṣiṇaḥ, teṣām avanaṃ tarpaṇe rakṣāyāṃ vā viṣkirāvanaṃ kānanaṃ nīḍajasthānam | kiṃsaṃjñākam | kumātṛsāhvaṃ kadambavanam ity arthaḥ | ākrīdate madhukalaḥ | ratimadyena kalo virājamāna ity arthaḥ | aṅganayā sametaḥ bhāryayā yuktaḥ | anyo 'paraḥ tv ayaṃ puṃspakṣī | viṣkirā hi mānuṣamithunāgamena kadambavanād bahirgatāḥ | maṇivaro haritopala indranīlakaḥ, tena tulyā ābhā yasya tan maṇivarābham | dūrvāśādvalam ity arthaḥ | upetya prāpya | gojam | gauḥ pṛthvī, tasyāṃ jātaṃ samudbhūtam idaṃ dūrvāvanam | nā pumān | rāmā strī | tayā pakṣiṇyā saha | payaḥpatiḥ samudraḥ, tasmiñ jātā lakṣmīḥ | tāṃ tṛṇabhūtāṃ śriyaṃ vṛṇīte saṃbhunakti ||(RaKaT_16)
+
+syūtaṃ mahat kṣatajavarṇanibhaṃ naro 'sau bibhrat tv amūni ca bhinatti saroruhāṇi |
+tajjena cāpi rajasā vanitāṃ vayaḥstho 'py abhyuddharaty avakiraty abhiṣicyamānaḥ || RaKa_17
+
+syūtam iti | syūtaṃ vastram | kiṃviśiṣṭam | mahat kṣatajavarṇanibhaṃ ca | kṣatajaṃ rudhiram, tasya varṇas tena tulyā nibhā ābhā yasya tat tathā | naro 'sau bibhrat tu | tad vastraṃ bibhrāṇaḥ san puruṣa ity arthaḥ | amūni ca bhinatti saroruhāṇi | caśabdaḥ pādapūraṇe | amūni etāni | bhinatti uccinoti | sarasīruṃhi kamalāni | teṣu jātaṃ tajjam | tajjena cāpi rajasā padmareṇunā | vanitāṃ striyam | vayaḥstho vayasi sthito yuvā | kim api karotīty āha | abhyuddharati, tām ardidhiṣus tena kausumena mudrayatīty arthaḥ | tathā avakirati, śukraṃ vikṣipatīty arthaḥ | abhiṣicyamānaḥ kayā | vanitayā, krīḍārasena pānīyena | arthavaśād iha vibhaktipariṇāmaḥ | abhivṛṣyamāṇo vā sa meghenety arthavaraḥ ||(RaKaT_17)
+
+paṅke nimagnam ibhavṛndam adaḥ savāri garjat timikṣayadavṛndam ivāvabhāti |
+vāryātmanāmaśatacitratanuḥ suparṇo yoṣidvṛtaḥ samadanaḥ pratiroravīti || RaKa_18
+
+paṅke nimagnam iti | paṅkaḥ kardamaḥ | tasmin nimagnam | ibhavṛndaṃ hastiyūtham | adaḥ etat | savāri sajalam | garjad bṛṃhat | timikṣayadavṛndam ivāvabhāti | timir matsyaḥ, tasya kṣayo vāsa udakam iti yāvat tad dadatīti timikṣayadā meghāḥ | teṣāṃ vṛndaṃ samūham iva | avabhāti śobhate | kṛṣṇatādisādharmyāt | ko 'nyaḥ | vāryātmanāmaśatacitratanuḥ | vāryātmā candramāḥ | tasya nāma yeṣāṃ te candrakāḥ, teṣāṃ śatena citrā vicitritā tanur yasya saḥ | suparṇaḥ | śobhanāni parṇāni pattrāṇi yasya saḥ | mayūra ity arthaḥ | yoṣidvṛtaḥ mayūrīsahitaḥ | samadanaḥ madanena saha vartamānaḥ | kāmāviṣṭaḥ pratiroravīti, yoṣitaṃ prati punaḥ śabdaṃ karoty atibhṛśam ity arthaḥ | he vanite paśyeti saṃbandhaḥ ||(RaKaT_18)
+
+visphoṭitābdhararaveṇa riraṃsur eṣa saṃtrāsito harir anokahaniṣkuṭasthaḥ |
+saṃlīyate taḍitam apy abhivīkṣya vignaḥ khāt khaṃ mahattaram asau samanupraviṣṭaḥ || RaKa_19
+
+visphoṭiteti | visphoṭitābdhararaveṇa visarpitajaladanādena | riraṃsur eṣo 'nukāmaḥ | saṃtrāsitaś cālitaḥ | harir vānaraḥ | anokahaniṣkuṭastho vṛkṣanikuñjeṣu saṃlīyate | taḍitaṃ vidyutam apy abhivīkṣya dṛṣṭvā | vignaḥ bhītaḥ | khāt khaṃ bilād bilam | mahattaram atimahat | asau pratyakṣaḥ | samanupraviṣṭaḥ dūraṃ praviṣṭa ity arthaḥ | he vanite paśyeti saṃbandhaḥ ||(RaKaT_19)
+
+etāvad uttamavacaḥ sumanāḥ sa uktvā rantvā dinaṃ saha tayā priyayā hy adīnaḥ |
+yuktaṃ caturbhir anaḍudbhir adīnavāḍbhir āruhya yānam atha nā prayayau svageham || RaKa_20
+
+iti śrīmahākavinā malayadeśajanmanā ravidevena viracitaṃ rākṣasakāvyaṃ viṃśatihṛdyapadyasametaṃ samāptam ||
+
+etāvad iti | etāvad yathoktam uttamavacaḥ prakṛṣṭaṃ vacanam | śobhanaṃ mano yasya bhavati sumanāḥ saḥ | uktvā abhidhāya | rantvā krīḍitvā | dinaṃ divasam | kayā saha | tayā priyayā bhāryayā sārdham | hiśabdaḥ pādapūraṇe, avyayaśāstre | adīnaḥ na dīnaḥ, prahṛṣṭaḥ | yuktaṃ caturbhir anaḍudbhir balīvardaiḥ | kathaṃbhūtaiḥ | adīnaṃ śrīmantaṃ taṃ vahantīty adīnavāhaḥ, tair adīnavāḍbhiḥ | yānaṃ ratham āruhya | atha anantaram | nā puruṣaḥ | svagehaṃ mandiraṃ prayayau prayāta ity arthaḥ ||(RaKaT_20)
+
+iti śrīmahākavinā śrīravidevena racitā kṛṣṇadhareṇa vyāḷinā prapañcitā sajjanamanaānandadāyinī rākṣasakāvyaṭīkā samāptā ||

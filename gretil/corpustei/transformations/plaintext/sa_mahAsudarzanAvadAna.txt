@@ -1,0 +1,146 @@
+Mahāsudarśanāvadāna
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_mahAsudarzanAvadAna.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Klaus Wille
+## Contribution: Klaus Wille
+## Date of this version: 2020-07-31
+
+## Source: 
+   - H. Matsumura: The Mahāsudarśanāvadāna and the Mahāsudarśanasūtra, Delhi 1988 (Bibliotheca Indo-Buddhica 47).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Mahāsudarśanāvadāna = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from msudarsu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Mahasudarsanavadana (= MSuAv)
+Based on the edition by H. Matsumura: The Mahāsudarśanāvadāna and the Mahāsudarśanasūtra,
+Delhi 1988 (Bibliotheca Indo-Buddhica 47).
+Input by Klaus Wille (Göttingen, Germany),
+revised March 2009
+GBM = Gilgit Buddhist Manuscripts (Facsimile Edition), ed. by Raghu Vira and Lokesh Chandra, 10 pts., New Delhi 1959Ō1974 (Śata-Piṭaka Series 10);
+revised and enlarged compact edition, 3 vols., Delhi 1995 (Bibliotheca Indo-Buddhica Series, 150-152).
+NOTE
+The text has been standardized as follows:
+ṃt -> nt
+rṇṇ -> rṇ
+rtt -> rt
+rmm -> rm
+rvv -> rv
+ttr -> tr
+tṛr -> trir
+[upādhmanīya] -> ḥ
+ITALICS for restored text
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+msuav [1] (gbm 1451.8) // punar api mahārāja yan mayā anuttarāṃ samyaksaṃbodhiṃ prārthayatā satvahitaṃ (gbm 1550.1) kṛtaṃ tac chrūyatāṃ.
+
+msuav [2] bhūtapūrvaṃ mahārāja rājā babhūva mahāsudarśano nāma saptabhi ratnaiḥ samanvāgataḥ catasṛbhiś ca mānuṣikābhi riddhibhiḥ. katamaiḥ saptabhi ratnaiḥ, tadyathā (gbm 1550.2) cakraratnena hastiratnenāśvaratnena maṇiratnena strīratnena gṛhapatiratnena pariṇāyakaratnena saptamena. katamābhiś catasṛbhiḥ mānuṣikābhi riddhibhiḥ samanvāgata, rājā (gbm 1550.3) mahārāja mahāsudarśano dīrghāyur abhūc cirasthitikaḥ. sa caturaśītiṃ varṣasahasrāṇi kumārakrīḍāyāṃ krīḍitavāṃ, caturaśītiṃ varṣasahasrāṇi yauvarājyaṃ kāritavāṃ, (gbm 1550.4) caturaśītiṃ varṣasahasrāṇi mahārājyaṃ kāritavāṃ, caturaśītiṃ varṣasahasrāṇi rājarṣibrahmacaryam acārṣīd. yan mahārāja rājā mahāsudarśano (gbm 1550.5) dīrghāyur abhūc cirasthitikaś caturaśītiṃ varṣasahasrāṇi yāvad rājarṣibrahmacaryam acārṣī, iyaṃ rājño mahāsudarśanasya riddhir ity ucyate.
+
+msuav [3] punar aparaṃ mahārāja (gbm 1550.6) rājā mahāsudarśano 'bhirūpo 'bhūd darśanīyaḥ prāsādikaḥ atikrāntaś ca mānuṣaṃ varṇam asaṃprāptaś ca divyaṃ varṇaṃ. yan mahārāja rājā mahāsudarśano 'bhirūpo 'bhūd darśanīyaḥ (gbm 1550.7) prāsādikaḥ atikrāntaś ca mānuṣaṃ varṇam asaṃprāptaś ca divyaṃ varṇaṃ, iyaṃ rājño mahāsudarśanasya riddhir ity ucyate. //
+
+msuav [4] punar aparaṃ mahārāja rājā mahāsudarśano 'lpābādho (gbm 1550.8) 'bhūd arogajātīyaḥ samapācanyā grahaṇyā samanvāgato nātyuṣṇayā nātiśītayā avyābādhayā ṛtusukhayā yayāsyāśitapītakhāditāsvāditāni samyak sukhena (gbm 1551.1) paripākaṃ gacchanti yan mahārāja rājā mahāsudarśano 'lpābādho 'bhūd arogajātīyaḥ pūrvavad, iyaṃ rājño mahāsudarśanasya riddhir ity ucyate. //
+
+msuav [5] punar aparaṃ mahārāja rājā mahāsudarśano naigamajānapadānāṃ priyaś cābhūn manāpaś ca (gbm 1551.2) tadyathā putrāṇāṃ pitā. rājño 'pi mahāsudarśanasya naigamajānapadā priyaś cābhūvan manaāpaś ca tadyathā pituḥ putrāḥ. eko 'yaṃ mahārāja samayo rājā mahāsudarśana (gbm 1551.3) udyānabhūmiṃ niryān sārathim āmantrayate. śanais tāvat sārathe mandamandaṃ rathaṃ preraya yāvad ahaṃ ciracirā naigamajānapadāṃ drakṣyāmi (sic; matsumura prakṣyāmi). naigamajānapadā api sārathim (gbm 1551.4) āmantrayante. śanais tāvat sārathe mandamandaṃ rathaṃ preraya yāvad vayaṃ ciracirā devaṃ drakṣyāmaḥ (sic; matsumura prakṣyāmaḥ). yan mahārāja rājā mahāsudarśano naigamajānapadānāṃ priyaś (gbm 1551.5) cābhūn manāpaś ca tadyathā putrāṇāṃ pitā rājño 'pi mahāsudarśanasya naigamajānapadāḥ priyaś cābhūvan manāpaś ca tadyathā pituḥ (sic; matsumura om.) putrā, iyaṃ rajño mahāsudarśanasya (gbm 1551.6) riddhir ity ucyate.
+
+msuav [6] athāpareṇa samayena naigamajānapadāḥ prabhūtaṃ hiraṇyasuvarṇam ādāya maṇiratnaṃ kaṃbalaratnaṃ ca, yena rājā mahāsudarśanas tenopasaṃkrāntā (gbm 1551.7) upasaṃkramya rājānaṃ mahāsudarśanam idam avocan. idam asmābhir devam uddiśya prabhūtaṃ hiraṇyasuvarṇaṃ maṇiratnam ānītaṃ kaṃbalaratnaṃ ca. tad devaḥ pratigṛhṇātv (gbm 1551.8) anukaṃpām upādāya. alaṃ grāmaṇyaḥ saṃvidyante me idam evaṃrūpaṃ dhanajātam ity uktvā nādhivāsayati. dvir api trir api naigamajānapadā rājānaṃ mahāsudarśanam (gbm 1552.1) idam avocan. idam asmābhir devam uddiśya prabhūtaṃ hiraṇyasuvarṇam ānītaṃ maṇiratnaṃ kaṃbalaratnaṃ ca. tad devaḥ pratigṛhṇātv anukaṃpām upādāya. dvir api trir api rājā mahāsudarśano naigamajānapadān idam avocat. (gbm 1552.4) alaṃ grāmaṇyaḥ saṃvidyante me idam evaṃrūpaṃ dhanajātam ity uktvā nādhivāsayati. atha naigamajānapadānām etad abhavan. nāsmākaṃ pratirūpaṃ syād yad asmābhir (gbm 1552.5) devam uddiśya prabhūtaṃ hiraṇyasuvarṇam ānītaṃ maṇiratnaṃ kaṃbalaratnaṃ ca, yad vayaṃ punar apy ādāya svakasvakāni niveśanāni prakrāmema, yan nu vayaṃ (gbm 1552.6) rājño mahāsudarśanasya purastān mahāntaṃ hiraṇyasuvarṇasya rāśim ākīrya maṇiratnaṃ kaṃbalaratnaṃ caikānte upanikṣipya etat te deva dhanajātam ity uktvā nirapekṣāḥ (gbm 1552.7) prakrāmema. iti naigamajānapadā rājño mahāsudarśanasya purastān mahāntaṃ hiraṇyasuvarṇasya rāśim ākīrya maṇiratnaṃ kaṃbalaratnaṃ caikānte upanikṣipya etat te (gbm 1552.8) deva dhanajātam ity uktvā nirapekṣāḥ prakrāntāḥ.
+
+msuav [7] atha rājño mahāsudarśanasyaitad abhavat*. saṃpannaṃ me dhanajātaṃ dharmeṇa nādharmeṇa. yanv ahaṃ dharmyaṃ prāsādaṃ (gbm 1553.1) māpayeyam. aśrauṣuś caturaśīti koṭṭarājasahasrāṇi rājā mahāsudarśana udyukto dharmyaṃ prāsādaṃ māpayitum. iti śrutvā ca punar yena rājā mahāsudarśanaḥ tenopasaṃkrāntā. (gbm 1553.2) upasaṃkramya rājānaṃ mahāsudarśanam idam avocaṃ. alpotsuko devo bhavatu dharmyāt prāsādād. vayaṃ devasya dharmyaṃ prāsādaṃ māpayiṣyāmo. 'laṃ (sic; matsumura lpaṃ) grāmaṇyaḥ (gbm 1553.3) saṃvidyante me idam evaṃrūpaṃ dhanajātaṃ ity uktvā nādhivāsayati. dvir api trir api caturaśītiṃ koṭṭarājasahasrāṇi rājānaṃ mahāsudarśanam idam avocaṃ. alpotsuko (gbm 1553.4) devo bhavatu dharmyāt prāsādād. vayaṃ devasya dharmyaṃ prāsādaṃ māpayiṣyāmo. dvir api trir api rājā mahāsudarśanaś caturaśītiṃ koṭṭarājasahasrāṇi-m-idam (gbm 1553.5) avocat. alaṃ grāmaṇyaḥ saṃvidyante me idam evaṃrūpaṃ dhanajātam ity uktvā nādhivāsayati.
+
+msuav [8] atha tad eke koṭṭarājānāṃ rājño mahāsudarśanasya pādayor nipatya, (gbm 1553.6) eke bāhū pragṛhya, eke cīvarakarṇake pragṛhya, eke yena rājā mahāsudarśanas tenāṃjaliṃ praṇamayya rājānaṃ mahāsudarśanam idam avocan*. alpotsuko devo bhavatu (gbm 1553.7) dharmyāt prāsādād. vayaṃ devasya dharmyaṃ prāsādaṃ māpayiṣyāmo. 'dhivāsayati rājā mahāsudarśanaś caturaśīti koṭṭarājasahasrāṇāṃ tūṣṇīṃbhāvena.
+
+msuav [9] atha caturaśīti (gbm 1553.8) koṭṭarājasahasrāṇi rājño mahāsudarśanasya tūṣṇīṃbhāvenādhivāsanāṃ viditvā svakasvakāni vijitāni gatvā prabhūtaṃ hiraṇyasuvarṇam ādāya ekaikaṃ (gbm 1554.1) ca ratnastaṃbhaṃ yena rājā mahāsudarśanas tenopasaṃkrāntā, upasaṃkramya rājānaṃ mahāsudarśanam idam avocan*. kutra vayaṃ devasya dharmyaṃ prāsādaṃ māpayiṣyāmaḥ (gbm 1554.2) kiyantaṃ vā. tena hi yūyaṃ grāmaṇyaḥ pūrveṇa kuśāvatyāṃ dharmyaṃ prāsādaṃ māpayataḥ yojanam āyāmena yojanaṃ vistāreṇa. evaṃ deveti caturaśīti koṭṭarājasahasrāṇi (gbm 1554.3) rājño mahāsudarśanasya pratiśrutya pūrveṇa kuśāvatyāṃ dharmyaṃ prāsādaṃ māpayanti yojanam āyāmena yojanaṃ vistāreṇa.
+
+msuav [10.1] dharmye mahārāja prāsāde (gbm 1554.4) caturvidhāḥ prācīnā māpitā abhūvaṃ suvarṇamayā rupyamayā vaiḍūryamayā sphaṭikamayāḥ.
+
+msuav [10.2] dharmye prāsāde caturvidhā nyāsā nyastā (sic; matsumura nyaktā) abhūvaṃ suvarṇamayā (gbm 1554.5) rupyamayā vaiḍūryamayā sphaṭikamayāḥ.
+
+msuav [10.3] dharmye prāsāde caturvidhā staṃbhā ucchṛtā abhūvaṃ suvarṇamayā rupyamayā vaiḍūryamayā sphaṭikamayāḥ. suvarṇamayasya (gbm 1554.6) staṃbhasya rupyamayaḥ kuṃbhakaḥ tṛkaṭakaḥ śīrṣako gosārako māpito 'bhūd. rupyamayasya suvarṇamayo. vaiḍūryamayasya sphaṭikamayaḥ. sphaṭikamayasya (gbm 1554.7) staṃbhasya vaiḍūryamayaḥ kuṃbhakaḥ tṛkaṭakaḥ śīrṣako gosārako māpito 'bhūd.
+
+msuav [10.4] dharmye prāsāde caturvidhā avasaṃgā māpitā abhūvan* sauvarṇamayā rupyamayā (gbm 1554.8) vaiḍūryamayā sphaṭikamayā.
+
+msuav [1o.5] dharmye prāsāde caturvidhā annāgrā māpitā abhūvaṃ suvarṇamayā rupyamayā vaiḍūryamayā sphaṭikamayā.
+
+msuav [10.6] dharmye prāsāde (gbm 1555.1) caturvidhā baladharaṇyā māpitā abhūvaṃ suvarṇamayyo rupyamayyaḥ vaiḍūryamayyo sphaṭikamayyaḥ.
+
+msuav [lo.7] dharmye prāsāde caturvidhā niryūhā māpitā abhūvan* suvarṇamayāni (gbm 1555.2) rupyamayāni vaiḍūryamayāṇi sphaṭikamayāni.
+
+msuav [10.8] dharmyaḥ prāsādaś caturvidhaiḥ phalakaiḥ cchanno 'bhūt* suvarṇamayai rupyamayaiḥ vaiḍūryamayaiḥ sphaṭikamayaiḥ.
+
+msuav [10.9] dharmye prāsāde (gbm 1555.3) caturvidhāni sopānāni māpitāny abhūvan* suvarṇamayāni rupyamayāni vaiḍūryamayāni sphaṭikamayāni.
+
+msuav [10.10] dharmyaḥ prāsādaḥ caturvidhābhir vedikābhiḥ parikṣipto 'bhūt (gbm 1555.4) suvarṇamayībhi rupyamayībhi vaiḍūryamayībhi sphaṭikamayībhiḥ. suvarṇamayyā vedikāyāḥ rupyamayaḥ ālaṃbanam adhiṣṭhānaṃ sūcako māpito 'bhūt*. rupyamayyā (gbm 1555.5) suvarṇamayaḥ, vaiḍūryamayyā sphaṭikamayaḥ, sphaṭikamayyā vaiḍūryamaya-m-ālaṃbanam adhiṣṭhānaṃ sūcako māpito 'bhūt*.
+
+msuav [10.11] dharmye prāsāde caturvidhāni (gbm 1555.6) kūṭāgārāṇi māpitāni abhūvan* suvarṇamayāni rupyamayāni vaiḍūryamayāni sphaṭikamayāni. suvarṇamaye kūṭāgāre rupyamayaḥ paryaṃka sthāpito 'bhūt* (gbm 1555.7) paṭṭikāstṛto goṇikāstṛtas tūlikāstṛtaḥ citṛkāstṛto vyahatikāstṛtaḥ palalikāstṛtaḥ kāliṃgaprāvārapratyāstaraṇaḥ sottarocchadapaṭaḥ ubhayatopahitalohitopadhānaḥ. (gbm 1555.8) rupyamaye suvarṇamayaḥ, vaiḍūryamaye sphaṭikamayaḥ, sphaṭikamaye mahārāja kūṭāgāre vaiḍūryamayaḥ paryaṅkaḥ sthāpito 'bhūt paṭṭikāstṛto (gbm 1556.1) goṇikāstṛtas tūlikāstṛtaḥ citrikāstṛtaḥ vyahatikāstṛto palalikāstṛtaḥ kāliṃgaprāvārapratyāstaraṇaḥ sottarocchadapaṭa ubhayatopahitalohitopadhānaḥ. (gbm 1556.2)
+
+msuav [10.12] suvarṇamayasya kūṭāgārasya purastād rupyamayas tālo māpito 'bhūt suvarṇamayena patreṇa puṣpeṇa phalena. rupyamayasya suvarṇamayo, (gbm 1556.3) vaiḍūryamayasya sphaṭikamayaḥ, sphaṭikamayasya kūṭāgārasya purastād vaiḍūryamayaḥ tālo māpito 'bhūt sphaṭikamayena patreṇa puṣpeṇa phalena.
+
+msuav [10.13] teṣāṃ khalu (gbm 1556.4) tālānāṃ vāyunā īryamāṇānāṃ ayam evaṃrūpo manojñaḥ śabdo niścarati. tadyathā paṃcāṃgikasya tūryasya kuśalena puruṣeṇa samyaksupravāditasya. (gbm 1556.5)
+
+msuav [10.14] dharmyaḥ prāsādaḥ kanakavālukāstṛto 'bhūc candanavāripariṣikto hemajālāvanaddho suvarṇakaṅkaṇikāvṛtaḥ.
+
+msuav [11] atha caturaśītiḥ koṭṭarājasahasrāṇi (gbm 1556.6) sarvajātakṛtaniṣṭhitaṃ dharmyaṃ prasādaṃ viditvā dharmyasya prāsādasya purastād dharmyāṃ puṣkariṇīṃ māpayanti yojanam āyāmena yojanaṃ vistāreṇa. dharmyā (gbm 1556.7) puṣkariṇī caturvidhābhir iṣṭakābhiś citābhūt suvarṇamayībhiḥ rupyamayībhi vaiḍūryamayībhiḥ sphaṭikamayībhiḥ. dharmyāyaṃ puṣkariṇyāṃ caturvidhāni sopānāni (gbm 1556.8) māpitāny abhūvan suvarṇamayāni rupyamayāni vaiḍūryamayāni sphaṭikamayāni. dharmyā puṣkariṇīś caturvidhābhir vedikābhiḥ parikṣiptābhūt* suvarṇamayībhi (gbm 1557.1) rupyamayībhi vaiḍūryamayībhiḥ sphaṭikamayībhiḥ. suvarṇamayyā mahārāja vedikāyā rupyamayam ālaṃbanam adhiṣṭhānaṃ sūcako māpito 'bhūt*. rupyamayyāḥ suvarṇamayaṃ, (gbm 1557.2) vaiḍūryamayyāḥ sphaṭikamayaṃ, sphaṭikamayyāḥ vaiḍūryamayam ālaṃbanam adhiṣṭhānaṃ sūcako māpito 'bhūt*. dharmyāṃ puṣkariṇyāṃ vividhāni jalajāni mālyāni ropitāny (gbm 1557.3) abhūvan tadyathotpalaṃ padmaṃ kumudaṃ puṇḍarīkaṃ saugandhikaṃ mṛdugandhikaṃ sarvartukaṃ sarvakālikaṃ anāvṛtaṃ sarvajanasya. dharmyāyā mahārāja puṣkariṇyā ubhayatīre (gbm 1557.4) vividhāni sthalajāni mālyāni ropitāny abhūvan* tadyathā atimuktaś caṃpaka pāṭalā vārṣikā mallikā navamālikā sumanā yūthikā dhānuṣkārī sarvartukaṃ (gbm 1557.5) sarvakālikam anāvṛtaṃ sarvajanasya. dharmyā puṣkariṇī kanakavālukāstṛtābhūc candanavāriṣiktā hemajālāvanatā suvarṇakaṃkaṇikāvṛtā.
+
+msuav [12] atha caturaśīti (gbm 1557.6) koṭṭarājasahasrāṇi sarvajātakṛtaniṣṭhitāṃ dharmyāṃ puṣkariṇīṃ viditvā dharmyāyāḥ puṣkariṇyā purastād dharmyaṃ tālavanaṃ māpayanti yojanam āyāmena (gbm 1557.7) yojanaṃ vistāreṇa. dharmye mahārāja tālavane caturvidhās tālā māpitā abhūvan* suvarṇamayā rupyamayā vaiḍūryamayā sphaṭikamayā. suvarṇamayasya (gbm 1557.8) tālasya rupyamayaṃ patraṃ puṣpaṃ phalaṃ māpitam abhūd. rupyamayasya suvarṇamayaṃ, vaiḍūryamayasya sphaṭikamayaṃ, sphaṭikamayasya vaiḍūryamayaṃ patraṃ puṣpaṃ phalaṃ (gbm 1558.1) māpitam abhūt. teṣāṃ khalu tālānāṃ vāyunā īryamanānām ayaṃ evaṃrūpo manojñaḥ śabdo niścarati. tadyathā paṃcāṃgikasya tūryasya kuśalena puruṣeṇa (gbm 1558.2) samyaksupravāditasya. dharmyaṃ tālavanaṃ caturvidhābhir vedikābhiḥ parikṣiptam abhūt suvarṇamayībhi rupyamayībhiḥ vaiḍūryamayībhiḥ sphaṭikamayībhiḥ. suvarṇamayyā (gbm 1558.3) vedikāyā rupyamayam ālaṃbanam adhiṣṭhānaṃ sūcako māpito 'bhūt*. rupyamayyā suvarṇamayaṃ, vaiḍūryamayyā sphaṭikamayaṃ, sphaṭikamayyā vaiḍūryamayam ālaṃbanam (gbm 1558.4) adhiṣṭhānaṃ sūcako māpito 'bhūt*. dharmyaṃ tālavanaṃ kanakavālukāstṛtam abhūc candanavāripariṣiktaṃ hemajālāvanataṃ suvarṇakaṃkaṇikāvṛtam. (gbm 1558.5)
+
+msuav [13.1] atha caturaśīti koṭṭarājasahasrāṇi sarvajātakṛtaniṣṭhitaṃ dharmyaṃ prāsādaṃ dharmyāṃ puṣkariṇīṃ dharmyaṃ tālavanaṃ viditvā yena rājā mahāsudarśanas (gbm 1558.6) tenopasaṃkrāntāny. upasaṃkramya rājānaṃ mahāsudarśanam idam avocan*. sarvajātakṛtaniṣṭhito devasya dharmyaḥ prāsādo dharmyā puṣkariṇī (gbm 1558.7) dharmyaṃ tālavanaṃ. yasyedānīṃ devaḥ kālaṃ manyate. atha rājño mahāsudarśanasyaitad abhavan. na mama pratirūpaṃ syād yad aham evam eva tatprathamato dharmyaṃ prāsādam adhinivaseyaṃ. (gbm 1558.8) yanv ahaṃ ye me vijite sādhurūpasaṃmatāḥ śramaṇabrāhmaṇāḥ prativasanti te tāṃ dharmye prāsāde bhojayitvā pratyekapratyekaṃ navena duṣyayugenācchadayeyam. (gbm 1559.1)
+
+msuav [13.2] atha rājā mahāsudarśano ye 'sya vijite sādhurūpasaṃmatāḥ śrāmaṇabrāhmaṇāḥ prativasanti tāṃ dharmye prāsāde bhojayitvā pratyekapratyekaṃ (gbm 1559.2) navena duṣyayugenācchādayati. atha rājño mahāsudarśanasyaitad abhavan. na mama pratirūpaṃ syād yad ahaṃ dharmye prāsāde paṃcabhiḥ kāmaguṇais samarpitaḥ (gbm 1559.3) samanvaṃgībhūtaḥ krīḍeyaṃ rameyaṃ paricārayeyaṃ. yanv ahaṃ dharmyaṃ prāsādaṃ abhiruhy'; ekena puruṣeṇopasthāyakena rājarṣibrahmacaryaṃ careyaṃ. (gbm 1559.4) atha rājā mahāsudarśano dharmyaṃ prāsādam abhiruhy'; ekena puruṣeṇopasthāyakena rājarṣibrahmacaryam acārṣīd.
+
+msuav [14] atha rājā mahāsudarśanaḥ suvarṇamayaṃ (gbm 1559.5) kūṭāgāraṃ praviśya rupyamaye paryaṃke paryaṃkena niṣadya viviktaṃ kāmair viviktaṃ pāpakair akuśalair dharmaiḥ savitarkaṃ savicāraṃ vivekajaṃ (gbm 1559.6) prītisukhaṃ prathamaṃ dhyānam upasaṃpadya viharati. rupyamayā paryaṃkād avatīrya suvarṇamayāt kūṭāgārān niṣkramya rupyamayaṃ kūṭāgāraṃ praviśya suvarṇamaye (gbm 1559.7) paryaṃke paryaṃkena niṣadya viviktaṃ kāmair yāvat prathamaṃ dhyānam upasaṃpadya viharati. suvarṇamayāt paryaṃkād avatīrya rupyamayāt kūṭāgārān niṣkramya vaiḍūryamayaṃ (gbm 1559.8) kūṭāgāraṃ praviśya sphaṭikamaye paryaṃke paryaṃkena niṣadya viviktaṃ kāmair yāvat prathamaṃ dhyānam upasaṃpadya viharati. sphaṭikamayāt paryaṃkād avatīrya (gbm 1560.1) vaiḍūryamayāt kūṭāgāran niṣkramya sphaṭikamayaṃ kūṭāgāraṃ praviśya vaiḍūryamaye paryaṃke paryaṃkena niṣadya viviktaṃ kāmair yāvat prathamaṃ dhyānam upasaṃpadya (gbm 1560.2) viharati.
+
+msuav [15] atha caturaśīti strīsahasrāṇi yena strīratnaṃ tenopasaṃkrāntā upasaṃkramya strīratnam idam avocan*. yat khalu devi jānīthā, ciradṛṣṭo 'smābhir (gbm 1560.3) devaḥ, paritṛṣitāḥ smo devasya darśanena, icchāmo vayaṃ devaṃ draṣṭuṃ. tena hi yūyaṃ bhaginyaḥ āgamayata yāvad ahaṃ pariṇāyakaratnam avalokayāmi. atha (gbm 1560.4) strīratnaṃ pariṇāyakaratnaṃ dūtena prakrośyedam avocat*. yat khalu senāpate jānīyāc, ciradṛṣṭo 'smābhir deva, paritṛṣitā smo devasya darśanena, (gbm 1560.5) icchāmo vayaṃ devaṃ draṣṭuṃ. tena hi yūyaṃ bhaginyaḥ sarvā pītālaṃkārā bhavata pītavastrā pītamālyābharaṇānulepanā pītaparivārā. yāvad (gbm 1560.6) ahaṃ caturaśītiṃ koṭṭarājasahasrāṇi sannipātayāmi, caturaśītiṃ nāgasahasrāṇy upoṣadhanāgarājapramukhāni, caturaśītim aśvasahasrāṇi (gbm 1560.7) vālāhāśvarājapramukhāni, caturaśīti rathasahasrāṇi nandīghoṣarathapramukhāni. tathā bhavatv iti tāḥ śriyaḥ pratiśrutya (gbm 1560.8) striyaḥ sarvāḥ pītālaṃkārābhūvaṃ pītavastrāḥ pītamālyābharaṇānulepanāḥ pītaparivārāḥ. atha pariṇāyakaratnaṃ caturaśītiṃ koṭṭarājasahasrāṇi (gbm 1561.1) sannipātya, caturaśīti nāgasahasrāṇi poṣadhanāgarājapramukhāni, caturaśītiṃ aśvasahasrāṇi vālāhāśvarājapramukhāni, caturaśītiṃ rathasahasrāṇi (gbm 1561.2) nandīghoṣarathapramukhāni sannipātya, strīratnaṃ nandīghoṣarathe āropya, avaśiṣṭā striyaḥ pratyekapratyekaratheṣv āropya, kuśāvatyā niṣkramya, (gbm 1561.3) yena dharmyaḥ prāsādas tenopasaṃkrāntāḥ. tena khalu samayena dharmyasya prāsādasyādhastād uccaśabdamahāśabdo mahājanakāyasya ca nirghoṣo 'bhud.
+
+msuav [16] aśrauṣīd (gbm 1561.4) rājā mahāsudarśano dharmyasya prāsādasyādhastād uccaśabdamahāśabdo mahājanakāyasya ca nirghoṣo 'bhūc. chrutva ca punar upasthāyakaṃ puruṣam āmantrayate. (gbm 1561.5) kim etad bhoḥ puruṣa dharmyasya prāsādasyādhastād uccaśabdamahāśabdo mahājanakāyasya ca nirghoṣaḥ. etāni deva caturaśītiṃ strīsahasrāṇi (gbm 1561.6) strīratnapramukhāni dharmyasya prāsādasyādhastāt tiṣṭhanti devaṃ draṣṭukāmāni, caturaśītiḥ koṭṭarājasahasrāṇi pariṇāyakaratnapramukhāni, (gbm 1561.7) caturaśīti nāgasahasrāṇy upoṣadhanāgarājapramukhāni, caturaśītim aśvasahasrāṇi vālāhāśvarājapramukhāni, caturaśītiṃ rathasahasrāṇi (gbm 1561.8) nandīghoṣarathapramukhāni dharmyasya prāsādasyādhastāt tiṣṭhanti. atha rājā mahāsudarśana upasthāyakaṃ puruṣam āmantrayate. tena hi tvaṃ bhoḥ (gbm 1562.1) puruṣa dharmyasya prāsādasyādhastāt sauvarṇaṃ bhadrāsanaṃ prajñapaya, yatrāhaṃ niṣadya mahājanakāyam apekṣyāmy. evaṃ devety upasthāyakaḥ puruṣo rājño mahāsudarśanasya (gbm 1562.2) pratiśrutya dharmyasya prāsādasyādhastāt sauvarṇaṃ bhadrāsanaṃ prajñapya yena rājā mahāsudarśanas tenopasaṃkrāntaḥ. upasaṃkramya rājānaṃ mahāsudarśanam (gbm 1562.3) idam avocat. prajñaptaṃ devasya dharmyasya prāsādasyādhastāt sauvarṇaṃ bhadrāsanaṃ. yasyedānīṃ devaḥ kālaṃ manyate.
+
+msuav [17] adrākṣīd rājā mahāsudarśano dharmyāt (gbm 1562.4) prāsādād avatāran* (sic; matsumura: dha(rmasya prāsādasyādhastā)t) sarvās tāḥ striyaḥ pītālaṃkārāḥ pītavastrāḥ pītamālyābharaṇānulepanāḥ pītaparivārāḥ. dṛṣṭvā ca punar asyaitad (gbm 1562.5) abhavat. atirañjanīyo batāyaṃ mātṛgrāma iti viditvā indriyāṇy utkṣipaty. adrākṣī strīratnaṃ rājānaṃ mahāsudarśanam indriyāṇy utkṣipantaṃ (gbm 1562.6) dṛṣṭvā punar asyā etad abhavad. yathā khalu devo 'smākaṃ dṛṣṭvā indriyāṇy utkṣipati. mā haiva devo 'smābhir anarthiko bhaviṣyatīti. atha rājā mahāsudarśano (gbm 1562.7) dharmyāt prāsādād avatīrya sauvarṇe bhadrāsane niṣaṇṇo. 'tha strīratnaṃ yena rajā mahāsudarśanas tenopasaṃkrāntam. upasaṃkramya rājño (gbm 1562.8) mahāsudarśanasya pādayor nipatya rājānaṃ mahāsudarśanam idam avocat*. etāni devasya caturaśītiḥ strīsahasrāṇi, yatra devac chandaṃ janayatv apekṣāṃ karotu devo (gbm 1563.1) jīvite. caturaśīti koṭṭarājasahasrāṇi pariṇāyakaratnapramukhāni, caturaśīti nāgasahasrāṇy upoṣadhanāgarājapramukhāni, caturaśītim (gbm 1563.2) aśvasahasrāṇi vālāhāśvarājapramukhāni, caturaśītiṃ rathasahasrāṇi nandīghoṣarathapramukhāni, caturaśītin nagarasahasrāṇi kuśāvatīrājadhānīpramukhāni, (gbm 1563.3) atra devac chandaṃ janayatv apekṣāṃ karotu devo jīvite. pūrve ca tvaṃ māṃ bhagini mitravattayā samudācarasi sā tvam etarhi sapatnavattayā. (gbm 1563.4)
+
+msuav [18] atha strīratnaṃ rājñā mahāsudarśanena bhaginivādena samudācaritaṃ prārodīd, aśrūṇi pravartayaty, evaṃ cāha. yathā khalu devo 'smākaṃ (gbm 1563.5) bhaginivādena samudācarati na cirā devāsmākaṃ devena sārdhaṃ nānābhāvo bhaviṣyati vinābhāvo viprayogo visaṃyogaḥ. atha strīratnaṃ cīvareṇāśrūṇi (gbm 1563.6) pramṛjya [o. von hinüber, "die bestimmung der schulzugehörigkeit buddhistischer texte nach sprachlichen kriterien", zur schulzugehörigkeit von werken der hīnayāna-literatur (symposium zur buddhismusforschung, iii,1), ed. h. bechert, göttingen 1985 (aawg, 149), erster teil, pp. 73, anm. 46: puṃjya] rājño mahāsudarśanasya pādayor nipatya rājānaṃ mahāsudarśanam idam avocat*. yathā kathaṃ pūrve vayaṃ devaṃ mitravattayā samudācarāmas (gbm 1563.7) tathā vayam etarhi samudācarāmo na sapatnavattayā. ehi tvaṃ bhaginy, evaṃ vada. alpakaṃ deva jīvitaṃ manuṣyāṇāṃ. gamanīyaḥ saṃparāyaḥ, kartavyaṃ (gbm 1563.8) kuśalaṃ, caritavyaṃ brahmacaryaṃ. nāsti jātasyāmaraṇaṃ. so 'pi deva kṣaṇalavamuhūrto na prajñāyate yatra devasya sarveṇa sarvaṃ śarīranikṣepo bhaviṣyati. (gbm 1564.1) yo devasya caturaśītiṣu strīsahasreṣu cchando vā rāgo vā sneho vā prema vā ālayo vā niyantir adhyavasānaṃ vā taṃ devaḥ prajahātu nirapekṣo (gbm 1564.2) devo bhavatu jīvite. yo devasya caturaśītiṣu koṭṭarājasahasreṣu pariṇāyakaratnapramukheṣu, caturaśītiṣu nāgasahasreṣūpoṣadhanāgarājapramukheṣu, (gbm 1564.3) caturaśītiṣu-r-aśvasahasreṣu vālāhāśvarājapramukheṣu, caturaśītiṣu rathasahasreṣu nandīghoṣarathapramukheṣu, caturaśītiṣu (gbm 1564.4) nagarasahasreṣu kuśāvatīrājadhānīpramukheṣu cchando vā rāgo vā sneho vā prema vā ālayo vā niyantir adhyavasānaṃ (gbm 1564.5) vā taṃ devaḥ parijahātu nirapekṣo devo bhavatu jīvite. evaṃ hi tvaṃ bhagini mitravattayā samudācara mā sapatnavattayā.
+
+msuav [19] idānīṃ vayaṃ devaṃ (gbm 1564.6) mitravattayā samudacarāmo, na sapatnavattayā. alpakaṃ deva jīvitaṃ manuṣyāṇāṃ gamanīyaḥ sāṃparāyaḥ, kartavyaṃ kuśalaṃ, caritavyaṃ brahmacaryaṃ. (gbm 1564.7) nāsti jātasyāmaraṇaṃ so 'pi deva kṣaṇalavamuhūrto na prajñāyate yatra devasya sarveṇa sarvaṃ śarīranikṣepo bhaviṣyati. yo devasya caturaśītiṣu (gbm 1564.8) strīsahasreṣu cchando vā rāgo vā sneho vā prema vā ālayo vā niyantir adhyavasānaṃ vā taṃ devaḥ prajahātu nirapekṣo devo bhavatu jīvite. (gbm 1565.1) yo devasya caturaśītiṣu koṭṭarājasahasreṣu pariṇāyakaratnapramukheṣu, caturaśītiṣu nāgasahasreṣu upoṣadhanāgarājapramukheṣu, caturaśītiṣv (gbm 1565.2) aśvasahasreṣu vālāhāśvarājapramukheṣu, caturaśītiṣu rathasahasreṣu nandīghoṣarathapramukheṣu, caturaśītiṣu nagarasahasreṣu kuśāvatīrājadhānīpramukheṣu (gbm 1565.3) cchando va rāgo vā sneho vā prema vā ālayo vā niyantir adhyavasānaṃ vā taṃ devaḥ prajahātu nirapekṣo devo bhavatu jīvite.
+
+msuav [20] atha rājā mahāsudarśanaḥ (gbm 1565.4) strīratnenānenāvavādena codito dharmyaṃ prāsādam abhiruhya suvarṇamayaṃ kūṭāgāraṃ praviśya rupyamaye paryaṃke paryaṃkena niṣadya maitrīsahagatena (gbm 1565.5) cittenāvaireṇāsapatnenāvyābādhena vipulena mahadgatenāpramāṇena subhāvitenaikāṃ diśam adhimucya spharitvopasaṃpadya viharati. (gbm 1565.6) tathā dvitīyāṃ tathā tṛtīyāṃ tathā caturthīm ity ūrdhvam adhas tiryak sarvaśas sarvam imaṃ lokaṃ maitrīsahagatena cittenāvaireṇāsapatnenāvyābādhena (gbm 1565.7) vipulena mahadgatenāpramāṇena subhāvitenaikāṃ diśam adhimucya spharitvopasaṃpadya viharati. rupyamayāt paryaṃkād avatīrya suvarṇamayāt kūṭāgārān niṣkramya rupyamayaṃ (gbm 1565.8) kūṭāgāraṃ praviśya suvarṇamaye paryaṃke paryaṃkena niṣadya karuṇāsahagatena cittenāvaireṇa yāvad adhimucya spharitvopasaṃpadya viharati. (gbm 1566.1) suvarṇamayāt paryaṃkād avatīrya rupyamayāt kūṭāgārān niṣkramya vaiḍūryamayaṃ kūṭāgāraṃ praviśya sphaṭikamaye paryaṃke paryaṃkena niṣadya muditāsahagatena cittena (gbm 1566.2) yāvad adhimucya spharitvopasaṃpadya viharati. sphaṭikamayāt paryaṃkād avatīrya vaiḍūryamayāt kūṭāgarān niṣkramya sphaṭikamayaṃ kūṭāgāraṃ praviśya vaiḍūryamaye (gbm 1566.3) paryaṃke paryaṃkena niṣadyopekṣāsahagatena cittena yāvad adhimucya spharitvopasaṃpadya viharati.
+
+msuav [21] atha rājā mahāsudarśanaś caturo brahmāṃ (gbm 1566.4) vihārāṃ bhāvayitvā kāmeṣu kāmacchandaṃ prahāya tadbahulavihārī brahmalokasabhāgatāyām upapanno. rājño mahāsudarśanasyeyam (sic; matsumura -nasyenaṃ) evaṃ (gbm 1566.5) anubhūtā maraṇāntikī vedanā, tadyathā balavataḥ puruṣasya subhojanaṃ bhuktavato muhūrtaṃ syād bhaktaklamaḥ.
+
+msuav [22] yāvac ca mahārāja kuśinagarī, yāvac (gbm 1566.6) ca nadī hiraṇyavatī, yāvac ca yamakasālavanaṃ, yāvac ca mallānāṃ mukuṭabandhanacaityam atrāntarā dvādaśa yojanāni sāmantakena yatra tathāgatasya ṣaṭkṛtvaḥ (gbm 1566.7) śarīranikṣepo 'bhūt sa ca rājñaḥ kṣatriyasya mūrdhābhiṣiktasya iha saptamikāṃ vārāṃ. tac ca tathāgatasyārhataḥ samyaksaṃbuddhasya nāhaṃ mahārāja taṃ pṛthivīpradeśaṃ (gbm 1566.8) samanupaśyāmi yadivā pūrvasyāṃ diśi yadivā dakṣiṇasyāṃ yadivā paścimasyāṃ yadivā uttarasyāṃ diśi yatra tathāgatasyāṣṭamaṃ vā śarīranikṣepo bhaviṣyati. tat kasya (gbm 1567.1) hetoḥ.
+
+ucchinnā tathāgatasya mahārāja bhavanetrī / (sic; matsumura (samu)cchinnā) vikṣīṇo jātisaṃsāro nāstīdānīṃ punarbhava // 1 // iti //
+
+antaroddānaṃ
+
+prācīnanyāsastaṃbhā avasaṃgā annāgrabaladharaṇyaniryūhā / (gbm 1567.2) phalakasopānavedikā kūṭatālakanakāś ca // 2 // iti
+
+msuav [23] atha rājā mahāsudarśano dharme prāsāde paṃca pratyekabuddhaśatāni bhojayitvā (gbm 1567.3) pratyekapratyekaṃ duṣyayugenācchādayitvā gāthāṃ bhāsate.
+
+labdhvā hi vipulaṃ cittaṃ na pramādyed vicakṣaṇaḥ / dadyāt saṃpannaśīlebhyo yatra ridhyanti dakṣiṇā // 3 // evaṃ datveha me 
+dhāvī (gbm 1567.4) śrāddho muktena cetasā /
+avyābādhasukhe loke upapadyeta paṇḍitaḥ // 4 //
+ iti.
+
+msuav [24] syāt khalu mahārājānyas sa tena kālena tena samayena mahāsudarśano (gbm 1567.5) nāma rājā cakravartī caturdvīpeśvaraḥ saptabhi ratnaiḥ samanvāgataḥ catasṛbhi mānuṣikābhi riddhibhir iti, na khalv evaṃ draṣṭavyaṃ. aham eva sa tena (gbm 1567.6) kālena tena samayena mahārājābhūvan mahāsudarśano nāma rājā cakravartī caturdvīpeśvaraḥ saptabhi ratnaiḥ samanvāgataḥ catasṛbhi mānuṣikābhi riddhibhiḥ (gbm 1567.7) iti. syāt khalu mahārāja tena mayā dānena vā dānasaṃvibhāgena vā anuttarā samyaksaṃbodhir adhigateti, na khalv evaṃ draṣṭavyaṃ. api tu tad dānam anuttarāyās samyaksaṃbodheḥ (gbm 1567.8) hetumātrakaṃ pratyayamātrakaṃ saṃbhāramātrakam iti.
+
+mahāsudarśanāvadānaḥ samāpta.

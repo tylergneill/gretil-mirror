@@ -1,0 +1,171 @@
+Kṣemendra: Garbhāvakrāntyavadāna
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_kSemendra-garbhAvakrAntyavadAna.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Klaus Wille
+## Contribution: Klaus Wille
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Michael Hahn: "Kṣemendras Garbhāvakrāntyavadāna (Sanskrittexte aus dem tibetischen Tanjur II)", Journal of the European Ayurvedic Society 5 (1997), pp. 82-112. = KAvk_10.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Garbhāvakrāntyavadāna = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from kbavk10u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Ksemendra: Garbhavakrantyavadana
+Based on the edition by Michael Hahn: "Kṣemendras Garbhāvakrāntyavadāna (Sanskrittexte aus dem tibetischen Tanjur II)",
+Journal of the European Ayurvedic Society 5 (1997), pp. 82-112. = KAvk_10
+Input by Klaus Wille (Göttingen, Germany)
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+campopānte vimalanalinītīraparyantavasī
+śāstā pūrvaṃ sakalabhuvanānugrahāya pravṛttah /
+pṛṣṭaḥ sparśāvagatirucinā (?) bhikṣuṇānandanāmnā
+garbhārambhāt prabhṛti janatājanmavṛttiṃ jagāda // kavk_10.1 //
+
+śuklaiḥ kṛṣṇaiḥ śabalarucibhir dehināṃ karmasūtraiś
+citraṃ loke bahutaradaśaṃ dṛśyate janmavastram /
+jīrṇasyāpi vyasanamalinasnehalīnaḥ prayatnair
+yasyātyantaṃ cirapariṇater naiva niryāti rāgaḥ // kavk_10.2 //
+
+puṃsaḥ śukraṃ vigalitadhṛter ārtavaṃ yoṣitaś ca
+sparśāveśavyatikarajuṣoḥ saṃgame saṃnipātāt /
+ekībhūtaṃ vrajati niyamāt kasya cid bījabhāvaṃ
+yo 'ntas tasmin bhavati sahasā saṃnikāṣe yathāgniḥ // kavk_10.3 //
+
+rāgodgāraḥ sphaṭikaśakalaṃ megham ambhodhipāthaḥ
+puṣpāmodas tilaṃ iva śanaiḥ kāñcanaṃ vāgnitāpaḥ /
+so 'yaṃ garbhaṃ viśati niyatair apy asaṃlakṣyavṛttir
+vāyur gandhair iva bahuvidhaiḥ karmabhir vāsyamānaḥ // kavk_10.4 //
+
+tasmin sūkṣmakramapariṇatir mīnaparyuṣṭake (?) 'sau
+nānākārapracuraracanācitrarūpo 'py alakṣyaḥ /
+kaṃ cit kālaṃ vahati vikṛtiṃ nirvikārāyamāno
+māyūrāṇḍe jalamaya iva vyaktabhaktir mayūraḥ // kavk_10.5 //
+
+tatrādhānād ghanakalalatāśalyapeśyādyavasthās
+tyaktvā tās tā jaṭharajanitenoṣmaṇā pacyamānaḥ /
+pūrṇair māsair navabhir athavāvartakarmakramo 'sau
+kleśaṃ bhuṅkte kim api viṣamaṃ duḥkhasaṃjñāprapannaḥ // kavk_10.6 //
+
+kāle vṛntāt svayaṃ iva phalaṃ vicyutaṃ karmapākāt
+tatkālotthair avihatajavaiḥ preritaḥ pūtivātaiḥ /
+lakṣyābhyāsāyatanasacivair ācitaḥ karmabandhair
+niryāty antaḥ śara iva dhanuryantraṇair yantramuktaḥ // kavk_10.7 //
+
+uttānāsyaḥ saralarasanaś cūcukāgraṃ lihānaḥ stanyaṃ mātuḥ pibati yad asau naiva karṇena nākṣṇā / janmābhyāsavyasanayatanāyāsasaṃvāsalinā sā tasyāgre sakalakalanādeśini vāsanaiva // kavk_10.8 //
+
+syūtair antar vividhaviṣayasvādasaṃpādabhedair
+vyāptaḥ sūtair (?) bisalava iva vyaktatantupratānaiḥ /
+mūdhaḥ so 'tha prakṛtisacivair indriyair dattasamjñaḥ
+stanyālāpākṛtiparimalasparśanair vetti dhātrīm // kavk_10.9 //
+
+hastākarṣaiḥ śayanavasanāgharṣaṇaiḥ pīḍyamānaḥ
+sthāne sthāne taralitatanuḥ kīṭakair bhakṣyamāṇaḥ /
+nityākrandī vacanavirahāt kāyikīṃ kleśaśailīṃ
+kaṃ bobrūte viṣamavipadām āspadatvaṃ prayātaḥ // kavk_10.10 //
+
+pīḍodvāntaiś churitavadanaḥ procchalatkṣīrapūrair
+uttānorastalanipatitair ukṣito lakṣyate 'sau /
+māyāvadhvāḥ smaraṇaharaṇaprauḍhakelīvilāse
+hāseneva sphuritarucinā nirbharavyāptakāyaḥ // kavk_10.11 //
+
+so 'tha prāpte lipiparicaye helayā dattahaste
+saṃsāre 'sminn avicalitayā bandhalekhyakriyāsu /
+janmāvartaṃ nijaṃ iva likhan dīrghaṃ oṃkāram ādau
+varge varge vitarati matiṃ bhogasarge niviṣṭaḥ // kavk_10.12 //
+
+prāptaprajñaḥ katham api galadbālabhāvapramohaḥ
+kāmautsukyāt punar api pare yauvane naṣṭasaṃjñaḥ /
+niḥsāreṣu vyasanavilasadmeghasaudāminīnāṃ
+badhnāty āsthāṃ sthirataradhiyā yoṣitāṃ vibhrameṣu // kavk_10.13 //
+
+vāci śrotraṃ vapur api calāliṅganeṣv aṅganānāṃ
+ghrāṇaṃ vaktrāsavaparimale svādanaṃ tadrase ca /
+pātre kurvan dṛśam api mukhe suptasarvakriyo 'sau
+dhatte mātraṃ tanupariṇatāṃnīva sarvendriyāṇi // kavk_10.14 //
+
+dveṣṭi snigdhaṃ paricitaparidveṣaśīlaḥ sa kāmī
+vāñchaty anyāṃ navanavarasaḥ saprayatno 'nyakāmām /
+ity anyonyānucitacaritālakṣyavailakṣyasākṣī
+hāsyāyaiva prakṛtivirasaś citratantro 'sya kāmaḥ // kavk_10.15 //
+
+alpādhāre viṣayajaladhau majjataḥ sajjataś ca
+bhraṣṭasyāsya pratihatagateḥ kuñjarasyeva paṅke /
+kiṃkartavyāvagatirahitā jāyate mohamūrcchā
+nītasyāndhyaṃ katipayadinasthāyinā yauvanena // kavk_10.16 //
+
+yāvatkālaṃ bhramati calati prīyate jṛmbhate 'sau
+smeraṃ smeraṃ vadati madanāliṅgitair aṅgabhaṅgaiḥ /
+tāvat tasyopari paripatary eva kālapramuktā
+prāleyālīdhavalapalitacchadmanā vadhyamālā // kavk_10.17 //
+
+kāle kāle kṣaṇakalanayā mohanidrāvaśena
+prāptaṃ nāsmin vapuṣi sukṛtaṃ naiva dattaṃ na bhuktaṃ /
+itthaṃ caurair iva sa muṣitaś cintayaty eva duḥkhāt
+saṃmūḍhānāṃ anuśayaphalaḥ so 'vasādapramādaḥ // kavk_10.18 //
+
+tasmin yāte lalitavanitāpuṣpavallīvasante
+duṣkarmāptadraviṇatulayā yauvane svapnakalpe /
+naṣṭāśeṣaprakṛtir akhilaiḥ kheditāṅgair viraktair
+rājyabhraṃśe nṛpa iva sukhaṃ so 'tha śocaty atītaṃ // kavk_10.19 //
+
+āyur nītaṃ na ca samucitaṃ yācakāyopanītaṃ 
+nāpy unnītaṃ diśi diśi yaśaḥ satpathaṃ na pratītaṃ
+pītaṃ yācñāviṣam adhigataṃ sphītasaṃtāpaśītaṃ
+bhītaṃ pāpāt kim api na mayā yat tad eva praṇītaṃ // kavk_10.20 //
+
+
+kvāsau hemadrumaruciharā hāriṇī yauvanaśrīḥ
+kāyaḥ kvāyaṃ kṛmihatataruprāyavicchāyapākaḥ /
+dūrād etāḥ parihṛtadṛśāḥ koṇalīnaṃ taruṇyaḥ
+śuṣkaṃ śītaṃ tarum iva vane vānaraṃ māṃ vadanti // kavk_10.21 //
+
+so 'yaṃ kāyaḥ śrayati vilayaṃ naiva māyānikāyaḥ
+srastāḥ sarve daśanamaṇayas te ca keśāḥ na doṣāḥ /
+gātrotsāhe praharati marun naiva mohaprarohe
+kṣīṇasyeyaṃ śayanaśaraṇasyāpi tṛṣṇākṣayā me // kavk_10.22 //
+
+saṃcintyeti prasṛtaviṣamaśvāsahikkārdito (?) 'sau
+sadyas tyaktuṃ ciraparicitām udyato lokayātrām /
+mūkibhūtaḥ svajanavirahaṃ dhyāyati dhvastadhairyaḥ
+śakticchedād ṛṇaṃ iva mahat prāptakālo daridraḥ // kavk_10.23 //
+
+bhūmiṃ gehaṃ vasu parijanaṃ putradārādi cānyat
+tāvat tāvat kalayati dhiyā prāṇaparyantakāle /
+yāvaj janmany api punar asau snehamohānubandhais
+tais tair antaḥ kṛtaparicayas tanmayībhāvam eti // kavk_10.24 //
+
+duḥkhaṃ duḥsahapāpakarmajanitaṃ kumbhīsahasrāntare
+bhuktvā rauravakālasūtranarakeṣv āvartate yoniṣu /
+yad vā puṇyakalārjitaṃ sukhapadaṃ tat saṃkṣaye duḥkhadaṃ
+sānāgāmiphalāptaye vimaladhīs tasmāt samādhīyatāṃ // kavk_10.25 //
+
+iti bhīmabhavāmbhodhisaṃtāraṇakṛtavrataḥ /
+samādideśa bhagavān sattvānāṃ kuśalāptaye // kavk_10.26 //
+
+/ iti kṣemendraviracitāyāṃ bodhisattvāvadānakalpalatāyāṃ garbhāvakrāntinirdeśo nāma daśamaḥ pallavaḥ /

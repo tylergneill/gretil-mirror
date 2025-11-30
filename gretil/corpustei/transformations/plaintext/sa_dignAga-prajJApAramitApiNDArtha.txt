@@ -1,0 +1,230 @@
+Dignāga: Prajñāpāramitāpiṇḍārtha
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dignAga-prajJApAramitApiNDArtha.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - .
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Prajñāpāramitāpiṇḍārtha = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsa011_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Dignaga: Prajnaparamitapindartha
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sastra section, text no. 11
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+ācāryadignāgaviracitaḥ
+
+prajñāpāramitāpiṇḍārthaḥ (pppa)
+
+/ namaḥ prajñāpāramitāyai //
+
+prajñāparamitā jñānamadvayaṃ sā tathāgataḥ /
+sādhyā tādarthyayogena tācchabdyaṃ granthamārgayoḥ // pppa_1 //
+
+āśrayaścādhikāraśca karma bhāvanayā saha /
+prabhedo liṅgamāpacca sānuśaṃsamudāhṛtam // pppa_2 //
+
+śradvāvatāṃ pravṛtyaṅgaṃ śāstā parṣacca sākṣiṇī /
+deśakālau ca nirdiṣṭau svaprāmāṇyaprasiddhaye // pppa_3 //
+
+saṅgītikartā loke hi deśakālopalakṣitam /
+sasākṣikaṃ vadan vaktā prāmāṇyamadhigacchati // pppa_4 //
+
+sarvaṃ caitannipātātmaśravaṇādeḥ prakīrtanam /
+prāsaṅgikaṃ tu evārthā mukhyā dvātriṃśadeva hi // pppa_5 //
+
+prabhedaḥ ṣoḍaśākāraḥ śūnyatāyā yathākramam /
+nirdiṣṭo 'ṣṭāsahastrayā sa vijñeyo 'nyāpadeśataḥ // pppa_6 //
+
+itthamaṣṭasahasrīyamanyūnārthairyathoditaiḥ /
+granthasaṅkṣepa iṣṭo 'tra ta evārthā yathoditāḥ // pppa_7 //
+
+bodhisattvaṃ na paśyāmītyuktavāṃstattvato muniḥ /
+bhoktādhyātmikavastūnāṃ kathitā tena śūnyatā // pppa_8 //
+
+rūpaṃ rūpasvabhāvena śūnyamityuktitaḥ punaḥ /
+bāhyānyāyatanānīha bhojyāni pratiṣiddhavān // pppa_9 //
+
+rūpādyabhāve taddehapratiṣṭhālakṣaṇakṣatiḥ /
+gatārthā yena taddṛṣṭaṃ tadādhyātmikamityasat // pppa_10 //
+
+ādhyātmikānāṃ śūnyatve prakṛterapi śūnyatā /
+vijñānarūpaṃ gotraṃ hi kṛpāprajñātmakaṃ matam // pppa_11 //
+
+notpanno na niruddho vā sattva ityādinā sphuṭam /
+sattvasaṃsārayoḥ kāmaṃ darśitā tena śūnyatā // pppa_12 //
+
+buddhadharmāṃstathā bodhisattvadharmānna paśyati /
+ityādinā vinirdiṣṭā śūnyā daśabalādayaḥ // pppa_13 //
+
+prati prati yato dharmāḥ kalpitā iti kīrtitam /
+tato na paramārtho 'sti dharmāṇāmiti coktavān // pppa_14 //
+
+ātmādidṛṣṭerucchedaṃ mahatyā prakaroti yat /
+tataḥ pudgalanairātmyaṃ bhagavān sarvathā jagau // pppa_15 //
+
+sarvadharmā anutpannā iti kīrtayatā tathā /
+kathitaṃ dharmanairātmyaṃ sarvathā tattvavedinā // pppa_16 //
+
+sāvadyaniravadyānāmavṛddhiparihāṇitaḥ /
+saṃskṛtāsaṃskṛtānāṃ ca kuśalānāṃ nirākṛtiḥ // pppa_17 //
+
+kuśalānāṃ ca śūnyatve tadgatā akṣatā tathā /
+kalpitaiveti bhedānāṃ śūnyatāyāḥ sa saṅgrahaḥ // pppa_18 //
+
+daśabhiścittavikṣepaiścittaṃ vikṣiptamanyataḥ /
+yogyaṃ bhavati bālānāṃ nādvayajñānasādhane // pppa_19 //
+
+tānapākartumanyonyaṃ vipakṣapratipakṣataḥ /
+prajñāpāramitāgranthaste ca sampiṇḍaya darśitāḥ // pppa_20 //
+
+yadāha bodhisattvaḥ sannityabhāvaprakalpanā /
+vikṣepaṃ vikṣipan śāstā sāṃvṛtaskandhadarśanāt // pppa_21 //
+
+etenāṣṭasahasryādāvādivākyātprabhṛtyapi /
+ā samāpterniṣeddhavyā vidhinābhāvakalpanā // pppa_22 //
+
+hetuvākyāni naitāni kṛtyamātraṃ tu sūcyate /
+brahmajālādisūtreṣu jñeyāḥ sarvatra yuktayaḥ // pppa_23 //
+
+bodhisattvaṃ na paśyāmi ahamityādi vistaraiḥ /
+nirākaroti bhagavān bhāvasaṅkalpavibhramam // pppa_24 //
+
+yanna paśyati nāmāpi gocaraṃ[na] kriyāṃ tathā /
+skandhāṃśca sarvatastena bodhisattvaṃ na paśyati // pppa_25 //
+
+kalpitasya niṣedho 'yamiti saṅgrahadarśanam /
+sarvo jñeyatayārūḍha ākāraḥ kalpito matau // pppa_26 //
+
+prajñāpāramitāyāṃ hi trīn samāśritya deśanā /
+kalpitaṃ paratantraṃ ca pariniṣpannameva ca // pppa_27 //
+
+nāstītyādipadaiḥ sarvaṃ kalpitaṃ vinivāryate /
+māyopamādidṛṣṭāntaiḥ paratantrasya deśanā // pppa_28 //
+
+caturdhā vyavadānena pariniṣpannakīrtanam /
+prajñāpāramitāyāṃ hi nānyā buddhasya deśanā // pppa_29 //
+
+daśasaṅkalpavikṣepavipakṣe deśanākrame /
+trayāṇāmiha boddhavyaṃ samastavyastakīrtanam // pppa_30 //
+
+yathādivākye niṣpannaparatantraparikalpitaiḥ /
+abhāvakalpanārūpavikṣepavinivāraṇam // pppa_31 //
+
+tena buddhaṃ tathā bodhiṃ na paśyāmīti vācakaiḥ /
+ā samāpteriha jñeyā kalpitānāṃ nirākṛtiḥ // pppa_32 //
+
+śūnye rūpe svabhāvena samāropaḥ kva kena vā /
+ityanyeṣvapi vākyeṣu boddhavyaṃ tannivāraṇam // pppa_33 //
+
+na hi śūnyatayā śūnyamiti vākyaṃ vinirdiśan /
+apavādavikalpānāṃ nirāsaṃ sarvathoktavān // pppa_34 //
+
+māyopamastathā buddhaḥ sa svapnopama ityapi /
+ayameva kramo jñeyo vijñairvākyāntareṣvapi // pppa_35 //
+
+sāmānādhikaraṇyena prokto māyopamo jinaḥ /
+māyopamādiśabdaiśca paratantro nigadyate // pppa_36 //
+
+pṛthagjanānāṃ yajjñānaṃ prakṛtivyavadānikam /
+uktaṃ tadbuddhaśabdena bodhisattvo yathā jinaḥ // pppa_37 //
+
+nijaṃ svarūpaṃ pracchādya tadavidyāvaśīkṛtam /
+māyāvadanyathā bhāti phalaṃ svapnam ivojhati // pppa_38 //
+
+advayasyānyathākhyātau phale vāpyapavādinām /
+apavādavikalpānāmapavādo 'yamucyate // pppa_39 //
+
+na rūpaṃ śūnyatā yuktā parasparavirodhataḥ /
+nīrūpā śūnyatā nāmarūpamākārasaṅgatam // pppa_40 //
+
+ityekatvavikalpasya bāddhā(dhyā?)nānātvakalpanam(nā?) /
+ruṇāddhi nānyattadrūpaṃ śūnyatāyāṃ kathañcana // pppa_41 //
+
+asadeva yataḥ khyāti tadavidyāvinirmitam /
+asatkhyāpanaśaktyaiva sāvidyeti nigadyate // pppa_42 //
+
+idamevocyate rūpaṃ prajñāpāramiteti ca /
+advayaṃ dvayamevaitadvikalpadvayabādhanam // pppa_43 //
+
+yuktiṃ cāha viśuddhatvāttathā cānupalambhataḥ /
+bhāvābhāvavirodhācca nānātvamapi paśyati // pppa_44 //
+
+nāmamātramidaṃ rūpaṃ tattvato hyasvabhāvakam /
+tatsvabhāvavikalpānāmavakāśaṃ nirasyati // pppa_45 //
+
+rūpaṃ rūpasvabhāvena śūnyaṃ yatprathamoditam /
+tatsvabhāvasamāropasaṅkalpapratiṣedhanam // pppa_46 //
+
+notpādaṃ na nirodhaṃ ca dharmāṇāṃ paśyatīti yat /
+bhagavānāha, tadvayastā tadviśeṣasya kalpanā // pppa_47 //
+
+kṛtrimaṃ nāma vācyāśca dharmāste kalpitā yataḥ /
+śabdārthayorna sambandhastena svābhāviko mataḥ // pppa_48 //
+
+bāhyārthābhiniveśastu bhrāntyā bālasya jṛmbhate /
+tathaiva vyavahāro 'yaṃ tvatrārtho 'sti kaścana // pppa_49 //
+
+atra tena yathā nāma kalpyate na tathāsti tat /
+vācyaṃ vastu tato niṣṭhā yathānāmārthakalpanā // pppa_50 //
+
+prajñāpāramitā buddho bodhisattvo 'pi vā tathā /
+nāmamātramiti prāha vyasan satyārthakalpanam // pppa_51 //
+
+śabdārthapratiṣedho 'yaṃ na vastu vinivāryate /
+evamanyeṣvapi jñeyo vākyeṣvarthaviniścayaḥ // pppa_52 //
+
+naivopalabhate samyak sarvanāmāni tattvavit /
+yathārthatvena tenedaṃ na dhvanervinivāraṇam // pppa_53 //
+
+subhūtistu dvayaṃ vyasan śabdaṃ śabdārthameva ca /
+bodhisattvasya no nāma paśyāmīti sa uktavān // pppa_54 //
+
+prajñāpāramitāvākyaṃ nāsti yanneyatā gatam /
+ūhyāstu kevalaṃ te 'rthā[stadevaṃ]sūkṣmayā dhiyā // pppa_55 //
+
+prakrāntārthatiraskāro yā cārthāntarakalpanā /
+prajñāpāramitāyāṃ hi proktā sā prativarṇikā // pppa_56 //
+
+etāvānarthasaṅkṣepaḥ prajñāpāramitāśrayaḥ /
+āvartya(rta?)te sa evārthaḥ punararthāntarāśritaḥ // pppa_57 //
+
+prajñāpāramitāṃ samyak saṅgṛhyāṣṭasahasrikām /
+yatpuṇyamāptaṃ tenāstu prajñāpāramito janaḥ // pppa_58 //
+
+prajñāpāramitāpiṇḍārthasaṅgrahaḥ samāptaḥ /
+
+kṛtirācāryadignāgapādānām //

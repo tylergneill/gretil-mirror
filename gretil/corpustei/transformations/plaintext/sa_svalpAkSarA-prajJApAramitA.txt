@@ -1,0 +1,76 @@
+Svalpākṣarā prajñāpāramitā
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_svalpAkSarA-prajJApAramitA.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - P.L. Vaidya in: Mahayana-sutra-samgrahah, Part 1. Darbhanga: The Mithila Institute 1961 (Buddhist Sanskrit Texts, 17).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Svalpākṣarā prajñāpāramitā = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsu050_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Svalpaksara prajnaparamita
+Based on the ed. by P.L. Vaidya in: Mahayana-sutra-samgrahah, Part 1.
+Darbhanga: The Mithila Institute 1961 (Buddhist Sanskrit Texts, 17)
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sutra section, text no. 50.
+The transliteration emulates the conventions of Nagari script.
+Therefore, many word boundaries are not marked by blanks.
+REFERENCE SYSTEM:
+(Vaidya n) = pagination of P.L. Vaidya's edition (added by Klaus Wille)
+NOTE: Where a page break occurs within a word, the pagination mark has been
+shifted to the end of the word in order not to interfere with word search.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+svalpākṣarā prajñāpāramitā |
+namaḥ sarvabuddhabodhisattvebhyaḥ ||
+
+evaṃ mayā śrutam | ekasmin samaye bhagavān rājagṛhe viharati sma gṛdhrakūṭe parvate mahatā bhikṣusaṃghena sārdhaṃ dvādaśasāhasrapañcaśatairbodhisattvakoṭiniyutaśatasahasraiḥ sārdhaṃ viharati sma, lokapālādidevakoṭiniyutasahasraiḥ parivṛtaḥ puraskṛtaḥ śrīsiṃhāsane viharati sma ||
+
+atha khalu bodhisattvo mahāsattvo āryāvalokiteśvaro utthāya āsanādekamaṃsamuttarāsaṅgaṃ kṛtvā dakṣiṇaṃ jānumaṇḍalaṃ pṛthivyāṃ pratiṣṭhāpya yena bhagavāṃstenāñjaliṃ praṇamya prahasitavadano bhūtvā bhagavantametadavocat - deśayatu bhagavān prajñāpāramitāṃ svalpākṣarāṃ mahāpuṇyām, yasyāḥ śravaṇamātreṇa sarvasattvāḥ sarvakarmāvaraṇāni kṣapayiṣyanti, niyataṃ ca bodhiparāyaṇā bhaviṣyanti | ye ca sattvā mantrasādhane udyuktāsteṣāṃ cāvighnena mantrāḥ sidhyanti ||
+
+atha khalu bhagavān āryāvalokiteśvarāya bodhisattvāya mahāsattvāya mahākaruṇikāya sādhukāramadāt - sādhu sādhu kulaputra, yastvaṃ sarvasattvānāmarthāya hitāya sukhāya pradhānāya ca dīrgharātraṃ niyuktaḥ | tena hi tvaṃ kulaputra śṛṇu, sādhu ca suṣṭhu ca manasi kuru | bhāṣiṣye 'haṃ te prajñāpāramitāṃ svalpākṣarāṃ mahāpuṇyām, yasyāḥ śravaṇamātreṇa sarvasattvāḥ sarvakarmāvaraṇāni kṣapayiṣyanti, niyataṃ ca bodhiparāyaṇā bhaviṣyanti | ye ca sattvā mantrasādhane udyuktāsteṣāṃ cāvighnenaḥ mantrāḥ sidhyanti ||
+
+atha khalu āryāvalokiteśvaro bodhisattvo mahāsattvo bhagavantametadavocat - tena hi sugata bhāṣatu sarvasattvānāmarthāya hitāya sukhāya ca ||
+
+atha khalu bhagavāṃstasyāṃ velāyāṃ sarvaduḥkhapramocano nāma samādhiṃ samāpadyate sma, yasya ca samādhiṃ samāpannasya bhagavata ūrṇākośavivarāllavādanekāni raśmikoṭiniyutaśatasahasrāṇi niścaranti sma | taiśca raśmibhiḥ sarvabuddhakṣetrāṇi parisphuṭānyabhūvan | ye ca sattvāstayā prabhayā spṛṣṭāḥ, te sarve niyatā abhūvannanuttarāya samyaksaṃbodhau | yāvannārakāḥ sattvāḥ * * *sarve ca buddhakṣetrāṇi ṣaḍvikāraṃ praviceluḥ | divyāni ca candanacūrṇavarṣāṇi tathāgatapādamūlaṃ vavarṣuḥ ||
+
+atha khalu bhagavāṃstasyāṃ velāyāṃ prajñāpāramitāṃ bhāṣate sma | tadyathā - bodhisattvena mahāsattvena samacittena bhavitavyam | sarvasattveṣu maitracittena bhavitavyam | kṛtajñena bhavitavyam | kṛtavedinā ca bhavitavyam | sarvapāpaviratacittena bhavitavyam | idaṃ ca prajñāpāramitāhṛdayamāgrahītavyam - namo ratnatrayāya | namaḥ śākyamunaye tathāgatāya arhate samyaksaṃbuddhāya | tadyathā - oṃ mune mune mahāmunaye svāhā || asyāḥ prajñāpāramitāyā lābhāt mayā anuttarā samyaksaṃbodhiranuprāptā | sarvabuddhāśca ato niryātāḥ || mayā api iyameva (svalp, vaidya 94) prajñāpāramitā śrutā mahāśākyamunestathāgatasya sākṣāt | tena hi tvaṃ sarvabodhisattvānāmagrato buddhatve ca vyākṛtaḥ - bhaviṣyasi tvaṃ māṇava anāgate 'dhvani sa(mantaraśmisamu)dgataḥ śrīkūṭarājā nāma tathāgato 'rhan samyaksaṃbuddho vidyācaraṇasaṃpannaḥ sugato lokavid anuttaraḥ puruṣadamyasārathiḥ śāstā devānāṃ ca manuṣyāṇāṃ ca buddho bhagavān | [badiyamapi?] ye idaṃ nāmadheyaṃ śroṣyanti dhārayiṣyanti vācayiṣyanti likhayayiṣyanti, parebhyaśca vistareṇa saṃprakāśayiṣyanti, pustakalikhitamapi kṛtvā gṛhe dhārayiṣyanti pūjayiṣyanti, te sarve alpopāyena alpaśravaṇena ca tathāgatā bhaviṣyanti | tadyathā - oṃ jeya jeya padmābhe avame avame sarasaraṇi dhiridhiri devatā anupālani yuddhottāriṇi paracakranivāriṇi pūraya pūraya bhagavati sarva āśā mama ca sarvasattvānāṃ ca | sarvakarmāvaraṇāni viśodhaya, buddhādhiṣṭhite svāhā || iyaṃ sā kulaputra paramārthaprajñāpāramitā sarvabuddhānāṃ jananī bodhisattvamātā (bodhidātrī) pāpahārakā | sarvabuddhairapi na śaknoti asyānuśaṃsā vaktuṃ yāvatkalpakoṭiśatairapi | anayā paṭhitamātreṇa sarvaparṣanmaṇḍalābhiṣiktā bhavanti, sarve ca mantrāḥ abhimukhā bhavanti ||
+
+atha āryāvalokiteśvaro bodhisattvo mahāsattvo bhagavantametadavocat - kena kāraṇena bhagavan iyaṃ svalpākṣarā prajñāpāramitā? bhagavānāha - alpopāyatvāt | ye 'pi sattvā mandāsvādāḥ, te 'pi imāṃ prajñāpāramitāṃ svalpākṣarāṃ dhārayiṣyanti vācayiṣyanti likhiṣyanti likhayiṣyanti, te sarve alpopāyena bodhiparāyaṇā bhaviṣyanti | anena kāraṇena kulaputra iyaṃ saṃkṣiptā svalpākṣarā prajñāpāramitā ||
+
+evamukte āryāvalokiteśvaro bodhisattvo mahāsattvo bhagavantametadavocat - āścaryaṃ bhagavan, paramāścaryaṃ sugata, yāvadeva bhagavān sarvasattvahitāya ayaṃ dharmaparyāyo bhāṣito mandapudgalānāmeva arthāya hitāya sukhāya ceti ||
+
+idamavocadbhagavān | āttamanā āryāvalokiteśvaro bodhisattvo mahāsattvaḥ, te ca bhikṣavaste ca bodhisattvāḥ sā ca sarvāvatī parṣat sadevamānuṣāsuragandharvaśca loko bhagavato bhāṣitamabhyanandanniti ||
+
+svalpākṣarā prajñāpāramitā samāptā ||

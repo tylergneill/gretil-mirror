@@ -1,0 +1,1293 @@
+Bhāmaha: Kāvyālaṃkāra
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bhAmaha-kAvyAlaMkAra.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Dominic Goodall
+## Contribution: Dominic Goodall
+## Date of this version: 2020-07-31
+
+## Source: 
+   - : Kāvyālaṅkāra of Bhāmaha, Paricchedas 1 to 6 With English Translation and Notes on Paricchedas 1 to 3 by C. Sankara Rama Sastri. Madras, Mylapore : Sri Balamanorama Press, 1956. (Sri Balamanorama Series, 54).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Kāvyālaṃkāra = Bh,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bhakavau.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Bhamaha: Kavyalamkara
+Based on: Kāvyālaṅkāra of Bhāmaha, Paricchedas 1 to 6 With English Translation
+and Notes on Paricchedas 1 to 3 by C. Sankara Rama Sastri.
+Madras, Mylapore : Sri Balamanorama Press, 1956.
+(Sri Balamanorama Series, 54)
+Input by Dominic Goodall (EFEO)
+(The text is not proofread!)
+TEXT WITH PADA MARKERS
+[Notes by D. Goodall:]
+Some corrections from Raniero GNOLI's
+Udbhaṭa's Commentary on the Kāvyālaṃkāra of Bhāmaha with an Appendix by Margherita Taticchi including some fragments of Kālidāsa's Raghuvaṃśa.
+Literary and Historical Documents from Pakistan II. Rome: Istituto Italiano per il Medio ed Estremo Oriente, 1962.
+Supplemented with readings (not consistently in the 1st 3 chapters) from Kashi Sanskrit Series 61,
+the 1928 edition of Batuk Nātha "Sarmā and Baldeva Upādhyāya (\edB):
+Kāvyālaṅkāra of Bhāmaha Edited With Introduction etx. By Batuk Nāth Śarmā, M.A., Sāhityopādhyāya,
+and Baldeva Upādhyāya, M.A., Sāhitya Śāstrī,
+Professors, Benares Hindu University. With a Foreword By Principal A.B. Dhruva, M.A., LL.B.,
+Pro-Vice-Chancellor, Benares Hindu University.
+The Kashi Sanskrit Series (Haridas Sanskrit Granthamala) 61 (Alaṅkāra Śāstra Section No. 2.)
+Benares: Chowkhamba Sanskrit Series Office, 1928.
+The recent Chowkhamba edition (Kāvyālaṅkāra of Bhāmaḥ [sic] with `Aanand' Hindi commentary
+by Dr. Ramanand Sharma. Chowkhamba Sanskrit Series 110. Varanasi: Chowkhamba Sanskrit Series Office, 2002) has been ignored. The Hindi translation may be useful, but the edition is not a careful one:
+it incorporates the suggestions of earlier editors intermittently and without acknowledgement (e.g.6:60),
+and it sometimes translates someone's improvement without accepting it into the text (e.g. 6:56a). It takes
+no account of GNOLI (see e.g. 1:9).
+No other editions available to me at the moment; but D.T. Tatacharya Siromani's edition with his
+commentary (udyānavṛtti) published from Tiruvadi in 1934 (according to GNOLI 1962:xxxix, fn.2)
+should be sought.
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+praṇamya sārvaṃ sarvajñaṃ manovākkāyakarmabhiḥ 
+kāvyālaṃkāra ityeṣa yathābuddhi vidhāsyate // Bh_1.1
+
+dharmārthakāmamokṣeṣu vaicakṣaṇyaṃ kalāsu ca 
+prītiṃ karoti kīrtiṃ ca sādhukāvyanibandhanam // Bh_1.2
+
+adhanasyeva dātṛtvaṃ klībasyevāstrakauśalam 
+ajñasyeva pragalbhatvam akaveḥ śāstravedanam // Bh_1.3
+
+vinayena vinā kā śrīḥ kā niśā śaśinā vinā 
+rahitā satkavitvena kīdṛśī vāgvidagdhatā // Bh_1.4
+
+gurūpadeśādadhyetuṃ śāstraṃ jaḍadhiyo 'pyalam 
+kāvyaṃ tu jāyate jātu kasyacit pratibhāvataḥ // Bh_1.5
+
+upeyuṣāmapi divaṃ sannibandhavidhāyinām 
+āsta eva nirātaṅkaṃ kāntaṃ kāvyamayaṃ vapuḥ // Bh_1.6
+
+ruṇaddhi rodasī cāsya yāvatkīrtiranaśvarī 
+tāvatkilāyamadhyāste sukṛtī vaibudhaṃ padam // Bh_1.7
+
+ato 'bhivāñchatā kīrtiṃ stheyasīmābhuvaḥ sthiteḥ 
+yatno viditavedyena vidheyaḥ kāvyalakṣaṇaḥ // Bh_1.8
+
+śabdaśchando 'bhidhānārthā itihāsāśrayāḥ kathāḥ 
+loko yuktiḥ kalāśceti mantavyāḥ kāvyahetavaḥ // Bh_1.9
+
+śabdābhidheye vijñāya kṛtvā tadvidupāsanam 
+vilokyānyanibandhāṃśca kāryaḥ kāvyakriyādaraḥ // Bh_1.10
+
+sarvathā padamapyekaṃ na nigādyamavadyavat 
+vilakṣmaṇā hi kāvyena duḥsuteneva nindyate // Bh_1.11
+
+nākavitvamadharmāya vyādhaye daṇḍanāya vā 
+kukavitvaṃ punaḥ sākṣān mṛtimāhurmanīṣiṇaḥ // Bh_1.12
+
+rūpakādiralaṃkāras tasyānyairbahudhoditaḥ 
+na kāntamapi nirbhūṣaṃ vibhāti vanitāmukham // Bh_1.13
+
+rūpakādimalaṃkāraṃ bāhyamācakṣate pare 
+supāṃ tiṅāṃ ca vyutpattiṃ vācāṃ vāñchantyalaṃkṛtim // Bh_1.14
+
+tadetadāhuḥ sauśabdyaṃ nārthavyutpattirīdṛśī 
+śabdābhidheyālaṃkārabhedādiṣṭaṃ dvayaṃ tu naḥ // Bh_1.15
+
+śabdārthau sahitau kāvyaṃ gadyaṃ padyaṃ ca taddvidhā 
+saṃskṛtaṃ prākṛtaṃ cānyad apabhraṃśa iti tridhā // Bh_1.16
+
+vṛttadevādicaritaśaṃsi cotpādyavastu ca 
+kalāśāstrāśrayaṃ ceti caturdhā bhidyate punaḥ // Bh_1.17
+
+sargabandho 'bhineyārthaṃ tathaivākhyāyikākathe 
+anibaddhaṃ ca kāvyādi tatpunaḥ pañcadhocyate // Bh_1.18
+
+sargabandho mahākāvyaṃ mahatāṃ ca mahacca yat 
+agrāmyaśabdamarthyaṃ ca sālaṃkāraṃ sadāśrayam // Bh_1.19
+
+mantradūtaprayāṇājināyakābhyudayaiśca yat 
+pañcabhiḥ sandhibhiryuktaṃ nātivyākhyeyamṛddhimat // Bh_1.20
+
+caturvargābhidhāne 'pi bhūyasārthopadeśakṛt 
+yuktaṃ lokasvabhāvena rasaiśca sakalaiḥ pṛthak // Bh_1.21
+
+nāyakaṃ prāgupanyasya vaṃśavīryaśrutādibhiḥ 
+na tasyaiva vadhaṃ brūyād anyotkarṣābhidhitsayā // Bh_1.22
+
+yadi kāvyaśarīrasya na sa vyāpitayeṣyate 
+na cābhyudayabhāktasya mudhādau grahaṇastavau // Bh_1.23
+
+nāṭakaṃ dvipadīśamyārāsakaskandhakādi yat 
+uktaṃ tadabhineyārtham ukto 'nyaistasya vistaraḥ // Bh_1.24
+
+saṃskṛtānākulaśravyaśabdārthapadavṛttinā 
+gadyena yuktodāttārthā socchvāsākhyāyikā matā // Bh_1.25
+
+vṛttamākhyāyate tasyāṃ nāyakena svaceṣṭitam 
+vaktraṃ cāparavaktraṃ ca kāle bhāvyārthaśaṃsi ca // Bh_1.26
+
+kaverabhiprāyakṛtaiḥ kathanaiḥ kaiścidaṅkitā 
+kanyāharaṇasaṃgrāmavipralambhodayānvitā // Bh_1.27
+
+na vaktrāparavaktrābhyāṃ yuktā nocchāsavatyapi 
+saṃskṛtāsaṃskṛtā ceṣṭā kathāpabhraṃśabhāk tathā // Bh_1.28
+
+anyaiḥ svacaritaṃ tasyāṃ nāyakena tu nocyate 
+svaguṇāviṣkṛtiṃ kuryād abhijātaḥ kathaṃ janaḥ // Bh_1.29
+
+anibaddhaṃ punargāthāślokamātrādi tatpunaḥ 
+yuktaṃ vakrasvabhāvoktyā sarvamevaitadiṣyate // Bh_1.30
+
+vaidarbhamanyadastīti manyante sudhiyo 'pare 
+tadeva ca kila jyāyaḥ sadarthamapi nāparam // Bh_1.31
+
+gauḍīyamidametattu vaidarbhamiti kiṃ pṛthak 
+gatānugatikanyāyān nānākhyeyamamedhasām // Bh_1.32
+
+nanu cāśmakavaṃśādi vaidarbhamiti kathyate 
+kāmaṃ tathāstu prāyeṇa saṃjñecchāto vidhīyate // Bh_1.33
+
+apuṣṭārthamavaktrokti prasannamṛju komalam 
+bhinnaṃ geyamivedaṃ tu kevalaṃ śrutipeśalam // Bh_1.34
+
+alaṃkāravadagrāmyam arthyaṃ nyāyyamanākulam 
+gauḍīyamapi sādhīyo vaidarbhamiti nānyathā // Bh_1.35
+
+na nitāntādimātreṇa jāyate cārutā girām 
+vakrābhidheyaśabdoktir iṣṭā vācāmalaṃkṛtiḥ // Bh_1.36
+
+neyārthaṃ kliṣṭamanyārtham avācakamayuktimat 
+gūḍhaśabdābhidhānaṃ ca kavayo na prayuñjate // Bh_1.37
+
+neyārthaṃ nīyate yukto yasyārthaḥ kṛtibhirbalāt 
+śabdanyāyānupārūḍhaḥ kathaṃcitsvābhisandhinā // Bh_1.38
+
+māyeva bhadreti yathā sā cāsādhvī prakalpanā 
+veṇudākeriti ca tāṃ nayanti vacanādvinā // Bh_1.39
+
+kliṣṭaṃ vyavahitaṃ vidyād anyārthaṃ vigame yathā 
+vijahrustasya tāḥ śokaṃ krīḍāyāṃ vikṛtaṃ ca tat // Bh_1.40
+
+himāpahāmitradharair vyāptaṃ vyometyavācakam 
+sākṣādarūḍhaṃ vācye 'rthe nābhidhānaṃ pratīyate // Bh_1.41
+
+ayuktimad yathā dūtā jalabhṛnmārutendavaḥ 
+tathā bhramarahārītacakravākaśukādayaḥ // Bh_1.42
+
+avāco 'vyaktavācaśca dūradeśavicāriṇaḥ 
+kathaṃ dūtyaṃ prapadyerann iti yuktyā na yujyate // Bh_1.43
+
+yadi cotkaṇṭhayā yattad unmatta iva bhāṣate 
+tathā bhavatu bhūmnedaṃ sumedhobhiḥ prayujyate // Bh_1.44
+
+gūḍhaśabdābhidhānaṃ ca na prayojyaṃ kathaṃcana 
+sudhiyāmapi naivedam upakārāya kalpate // Bh_1.45
+
+asitartitugadricchit svaḥkṣitāṃ patiradvidṛk 
+amidbhiḥ śubhradṛgdṛṣṭair dviṣo jeghnīyiṣīṣṭa vaḥ // Bh_1.46
+
+śrutiduṣṭārthaduṣṭe ca kalpanāduṣṭamityapi 
+śrutikaṣṭaṃ tathaivāhur vācaṃ doṣaṃ caturvidham // Bh_1.47
+
+viḍvarcoviṣṭhitaklinnacchinnavāntapravṛttayaḥ 
+pracāradharṣitodgāravisargahadayantritāḥ // Bh_1.48
+
+hiraṇyaretāḥ sambādhaḥ pelavopasthitāṇḍajāḥ 
+vākkāṭavādayaśceti śrutiduṣṭā matā giraḥ // Bh_1.49
+
+arthaduṣṭaṃ punarjñeyaṃ yatrokte jāyate matiḥ 
+asabhyavastuviṣayā śabdaistadvācibhiryathā // Bh_1.50
+
+hantumeva pravṛttasya stabdhasya vivaraiṣiṇaḥ 
+patanaṃ jāyate 'vaśyaṃ kṛcchreṇa punarunnatiḥ // Bh_1.51
+
+padadvayasya sandhāne yadaniṣṭaṃ prakalpate 
+tadāhuḥ kalpanāduṣṭaṃ sa śauryābharaṇo yathā // Bh_1.52
+
+yathā.ajihladadityādi śrutikaṣṭaṃ ca tadviduḥ 
+na tad icchanti kṛtino gaṇḍamapyapare kila // Bh_1.53
+
+sanniveśaviśeṣāttu duruktamapi śobhate 
+nīlaṃ palāśamābaddham antarāle srajāmiva // Bh_1.54
+
+kiṃcidāśrayasaundaryād dhatte śobhāmasādhvapi 
+kāntāvilocananyastaṃ malīmasamivāñjanam // Bh_1.55
+
+āpāṇḍugaṇḍametatte vadanaṃ vanajekṣaṇe 
+saṃgamāt pāṇḍuśabdasya gaṇḍaḥ sādhu yathoditam // Bh_1.56
+
+anayānyad api jñeyaṃ diśā yuktamasādhvapi 
+yathā viklinnagaṇḍānāṃ kariṇāṃ madavāribhiḥ // Bh_1.57
+
+madaklinnakapolānāṃ dviradānāṃ catuḥśatī 
+yathā tadvadasādhīyaḥ sādhīyaśca prayojayet // Bh_1.58
+
+etad grāhyaṃ surabhi kusumaṃ grāmyam etannidheyaṃ dhatte śobhāṃ viracitamidaṃ sthānamasyaitadasya 
+mālākāro racayati yathā sādhu vijñāya mālāṃ yojyaṃ kāvyeṣvavahitadhiyā tadvadevābhidhānam // Bh_1.59
+
+iti bhāmahālaṅkāre prathamaḥ paricchedaḥ
+
+
+dvitīyaḥ paricchedaḥ
+
+mādhuryamabhivāñchantaḥ prasādaṃ ca sumedhasaḥ 
+samāsavanti bhūyāṃsi na padāni prayuñjate // Bh_2.1
+
+kecidojo 'bhidhitsantaḥ samasyanti bahūnyapi 
+yathā mandārakusumareṇupiñjaritālakā // Bh_2.2
+
+śravyaṃ nātisamastārthaṃ kāvyaṃ madhuramiṣyate 
+āvidvadaṅganābālapratītārthaṃ prasādavat // Bh_2.3
+
+anuprāsaḥ sayamako rūpakaṃ dīpakopame 
+iti vācāmalaṃkārāḥ pañcaivānyairudāhṛtāḥ // Bh_2.4
+
+sarūpavarṇavinyāsam anuprāsaṃ pracakṣate 
+kiṃ tayā cintayā kānte nitānteti yathoditam // Bh_2.5
+
+grāmyānuprāsamanyattu manyante sudhiyo 'pare 
+sa lolamālānīlālikulākulagalo balaḥ // Bh_2.6
+
+nānārthavanto 'nuprāsā na cāpyasadṛśākṣarāḥ 
+yuktyānayā madhyamayā jāyante cāravo giraḥ // Bh_2.7
+
+lāṭīyamapyanuprāsam ihecchantyapare yathā 
+dṛṣṭiṃ dṛṣṭisukhāṃ dhehi candraścandramukhoditaḥ // Bh_2.8
+
+ādimadhyāntayamakaṃ pādābhyāsaṃ tathāvalī 
+samastapādayamakam ityetat pañcadhocyate // Bh_2.9
+
+sandaṣṭakasamudgāder atraivāntargatirmatā 
+ādau madhyāntayorvā syād iti pañcaiva tadyathā // Bh_2.10
+
+sādhunā sādhunā tena rājatā rājatā bhṛtā 
+sahitaṃ sahitaṃ kartuṃ saṃgataṃ saṃgataṃ janam // Bh_2.11
+
+sādhuḥ saṃsārādbibhyadasmādasārāt kṛtvā kleśāntaṃ yāti vartma praśāntam 
+jātiṃ vyādhīnāṃ durdamānāmadhīnāṃ vāñchañjyāyastvaṃ chindhi muktānayastvam // Bh_2.12
+
+na te dhirdhīra bhogeṣu ramaṇīyeṣu saṃgatā 
+munīnapi harantyete ramaṇī yeṣu saṃgatā // Bh_2.13
+
+sitāsitākṣīṃ supayodharādharāṃ susaṃmadāṃ vyaktamadāṃ lalāmadām 
+ghanāghanā nīlaghanā ghanālakāṃ priyāmimāmutsukayanti yanti ca // Bh_2.14
+
+amī nṛpā dattasamagraśāsanāḥ kadācidapyapratibaddhaśāsanāḥ 
+kṛtāgasāṃ mārgabhidāṃ ca śāsanāḥ pitṛkramādhyāsitatādṛśāsanāḥ // Bh_2.15
+
+anantaraikāntarayor evaṃ pādāntayorapi 
+kṛtsnaṃ ca sarvapādeṣu duṣkaraṃ sādhu tādṛśam // Bh_2.16
+
+tulyaśrutīnāṃ bhinnānām abhidheyaiḥ parasparam 
+varṇānāṃ yaḥ punarvādo yamakaṃ tannigadyate // Bh_2.17
+
+pratītaśabdamojasvi suśliṣṭapadasandhi ca 
+prasādi svabhidhānaṃ ca yamakaṃ kṛtināṃ matam // Bh_2.18
+
+nānādhātvarthagambhīrā yamakavyapadeśinī 
+prahelikā sā hyuditā rāmaśarmācyutottare // Bh_2.19
+
+kāvyānyapi yadīmāni vyākhyāgamyāni śāstravat 
+utsavaḥ sudhiyāmeva hanta durmedhaso hatāḥ // Bh_2.20
+
+upamānena yattattvam upameyasya rūpyate 
+guṇānāṃ samatāṃ dṛṣṭvā rūpakaṃ nāma tadviduḥ // Bh_2.21
+
+samastavastuviṣayam ekadeśavivarti ca 
+dvidhā rūpakamuddiṣṭam etattaccocyate yathā // Bh_2.22
+
+śīkarāmbhomadasṛjas tuṅgā jaladadantinaḥ 
+niryānto madayantīme śakrakārmukavāraṇāḥ // Bh_2.23
+
+taḍidvalayakakṣyāṇāṃ balākāmālabhāriṇām 
+payomucāṃ dhvanirdhīro dunoti mama tāṃ priyām // Bh_2.24
+
+ādimadhyāntaviṣayaṃ tridhā dīpakamiṣyate 
+ekasyaiva tryavasthatvād iti tadbhidyate tridhā // Bh_2.25
+
+amūni kurvate 'nvarthām asyākhyāmarthadīpanāt 
+tribhirnidarśanaiścedaṃ tridhā nirdiśyate yathā // Bh_2.26
+
+mado janayati prītiṃ sānaṅgaṃ mānabhaṅguram 
+sa priyāsaṃgamotkaṇṭhāṃ sāsahyāṃ manasaḥ śucam // Bh_2.27
+
+mālinīraṃśukabhṛtaḥ striyo 'laṃkurute madhuḥ 
+hārītaśukavācaśca bhūdharāṇāmupatyakāḥ // Bh_2.28
+
+cīrīmavatīraraṇyānīḥ saritaḥ śuṣyadambhasaḥ 
+pravāsināṃ ca cetāṃsi śucirantaṃ ninīṣati // Bh_2.29
+
+viruddhenopamānena deśakālakriyādibhiḥ 
+upameyasya yatsāmyaṃ guṇaleśena sopamā // Bh_2.30
+
+yathevaśabdau sādṛśyam āhaturvyatirekiṇoḥ 
+dūrvākāṇḍamiva śyāmaṃ tanvī śyāmālatā yathā // Bh_2.31
+
+vinā yathevaśabdābhyāṃ samāsābhihitā parā 
+yathā kamalapatrākṣī śaśāṅkavadaneti ca // Bh_2.32
+
+vatināpi kriyāsāmyaṃ tadvadevābhidhīyate 
+dvijātivadadhīte 'sau guruvaccānuśāsti naḥ // Bh_2.33
+
+samānavastunyāsena prativastūpamocyate 
+yathevānabhidhāne 'pi guṇasāmyapratītitaḥ // Bh_2.34
+
+sādhusādhāraṇatvādir guṇo 'tra vyatiricyate 
+sa sāmyamāpādayati virodhe 'pi tayoryathā // Bh_2.35
+
+kiyantaḥ santi guṇinaḥ sādhusādhāraṇaśriyaḥ 
+svādupākaphalānamrāḥ kiyanto vādhvaśākhinaḥ // Bh_2.36
+
+yaduktaṃ triprakāratvaṃ tasyāḥ kaiścinmahātmabhiḥ 
+nindāpraśaṃsācikhyāsābhedādatrābhidhīyate // Bh_2.37
+
+sāmānyaguṇanirdeśāt trayamapyuditaṃ nanu 
+mālopamādiḥ sarvo 'pi na jyāyān vistaro mudhā // Bh_2.38
+
+hīnatāsambhavo liṅgavacobhedo viparyayaḥ 
+upamānādhikatvaṃ ca tenāsadṛśatāpi ca // Bh_2.39
+
+ta eta upamādoṣāḥ sapta medhāvinoditāḥ 
+sodāharaṇalakṣmāṇo varṇyante 'tra ca te pṛthak // Bh_2.40
+
+sa mārutākampitapītavāsā bibhratsalīlaṃ śaśibhāsamabjam 
+yadupravīraḥ pragṛhītaśārṅgaḥ sendrāyudho megha ivābabhāse // Bh_2.41
+
+śakracāpagrahādatra darśitaṃ kila kārmukam 
+vāsaḥśaṅkhānupādānād dhīnamityabhidhīyate // Bh_2.42
+
+sarvaṃ sarveṇa sārūpyaṃ nāsti bhāvasya kasyacit 
+yathopapatti kṛtibhir upamāsu prayujyate // Bh_2.43
+
+akhaṇḍamaṇḍalaḥ kvenduḥ kva kāntānanamadyuti 
+yatkiṃcitkāntisāmānyāc chaśinaivopamīyate // Bh_2.44
+
+kiṃ ca kāvyāni neyāni lakṣaṇena mahātmanām 
+dṛṣṭaṃ vā sarvasārūpyaṃ rājamitre yathoditam // Bh_2.45
+
+sūryāṃśasaṃmīlitalocaneṣu dīneṣu padmānilanirmadeṣu 
+sādhvyaḥ svageheṣviva bhartṛhīnāḥ kekā vineśuḥ śikhināṃ mukheṣu // Bh_2.46
+
+niṣpeturāsyādiva tasya dīptāḥ śarā dhanurmaṇḍalamadhyabhājaḥ 
+jājvalyamānā iva vāridhārā dinārdhabhājaḥ pariveṣiṇo 'rkāt // Bh_2.47
+ śākavardhanasya 
+kathaṃ pāto 'mbudhārāṇāṃ jvalantīnāṃ vivasvataḥ 
+asambhavādayaṃ yuktyā tenāsambhava ucyate // Bh_2.48
+
+tatrāsambhavinārthena kaḥ kuryādupamāṃ kṛtī 
+ko nāma vahninaupamyaṃ kurvīta śaśalakṣmaṇaḥ // Bh_2.49
+
+yasyātiśayavānarthaḥ kathaṃ so 'sambhavo mataḥ 
+iṣṭaṃ cātiśayārthatvam upamotprekṣayoryathā // Bh_2.50
+
+puñjībhūtamiva dhvāntam eṣa bhāti mataṅgajaḥ 
+saraḥ śaratprasannāmbho nabhaḥkhaṇḍamivojjhitam // Bh_2.51
+
+atha liṅgavacobhedāv ucyete saviparyayau 
+hīnādhikatvāt sa dvedhā trayamapyucyate yathā // Bh_2.52
+
+avigāhyo 'si nārīṇām ananyamanasāmapi 
+viṣamopalabhinnormir āpagevottitīrṣataḥ // Bh_2.53
+
+kvacidagre prasaratā kvacidāpatya nighnatā 
+śuneva sāraṅgakulaṃ tvayā bhinnaṃ dviṣāṃ balam // Bh_2.54
+
+ayaṃ padmāsanāsīnaś cakravāko virājate 
+yugādau bhagavān brahmā vinirmitsuriva prajāḥ // Bh_2.55
+
+nanūpamīyate pāṇiḥ kamalena vikāsinā 
+adharo vidrumacchedabhāsā bimbaphalena ca // Bh_2.56
+
+ucyate kāmamastīdaṃ kiṃ tu strīpuṃsayorayam 
+vidhirnābhimato 'nyaistu trayāṇāmapi neṣyate // Bh_2.57
+
+sa pītavāsāḥ pragṛhītaśārṅgo manojñabhīmaṃ vapurāpa kṛṣṇaḥ 
+śatahradendrāyudhavānniśāyāṃ saṃsṛjyamānaḥ śaśineva meghaḥ // Bh_2.58
+ rāmaśarmaṇaḥ 
+śaśino grahaṇādetad ādhikyaṃ kila na hyayam 
+nirdiṣṭa upameye 'rthe vācyo vā jalajo 'tra tu // Bh_2.59
+
+na sarvasārūpyamiti vistareṇodito vidhiḥ 
+abhiprāyātkavernātra vidheyā jalaje matiḥ // Bh_2.60
+
+ādhikyamupamānānāṃ nyāyyaṃ nādhikatā bhavet 
+gokṣīrakundahalināṃ viśuddhyā sadṛśaṃ yaśaḥ // Bh_2.61
+
+ekenaivopamānena nanu sādṛśyamucyate 
+uktārthasya prayogo hi gurumarthaṃ na puṣyati // Bh_2.62
+
+vane 'tha tasminvanitānuyāyinaḥ pravṛttadānārdrakaṭā mataṅgajāḥ 
+vicitrabarhābharaṇāśca barhiṇo babhurdivīvāmalavigrahā grahāḥ // Bh_2.63
+
+grahairapi gajādīnāṃ yadi sādṛśyamucyate 
+tathāpi teṣāṃ tairasti kāntirvāpyugratāpi vā // Bh_2.64
+
+ityukta upamābhedo vakṣyate cāparaḥ punaḥ 
+upamāderalaṃkārād viśeṣo 'nyo 'bhidhīyate // Bh_2.65
+
+ākṣepo 'rthāntaranyāso vyatireko vibhāvanā 
+samāsātiśayoktī ca ṣaḍalaṃkṛtayo 'parāḥ // Bh_2.66
+
+vakṣyamāṇoktaviṣayas tatrākṣepo dvidhā mataḥ 
+ekarūpatayā śeṣā nirdekṣyante yathākramam // Bh_2.67
+
+pratiṣedha iveṣṭasya yo viśeṣābhidhitsayā 
+ākṣepa iti taṃ santaḥ śaṃsanti dvividhaṃ yathā // Bh_2.68
+
+ahaṃ tvāṃ yadi nekṣeya kṣaṇamapyutsukā tataḥ 
+iyadevāstvato 'nyena kimuktenāpriyeṇa te // Bh_2.69
+
+svavikramākrāntabhuvaś citraṃ yanna tavoddhatiḥ 
+ko vā heturalaṃ sindhor vikārakaraṇaṃ prati // Bh_2.70
+
+upanyasanamanyasya yadarthasyoditādṛte 
+jñeyaḥ so 'rthāntaranyāsaḥ pūrvārthānugato yathā // Bh_2.71
+
+parānīkāni bhīmāni vivikṣorna tava vyathā 
+sādhu vāsādhu vāgāmi puṃsāmātmaiva śaṃsati // Bh_2.72
+
+hiśabdenāpi hetvarthaprathanāduktasiddhaye 
+ayamarthāntaranyāsaḥ sutarāṃ vyajyate yathā // Bh_2.73
+
+vahanti girayo meghān abhyupetān gurūnapi 
+garīyāneva hi gurūn bibharti praṇayāgatān // Bh_2.74
+
+upamānavato 'rthasya yadviśeṣanidarśanam 
+vyatirekaṃ tamicchanti viśeṣāpādanādyathā // Bh_2.75
+
+sitāsite pakṣmavatī netre te tāmrarājinī 
+ekāntaśubhraśyāme tu puṇḍarīkāsitotpale // Bh_2.76
+
+kriyāyāḥ pratiṣedhe yā tatphalasya vibhāvanā 
+jñeyā vibhāvanaivāsau samādhau sulabhe sati // Bh_2.77
+
+apītamattāḥ śikhino diśo 'nutkaṇṭhitākulāḥ 
+nīpo 'viliptasurabhir abhraṣṭakaluṣaṃ jalam // Bh_2.78
+
+yatrokte gamyate 'nyo 'rthas tatsamānaviśeṣaṇaḥ 
+sā samāsoktiruddiṣṭā saṃkṣiptārthatayā yathā // Bh_2.79
+
+skandhavānṛjuravyālaḥ sthiro 'nekamahāphalaḥ 
+jātastarurayaṃ coccaiḥ pātitaśca nabhasvatā // Bh_2.80
+
+nimittato vaco yattu lokātikrāntagocaram 
+manyante 'tiśayoktiṃ tām alaṅkāratayā yathā // Bh_2.81
+
+svapuṣpacchavihāriṇyā candrabhāsā tirohitāḥ 
+anvamīyanta bhṛṅgālivācā saptacchadadrumāḥ // Bh_2.82
+
+apāṃ yadi tvakchithilā cyutā syāt phaṇināmiva 
+tadā śuklāṃśukāni syur aṅgeṣvambhasi yoṣitām // Bh_2.83
+
+ityevamādiruditā guṇātiśayayogataḥ 
+sarvaivātiśayoktistu tarkayettāṃ yathāgamam // Bh_2.84
+
+saiṣa sarvaiva vakroktir anayārtho vibhāvyate 
+yatno 'syāṃ kavinā kāryaḥ ko 'laṅkāro 'nayā vinā // Bh_2.85
+
+hetuśca sūkṣmo leśo 'tha nālaṃkāratayā mataḥ 
+samudāyābhidhānasya vakroktyanabhidhānataḥ // Bh_2.86
+
+gato 'stamarko bhātīndur yānti vāsāya pakṣiṇaḥ 
+ityevamādi kiṃ kāvyaṃ vārtāmenāṃ pracakṣate // Bh_2.87
+
+yathāsaṃkhyamathotprekṣām alaṅkāradvayaṃ viduḥ 
+saṃkhyānamiti medhāvinotprekṣābhihitā kvacit // Bh_2.88
+
+bhūyasāmupadiṣṭānām arthānāmasadharmaṇām 
+kramaśo yo 'nunirdeśo yathāsaṃkhyaṃ taducyate // Bh_2.89
+
+padmendubhṛṅgamātaṅgapuṃskokilakalāpinaḥ 
+vaktrakāntīkṣaṇagativāṇīvālaistvayā jitāḥ // Bh_2.90
+
+avivakṣitasāmānyā kiṃciccopamayā saha 
+atadguṇakriyāyogād utprekṣātiśayānvitā // Bh_2.91
+
+kiṃśukavyapadeśena tarumāruhya sarvataḥ 
+dagdhādagdhamaraṇyānyāḥ paśyatīva vibhāvasuḥ // Bh_2.92
+
+svabhāvoktiralaṅkāra iti kecit pracakṣate 
+arthasya tadavasthatvaṃ svabhāvo 'bhihito yathā // Bh_2.93
+
+ākrośannāhvayannanyān ādhāvanmaṇḍalai rudan 
+gā vārayati daṇḍena ḍimbhaḥ sasyāvatāraṇīḥ // Bh_2.94
+
+samāsenoditamidaṃ dhīkhedāyaiva vistaraḥ 
+asaṃgṛhītamapyanyad abhyūhyamanayā diśā // Bh_2.95
+
+svayaṃ kṛtaireva nidarśanairiyaṃ mayā prakḷptā khalu vāgalaṅkṛtiḥ 
+ataḥ paraṃ cāruranekadhāparo girāmalaṅkāravidhirvidhāsyate // Bh_2.96
+
+iti bhāmahālaṅkāre dvitīyaḥ paricchedaḥ
+
+
+tṛtīyaḥ paricchedaḥ
+
+preyo rasavadūrjasvi paryāyoktaṃ samāhitam 
+dviprakāramudāttaṃ ca bhedaiḥ śliṣṭamapi tribhiḥ // Bh_3.1
+
+apahnutiṃ viśeṣoktaṃ virodhaṃ tulyayogitām 
+aprastutapraśaṃsāṃ ca vyājastutinidarśane // Bh_3.2
+
+upamārūpakaṃ cānyad upameyopamāmapi 
+sahoktiparivṛttī ca sasaṃdehamananvayam // Bh_3.3
+
+utprekṣāvayavaṃ cānye saṃsṛṣṭimapi cāpare 
+bhāvikatvaṃ ca nijagur alaṃkāraṃ sumedhasaḥ // Bh_3.4
+
+preyo gṛhāgataṃ kṛṣṇam avādīdviduro yathā 
+adya yā mama govinda jātā tvayi gṛhāgate 
+kālenaiṣā bhavet prītis tavaivāgamanāt punaḥ // Bh_3.5
+
+rasavaddarśitaspaṣṭaśṛṅgārādirasaṃ yathā 
+devī samāgamaddharma maskariṇyatirohitā // Bh_3.6
+
+ūrjasvi karṇena yathā pārthāya punarāgataḥ 
+dviḥ sandadhāti kiṃ karṇaḥ śalyetyahirapākṛtaḥ // Bh_3.7
+
+paryāyoktaṃ yadanyena prakāreṇābhidhīyate 
+uvāca ratnāharaṇe caidyaṃ śārṅgadhanuryathā // Bh_3.8
+
+gṛheṣvadhvasu vā nānnaṃ bhuñjmahe yadadhītinaḥ 
+na bhuñjate dvijāstacca rasadānanivṛttaye // Bh_3.9
+
+samāhitaṃ rājamitre yathā kṣatriyayoṣitām 
+rāmaprasattyai yāntīnāṃ puro 'dṛśyata nāradaḥ // Bh_3.10
+
+udāttaṃ śaktimān rāmo guruvākyānurodhakaḥ 
+vihāyopanataṃ rājyaṃ yathā vanamupāgatam // Bh_3.11
+
+etadevāpare 'nyena vyākhyānenānyathā viduḥ 
+nānāratnādiyuktaṃ yat tatkilodāttamucyate // Bh_3.12
+
+cāṇakyo naktamupayānn andakrīḍāgṛhaṃ yathā 
+śaśikāntopalacchannaṃ viveda payasāṃ kaṇaiḥ // Bh_3.13
+
+upamānena yattattvam upameyasya sādhyate 
+guṇakriyābhyāṃ nāmnā ca śliṣṭaṃ tadabhidhīyate // Bh_3.14
+
+lakṣaṇaṃ rūpake 'pīdaṃ lakṣyate kāmamatra tu 
+iṣṭaḥ prayogo yugapad upamānopameyayoḥ // Bh_3.15
+
+śīkarāmbhomadasṛjas tuṅgā jaladadantinaḥ 
+ityatra meghakariṇāṃ nirdeśaḥ kriyate samam // Bh_3.16
+
+śleṣādevārthavacasor asya ca kriyate bhidā 
+tatsahoktyupamāhetunirdeśāttrividhaṃ yathā // Bh_3.17
+
+chāyāvanto gatavyālāḥ svārohāḥ phaladāyinaḥ 
+mārgadrumā mahāntaśca pareṣāmeva bhūtaye // Bh_3.18
+
+unnatā lokadayitā mahāntaḥ prājyavarṣiṇaḥ 
+śamayanti kṣitestāpaṃ surājāno ghanā iva // Bh_3.19
+
+ratnavattvādagādhatvāt svamaryādāvilaṅghanāt 
+bahusattvāśrayatvācca sadṛśastvamudanvatā // Bh_3.20
+
+apahnutirabhīṣṭā ca kiṃcidantargatopamā 
+bhūtārthāpahnavādasyāḥ kriyate cābhidhā yathā // Bh_3.21
+
+neyaṃ virauti bhṛṅgālī madena mukharā muhuḥ 
+ayamākṛṣyamāṇasya kandarpadhanuṣo dhvaniḥ // Bh_3.22
+
+ekadeśasya vigame yā guṇāntarasaṃsthitiḥ 
+viśeṣaprathanāyāsau viśeṣoktirmatā yathā // Bh_3.23
+
+sa ekastrīṇi jayati jaganti kusumāyudhaḥ 
+haratāpi tanuṃ yasya śambhunā na hṛtaṃ balam // Bh_3.24
+
+guṇasya vā kriyāyā vā viruddhānyakriyābhidhā 
+yā viśeṣābhidhānāya virodhaṃ taṃ vidurbudhāḥ // Bh_3.25
+
+upāntarūḍhopavanacchāyāśītāpi dhūrasau 
+vidūradeśānapi vaḥ santāpayati vidviṣaḥ // Bh_3.26
+
+nyūnasyāpi viśiṣṭena guṇasāmyavivakṣayā 
+tulyakāryakriyāyogād ityuktā tulyayogitā // Bh_3.27
+
+śeṣo himagiristvaṃ ca mahānto guravaḥ sthirāḥ 
+yadalaṅghitamaryādāś calantīṃ bibhṛtha kṣitim // Bh_3.28
+
+adhikārādapetasya vastuno 'nyasya yā stutiḥ 
+aprastutapraśaṃseti sā caivaṃ kathyate yathā // Bh_3.29
+
+prīṇitapraṇayi svādu kāle pariṇataṃ bahu 
+vinā puruṣakāreṇa phalaṃ paśyata śākhinām // Bh_3.30
+
+dūrādhikaguṇastotravyapadeśena tulyatām 
+kiṃcidvidhitsoryā nindā vyājastutirasau yathā // Bh_3.31
+
+rāmaḥ saptābhinat sālān giriṃ krauñcaṃ bhṛgūttamaḥ 
+śatāṃśenāpi bhavatā kiṃ tayoḥ sadṛśaṃ kṛtam // Bh_3.32
+
+kriyayaiva viśiṣṭasya tadarthasyopadarśanāt 
+jñeyā nidarśanā nāma yathevavatibhirvinā // Bh_3.33
+
+ayaṃ mandadyutirbhāsvān astaṃ prati yiyāsati 
+udayaḥ patanāyeti śrīmato bodhayannarān // Bh_3.34
+
+upamānena tadbhāvam upameyasya sādhayan 
+yāṃ vadatyupamāmetad upamārūpakaṃ yathā // Bh_3.35
+
+samagragaganāyāmamānadaṇḍo rathāṅginaḥ 
+pādo jayati siddhastrīmukhendunavadarpaṇaḥ // Bh_3.36
+
+upamānopameyatvaṃ yatra paryāyato bhavet 
+upameyopamāṃ nāma bruvate tāṃ yathoditam // Bh_3.37
+
+sugandhi nayanānandi madirāmadapāṭalam 
+ambhojamiva vaktraṃ te tvadāsyamiva paṅkajam // Bh_3.38
+
+tulyakāle kriye yatra vastudvayasamāśraye 
+padenaikena kathyate sahoktiḥ sā matā yathā // Bh_3.39
+
+himapātāviladiśo gāḍhāliṅganahetavaḥ 
+vṛddhimāyānti yāminyaḥ kāmināṃ prītibhiḥ saha // Bh_3.40
+
+viśiṣṭasya yadādānam anyāpohena vastunaḥ 
+arthāntaranyāsavatī parivṛttirasau yathā // Bh_3.41
+
+pradāya vittamarthibhyaḥ sa yaśodhanamāadita 
+satāṃ viśvajanīnānām idamaskhalitaṃ vratam // Bh_3.42
+
+upamānena tattvaṃ ca bhedaṃ ca vadataḥ punaḥ 
+sasandehaṃ vacaḥ stutyai sasandehaṃ viduryathā // Bh_3.43
+
+kimayaṃ śaśī na sa divā virājate kusumāyudho na dhanurasya kausumam 
+iti vismayādvimṛśato 'pi me matis tvayi vīkṣate na labhate 'rthaniścayam // Bh_3.44
+
+yatra tenaiva tasya syād upamānopameyatā 
+asādṛśyavivakṣātas tamityāhurananvayam // Bh_3.45
+
+tāmbūlarāgavalayaṃ sphuraddaśanadīdhiti 
+indīvarābhanayanaṃ taveva vadanaṃ tava // Bh_3.46
+
+śliṣṭasyārthena saṃyuktaḥ kiṃcidutprekṣayānvitaḥ 
+rūpakārthena ca punar utprekṣāvayavo yathā // Bh_3.47
+
+tulyodayāvasānatvād gate 'staṃ prati bhāsvati 
+vāsāya vāsaraḥ klānto viśatīva tamogṛham // Bh_3.48
+
+varā vibhūṣā saṃsṛṣṭir bahvalaṅkārayogataḥ 
+racitā ratnamāleva sā caivamuditā yathā // Bh_3.49
+
+gāmbhīryalāvaṇyavator yuvayoḥ prājyaratnayoḥ 
+sukhasevyo janānāṃ tvaṃ duṣṭagrāho 'mbhasāṃ patiḥ // Bh_3.50
+
+analaṅkṛtakāntaṃ te vadanaṃ vanajadyuti 
+niśākṛtaḥ prakṛtyaiva cāroḥ kā vāstyalaṅkṛtiḥ // Bh_3.51
+
+anyeṣāmapi kartavyā saṃsṛṣṭiranayā diśā 
+kiyadudghaṭṭitajñebhyaḥ śakyaṃ kathayituṃ mayā // Bh_3.52
+
+bhāvikatvamiti prāhuḥ prabandhaviṣayaṃ guṇam 
+pratyakṣā iva dṛśyante yatrārthā bhūtabhāvinaḥ // Bh_3.53
+
+citrodāttādbhutārthatvaṃ kathāyāḥ svabhinītatā 
+śabdānākulatā ceti tasya hetūn pracakṣate // Bh_3.54
+
+āśīrapi ca keṣāṃcid alaṅkāratayā matā 
+sauhṛdayyāvirodhoktau prayogo 'syāśca tadyathā // Bh_3.55
+
+asmiñ jahīhi suhṛdi praṇayābhyasūyām āśliṣya gāḍhamamumānatamādareṇa 
+vindhyaṃ mahāniva ghanaḥ samaye 'bhivarṣann ānandajairnayanavāribhirukṣatu tvām // Bh_3.56
+
+madāndhamātaṅgavibhinnasālā hatapravīrā drutabhītapaurāḥ 
+tvattejasā dagdhasamastaśobhā dviṣāṃ puraḥ paśyatu rājalokaḥ // Bh_3.57
+
+girāmalaṅkāravidhiḥ savistaraḥ svayaṃ viniścitya dhiyā mayoditaḥ 
+anena vāgarthavidāmalaṅkṛtā vibhāti nārīva vidagdhamaṇḍanā // Bh_3.58
+
+iti bhāmahālaṅkāre tṛtīyaḥ paricchedaḥ
+
+
+caturthaḥ paricchedaḥ
+
+apārthaṃ vyarthamekārthaṃ sasaṃśayamapakramam 
+śabdahīnaṃ yatibhraṣṭaṃ bhinnavṛttaṃ visandhi ca // Bh_4.1
+
+deśakālakalālokanyāyāgamavirodhi ca 
+pratijñāhetudṛṣṭāntahīnaṃ duṣṭaṃ ca neṣyate // Bh_4.2
+
+apārthamityapetārthaṃ sa cārthaḥ padavākyayoḥ 
+arthavān varṇasaṃghātaḥ suptiṅantaṃ padaṃ punaḥ // Bh_4.3
+
+padānāmeva saṃghātaḥ sāpekṣāṇāṃ parasparam 
+nirākāṅkṣaṃ ca tadvākyam ekavastunibandhanam // Bh_4.4
+
+kramavṛttiṣu varṇeṣu saṃghātādi na yujyate 
+buddhau tu sambhavatyetad anyatve 'pi pratikṣaṇam // Bh_4.5
+
+dhīrantyaśabdaviṣayā vṛttavarṇāhitasmṛtiḥ 
+vākyamityāhurapare na śabdāḥ kṣaṇanaśvarāḥ // Bh_4.6
+
+atrāpi bahu vaktavyaṃ jāyate tattu noditam 
+gurubhiḥ kiṃ vivādena yathāprakṛtamucyate // Bh_4.7
+
+samudāyārthaśūnyaṃ yat tadapārthakamiṣyate 
+dāḍimāni daśāpūpāḥ ṣaḍityādi yathoditam // Bh_4.8
+
+viruddhārthaṃ mataṃ vyarthaṃ viruddhaṃ tūpadiśyate 
+pūrvāparārthavyāghātāt viparyayakaraṃ yathā // Bh_4.9
+
+sakhi mānaṃ priye dhehi laghutāmasya mā gamaḥ 
+bhartuśchandānuvarttinyaḥ prema ghnanti na hi striyaḥ // Bh_4.10
+
+upāsitagurutvāttvaṃ vijitendrayaśatruṣu 
+śreyaso vinayādhānam adhunātiṣṭha kevalam // Bh_4.11
+
+yadabhinnārthamanyonyaṃ tadekārthaṃ pracakṣate 
+punaruktamidaṃ prāhur anye śabdārthabhedataḥ // Bh_4.12
+
+na śabdapunaruktaṃ tu sthaulyādatropavarṇyate 
+kathamākṣiptacittaḥ sann uktamevābhidhāsyate // Bh_4.13
+
+bhayaśokābhyasūyāsu harṣavismayayorapi 
+yathāha gaccha gaccheti punaruktaṃ na tadviduḥ // Bh_4.14
+
+atrārthapunaruktaṃ yat tadevaikārthamiṣyate 
+uktasya punarākhyāne kāryāsambhavato yathā // Bh_4.15
+
+tāmutkamanasaṃ nūnaṃ karoti dhvanirambhasām 
+saudheṣu ghanamuktānāṃ praṇālīmukhapātinām // Bh_4.16
+
+śruteḥ sāmānyadharmāṇāṃ viśeṣasyānudāhṛteḥ 
+apratiṣṭhaṃ yadatreti tajjñānaṃ saṃśayaṃ viduḥ // Bh_4.17
+
+sasaṃśayamiti prāhus tatastajjananaṃ vacaḥ 
+iṣṭaṃ niścitaye vākyaṃ na dolāyeta tadyathā // Bh_4.18
+
+vyālavanto durārohā ratnavantaḥ phalānvitāḥ 
+viṣamā bhūbhṛtastebhyo bhayamāśu pramādinām // Bh_4.19
+
+yathopadeśaṃ kramaśo nirdeśo 'tra kramo mataḥ 
+tadapetaṃ viparyāsād ityākhyātamapakramam // Bh_4.20
+
+vidadhānau kirīṭendū śyāmābhrahimasacchavī 
+rathāṅgaśūle bibhrāṇau pātāṃ vaḥ śambhuśārṅgiṇau // Bh_4.21
+
+sūtrakṛtpādakāreṣṭaprayogādyo 'nyathā bhavet 
+tamāptaśrāvakāsiddheḥ śabdahīnaṃ viduryathā // Bh_4.22
+
+sphurattaḍidvalayino vitatāmbhogarīyasaḥ 
+tejastirayataḥ sauraṃ ghanān paśya divo 'bhitaḥ // Bh_4.23
+
+yatiśchando 'dhirūḍhānāṃ śabdānāṃ yā vicāraṇā 
+tadapetaṃ yatibhraṣṭam iti nirdiśyate yathā // Bh_4.24
+
+vidyutvantastamālāsitavapuṣa ime vārivāhā dhvananti // Bh_4.25*
+
+gurorlaghośca varṇasya yo 'sthāne racanāvidhiḥ 
+tannyūnādhikatā vāpi bhinnavṛttamidaṃ yathā // Bh_4.25
+
+bhramati bhramaramālā kānaneṣūnmadāsau /
+virahitaramaṇīko 'rhasyadya gantum // Bh_4.26
+
+kānte induśiroratne ādadhāne udaṃśunī 
+pātāṃ vaḥ śambhuśarvāṇyāv iti prāhurvisandhyadaḥ // Bh_4.27
+
+yā deśe dravyasambhūtir api vā nopadiśyate 
+tattadvirodhi vijñeyaṃ svabhāvāttadyathocyate // Bh_4.28
+
+malaye kandaropāntarūḍhakālāgurudrume 
+sugandhikusumānamrā rājante devadāravaḥ // Bh_4.29
+
+ṣaṇṇāmṛtūnāṃ bhedena kālaḥ ṣoḍheva bhidyate 
+tadvirodhakṛdityāhur viparyāsādidaṃ yathā // Bh_4.30
+
+udūḍhaśiśirāsārān prāvṛṣeṇyān nabhasvataḥ 
+phullāḥ surabhayantīme cūtāḥ kānanaśobhinaḥ // Bh_4.31
+
+kalā saṅkalanā prajñā śilpānyasyāśca gocaraḥ 
+viparyastaṃ tathaivāhus tadvirodhakaraṃ yathā // Bh_4.32
+
+ṛṣabhātpañcamastasmāt saṣaḍjaṃ dhaivataṃ smṛtam 
+ayaṃ hi madhyamagrāmo madhyame pīḍitarṣabhaḥ // Bh_4.33
+
+iti sādhāritaṃ mohād anyathaivāvagacchati 
+anyasvapi kalāsvevam abhidheyā virodhitā // Bh_4.34
+
+sthāsnujaṅgamabhedena lokaṃ tattvavido viduḥ 
+sa ca tadvyavahāro 'tra tadvirodhakaraṃ yathā // Bh_4.35
+
+teṣāṃ kaṭataṭabhraṣṭair gajānāṃ madabindubhiḥ 
+prāvartata nadī ghorā hastyaśvarathavāhinī // Bh_4.36
+
+dhāvatāṃ sainyavāhānāṃ phenavāri mukhāccyutam 
+cakāra jānudadhnāpān pratidiṅmukhamadhvanaḥ // Bh_4.37
+
+nyāyaḥ śāstraṃ trivargoktir daṇḍanītiṃ ca tāṃ viduḥ 
+ato nyāyavirodhīṣṭam apetaṃ yattayā yathā // Bh_4.38
+
+vijigīṣumupanyasya vatseśaṃ vṛddhadarśanam 
+tasyaiva kṛtinaḥ paścād abhyadhāccāraśūnyatām // Bh_4.39
+
+antaryodhaśatākīrṇaṃ sālaṅkāyananetṛkam 
+tathāvidhaṃ gajacchadma nājñāsītsa svabhūgatam // Bh_4.40
+
+yadi vopekṣitaṃ tasya sacivaiḥ svārthasiddhaye 
+aho nu mandimā teṣāṃ bhaktirvā nāsti bhartari // Bh_4.41
+
+śarā dṛḍhadhanurmuktā manyumadbhirarātibhiḥ 
+marmāṇi parihṛtyāsya patiṣyantīti kānumā // Bh_4.42
+
+hato 'nena mama bhrātā mama putraḥ pitā mama 
+mātulo bhāgineyaśca ruṣā saṃrabdhacetasaḥ // Bh_4.43
+
+asyanto vividhānyājāv āyudhānyaparādhinam 
+ekākinamaraṇyānyāṃ na hanyurbahavaḥ katham // Bh_4.44
+
+namo 'stu tebhyo vidvadbhyo ye 'bhiprāyaṃ kaverimam 
+śāstralokāvapāsyaivaṃ nayanti nayavedinaḥ // Bh_4.45
+
+sacetaso vanebhasya carmaṇā nirmitasya ca 
+viśeṣaṃ veda bālo 'pi kaṣṭaṃ kiṃ nu kathaṃ nu tat // Bh_4.46
+
+āgamo dharmaśāstrāṇi lokasīmā ca tatkṛtā 
+tadvirodhi tadācāravyatikramaṇato yathā // Bh_4.47
+
+bhūbhṛtāṃ pītasomānāṃ nyāyye vartmani tiṣṭhatām 
+alaṃkariṣṇunā vaṃśaṃ gurau sati jigīṣuṇā // Bh_4.48
+
+abhāryoḍhena saṃskāram antareṇa dvijanmanā 
+naravāhanadattena veśyāvān niśi pīḍitaḥ // Bh_4.49
+
+na dūṣaṇāyāmudāhṛto vidhir na cābhimānena kimu pratītaye 
+kṛtātmanāṃ tattvadṛśāṃ ca mādṛśo jano 'bhisandhiṃ ka ivāvabhotsyate // Bh_4.50
+
+iti bhāmahālaṅkāre caturthaḥ paricchedaḥ
+
+
+pañcamaḥ paricchedaḥ
+
+atha pratijñāhetvādihīnaṃ duṣṭaṃ ca varṇyate 
+samāsena yathānyāyaṃ tanmātrārthapratītaye // Bh_5.1
+
+prāyeṇa durbodhatayā śāstrād bibhatyamedhasaḥ 
+tadupacchandanāyaiṣa hetunyāyalavoccayaḥ // Bh_5.2
+
+svādukāvyarasonmiśraṃ śāstramapyupayuñjate 
+prathamālīḍhamadhavaḥ pibanti kaṭu bheṣajam // Bh_5.3
+
+na sa śabdo na tadvācyaṃ na sa nyāyo na sā kalā 
+jāyate yanna kāvyāṅgam aho bhāro mahān kaveḥ // Bh_5.4
+
+sattvādayaḥ pramāṇābhyāṃ pratyakṣamanumā ca te 
+asādhāraṇasāmānyaviṣayatvaṃ tayoḥ kila // Bh_5.5
+
+pratyakṣaṃ kalpanāpoḍhaṃ tato 'rthāditi kecana 
+kalpanāṃ nāmajātyādiyojanāṃ pratijānate // Bh_5.6
+
+samāropaḥ kilaitāvān sadarthālambanaṃ ca tat 
+jātyādyapohe vṛttiḥ kva kva viśeṣaḥ kutaśca saḥ // Bh_5.7
+
+tadapoheṣu ca tathā siddhā sā buddhigocarā 
+avastukaṃ cedvitathaṃ pratyakṣaṃ tattvavṛtti hi // Bh_5.8
+
+grāhyagrāhakabhedena vijñānāṃśo mato yadi 
+vijñānamātrasādṛśyād viśeṣo 'sya vikalpanā // Bh_5.9
+
+arthādeveti rūpādes tata eveti nānyataḥ 
+anyathā ghaṭavijñānam anyena vyapadiśyate // Bh_5.10
+
+trirūpālliṅgato jñānam anumānaṃ ca kecana 
+tadvido nāntarīyārthadarśanaṃ cāpare viduḥ // Bh_5.11
+
+vivādāspadadharmeṇa dharmī kṛtaviśeṣaṇaḥ 
+pakṣastasya ca nirdeśaḥ pratijñetyabhidhīyate // Bh_5.12
+
+tadarthahetusiddhāntasarvāgamavirodhinī 
+prasiddhadharmā pratyakṣabādhinī ceti duṣyati // Bh_5.13
+
+tayaiva hi tadarthasya virodhakaraṇaṃ yathā 
+yatirmama pitā bālyāt sūnuryasyāhamaurasaḥ // Bh_5.14
+
+astyātmā prakṛtirveti jñeyā hetvapavādinī 
+dharmiṇo 'syāprasiddhatvāt taddharmo 'pi na setsyati // Bh_5.15
+
+śāśvato 'śāśvato veti prasiddhe dharmiṇi dhvanau 
+jāyate bhedaviṣayo vivādo vādinormithaḥ // Bh_5.16
+
+svasiddhāntavirodhitvād vijñeyā tadvirodhinī 
+kaṇabhakṣo yathā śabdam ācakṣītāvinaśvaram // Bh_5.17
+
+sarvaśāstraviruddhatvāt sarvāgamavirodhinī 
+yathā śucistanustrīṇi pramāṇāni na santi vā // Bh_5.18
+
+ākumāramasandigdhadharmāhitaviśeṣaṇā 
+prasiddhadharmeti matā śrotragrāhyo dhvaniryathā // Bh_5.19
+
+pratyakṣabādhinī tena pramāṇenaiva bādhyate 
+yathā śīto 'nalo nāsti rūpamuṣṇaḥ kṣapākaraḥ // Bh_5.20
+
+san dvayoḥ sadṛśe siddho vyāvṛttastadvipakṣataḥ 
+hetustrilakṣaṇo jñeyo hetvābhāso viparyayāt // Bh_5.21
+
+san dvayoriti yaḥ siddhaḥ svapakṣaparapakṣayoḥ 
+abhinnalakṣaṇaḥ pakṣaḥ phalabhedādayaṃ dvidhā // Bh_5.22
+
+parapakṣānupādāne tadvṛtteścānudāhṛtau 
+kathamanyatarāsiddhahetvābhāsavyavasthitiḥ // Bh_5.23
+
+sādhyadharmānugamataḥ sadṛśastatra yaśca san 
+anyo 'pyasāveka iva sāmānyādupacaryate // Bh_5.24
+
+vipakṣastadvisadṛśo vyāvṛttastatra yo hyasan 
+iti dvayaikānugativyāvṛttī lakṣmasādhutā // Bh_5.25
+
+sādhyasādhanadharmābhyāṃ siddho dṛṣṭānta ucyate 
+tadviparyayato vāpi tadābhastadavṛttitaḥ // Bh_5.26
+
+sādhyena liṅgānugatis tadabhāve ca nāstitā 
+khyāpyate yena dṛṣṭāntaḥ sa kilānyairdvidhocyate // Bh_5.27
+
+dūṣaṇaṃ nyūnatādyuktir nyūnaṃ hetvādinātha vā 
+tanmūlatvātkathāyāśca nyūnaṃ neṣṭaṃ pratijñayā // Bh_5.28
+
+jātayo dūṣaṇābhāsās tāḥ sādharmyasamādayaḥ 
+tāsāṃ prapañco bahudhā bhūyastvādiha noditaḥ // Bh_5.29
+
+aparaṃ vakṣyate nyāyalakṣaṇaṃ kāvyasaṃśrayam 
+idaṃ tu śāstragarbheṣu kāvyeṣvabhihitaṃ yathā // Bh_5.30
+
+atha nityāvinābhāvi dṛṣṭaṃ jagati kāraṇam 
+kāraṇaṃ cenna tannityaṃ nityaṃ cetkāraṇaṃ na tat // Bh_5.31
+
+lakṣma prayogadoṣāṇāṃ bhedenānena vartmanā 
+sandhādisādhanāsiddhyai śāstreṣūditamanyathā // Bh_5.32
+
+tajjñaiḥ kāvyaprayogeṣu tatprāduṣkṛtamanyathā 
+tatra lokāśrayaṃ kāvyam āgamāstattvadarśinaḥ // Bh_5.33
+
+asisaṃkāśamākāśaṃ śabdo dūrānupātyayam 
+sadaiva vāri sindhūnām aho sthemā mahārciṣaḥ // Bh_5.34
+
+rūpādīnāṃ yathā dravyam āśrayo naśyatīti ca 
+iṣṭakāryābhyupagamaṃ pratijñāṃ pratijānate // Bh_5.35
+
+dharmārthakāmakopānāṃ saṃśrayāt sā caturvidhā 
+jarāmeṣa bibharmīti pratijñāya pituryathā 
+tathaiva puruṇābhāri sā syāddharmanibandhanī // Bh_5.36
+
+upalapsye svayaṃ sītām iti bhartṛnideśataḥ 
+hanumatā pratijñāya sā jñātetyarthasaṃśrayā // Bh_5.37
+
+āhariṣyāmyamūmadya mahāsenātmajāmiti 
+kṛtvā pratijñāṃ vatsena hṛteti madanāśrayā // Bh_5.38
+
+bhrāturbhrātṛvyamunmathya pāsyāmyasyāsṛgāhave 
+pratijñāya yathā bhīmas taccakārāvaśo ruṣā // Bh_5.39
+
+kāryo 'nyatra pratijñāyāḥ prayogo na kathaṃ cana 
+parityāgaśca kartavyo nāsāṃ catasṛṇāmapi // Bh_5.40
+
+prāyopaveśāya yathā pratijñāya suyodhanaḥ 
+rājyāya punaruttasthāv iti dharmavirodhinī // Bh_5.41
+
+āhūto na nivarte 'haṃ dyūtāyeti yudhiṣṭhiraḥ 
+kṛtvā sandhāṃ śakuninā didevetyarthabādhinī // Bh_5.42
+
+adyārabhya nivatsyāmi munivadvacanāditi 
+pituḥ priyāya yāṃ bhīṣmaś cakre sā kāmabādhinī // Bh_5.43
+
+atyājayadyathā rāmaḥ sarvakṣatravadhāśrayām 
+jāmadagnyaṃ yudhā jitvā sā jñeyā kopabādhinī // Bh_5.44
+
+athābhyupagamaprāptiḥ sandhābhyupagamādvinā 
+anuktamapi yatrārthād abhyupaiti yathocyate // Bh_5.45
+
+kimindriyadviṣā jñeyaṃ ko nirākriyate 'ribhiḥ 
+ko vā gatvaramarthibhyo na yacchati dhanaṃ laghu // Bh_5.46
+
+kimityayaṃ tu yaḥ kṣepaḥ saukaryaṃ darśayatyasau 
+hetustrilakṣmaiva mataḥ kāvyeṣvapi sumedhasām // Bh_5.47
+
+anvayavyatirekau hi kevalāvarthasiddhaye 
+yathābhito vanābhogam etadasti mahat saraḥ 
+kūjanātkurarīṇāṃ ca kamalānāṃ ca saurabhāt // Bh_5.48
+
+anyadharmo 'pi tatsiddhiṃ sambandhena karotyayam 
+dhūmādabhraṃkaṣātsāgneḥ pradeśasyānumāmiva // Bh_5.49
+
+apṛthakkṛtasādhyo 'pi hetuścātra pratīyate 
+anvayavyatirekābhyāṃ vinaivārthagatiryathā // Bh_5.50
+
+dīpradīpā niśā jajñe vyapavṛttadivākarā 
+hetuḥ pradīpradīpatvam apavṛttau raveriha // Bh_5.51
+
+tasyāpi sudhiyāmiṣṭā doṣāḥ prāguditāstrayaḥ 
+ajñānasaṃśayajñānaviparyayakṛto yathā // Bh_5.52
+
+kāśā haranti hṛdayam amī kusumasaurabhāt 
+apāmabhyarṇavartitvād ete jñeyāḥ śarārayaḥ // Bh_5.53
+
+asau śuklāntanetratvāc cakora iti gṛhyatām 
+tulyajātāvadṛṣṭatvāt sādhayatacakoratām // Bh_5.54
+
+uktasyārthasya dṛṣṭāntaḥ pratibimbanidarśanam 
+nanūpamānumaivāstu na hetvanabhidhānataḥ // Bh_5.55
+
+sādhyasādhanayoruktir uktādanyatra neṣyate 
+mukhaṃ padmamivetyatra kiṃ sādhyaṃ kiṃ ca sādhanam // Bh_5.56
+
+iti prayogasya yathā kalāvapi bhavāniha 
+śreyān vṛddhānuśiṣṭatvāt pūrve kṛtayuge yathā // Bh_5.57
+
+yatra dṛṣṭāntamātreṇa vyajyete sādhyasādhane 
+tamāhuḥ śuddhadṛṣṭāntaṃ tanmātrāviṣkṛteryathā // Bh_5.58
+
+bharatastvaṃ dilīpastvaṃ tvamevailaḥ purūravāḥ 
+tvameva vīra pradyumnas tvameva naravāhanaḥ // Bh_5.59
+
+kathamekapadenaiva vyajerannasya te guṇāḥ 
+iti prayuñjate santaḥ kecidvistarabhīravaḥ // Bh_5.60
+
+padamekaṃ varaṃ sādhu nārvācīnanibandhanam 
+vaiparītyādviparyāsaṃ kīrterapi karoti tat // Bh_5.61
+
+ahṛdyamasunirbhedaṃ rasavattve 'pyapeśalam 
+kāvyaṃ kapitthamāmaṃ yat keṣāṃcittādṛśaṃ yathā // Bh_5.62
+
+prajājanaśreṣṭhavariṣṭhabhūbhṛcchirorcitāṃghreḥ pṛthukīrtidhiṣṇya 
+ahighnapadmasya jalāridhāmnas tavaiva nānyasya sutasya vṛttam // Bh_5.63
+
+aṃśumadbhiśca maṇibhiḥ phalanimnaiśca śākhibhiḥ 
+phullaiśca kusumairanye vāco 'laṃkurvate yathā // Bh_5.64
+
+śubhamarakatapadmarāgacitre saphalasapallavabhūricāruvṛkṣe 
+bahukusumavibhūṣite sa tasthau suramunisiddhayute sumerupṛṣṭhe // Bh_5.65
+
+tadebhiraṅgairbhūṣyante bhūṣaṇopavanasrajaḥ 
+vācāṃ vakrārthaśabdoktir alaṃkārāya kalpate // Bh_5.66
+
+viruddhapadamasvarthaṃ bahupūraṇamākulam 
+kurvanti kāvyamapare vyāyatābhīpsayā yathā // Bh_5.67
+
+elātakkolanāgasphuṭabakulalatācandanaspandanāḍhyo muktākarpūracakrāgarukamanaśilāsthāsakavyāptatīraḥ 
+śaṅkhavrātākulo 'ntastimimakarakulākīrṇavīcīpratāno dadhre yasyāmburāśiḥ śaśikumudasudhākṣīraśuddhāṃ sukīrtim // Bh_5.68
+
+iti nigaditāstāstā vācāmalaṅkṛtayo mayā bahuvidhakṛtīrdṛṣṭvānyeṣāṃ svayaṃ paritarkya ca 
+prathitavacasaḥ santo 'bhijñāḥ pramāṇamihāpare gurutaradhiyāmasvārādhaṃ mano 'kṛtabuddhibhiḥ // Bh_5.69
+
+iti bhāmahālaṃkāre pañcamaḥ paricchedaḥ
+
+
+ṣaṣṭhaḥ paricchedaḥ
+
+sūtrāmbhasaṃ padāvartaṃ pārāyaṇarasātalam 
+dhātūṇādigaṇagrāhaṃ dhyānagrahabṛhatplavam // Bh_6.1
+
+dhīrairālokitaprāntam amedhobhirasūyitam 
+sadopabhuktaṃ sarvābhir anyavidyākareṇubhiḥ // Bh_6.2
+
+nāpārayitvā durgādham amuṃ vyākaraṇārṇavam 
+śabdaratnaṃ svayaṃgamyam alaṃ kartumayaṃ janam // Bh_6.3
+
+tasya cādhigame yatnaḥ kāryaṃ kāvyaṃ vidhitsatā 
+parapratyayato yattu kriyate tena kā ratiḥ // Bh_6.4
+
+nānyapratyayaśabdā vāg āvibhāti mude satām 
+pareṇa ghṛtamukteva sarasā kusumāvalī // Bh_6.5
+
+mukhyastāvadayaṃ nyāyo yat svaśaktyā pravartate 
+anyasārasvatā nāma santyanyoktānuvādinaḥ // Bh_6.6
+
+pratītirartheṣu yatas taṃ śabdaṃ bruvate 'pare 
+dhūmabhāsorapi prāptā śabdatāgnyanumāṃ prati // Bh_6.7
+
+nanvakārādivarṇānāṃ samudāyo 'bhidheyavān 
+arthapratītaye gītaḥ śabda ityabhidhīyate // Bh_6.8
+
+pratyekamasamarthānāṃ samudāyo 'rthavān katham 
+varṇānāṃ kramavṛttitvān nyāyā nāpi ca saṃhatiḥ // Bh_6.9
+
+na cāpi samudāyibhyaḥ samudāyo 'tiricyate 
+dārubhittibhuvo 'tītya kimanyatsadma kalpyate // Bh_6.10
+
+tasmātkūṭastha ityeṣā śābdī vaḥ kalpanā vṛthā 
+pratyakṣamanumānaṃ vā yatra tatparamārthataḥ // Bh_6.11
+
+śapathairapi cādeyaṃ vaco na sphoṭavādinām 
+namaḥkusumamastīti śraddadhyāt kaḥ sacetanaḥ // Bh_6.12
+
+ityanta īdṛśā varṇā īdṛgarthābhidhāyinaḥ 
+vyavahārāya lokasya prāgitthaṃ samayaḥ kṛtaḥ // Bh_6.13
+
+sa kūṭastho 'napāyī ca nādādanyaśca kathyate 
+mandāḥ sāṅketikānarthān manyante pāramārthikān // Bh_6.14
+
+vinaśvaro 'stu nityo vā sambandho 'rthena vā satā 
+namo 'stu tebhyo vidvadbhyaḥ pramāṇaṃ ye 'sya niścitau // Bh_6.15
+
+anyāpohena śabdo 'rtham āhetyanye pracakṣate 
+anyāpohaśca nāmānyapadārthāpākṛtiḥ kila // Bh_6.16
+
+yadi gaurityayaṃ śabdaḥ kṛtārtho 'nyanirākṛtau 
+janako gavi gobuddher mṛgyatāmaparo dhvaniḥ // Bh_6.17
+
+arthajñānaphalāḥ śabdā na caikasya phaladvayam 
+apavādavidhijñāne phale caikasya vaḥ katham // Bh_6.18
+
+purā gauriti vijñānaṃ gośabdaśravaṇādbhavet 
+yenāgopratiṣedhāya pravṛtto gauriti dhvaniḥ // Bh_6.19
+
+varṇabhedādidaṃ bhinnaṃ varṇāḥ svāṃśavikalpataḥ 
+ke śabdāḥ kiṃ ca tadvācyam ityaho vartma dustaram // Bh_6.20
+
+dravyakriyājātiguṇabhedāt te ca caturvidhāḥ 
+yadṛcchāśabdamapyanye ḍitthādiṃ pratijānate // Bh_6.21
+
+nānābhāṣāviṣayiṇām aparyantārthavartinām 
+iyattā kena vāmīṣāṃ viśeṣādavadhāryate // Bh_6.22
+
+vakravācāṃ kavīnāṃ ye prayogaṃ prati sādhavaḥ 
+prayoktuṃ ye na yuktāśca tadviveko 'yamucyate // Bh_6.23
+
+nāprayuktaṃ prayuñjīta cetaḥsammohakāriṇam 
+tulyārthatve 'pi hi brūyāt ko hantiṃ gativācinam // Bh_6.24
+
+śrautrādiṃ na tu durbodhaṃ na duṣṭādimapeśalam 
+grāmyaṃ na piṇḍīśūrādiṃ na ḍitthādimapārthakam // Bh_6.25
+
+nāpratītānyathārthatvaṃ dhātvanekārthatāvaśāt 
+na leśajñāpakākṛṣṭaṃ sa hanti dhyāti vā yathā // Bh_6.26
+
+na śiṣṭairuktamityeva na tantrāntarasādhitam 
+chandovaditi cotsargān na cāpi cchāndasaṃ vadet // Bh_6.27
+
+kramāgataṃ śrutisukhaṃ śabdamarthyamudīrayet 
+atiśete hyalaṃkāram anyaṃ vyañjanacārutā // Bh_6.28
+
+siddho yaścopasaṃkhyānād iṣṭyā yaścopapāditaḥ 
+tamādriyeta prāyeṇa na tu yogavibhāgajam // Bh_6.29
+
+iyaṃ candramukhī kanyā prakṛtyaiva manoharā 
+asyāṃ suvarṇālaṃkāraḥ puṣṇāti nitarāṃ śriyam // Bh_6.30
+
+vṛddhipakṣaṃ prayuñjīta saṃkrame 'pi mṛjeryathā 
+mārjantyadhararāgaṃ te patanto bāṣpabindavaḥ // Bh_6.31
+
+sarūpaśeṣaṃ tu pumān striyā yatra ca śiṣyate 
+yathāha varuṇāvindrau bhavau śarvau mṛḍāviti // Bh_6.32
+
+yathā paṭayatītyādi ṇicprātipadikāttataḥ 
+ṇāviṣṭhavaditīṣṭyā ca tathā kraśayatītyapi // Bh_6.33
+
+prayuñjītāvyayībhāvam adantaṃ nāpyapañcamī 
+tṛtīyāsaptamīpakṣe nālugviṣayamānayet // Bh_6.34
+
+tiṣṭhadguprabhṛtau vācyau naktaṃdivasagocarau 
+yathā vidvānadhīte 'sau tiṣṭhadgu ca vahadgu ca // Bh_6.35
+
+śiṣṭaprayogamātreṇa nyāsakāramatena vā 
+tṛcā samastaṣaṣṭhīkaṃ na kathaṃcidudāharet // Bh_6.36
+
+sūtrajñāpakamātreṇa vṛtrahantā yathoditaḥ 
+akena ca na kurvīta vṛttiṃ tadgamako yathā // Bh_6.37
+
+pañcarājīti ca yathā prayuñjīta dviguṃ striyām 
+napuṃsakaṃ tatpuruṣaṃ puruhūtasabhaṃ yathā // Bh_6.38
+
+sarvebhyaśca bhṛśādibhyo vadelluptahalaṃ yathā 
+priyonmanāyate sā te kiṃ śaṭhābhimanāyase // Bh_6.39
+
+tṛtīyaikavacaḥ ṣaṣṭhyām āmantaṃ ca vadet kvipi 
+yathoditaṃ balabhidā surucāṃ vidyutāmiva // Bh_6.40
+
+asantamapi yadvākyaṃ tattathaiva prayojayet 
+yathocyate 'mbhasā bhāsā yaśasāmambhasāmiti // Bh_6.41
+
+puṃsi striyāṃ ca kvasvantam icchantyacchāndasaṃ kila 
+upeyuṣāmapi divaṃ yathā na vyeti cārutā // Bh_6.42
+
+ibhakumbhanibhe bālā dadhuṣī kañcukaṃ stane 
+ratikhedapariśrāntā jahāra hṛdayaṃ nṛṇām // Bh_6.43
+
+śabalādibhyo 'titarāṃ bhāti ṇijvihito yathā 
+balākāḥ paśya suśreṇi ghanāñchabalayantyamūḥ // Bh_6.44
+
+śiśirāsārakaṇikāsadṛśaḥ setugandhavāṭ 
+tvāṃ vījayati suśreṇi ratikhedālasekṣaṇām // Bh_6.45
+
+evaṃ ṇicaḥ prayogastu sarvatrālaṃkṛtiḥ parā 
+liṅgatrayopapannaṃ ca tācchīlyaviṣayaṃ ṇinim // Bh_6.46
+
+tasya hārī stanābhogo vadanaṃ hāri sundaram 
+hāriṇī tanuratyantaṃ kiyanna harate manaḥ // Bh_6.47
+
+tācchīlyādiṣu ceṣyante sarva eva tṛnādayaḥ 
+viśeṣeṇa ca tatreṣṭā yuckurajvarajiṣṇucaḥ // Bh_6.48
+
+ktinnantaṃ ca prayuñjīta saṃgatiḥ saṃhatiryathā 
+śākārau jāguriṣṭau ca jāgaryā jāgarā yathā // Bh_6.49
+
+upāsaneti ca yucaṃ nityamāseḥ prayojayet 
+lyuṭaṃ ca kartṛviṣayaṃ devano ramaṇo yathā // Bh_6.50
+
+aṇantādapi ṅībiṣṭo lakṣmīḥ paurandarī yathā 
+añmahārajanāllākṣārocanābhyāṃ tathā ca ṭhak // Bh_6.51
+
+ḍmatubiṣṭaṃ ca kumudād yatheyaṃ bhūḥ kumudvatī 
+ṭhak cāpi tena jayatīty ākṣikaḥ śāstriko yathā // Bh_6.52
+
+hitaprakaraṇe ṇaṃ ca sarvaśabdāt prayuñjate 
+tataśchamiṣṭyā ca yathā sārvaḥ sarvīya ityapi // Bh_6.53
+
+vadedimanijantaṃ ca paṭimā laghimā yathā 
+viśeṣeṇeyasunniṣṭo jyāyānāpa kanīyasīm // Bh_6.54
+
+dvayasajdaghnacāviṣṭau pramāṇaviṣayau yathā 
+jānudaghnī sarinnārīnitambadvayasaṃ saraḥ // Bh_6.55
+
+matupprakaraṇe jyotsnātamisrāśṛṅgiṇādayaḥ 
+inacca phalabarhābhyāṃ phalino barhiṇo yathā // Bh_6.56
+
+iniḥ prayuktaḥ prāyeṇa tathā ṭhaṃśca manīṣibhiḥ 
+tatrāpi mekhālāmālāmāyānāṃ sutarāṃ matau // Bh_6.57
+
+abhyastājjheradādeśe dadhatītyādayo 'pi ca 
+roditi svapitītyādi saheṭā sārvadhātukam // Bh_6.58
+
+abhyasteṣu prayoktavyam adantaṃ ghubhṛñoḥ śatuḥ 
+asau dadhadalaṃkāraṃ srajaṃ bibhracca śobhate // Bh_6.59
+
+[na tavargaṃ śakāreṇa kvacit saṃ]yoginaṃ vadet 
+yathaitacchyāmamābhāti vanaṃ vanajalocane // Bh_6.60
+
+naikatraikārabhūyastaṃ gato yāto hato yathā 
+sāvarṇyavajjhayo hasya brūyānnānyatra paddhateḥ // Bh_6.61
+
+sālāturīyamatametadanukrameṇa ko vakṣyatīti virato 'hamato vicārāt 
+śabdārṇavasya yadi kaścidupaiti pāraṃ bhīmāmbhasaśca jaladheriti vismayo 'sau // Bh_6.62
+
+vidyānāṃ satatamapāśrayo 'parāsāṃ tāsūktānna ca viruṇaddhi kāṃścidarthān 
+śraddheyaṃ jagati mataṃ hi pāṇinīyaṃ mādhyasthyādbhavati na kasyacitpramāṇam // Bh_6.63
+
+avalokya matāni satkavīnām avagamya svadhiyā ca kāvyalakṣma 
+sujanāvamayāya bhāmahena grathitaṃ rakrilagomisūnunedam // Bh_6.64
+
+iti śrībhāmahālaṅkāre ṣaṣṭhaḥ paricchedaḥ
+
+ṣaṣṭyā śarīraṃ nirṇītaṃ śataṣaṣṭyā tvalaṅkṛtiḥ 
+pañcāśatā doṣadṛṣṭiḥ saptatyā nyāyanirṇayaḥ // Bh_6.65
+
+ṣaṣṭyā śabdasya śuddhiḥ syād ityevaṃ vastupañcakam 
+uktaṃ ṣaḍbhiḥ paricchedair bhāmahena krameṇa vaḥ // Bh_6.66

@@ -1,0 +1,966 @@
+Dhanaṃjaya: Daśarūpaka 1-4
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_dhanaMjaya-dazarUpaka-1-4.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: Masahiro Takano
+## Contribution: Masahiro Takano
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Fitz-Edward Hall: The Daśa-rūpa, or Hindu canons of dramaturgy, by Dhanañjaya ; with the exposition of Dhanika, the Avaloka. Calcutta : Baptist Mission Press 1865 (Bibliotheca Indica, 36).
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Daśarūpaka 1-4 = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from dhandasu.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Dhananjaya: Dasarupaka, Paricchedas 1-4 (without Dhanika's exposition "Avaloka")
+Based on the ed. by Fitz-Edward Hall: The Daśa-rūpa, or Hindu canons of dramaturgy,
+by Dhanañjaya ; with the exposition of Dhanika, the Avaloka.
+Calcutta : Baptist Mission Press 1865 (Bibliotheca Indica, 36)
+Input by Masahiro Takano
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+daśarūpakam /
+
+[pariccheda 1]
+
+namastasmai gaṇeśāya yatkaṇṭhaḥ puṣkarāyate /
+madābhegaghanadhvāno nīlakaṇṭhasya tāṇd.ave // dhdaś_1.1 //
+
+daśarūpānukāreṇa mādyanti bhāvakaḥ /
+namaḥ sarvavide tasmai viṣṇave bharatāya ca // dhdaś_1.2 //
+
+kasyacideva kadācid dayayā viṣayaṃ sarasvatī viduṣaḥ /
+ghaṭayati kamapi tamanyo jajati jano yena vaidagdhīm // dhdaś_1.3 //
+
+uddhṛtyoddhṛtya sāraṃ yamakhilanigamān nāṭyavedaṃ viriñciś
+cakre yasya prayogaṃ munirapi bharatastāṇḍavaṃ nīlakaṇṭhaḥ /
+śarvāṇī lāsyamasya pratipadamaparaṃ lakṣma kaḥ kartumīṣṭe
+nāṭyānāṃ kintu kiñcit praguṇaracanayā lakṣaṇaṃ saṅkṣipāmi // dhdaś_1.4 //
+
+vyākīrṇe mandabuddhīnāṃ jāyate mativibhramaḥ /
+tasyārthastatpadaistena saṅkṣipya kriyate 'ñjasā // dhdaś_1.5 //
+
+ānandanisyandiṣu rūpakeṣu
+vyutpattimātraṃ phalamalpabuddhiḥ /
+yo'pītihāsādivadāha sādhus
+tasmai namaḥ svāduparāṅmukhāya // dhdaś_1.6 //
+
+avasthānukṛtirnāṭyaṃ rūpaṃ dṛśyatayocyate /
+rūpakaṃ tat samāropād daśadhaiva rasāśrayam // dhdaś_1.7 //
+
+nāṭakaṃ saprakaraṇaṃ bhāṇaḥ prahasanaṃ ḍimaḥ /
+vyāyogasamavakārau vīthyaṅkehāmṛgā iti // dhdaś_1.8 //
+
+anyada bhāvāśrayaṃ nṛtyaṃ nṛttaṃ tālalayāśrayam /
+ādyaṃ padārthābhinayo mārgo deśo tathā param // dhdaś_1.9 //
+
+madhuroddhatabhedena tad dvayaṃ dvividhaṃ punaḥ /
+lāsyatāṇḍavarūpeṇa nāṭakādyupakārakam // dhdaś_1.10 //
+
+vastu netā rasasteṣāṃ bhedako vastu ca dvidhā /
+tatrādhikārikaṃ mukhyamaṅgaṃ prāsaṅgikaṃ viduḥ // dhdaś_1.11 //
+
+adhikāraḥ phalasvāmyamadhikāro ca tatprabhuḥ /
+tanniravartyamabhivyāpi vṛttaṃ syādādhikārikam // dhdaś_1.12 //
+
+prāsaṅgikaṃ parārthasya svārtho yasya prasaṅgataḥ /
+sānubandhaṃ patākākhyaṃ prakarī ca pradeśabhāk // dhdaś_1.13 //
+
+prāsaṅgikaṃ parārthasya svārtho yasya prasaṅgataḥ /
+sānubandhaṃ tulyasaṃvidhānaviśeṣaṇam // dhdaś_1.14 //
+
+prakhyātotpādyamiśratvabhedāt tredhāpi tat tridhā /
+prakhyātamitihāsāderutpādyaṃ kavikalpitam /
+miśraṃ ca saṅkarāt tābhyāṃ divyanartyādibhedataḥ // dhdaś_1.15 //
+
+kāryaṃ trivargastat śuddhamekānekānubandhi ca /
+svalpoddiṣṭastu taddheturbījaṃ vistāryanekadhā /
+avāntarārthavicchede binduracchedakāraṇam // dhdaś_1.16 //
+
+bījabindupatākākhyaprakarokāryalakṣaṇāḥ /
+arthaprakṛtayaḥ pañca tā etāḥ parikīrtitāḥ // dhdaś_1.17 //
+
+avasthāḥ pañca kāryasya prārabdhasya phalārthibhiḥ /
+ārambhayatnaprāptyāśāniyatāptiphalāgamāḥ // dhdaś_1.18 //
+
+autsukyamātramārambhaḥ phalalābhāya bhūyase /
+prayatnastu tadaprāptau vyāpāro'titvarānvitaḥ // dhdaś_1.19 //
+
+upāyāpāyaśaṅkābhyāṃ prāptyāśā prāptisambhavaḥ /
+apāyābhāvataḥ prāptirniyatāptiḥ suniścitā /
+samagraphalasampattiḥ phalayogo yathoditaḥ // dhdaś_1.20 //
+
+arthaprakṛtayaḥ pañca pañcāvasthāsamanvitāḥ /
+yathāsaṅkhyena jāyante mukhādyāḥ pañca sandhayaḥ // dhdaś_1.21 //
+
+antaraikārthasambandhaḥ sandhirekānvaye sati /
+mukhapratimukhe garbhaḥ sāvamarśopasaṃhṛtiḥ // dhdaś_1.22 //
+
+mukhaṃ bījasamutpattirnānārtharasasambhavā /
+aṅgāni dvādaśaitasya bījārambhasamanvayāt // dhdaś_1.23 //
+
+upakṣepaḥ parikaraḥ parinyāso vilobhanam /
+yuktiḥ prāptiḥ samādhānaṃ vidhānaṃ paribhāvanā /
+udbhedabhedakaraṇānyanvarthānyatha lakṣaṇam // dhdaś_1.24 //
+
+bījanyāsas upakṣepaḥ tadbāhulyaṃ parikriyā /
+tannniṣpattiḥ parinyāso guṇākhyānād vilobhanam // dhdaś_1.25 //
+
+sampradhāraṇamarthānāṃ yuktiḥ prāptiḥ sukhāgamaḥ /
+bījāgamaḥ samādhānaṃ vidhānaṃ sukhaduḥkhakṛt // dhdaś_1.26 //
+
+paribhāvodbhutāveśa udbhedo gūḍhabhedanam /
+karaṇaṃ prakṛtārambho bhedaḥ protsāhanā matā // dhdaś_1.27 //
+
+lakṣyālakṣya ivodbhedastasya pratimukhaṃ bhavet /
+binduprayatnānugamādaṅgānyasya trayodaśa // dhdaś_1.28 //
+
+vilāsaḥ parisarpaśca vidhūtaṃ śamanarmaṇo /
+narmadyutiḥ pragayaṇaṃ nirodhaḥ paryupāsanam // dhdaś_1.29 //
+
+vajraṃ puṣpamupanyāpto varṇa saṃhāra ityapi /
+ratyarthehā vilāsaḥ syād dṛṣṭanaṣṭānusarpaṇam /
+parisarpā vidhūtaṃ syādaratistacchamaḥ śamaḥ // dhdaś_1.30 //
+
+parihāsavatto narma dhṛtistajjā dyutirmatā /
+uttarā vāk pragayaṇaṃ hitarodho nirodhanam // dhdaś_1.31 //
+
+paryupāstiranunayaḥ puṣpaṃ vākyaṃ viśeṣavat /
+upanyāsastu sopāyaṃ vajraṃ pratyakṣaniṣṭhuram /
+cāturvarṇopagamanaṃ varṇasaṃhāra iṣyate // dhdaś_1.32 //
+
+garbhastu dṛṣṭanaṣṭasya bījasyānveṣaṇaṃ muhuḥ /
+dvādaśāṅgaḥ patākā syān na vā syāt prāptisambhavaḥ // dhdaś_1.33 //
+
+abhūtāharaṇaṃ mārgā rūpodāharaṇe kramaḥ /
+saṅgahaścānumānaṃ ca toṭakādhivale tathā // dhdaś_1.34 //
+
+udvegasambhramākṣepā lakṣaṇaṃ ca praṇīyate /
+abhūtāharaṇaṃ chadma mārgastattvārthakīrtanam // dhdaś_1.35 //
+
+rūpaṃ vitarkavad vākyaṃ sotkarṣaṃ syādudāhṛtiḥ /
+kramaḥ sañcintyamānāptir bhāvajñānamathāpare // dhdaś_1.36 //
+
+saṅgrahaḥ sāmadānoktir abhyūho liṅgato'numā /
+adhivalamabhisandhiḥ saṃrabdhaṃ toṭakaṃ vacaḥ // dhdaś_1.37 //
+
+udvego'richa(?)tā bhītiḥ śaṅkātrāsau ca sambhramaḥ /
+garbhabījasamudbhedādākṣepaḥ parikīrtitaḥ // dhdaś_1.38 //
+
+krodhenāvamṛśed yatra vyasanād yā vilobhanāt /
+garbhanirbhinnabījārthaḥ so'vamarśo'ṅgasaṅgahaḥ // dhdaś_1.39 //
+
+tatrāpavādasampheṭau vidravadravaśaktayaḥ /
+dyutiḥ prasaṅgaśchalanaṃ vyavasāyo virodhanam /
+prayocanā vicalanamādānaṃ ca taryodaśa // dhdaś_1.40 //
+
+doṣaprakhyāpavādaḥ syāt sampheṭo roṣabhāṣaṇam /
+vidravo vadhabandhādir dravo gurutiraskṛtiḥ // dhdaś_1.41 //
+
+virodhaśamanaṃ śaktistarjanodvejane dyutiḥ /
+gurukīrtanaṃ prasaṅgaśchalanaṃ cāvamānanam // dhdaś_1.42 //
+
+vyavasāyaḥ khaśaktyuktiḥ saṃrabdhānāṃ virodhanam /
+siddhāmantraṇato bhāvidarśikā syāt prayocanā /
+vikatthanā vicalanam ādānaṃ kāryasaṅgrahaḥ // dhdaś_1.43 //
+
+bījavanto mukhādyarthā viprakīrṇā yathāyatham /
+aikārthyamupanīyante yatra nirvahaṇaṃ hi tat // dhdaś_1.44 //
+
+sandhirvibodho grathanaṃ nirṇayaḥ paribhāṣaṇam /
+prasādānandasamayāḥ kṛtibhāṣopagūhanāḥ /
+pūrvabhāvopasaṃhārau praśastiśca caturdaśa // dhdaś_1.45 //
+
+sandhirbījopagamanaṃ vibodhaḥ kāryamārgaṇam /
+grathanaṃ tadupakṣepo 'nubhūtākhyā tu nirṇayaḥ // dhdaś_1.46 //
+
+paribhāṣā mitho jalpaḥ prasādaḥ paryupāsanam /
+ānando vāñchitāvāptiḥ samayo duḥkhanirgamaḥ // dhdaś_1.47 //
+
+kṛtirlabdhārthaśamanaṃ mānādyāptiśca bhāṣaṇam /
+kāryadṛṣṭyadbhutaprāpto pūrvabhāvopagūhane /
+varāptiḥ kāvyasaṃhāraḥ praśastiḥ śubhaśaṃsanam // dhdaś_1.48 //
+
+iṣṭasyārthasya racanā gopyaguptiḥ prakāśanam /
+rāgaḥ prayogasyāścaryaṃ vṛttāntasyānupakṣayaḥ // dhdaś_1.49 //
+
+dvedhā vibhāgaḥ kartavyaḥ sarvasyāpoha vastunaḥ /
+sūcyameva bhavet kiñcid dṛśyaśravyamathāparam // dhdaś_1.50 //
+
+nīraso'nucitastatra saṃsūcyo vastuvistaraḥ /
+dṛśyastu madhurodāttarasabhāvanirantaraḥ // dhdaś_1.51 //
+
+arthopakṣepakaiḥ sūcyaṃ pañcabhiḥ pratipādayet /
+viṣkambhacūlikāṅgāsyāṅkāvatārapraveśakaiḥ // dhdaś_1.52 //
+
+vṛttavartiṣyamāṇānāṃ kathāṃśānāṃ nidarśakaḥ /
+saṅkṣepārthastu viṣkambho madhyapātraprayojitaḥ /
+ekānekakṛtaḥ śuddhaḥ saṅkīrṇo nīcamadhyamaiḥ // dhdaś_1.53 //
+
+tadvadevānudāttoktyā nīcapātraprayojitaḥ /
+praveśo'ṅkadvayasyāntaḥ śeṣārthasyopasūcakaḥ // dhdaś_1.54 //
+
+antaryavanikāsaṃsthaiścūlikārthasya sūcanā /
+aṅkāntapātrairaṅkāsyaṃ chinnāṅkasyārthasūcanāt // dhdaś_1.55 //
+
+aṅkāvatārastvaṅkānte pāto'ṅkasyāvibhāgataḥ /
+ebhiḥ saṃsūcayet sūcyaṃ dṛśyamaṅkaiḥ pradarśayet // dhdaś_1.56 //
+
+nāṭyadharmamapekṣyaitat punarvastu tridheṣyate /
+sarveṣāṃ niyatasyaiva śrāvyamaśrāvyameva ca // dhdaś_1.57 //
+
+sarvaśrāvyaṃ prakāśaṃ syādaśrāvyaṃ svagataṃ matam /
+dvidhānyan nāṭyadharmākhyaṃ janāntamapavāritam // dhdaś_1.58 //
+
+tripatākākareṇānyānapavāryāntarā kathām /
+anyonyāmantraṇaṃ yat syāj janānte taj janāntikam /
+rahasyaṃ kathyate 'nyasya parāvṛttyāpavāritam // dhdaś_1.59 //
+
+kiṃ bravīṣyevamityādi vinā pātraṃ bravīti yat /
+śrutvevānaktamapyekastat syādākāśamāpitam // dhdaś_1.60 //
+
+ityādyaśeṣamiha vastuvibhedajātaṃ
+rāmāyaṇādi ca vibhāvya bṛhatkathāṃ ca /
+āsūtrayet tadanu netṛrasānuguṇyāc
+citrāṃ kathāmucitacāruvacaḥprapañcaiḥ // dhdaś_1.61 //
+
+[pariccheda 2]
+
+netā vinīto madhurastyāgī dakṣaḥ priyagvadaḥ /
+raktalokaḥ śucirvāṅmī rūḍhavaṃśaḥ sthiro yuvā // dhdaś_2.1 //
+
+buddhyutsāhasmṛtiprajñākalāmānasamanvitaḥ /
+śūro dṛḍhaśca tejasvī śāstracakṣuśca dhārmikaḥ /
+bhedaiścaturdhā lalitaśāntodāttoddhatairayam // dhdaś_2.2 //
+
+niścinto dhīralalitaḥ kalāsaktaḥ sukhī mṛduḥ /
+sāmānyagu.ayuktastu dhīraśānto dvijādikaḥ // dhdaś_2.3 //
+
+mahāsattvo'tigambhīraḥ kṣamāvānavikatthanaḥ /
+sthiro nigūḍhāhaṅkāro dhīrodātto dṛḍhavrataḥ // dhdaś_2.4 //
+
+darpamātsaryabhūyiṣṭho māyāchadmaparāyaṇaḥ /
+dhīroddhatastvahaṅkāro calaścaṇḍo vikattthanaḥ // dhdaś_2.5 //
+
+sa dakṣiṇaḥ śaṭho dhṛṣṭaḥ pūrvāṃ pratyanyayā hṛtaḥ /
+dakṣiṇo'syāṃ sahṛdayaḥ gūḍhavipriyakṛt śaṭhaḥ /
+vyaktāṅgavaikṛto dhṛṣṭo'nukūlastvekanāyikaḥ // dhdaś_2.6 //
+
+patākānāyakastvanyaḥ pīṭhamardo vicakṣaṇaḥ /
+tasyaivānucaro bhaktaḥ kiñcidūnaśca tadguṇaiḥ // dhdaś_2.7 //
+
+ekavidyo viṭaścānyo hāsyakṛc ca vidūṣakaḥ /
+lubdho dhīroddhatastabdhaḥ(?) pāpakṛd vyasanī ripuḥ // dhdaś_2.8 //
+
+śobhā vilāso mādhuryaṃ gāmbhīryaṃ dhairyatejasī /
+lalitaudāryamityaṣṭau sattvajāḥ pauruṣā guṇāḥ // dhdaś_2.9 //
+
+nīce dhṛṇādhike spardhā śobhāyāṃ śauryadakṣate /
+gatiḥ sadhairyā dṛṣṭiśca vilāse sammitaṃ vacaḥ // dhdaś_2.10 //
+
+ślakṣṇo vikāro mādhuryaṃ saṅkṣobhe sumahatyapi /
+gāmbhīryaṃ yatprabhāvena vikāro nopalakṣyate // dhdaś_2.11 //
+
+vyavasāyādacalanaṃ sthairyaṃ vighnakulādapi /
+adhikṣepādyasahanaṃ tejaḥ prāṇātyayeṣvapi // dhdaś_2.12 //
+
+śṛṅgārākāraceṣṭātvaṃ sahajaṃ lalitaṃ mṛdu /
+priyoktyājīvitād dānamaudāryaṃ sadupagrahaḥ // dhdaś_2.13 //
+
+svānyā sādhāraṇastrīti tadguṇā nāyikā tridhā /
+mugdhā madhyā pragalbheti svīyā śīlārjavādiyuk // dhdaś_2.14 //
+
+mugdhā navavayaḥkāmā ratau vāmā mṛduḥ krudhi /
+madhyodyadyāvanānaṅgā mohāntasuratakṣamā // dhdaś_2.15 //
+
+dhīrā sotprāsavakroktyā madhyā sāśru kṛtāgamam /
+khedayed dayitaṃ kopādadhīrā paruṣākṣaram // dhdaś_2.16 //
+
+yauvanāndhā smaronmattā pragalbhā dayitāṅgake /
+vilīyamānevānandād ratārambhe'pyacetanā // dhdaś_2.17 //
+
+sāvahitthādarodāste ratau dhīretarā krudhā /
+santarjya tāḍayen madhyā madhyādhīreva taṃ vadet /
+dvedhā jyeṣṭhā kaniṣṭā cetyamugdhā dvādaśoditāḥ // dhdaś_2.18 //
+
+anyastrī kanyakoḍhā ca nānyoḍhāṅgirase kvacit /
+kanyānurāgamicchātaḥ kuryādaṅgāṅgisaṃśrayam // dhdaś_2.19 //
+
+sādhāraṇastrī gaṇikā kalāprāgalbhyadhaurtyayuk /
+channakāmasukhārthājñasvatantrāhaṃyupaṇḍakān // dhdaś_2.20 //
+
+rakteva rañjayedāḍhyān niḥsvān mātrā vivāsayet /
+raktaiva tvaprahasane naiṣā divyanṛpāśraye // dhdaś_2.21 //
+
+āsāmaṣṭāvavasthāḥ syuḥ svādhīnapatikādikāḥ /
+āsannāyattaramaṇā hṛṣṭā svādhīnabhartṛkā // dhdaś_2.22 //
+
+mudā vāsakasajjā svaṃ maṇḍayatyeṣyati priye /
+cirayatyavyalīke tu virahotkaṇṭhitonmanāḥ // dhdaś_2.23 //
+
+jñāte'nyāsaṅgavivṛte khaṇḍterṣyākaṣāyitā /
+kalahāntaritāmarṣād vidhūte'nuśayārtiyuk // dhdaś_2.24 //
+
+vipralabdhoktasamayamaprāpte'tivimānitā /
+dūradeśābtarasthe tu kāryataḥ proṣitapriyā /
+kāmārtābhisaret kāntaṃ sārayed vābhisārikā // dhdaś_2.25 //
+
+cintāniḥśvāsakhedāśruvaivarṇyaglānyabhūṣaṇaiḥ /
+yuktāḥ ṣaḍantyā dve cādye kroḍaujjvalyapraharṣitaiḥ // dhdaś_2.26 //
+
+dūtyo dāsī sakhī kārūrdhātreyī prativeśikā /
+liṅginī śilpinī svaṃ ca netṛmitraguṇānvitāḥ // dhdaś_2.27 //
+
+yauvane sattvajāḥ strīṇāmalaṅkārāstu viṃśatiḥ /
+bhāvo hāvaśca helā ca trayastatra śarīrajāḥ // dhdaś_2.28 //
+
+śobhā kāntiśca dīptiśca mādhuryaṃ ca pragalbhatā /
+audāryaṃ dhairyamityete sapta bhāvā ayatnajāḥ // dhdaś_2.29 //
+
+līlā vilāso vicchittirvibhramaḥ kilakiñcitam /
+moṭṭāyitaṃ kuṭṭamitaṃ bibboko lalitaṃ tathā /
+vihṛtaṃ ceti vijñeyā daśa bhāvāḥ svabhāvajāḥ // dhdaś_2.30 //
+
+nirvikārātmakāt sattvād bhāvastatrādyavikriyā /
+hevākasastu śṛṅgāro hāvo'kṣibhrūvikārakṛt // dhdaś_2.31 //
+
+sa eva helā suvyaktaśṛṅgārarasasūcikā /
+rūpopabhogatāruṇyaiḥ śobhāṅgānāṃ vibhūṣaṇam // dhdaś_2.32 //
+
+manmathāvāpitacchāyā saiva kāntiriti smṛtā /
+anulabaṇatvaṃ mādhuryaṃ dīptiḥ kāntestu vistaraḥ // dhdaś_2.33 //
+
+niḥsādhvasatvaṃ prāgalbhyaṃ audāryaṃ praśrayaḥ sadā /
+cāpalāvihatā dhairyaṃ cidvṛttiravikatthanā // dhdaś_2.34 //
+
+priyānukaraṇaṃ līlā madhurāṅgaviceṣṭitaiḥ /
+tātkāliko viśeṣastu vilāso'ṅgakriyādiṣu // dhdaś_2.35 //
+
+ākalparacanālpāpi vicchittiḥ kāntipopa(?)kṛt /
+vibhramastvarayā kāle bhūṣāsthānaviparyayaḥ // dhdaś_2.36 //
+
+krodhāśruharṣabhītyādeḥ saṅkaraḥ kilakiñcitam /
+moṭṭāyitaṃ tu tadbhāvabhāvaneṣṭakathādiṣu // dhdaś_2.37 //
+
+sānandāntaḥ kuṭṭamitaṃ kupyet keśādharagrahe /
+garvābhimānādiṣṭe'pi bibboko'nādarakriyā // dhdaś_2.38 //
+
+sukumārāṅgavinyāso masṛṇo lalitaṃ bhavet /
+prāptakālaṃ na yad brūyād vrīḍayā vihṛtaṃ hi tat // dhdaś_2.39 //
+
+mantrī svaṃ vobhayaṃ vāpi sakhā tasyārthacintane /
+mantriṇā lalitaḥ śeṣāḥ mantrisvāyattasiddhayaḥ // dhdaś_2.40 //
+
+ṛtvikpurohitau dharme tapasvibrahmavādinaḥ /
+suhṛtkumārāṭavikā daṇḍe sāmantasainikāḥ // dhdaś_2.41 //
+
+antaḥpure varṣavarāḥ kirātā mūkavāmanāḥ /
+mlecchābhīraśakārādyāḥ svasvakāryopayoginaḥ // dhdaś_2.42 //
+
+jyeṣṭhamadhyādhamatvena sarveṣāṃ ca trirūpatā /
+tāratamyād yathoktānāṃ guṇānāṃ cottamāditā /
+evaṃ nāṭye vidhātavyo nāyakaḥ saparicchadaḥ // dhdaś_2.43 //
+
+tadvyāpārātmikā vṛttiścaturdhā tatra kaiśikī /
+gatinṛtyavilāsādyairmṛduḥ śṛṅgāraceṣṭitaiḥ /
+narmataisphiñjatatsphoṭatadgaibhaiścaturaṅgikā // dhdaś_2.44 //
+
+vaidagdhyakrīḍitaṃ narma priyopacchandanātmakam /
+hāsyenaiva saśṛṅgārabhayena vihitaṃ tridhā // dhdaś_2.45 //
+
+ātmopakṣepasambhogamānaiḥ śṛṅgāryapi tridhā /
+śuddhamaṅgaṃ bhayaṃ dvedhā vāgveṣaceṣṭitaiḥ /
+sarvaṃ sahāsyamityevaṃ narmāsṭādaśadhoditam // dhdaś_2.46 //
+
+narmasphiñjaḥ sukhārambho bhayānto navasaṅgame /
+narmasphoṭastu bhāvānāṃ sūcito'lparaso lavaiḥ // dhdaś_2.47 //
+
+channanetrapratīcāro narmagarbho'rthahetave /
+aṅgaiḥ sahāsyanirhāsyairebhireṣātra kaiśikī // dhdaś_2.48 //
+
+viśokā sāttvatī sattvaśauryatyāgadayājavaiḥ /
+saṃlāpotthāpakāvasyāṃ sāṅghātyaḥ parivartakaḥ // dhdaś_2.49 //
+
+saṃlāpako gabhīroktirnānābhāvarasā mithaḥ /
+utthāpakastu yatrādau yuddhāyotthāpayet param // dhdaś_2.50 //
+
+mantrārthadaivaśaktyādeḥ sāṅghātyaḥ saṅghabhedanam /
+prārabdhotthānakāryānyakaraṇāt parivartakaḥ // dhdaś_2.51 //
+
+ebhiraṅgaiścaturdheyaṃ sāttvatyārabhaṭī punaḥ /
+māyendrajālasaṅgrāmakrodhodbhrāntādiceṣṭitaiḥ /
+saṅkṣiptikā syāt sampheṭo vastūtthānāvapātane // dhdaś_2.52 //
+
+saṅkṣiptavasturacanā saṅkṣiptiḥ śilpayogataḥ /
+pūrvanetṛnivṛttyānye netrantaraparigrahaḥ // dhdaś_2.53 //
+
+sampheṭastu samāghātaḥ kruddhasaṃrabdhayordvayoḥ /
+māyādyutthāpitaṃ vastu vastūtthāpanamiṣyate /
+avapātastu niṣkrāmapraveśatrāsavidravaiḥ // dhdaś_2.54 //
+
+ebhiraṅgaiścaturdheyaṃ nārthavṛttirataḥ parā /
+caturthī bhāratī sāpi vācyā nāṭakalakṣaṇe // dhdaś_2.55 //
+
+kaiśikīṃ sāttvatīṃ cārthavṛttimārabhaṭīmiti /
+paṭhantaḥ pañcamīṃ vṛttimaudbhaṭāḥ pratijānate // dhdaś_2.56 //
+
+śṛṅgāre kauśikī vīre sāttvatyārabhaṭī punaḥ /
+rase raudre ca bībhatse vṛttiḥ sarvatra bhāratī // dhdaś_2.57 //
+
+deśabhāṣākriyāveṣalakṣaṇāḥ syuḥ pravṛttayaḥ /
+lokādevāvagamyaitā yathaucityaṃ prayojayet // dhdaś_2.58 //
+
+pādyaṃ tu saṃskṛtaṃ nṝṇāmanīcānāṃ kṛtātmanām /
+liṅginīnāṃ mahādevyā mantrijāveśyayoḥ kvacit // dhdaś_2.59 //
+
+strīṇāṃ tu prākṛtaṃ prāyaḥ śūrasenyadhameṣu ca /
+piśācātyantanīcādau paiśācaṃ māgadhaṃ tathā // dhdaś_2.60 //
+
+yaddeśaṃ nīcapātraṃ yat taddeśaṃ tasya bhāṣitam /
+kāryataścottamādīnāṃ kāryo bhāṣāvyatikramaḥ // dhdaś_2.61 //
+
+bhagavanto varairvācyā vidvaddevarṣiliṅginaḥ /
+viprāmātyāgrajāścāryā naṭīsūtramṛtau mithaḥ // dhdaś_2.62 //
+
+rathī sūtena cāyuṣmān pūjyaiḥ śiṣyātmajānujāḥ /
+vatseti tātaḥ pūjyo'pi sugṛhītābhidhastu taiḥ // dhdaś_2.63 //
+
+bhāvo'nugena sūtrī ca mārṣetyetena so'pi ca /
+devaḥ svāmīti nṛpatirbhṛtyairbhaṭṭeti cādhamaiḥ // dhdaś_2.64 //
+
+āmantraṇīyāḥ pativaj jyeṣṭhamadhyādhamaiḥ striyaḥ /
+samā haleti praṣyā ca hañje veśyājjukā tathā // dhdaś_2.65 //
+
+kuṭṭinyamvetyanugataiḥ pūjyā vā jaratī janaiḥ /
+vidūṣakeṇa bhavatī rājñī ceṭīti śabdyate // dhdaś_2.66 //
+
+ceṣṭāguṇodāhṛtisattvabhāvān
+aśeṣato netṛdaśāvibhinnān /
+ko vaktumīśo bharato na yo vā
+yo vā na devaḥ śaśikhaṇḍamauliḥ // dhdaś_2.67 //
+
+==============================
+
+[pariccheda 3]
+
+prakṛtitvādathānyeṣāṃ bhūyorasaparigrahāt /
+sampūrṇalakṣaṇatvāc ca pūrvaṃ nāṭakamucyate // dhdaś_3.1 //
+
+pūrvaraṅgaṃ vidhāyādau sūtradhāre vinirgate /
+praviśya tadvadaparaḥ kāvyamāsthāpayen naṭaḥ // dhdaś_3.2 //
+
+divyamartye sa tadrūpo miśramanyatarastayoḥ /
+sūcayed vastu bījaṃ vā mukhaṃ pātramathāpi vā // dhdaś_3.3 //
+
+raṅgaṃ prasādya madhuraiḥ ślokaiḥ kāvyārthasūcakaiḥ /
+ṛtuṃ kañcidupādāya bhāratīṃ vṛttimāśrayet // dhdaś_3.4 //
+
+bhāratī saṃskṛtaprāyo vāgvyāpāro naṭāśrayaḥ /
+bhedaiḥ prarocanāyuktairvīrthīprahasanāmukhaiḥ // dhdaś_3.5 //
+
+unmukhīkaraṇaṃ tatra praśaṃsātaḥ prarocanā /
+vīthī prahasanaṃ cāpi svaprasaṅge'bhidhāsyate /
+vīthyaṅgāvyāmukhāṅgatvāducyante'traiva tat punaḥ // dhdaś_3.6 //
+
+sūtradhāro naṭīṃ brūte mārṣaṃ vātha vidūṣakam /
+svakāryaṃ prastutākṣepi citroktyā yat tadāmukham // dhdaś_3.7 //
+
+prastāvanā vā tatra syuḥ kathādghātaḥ pravṛttakam /
+prayogātiśayaścātha vīthyaṅgāni trayodaśa // dhdaś_3.8 //
+
+svetivṛttasamaṃ vākyamarthaṃ vā yatra sūtriṇaḥ /
+gṛhītvā praviśet pātraṃ kathodghāto dvidhaiva saḥ // dhdaś_3.9 //
+
+kālasāmyasamākṣiptapraveśaḥ syāt pravṛttakam /
+eṣo'yamityupakṣepāt sūtradhāraprayogataḥ /
+pātrapraveśo yatraiṣa prayogātiśayo mataḥ // dhdaś_3.10 //
+
+udghātyakāvalagite prapañcatrigate chalam /
+vākkelyadhivale gaṇḍamavasyanditanālike /
+asatpralāpavyāhāramṛdavāni trayodaśa // dhdaś_3.11 //
+
+gūḍhārthapadaparyāyamālā praśnottarasya vā /
+yatrānyonyaṃ samālāpo dvedhodghātyaṃ taducyate // dhdaś_3.12 //
+
+yatraikatra samāveśāt kāryamanyat prasādhyate /
+prastute'nyatra vānyat syāt ta(?) cāvalagitaṃ dvidhā // dhdaś_3.13 //
+
+asadbhūtamithaḥstotraṃ prapañco hāsyakṛn mataḥ /
+śrutisāmyādanekārthayojanaṃ trigataṃ tviha /
+naṭāditritayālāpaḥ pūrvaraṅge tadiṣyate // dhdaś_3.14 //
+
+priyābhairapriyairvākyairvilobhya chalanā chalam /
+vinivṛttyāsya vākkelī dvistriḥ pratyuktito'pi vā // dhdaś_3.15 //
+
+anyonyavākyādhikyoktiḥ spardhayādhivalaṃ bhavet /
+gaṇḍaḥ prastutasambandhibhinnārthaṃ sahasoditam // dhdaś_3.16 //
+
+rasoktasyānyathā vyākhyā yatrāvasyandita hi tat /
+sopahāsā nigūḍhārthā nālikaiva prahelikā // dhdaś_3.17 //
+
+asambaddhakathāprāyo'satpralāpo yathottaraḥ /
+anyārthameva vyāhāro hāsyalāsyakaraṃ vacaḥ /
+doṣā guṇā guṇā doṣā yatra syurmṛdavaṃ hi tat // dhdaś_3.18 //
+
+eṣāmanyatamenārthaṃ pātraṃ cākṣipya sūtrabhṛt /
+prastāvanānte nirgacchet tato vastu prapañcayet // dhdaś_3.19 //
+
+abhigamyaguṇairyukto dhīrodāttaḥ pratāpavān /
+kīrtikāmo mahotsāhastrayyāstrātā mahīpatiḥ // dhdaś_3.20 //
+
+prakhyātavaṃśo rājarṣirdivyo vā yatra nāyakaḥ /
+tatprakhyātaṃ vidhātavyaṃ vṛttamatrādhikārikam // dhdaś_3.21 //
+
+yat tatrānucitaṃ kiñcin nāyakasya rasasya vā /
+viruddhaṃ tat parityājyamanyathā vā prakalpayet // dhdaś_3.22 //
+
+ādyantamevaṃ niścitya pañcadhā tad vibhajya ca /
+khaṇḍaśaḥ sandhisañjñāṃśca vibhāgānapi khaṇḍayet // dhdaś_3.23 //
+
+catuḥṣaṣṭistu tāni syuraṅgānītyaparaṃ tathā /
+patākāvṛttamapyūnamekādyairanusandhibhiḥ /
+aṅgānyatra yathālābhamasandhiṃ prakarīṃ nyaset // dhdaś_3.24 //
+
+ādau viṣkambhakaṃ kuryādaṅkaṃ vā kāryayuktitaḥ /
+apekṣitaṃ parityajya nīrasaṃ vastuvistaram /
+yadā sandarśayet śeṣaṃ kuryād viṣkambhakaṃ tadā // dhdaś_3.25 //
+
+yadā tu sarasaṃ vastu mūlādeva pravartate /
+ādāveva tadāṅkaḥ syādāmukhākṣepasaṃśrayaḥ // dhdaś_3.26 //
+
+pratyakṣanetṛcarito binduvyāptipuraskṛtaḥ /
+aṅko nānāprakārārthasaṃvidhānarasāśrayaḥ // dhdaś_3.27 //
+
+anubhāvavibhāvābhyāṃ sthāyinā vyabhicāribhiḥ /
+gṛhītamuktaiḥ kartavyamaṅginaḥ paripoṣaṇaṃ // dhdaś_3.28 //
+
+na cātirasato vastu dūraṃ vicchinnatāṃ nayet /
+rasaṃ vā na tirodadhyād vastvalaṅkāralakṣaṇaiḥ // dhdaś_3.29 //
+
+eko raso'ṅgīkartavyo vīraḥ śṛṅgāra eva vā /
+aṅgamanye rasāḥ sarve kuryān nirvahaṇe'dbhutam // dhdaś_3.30 //
+
+dūrādhvānaṃ vadhaṃ yuddhaṃ rājyadeśādiviplavam /
+saṃrodhaṃ bhojanaṃ snānaṃ surataṃ cānulepanam // dhdaś_3.31 //
+
+ambaragrahaṇādīni pratyakṣāṇi na nirdiśet /
+nādhikārivadhaṃ kvāpi tyājyamāvaśyakaṃ na ca // dhdaś_3.32 //
+
+ekāhācaritaikārthamitthamāsannanāyakam /
+pātraistricaturairaṅkaṃ teṣāmante'sya nirgamaḥ // dhdaś_3.33 //
+
+patākāsthānakānyatra bindurante ca bījavat /
+evamaṅkāḥ prakartavyāḥ praveśādipuraskṛtāḥ /
+pañcāṅkametadavaraṃ daśāṅkaṃ nāṭakaṃ param // dhdaś_3.34 //
+
+atha prakaraṇe vṛttamutpādyaṃ lokasaṃśrayam /
+amātyavipravaṇijāmekaṃ kuryāc ca nāyakam // dhdaś_3.35 //
+
+dhīrapraśāntaṃ sāpāyaṃ dharmakāmārthatatparam /
+śepaṃ nāṭakavat sandhipraveśakarasādikam // dhdaś_3.36 //
+
+nāyikā tu dvidhā netuḥ kulastrī gaṇikā tathā /
+kvacidekaiva kulajā kvāpi dvayaṃ kvacit // dhdaś_3.37 //
+
+kulajābhyantarā bāhyā veśyā nātikramo'nayoḥ /
+ābhiḥ prakaraṇaṃ tredhā saṅkīrṇaṃ dhūrtasaṅkulam // dhdaś_3.38 //
+
+lakṣyate nāṭikāpyatra saṅkīrṇānyanivṛttaye /
+tatra vastu prakaraṇān nāṭakān nāyako nṛpaḥ /
+prakhyāto dhīralalitaḥ śṛṅgāro'ṅgī salakṣaṇaḥ // dhdaś_3.39 //
+
+strīprāyacaturaṅkādibhedakaṃ yadi ceṣyate /
+ekadvitryaṅkapātrādibhedenānantarūpatā // dhdaś_3.40 //
+
+devī tatra bhavej jyeṣṭhā pragalbhā nṛpavaṃśajā /
+gambhīrā māninī kṛcchāt tadvaśān netṛsaṅgamaḥ // dhdaś_3.41 //
+
+nāyikā tādṛśī mugdhā divyā cātimanoharā /
+antaḥpurādisambandhādāsannā śrutidarśanaiḥ // dhdaś_3.42 //
+
+anurāgo navāvastho netustasyāṃ yathottaram /
+netā tatra pravarteta devītrāsena śaṅkitaḥ /
+kaiśikyaṅgaiścaturbhiśca yaktāṅkairiva nāṭikā // dhdaś_3.43 //
+
+bhāṇastu dhūrtacaritaṃ svānubhūtaṃ pareṇa vā /
+yatropavarṇayedeko nipuṇaḥ paṇḍito viṭaḥ // dhdaś_3.44 //
+
+sambodhanoktipratyuktī kuryādākāśabhāpitaiḥ /
+sūcayed vīraśṛṅgārau śauryasaubhāgyasaṃstavaiḥ // dhdaś_3.45 //
+
+bhūyasā bhāratī vṛttirekāṅkaṃ vastu kalpitam /
+mukhanirvahaṇe sāṅge lāsyāṅgāni daśāpi ca // dhdaś_3.46 //
+
+geyaṃ padaṃ sthitaṃ pādyamāsīnaṃ puṣpagaṇḍikā /
+pracchedakastrigūḍhaṃ ca saindhavākhyaṃ dvigūḍhakam // dhdaś_3.47 //
+
+uttamottamakaṃ caiva uktapratyuktameva ca /
+lāsye daśavidhaṃ hyetadaṅganirdeśakalpanam // dhdaś_3.48 //
+
+tadvat prahasanaṃ tredhā śuddhavaikṛtasaṅkaraiḥ /
+pākhaṇḍivipraprabhṛticeṭaceṭīviṭākulam /
+ceṣṭitaṃ vepabhāṣābhiḥ śuddhaṃ hāsyavaconvitam // dhdaś_3.49 //
+
+kāmukādivaciveṣaiḥ ṣaṇḍhakañcukitāpasaiḥ /
+vikṛtaṃ saṅkarād vīthyā saṅkīrṇaṃ dhūrtasaṅkulam /
+rasastu bhūyasā kāryaḥ ṣaḍvidho hāsya eva tu // dhdaś_3.50 //
+
+ḍime vastu prasiddhaṃ syād vṛttayaḥ kaiśikīṃ vinā /
+netāro devagandharvayakṣarakṣomahoragāḥ /
+bhūtapretapiśācādyāḥ ṣoḍaśātyantamuddhatāḥ // dhdaś_3.51 //
+
+rasairahāsyaśṛṅgāraiḥ ṣaḍbhirdīptaiḥ samanvitaḥ /
+māyendrajālasaṅgrāmakrodhodbhrāntādiceṣṭitaiḥ // dhdaś_3.52 //
+
+candrasūryoparāgaiśca nyāyye raudrarase'ṅgini /
+caturaṅkaścatuḥsandhirnirvimarśo ḍimaḥ smṛtaḥ // dhdaś_3.53 //
+
+khyātetivṛtto vyāyogaḥ khyātoddhatanarāśrayaḥ /
+hīno garbhavimarśābhyāṃ dīptāḥ syurḍimavad rasāḥ // dhdaś_3.54 //
+
+astrīnimittasaṅgrāmo jāmadagnyajaye yathā /
+ekāhācaritaikāṅko vyāyogo bahubhirnaraiḥ // dhdaś_3.55 //
+
+kāryaṃ samavakāre'pi āmukhaṃ nāṭakādivat /
+khyātaṃ devāsuraṃ vastu nirvimarśāstu sandhayaḥ // dhdaś_3.56 //
+
+vṛttayo mandakaiśikyo netāro devadānavāḥ /
+dvādaśodāttavikhyātāḥ phalaṃ teṣāṃ pṛthak pṛthak // dhdaś_3.57 //
+
+bahuvīrarasāḥ sarve yadvadambhodhimanthane /
+aṅkaiḥstribhistrikapaṭastriśṛṅgārastrividravaḥ // dhdaś_3.58 //
+
+dvisandhiraṅkaḥ prathamaḥ kāryo dvādaśanālikaḥ /
+caturdvinālikāvantyau nālikā ghaṭikādvayam // dhdaś_3.59 //
+
+vastusvabhāvadaivārikṛtāḥ syuḥ kapaṭāstrayaḥ /
+nagaroparodhayuddhe vātāgnyādikavidravāḥ // dhdaś_3.60 //
+
+dharmārthakāmaiḥ śṛṅgāro nātra vindupraveśakau /
+vīthyaṅgāni yathālābhaṃ kuryāt prahasane yathā // dhdaś_3.61 //
+
+vīthī tu kaiśikīvṛttau sandhyaṅgāṅkaistu bhāṇavat /
+rasaḥ sūcyastu śṛṅgāraḥ spṛśedapi rasāntaram // dhdaś_3.62 //
+
+yuktā prastāvanākhyātairaṅgairudghātyakādibhiḥ /
+evaṃ vīthī vidhātavyā dvyekapātraprayojitā // dhdaś_3.63 //
+
+utsṛṣṭikāṅke prakhyātaṃ vṛttaṃ buddhyā prapañcayet /
+rasastu karuṇaḥ sthāyī netāraḥ prākṛtā narāḥ // dhdaś_3.64 //
+
+bhāṇavat sandhivṛttyaṅgairyuktaḥ strīparidevitaiḥ /
+vācā yuddhaṃ vidhātavyaṃ tathā jayaparājayau // dhdaś_3.65 //
+
+miśramohāmṛge vṛttaṃ caturaṅkaṃ trisandhimat /
+naradivyāvaniyamān nāyakapratināyakau // dhdaś_3.66 //
+
+khyātau dhīroddhatāvantyo viparyāsādayuktakṛt /
+divyastriyamanicchantīmapahārādinecchataḥ // dhdaś_3.67 //
+
+śṛṅgārābhāsamapyasya kiñcit kiñcit pradarśayet /
+saṃrambhaṃ paramānīya yuddhaṃ vyājān nivārayet /
+vadhaprāptasya kurvīta vadhaṃ naiva mahātmanaḥ // dhdaś_3.68 //
+
+itthaṃ vicintya daśarūpakalakṣmamārgam
+ālokya vastu paribhāvya kaviprabandhān /
+kuryādayatnavadalaṅkṛtibhiḥ prabandhaṃ
+vākyairudāramadhuraiḥ sphuṭamandavṛttaiḥ // dhdaś_3.69 //
+
+================================
+
+[pariccheda 4]
+
+vibhāvairanubhāvaiśca sāttvikairvyabhicāribhiḥ /
+ānīyamānaḥ svādyatvaṃ sthāyī bhāvo rasaḥ smṛtaḥ // dhdaś_4.1 //
+
+jñāyamānatayā tatra vibhāvo bhāvapoṣakṛt /
+ālambanoddīpanatvaprabhedena sa ca dvidhā // dhdaś_4.2 //
+
+anubhāvo vikārastu bhāvasaṃsūcanātmakaḥ /
+hetukāryātmanoḥ siddhistayoḥ saṃvyavahārataḥ // dhdaś_4.3 //
+
+sukhaduḥkhādikairbhāvairbhāvastadbhāvabhāvanam /
+pṛthag bhāvā bhavantyanye'nubhāvatve'pi sāttvikāḥ /
+sattvādeva samutpattestac ca tadbhāvabhāvanam // dhdaś_4.4 //
+
+stambhapralayaromāñcāḥ svedo vaivarṇyavepathū /
+aśruvaisvaryamityaṣṭau stambho'smin niṣkriyāṅgatā /
+pralayo naṣṭasañjñatvaṃ śeṣāḥ suvyaktalakṣaṇāḥ // dhdaś_4.5 //
+
+viśeṣādābhimukhyena caranto vyabhicāriṇaḥ /
+sthāyinyunmagnanirmagnāḥ kallolā iva vāridhau // dhdaś_4.6 //
+
+nirvedaglāniśaṅkāśramadhṛtijaḍatāharṣadainyaugryacintās
+trāserṣyāmarṣagarvāḥ smṛtimaraṇamadāḥ suptanidrāvibodhāḥ /
+vrīḍāpasmāramohāḥ samatiralasatāvegatarkāvahitthā
+vyādhyunmādau vipādotsukacapalayutāstriṃśadete trayaśca // dhdaś_4.7 //
+
+tattvajñānāpadīrṣyādernirvedaḥ svāvamānanam /
+tatra cintāśruniḥśvāsavaiavarṇyocchvāsadīnatāḥ // dhdaś_4.8 //
+
+ratyādyāyāsatṛṭkṣudbhirglānirniṣprāṇateha ca /
+vaivarṇyakampānutsāhakṣāmāṅgavacanakriyāḥ // dhdaś_4.9 //
+
+anarthapratibhā śaṅkā parakrauryāt svadurnayāt /
+kampaśoṣābhivīkṣādiratra varṇasvarānyatā // dhdaś_4.10 //
+
+śramaḥ khedo'dhvaratyādeḥ svedo'smin mardanādayaḥ /
+santoṣo jñānaśaktyāderdhṛtiravyagrabhogakṛt // dhdaś_4.11 //
+
+apratipattirjaḍatā syādiṣṭāniṣṭadarśanaśrutibhiḥ /
+animiṣanayananirīkṣaṇatūṣṇīmbhāvādayastatra // dhdaś_4.12 //
+
+prasattirutsavādibhyo harṣo'śrusvedagadgadāḥ /
+daurgatyādyairanaujasyaṃ dainyaṃ kārṣṇyābhṛjādimat // dhdaś_4.13 //
+
+duṣṭe'parādhadaurmukhyakrauryaiścaṇḍatvamugratā /
+tatra svedaśiraḥkampatarjanātāḍanādayaḥ // dhdaś_4.14 //
+
+dhyānaṃ cintehitānāpteḥ śūnyatāśvāsatāpakṛt /
+garjitādermanaḥkṣobhastrāso'trotkampitādayaḥ // dhdaś_4.15 //
+
+parotkarṣākṣamāsūyā garvadaurjanyamanyujā /
+doṣoktyavajñe srukuṭimanyukrodheṅgitāni ca // dhdaś_4.16 //
+
+adhikṣepāpamānāderamarṣo'bhiniviṣṭatā /
+tatra khedaśiraḥkampatarjanātāḍanādayaḥ // dhdaś_4.17 //
+
+garvo'bhijanalāvaṇyabalaiśvaryādibhirmadaḥ /
+karmāṇyādharpaṇāvajñā savilāsāṅgavīkṣaṇam // dhdaś_4.18 //
+
+sadṛśajñānacintādyaiḥ saṃskārāt smṛtiratra ca /
+jñātatvenārthabhāsinyāṃ bhrūsamunnayanādayaḥ /
+maraṇaṃ suprasiddhatvādanarthatvāc ca nocyate // dhdaś_4.19 //
+
+harṣotkarṣo madaḥ pānāt skhaladaṅgavacogatiḥ /
+nidrā hāso'tra ruditaṃ jyeṣṭhamadhyādhamādiṣu /
+suptaṃ nidrodbhavaṃ tatra śvāsocchāsakriyā param // dhdaś_4.20 //
+
+manaḥsammīlanaṃ nidrā cintālasyaklamādibhiḥ /
+tatra jṛmbhāṅgabhaṅgākṣimīlanotsvapnatādayaḥ /
+vivodhaḥ pariṇāmādestatra jṛmbhākṣimardane // dhdaś_4.21 //
+
+durācārādibhirvrīḍā dhārṣṭyābhāvastamunnayet /
+sācīkṛtāṅgāvaraṇavaivarṇyādhomukhādibhiḥ // dhdaś_4.22 //
+
+āveśo grahaduḥkhādyairapasmāro yathāvidhiḥ /
+bhūpātakampaprakhedalālāphenodgamādayaḥ // dhdaś_4.23 //
+
+moho vicittatā bhītiduḥkhāveśānucintanaiḥ /
+tatrājñānabhramāghātaghūrṇanādarśanādayaḥ // dhdaś_4.24 //
+
+bhrānticchedopadeśābhyāṃ śāstrādestattvadhīrmatiḥ /
+ālasyaṃ śramagarbhādejahyajṛmbhāsitādimat // dhdaś_4.25 //
+
+āvegaḥ samgramo'sminnabhisarajanite śastranāgābhiyogo
+vātāt pāṃsūpadigdhastvaritapadagatirvarṣaje piṇḍitāṅgaḥ /
+utpātāt srastatāṅgeṣvahitahitakṛte śokaharṣānubhāvā
+vahnerdhūmākulāsyaḥ karijamanubhayastammakampāpasārāḥ // dhdaś_4.26 //
+
+tarko vicāraḥ sandehād bhrūśiroṅgulinartakaḥ /
+lajjādyairvikriyāguptāvavahitthāṅgavikriyā /
+vyādhayaḥ sannipātādyāsteṣāmanyatra vistaraḥ // dhdaś_4.27 //
+
+aprekṣākāritonmādaḥ sannipātagrahādibhiḥ /
+assminnavasthā ruditagītahāsāsitādayaḥ // dhdaś_4.28 //
+
+prārabdhakāryāsiddhyāderviṣādaḥ sattvasaṅkṣayaḥ /
+niḥśvāsocchvāsahṛttāpasahāyānveṣaṇādikṛt // dhdaś_4.29 //
+
+kālākṣamatvamautmukyaṃ ramyecchāratisamgramaiḥ /
+tatrocchvāsatvaniḥśvāsahṛttāpasvedavibhramāḥ // dhdaś_4.30 //
+
+mātsaryadveṣarāgādeścāpalaṃ tvanavasthitiḥ /
+tatra bhartsanapāruṣyasvacchandācaraṇādayaḥ // dhdaś_4.31 //
+
+viruddhairaviruddhairvā bhāvairvicchidyate /
+ātmabhāvaṃ nayatyanyān sa sthāyī lavaṇākaraḥ // dhdaś_4.32 //
+
+ratyutsāhajgupsāḥ krodho hāsaḥ smayo bhayaṃ śokaḥ /
+śamamapi kecit prāhuḥ puṣṭirnāṭyeṣu naitasya // dhdaś_4.33 //
+
+nirvedādiratādrūpyādasthāyī svadate katham /
+vairasyāyaiva tatpoṣastenāṣṭau sthāyino matāḥ // dhdaś_4.34 //
+
+vācyā prakaraṇādibhyo buddhisthā vā yathā kriyā /
+vākyārthaḥ kārakairyuktā sthāyī bhāvastathetaraiḥ // dhdaś_4.35 //
+
+rasaḥ sa eva svādvyatvād rasikasyaiva vartanāt /
+nānukāryasya vṛttatvāt kāvyasyātatparatvataḥ // dhdaś_4.36 //
+
+draṣṭuḥ pratītirvrīḍerṣyārāgadveṣaprasaṅgataḥ /
+laukikasya svaramaṇīsaṃyuktasyeva darśanāt // dhdaś_4.37 //
+
+dhīrodāttādyavasthānāṃ rāmādiḥ pratipādakaḥ /
+vibhāvayati ratyādīn svadante rasikasya te // dhdaś_4.38 //
+
+krīḍatāṃ mṛnmayairyadvad bālānāṃ dviradādibhiḥ /
+svotsāhaḥ svadate tadvacchrotṛṇāmarjunādibhiḥ // dhdaś_4.39 //
+
+kāvyārthabhāvanāsvādo nartakasya na vāryate /
+svādaḥ kāvyārthasambhedānātmānandasamudbhavaḥ // dhdaś_4.40 //
+
+vikāśavistarakṣobhavikṣepaiḥ sa caturbidhaḥ /
+śṛṅgāravīrabībhatsaraudreṣu manasaḥ kramāt // dhdaś_4.41 //
+
+hāsyādbhutabhayotkarṣakaruṇānāṃ ta eva hi /
+atastajjanyatā teṣāmata evāvadhāraṇam // dhdaś_4.42 //
+
+śamaprakarṣo nirvācyo muditādestadātmatā /
+padārthairindunirvedaromāñcādisvarūpakaiḥ /
+kāvyād vibhāvasañcāryanubhāvaprakhyatāṃ gataiḥ // dhdaś_4.43 //
+
+bhāvitaḥ svadate sthāyī rasaḥ sa parikīrtitaḥ /
+lakṣaṇaikyaṃ vibhāvaikyādabhedād rasabhāvayoḥ // dhdaś_4.44 //
+
+ramyadeśakalākālaveṣabhogādisevanaiḥ /
+pramodātmā ratiḥ saiva yūnoranyonyaraktayoḥ /
+prahṛṣyamāṇā śṛṅgāro madhurāṅgaviceṣṭitaiḥ // dhdaś_4.45 //
+
+ye sattvajāḥ sthāyin eva cāṣṭau triṃśat trayo ye vyabhicāriṇaśca / 
+ekonapañcāśadamī hi bhāvāḥ
+yuktyā nibaddhāḥ paripoṣayanti /
+ālasyamaugryaṃ maraṇaṃ jugupsā
+tasyāśrayādvaitaviruddhamiṣṭam // dhdaś_4.46 //
+
+
+tatrāyogo'nurāge'pi navayorekacittayoḥ /
+pāratantryeṇa daivād vā viprakarṣādasaṅgamaḥ // dhdaś_4.47 //
+
+daśāvasthaḥ sa tatrādāvabhilāṣo'tha cintanam /
+smṛtirguṇakathodvegapralāponmādasañjvarāḥ /
+jaḍatā maraṇaṃ ceti duravasthaṃ yathottaram // dhdaś_4.48 //
+
+abhilāpaḥ spṛhā tatra kānte sarvāṅgasundare /
+dṛṣṭe śrute vā tatrāpi vismayānandasādhvasāḥ // dhdaś_4.49 //
+
+sākṣāt pratikṛtisvapnacchāyāmāyāsu darśanam /
+śrutirvyājāt sakhīgītamāgadhādiguṇastuteḥ // dhdaś_4.50 //
+
+sānubhāvavibhāvāstu cintādyāḥ pūrvadarśitāḥ /
+daśāvasthatvamācāryaiḥ prāyo vṛtyā nidarśitam /
+mahākaviprabandheṣu dṛśyate tadanantatā // dhdaś_4.51 //
+
+dṛṣṭe śrute'bhilāṣāc ca kiṃ nautsukyaṃ prajāyate /
+aprāptau kiṃ na nirvedo glāniḥ kiṃ nāticintanāt // dhdaś_4.52 //
+
+viprayogastu viśleṣo rūḍhavibhrambhayordvidhā /
+mānapravāsabhedena māno'pi praṇayerṣyayoḥ // dhdaś_4.53 //
+
+tatra praṇayamānaḥ syāt kopāvasitayordvayoḥ /
+strīṇāmīrṣyākṛto mānaḥ kopo'nyāsaṅgini priye /
+śrute vānumite dṛṣṭe śrutistatra sakhīmukhāt // dhdaś_4.54 //
+
+utsvapnāyitabhogāṅkagotraskhalanakalpitaḥ /
+tridhānumāniko dṛṣṭaḥ sākṣādindriyagocaraḥ // dhdaś_4.55 //
+
+yathottaraṃ guruḥ ṣaḍbhirupāyaistamupācaret /
+sāmnā bhedena dānena natyupekṣārasāntaraiḥ // dhdaś_4.56 //
+
+tatra oriyavacaḥ sāma bhedastatsakhyupārjanam /
+dānaṃ vyājena bhūṣādeḥ pādayoḥ patanaṃ natiḥ // dhdaś_4.57 //
+
+sāmādau tu parikṣīṇe syādupekṣāvadhīraṇam /
+rabhasatrāsaharṣādeḥ kopabhraṃśo rasāntaram /
+kopaceṣṭāśca nārīṇāṃ prāgeva pratipāditāḥ // dhdaś_4.58 //
+
+kāryataḥ sambhramācchāpāt pravāso bhinnadeśatā /
+dvayostatrāśruniḥśvāsakārśyalambālakāditā // dhdaś_4.59 //
+
+dvitīyaḥ sahasotpanno divyamānupaviplavāt /
+svarūpānyatvakaraṇācchāpajaḥ sannidhāvapi // dhdaś_4.60 //
+
+mṛte tvekatra yatrānyaḥ pralapecchoka eva saḥ /
+vyāśrayatvān na śṛṅgāraḥ pratyāpanne tu netaraḥ // dhdaś_4.61 //
+
+praṇayāyogayorutkā pravāse proṣitapriyā /
+kalahāntariterṣyāyāṃ vipralavdhā ca khaṇḍitā // dhdaś_4.62 //
+
+anukūlau niṣevete yatrānyonyaṃ vilāsinau /
+darśanasparśanādīni sa sambhogo mudānvitaḥ // dhdaś_4.63 //
+
+ceṣṭāstatra pravartante līlādyā daśa yoṣitām /
+dākṣiṇyamārdavapremṇāmanurūpāḥ priyaṃ prati // dhdaś_4.64 //
+
+ramayec cāṭukṛt kāntaḥ kalākrīḍādibhiśca tām /
+na grāmyamācaret kiñcin narmabhraṃśakaraṃ na ca // dhdaś_4.65 //
+
+vīraḥ pratāpavinayādhyavasāyasattva-
+mohāviṣādanayavismayavikramādyaiḥ /
+utsāhabhūḥ sa ca dayāraṇadānayogāt
+tredhā kilātra matigarvadhṛtipraharṣāḥ // dhdaś_4.66 //
+
+bībhatsaḥ kṛmipūtigandhivamathuprāyairjugupsaikabhūr
+udvego rudhirāntrakīkasavasāmāṃsādibhiḥ kṣobhaṇaḥ /
+vairāgyāj jaghanastanādiṣu ghṛṇāśuddho'nubhāvairvṛto
+nāsāvaktravikūṇanādibhirihāvegārtiśaṅkādayaḥ // dhdaś_4.67 //
+
+krodho matsaravairivaikṛtamayaiḥ poṣo'sya raudro'nujaḥ
+kṣobhaḥ khādharadaṃśakampabhrukuṭisvedāsyarāgairyutaḥ /
+śatrollāsavikatthamāṃsadharaṇīghātapratijñāgrahair
+atrāmarṣamadau smṛtiścapalatāsūyāgryavegādayaḥ // dhdaś_4.68 //
+
+vikṛtākṛtivāgveṣairātmano'tha parasya vā /
+hāsaḥ syāt paripoṣo'sya hāsyastriprakṛtiḥ smṛtaḥ // dhdaś_4.69 //
+
+smitamiha vikāsinayanaṃ kiñcillakṣyadvijaṃ tu hasitaṃ syāt /
+madhurasvaraṃ vihasitaṃ saśiraḥkampamidamupahasitam // dhdaś_4.70 //
+
+apahasitaṃ sāsrākṣaṃ vikṣiptāṅgaṃ bhavatyatihasitam /
+dve dve hasite caiṣāṃ jyeṣṭhe madhye'dhame kramaśaḥ // dhdaś_4.71 //
+
+nidrālasyaśramaglānimūrchāśca sahacāriṇaḥ /
+atilokaiḥ padārthaiḥ syād vismayātmā raso'dbhutaḥ // dhdaś_4.72 //
+
+karmāsya sādhuvādāśruvepathusvedagadgadāḥ /
+harṣāvegadhṛtiprāyā bhavanti vyabhicāriṇaḥ // dhdaś_4.73 //
+
+vikṛtasvarasattvāderbhayabhāvo bhayānakaḥ /
+sarvāṅgavepathusvedaśoṣavaicittyalakṣaṇaḥ /
+dainyasambhramasammohatrāsādistatsahodaraḥ // dhdaś_4.74 //
+
+iṣṭanāśādaniṣṭāptau śokātmā karuṇo'nu tam /
+niḥśvāsocchvāsaruditastambhapralapitādayaḥ // dhdaś_4.75 //
+
+svāpāpasmāradainyādhimaraṇālasyasambhramāḥ /
+viṣādajaḍayonmādacintādyā vyabhicāriṇaḥ // dhdaś_4.76 //
+
+prītibhaktyādayo bhāvā mṛgayākṣādayo rasāḥ /
+harṣotsāhādiṣu spaṣṭamantarbhāvān na kīrtitāḥ // dhdaś_4.77 //
+
+ṣaṭtriṃśadbhūṣaṇādīni sāmādīnyekaviṃśatiḥ /
+lakṣyasandhyantarāṅgāni sālaṅkāreṣu teṣu ca // dhdaś_4.78 //
+
+ramyaṃ jugupsitamudāramathāpi nīcam
+ugraṃ prasādi gahanaṃ vikṛtaṃ ca vastu /
+yadvāpyavastu kavibhāvakabhāvyamānaṃ
+tan nāsti yan na rasabhāvamupaiti loke // dhdaś_4.79 //
+
+viṣṇoḥ sutenāpi dhanañjayena
+vidvanmanorāganibandhahetuḥ /
+āviṣkṛṭaṃ muñjamahīśagoṣṭhī-
+vaidagdhyabhājā daśarūpametat // dhdaś_4.80 //

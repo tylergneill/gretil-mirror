@@ -1,0 +1,120 @@
+Viṃśatikākārikā
+
+
+# Header
+
+  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_viMzatikAkArikA.xml
+  with a rudimentary header. For a more extensive header please refer to the source file.
+
+## Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+## Contribution: members of the Digital Sanskrit Buddhist Canon Input Project
+## Date of this version: 2020-07-31
+
+## Source: 
+   - Ramshankar Tripathi: Vijnaptimatratasiddhi prakarana dvayam. Varanasi : Sampurnananda Sanskrit University, 1992.
+
+## Publisher: Göttingen Register of Electronic Texts in Indian Languages (GRETIL), SUB Göttingen
+
+## Licence:
+   This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim.
+   Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Structure of references:
+   A reference is assembled consisting of
+   - a pragmatic abbreviation of the title: Viṃśatikākārikā = ,
+   - the number of the  in arabic numerals,
+   - the number of the verse in arabic numerals.
+
+## Notes:
+   This file has been created by mass conversion of GRETIL's Sanskrit corpus from bsa023_u.htm. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the note element below:
+
+   
+	 Vimsatikakarika
+Based on the ed. by Ramshankar Tripathi: Vijnaptimatratasiddhi prakarana dvayam.
+Varanasi : Sampurnananda Sanskrit University, 1992.
+Input by members of the Sanskrit Buddhist Input Project.
+With kind permission of the Digital Sanskrit Buddhist Canon Project
+of Nagarjuna Institute, Nepal
+and University of the West, Rosemead, California, USA
+(www.uwest.edu/sanskritcanon)
+Sastra section, text no. 23
+	
+
+
+## Revisions:
+   - 2020-07-31: TEI encoding by mass conversion of GRETIL's Sanskrit corpus
+
+
+# Text
+
+// namaḥ sarvabuddhabodhisattvebhyaḥ //
+
+viṃśatikākārikā (vk)
+
+vijñaptimātramevaitadasadarthāvabhāsanāt /
+yathā taimirikasyāsatkeśacandrādidarśanam // vk_1 //
+
+yadi vijñaptiranarthā niyamo deśakālayoḥ /
+santānasyāniyamaśca yuktā kṛtyakriyā na ca // vk_2 //
+
+deśādiuniyamaḥ siddhaḥ svapnavat pretavat punaḥ /
+santānāniyamaḥ sarvaiḥ pūyanadyādidarśane // vk_3 //
+
+svapnopaghātavat kṛtyakriyā narakavat punaḥ /
+sarvaṃ narakapālādidarśane taiśca bādhane // vk_4 //
+
+tiraścāṃ sambhavaḥ svarge yathā na narake tathā /
+na pretānāṃ yatastajjaṃ duḥkhaṃ nānubhavanti te // vk_5 //
+
+yadi tatkarmabhistatra bhūtānāṃ sambhavastathā /
+iṣyate pariṇāmaśca kiṃ vijñānasya neṣyate // vk_6 //
+
+karmaṇo vāsanānyatra phalamanyatra kalpyate /
+tatraiva neṣyate yatra vāsanā kiṃ nu kāraṇam // vk_7 //
+
+rūpādyāyatanāstitvaṃ tadvineyajanaṃ prati /
+abhiprāyavaśāduktamupapādukasattvavat // vk_8 //
+
+yataḥ svabījād vijñaptiryadābhāsā pravartate /
+dvividhāyatanatvena te tasyā munirabravīt // vk_9 //
+
+tathā pudgalanairātmyapraveśo hi hyanyathā punaḥ /
+deśanā dharmanairātmyapraveśaḥ kalpitātmanā // vk_10 //
+
+na tadekaṃ na cānekaṃ viṣayaḥ paramāṇuśaḥ /
+na ca te saṃhatā yasmāt paramāṇurna sidhyati // vk_11 //
+
+ṣaṭkena yugapadyogāt paramāṇoḥ ṣaḍaṃśatā /
+ṣaṇṇāṃ samānadeśatvāt piṇḍaḥ syādaṇumātrakaḥ // vk_12 //
+
+paramāṇorasaṃyoge tatsaṅghāte 'sti kasya saḥ /
+na cānavayavatvena tatsaṃyogo na sidhyati // vk_13 //
+
+digbhāgabhedo yasyāsti tasyaikatvaṃ na yujyate /
+chāyāvṛtī kathaṃ vānyo na piṇḍaścenna tasya te // vk_14 //
+
+ekatve na krameṇetiryugapanna grahāgrahau /
+vicchinnānekavṛttiśca sūkṣmānīkṣā ca no bhavet // vk_15 //
+
+pratyakṣabuddhiḥ svapnādau yathā sā ca yadā tadā /
+na so 'rtho dṛśyate tasya pratyakṣatvaṃ kathaṃ matam // vk_16 //
+
+uktaṃ yathā tadābhāsā vijñaptiḥ smaraṇaṃ tataḥ /
+svapne dṛgviṣayābhāvaṃ nāprabuddho 'vagacchati // vk_17 //
+
+anyonyādhipatitvena vijñaptiniyamo mithaḥ /
+middhenopahataṃ cittaṃ svapne tenāsamaṃ phalam // vk_18 //
+
+maraṇaṃ paravijñaptiviśeṣād vikriyā yathā /
+smṛtilopādikānyeṣāṃ piśācādimanovaśāt // vk_19 //
+
+kathaṃ vā daṇḍakāraṇyaśūnyatvamṛṣikopataḥ /
+manodaṇḍo mahāvadyaḥ kathaṃ vā tena sidhyati // vk_20 //
+
+paracittavidāṃ jñānamayathārthaṃ kathaṃ yathā /
+svacittajñānamajñānād yathā buddhasya gocaraḥ // vk_21 //
+
+vijñaptimātratāsiddhiḥ svaśaktisadṛśī mayā /
+kṛteyaṃ sarvathā sā tu na cintyā buddhagocaraḥ // vk_22 //
+
+// viṃśatikākārikāḥ samāptāḥ //
