@@ -38,7 +38,7 @@
   </publicationStmt>
 
   <notesStmt>
-	<note>This file has been created by mass conversion of GRETIL's Sanskrit corpus from <ref target="http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/buddh/asycsaru.htm">asycsaru.htm</ref>. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the <gi>note</gi> element below:</note>
+	<note>This file has been created by mass conversion of GRETIL's Sanskrit corpus from <ref target="https://tylergneill.github.io/gretil-mirror/gretil/1_sanskr/6_sastra/3_phil/buddh/asycsaru.htm">asycsaru.htm</ref>. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the <gi>note</gi> element below:</note>
 	<note type="legacyheader">
 	 Asanga: Sarirarthagatha of the Cintamayibhumi, a chapter of his Yogacarabhumi
 <lb/>Based on the edition: Fumio Enomoto, "Śarīrārthagāthā, A Collection of Canonical Verses in the Yogācārabhūmi, Part 1: Text", Sanskrit-Texte aus dem buddhistischen Kanon: Neuentdeckungen und Neueditionen[, Erste Folge], Göttingen 1989 (Sanskrit-Wörterbuch der buddhistischen Texte aus den Turfan-Funden, Beiheft 2), pp. 17-35.
@@ -307,7 +307,7 @@
   </langUsage>
 
   <textClass>
-  <keywords scheme="http://gretil.sub.uni-goettingen.de/">
+  <keywords scheme="https://tylergneill.github.io/gretil-mirror/">
 	<term>Sanskrit -- Śāstra -- Philosophy -- Buddhist</term>
   </keywords>
   </textClass>

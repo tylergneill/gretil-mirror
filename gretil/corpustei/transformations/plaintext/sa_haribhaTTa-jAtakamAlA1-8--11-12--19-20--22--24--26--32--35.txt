@@ -3,7 +3,7 @@ Haribhaṭṭa: Jātakamālā, 1-8, 11-12, 19-20, 22, 24, 26, 32, 35
 
 # Header
 
-  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_haribhaTTa-jAtakamAlA1-8--11-12--19-20--22--24--26--32--35.xml
+  This file is a plain text transformation of https://tylergneill.github.io/gretil-mirror/gretil/corpustei/sa_haribhaTTa-jAtakamAlA1-8--11-12--19-20--22--24--26--32--35.xml
   with a rudimentary header. For a more extensive header please refer to the source file.
 
 ## Data entry: Michael Hahn and Klaus Wille (Jat. 1)

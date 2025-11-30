@@ -79,18 +79,21 @@ to facilitate word search.
 
 For a comprehensive list of CSX and other GRETIL encodings 
 and formats see:
-www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil/gretdiac.pdf
+https://tylergneill.github.io/gretil-mirror/gretil/gretdiac.pdf
 and
-www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil/gretdias.pdf
+https://tylergneill.github.io/gretil-mirror/gretil/gretdias.pdf
 ___________________________________________________________________
 
 
 
 <B1> ÷rãş /
-#bhàññadãpikà /#
---- /// --- #prabhàvalãvyàkhyàsaüvalità /#
+#
+bhàññadãpikà /#
+--- /// --- #
+prabhàvalãvyàkhyàsaüvalità /#
 tatra tçtãyàdhyàyasya prathamaş pàdaş /
-#(1 adhikaraõam / ) (a.3 pà.1 adhi.1)#  
+#
+(1 adhikaraõam / ) (a.3 pà.1 adhi.1)#  
 
 athàtaş ÷eùalakùaõam  / Jaim_3,1.1 /
 
@@ -101,7 +104,8 @@ aü÷a eva hetutvaü, aü÷àntare tu tu tatprasaïgànniråpaõamityapi bodhyam /
 aïgatvameva vàdhyàyàrtho 'ïgitvaü tvarthàt /
 tadapi ca ÷rutyàdiùañpramàõakaü, atide÷apramàõakasyehàvicàryatvàt /
 taccànekaprakàrakaü vicàryate /
-aïgatvalakùaõam ÷eùapada÷akyatvàvacchedakam, aïgàïgitayoravacchedakam, ÷rutyàdãni ca ùañ aïgatve pramàõàni, tayorvirodhe balàbalam, virodha÷ca kvàsti kva nàstãtyàdi // 3 // 1 // #iti prathamaü pratij¤àdhikaraõam //#
+aïgatvalakùaõam ÷eùapada÷akyatvàvacchedakam, aïgàïgitayoravacchedakam, ÷rutyàdãni ca ùañ aïgatve pramàõàni, tayorvirodhe balàbalam, virodha÷ca kvàsti kva nàstãtyàdi // 3 // 1 // #
+iti prathamaü pratij¤àdhikaraõam //#
 <B2> aj¤ànatimiradhvaüsi satyaj¤ànaprakà÷akam /
 sarvàbhãùñapradaü naumi ÷rãråpaü sundaraü mahaş // 1 // yo veda÷àstràrõavapàradç÷và yaj¤àdikarmàcaraõe 'tidakùaş /
 sadà÷ivàràdhana÷uddhacittastaü bàlakçùõaü pitaraü namàmi // 2 // ÷rãkhaõóadevaü praõipatya sadguruü mãmàüsakasvàntasarojabhàskaram /
@@ -134,15 +138,18 @@ tatra ş÷eùaş paràrthatvàdşiti uttarasåtre pa¤camyantena hetåpàdànadvàrà lakùaõas
 yena pravçttinimittena hetunà ÷eùapadaü prayàjàdiùu prayujyate, taccheùapada÷akyatàvacchedakamevetyabhipretya dvitãyapratij¤àparabhàùyàrthamàha ------- ÷eùapadeti //
 avaghàtàdikaü ÷rutyàdibhirviniyujyamànaü ÷rutaråpàvacchinnodde÷yatàbàdhena sarveùu viniyujyate uta tadabhàvenetyarthakatçtãyapratij¤àparabhàùyasya tàtparyàrthaü dar÷ayati --------- aïgàïgitayoriti //
 etattàtparyeõànyadapyupodghàtàdineti bhàùyasåcitaü pratij¤àntaramàha -------- virodha÷ceti //
-àdipadena virodhàvirodhavicàraprasaktànuprasaktyà kariùyamàõavicàrasya saügrahaş //#
+àdipadena virodhàvirodhavicàraprasaktànuprasaktyà kariùyamàõavicàrasya saügrahaş //#
+
 iti prathamaü pratij¤àdhikaraõam //#
-------------- #<B1># (2 adhikaraõam)(a.3 pà.1 adhi.2)  
+------------- #
+<B1># (2 adhikaraõam)(a.3 pà.1 adhi.2)  
 
 
 ÷eùaş paràrthatvàt  / Jaim_3,1.2 /
 
 
-#ihàdyaü prakàradvayaü niråpyate /
+#
+ihàdyaü prakàradvayaü niråpyate /
 yadeva hi aïgatvalakùaõaü tadeva ÷eùapada÷akyatàvacchedakaü nànyat /
 tatràïgatvaü nàma pàràrthyam /
 tacca yadudde÷apravçttakçtikàrakatvena vihitaü yattatvaü tadaïgatvam /
@@ -156,7 +163,8 @@ lakùaõe tàdç÷yà evodde÷yatàyà vivakùitatvàt /
 udde÷yatàpadenaiva ca karmakàrakalàbhàt kàrakapadaü tadatiriktaparam /
 kçùyàderapi yàgakçtikàrakatvàdaïgatvaprasaktau vidheyatvàntam /
 yathàcàsya na kvàpyavyàptyativyàptã tathà kaustubhe vistaraş /#
-evaü ca yatredaü na lakùaõaü, yathà yàgàderbhàvanàdi prati, tatra bhàkto 'ïgatvavyavahàraş #÷àstre /
+evaü ca yatredaü na lakùaõaü, yathà yàgàderbhàvanàdi prati, tatra bhàkto 'ïgatvavyavahàraş #
+÷àstre /
 yadyapi ca nedç÷amaïgatvaü ÷rutyàdipramàõakaü, kàrakatvamàtràbhidhàyitvàt tçtãyàdeş /
 tathàpi yatpadàrthaş svargàdipadàt, tadudde÷yakatvaü saüsargàdinà, kçtiràkhyàtàt, kàrakatvaü tçtãyàdeş, vidhyanvayitvaü vidhipadasamabhivyàhàràt /
 vidhirhi vi÷iùñabhàvanàü vidadhadarthàdvi÷eùaõànyapi vidhatte iti sarveùàmudde÷yatvena vidheyatvena và vidhyanvayaş /
@@ -164,41 +172,57 @@ ataevàïgatvaghañakãbhåtapadàrthàntaràõàü pramàõàntareõa prasiddhàvapi tadghañaka
 
 // iti dvitãyaü ÷eùalakùaõàdhikaraõam   //
 
-#<B2>#  #prayàjàdau ÷eùapadavàcyatànumàne paràrthatvasya pa¤camyà hetutvàbhidhànàt tasyaiva ÷eùapada÷akyatàvacchedakatvam, arthàcca svaråpaparicàyakatvàt lakùaõatvamapãtyabhipretyàha ------- yadevahãti  #//
-#yattu upakàrakatvaü ÷eùatvaü bàdariõocyate, yacca yena vinà yanna bhavati sa bãjàdiraïkuràdeş ÷eùa ityevamavinàbhàvahetukaü ÷eùatvaü parairucyate, tanniràkartuü "÷eùaş paràrthatvàdi" tisåtreõa pàràrthyaråpaü ÷eùatvamuktaü jaimininà /
+#
+<B2>#  #
+prayàjàdau ÷eùapadavàcyatànumàne paràrthatvasya pa¤camyà hetutvàbhidhànàt tasyaiva ÷eùapada÷akyatàvacchedakatvam, arthàcca svaråpaparicàyakatvàt lakùaõatvamapãtyabhipretyàha ------- yadevahãti  #//
+#
+yattu upakàrakatvaü ÷eùatvaü bàdariõocyate, yacca yena vinà yanna bhavati sa bãjàdiraïkuràdeş ÷eùa ityevamavinàbhàvahetukaü ÷eùatvaü parairucyate, tanniràkartuü "÷eùaş paràrthatvàdi" tisåtreõa pàràrthyaråpaü ÷eùatvamuktaü jaimininà /
 tadvyàcaùñe --------- tatreti  //
 pa÷vaïgabhåtànàmapi prayàjagodohanàdãnàü puroóà÷apraõayanàdyupakàrakatvena tadaïgatvàpatterayuktamupakàrakatvaråpaü tallakùaõam tathà àgneyàdãnàü mitho 'vinàbhàvena parasparamaïgatvàpatteravinàbhàvalakùaõamapyayuktam, kintu pàràrthyamevetyarthaş  #//
-#nanu kimidaü paràrthatvaü nàma? tadyadi parodde÷apravçttakçti samavàyitvaü tadàcetane yàgàdàvavyàptiş, yaditåktakçtisàdhyatvaü tadà de÷akàlakartràdàvavyàptiş /
+#
+nanu kimidaü paràrthatvaü nàma? tadyadi parodde÷apravçttakçti samavàyitvaü tadàcetane yàgàdàvavyàptiş, yaditåktakçtisàdhyatvaü tadà de÷akàlakartràdàvavyàptiş /
 etena ------ parodde÷apravçttakçtivyàpyatvàparaparyàyamaïgatvaü pàràrthyamiti nyàyaprakà÷oktaü -------- apàstam /
 yadi tu uktakçtisaübandhitvaü tadà nimitte 'tivyàptiş /
 ataş pàràrthyasyàpi nirvacanànarhatvànna tallakùaõatvaü saübhavatãtyata àha -------- tatreti  #//
-#tadaïgatvamiti  //
+#
+tadaïgatvamiti  //
 tadudde÷yaniråpitàïgatvamityarthaş /
 kàrakatvena vidhyanvayàditi /
 kçtau kàrakatvena hetunà tadvi÷iùñakçtau vidhyanvaye satyarthàt vi÷eùaõãbhåte yàge vidhyanuprave÷ena vidhyanvayàdvihitatvaü yàge iti lakùaõasamanvaya ityarthaş //
 saptamàdye svargodde÷ena prayàjàdãnàü vidhànà÷aïkàniràkaraõapårvakaü pariplavatvaü niràkariùyate, tadanusaüdhàya lakùaõànvayaü dar÷ayati -------- pradhànodde÷eti  #//
-#dravyasya kriyànivartakatvena guõasya dravyaparicchedakatvena kàrakatayà vidhànàt karaõatvenànvayàt tatràpi tadanvayaü dar÷ayati --------- dravyeti  //
+#
+dravyasya kriyànivartakatvena guõasya dravyaparicchedakatvena kàrakatayà vidhànàt karaõatvenànvayàt tatràpi tadanvayaü dar÷ayati --------- dravyeti  //
 etacca kramasyàpi padàrthaparicchedakatvena kàrakatayà vidhànàt tasyàpyupalakùaõam   #//
-#ùaùñhãti  //
+#
+ùaùñhãti  //
 yathàdhvaryavamiti samàkhyàkalpitavidhau adhvaryoş ùaùñhyà saübandhamàtràvagame 'pi tasya kartçtve paryavasànerna kartçtayà tattatpadàrthàïgatvamityarthaş  #//
-#nimittasyànuùñhàpakatayà udde÷yatvenànvayàt nimittodde÷apravçttakçtikàrakatvena vihitatvasya yàge sattvànnimittàïgatvaü nirasitumàha ---------- nimittasyeti  #//
-#yathàcàsyeti  //
+#
+nimittasyànuùñhàpakatayà udde÷yatvenànvayàt nimittodde÷apravçttakçtikàrakatvena vihitatvasya yàge sattvànnimittàïgatvaü nirasitumàha ---------- nimittasyeti  #//
+#
+yathàcàsyeti  //
 atide÷ena prayàjàdãnàü pa÷uyàgodde÷apravçttakçtikàrakatvena vihitatve 'pi pa÷upuroóà÷e upakàramàtràkùepeõa padàrthàü÷e 'tide÷àkalpanena tadudde÷apravçttakçtikàrakatvena vidhànàbhàvànnàtivyàptiş /
 evaü godohanasya praõayanopakàrakasyàpi tadudde÷yakakçtikàrakatvàbhàvànnàtivyàptiş  #//
-#atraca kçtikàrakatvamityetàvanmàtroktau phalasyàpi karmatàsaübandhena kçtikàrakatvàt phalàïgatvàpattiş /
+#
+atraca kçtikàrakatvamityetàvanmàtroktau phalasyàpi karmatàsaübandhena kçtikàrakatvàt phalàïgatvàpattiş /
 ataş parodde÷apravçttetyarthakaü yadudde÷apravçtteti kçtivi÷eùaõam /
 phalasyaca phalaü prati paratvàbhàvàt phalodde÷apravçttapuruùakçtau karmatayà phalasya vidhyanvayena bhoktraïgatve 'pi na phalàïgatvaprasaktiş, etadevàbhipretya udde÷yatàpadenaivetyàdyuktam /
 apårvasyàpi phalodde÷apravçttakçtau karaõatvenànvayàt phalàïgatvopapattirityàdi kaustubhe draùñavyo vistara ityarthaş  #//
-#yadyapyavaghàtàdãnàmaïgatve vrãhyàdãnàü lokasiddhànàmevopàdànànna tadudde÷apravçttakçtirasti; tathàpi apårvasàdhanatvàkàreõa tadudde÷yakçtisaübhavànna kùatiş  #//
-#bhàvanàdipratãtiş kçteş kçtyantaràbhàvàt yàgasya bhàvanàü prati tasyà÷ca phalaü prati ÷abdabhàvanàyà÷ca arthabhàvanàü prati pa÷vàde÷ca kàrakaü prati kàrakatvasyaca kriyàü pratyaïgatvavyavahàro bhàkta ityarthaş  #//
-#yattu prakà÷akàraiş ------ bhàvanàyàş phalàïgatvàdivyavahàrasya mukhyatvasiddhau iùñodde÷yapravartanàprayojyatvaü svasveùñaü pratyaïgatvam, prayojyatva¤ca kàryatatkàryasàdhàraõam /
+#
+yadyapyavaghàtàdãnàmaïgatve vrãhyàdãnàü lokasiddhànàmevopàdànànna tadudde÷apravçttakçtirasti; tathàpi apårvasàdhanatvàkàreõa tadudde÷yakçtisaübhavànna kùatiş  #//
+#
+bhàvanàdipratãtiş kçteş kçtyantaràbhàvàt yàgasya bhàvanàü prati tasyà÷ca phalaü prati ÷abdabhàvanàyà÷ca arthabhàvanàü prati pa÷vàde÷ca kàrakaü prati kàrakatvasyaca kriyàü pratyaïgatvavyavahàro bhàkta ityarthaş  #//
+#
+yattu prakà÷akàraiş ------ bhàvanàyàş phalàïgatvàdivyavahàrasya mukhyatvasiddhau iùñodde÷yapravartanàprayojyatvaü svasveùñaü pratyaïgatvam, prayojyatva¤ca kàryatatkàryasàdhàraõam /
 pravartanàkàryaü pravçttistatkàrya¤ca yàgaphalàdi svasveùñaü pratyaïgam ------- ityuktam, tat dravyade÷akàlakartràderapi karaõatvàdhikaraõatvakartçtvàdipravçttidvàrà pravartanàjanyatvena tasyàpyaïgatvàpatteş ÷àbdabhàvanàyà àrthabhàvanàïgatvasyaivamapi durupapàdatvàt ayuktamiti vyaktaü kaustubhe //
 yadapi bhàññàlaïkàrakçtà --------- vidhyanvayinyàü kçtau yadviùayatvànupapattiryadudde÷yakatvena parihriyate tat tasyàïgaü tadarthamiti ------- uktam, tanna; kàlasaübandhabodhakavàkye kàlàdivçttikçtaviùayatvànupapattiparihàrasya karmodde÷yatvenàpyasaübhavàdeva kàlodde÷ena karmaõa eva kçtiviùayatvàïgãkàreõa karmaõaş kàlàïgatvàpattyà kàlasya karmàïgatvànàpatteş /
 asmanmatetu kçtiviùayatvaråpopàdeyatvasàmànàdhikaraõyena vidheyatvasyaiva autsargikasya sannidhyàdipratyabhij¤àpakapramàõasattve bàdhenopàdeyatvasamànàdhikaraõavidheyatvàsaübhave 'pi aj¤àtatadadhikaraõatvaj¤àpanena vidheyatvaü nànupapannam  #//
-#atraca vyàpàrabhedena kàrakàõàü bhedàt tadghañitàïgatvasyàpi pratipadàrthaü bhedàvagamena tattadaïgatvaü prati prayàjatvàdereva lakùyatàvacchedakatvaü såcayituü lakùaõe yattacchabdopàdànam /
+#
+atraca vyàpàrabhedena kàrakàõàü bhedàt tadghañitàïgatvasyàpi pratipadàrthaü bhedàvagamena tattadaïgatvaü prati prayàjatvàdereva lakùyatàvacchedakatvaü såcayituü lakùaõe yattacchabdopàdànam /
 kçtikàrakatvena vidhyanvayitvaråpapàràrthyasya ÷rutyàdipramàõàni vinà vaktuma÷aktestànyapyarthàdiha upakùiptànãti dhyeyam  #//  //
 iti dvitãyaü ÷eùalakùaõàdhikaraõam   //
-#--------------# <B1> #(3 adhikaraõam / ) (a.3 pà.1 adhi.3)#
+#
+--------------# <B1> #
+(3 adhikaraõam / ) (a.3 pà.1 adhi.3)#
 
 
 dravyaguõasaüskàreùu bàdariş  / Jaim_3,1.3 /
@@ -210,20 +234,23 @@ vidheş svaråpayogyatvenaiva liïarthatayà iùñasàdhanatvànàkùepakatvàt /
 àkùepakatve 'pi bhramapramàsàdhàraõyeneùñasàdhanatvaj¤ànasyaiva kàraõatayeùñasàdhanatvasiddhau pramàõàbhàvàcca /
 svargakàmapadasya tu strãkàmaş pràya÷cittaü kuryàditivat kartçparatvàdinàpyupapatterna bhàvyaparatvàva÷yakatà /
 ato na yàgàderlakùyatvam /
-#vastutastu ---------- upakàrakatvameva ÷eùatvam; tadarthe 'pyapakàrake ÷eùatvavyavahàràbhàvàt /
+#
+vastutastu ---------- upakàrakatvameva ÷eùatvam; tadarthe 'pyapakàrake ÷eùatvavyavahàràbhàvàt /
 tacca ÷rutiliïgavàkyaråpapramàõatrayameva /
 ataeva vrãhyàderdravyasyàruõyàderguõasyàvaghàtàdeş saüskàrasya copakàrakatvadar÷anàccheùatvam /
 prokùaõàdisaüskàrasya tu liïgenàïgatvàsaübhave 'pi ÷rutivàkyàbhyàmaïgatvapratãtestadbalenaiva upakàrakalpanayà ÷eùatvopapattiriti teùàmeva lakùyatvamiti pràpte -----#  nopakàrakatvaü ÷eùatvam, godohanadadhyànayanàderapi praõayanavàjinayàgàïgatvàpatteş, api tu pàràrthyameva /
 apakàrakasthale tu tadapakàrasyaiveùñatvenodde÷yatà na tu tasyeti na tadarthe 'pyapakàrake ÷eùatvavyavahàraş /
 tadapi ÷rutyàdiùañpramàõagamyamiti vakùyate /
 ata÷ca vàkyàdyàgo 'pi phalaü pratyaïgam /
-#tathàhi -------- yadyapi vidheş svaråpayogyatayaiva pravçttyanukålatvaü liïàvagamyate; tathàpi kadàcit pravçttyabhàve vidhivaiyarthyàpatterava÷yaü kadàcittayà bhavitavyam /
+#
+tathàhi -------- yadyapi vidheş svaråpayogyatayaiva pravçttyanukålatvaü liïàvagamyate; tathàpi kadàcit pravçttyabhàve vidhivaiyarthyàpatterava÷yaü kadàcittayà bhavitavyam /
 tadà ceùñasàdhanatàj¤ànaü vinà tadasaübhavàttasya ca bàdhakàbhàve bhramatvàyogàdiùñasàdhanatvaü tàvadyàgasyavidhibalàdavagamyate, iùñavi÷eùasàdhanatvaü ca svargakàmàdipadasamabhivyàhàràditi yàgasya svargàïgatvasiddhiş /
 evaü phalasyàpi bhoktçpuruùàïgatvam /
 bhoktà cotsargato vidhiva÷àtkàmanàva÷àdàtmanepadava÷àcca kartaiva, pramàõasattve tvanyaş /
 atràïgatvavyavahàro bhàkta iti tu# dhyeyam /
 puruùaş punaş kartçtvàdinà yàgàdyudde÷yakakçtikàrakatvàdvàkyàdeva tadaïgaü ityavivàdameva   // 3 //
-#// iti tçtãyaü yàgaphalapuruùàõàü svargapuruùàdyaïgatàdhikaraõam   #//
+#
+// iti tçtãyaü yàgaphalapuruùàõàü svargapuruùàdyaïgatàdhikaraõam   #//
 
 <B2> atroktasya lakùaõasya lakùyapradar÷anadvàrà kaş ÷eùa ityayamaü÷o niråpyata ityabhipretyàha -------- yadyapãti  //
 nanu liïaş phalopahitapravçttyanukålavyàpàraråpapravartanàbhidhàyitvàt tayà ca phalopahitapravçtteriùñasàdhanatàj¤ànaü vinà ajananàt tadàkùepàva÷yaübhàve iùñodde÷ena sàdhanatayà vidhànasaübhavàt kathaü na yàgàderlakùyatvamityata àha -------- vidheriti  //
@@ -252,11 +279,14 @@ kartçtvàdineti //
 àdipadena audumbarãsammànàdiùu sàdhanatvena karaõatàsaügrahaş /
 pårvapakùe 'pi bàdariõà dravyàõàü ÷eùatvasyàïgãkàràt puruùasya dravyàtvenàïgatve nobhayorvivàda iti puruùa÷ca karmàrthatvàditi punaş såtrapraõayanavaiyarthyamavivàdamevetyanena såcitam //
 prayojanaü pårvapakùe prayàjàdãnàmaïgatve prakaraõàdipramàõàbhàvàt arthavàdikasya svargasya và phalatvakalpanayà pràdhànyànnàtide÷aş /
-siddhàntetu sa iti spaùñatvànnoktam //#
-iti tçtãyaü yàgaphalapuruùàõàü svargapuruùàdyaïgatàdhikaraõam //#
------------------ #<B1># (4 adhikaraõam / ) (a.3 pà.1 adhi.4)  
+siddhàntetu sa iti spaùñatvànnoktam //#
 
-#teùàm //
+iti tçtãyaü yàgaphalapuruùàõàü svargapuruùàdyaïgatàdhikaraõam //#
+----------------- #
+<B1># (4 adhikaraõam / ) (a.3 pà.1 adhi.4)  
+
+#
+teùàm //
 tadevamaïgatve niråpite 'ïgatve ÷rutyàdãni ùañ pramàõànãtyuktam /
 tatra ÷rutirnàmàïgatvaghañakãbhåtodde÷yatà --------- kçtikàrakatvayoranyatarasya pràdhànyena vàcakaş ÷abdaş /
 sa ca dvitãyàtçtãyàdivibhaktiråpaş /
@@ -269,10 +299,12 @@ ata÷codde÷yatàpadamapi naiva lakùaõe deyam /
 evaü ùaùñhyàdàvapi kàrakatva÷aktatvàbhàvàt ÷rutitvavyavahàro bhàkta eva /
 evaü yatràpi vibhaktyà lakùaõayaiva kàrakàntarapratipàdanaü, tatràpi vàkyãya eva viniyogo na ÷rautaş /
 evaü samànapada÷rutyàdiùvapi draùñavyam /
-#tadevaü ÷ruterviniyojakatve tadbhåtàdhikaraõenaiva siddhe 'dhunà gauõamukhyasàdhàraõa÷rutiviniyogopayogya- ïgàïgitayoravacchedakavicàraş kriyate /#
+#
+tadevaü ÷ruterviniyojakatve tadbhåtàdhikaraõenaiva siddhe 'dhunà gauõamukhyasàdhàraõa÷rutiviniyogopayogya- ïgàïgitayoravacchedakavicàraş kriyate /#
 dar÷apårõamàsayorvãhãnavahanti, àjyamutpunàti, gàü dogdhãtyàdaya àjyauùadhasànnàyyasaübandhinaş saüskàràş ÷rutàş /
 teùu kiü sarvasàdhàraõamavaghàtavidhàvudde÷yatàvacchedakaü utàjyàdivyàvçttaü, evamanyatràpãti vicàraş /
-#tatra na tàvacchrutaü vrãhitvàdikamevodde÷yatàvacchedakam; ànarthakyàpatteş, avaghàtaprokùaõàdivyatirekeõàpi vrãhitvàvacchinnàderjàyamànatvàt, yaveùvanàpatte÷ca /
+#
+tatra na tàvacchrutaü vrãhitvàdikamevodde÷yatàvacchedakam; ànarthakyàpatteş, avaghàtaprokùaõàdivyatirekeõàpi vrãhitvàvacchinnàderjàyamànatvàt, yaveùvanàpatte÷ca /
 ato navamàdhikaraõanyàyena vrãhitvàvivakùayàpårvasàdhanatvalakùaõàyà àva÷yakatvàttatra phalapratyàsannatvàdekatvàdàràdupakàrakeùu këptaprayojaka÷aktimattvàcca paramàpårvasya tatsàdhanatvameva pradeyaghañakatvasaübandhena lakùyate /
 asti càgneyàdestat pratyapi sàdhanatà /
 ataeva na vàïniyamanyàyo 'pi /
@@ -286,7 +318,8 @@ tattadvyàpàrakasàdhanatà eva ca vivakùyante na tu sàdhanatàvacchedakàdãnyapi /
 tena yàgatvapuroóà÷atvavrãhitvàdyabhàve 'pi na kùatiş /
 yathà ca vrãhiyavayoş kàraõatàbhede 'pi yavasàdhàraõyaü, tathà kaustubhe vistaraş /
 tatra tatra navamàdau copapàdayiùyate   // 3 // 4 //
-#// iti caturthaü nirvàpàdãnàü vyavasthitaviùayatàdhikaraõam   #//
+#
+// iti caturthaü nirvàpàdãnàü vyavasthitaviùayatàdhikaraõam   #//
 
 <B2> atra pràthamika÷rutiviniyogopayoginiråpaõasya prathamapàdàrthatvamabhipretya tçtãyapratij¤àviùayãbhåtàrtha- niråpaõàt prathamataş ÷rutilakùaõamàha ------- tatreti  //
 ata eva prokùitàbhyàmiti /
@@ -347,29 +380,43 @@ apãha sàdhanatàmàtraprave÷ena tatparihàropapattau na tadavacchedakànàü vrãhitvàd
 nacàtiprasaïgaş; vàraõasyàpi tàvataiva saübhavàt /
 eva¤ca naivàre carau yaveùuca dharmapràptiravikaletyarthaş //
 nanu vrãhiyavayoş ÷abdàntaràt guõàdvà kàraõatàbhedàt vrãhigatataõóulaniùpattivyàpàrakasàdhanatà÷rayatvàbhàve kathaü yaveùu dharmapràptiş? ataeva etàdç÷asàdhanatà÷rayatvàbhàve 'pi vikçtau nãvàrakaraõatàyàş pràkçtakàryàpattyà tadavacchinneùu nãvàreùu atide÷ena dharmalàbhe 'pi prakçtau tadabhàve na kathamapi tatpràptirityata àha --------- yathàceti  //
-yathaiva sàdhanatàmàtravivakùayà'narthakyaparihàre sati na sàdhanatàvacchedake vivakùà; gauravàt, evaü sàdhanatàsàmànyavivakùayàpi tatparihàropapattestulyatvena ÷akyasaübandhavidhayà praviùñasyàpi na sàdhanatàvi÷eùasya vivakùayà lakùyatàvacchedake udde÷yatàvacchedake và prave÷o gauravàditi sàdhanatàsàmànyà÷rayatvavivakùayà yuktà yaveùu dharmapràptirnàjyàdiùviti kaustubhe vistara ityarthaş //#
+yathaiva sàdhanatàmàtravivakùayà'narthakyaparihàre sati na sàdhanatàvacchedake vivakùà; gauravàt, evaü sàdhanatàsàmànyavivakùayàpi tatparihàropapattestulyatvena ÷akyasaübandhavidhayà praviùñasyàpi na sàdhanatàvi÷eùasya vivakùayà lakùyatàvacchedake udde÷yatàvacchedake và prave÷o gauravàditi sàdhanatàsàmànyà÷rayatvavivakùayà yuktà yaveùu dharmapràptirnàjyàdiùviti kaustubhe vistara ityarthaş //#
+
 iti caturthaü nirvàpàdãnàü vyavasthitaviùayatàdhikaraõam //#
----------------- #<B1>#  (5 adhikaraõam / ) (a.3 pà.1 adhi.5)  #dravyam //
-dar÷apårõamàsayoş, sph#ya÷ca kapàlàni ceti da÷a dravyàõyanukramyaitàni vai da÷a yaj¤àyudhànãti ÷rutena vàkyena da÷ànàpi dravyàõàü yaj¤asàdhanatvena vidhànàdutpatti÷iùña puroóà÷àdyavarodhena ca sàkùàdyàgasàdhanatvàyogàdaïgeùvavatàràt prakçtàpårvasàdhanãbhåtadra#vyasàkàïkùa÷akyakriyàtvàvacchinnodde÷ena dravyàõi vidhãyante /
+---------------- #
+<B1>#  (5 adhikaraõam / ) (a.3 pà.1 adhi.5)  #
+dravyam //
+dar÷apårõamàsayoş, sph#ya÷ca kapàlàni ceti da÷a dravyàõyanukramyaitàni vai da÷a yaj¤àyudhànãti ÷rutena vàkyena da÷ànàpi dravyàõàü yaj¤asàdhanatvena vidhànàdutpatti÷iùña puroóà÷àdyavarodhena ca sàkùàdyàgasàdhanatvàyogàdaïgeùvavatàràt prakçtàpårvasàdhanãbhåtadra#
+vyasàkàïkùa÷akyakriyàtvàvacchinnodde÷ena dravyàõi vidhãyante /
 sph#yenoddhantãtyàdivi÷eùaviniyogàstvavayutyànuvàdà iti pràpte ---------- tena tena pratyakùavidhinà tçtãyà÷rutisahakçtena sphyàdãnàü vi÷iùya viniyogàd yaj¤àyudhavàkyamevaikama÷rutavidhikaü vai -------- ÷abdopabaddhamanuvàdakam /
 bahånàmanuvàdànàü vaiyarthyàt /
-asya ca #yaj¤àyudhàni saübhavantãtyetadvidhyarthavàdatvena sàrthakatvàt /
+asya ca #
+yaj¤àyudhàni saübhavantãtyetadvidhyarthavàdatvena sàrthakatvàt /
 tasmàduddhananamàtrajanyavyàpàrakaprakçtàpårva- sàdhanatvamevoddhananapadena lakùayitvà tadudde÷enaiva sph#yàdividhiş // 3 // 5 // iti pa¤camaü ÷rautaviniyogadhikaraõam //
-#<B2>#  #pårvàdhikaraõamàrabhya triùvadhikaraõeùu saüskàradravyaguõànàmudde÷yatàvacchaidakaniråpaõena viniyogaprakàre niråpitavye pàràrthyaghañakodde÷yatàbodhakatvena pràdhànyàt dvitãyà÷rutikçtaviniyogaprakàraü pårvàdhikaraõe niråpya adhunà tçtãyà÷rutivikçtaviniyogaprakàraü dravyaviùaye niråpayitumudàharati -------- dar÷apårõamàsayoriti //
+#
+<B2>#  #
+pårvàdhikaraõamàrabhya triùvadhikaraõeùu saüskàradravyaguõànàmudde÷yatàvacchaidakaniråpaõena viniyogaprakàre niråpitavye pàràrthyaghañakodde÷yatàbodhakatvena pràdhànyàt dvitãyà÷rutikçtaviniyogaprakàraü pårvàdhikaraõe niråpya adhunà tçtãyà÷rutivikçtaviniyogaprakàraü dravyaviùaye niråpayitumudàharati -------- dar÷apårõamàsayoriti //
 pràkaraõikasarvayogyadravyamàtre nive÷àyàpårvasàdhanatàlakùaõàyai dra÷apårõamàsayorityuktam /
 itikaraõena prabhçtyarthakena ca "agnihotrahavaõãca ÷årpa¤ca kçùõàjina¤ca ÷amyà colåkhala¤ca musalaü ca dçùaccopalà ce" tyantasya saïgrahaş /
-sph#yenoddhantãtyàdãnàü vidhitvena sphyàdãnàmuddhananàdiùu viniyoge 'pi pårvatràtiprasaktalakùaõàyàü pramàõàbhàvàdvrãhimàtrajanyavyàpàrakasàdhanatàlakùaõàyàmapãha yaj¤àyudhavàkyasya tàtparyagràhakasya sattvàt atiprasaktalakùaõàyàü na bàdhakamiti vi÷eùà÷aïkàniràs#àya punaràrambhamabhipretya pårvapakùamàha ------- da÷ànàmapãti   #//
-#vai÷abdopabaddhasyàpyasyàpràptàrthakatvàt kartavyatàvàcipadàdhyàhàreõa vidhàyakatvamabhipretya vidhànàdityuktam /
+sph#yenoddhantãtyàdãnàü vidhitvena sphyàdãnàmuddhananàdiùu viniyoge 'pi pårvatràtiprasaktalakùaõàyàü pramàõàbhàvàdvrãhimàtrajanyavyàpàrakasàdhanatàlakùaõàyàmapãha yaj¤àyudhavàkyasya tàtparyagràhakasya sattvàt atiprasaktalakùaõàyàü na bàdhakamiti vi÷eùà÷aïkàniràs#
+àya punaràrambhamabhipretya pårvapakùamàha ------- da÷ànàmapãti   #//
+#
+vai÷abdopabaddhasyàpyasyàpràptàrthakatvàt kartavyatàvàcipadàdhyàhàreõa vidhàyakatvamabhipretya vidhànàdityuktam /
 àyudha÷abdasya yuddhasàdhanavàcino 'pi yaj¤apadànurodhàt sàdhanamàtraparatvalakùaõayà sàdhanatvenetyuktam /
-sph#yenoddhantãtyàdãti àdipedana #"kapàleùu ÷rapayati agnihotrahavaõyà havãüùi nirvapati ÷årpeõa vivinakti kçùõàjinamadhastàdulåkhalamavastçõàti ÷amyàü dçùadyupadadhàti ulåkhalamusalàbhyàmavahanti dçùadupalàbhyàü pinaùñã" tyantànàü saügrahaş /
+sph#yenoddhantãtyàdãti àdipedana #
+"kapàleùu ÷rapayati agnihotrahavaõyà havãüùi nirvapati ÷årpeõa vivinakti kçùõàjinamadhastàdulåkhalamavastçõàti ÷amyàü dçùadyupadadhàti ulåkhalamusalàbhyàmavahanti dçùadupalàbhyàü pinaùñã" tyantànàü saügrahaş /
 itarat spaùñàrtham /
-iha sph#yàdãnàü sarvàrthatve niràkçte caturthe punasteùàü pradeyat#vamà÷aïkya niràkriyata iti na virodhaş /
+iha sph#yàdãnàü sarvàrthatve niràkçte caturthe punasteùàü pradeyat#
+vamà÷aïkya niràkriyata iti na virodhaş /
 ubhayatràpãtyaudumbaràdhikaraõasiddhàrthavàdatvaü yaj¤àyudhavàkyasyàbhipretya anuvàdoktiriti dhyeyam /
 prayojanaü spaùñatvànnoktam  #// //
 iti pa¤camaü ÷rautaviniyogàdhikaraõam //
-#----------------# <B1> #(6 adhikaraõam / ) (a.3 pà.1 adhi.6)#  arthaikatve  //
+#
+----------------# <B1> #
+(6 adhikaraõam / ) (a.3 pà.1 adhi.6)#  arthaikatve  //
 jyotiùñome aruõayà ekahàyanyà piïgàkùyà somaü krãõàtãti ÷rutam /
-#tatràruõa÷abdo 'ruõaguõavacano 'ruõatvajàtivacano và na tu vi÷iùñavyaktivacanaş /
+#
+tatràruõa÷abdo 'ruõaguõavacano 'ruõatvajàtivacano và na tu vi÷iùñavyaktivacanaş /
 tçtãyayà ca ÷akyasyaiva karaõatvamucyate, na tu tadarthaü dravyalakùaõà /
 ñàbàdyartho 'pi tatraiva sàmànàdhikaraõyenànvãyate, na tu tadarthamapi vyaktilakùaõà; avyutpattyàpatteş /
 yathàcaivaü sati guõavacanànàmà÷rayato liïgavacanàni bhavantãtyàdyanu÷àsanopapattistathà kaustubhe draùñavyam /#
@@ -378,12 +425,14 @@ anyapadàrthe padadvayasya lakùaõeti tu bahavaş /
 naca ------- dravyasyaikenaiva padena vidhisaübhave itareõa vidhyanupapattirvaiyarthyaü ceti --------- vàcyam; ubhayoryugapatpravçttervihitavidhànàbhàvàt, guõàntaraparatvena sàrthakyàcca /
 ÷akyate tvatràpi àruõyanyàyena lakùaõàpi neti vaktum; samàsànu÷àsanasya matubàdyanu÷àsanavadupapatteş /
 dravye pàrùñhakaguõasaübandhopapàdana¤ca pramàõàntarapramitadravyamàdàyopapàdanãyamiti na ka÷cit virodhaş /
-tadihàruõyasya yogyatve 'pi kàrakatvenàvyutpannasya vàkyãyadravyàdyanvayasyàyogàdvyutpannatve 'pi càmårtatvenàyogyasya vàkyãyakriyànvayàyogàttatovicchinnasya prakaraõakalpita÷rutànumitaikade÷aniùpannena vàkyenàruõayà prakçtàpårvasàdhanãbhåtadravyaparicchedaü bhàvayedityàkareõa pràkaraõikasarvadravyàïgatvamiti pràpte ---------  #na yogyatàj¤ànaü ÷àbdabodhaheturapi tu ayogyatàni÷cayasya pratibandhakatàmàtram /
+tadihàruõyasya yogyatve 'pi kàrakatvenàvyutpannasya vàkyãyadravyàdyanvayasyàyogàdvyutpannatve 'pi càmårtatvenàyogyasya vàkyãyakriyànvayàyogàttatovicchinnasya prakaraõakalpita÷rutànumitaikade÷aniùpannena vàkyenàruõayà prakçtàpårvasàdhanãbhåtadravyaparicchedaü bhàvayedityàkareõa pràkaraõikasarvadravyàïgatvamiti pràpte ---------  #
+na yogyatàj¤ànaü ÷àbdabodhaheturapi tu ayogyatàni÷cayasya pratibandhakatàmàtram /
 ata÷ca pratibandhakatàbhàvasattve àruõyasyàpi kriyànvayabodhopapatteş /
 pa÷càcca yogyatàgaveùaõàyàmàruõyasya# pàrùñikadravyasaübandhopapatterna tato vicchedà÷aïkà /
 ataeva prathamataş somakrayàruõyàdisakalakàrakavi÷iùñabhàvanàvidhànottaraü krayasya somasaübandhavelàyàmàruõyàditrikasya matvarthalakùaõayà krayasaübandhàvagatau pa÷càdvi÷eùaõavidhitrayakalpanayà teùàü krayàïgatvàvagame jàte pa÷càtparicchedakãbhåtadravyàdyapekùàyàü parùñiko 'ruõaikahàyanyoş parasparaü vi÷eùaõavi÷eùyabhàvamàtreõa saübandho dravyavi÷eùasaübandha÷ceti draùñavyam /
 tata÷ca yuktaü krayasàdhanãbhåtaikahàyanyàmeva nive÷a àruõyasya, na tu vàsaşprabhçtiùu krayadravyàntareùu /
-#na ca yaveùviva somapràptisàdhanakrayadravyatvàvi÷eùàt pràptyà÷aïkà /
+#
+na ca yaveùviva somapràptisàdhanakrayadravyatvàvi÷eùàt pràptyà÷aïkà /
 teùàü krayàntaradravyatvàt /
 bhinnàhi guõàdatra krayàş /
 na ca vikretrànativa÷àdutpatti÷iùñadravyàvarodhe 'pi dravyàntaranive÷asaübhavaş; ekadravyànatasyaiva vikretuş saüpàdanãyatvàt /
@@ -395,12 +444,15 @@ na ca krayabhede 'pi ekasomapràptyarthatvàvi÷eùàt krayàntaradravye 'pi àruõyasya
 yathà caivaü sati trivatse sarvakrayadravyasthànàpanne nive÷astathàkaustubhe draùñavyam   // 3 // 6 //#
 
 iti ùaùñhamaruõàdhikaraõam //
-#<B2>#  #pårvaü dravyaviùaye viniyogaprakàraü niråpyàdhunà guõaviùaye tanniråpayitumudàharati ---- jyotiùñoma iti //
+#
+<B2>#  #
+pårvaü dravyaviùaye viniyogaprakàraü niråpyàdhunà guõaviùaye tanniråpayitumudàharati ---- jyotiùñoma iti //
 pårvavat pårvapakùasiddhyaupayikatayà jyotiùñoma ityuktam /
 aruõà÷abdasya dravyaparatve dravyasya krãõàtyanvayopapatteş pårvapakùàsaübhavaü nirasituü guõavacanatvaü sàdhayati ------ tatreti //
 tatràruõavyaktinànàtvapakùe aruõaguõavacana ityarthaş /
 natu vi÷iùñavyaktivacana ityàkçtyadhikaraõanyàyapravçttipradar÷anàrtham #//
-#atra pràcãnairaruõàdi÷abdànàü kevalaü guõavàcitve ÷uklo devadatta itivat aruõo ghaña iti sàmànàdhikaraõyànupapatteş råpavàn ghaña ityatreva matvarthãyenaiva sàmànàdhikaraõyàpatteràkçtyadhikaraõanyàyena guõavàcakànàmapyaruõàdi÷abdànàü niråóhalakùaõayà dravyaparatvamapi /
+#
+atra pràcãnairaruõàdi÷abdànàü kevalaü guõavàcitve ÷uklo devadatta itivat aruõo ghaña iti sàmànàdhikaraõyànupapatteş råpavàn ghaña ityatreva matvarthãyenaiva sàmànàdhikaraõyàpatteràkçtyadhikaraõanyàyena guõavàcakànàmapyaruõàdi÷abdànàü niråóhalakùaõayà dravyaparatvamapi /
 ata eva "guõavacanebhyo matupo lugiùña" iti na tatprayogàpattiş ityuktam, tanna; prayogàbhàvena sàüpratikalakùaõàyà anupapattau niråóhalakùaõàyàş sutaràmanupapatteş /
 taduktaü vàrtike ---------- niråóhalakùaõàş kà÷citsàmarthyàdabhidhànavat /
 kriyante sàüprataü kà÷citkà÷cinnaiva tva÷aktitaş /
@@ -410,15 +462,18 @@ ata eva guõavacanatve puülliïgatà /
 dravyavacanatve à÷rayaliïgavacanatetyarthakaü "guõavacanànàmà÷rayato liïgavacanàni bhavantã" tyanu÷àsanàntaramupapadyate /
 guõavacanatvamapi vi÷eùaõatvena guõa÷akyatvaparaü draùñavyam /
 itthamaruõàpadasya dravyaparatvamuktamayuktamiti såcayan tasyàïgãkàre niùprayojanatàndar÷ayati -------- tçtãyayeti #//
-#ayamarthaş ------- kiü dravyalakùaõà karaõatvànvayànupapattyà, uta liïgasaïkhyànvayànupapattyà và /
+#
+ayamarthaş ------- kiü dravyalakùaõà karaõatvànvayànupapattyà, uta liïgasaïkhyànvayànupapattyà và /
 nàdyaş; jàteriva guõasyàpi dravyaparicchedadvàrà tadupapatteranupapattyabhàvàt /
 ataeva yatra kriyàjanyaphala÷àlitvaråpakarmatvasya tadudde÷yatvaråpasaüpradànatvasyaca odanavipravçttitvàsaübhavaş; tatraiva tallakùaõà, natu tçtãyàntàdisthala ityuktamàkçtyadhikaraõe /
 nàntyaş; tasya pà÷àdhikaraõanyàyena sàdhutvamàtreõà÷rayaniùñhatayà vopapattau pràtipadike lakùaõàyàü pramàõàbhàvàt /
 ata eva sàmànàdhikaraõyasaübandhena tayoş karaõatve pràtipadikàrthevànvaye saüsargavidhayà pàrùñhikabhàvena và dravyabodhopapatternaiva lakùaõàyàstatra prayojanam; dvitãyàdisthale tadàva÷yakatve 'pãha tçtãyànte tatprayojanàbhàvàt /
 yadyetàdç÷asthale 'pi tallakùaõàïgãkriyate, tadà vi÷eùye dravye guõasyànvayàpattyà tadvi÷iùñadravyasya mårtatayaikahàyanyàdivat pàrùñhikànvayalabhyàbhedasaübandhena kraya eva nive÷opapatteş pratyuta samasyamànànekapadatatsàmànàdhikaraõyàlocanàpekùàdhikyena vilambitatvàt tena dravyavidhyanàpatterguõa÷abdenaiva dravyavidhyàpatteş krayasàdhanadravyanive÷asyaivopapattàvamårtatayà kraye tannive÷àsaübhavena pràkaraõikayogyakàrakamàtranive÷apårvapakùàsaübhave tatsamàdhànàrthàdhikaraõàrambhasya siddhànte guõasyaiva dravyaparicchedadvàrà karaõatvapratipàdanasyaca vaiyarthyàpattiş, tathà caturàdi÷abdànàmapi saïkhyàvi÷iùñamuùñiparatvàpattau jaghanyàyà api muùñeş pradhànatvena tadanurodhasyaivàpattau mukhyatvena saptada÷a÷aràve carau saïkhyànugrahasya vakùyamàõasyànàpatti÷cetyato guõamàtraparatvameveti  #//
-#avyutpattyàpatteriti  //
+#
+avyutpattyàpatteriti  //
 liïgasaïkhyàdãnàü vi÷eùye kàrake sàmànàdhikaraõyasaübandhena karaõatvevànvayasya vyutpannasya tyàgena dravye 'nvayàïgãkàreõa dravyalakùaõàyàü vyutpattyantarakalpanàpatterityarthaş  #//
-#nanu kevalaguõavàcitve kathaü guõavacanebhyo matupo lugiùño guõavacanànàmà÷rayata ityanu÷àsanadvayasyopapattiş? tatra guõinamuktvà guõavàcakà ye teùàmeva ÷uklàdi÷abdànàü guõavacanapadena grahaõena guõiparatvàva÷yakatvàdityata àha ------- yathàcaivamiti  //
+#
+nanu kevalaguõavàcitve kathaü guõavacanebhyo matupo lugiùño guõavacanànàmà÷rayata ityanu÷àsanadvayasyopapattiş? tatra guõinamuktvà guõavàcakà ye teùàmeva ÷uklàdi÷abdànàü guõavacanapadena grahaõena guõiparatvàva÷yakatvàdityata àha ------- yathàcaivamiti  //
 àdyànu÷àsanasya yatra lakùaõàprasaktiş tatparatvam, dvitãye sva÷akyàrthavi÷iùñavyaktiviùayakalakùaõàvçttiyogye yatprakàratayà vyakteranvayastadarthakaü guõapadamiti tasyaiva guõavacana÷abdenopàdànamiti dvayoranu÷àsanayorupapattiş /
 atra yogyàntamàtravivakùàyàü ajàyàş ÷ukla ityàdàvapi ñàbàdyàpattiş; tasyatadà lakùakatvàbhàve 'pi araõyasthadaõóavadyogyatvasya sattvàt, atastadvyàvçttyarthamanvaya iti /
 ataeva tatrà÷rayagataliïgàbhàve 'gaõe ÷uklàdayaş puüsã' tyanena sàdhutvàrthaü puülliïgameva niyamyate /
@@ -426,37 +481,48 @@ råpamastãtyàdau prakàratayà dravyànanvayàdàdyam /
 tatra tàdç÷ayogyatàyà abhàvàt /
 ata÷ca vyaktilakùaõàbhàvepi yalliïgadravyaparicchedadvàrà guõasya karaõatvaü, tadgatastrãtvenaiva ñàbàdyutpatteş aruõà÷abdasyàtra guõaparatvameveti kaustubhe draùñavyamityarthaş /
 etacca aruõaikahàyanã÷abdayoş pràcãnoktavailakùaõyaniràsatàtparyamàtreõa draùñavyam  #//
-#vastutastu --------- pacatãtyatra ekatvasya sàmànàdhikaraõyasaübandhena bhàvanànvane saüsargavidhayà bhàtasya kartuş pacatãtyasmàt eko naveti saü÷ayavyudàsasiddhadharmitàvacchedakavi÷iùñadharmij¤ànàva÷yakatvàya lakùaõà tatra påjyapàdairuktà, tathehàpyaruõàpadàt jàyamànasaü÷ayavyudàsàya dravyalakùaõàva÷yakyeva; tàvatàpi dravyasya karaõatayà pràptervi÷eùaõàü÷asya guõasyaiva karaõatvàva÷yakatve tatràmårtatvàdinà kriyànanvayamàpàdya pårvapakùaş tathà ekahàyanyàdipadayorapyavi÷iùña eva sa iti dhyeyam //
+#
+vastutastu --------- pacatãtyatra ekatvasya sàmànàdhikaraõyasaübandhena bhàvanànvane saüsargavidhayà bhàtasya kartuş pacatãtyasmàt eko naveti saü÷ayavyudàsasiddhadharmitàvacchedakavi÷iùñadharmij¤ànàva÷yakatvàya lakùaõà tatra påjyapàdairuktà, tathehàpyaruõàpadàt jàyamànasaü÷ayavyudàsàya dravyalakùaõàva÷yakyeva; tàvatàpi dravyasya karaõatayà pràptervi÷eùaõàü÷asya guõasyaiva karaõatvàva÷yakatve tatràmårtatvàdinà kriyànanvayamàpàdya pårvapakùaş tathà ekahàyanyàdipadayorapyavi÷iùña eva sa iti dhyeyam //
 yattu -------- aruõatvajàtiparatve tayà saha guõe samavàyasaübandhasaübhavena lakùaõayà guõaparatvasaübhave 'pi dravye tadabhàve vyaktilakùaõànupapattyà dravyaparasàmànàdhikaraõyànupapattiriti somanàthãye uktam, tat na manoharam; nãlo ghaña ityàdisàmànàdhikaraõyapratãtau nãlapadasya nãlaråpà÷rayadravyasaüyuktatvasaübandhena nãlapadavyaktilakùaõàvat ihàpi svà÷rayasamavàyasaübandhena jàtiparasyàpi lakùaõayà tadupapatteş samànatvàt /
 ata eva nãlaü råpamiti pratãternãlaråpatvajàteş samavàyena vidyamànàyàş pravçttinimittatvà÷rayaõaü tathaiva tasyà eva jàteş paraüparàsaübandhena ghañàdàvapyaïgãkàre bàdhakàbhàvena muïkhyayaiva vçttyà prayoga upapàdito nakùatravàdàvalyàü mãmàüsakamårdhanyena /
 tadà ko doùaş paraüparàsaübandhena lakùaõà÷rayaõa iti dik  #//
-#atra såtre dravyaguõayoraikakarmyàdityupàdànàdàva÷yakaü piïgàkùyàdi÷abdànàü dravyaparatvamupapàdayituü matvartheneva bahuvrãheş dravyàbhidhànenaiva àntaràlikasaübandhabhànasiddheranyalabhyatvena tatra ÷aktiü kalpayitvà dravyaparatvameva matupa iva bahuvrãherapyà÷rãyate /
+#
+atra såtre dravyaguõayoraikakarmyàdityupàdànàdàva÷yakaü piïgàkùyàdi÷abdànàü dravyaparatvamupapàdayituü matvartheneva bahuvrãheş dravyàbhidhànenaiva àntaràlikasaübandhabhànasiddheranyalabhyatvena tatra ÷aktiü kalpayitvà dravyaparatvameva matupa iva bahuvrãherapyà÷rãyate /
 taduktaü vàrtike ------ "sarvatra yaugikaiş ÷abdairdravyamevàbhidhãyate /
 nahi saübandhavàcyatvaü saübhavatyatigauravàt" iti /
 tatràpi citragurityevamàdiùu citrago÷abdayoratyantavyatiriktàrthàbhidhàyitvàt devadattàdipadaiş sàmànàdhikaraõyàyogàt pràgapi devadattàdipadàdanyapadàrthapratãtervàkyàrthatvàsaübhavenànyapadàrthe ÷aktireva /
 lakùaõàpakùe bahuvrãheraruõa÷abdasya caikàntaritadravyalakùakatvàü÷àvi÷eùe hi kiü vinigamakam yadbahuvrãhereva dravyàbhidhàyità nàruõapadasyeti, ato 'nyapadàrthe ÷aktiş /
 naca ------- indrapãta÷abde pårvapakùe bahuvrãhàvanyapadàrthalakùaõàpattidåùaõàprasakteş ùaùñhãtatpuruùàpekùayà daurbalyàsaübhavena kathaü pårvapakùotthànaü? iti ------- vàcyam; ùaùñhãtatpuruùe bahuvrãhauca ekasyaivottarapadàrthe anyavàkyàrthe cànvayasàmye 'pi ùaùñhãtatpuruùe ekasyaiva tyàgaş, bahuvrãhau tu ubhayoriti vaiùamyeõa tadapekùayà tasya daurbalyasiddheş  #//
-#etena -------- bahuvrãdàvanyapadàrthasya ÷akyatve vidyàprayuktyabhàvakçtalàghavàt niùàdasthapati÷abde karmadhàrayatyàgena bahuvrãhyà÷rayaõàpattirityapi --------- apàstam; karmadhàraye ÷rutapadàrthànàü sarveùàmeva vàkyàrthànvayaş, bahuvrãhàvekaikasyànvaya iti vaiùamyamàtreõa daurbalyopapatteş /
+#
+etena -------- bahuvrãdàvanyapadàrthasya ÷akyatve vidyàprayuktyabhàvakçtalàghavàt niùàdasthapati÷abde karmadhàrayatyàgena bahuvrãhyà÷rayaõàpattirityapi --------- apàstam; karmadhàraye ÷rutapadàrthànàü sarveùàmeva vàkyàrthànvayaş, bahuvrãhàvekaikasyànvaya iti vaiùamyamàtreõa daurbalyopapatteş /
 ato yadyapi citràş gàvo yasyeti vigraho loke prasiddhaş; tathàpi ràjapuruùa iti ùaùñhãtatpuruùe ùaùñhyantapratipàdye upasarjanatvasya prathamàntapratipàdyàrthe pradhànatvasyeva prathamàntanirdiùñànàü citragavãõàmeva pràdhànyàpattyànyapadàrthadravyapràdhànyapratãtibhaïgàpatteş citràõàü gavàmayamityevaü vigraheõa anyapadàrtha÷akterekahàyanyàdi÷abdànàü bahuvrãhitvàt dravyaparatvamiti pràcàü matamàha ----- ekahàyanyàdãti  #//
-#kçttaddhitàdisthale ekenaiva itarasyàkùepasiddheraneka÷aktikalpanàparihàràya pradhànenaiva guõabhåtasya loke àkùepadar÷anàt liïgasaïkhyànvayayogyadravyasyaiva sattvapadavàcyatvena pràdhànyena tatraiva ÷aktirna vi÷eùaõãbhåtasaübandhe tasyàkùepàdeva bhànasiddheş  //
+#
+kçttaddhitàdisthale ekenaiva itarasyàkùepasiddheraneka÷aktikalpanàparihàràya pradhànenaiva guõabhåtasya loke àkùepadar÷anàt liïgasaïkhyànvayayogyadravyasyaiva sattvapadavàcyatvena pràdhànyena tatraiva ÷aktirna vi÷eùaõãbhåtasaübandhe tasyàkùepàdeva bhànasiddheş  //
 ataeva tçtãyàntejàterdvitãyàntàdisthaleca vyakte÷ca pràdhànyadar÷anàt niyàmakàbhàve àkçtyadhikaraõanyàyapravçttyà jàtereva vàcyatvaü vyakteràkùepalabhyatvameva /
 eva¤ca kçdantàdestu na vi÷eùaõe ÷aktiş, apitu dravya eva  #//
-#ataeva sarvatreti vàrtikamapyetàdç÷aviùaya eva vi÷eùaõãbhåtasaübandhàdi÷aktiniràkaraõaparaü sat yatra yaugakasthale kçdàdivàcakàntarasattvaü tadviùayameva  #//
-#yatratu bahuvrãhyàdau navàcakàntarasattvaü tatra yaùñãş prave÷ayetyàdàviva padadvayasyaiva svàrthavi÷iùñànyapadàrthe anyapadàrthamàtre và niråóhalakùaõopapattau atirikta÷aktikalpane mànàbhàvaş; ananyalabhyasya ÷abdàrthatvàt  //
+#
+ataeva sarvatreti vàrtikamapyetàdç÷aviùaya eva vi÷eùaõãbhåtasaübandhàdi÷aktiniràkaraõaparaü sat yatra yaugakasthale kçdàdivàcakàntarasattvaü tadviùayameva  #//
+#
+yatratu bahuvrãhyàdau navàcakàntarasattvaü tatra yaùñãş prave÷ayetyàdàviva padadvayasyaiva svàrthavi÷iùñànyapadàrthe anyapadàrthamàtre và niråóhalakùaõopapattau atirikta÷aktikalpane mànàbhàvaş; ananyalabhyasya ÷abdàrthatvàt  //
 ataeva yatra kçdàdàvapi prakçtipratyayàrthe lopo yathodbhidadhunetyàdau tatràva÷iùñabhàgasya tallakùakatvamiùñameva, na tvatiriktà ÷aktiş  #//
-#naca bahuvrãheranyapadàrtha÷aktatvàbhàve aruõàpadàdavi÷eùàpattyà såtre dravyaguõayoriti nirde÷ànupapattiş; asmanmate niråóhalakùaõàtadabhàvàbhyàmeva vi÷eùasiddheş /
+#
+naca bahuvrãheranyapadàrtha÷aktatvàbhàve aruõàpadàdavi÷eùàpattyà såtre dravyaguõayoriti nirde÷ànupapattiş; asmanmate niråóhalakùaõàtadabhàvàbhyàmeva vi÷eùasiddheş /
 eva¤ca padadvaye lakùaõàïgãkàràdeva tatpuruùàpekùayà sutaràü karmadhàrayàpekùayà daurbalyaü siddhaü bhavati /
 ataevaindrapãtàdhikaraõe pårvapakùaprasàdhanàya bahuvrãhàvanyapadàrthalakùaõàpattiş siddhànte dar÷ità, siddhàntepica ÷aktyà parihàramanabhidhàya hutàhutasamudàyavàcinaş indrapãta÷abdasya tadavayave lakùaõàpattimàtrameva pårvapakùadåùaõatvena dar÷itamiti //
-naiyàyikàdibahusaümataü pakùàntaramàha -------- anyapadàrtha iti#  #yattu prakà÷akàraiş -------- bahuvrãhàvanyapadàrthalakùaõàyàü paüïkajàdipadeùvapi tadàpattau yogaråóhyucchedaprasaïgàt tadvadihàpi ÷aktirevetyuktaü taddåùaõaü kaustubhe draùñavyam  #//
-#vastutastu -------- aruõàpadavadeva ekahàyanyàdipadànàmapi àkçtyadhikaraõanyàyena ekahàyanàdiråpavi÷eùaõavàcitvameva; tasyàpyàruõyavat dravyaparicchedadvàrà karaõatvopapatteş /
+naiyàyikàdibahusaümataü pakùàntaramàha -------- anyapadàrtha iti#  #
+yattu prakà÷akàraiş -------- bahuvrãhàvanyapadàrthalakùaõàyàü paüïkajàdipadeùvapi tadàpattau yogaråóhyucchedaprasaïgàt tadvadihàpi ÷aktirevetyuktaü taddåùaõaü kaustubhe draùñavyam  #//
+#
+vastutastu -------- aruõàpadavadeva ekahàyanyàdipadànàmapi àkçtyadhikaraõanyàyena ekahàyanàdiråpavi÷eùaõavàcitvameva; tasyàpyàruõyavat dravyaparicchedadvàrà karaõatvopapatteş /
 ataeva yatra dvitãyàntàdisthale tadasaübhavastatparameva matuppratyayànu÷àsanavat bahuvrãhyanu÷àsanamiti nadravye ÷aktirlakùaõà và svãkàryà /
 sautraü dravyapada¤ca pramàõàntarapramitadravyapàrùñhikasaübandhapratipàdanatayàpyupapatt imadityabhipretya svasaümataü pakùàntaramàha -------- ÷akyatetviti /
 pramàõàntarapramiteti  //
 gavà te krãõàtãtimantraliïgàvagatagoråpadravyamàdàyetyarthaş  //
 asmiü÷ca pakùe amårtatvàvi÷eùàt sarveùàmeva vicàraviùayiteti bhàvaş  #//
-#evaü prakçtavicàropayuktaü prasàdhya ÷àbdabodhatvàvacchinnaü prati yogyatàj¤ànasya hetutvàt amårtasyàruõyasya krayabhàvanànvayàyogyatvàt tatrànive÷ena vàkyãyànvayaü bàdhitvà "vihitastu sarvadharmaş syàt saüyogato vi÷eùàt prakaraõàvi÷eùà" diti teùàmarthàdhikaraõapårvapakùasåtratvena à÷ritya pràkaraõikasarvadravyàrthatvapårvapakùaü sàdhayituü yogyatayà vàkyãyadravyànvayasaübhavaü nirasyati -------- tadiheti  //
+#
+evaü prakçtavicàropayuktaü prasàdhya ÷àbdabodhatvàvacchinnaü prati yogyatàj¤ànasya hetutvàt amårtasyàruõyasya krayabhàvanànvayàyogyatvàt tatrànive÷ena vàkyãyànvayaü bàdhitvà "vihitastu sarvadharmaş syàt saüyogato vi÷eùàt prakaraõàvi÷eùà" diti teùàmarthàdhikaraõapårvapakùasåtratvena à÷ritya pràkaraõikasarvadravyàrthatvapårvapakùaü sàdhayituü yogyatayà vàkyãyadravyànvayasaübhavaü nirasyati -------- tadiheti  //
 yatra agnihotrahavaõyeti vàkye lyuóuktakaraõãbhåtasya dravyasya svavàkyopàttanirvàpaü prati yogyatà tatra tasyà nirvàpàïgatvasaübhave 'pi iha kàrakatvena dravye amårtatvena krayabhàvanàyàü và anvayàsaübhavàt na tadaïgatvam, apitu ÷rutivàkyayoraudàsãnye satyadhikàràkhyaprakaraõena jyotiùñomopasthitau yogyatayà tadãyadravyaparicchedakatvena vidhivàkyaü dravyavàcakapada¤ca prakalpya tadvidhànàt sarvayogyakàrakatvamiti na kevalaü pràkaraõikakaraõakàrakàïgatvamàtram, kintu tatsàdhàraõyena kartràdikàrakàïgatvamityarthaş  #//
-#yattu vàrtike --------- siddhasyàruõyasya prakaraõàgrahaõamà÷aïkya aruõayeti tçtãyayà pràkaraõikàni jyotiùñomàpårvasàdhanàni somaprabhçtãnyanådya aruõapràtipadikàrtho vidhãyate /
+#
+yattu vàrtike --------- siddhasyàruõyasya prakaraõàgrahaõamà÷aïkya aruõayeti tçtãyayà pràkaraõikàni jyotiùñomàpårvasàdhanàni somaprabhçtãnyanådya aruõapràtipadikàrtho vidhãyate /
 "ata÷ca padamevaitadvàkyenaivaü vibhajyate /
 yà vyaktiş karaõatvena coditàpårvasàdhanam /
 tayà tatsàdhayennityamaruõatvavi÷iùñayà /
@@ -464,12 +530,15 @@ eva¤cedaruõaü kàryakaraõaü yadgçhàdyapi /
 yatpunaryajamànàdivihitaü kàrakàntaram /
 na tasyàyaü guõaş ÷eùaş sarvàrthopyavadhàritaş" /
 ityuktam; tat tçtãyayà lakùaõayà dravyopàdàne ekahàyanyà eva lakùaõàpatteş paraüparàsaübandhena svavàkyopàttakrayànvayasaübhavàdekaprasaratàbhaïgàpatte÷càyuktami ti vyaktaü kaustubhe  #//
-#etena --------- ekahàyanyàdipadànàü dravyaparatvàt ÷rautatadavaruddhe kraye aruõàpadalakùyadravyavidhyasaübhava iti ÷àstradãpikoktaü -------- apàstam; balàbale satyapi vastuta ekatvena virodhàbhàvàt /
+#
+etena --------- ekahàyanyàdipadànàü dravyaparatvàt ÷rautatadavaruddhe kraye aruõàpadalakùyadravyavidhyasaübhava iti ÷àstradãpikoktaü -------- apàstam; balàbale satyapi vastuta ekatvena virodhàbhàvàt /
 ataş pårvoktarãtyà yogyasarvakàrakàïgatvamityarthaş  #//
-#na ÷àbdabodhatvàvacchinnaü prati yogyatàj¤ànasya kàraõatvam; tadabhàve 'pyayogyatàni÷cayàbhàvada÷àyàü gçhãtapadapadàrthasaüketasya ÷àbdabodhodayàt /
+#
+na ÷àbdabodhatvàvacchinnaü prati yogyatàj¤ànasya kàraõatvam; tadabhàve 'pyayogyatàni÷cayàbhàvada÷àyàü gçhãtapadapadàrthasaüketasya ÷àbdabodhodayàt /
 anyathà yàgasyàpi svargànvaya÷àbdabodhànudayena apårvakalpanànàpatteş, kintvayogyatàvi÷cayaş pratibandhakaş iti tadabhàvasya kàraõatvena prakçte 'pi tàvanmàtreõa krayabhàvanàyàmapårvasyàpyanvayopapatteş tadãyadravyàïgatvamevetyabhipretya siddhàntamàha ---------- na yogyateti /
 pa÷càcceti  #//
-#àruõyasya kriyànvayàt pårvaü dravyànvaye kàrakatvavyàghàtàpatteş prathamato dravyaparicchedaråpavyàpàrànavagame 'pi uktasàmagrãva÷àdekahàyanãkrayasomàdikàrakàntaravadeva bhàvanayà saübandhe sati vi÷iùñavidhànena vidheyànekatvakçtavàkyabhedaparihàreõa pa÷càt krayasya somaniråpitakaraõatvabodhada÷àyàü bhàvanàpratyàsannatvàdekahàyanãvanmatvarthalakùaõayà krayasaübandhena dravyasaübandhàbhàve 'pi guõasya dravyaparicchedakatvaråpavyàpàramantareõa karaõatvànirvàhàt yogyatayà tasminnavagate dravyavi÷eùàpekùàyàü sàmànàdhikaraõyàt ekahàyanãyadravyavi÷eùapratãtisiddhiş /
+#
+àruõyasya kriyànvayàt pårvaü dravyànvaye kàrakatvavyàghàtàpatteş prathamato dravyaparicchedaråpavyàpàrànavagame 'pi uktasàmagrãva÷àdekahàyanãkrayasomàdikàrakàntaravadeva bhàvanayà saübandhe sati vi÷iùñavidhànena vidheyànekatvakçtavàkyabhedaparihàreõa pa÷càt krayasya somaniråpitakaraõatvabodhada÷àyàü bhàvanàpratyàsannatvàdekahàyanãvanmatvarthalakùaõayà krayasaübandhena dravyasaübandhàbhàve 'pi guõasya dravyaparicchedakatvaråpavyàpàramantareõa karaõatvànirvàhàt yogyatayà tasminnavagate dravyavi÷eùàpekùàyàü sàmànàdhikaraõyàt ekahàyanãyadravyavi÷eùapratãtisiddhiş /
 astica dvayorapi dravyaguõayoş parasparàkàïkùeti parasparasàhityàttayorniyamaş /
 yadyapi kevalaguõavàcitvapakùe bhinnapravçttinimittànàü ÷abdànàmekasminnarthe pravçttyasaübhavàt naikahàyanãpadasàmànàdhikaraõyaü saübhavati; tathàpi mukhyasyàsaübhave 'pi dravyaparicchedadvàrà guõasya karaõatvenànvaye tasya guõiniùñhatvàvagamàt guõaguõinorabhedopacàreõa tatsaübhavàdubhayorekakriyànvaye parasparàkàïkùayà tatkrayasàdhanaikahàyanãråpadravyaparicchedakatvaü nànupapannam /
 ataeva pàrùñhikànvayasamarthanànantaram "eva¤ca vàkyagatamapi sàmànàdhikaraõyaü samarthitaü bhavatã" tyuktaü vàrtike /
@@ -478,16 +547,21 @@ tattu vi÷eùaõavidhikalpanayà krayaü pratyevetyevamekavàkyatvasaübhave na vàkyabh
 nacaitàvatà dravyopakàritayà dravyàïgatvam; dravyasyàpi paricchedyatayà guõopakàrakatvena vaiparãtyasyàpyàpatteş /
 ataş ÷rutyàtra vàkyabàdhenaü krayàïgatvameveti bhàvaş /
 eva¤ca ekahàyanãpadasàmànàdhikaraõyàdekahàyanãdravyaparicchedadvàraniyame sati na krayadravyàntareùu tasya nive÷a ityàha ---------- ata÷ceti  #//
-#nanu yanmate krayaikatvaü tanmate apårvasàdhanãbhåtadravyapràptyanukålavyàpàrasàdhanatvàvi÷eùàt vàsaşprabhçtiùvapi àruõya pràptyàpattirityà÷aïkàü nirasyati --------- naceti  //
+#
+nanu yanmate krayaikatvaü tanmate apårvasàdhanãbhåtadravyapràptyanukålavyàpàrasàdhanatvàvi÷eùàt vàsaşprabhçtiùvapi àruõya pràptyàpattirityà÷aïkàü nirasyati --------- naceti  //
 bhinnà hãti  #//
-#"ajayà krãõàtã"ti vàkyavihitakrayodde÷enàruõàvàkye anekaguõavidhàne vàkyabhedàpattestatra vi÷iùñavidhyaïgãkàreõa krayotpattàvàva÷yikàyàü tatraikahàyanyavaruddhe kraye ajàdinive÷àyogàt guõàt yàvaddravyaü bhinnakrayaş, natu bhaññasome÷varoktarãtyà ekaş kraya iti tattadvyàpàrakasàdhanatànàü naikahàyanãdharmatvapràptirityarthaş  #//
-#utpatti÷iùñànàmapi guõànàmekavikretànativa÷àtsamuccayopapattau virodhàbhàvànna bhedakateti taduktopapattimà÷aïkya niràkaroti -------- naceti /
+#
+"ajayà krãõàtã"ti vàkyavihitakrayodde÷enàruõàvàkye anekaguõavidhàne vàkyabhedàpattestatra vi÷iùñavidhyaïgãkàreõa krayotpattàvàva÷yikàyàü tatraikahàyanyavaruddhe kraye ajàdinive÷àyogàt guõàt yàvaddravyaü bhinnakrayaş, natu bhaññasome÷varoktarãtyà ekaş kraya iti tattadvyàpàrakasàdhanatànàü naikahàyanãdharmatvapràptirityarthaş  #//
+#
+utpatti÷iùñànàmapi guõànàmekavikretànativa÷àtsamuccayopapattau virodhàbhàvànna bhedakateti taduktopapattimà÷aïkya niràkaroti -------- naceti /
 anyatheti  //
 vaikçtadakùiõàbhiş pràkçtadakùiõànàü prasaïgabàdhau vakùyete /
 tatràpi çtvigànativa÷àt samuccayopapattau tadanupapattyàpattirityarthaş  #//
-#naca guõàtkrayabhede 'pi dravyàõàü dharmigràhakapramàõena svasvabhedakakrayavyavasthayà nive÷e 'pi àruõyasyàviruddhadharmàntarabahuprayojakasattvàt dravyàntare nive÷o 'nirvàrya ityà÷aïkya pariharati -------- naca krayabhede 'pãti  //
+#
+naca guõàtkrayabhede 'pi dravyàõàü dharmigràhakapramàõena svasvabhedakakrayavyavasthayà nive÷e 'pi àruõyasyàviruddhadharmàntarabahuprayojakasattvàt dravyàntare nive÷o 'nirvàrya ityà÷aïkya pariharati -------- naca krayabhede 'pãti  //
 aviruddhadharmàntaràõàü tu vàkyàntarãyatvàt avàntaraprakaraõena sarvakrayàïgatvamiti ÷eùa ityarthaş  #//
-#nanu sarvakrayadravyasthànàpanne trivatse ekahàyanãråpadvàràbhàvàdàruõyapràptyanàpattiş; prakçtàvekahàyanãdvàrakatvasya vivakùitatvàt /
+#
+nanu sarvakrayadravyasthànàpanne trivatse ekahàyanãråpadvàràbhàvàdàruõyapràptyanàpattiş; prakçtàvekahàyanãdvàrakatvasya vivakùitatvàt /
 nahi tatraikahàyanyudde÷yà yena tatsvaråpamànarthakyabhiyà na vivakùyate /
 tçtãyayà krayaü prati aïgatvena tasyàş dvàramàtratvàt /
 nahi dvàrasvaråpe ànarthakyam; dvàràbhàve udde÷yasadbhàvamàtreõa dharmapràptau kçùõaleùvavaghàtàpattirityata àha ---------- yathàcaivamiti //
@@ -497,12 +571,15 @@ ataeva puroóà÷àbhàve 'pi yàgàïgabhåtavrãhãõàü caruprakçtitvasiddhiş /
 ki¤ca dvàrasyàpyàruõyasya na tattvenàvacchedakatà, apitu prakçtakrayasàdhanaguõatvena /
 ataeva ÷vetàdiguõàntarasàdhyakrayasthalepyekahàyanãparicchedakatvàvirodhastatra kimu vaktavyam dvàrasya tattvena dvàrateti yuktà tatra dharmapràptiriti kaustubhe draùñavyamiti /
 prayojanaü spaùñatvànnoktam  //# // / iti ùaùñhamaruõàdhikaraõam //
-#--------------# <B1> #(7 adhikaraõam / ) (a.3 pà.1 adhi.7)#  ekatvayuktam //
+#
+--------------# <B1> #
+(7 adhikaraõam / ) (a.3 pà.1 adhi.7)#  ekatvayuktam //
 jyotiùñomàdiùu grahaü saümàrùñãtyàdi ÷rutam /
 tatra saümàrgàdi prati grahatvavadekatvasyàpi udde÷yatàvacchedakatà, uta tasyaiva sà, ekatvaü tu kathamapi vidhyanvayàsaübhavàdavivakùitamiti /
 cintàyàm /
 pa÷vekatvavad grahaikatvasyàpi avivakùàkaraõàbhàvàdudde÷yatàvacchedakatà /
-ata÷caikasyaiva grahasya saümàrga iti pràpte --------  #yatra hi samàsàdau parasparànvayo vyutpanno yathà÷vàbhidhànãü yatki¤citsomaliptamityàdau, tatra bhavatyeva vi÷iùñodde÷aş /
+ata÷caikasyaiva grahasya saümàrga iti pràpte --------  #
+yatra hi samàsàdau parasparànvayo vyutpanno yathà÷vàbhidhànãü yatki¤citsomaliptamityàdau, tatra bhavatyeva vi÷iùñodde÷aş /
 yatra tu sa na vyutpannastatra parasparànvayena vi÷iùñodde÷e avyutpannànvayanibandhanavàkyabhedàpatterna# vi÷iùñodde÷aş /
 yathà yasyobhayaü haviràrttimàrcched grahamiti ca /
 dvayoş subantayorbhàvanànvayasyaiva vyutpannatvena parasparànvayasyàvyutpannatvàt /
@@ -510,7 +587,8 @@ anyathà pa¤cada÷ànyàjyànãtyatràpi vi÷iùñavidhànàpattiş /
 ekavacanàdyupàttasaïkhyàdestu samànàbhidhàna÷rutyà karaõatvakarmatvàdiråpe pratyayàrtha evànvitasya pada÷rutyà pràtipadikàrthànvayo naiva vyutpannaş /
 evaü sarvebhyo dar÷apårõamàsàvityàdau ekapadàdyatrànekàrthapratãtyuttaraü lakùaõayà pràtipadikàdeva sàhityapratãtistatràpi sàhityasya pratyayàrtha evànvayo na pràtipadikàrtha iti kaustubhe spaùñam /
 ata÷ca naitàdç÷asthale vi÷iùñodde÷asaübhavaş //
-#atha ------- vi÷iùñodde÷àsaübhave 'pi ubhayorapi pràtipadikavacanàrthayoş pratyayàrthe karmatvàdàvanvayena taddvàrà bhàvanànvayopapatteş saümàrgasya pàrùñhikodde÷yadvayasaübandhe bàdhakàbhàvaş /
+#
+atha ------- vi÷iùñodde÷àsaübhave 'pi ubhayorapi pràtipadikavacanàrthayoş pratyayàrthe karmatvàdàvanvayena taddvàrà bhàvanànvayopapatteş saümàrgasya pàrùñhikodde÷yadvayasaübandhe bàdhakàbhàvaş /
 nacodde÷yànekatve vàkyabhedaş; bhàvanàyàmanekakàrakasaübandhavadanekodde÷yasaübandhe bàdhakàbhàvàt /
 naca tasyàmekodde÷yatàcchedakaniyamaş; sarvebhyo dar÷apårõamàsàvityàdau putratvapa÷utvàderanekasyàpi tasya dar÷anàt /
 vidhestvanekodde÷yakatvenaiva kàcit kùatiş /
@@ -523,7 +601,8 @@ ekakarmakatva¤caikabodhaviùayakarmatvaparyàptyadhikaraõatàvacchedakadharmavattva
 atra sarvebhyo dar÷apårõamàsàvityàdau satyapi putratvapa÷utvàdãnàü karmatvaparyàptyadhikaraõatàvacchedakànàü dharmàõàü bhede ekenaiva sarvapadena yugapad bodhànnaikakarmakatvahànirityàdyaü viùayetyantam /
 paryàptipadakçtyaü tu kaustubhe draùñavyam /
 ata÷ca phaladvaye saüskàryadvaye phalasaüskàryadvaye và tàvadvàkyabhedàpattiş spaùñà /
-nimittadvayasthale 'pi yàvajjãvàdhikaraõanyàyena nimittadvayasya #phaladvayàkùepakatvàdvàkyabhedàpattirdraùñavyà /
+nimittadvayasthale 'pi yàvajjãvàdhikaraõanyàyena nimittadvayasya #
+phaladvayàkùepakatvàdvàkyabhedàpattirdraùñavyà /
 yathà ca na nimittadvayenaikasyaiva phalasya àkùepastathà kaustubhe spaùñam /
 ata eva nimittaphalasthale nimittasaüskàryasthale và ekakarmakatvabhaïgàbhàvànna vàkyabhedaş /
 na và kàlade÷àdyudde÷yànekatve saş /
@@ -532,13 +611,15 @@ ata÷ca tatsàhityavivakùàyàü vàkyabhedo duùparihara evetyàdyanyatra vistaraş //#
 nanu -------- tathàpi naikatvàdãnàmavivakùà; saümàrgabhàvanàyàü guõatvenavivakùopapatteş /
 na ca ----- evamekatvàü÷e dvitãyayà karaõatvalakùaõàd grahàü÷e ca pràdhànyàbhidhànàdvairåpyàpattiş yugapadvçttidvayavirodhàpatti÷ceti ------- vàcyam; ripsitànãpsitasàdhàraõakarmatvamàtre dvitãyàyàş ÷aktatvena pramàõàntaràdvi÷eùàvagame 'pi aikaråpyeõobhayorapyanvayopapatteş /
 na caivamapi saümàrgàïgabhåtasyaikatvasya tadanaïgabhåtagrahadvàrakatvàsaübhavaş; aïgatvàdyabhàve 'pi saübandhitàmàtreõàganmeti mantre svargasyeva grahasyàpi dvàratvopapatteş /
-ata÷ca vivakùitamekatvamiti ------- cet,  #guõabhåtaikavacanàdyanurodhena pratyaye karaõatvalakùaõàïgãkàrasya yugapad vçttidvayavirodhavairåpyàde÷cànyàyyatvàt /
+ata÷ca vivakùitamekatvamiti ------- cet,  #
+guõabhåtaikavacanàdyanurodhena pratyaye karaõatvalakùaõàïgãkàrasya yugapad vçttidvayavirodhavairåpyàde÷cànyàyyatvàt /
 tadvaramanuvàdake tasminneva pà÷àdhikaraõanyàyena lakùaõàmàtram /
 na cepsitànãpsitasàdhàraõakarmatvamàtràbhidhànànnoktadoùaprasaïgaş /
 tathàtve niruktaikakarmakatvabhaïgaprasaïgena vàkyabhedàpatteş /
 ata÷ca guõatvasiddhyarthaü lakùaõà÷rayaõe pårvoktadoùàpatterekavacanaü bahutvalakùaõàrthaü satsàdhutvàrthamanuvàdo 'vivakùitam /
 yathàcaivaü satya "ùñavarùaü bràhmaõamupanayãte" tyàdau aùñavarùatvàdervivakùà, tathà kaustubha evopapàditam   // 3 // 7 //# iti saptamaü grahaikatvàdhikaraõam //
-#<B2># (ekatvayuktam) evaü tàvat tribhiradhikaraõaiş krameõa kriyàdravyaguõànàü ÷rutyà viniyogaprakàre niråpite ÷rutihetukasaüskàracintàtvasàmyàtteùàmarthàdhikaraõànantaraü kartuü yuktàmapyagrimacintàyà vi÷eùacintàtvena sàmànyàpekùatvàt sàmànyacintànantarameva vi÷eùacintà yuktetyabhipràyeõopekùya avasarasattvàdadhunà karaõaucityamabhisaüdhàya agrimacintàviùayavàkyamudàharati ---------- jyotiùñometi //
+#
+<B2># (ekatvayuktam) evaü tàvat tribhiradhikaraõaiş krameõa kriyàdravyaguõànàü ÷rutyà viniyogaprakàre niråpite ÷rutihetukasaüskàracintàtvasàmyàtteùàmarthàdhikaraõànantaraü kartuü yuktàmapyagrimacintàyà vi÷eùacintàtvena sàmànyàpekùatvàt sàmànyacintànantarameva vi÷eùacintà yuktetyabhipràyeõopekùya avasarasattvàdadhunà karaõaucityamabhisaüdhàya agrimacintàviùayavàkyamudàharati ---------- jyotiùñometi //
 ubhayatràdipadàbhyàmagnihotraprakaraõagatasyàgre tçõànyapacinotãtyasya tathà dar÷apårõamàsaprakaraõagatànàü "puroóà÷aü paryagnikarotã" tyevamàdãnàü yathà saügrahastathà såtre ekatvagrahaõasyopalakùaõatvamaïgãkçtya "yasya puroóà÷au kùayato yasya sarvàõi havãüùi na÷yeyuri" tyàdidvivacanabahuvacanàntapadasamarpitodde÷yaghañitavàkyànàmapi saügrahaş såcitaş //
 yattu vàrtike -------- "prayàja÷eùeõa havãüùyabhighàrayatã"tyetadudàhçtam, taccaturthe 'bhighàraõasya prayàja÷eùapratipattyarthatàyà vakùyamàõatvàt prayàja÷eùasyodde÷yatvena haviùàmanudde÷yatvàdayuktamiva, tathàpi matabhedena tadupapàdanaprakàrastatraivopapàdayiùyate /
 "grahaü saümàrùñã" tyasmàtpårvaü da÷àpavitreõeti bhàùye dhçtasyàpi da÷àpavitra÷abdasya vàsaş kambalo vàrthastatra j¤eyaş //
@@ -621,25 +702,34 @@ atastçõapratipattitvamevetyuktaü kaustubhe //
 yattu -------- asminpakùe pårvaprayogàrthàgniparistaraõopayuktànàmapi tçõànàü prayogàntarakàlãnàpacayena pratipàdanàt pratipattitvàyoga iti --------- nyàyasudhàkçtoktam, tadu "pasthàya tçõànyapacinotã"ti àpastambasåtre agnyupasthàpanasamàpanakartçtvànurodhenayajamànakartçkopasthàpanottarakàlãnatvokterayuktatvàda- yuktamityupekùitaü påjyapàdaiş /
 ataeva pratipattyà tçõànàmagre 'nupayuktatvàduttaraprayogeùu anyairanyaireva tçõaiş paristaraõamuktaü dhårtasvàmyàdibhirityalaü vistareõa /
 yathàcàdhànavàkye 'gnisàhityavivakùà tathà kaustubhe draùñavyam /
-prayojanaü spaùñatvànnoktam #//
+prayojanaü spaùñatvànnoktam #
+//
 iti saptamaü grahaikatvàdhikaraõam //#
----------------- #<B1># (8 adhikaraõam / ) (a.3 pà.1 adhi.8)  #saüskàràdvà //
+---------------- #
+<B1># (8 adhikaraõam / ) (a.3 pà.1 adhi.8)  #
+saüskàràdvà //
 ekatvavad grahatvasyàpi avivakùà; liïgàdeva saümàrgasya somàvasekanirharaõaprayojanatvàvagamena somapàtramàtrasya saüskàryatvàvagateş /
 ubhayorapi grahacamasayorekajyotiùñomàpårvasàdhanatvena yaveùviva camaseùvapi saümàrgàpatte÷ceti pràpte ----------# grahatvavivakùàyàü vàkyabhedàdyabhàvàtsatyapi jyotiùñomaikye tattadabhyàsàpårvàõàü bhedàt payasà maitràvaruõaü ÷rãõàtãtivad grahajanyàpårvasàdhanatvasyaiva lakùaõopapatterna camaseùu saümàrgaş   // 3 // 8 //
-#// ityaùñamaü grahatvavivakùàdhikaraõam   #//
-<B2>  #spaùñàrthametat  #// //
+#
+// ityaùñamaü grahatvavivakùàdhikaraõam   #//
+<B2>  #
+spaùñàrthametat  #// //
 ityaùñamaü grahatvavivakùàdhikaraõam //
-#-------------# <B1> #(9 adhikaraõam / ) (a.3 pà.1 adhi.9)#  ànarthakyàt  //
+#
+-------------# <B1> #
+(9 adhikaraõam / ) (a.3 pà.1 adhi.9)#  ànarthakyàt  //
 "saptada÷àratnirvàjapeyasya yåpa" ityatràvyavahitatvàt pradhànatvàt prakaraõànugrahàcca saptada÷àratnitvaü vàjapeyodde÷ena ùaùñhã÷rutyà vidhãyate /
 na yåpodde÷ena; atiprasaïgàpatteş, vàjapeyena vi÷eùaõe vi÷iùñodde÷àcca /
 ataş saptada÷àratnitvaüvàjapeyodde÷ena vidhãyamànaü tadãyordhvapàtradvàreõa nivi÷ate /
-yåpapadaü sàdç÷yàdgauõaü iti pràpte ----------  #yåpapadasya gauõatve pramàõàbhàvàdyupapadena svakàryaü lakùayitvà tadudde÷ena saptada÷àratnidravyaü vidhãyate /
+yåpapadaü sàdç÷yàdgauõaü iti pràpte ----------  #
+yåpapadasya gauõatve pramàõàbhàvàdyupapadena svakàryaü lakùayitvà tadudde÷ena saptada÷àratnidravyaü vidhãyate /
 yadyapi ca dravyaü aratniparimàõaü càtide÷ataş saübhavatpràptikaü, tathàpi tadanuvàdena saïkhyàvidhàne ekaprasaratàbhaïgàpattestataş pårvapravçttyaïgãkàreõa vi÷iùñaü dravyameva saïkhyàvidhiphalakaü lohitoùõãùà ityàdivadvidhãyate /
 yåpakàryasvaråpe# cànarthakyàt prakaraõàt vàjapeyàpårvasàdhanatvalakùaõayà vàjapeyàpårvasaübandhiyåpalàbhàt vàjapeyasyetyanuvàdaş /
 ùaùñhã ca paraüparàsaübandhe 'pyupapannà naptari devadattasyàyamitivat /
 vyavahitatvàdi ca gauõatvàpekùayà na doùaş   // 3 // 9 //
 
-#// iti navamamànarthakyatadaïgàdhikaraõam   #//
+#
+// iti navamamànarthakyatadaïgàdhikaraõam   #//
 
 <B2> atra ùaùñhyàş pràcãnamate mukhya÷rutitvàt svamate gauõatvàt gauõamukhyasàdhàraõa÷rutiviniyogopayogicintanàt pàdàdhyàyasaügatã spaùñatvàdapradar÷ya vàjapeyaprakaraõagataviùayapradar÷anapårvakaü pårvapakùamevàha -------- saptada÷eti  //
 anantarasaïgatistu pårvatra pràtipadikàrthavivakùà vacanàrthasyàvivakùeti cintite yatra tarhi pràtipadikàrthadvayaü tatra kasyàvivakùeti jij¤àsodaye avasarasattvàdanyataravivakùàvivakùe vicàryete ityevamavasararåpà   //
@@ -674,16 +764,21 @@ etena --------- vàjapeyasaübandhitvalàbhàya vàjapeyapadasya yåpavi÷eùaõatvàïgãka
 etena ----------- yåpàïgasaptada÷àratnitàyà vàjapeye kathaübhàvàkàïkùàlakùaõaprakaraõenàgrahaõànna vàjapeyàpårvaprayuktatvaü, apitu vàïniyamanyàyena pa÷vapårvaprayuktatvameveti somanàthoktaü --------- apàstam; kathaübhàvàkàïkùàlakùaõaprakaraõàgràhyatve 'pyànarthakyàpattisahakçtayåpapada÷rutyaiva tadaïgatvabodhanena vàjapeyàpårvaprayuktatvasyaivàpatteş  //
 nanu vàjapeyàïgatvena yåpàprasiddhiş kathaü vàjapeyasaübandhitvapràptyànuvàda ityata àha --------- ùaùñhã ceti //
 atraca pràcàü rãtyà yåpamàtrasyodde÷yatve samàsàrthavidhànasya tasminnasaübhavàt kàryalakùaõàyà¤ca lakùaõàpatterniyamena yåpatvàvirodhenaiva dravyavidhànasyàpi kliùñatvàpatteş dravyavi÷eùànupàdànàpatte÷ca na tadudde÷ena dravyavidhiş, apitu yåpapadasya tàtparyagràhakatvamaïgãkçtya saptada÷àratnipadena vi÷iùñayåpavidhiş vàjapeyodde÷ena, tasyacàpràkçtakàryakaratvàpatteş vàjapeye sàdhanatvàdinà nive÷àyogàt ùaùñhyàş paraüparàsaübandhe 'pyupapatteş tadãyapa÷vaïganiyojanadvàreõa nive÷ànna ka÷cana doùa iti mama pratibhàti /
-prayojanaü spaùñatvànnoktam #//
+prayojanaü spaùñatvànnoktam #
+//
 iti navamamànarthakyatadaïgàdhikaraõam //#
-- - - - - - - #<B1># (10 adhikaraõam / ) (a.3 pà.1 adhi.10)  #kartçguõe //
+- - - - - - - #
+<B1># (10 adhikaraõam / ) (a.3 pà.1 adhi.10)  #
+kartçguõe //
 dar÷apårõamàsayoş prayàjasamãpe ÷rutama "bhikràmaü juhotã"ti /
 tatràbhikramaõasyàmårtatvàjjuhotyupàtte prayàjahome 'nvayànupapatteràruõyavacceha kartçråpasya dravyasyànupàttatvàttaddvàràpyanvayànupapattestato vicchinnasya pràkaraõikasarvahaimàïgatvaü tadãyakarturàhavanãyapratyàsàttiråpadçùñakàryadvàreti pràpte ----------#  anupàttasyàpi àkhyàtagamyasya sadbhàvàttaddvàraiva juhotyanvayopapatteş prayàjahomàïgatvameveti bhàùyakàreõa siddhàntitam  //
-#tat õamulantasya pårvakàlatàdisaübandhena juhotyanvaye naivàkàïkùyàbhàvàt juhote÷ca prayàjahomamàtravàcitve pramàõàbhàvàdaruõàdhikaraõena gatapràyatvàcca vàrtikakàreõànyathà vyàkhyàtam /#
+#
+tat õamulantasya pårvakàlatàdisaübandhena juhotyanvaye naivàkàïkùyàbhàvàt juhote÷ca prayàjahomamàtravàcitve pramàõàbhàvàdaruõàdhikaraõena gatapràyatvàcca vàrtikakàreõànyathà vyàkhyàtam /#
 satyapi vàkyãgrahomasaübandhe saïkoce pramàõàbhàvàdvedyàü havãüùãtivatpràkaraõikasarvahomàïgatvam; vàcanikàïgasandaü÷aråpàvàntaràdhikàrasya vàkyasaïkocakatvànupapatteş /
 yadi hi tàdç÷asandaü÷amadhye abhikràmatãtyeva ÷råyeta, tato 'vàntaraprakaraõena syàdapi prayàjàïgatvam /
 vastutastu nàïgeùvitikartavyatà'kàïkùàlakùaõaü prakaraõaü, phalàbhàvàt, anyathà prayàjàbhikramaõàdãnàmapyanuyàjàdyaïgatvàpatteş /
-vàcanikàïgasaübandhasiddhyartha¤ca kalpitàyà àkàïkùàyàstanmàtragràhakatvenàbhikramaõagràhakatvànupapatteriti pràpte -------  #bhàvanàsvàbhàvyenàïgabhavanàsvapi kratåpakàrabhàvyakàsvitikartavyatàkàïkùopapatteraïgànàmapyastyeva sà /
+vàcanikàïgasaübandhasiddhyartha¤ca kalpitàyà àkàïkùàyàstanmàtragràhakatvenàbhikramaõagràhakatvànupapatteriti pràpte -------  #
+bhàvanàsvàbhàvyenàïgabhavanàsvapi kratåpakàrabhàvyakàsvitikartavyatàkàïkùopapatteraïgànàmapyastyeva sà /
 sà paraü pradhànagataphalavattvena pratibadhyate sannidhyàmnàtaviùaye /
 ato na parasparàïgatvaprasaïgaş /
 tadà tannivçttiratide÷enàkùepalabhyasvasaüpàdanena sàdhàraõairvà àcamanàdibhiş   #//
@@ -693,7 +788,8 @@ prakçte tu homànuvàdena vihite 'bhikramaõe homasvaråpe ànarthakyaprasaktau apårv
 asti càtra "samànayate juhvàmaupabhçta mi"tyàdyupakramya madhye 'bhikramaõaü vidhàya "prayàja÷eùeõa havãüùyabhighàrayati" iti ÷ravaõàt saş /
 ato 'bhikramaõaü prayàjahomàïgameva /
 na ca prayàjeùu homàbhàvaş; prakùepàïgakasyaiva tyàgasya vçddhavyavahàreõa yajipadàrthatvàvasàyàdàkùepeõa ÷råyamàõayajimàtre homapràptyupapatteş   // 3 // 10 //
-#// iti da÷amaü saüdaü÷àdhikaraõam //#
+#
+// iti da÷amaü saüdaü÷àdhikaraõam //#
 
 <B2> ànarthakyàpattyà ÷rutakriyànvayàyogena tadaïgàvatàre sthite tadvi÷eùacintàtvenottaràdhikaraõadvayasyànantarasaïgatau spaùñàyàü yadyapyabhikramaõopavyànayostadaïgàvatàre sati saüskàratvàpatteş saümàrgàkhyasaüskàracintànantarameveyaü cintà kartuü yuktà; tathàpi kriyàyàş sàkùàt kriyànvayàyogàt guõavatkriyàsàdhanadravyadvàrà kriyànvayenàrthàt dravyasaüskàratvàvagame guõacintànantaramapyasau yukteti saïgatimabhipretya viùayapradar÷anapårvakaü pårvapakùamàha --------- dar÷eti  //
 anvayànupapatteriti //
@@ -734,9 +830,12 @@ nanu prayàjeùu pratyakùato juhotera÷ravaõàt "caturgçhãtaü juhotã" tyanàrabhyavàk
 prakùepàïgaketi  //
 vistareõa caitadagre tçtãye pratipàdayiùyate //
 prayojanaü pratihomaü kartçsaüskàrakatvàdabhikramaõànuùñhànamaprayàjavikçtiùvapi atide÷a÷ca pårvapakùe /
-siddhàntetu prayàjàrthameva tadanatide÷a÷ceti spaùñatvànnoktam #//
+siddhàntetu prayàjàrthameva tadanatide÷a÷ceti spaùñatvànnoktam #
+//
 iti da÷amaü abhikramaõaprayàjàïgatàdhikaraõam //#
-- - - - - - - #<B1>#  (11 adhikaraõam / ) (a.3 pà.1 adhi.11)  #sandigdhe tu //
+- - - - - - - #
+<B1>#  (11 adhikaraõam / ) (a.3 pà.1 adhi.11)  #
+sandigdhe tu //
 dar÷apårõamàsayoş "pa¤cada÷a sàmidhenãranubråyà" dityanena sàmidhenãrvidhàya tàsàü vàcanikà guõà vihitàş /
 tato nivido nàma mantrà "devaiddha" ityàdayaş /
 tata "ekaviü÷atiranubråyàt pratiùñhàkàmasye" tyàdayaş kàmyàş sàmidhenãkalpàş /
@@ -745,7 +844,8 @@ tataş punaş sàmidhenãguõà "antarànåcyaü sadevatvàye" tyàdayaş /#
 tatropavãtaü sàmidhenyaïgam; tadavàntaraprakaraõàt /
 na ca tadavàntaraprakaraõasya kàmyakalpairnivinmatrairvà vicchedaş, godohanàdãnàü dar÷apårõamàsaprakaraõàvicchedakatvavat kàmyànàmapi tadvicchedakatvànupapatteş, påùànumantraõamantravannivinmatrasyàpi tadanupapatte÷ca /
 vastutastu --------- liïgàdagnisamiddhatvaråpasàmidhenãphalaprakà÷akànàmapi avàntaraprakaraõàt sàmidhenyaïgatvopapatterna viccheda÷aïkà /
-iùyata eva aganmeti mantrasya yàgajanyaphalaprakà÷akatvena yàgàïgatvamiti pràpte --------  #nividbhirvyavadhànànnopavãtasya sàmidhenyaïgatà /
+iùyata eva aganmeti mantrasya yàgajanyaphalaprakà÷akatvena yàgàïgatvamiti pràpte --------  #
+nividbhirvyavadhànànnopavãtasya sàmidhenyaïgatà /
 naca påùànumantraõamantranyàyaş; yatra hyuttarakàlaü bahåni vàcanikànyaïgàni tatraivaikasya påùànumantraõamantràdeş paraprakaraõasthatvakalpanà /
 yatra tu vicchedakàni bahåni uttarakala¤ca vàcanikàïgaü svalpaü, tatra vàcanikàïgasyaivànàrabhyàdhãtanyàyenàïgatvopapatterna prakaraõànuvçttikalpanà; anyathà vi÷vajidàderapi dar÷àïgatvàpatteş /
 prakçte ca nivinmantràõàü bahutvàdvàcanikottaràïgànàü svalpatvena na prakaraõànuvçttikalpanà /#
@@ -755,7 +855,8 @@ yattvante "devà vai sàmidhenãranåcye" tyàdisaükãrtanam, tadàghàràrthavàdatvàdasà
 ata evànte vàcanikàïgàbhàvàdeva na nividàü sàbhidhenyaïgatva÷aïkà /
 saünidhimàtreõa tadaïgatva÷aïkà tu parasparàïgatvànupapatteş prakaraõena bàdhàccàyuktà /
 nacaivaü à÷rayàbhàvàtkàmyeùu guõaphalasaübandhànupapattiş; tatrànuvacanàntarasyaiva phalodde÷ena vihitatvàt, tasya ca saïkhyàyuktànuvatvanasàmànyàtpa¤cada÷asaïkhyàkanityànuvacanaprakçtikatvàvagatestadãya- dharmàõàü trirabhyàsàdãnàü tadãyarcàü ca pràpternàdharmakatvam /
-nacarcàmanuvacanaü prati pràdhànyàtkathamatide÷aş; prakçtau trirabhyàsayuktapàñhàdeva #tàvatsaïkhyàkarcàmarthàccànuvacanasya ca pràptyupapatteş "pa¤cada÷a sàmidhenãranubråyàdi"ti vacanavaiyarthyàpatteragatyà saktunyàyena viniyogabhaïgaü prakalpya mantravi÷iùñànuvacanasyaiva vidheyatvena tadaïgabhåtànàmçcàü pràptyupapatteş /
+nacarcàmanuvacanaü prati pràdhànyàtkathamatide÷aş; prakçtau trirabhyàsayuktapàñhàdeva #
+tàvatsaïkhyàkarcàmarthàccànuvacanasya ca pràptyupapatteş "pa¤cada÷a sàmidhenãranubråyàdi"ti vacanavaiyarthyàpatteragatyà saktunyàyena viniyogabhaïgaü prakalpya mantravi÷iùñànuvacanasyaiva vidheyatvena tadaïgabhåtànàmçcàü pràptyupapatteş /
 guõatvamapi carcàü nànuvacanaphalaprakà÷akatayaiva, apitvanuvacanajanakatayà; làghavàt /
 ata÷ca na dvàralopàdbàdha åho và /
 anu÷abdena dar÷apårõamàsàïgabhåtapadàrthànantaryasyoktatvàttasya ca paraprayuktatvena bahişkratu prayoge 'nuùñhàtuma÷akteş kratumadhyaprayogasiddhiş /
@@ -763,7 +864,8 @@ vaikçtànuvacanenaiva ca prasaïgàtpràkçtànuvacanakàryasiddherna tasya pçthaganuùñ
 atasteùvapi na sàmidhenãprakaraõànuvçttiş /
 naca tarhi tadaïgatvamevopavãtasya kiü na syàt? teùàü vikçtitvena pràkçtàïgairniràkàïkùàõàü prakaraõàbhàvàt, vàcanikàïgasandaü÷àbhàvàcca /
 ato mahàprakaraõàddar÷apårõamàsàïgamupavãtaü tatkartçsaüskàrakatayà tatkartçbhiş sarvapayogàrambhe kàryamiti siddham   // 11 //# ityekàda÷aü upavãtasàmidhenyanaïgatàdhikaraõam //
-#<B2># (sanda÷anyàyaş) atra sàmidhenyaïgatvapårvapakùadar÷apårõamàsàïgatvasiddhàntopapattimålàvàntaraprakaraõasadbhàvatadvicchedopa- pàdakatayà vicàrànupayuktamapi viùayavàkyena sahodàharati --------- dar÷apårõamàsayoriti  //
+#
+<B2># (sanda÷anyàyaş) atra sàmidhenyaïgatvapårvapakùadar÷apårõamàsàïgatvasiddhàntopapattimålàvàntaraprakaraõasadbhàvatadvicchedopa- pàdakatayà vicàrànupayuktamapi viùayavàkyena sahodàharati --------- dar÷apårõamàsayoriti  //
 siddhàntakoñihetutayà dar÷apårõamàsayorityuktam /
 vàcanikà guõà iti //
 triş prathamàmanvàha triruttamàmityàdaya ityarthaş //
@@ -817,25 +919,31 @@ evamantaşkratvanuùñhànasya sàdhitasya phalamàha -------- vaikçteti  //
 ataş kàmyaphaleùvàva÷yàkà÷rayalàbhàya na sàmidhenãprakaraõojjãvanàpekùetyupasaüharati -------- atasteùvapãti /
 tatkartçsaüskàrakatayeti //
 anena ca sàmidhenyaïgatvapakùe tadàraübha eva kartrà avaiyagùàpàdakatayà upavãtaü pårvapakùe kàryam /
-siddhàntetu dar÷apårõamàsaprayogàraübha iti prayojanaü dar÷itam #//
+siddhàntetu dar÷apårõamàsaprayogàraübha iti prayojanaü dar÷itam #
+//
 ityekàda÷aü upavãtasya sàmidhenyanaïgatàdhikaraõam #//
-- - - - - - #<B1># (12 adhikaraõam / ) (a.3 pà.1 adhi.12)  #guõànàm //
+- - - - - - #
+<B1># (12 adhikaraõam / ) (a.3 pà.1 adhi.12)  #
+guõànàm //
 àdhàne pavamàneùñitaş prade÷àntare "vàraõo yaj¤àvacaro vaikaïkato yaj¤àvacara" iti ÷rutam /
 tatra yaj¤asàdhanatvena ÷rutànàü vàraõàdãnàü sàkùàdayaj¤aråpàdhàne nive÷àsaübhavàdànarthakyatadaïganyàyena pavamàneùñiråpe yaj¤a eva nive÷a iti pràpte --------#  bhàùyakàreõa tàvadevaü siddhàntitam ------- àdhànaprakaraõe pañhitena "yadàhavanãye juhotã" tivàkyena pavamànahaviùàmagnyaïgatvàvagateràdhànàïgatvàbhàvenànarthakyatadaïganyàyàsaübhavàtsvaråpeõa ca pavamàneùñãnàma- sannihitatvàdvàraõavaikaïkatàdãnàü sarvaprakçtiyaj¤àïgatvaü sarvayaj¤àïgatvaü veti //
-#vàrtikakàrastu na tàvadanàrabhyavàkyena pavamànahaviùàmagnyaïgatvam; tena sarvahomànuvàdenàhavanãyavidhànàt, pavamàneùñãnàmeva vi÷iùyopasthityabhàve saptamyà pràdhànyalakùaõàyàü pramàõàbhàvàt /
+#
+vàrtikakàrastu na tàvadanàrabhyavàkyena pavamànahaviùàmagnyaïgatvam; tena sarvahomànuvàdenàhavanãyavidhànàt, pavamàneùñãnàmeva vi÷iùyopasthityabhàve saptamyà pràdhànyalakùaõàyàü pramàõàbhàvàt /
 nàpi pavamàneùñiprakaraõe vàkyàntarakalpanà; tadabhàve 'pi vàraõàdãnàü sarvayaj¤àrthatvopapatteş /#
 astu và àdhànaprakaraõe tattathàpi tenàdhànàïgabhåtahomànàmàhavanãyàdhikaraõatvasiddhireva natvagnyaïgatvasiddhiş; saptamyà làkùaõikatvàpatteş /
 ata eva tatratyamàhavanãyapadaü àdhànajanyotpattyapårvavi÷iùñàgnilakùakameva; paramàpårvavi÷iùñàgniråpamukhyàhavanãyasya tadànãmasattvàt /
 nacaivaü pavamàneùñihaviş ÷ravaõàdau gàrhapatyàdipràpakàbhàvaş; tatra mukhyagàrhapatyàdibàdhe pramàõàbhàvàt /
 ata÷ca satyapi vacanàntare pavamàneùñãnàmagnyaïgatve pramàõàbhàvàdàdhànàïgatve 'pi vàraõàdãnàü sarvayaj¤àrthataivamupapàdanãyà   //
-#sarvatra svodde÷yasyàpårvavyabhicàre 'pårvasàdhanatvalakùaõàrthaü prakaraõànuprave÷o yathà vrãhãnityàdau /
+#
+sarvatra svodde÷yasyàpårvavyabhicàre 'pårvasàdhanatvalakùaõàrthaü prakaraõànuprave÷o yathà vrãhãnityàdau /
 ataeva tàdç÷asthale ànarthakyatadaïganyàyaş, prakçte tu yaj¤apadenaivàvyabhicàritàpårvasàdhanatvopasthitau tadarthaü prakaraõànuprave÷àbhàvàtpradhànasaübandhasyaivàprasaktau kva tadaïgàvatàraş /
 evaü satyapi yadi pavamàneùñisaünidhau pàtràõi ÷råyeran, tadànuvàdasya sati saübhave saünihitagàmitvàdvrãhibhiryajetetyàdivadbhavetprakçtamàtraviùayatvam /
 natvetadapi; pavamàneùñãnàü prade÷àntarasthatvàt /
 ato vàraõàdãnàü sarvayaj¤àrthatvameva  #//
 prayojanaü pavamàneùñyanantaraü pàtràõàü nà÷e dar÷àdyarthaü aniyatànàmutpattiş /
 siddhànte vàraõàdãnàmeveti   // 3 // 12 //
-#// iti dvàda÷aü vàraõasarvayaj¤àrthatvàdhikaraõam   #//
+#
+// iti dvàda÷aü vàraõasarvayaj¤àrthatvàdhikaraõam   #//
 <B2> viùayavàkyamudàharati ------- àdhàna iti  //
 yaj¤e avacaryate anuùñhãyate 'nenetivyutpattyà yaj¤ànuùñhànasàdhanaü yaj¤àvacara÷abdasyàrthaş /
 atraca yena yaj¤e anuùñhãyate sa vàraõa ityabhedapratãteryaj¤odde÷ena tatsàdhanapàtraparicchedadvàrà vàraõatvavaikaïkatatvajàtyorvidhànena yatra juhvàdau jàtyantaravidhànaü tatrànive÷e 'pi ulåkhalamusalàdiùu tadvidhyavirodhaş, tatràpi natvetena juhuyàditi vàkya÷eùabhåtaparyudàsava÷àdyaj¤àïgaprakùepàkhyahomavyatiriktasàdhanapàtradvàrà vàraõasya tathà juhuyàdevaitenetyadhikaraõamàlàlikhitavàkya÷eùabalàt yaj¤àïgaprakùepahomasàdhanapàtradvàrà vaikaïkatasya nive÷a iti kaustubhe påjyapàdàş /
@@ -860,14 +968,18 @@ sarvayaj¤àrthatvameveti //
 "eùa vai saptada÷aprajàpatiryaj¤e 'nvàyate"ni vihitaprajàpatisaüj¤akasaptada÷àkùaràõàü yaj¤amàtrodde÷ena vidhànàt sarvayaj¤àrthatvavat asyàpi tena råpeõa vidhànàt sarvayaj¤àrthatvam, natu prakçtimàtràrthatvamityarthaş  //
 eva¤ca ànarthakyatadaïganyàyapravçttyà pårvapakùasyàsaübhavena tatparihàràrthaü adhikaraõabhedena siddhàntakathanasyàyuktatvàt prakaraõe 'sannive÷e utkarùasya påùànumantraõamantravadanyataş siddhatveneha tatprasàdhane vaiyarthyàcca punaş såtràrambhavaiyarthyà÷aïkàyàş nividàü sàmidhenyaïgatvànna taiş sàmidhenãprakaraõaviccheda ityà÷aïkottaratvena pårvàdhikaraõa÷eùatayà yojanàtsàrthakyena parihàramabhipretya ava÷iùñaü prayojanamàha -------- prayojanamiti //
 pavamànahavirarthànàmapi pàtràõàü dàhapratipattyarthamàntaü dhàraõàt tairevopàdànalàghavàt antarà dar÷apårõamàsàdyanuùñhànasaübhave 'pi teùàü daivànnà÷e dar÷àdyarthamaniyatavçkùaprakçtikànàmupàdànaü pårvapakùe /
-siddhànte tu vàraõàdiprakçtãnàmeveti prayojanamityarthaş #//
+siddhànte tu vàraõàdiprakçtãnàmeveti prayojanamityarthaş #
+//
 iti dvàda÷aü vàraõàdisarvayaj¤àrthatvàdhikaraõam //#
-- - - - - - - #<B1># (13 adhikaraõam / ) (a.3 pà.1 adhi.13)  #mitha÷ca //
+- - - - - - - #
+<B1># (13 adhikaraõam / ) (a.3 pà.1 adhi.13)  #
+mitha÷ca //
 àjyabhàgakrame ÷rutànàü vàrtraghnãvçdhanvatãmantràõàü liïgakramau bàdhitvà "vàrtraghnã paurõamàsyàmanåcyete vçdhanvatã amàvàsyàyàmi"ti vàkyàbhyàü pradhànàïgatvam /
 iùyate ca liïgasyàpi mantragatasya vàkyenàpi bràhmaõagatena bàdho "yadyapyanyadevatya" ityàdineti pràpte ---------#  abàdhenopapattau bàdhàyogànna pradhànàïgatvam /
 nahi somadevatyasya mantrasya liïgàvirodhaş saübhavati, somasya devatàtvàbhàvàt, amàvàsyàyàmadhiùñhànatvasyàpyasaübhavàcca /
 vastutastu --------- vàkyasyàsya vyavasthàmàtrakaraõe làghavànna pradhànàïgatàbodhakatvam /
-vyavasthà capaurõamàsyàü yau àjyabhàgau tatra vàrtraghnãtyàdiråpeõa kàlakçtà vetyàdi vi÷eùaş kaustubhe draùñavyaş // 3 // 13 // #iti trayoda÷aü vàrtraghnãpaurõamàsyaïgatàdhikaraõam //#
+vyavasthà capaurõamàsyàü yau àjyabhàgau tatra vàrtraghnãtyàdiråpeõa kàlakçtà vetyàdi vi÷eùaş kaustubhe draùñavyaş // 3 // 13 // #
+iti trayoda÷aü vàrtraghnãpaurõamàsyaïgatàdhikaraõam //#
 <B1> pårvaü vàkyàt prakaraõabàdhe ukte tatprasaïgàdàpatitasya kramabàdhasyeha apavàdàdanantarasaïgatiü pårvapakùe saptamyà dvitãyàrthalakùaõàdgauõa÷rutiviniyogopayogicintanena pàdasaïgatiü saü÷aya¤ca spaùñatvàdanuktvà viùayapradar÷anapårvakaü pårvapakùamàha ------ àjyabhàgakrama iti //
 "agnirvçtràõi jaïghana"diti prathamà vàrtraghnã /
 "tvaü somàsi satpatiri"ti saumyà dvitãyà vàrtraghnã /
@@ -897,14 +1009,18 @@ ataeva pradhànànàü pratipadyanuùñhàne 'pitadãyaprayogàrambhadvàràpi tat katha¤ci
 natvihàjyabhàgayostadapi saübhàvyate /
 ataeva aïgeùu paurõamàsãkàlatvaü sàkùàdanupapannam svapradhànaprayogàrambhadvàrakameva j¤eyam  //
 naca tàdç÷apaurõamàsãkàlakatvenaiva kàlakçtavyavasthà yuktà; tathàtve paurõamàsãkàlãnapradhànàïgabhåtàjyabhàgayorevodde÷yatvàpattau kàlakçtavyavasthàyà anuktisahatvàdityayuktametatparihàrakaraõam /
-yadapi somanàthena anayorvyavasthàvidhitvàt tasyacàvyavasthàpràptimålakatvena tadàlocane àjyabhàgadvàrakatvasiddheş kàlodde÷ena mantravidhàne lakùaõà vi÷iùñodde÷ayoraprasaktyà kàlakçtavyavasthà yuktaivetyuktam; tadapyudde÷yatàvacchedakàvacchinne avyavasthàpràptyabhàve vyavasthàvidhitvanirõayasyaiva prathamato 'saübhavenàjyabhàgadvàrakatvàlàbhàt lakùaõàyà àva÷yakatvàt pårvoktadåùaõàparihàràccàyuktataramityupekùitaü påjyapàdairityalam #//
+yadapi somanàthena anayorvyavasthàvidhitvàt tasyacàvyavasthàpràptimålakatvena tadàlocane àjyabhàgadvàrakatvasiddheş kàlodde÷ena mantravidhàne lakùaõà vi÷iùñodde÷ayoraprasaktyà kàlakçtavyavasthà yuktaivetyuktam; tadapyudde÷yatàvacchedakàvacchinne avyavasthàpràptyabhàve vyavasthàvidhitvanirõayasyaiva prathamato 'saübhavenàjyabhàgadvàrakatvàlàbhàt lakùaõàyà àva÷yakatvàt pårvoktadåùaõàparihàràccàyuktataramityupekùitaü påjyapàdairityalam #
+//
 iti trayoda÷aü vàtraghnyàdidar÷apårõamàsàïgatvàdhikaraõam //#
-- - - - - - - #<B1># (14 adhikaraõam / ) (a.3 pà.1 adhi.14)  #ànantaryam //
+- - - - - - - #
+<B1># (14 adhikaraõam / ) (a.3 pà.1 adhi.14)  #
+ànantaryam //
 dar÷apårõamàsayoş "hastàvavanenikte ulaparàjãü stçõàtã"ti, tathà jyotiùñome "muùñãkaroti vàcaü yacchati dãkùitamàvedayatã" ti ÷rutam /
 tatra hastàvanejanaü hastasaüskàràrthaü, muùñãkaraõavàgyamau ca manaşpraõidhànàrthau /
 atastattrayamapi tàvatkariùyamàõakarmàrthamityasaüdigdham /
 tatra kariùyamàõaü karmànantaryàdekavàkyatvàdvà ulaparàjistaraõadãkùitàvedanaråpameveti pràpte --------#  ànantaryasyàvarjanãyatvàdaïgatàgràhakatvànupapattergràhakatve 'pi và prakaraõena bàdhàt 'pa÷ya mçgo dhàvatã'ti vadàkàïkùàviraheõa càkhyàtadvayasya yacchabdàdyupabandhàbhàve ekavàkyatvànupapatteş kartçsaüskàrasyàsya prakaraõàdaïgapradhànasàdhàraõasvottarapadàrthàïgatvaü hastàvanejane /
-muùñãkaraõavàgyamayostu aïgulivàgvisargapràkkàlãnapadàrthamàtràïgatvam // 14 // #iti caturda÷aü hastàvanejanàdãnàü pràkaraõikasarvàïgatvàdhikaraõam //#
+muùñãkaraõavàgyamayostu aïgulivàgvisargapràkkàlãnapadàrthamàtràïgatvam // 14 // #
+iti caturda÷aü hastàvanejanàdãnàü pràkaraõikasarvàïgatvàdhikaraõam //#
 <B2> pradhànànvaye anuvàkyànàmànarthakyàpattestadaïgabhåtayoràjyabhàgayoş kramànusàreõa vyavasthoktyà vàraõàdhikaraõàpoditànarthakyatadaïganyàyojjãvane kçte ihàpi kramànusàràt pràptàyà vyavasthàyà apavàdakaraõàdàpavàdikãmanantarasaüïgatiü tathà dvitãyayà hastamuùñivàksaüskàràrthatvenàvagatànàü sannidhànàt ulaparàjyàdidvàrakatvenàpårvasàdhanatvalakùaõàt athavà ------- sarvapadàrthadvàràvà tallakùaõàt tattadaïgatvamiti vicàreõa ÷rutiviniyogopayogicintanena pàdasaïgati¤ca spaùñatvàdanabhidhàya viùayavàkyamudàharati --------- dar÷apårõamàsayoriti  //
 hastaprakùàlanaråpaü hastàvanejanaü dvitãyayà malàpakarùaõaråpadçùñadvàrà hastasaüskàràrthaü sat kartçtvàü÷ena kartçsaüskàrakam /
 yadyapi pårvameva ÷udhyantaramasti; tathàpi mantrànekatve smçtidàróhyavacchudhyantarasyàpyavakà÷e na ka÷cana virodhaş /
@@ -928,9 +1044,12 @@ visargapràgbhàvimuùñãkaraõavàgyamayorhastajihvàcàpalanivçttidvàrà manaşpraõidhàn
 satyapica taduttarabhàvipradhànàrthatvàbhàve ànarthakyatadaïganyàyenàïgeùvavatàrasiddheraïgàrthatve prakaraõavyàpàràbhàve 'pi na kùatirityarthaş /
 etena -------- vàrtike muùñãkaraõàdãnàü sàïgapradhànàrthatvasya prakaraõàcca viniyogasyàbhidhànaü prauóhavàdamàtramiti bhàvaş //
 prayojanaü svakàle vismçtaü hastàvanejanamulaparàjistaraõànantaraü pårvapakùe na kàryam /
-tathà gçhamedhãye ulaparàjistaraõasyàràdupakàrakasya lope hastàvanejanasya lopa÷ca, siddhàntetu uttareùvaïgatvàt gçhamedhãye càjyabhàgàïgatvàt kàryameveti spaùñatvànnoktam #//
+tathà gçhamedhãye ulaparàjistaraõasyàràdupakàrakasya lope hastàvanejanasya lopa÷ca, siddhàntetu uttareùvaïgatvàt gçhamedhãye càjyabhàgàïgatvàt kàryameveti spaùñatvànnoktam #
+//
 iti caturda÷aü hastàvanejanàdãnàü pràkaraõikasarvàïgatvàdhikaraõam //#
-- - - - - - - #<B1># (15 adhikaraõam / ) (a.3 pà.1 adhi.15)  #÷eùastu  //
+- - - - - - - #
+<B1># (15 adhikaraõam / ) (a.3 pà.1 adhi.15)  #
+÷eùastu  //
 dar÷apårõamàsayor "àgneyaü caturdhà karotã" tyatra nàgnidevatàkahaviùñvamudde÷yatàvacchedakaü; vi÷iùñodde÷e vàkyabhedàpatteş, apitu taddhitopàttahaviùñvameva /
 katha¤cidvàgnisaübandhihaviùñvaü tathà /
 asti càgnisaübandho 'gnãùomãyàdàvapi /
@@ -941,16 +1060,20 @@ naca devatàtvaü dvidevatye pratyekavçtti /
 itaretarayogaråpa ------- càrthavihitadvandvena sàhityasya vivakùitatvàt sahitayoreva vyàsajyavçttyakhaõóopàdhiråpadevatàtvasvãkàràt /
 ataeva dvandvànta ityàdipravàdastu yatrodde÷yatvena sàhityàvivakùà tatreti dhyeyam /
 ataş kevalàgnipadàdutpannastaddhito nànyasàpekùasya devatàtvamabhivadituü kùamaş; sàmarthyavighàtàpatteş /
-#yattu agnidevatàkatvamavivakùitamiti, tanna; tathàtve na tàvatprakçtadravyatvamàtraü apårvasàdhanalakùakam; tasya devatàtaddhitenànukteş /
+#
+yattu agnidevatàkatvamavivakùitamiti, tanna; tathàtve na tàvatprakçtadravyatvamàtraü apårvasàdhanalakùakam; tasya devatàtaddhitenànukteş /
 nàpi haviùñvam; tatparatvasya devatàvàcitvapratãtiü vinànupapatteş /
 nahi haviùi vàcye devatàtaddhita eveti smçtyà niyamyate; tadvàcitve 'pi saübandhasàmànyataddhitasya sattvàt /
 ataş prathamàvagatasya# devatàtvasyaivodde÷yatàvacchedakatvam /
 tasya cànuyogipratiyogisàpekùatvàt haviràrtinyàyenàr "dhamantarvedã" tivadagnidevatàkahaviùñvasyaiva lakùaõayodde÷yatàvacchedakatvasiddhiş /
 tena ca puroóà÷aü caturdhà karotã"ti sàmànyavacanasyopasaühàraş /
-tasmàdàgneyasyaiva puroóà÷asya caturdhàkaraõam // 15 // #iti pa¤cada÷amupasaühàràdhikaraõam //#
-iti ÷rãkhaõóadevakçtau bhàññadãpikàyàü tçtãyàdhyàyasya prathamaş pàdaş // 1 // <B2>   #pårvàdhikaraõoktasarvàrthatvàpavàdàdàpavàdikãmanantarasaïgatiü saü÷ayaü ca spaùñatvàdanullikhya viùayapradar÷anapårvakaü pårvapakùamàha --------- dar÷eti /
+tasmàdàgneyasyaiva puroóà÷asya caturdhàkaraõam // 15 // #
+iti pa¤cada÷amupasaühàràdhikaraõam //#
+iti ÷rãkhaõóadevakçtau bhàññadãpikàyàü tçtãyàdhyàyasya prathamaş pàdaş // 1 // <B2>   #
+pårvàdhikaraõoktasarvàrthatvàpavàdàdàpavàdikãmanantarasaïgatiü saü÷ayaü ca spaùñatvàdanullikhya viùayapradar÷anapårvakaü pårvapakùamàha --------- dar÷eti /
 vàkyabhedàpatteriti #//
-#paurõamàsyadhikaraõoktarãtyà agnidevatàtvasya kàrakatàsaübandhena bhàvanàyàmanvayasya vyutpannatvàt dravye 'nvaye 'vyutpannànvayanibandhanavàkyabhedàpattirityarthaş /
+#
+paurõamàsyadhikaraõoktarãtyà agnidevatàtvasya kàrakatàsaübandhena bhàvanàyàmanvayasya vyutpannatvàt dravye 'nvaye 'vyutpannànvayanibandhanavàkyabhedàpattirityarthaş /
 ato 'tra dvitãyayà taddhitàrthasyodde÷yatàpratãtestasyaca sarvanàmàrthakatvàt svavàkyopàttàbhàve pràkaraõikaparàmar÷itvàt prakçtahavirmàtrodde÷àvagateragnisaübandhitvaråpavi÷eùaõasyàvivakùitatvàt haviùñvamudde÷yatàvacchedakam, athavà -------- dravyasaükocaparihàràya taddhitasya saübandhasàmànyarthatvàïgãkàreõàgnaş kàrakatvàbhàvena dravye 'pyanvayavyutpatteş vi÷eùaõasyàpi vivakùopapattyà agnisaübandhihaviùñvaü vodde÷yatàvacchedakaü vaktavyam /
 tàdç÷odde÷yatàvacchedakaråpàkràntatvasya sarvatràvi÷eùàt prathame pakùe aïgapradhànasàdhàraõahavirmàtre dvitãye agnisaübandhimàtràjyasàdhàraõyena caturdhàkaraõasiddhirityabhipretya pårvapakùamupapàdayati -------- apitviti /
 asticeti  //
@@ -959,21 +1082,28 @@ dravyaparatvavivakùàyàü pracuraprayogàdanu÷àsanàcca devatàtvavi÷iùñadravya eva ÷
 pratyekamabhisaübandhàditi //
 yathaiva 'ghañapañàvànaye' tyatra karmatvaü dvandvànte vibhakteş ÷råyamàõatvàt pratyekaü bhavati /
 evaü taddhitasyàpyante ÷ravaõàt tadarthadeyatàtvasyàpi tyajyamànadevatodde÷akarmatvaråpasya vyàsaktatvàsaübhavàcca pratyekameva devatàtvàïgãkàràt dvidevatye'pi tatsadbhàvàt caturdhàkaraõaü pràpyetaivetyarthaş #//
-#akhaõóopàdhãti //
+#
+akhaõóopàdhãti //
 tena dampatyoş kartçtvasyeva devatàtvasyàpyakhaõóopàdhiråpasya vyàsaktatvàvirodha ityarthaş /
 ghañapañàvityatra tu tayorudde÷yatvena tatsàhityasyàvivakùitatvàt tatra pratyekameva karmatvaü yuktamiti vaiùamyopapàdanàyàha ---------- ata eveti /
 tasyeti #//
-#"såktahaviùoriùñi"riti smaraõena dravyamàtrasya taddhitenànukterityarthaş #//
-#niyamyata iti //
+#
+"såktahaviùoriùñi"riti smaraõena dravyamàtrasya taddhitenànukterityarthaş #//
+#
+niyamyata iti //
 yena havişparatvaü prathamata evàvabudhyetetyarthaş /
 ato devatàtaddhitasya såktahavirvàcyatvaniyamakaraõàdupajãvyasya prathamàvagatasya devatàtvasyaivàpårvasàdhanatvalakùakatvopapattyà pràtãtikodde÷yatàvacchedakatvamityàha -------- ata iti #//
-#nanu evamapi vakùyamàõa÷àtapatha÷rutimålena "ubhau và avi÷eùàdi"ti kàtyàyanavacanena agnãùomãye 'pi tatpràpteş kathaü tasya àgneyamàtraviùayatàsiddhirityato niyàmakamàha ---------- tenaceti #//
-#"taü caturdhàkçtvà puroóà÷aü barhiùadaü karotã"ti ÷atapathagataü vàkyaü tacchabdena puroóà÷aparàmar÷ena puroóà÷amàtrasya caturdhàkaraõavidhàyakamevàrthato dhçtam /
+#
+nanu evamapi vakùyamàõa÷àtapatha÷rutimålena "ubhau và avi÷eùàdi"ti kàtyàyanavacanena agnãùomãye 'pi tatpràpteş kathaü tasya àgneyamàtraviùayatàsiddhirityato niyàmakamàha ---------- tenaceti #//
+#
+"taü caturdhàkçtvà puroóà÷aü barhiùadaü karotã"ti ÷atapathagataü vàkyaü tacchabdena puroóà÷aparàmar÷ena puroóà÷amàtrasya caturdhàkaraõavidhàyakamevàrthato dhçtam /
 etàdç÷opasaühàrànaïgãkàre ÷àkhàntarãyatve 'pi pratyakùavàkyavihitasya puroóà÷amàtracaturdhàkaraõasya sarvathà bàdhàyogàt vikalpàpattiş, àgneyapadasyaiva puroóà÷asàmànyalakùaõayà tena sahopasaühàrakalpane ÷akyatàvacchedakànavacchinnapadàrthalakùaõàpatti÷ca, ataş puroóà÷apadasyaiva ÷akyatàvacchedakàvacchinnàgneyamàtraparatvalakùaõayà upasaühàraş  //
 ataevoktam ------- "sàmànyavidhiraspaùñaş saühriyeta vi÷eùataş" //
 iti #//
-#ata÷ca sàmànya÷àstrasya prathamapravçttikatvàbhàvàt phalataş parisaïkhyàvàntarabhedastanmàtre saükocaråpopasaühàraş sàmànyavàkyasyeti ÷ruterapyàgneyamàtraviùayatvàt kàtyàyanavacanaü hetåpanyàsàdapramàõamityarthaş #//
-#naca ------- ÷àtapathavàkye caturdhàkaraõottarakàlatvavi÷iùñabarhiùatkaraõabhàvanàyà bhakùàïgatvena vidhànàt kramavi÷eùaõatayànådyamànasya caturdhàkaraõasya vidhyabhàve kathaü tasya tadviùaye sàmànyavidhitvaü iti ------- vàcyam; ÷àkhàntarãyatvena tacchàkhãyànpratãtyabhyudaya÷iraskatvaphalakalpanayà vi÷iùñavidhyaïgãkàreõa tasyàpi vidhànopapatteş /
+#
+ata÷ca sàmànya÷àstrasya prathamapravçttikatvàbhàvàt phalataş parisaïkhyàvàntarabhedastanmàtre saükocaråpopasaühàraş sàmànyavàkyasyeti ÷ruterapyàgneyamàtraviùayatvàt kàtyàyanavacanaü hetåpanyàsàdapramàõamityarthaş #//
+#
+naca ------- ÷àtapathavàkye caturdhàkaraõottarakàlatvavi÷iùñabarhiùatkaraõabhàvanàyà bhakùàïgatvena vidhànàt kramavi÷eùaõatayànådyamànasya caturdhàkaraõasya vidhyabhàve kathaü tasya tadviùaye sàmànyavidhitvaü iti ------- vàcyam; ÷àkhàntarãyatvena tacchàkhãyànpratãtyabhyudaya÷iraskatvaphalakalpanayà vi÷iùñavidhyaïgãkàreõa tasyàpi vidhànopapatteş /
 etena ------ parasparopasaühàre sàmànyavidhisàrthakyasaübhave 'pi anyataropasaühàre sàmànyavidhivaiyarthyamapi ------- parihçtam; abhyudaya÷iraskatvaphalakatayà sàrthakyàt /
 evamevaika÷àkhãyavàkyadvayopasaühàre 'pi draùñavyam /
 etena -------- anuùñhànavi÷eùàpekùitatvaråpàspaùñatvasya puroóà÷avàkye 'saübhave 'pi iha barhiùatkaraõasya vidhànena caturdhàkaraõàü÷e 'nuvàdatvapratãtestasyaca yathàpràptyapekùatvàt tasyà÷ca àgneyavàkyena vi÷eùaviùayatvàt sàmànyavàkyasya vi÷eùaparyavasàyitvenopasaühàratvopapàdanaü somanàthakçtaü -------- apàstam; //
@@ -983,7 +1113,8 @@ tatracànirdhàritavi÷eùatayà vi÷eùànvayayogyatvaråpàspaùñatvasya sàmànyavàkye tad
 siddhàntamupasaüharati --------- tasmàditi //
 prayojanaü spaùñatvàt noktam #//
 iti pa¤cada÷amupasaühàràdhikaraõam //
-#- - - - - - -#  
+#
+- - - - - - -#  
 
 // iti ÷rãkhaõóadevàntevàsikavimaõóana÷aübhubhaññakçtàyàü bhàññadãpikàprabhàvalyàü tçtãyàdhyàyasya prathamaş pàdaş //
 

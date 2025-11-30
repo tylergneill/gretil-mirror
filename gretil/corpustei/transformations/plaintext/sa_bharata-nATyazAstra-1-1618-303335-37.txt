@@ -3,7 +3,7 @@ Bharata: Nāṭyaśāstra 1-16, 18-30, 33, 35-37
 
 # Header
 
-  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_bharata-nATyazAstra-1-1618-303335-37.xml
+  This file is a plain text transformation of https://tylergneill.github.io/gretil-mirror/gretil/corpustei/sa_bharata-nATyazAstra-1-1618-303335-37.xml
   with a rudimentary header. For a more extensive header please refer to the source file.
 
 ## Data entry: Padmakar Dadegaonkar, Sowmya Krishnapur, and Haresh Bakshi

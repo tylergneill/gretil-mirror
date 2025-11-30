@@ -3,7 +3,7 @@ Laghuyamasmṛti (Yamasmṛti, 99-verse version)
 
 # Header
 
-  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_yamasmRti-99v.xml
+  This file is a plain text transformation of https://tylergneill.github.io/gretil-mirror/gretil/corpustei/sa_yamasmRti-99v.xml
   with a rudimentary header. For a more extensive header please refer to the source file.
 
 ## Data entry: Jürgen Neuß

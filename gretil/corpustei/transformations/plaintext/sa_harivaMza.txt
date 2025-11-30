@@ -3,7 +3,7 @@ Harivaṃśa constituted text with star passages
 
 # Header
 
-  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_harivaMza.xml
+  This file is a plain text transformation of https://tylergneill.github.io/gretil-mirror/gretil/corpustei/sa_harivaMza.xml
   with a rudimentary header. For a more extensive header please refer to the source file.
 
 ## Data entry: Atul Agarwala, J. Wayne Bass, Julie Bélanger, Peter Bisschop, Horst Brinkhaus, John Brockington, Eva De Clercq, André Couture, James Fitzgerald, Arlo Griffiths, N. Hanemann, Petteri Koskikallio, Kreshimir Krnic, Anne Mossner, Luther Obrock, François Painchaud, Utz Podzeit, Peter Schreiner, Sandra Smets, Renate Söhnen-Thieme, Christophe Vielle, and Andreas Viethsen

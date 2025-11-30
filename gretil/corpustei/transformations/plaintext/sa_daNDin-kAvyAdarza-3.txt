@@ -3,7 +3,7 @@ Daṇḍin: Kāvyādarśa 3
 
 # Header
 
-  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_daNDin-kAvyAdarza-3.xml
+  This file is a plain text transformation of https://tylergneill.github.io/gretil-mirror/gretil/corpustei/sa_daNDin-kAvyAdarza-3.xml
   with a rudimentary header. For a more extensive header please refer to the source file.
 
 ## Data entry: Dragomir Dimitrov

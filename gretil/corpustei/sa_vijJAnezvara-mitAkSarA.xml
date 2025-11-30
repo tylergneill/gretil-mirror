@@ -45,7 +45,7 @@
           <p>Copyright Notice</p>
           <p>Copyright 2020 Patrick Olivelle, Donald R. Davis, Amy Hyne-Sutherland, Nikola Rajić, GRETIL, and SARIT</p>
 	  
-          <p>Distributed by <ref target="http://gretil.sub.uni-goettingen.de/">GRETIL</ref> and <ref target="http://sarit.indology.info" type="url">SARIT</ref> under a <ref target="http://creativecommons.org/licenses/by-sa/4.0/" type="licence">Creative Commons Attribution-ShareAlike 4.0 International License.</ref>
+          <p>Distributed by <ref target="https://tylergneill.github.io/gretil-mirror/">GRETIL</ref> and <ref target="http://sarit.indology.info" type="url">SARIT</ref> under a <ref target="http://creativecommons.org/licenses/by-sa/4.0/" type="licence">Creative Commons Attribution-ShareAlike 4.0 International License.</ref>
           </p>
           <p>Under this licence, you are free
 	  <list>
@@ -168,7 +168,7 @@
       </langUsage>
 
       <textClass>
-	<keywords scheme="http://gretil.sub.uni-goettingen.de/">
+	<keywords scheme="https://tylergneill.github.io/gretil-mirror/">
 	  <term>Sanskrit -- Śāstra -- Dharma -- Nibandha</term>
 	  <term>Sanskrit -- Śāstra -- Dharma -- Smṛti</term>
 	</keywords>

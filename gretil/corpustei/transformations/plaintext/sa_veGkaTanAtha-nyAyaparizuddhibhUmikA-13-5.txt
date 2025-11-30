@@ -3,7 +3,7 @@ Veṅkaṭanātha [Vedāntadeśika]: Nyāyapariśuddhi, Bhūmikā, 1, 3-5
 
 # Header
 
-  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_veGkaTanAtha-nyAyaparizuddhibhUmik-A13-5.xml
+  This file is a plain text transformation of https://tylergneill.github.io/gretil-mirror/gretil/corpustei/sa_veGkaTanAtha-nyAyaparizuddhibhUmik-A13-5.xml
   with a rudimentary header. For a more extensive header please refer to the source file.
 
 ## Data entry: members of the Sansknet Project

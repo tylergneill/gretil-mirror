@@ -3,7 +3,7 @@ Vijñāneśvara: Mitākṣarā, a commentary on the Yājñavalkya-dharmaśāstra
 
 # Header
 
-  This file is a plain text transformation of http://gretil.sub.uni-goettingen.de/gretil/corpustei/sa_vijJAnezvara-mitAkSarA.xml
+  This file is a plain text transformation of https://tylergneill.github.io/gretil-mirror/gretil/corpustei/sa_vijJAnezvara-mitAkSarA.xml
   with a rudimentary header. For a more extensive header please refer to the source file.
 
 ## Data entry: Donald R. Davis, Jr.Amy Hyne-SutherlandNikola Rajić

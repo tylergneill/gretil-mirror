@@ -38,13 +38,13 @@
   </publicationStmt>
 
   <notesStmt>
-	<note>This file has been created by mass conversion of GRETIL's Sanskrit corpus from <ref target="http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/4_rellit/buddh/cansisyu.htm">cansisyu.htm</ref>. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the <gi>note</gi> element below:</note>
+	<note>This file has been created by mass conversion of GRETIL's Sanskrit corpus from <ref target="https://tylergneill.github.io/gretil-mirror/gretil/1_sanskr/4_rellit/buddh/cansisyu.htm">cansisyu.htm</ref>. Due to the heterogeneity of the sources the header markup might be suboptimal. For the sake of transparency the header of the legacy file is documented in the <gi>note</gi> element below:</note>
 	<note type="legacyheader">
 	 Candragomin: Sisyalekha = Śl
 <lb/>Based on the ed. by I. Minaev: "Poslanie k uceniku",
 <lb/>in: Zapiski Vostocnago Otdelenija Russkago Archeologiceskago Obscestva, 4 (1889), pp. 29-52.
 <lb/>
-<lb/>[SEE ALSO <ref target="http://resolver.sub.uni-goettingen.de/purl/?gr_elib-161">the facsimiles of I. Minaev's edition (1889)</ref> in the <ref target="http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gr_elib.htm">GRETIL e-library</ref>]
+<lb/>[SEE ALSO <ref target="http://resolver.sub.uni-goettingen.de/purl/?gr_elib-161">the facsimiles of I. Minaev's edition (1889)</ref> in the <ref target="http://https://tylergneill.github.io/gretil-mirror/gr_elib.htm">GRETIL e-library</ref>]
 <lb/>
 <lb/>Input by members of the Sanskrit Buddhist Input Project.
 <lb/>With kind permission of the Digital Sanskrit Buddhist Canon Project
@@ -304,7 +304,7 @@
   </langUsage>
 
   <textClass>
-  <keywords scheme="http://gretil.sub.uni-goettingen.de/">
+  <keywords scheme="https://tylergneill.github.io/gretil-mirror/">
 	<term>Sanskrit -- Religious Literature -- Buddhist</term>
   </keywords>
   </textClass>
