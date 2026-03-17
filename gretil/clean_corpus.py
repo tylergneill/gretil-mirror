@@ -2,10 +2,14 @@
 """
 clean_corpus.py — Clean and rename GRETIL corpus files.
 
-1. Deletes all CSX (_c.txt) files, after verifying each has a corresponding Unicode .htm.
-2. Loops through TEI XML files, extracts the source .htm path from <notesStmt>,
-   and renames both the .htm and IAST _r.txt file to match the TEI XML filename (sans .xml).
-3. Updates the <ref target> in each XML to point to the new filename.
+1. Deletes CSX transliteration files (*c.txt) when they contain the CSX marker `‡` (ā).
+2. Deletes RE transliteration files (*r.txt) when they contain the RE marker `√` (ā).
+3. Deletes MBh archive artifacts: `mbh1-18*.zip` and the `mbh/sas` subtree.
+4. Renames the referenced .htm file to match the TEI XML filename.
+5. Updates the <ref target> in each XML to point to the new filename.
+
+The transliteration files are legacy-encoded, typically MacRoman rather than UTF-8,
+so marker detection is done against raw bytes using known encodings.
 
 Expected directory layouts (auto-detected):
 
@@ -29,10 +33,11 @@ Expected directory layouts (auto-detected):
         ...
 
 Usage:
-    python clean_corpus.py [--keep both|htm|txt] [--dry-run]
+    python clean_corpus.py [--dry-run]
 """
 
 import argparse
+import glob
 import os
 import re
 import shutil
@@ -40,18 +45,15 @@ import sys
 
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+MBH_DIR = os.path.join(SCRIPT_DIR, "1_sanskr", "2_epic", "mbh")
+CSX_MARKER = "\u2021"
+RE_MARKER = "\u221a"
 
 
 def parse_args():
     parser = argparse.ArgumentParser(
         description="Clean and rename GRETIL corpus files.",
         epilog="Run from the directory containing the text subdirectories.",
-    )
-    parser.add_argument(
-        "--keep",
-        choices=["both", "htm", "txt"],
-        default="both",
-        help="Which files to keep after renaming: both (default), htm only, or txt only",
     )
     parser.add_argument(
         "--dry-run",
@@ -99,7 +101,7 @@ def find_text_subdirs(base_dir):
 
 
 def find_csx_files(base_dir, subdirs):
-    """Find all _c.txt files in the text subdirectories."""
+    """Find all *c.txt files in the text subdirectories."""
     csx_files = []
     for subdir in subdirs:
         subdir_path = os.path.join(base_dir, subdir)
@@ -110,27 +112,118 @@ def find_csx_files(base_dir, subdirs):
     return csx_files
 
 
-def verify_and_delete_csx(csx_files, dry_run):
-    """Delete CSX files, but only if each has a corresponding Unicode .htm."""
-    deleted = 0
-    skipped = []
-    for c in csx_files:
-        stem = os.path.basename(c)[:-4]  # strip .txt
-        htm = os.path.join(os.path.dirname(c), stem[:-1] + "u.htm")
-        if not os.path.exists(htm):
-            skipped.append(c)
-            continue
-        if dry_run:
-            print(f"  [dry-run] DELETE {c}")
-        else:
-            os.remove(c)
-        deleted += 1
+def find_re_files(base_dir, subdirs):
+    """Find all *r.txt files in the text subdirectories."""
+    re_files = []
+    for subdir in subdirs:
+        subdir_path = os.path.join(base_dir, subdir)
+        for root, dirs, files in os.walk(subdir_path):
+            for f in files:
+                if f.endswith(".txt") and f[:-4].endswith("r"):
+                    re_files.append(os.path.join(root, f))
+    return re_files
 
-    if skipped:
-        print(f"WARNING: {len(skipped)} CSX files skipped (no matching .htm):")
-        for s in skipped:
-            print(f"  {s}")
-    return deleted
+
+def file_contains(path, needle):
+    """Return whether a file contains a marker in known legacy encodings."""
+    with open(path, "rb") as f:
+        data = f.read()
+
+    for encoding in ("utf-8", "mac_roman", "cp1252"):
+        try:
+            encoded_needle = needle.encode(encoding)
+        except UnicodeEncodeError:
+            continue
+        if encoded_needle in data:
+            return True
+    return False
+
+
+def maybe_delete_marked_txt(path, suffix_label, marker, dry_run):
+    """Delete a marked text file when its encoding-specific marker is present."""
+    if not os.path.exists(path):
+        return "missing"
+
+    if not file_contains(path, marker):
+        print(f"{suffix_label} file NOT deleted: {path}")
+        return "kept"
+
+    if not dry_run:
+        os.remove(path)
+    return "deleted"
+
+
+def maybe_delete_path(path, dry_run):
+    """Delete a file or directory if it exists."""
+    if not os.path.exists(path):
+        return "missing"
+
+    if not dry_run:
+        if os.path.isdir(path):
+            shutil.rmtree(path)
+        else:
+            os.remove(path)
+    return "deleted"
+
+
+def count_tree_entries(path):
+    """Count all filesystem entries under a path, including the path itself."""
+    if not os.path.exists(path):
+        return 0
+
+    total = 1
+    if os.path.isdir(path):
+        for root, dirs, files in os.walk(path):
+            total += len(dirs) + len(files)
+    return total
+
+
+def verify_and_delete_csx(csx_files, dry_run):
+    """Delete *c.txt files only when they contain the CSX marker `‡`."""
+    deleted = 0
+    kept = 0
+    for c in csx_files:
+        result = maybe_delete_marked_txt(c, "*c.txt", CSX_MARKER, dry_run)
+        if result == "deleted":
+            deleted += 1
+        elif result == "kept":
+            kept += 1
+    return {"total": len(csx_files), "deleted": deleted, "kept": kept}
+
+
+def verify_and_delete_re(re_files, dry_run):
+    """Delete *r.txt files only when they contain the RE marker `√`."""
+    deleted = 0
+    kept = 0
+    for path in re_files:
+        result = maybe_delete_marked_txt(path, "*r.txt", RE_MARKER, dry_run)
+        if result == "deleted":
+            deleted += 1
+        elif result == "kept":
+            kept += 1
+    return {"total": len(re_files), "deleted": deleted, "kept": kept}
+
+
+def cleanup_mbh_artifacts(dry_run):
+    """Delete `mbh1-18*.zip` files and the `mbh/sas` subtree."""
+    zip_paths = sorted(glob.glob(os.path.join(MBH_DIR, "mbh1-18*.zip")))
+    zip_deleted = 0
+    for path in zip_paths:
+        if maybe_delete_path(path, dry_run) == "deleted":
+            zip_deleted += 1
+
+    sas_path = os.path.join(MBH_DIR, "sas")
+    sas_entries = count_tree_entries(sas_path)
+    sas_result = maybe_delete_path(sas_path, dry_run)
+
+    return {
+        "zip_found": len(zip_paths),
+        "zip_deleted": zip_deleted,
+        "sas_path": sas_path,
+        "sas_entries": sas_entries,
+        "sas_deleted": sas_entries if sas_result == "deleted" else 0,
+        "sas_missing": 1 if sas_result == "missing" else 0,
+    }
 
 
 def extract_htm_ref(xml_path):
@@ -183,20 +276,49 @@ def resolve_htm_rel(htm_ref, base_dir):
     return None
 
 
-def derive_txt_path(htm_rel):
-    """Given a relative .htm path, derive the corresponding _r.txt path."""
-    stem = htm_rel[:-4]  # strip .htm
-    if stem.endswith("u"):
-        return stem[:-1] + "r.txt"
-    return None
+def count_htm_files(base_dir, excluded_paths=None):
+    """Count remaining .htm files under the text tree, excluding removed subtrees."""
+    excluded_paths = {
+        os.path.normpath(path)
+        for path in (excluded_paths or [])
+    }
+    total = 0
+    for root, dirs, files in os.walk(base_dir):
+        root_norm = os.path.normpath(root)
+        dirs[:] = [
+            d for d in dirs
+            if os.path.normpath(os.path.join(root, d)) not in excluded_paths
+        ]
+        if root_norm in excluded_paths:
+            dirs[:] = []
+            continue
+        for name in files:
+            if name.endswith(".htm"):
+                total += 1
+    return total
 
 
-def rename_files(base_dir, tei_dir, subdirs, keep, dry_run):
-    """Rename .htm and .txt files to match their TEI XML filename."""
+def print_grouped_xml_skips(skipped_details):
+    """Print skipped XML files grouped under shared reason headers."""
+    grouped = {}
+    for xml_name, category, detail in skipped_details:
+        grouped.setdefault(category, []).append((xml_name, detail))
+
+    print("XML skipped detail:")
+    for category in sorted(grouped):
+        print(category)
+        for xml_name, detail in grouped[category]:
+            if detail:
+                print(f"  {xml_name}: {detail}")
+            else:
+                print(f"  {xml_name}")
+
+
+def rename_files(base_dir, tei_dir, subdirs, dry_run):
+    """Rename .htm files to match their TEI XML filename."""
     subdir_set = set(subdirs)
     renamed = 0
-    skipped = []
-    absent_subdirs = {}  # subdir -> count of skipped entries
+    xml_skipped = []
 
     for xml_name in sorted(os.listdir(tei_dir)):
         if not xml_name.endswith(".xml"):
@@ -207,93 +329,47 @@ def rename_files(base_dir, tei_dir, subdirs, keep, dry_run):
 
         htm_ref = extract_htm_ref(xml_path)
         if htm_ref is None:
-            skipped.append((xml_name, "no valid <ref> in notesStmt"))
+            xml_skipped.append((xml_name, "no valid <ref> in notesStmt", None))
             continue
 
         htm_rel = resolve_htm_rel(htm_ref, base_dir)
         if htm_rel is None:
-            # Check if it's in an absent subdirectory
-            top_dir = htm_ref.split("/")[0]
-            # For zip layout, the first component might be 1_sanskr
-            if top_dir == os.path.basename(base_dir):
-                parts = htm_ref.split("/")
-                top_dir = parts[1] if len(parts) > 1 else top_dir
-            if top_dir not in subdir_set:
-                absent_subdirs[top_dir] = absent_subdirs.get(top_dir, 0) + 1
-                continue
-            skipped.append((xml_name, f"referenced .htm not found: {htm_ref}"))
+            xml_skipped.append((xml_name, "stated source in <notesStmt> not found", htm_ref))
             continue
 
         # Check the top-level subdir is present
         top_dir = htm_rel.split("/")[0]
         if top_dir not in subdir_set:
-            absent_subdirs[top_dir] = absent_subdirs.get(top_dir, 0) + 1
+            xml_skipped.append((xml_name, "top-level subdir absent", top_dir))
             continue
 
         htm_path = os.path.join(base_dir, htm_rel)
         htm_dir = os.path.dirname(htm_path)
-        txt_rel = derive_txt_path(htm_rel)
-        txt_path = os.path.join(base_dir, txt_rel) if txt_rel else None
-        txt_exists = txt_path and os.path.exists(txt_path)
-
         new_htm = os.path.join(htm_dir, new_stem + ".htm")
-        new_txt = os.path.join(htm_dir, new_stem + ".txt") if txt_rel else None
 
         # Rename .htm
-        if keep in ("both", "htm"):
-            if dry_run:
-                print(f"  [dry-run] RENAME {htm_path} -> {new_htm}")
-            else:
-                shutil.move(htm_path, new_htm)
-        else:
-            if dry_run:
-                print(f"  [dry-run] DELETE {htm_path}")
-            else:
-                os.remove(htm_path)
-
-        # Rename .txt
-        if txt_exists:
-            if keep in ("both", "txt"):
-                if dry_run:
-                    print(f"  [dry-run] RENAME {txt_path} -> {new_txt}")
-                else:
-                    shutil.move(txt_path, new_txt)
-            else:
-                if dry_run:
-                    print(f"  [dry-run] DELETE {txt_path}")
-                else:
-                    os.remove(txt_path)
-        elif keep in ("both", "txt"):
-            skipped.append((xml_name, f"no _r.txt found for {htm_rel}"))
+        if not dry_run:
+            shutil.move(htm_path, new_htm)
 
         # Update the <ref target> in the XML
-        update_xml_ref(xml_path, htm_ref, new_stem, keep, dry_run)
+        update_xml_ref(xml_path, htm_ref, new_stem, dry_run)
 
         renamed += 1
 
-    if absent_subdirs:
-        total = sum(absent_subdirs.values())
-        breakdown = ", ".join(f"{k}: {v}" for k, v in sorted(absent_subdirs.items()))
-        print(f"Skipped {total} entries for absent subdirectories ({breakdown})")
-
-    if skipped:
-        print(f"\nWARNINGS ({len(skipped)}):")
-        for name, reason in skipped:
-            print(f"  {name}: {reason}")
-
-    return renamed
+    return {
+        "xml_renamed": renamed,
+        "xml_skipped": len(xml_skipped),
+        "xml_skipped_details": xml_skipped,
+    }
 
 
-def update_xml_ref(xml_path, old_htm_ref, new_stem, keep, dry_run):
+def update_xml_ref(xml_path, old_htm_ref, new_stem, dry_run):
     """Update the <ref target> URL in the XML to use the new filename."""
     with open(xml_path, "r", errors="replace") as f:
         content = f.read()
 
     old_basename = os.path.basename(old_htm_ref)
-    if keep == "txt":
-        new_ref_basename = new_stem + ".txt"
-    else:
-        new_ref_basename = new_stem + ".htm"
+    new_ref_basename = new_stem + ".htm"
 
     def replace_ref(m):
         url = m.group(1)
@@ -307,9 +383,7 @@ def update_xml_ref(xml_path, old_htm_ref, new_stem, keep, dry_run):
     )
 
     if new_content != content:
-        if dry_run:
-            print(f"  [dry-run] UPDATE XML ref in {os.path.basename(xml_path)}")
-        else:
+        if not dry_run:
             with open(xml_path, "w") as f:
                 f.write(new_content)
 
@@ -319,19 +393,29 @@ def main():
     base_dir, tei_dir = detect_layout()
     subdirs = find_text_subdirs(base_dir)
 
-    print(f"Text directory: {base_dir}")
-    print(f"TEI directory:  {tei_dir}")
-    print(f"Text subdirectories found: {', '.join(subdirs)}\n")
-
-    print("=== Step 1: Delete redundant CSX (_c.txt) files ===")
     csx_files = find_csx_files(base_dir, subdirs)
-    deleted = verify_and_delete_csx(csx_files, args.dry_run)
-    print(f"{'Would delete' if args.dry_run else 'Deleted'} {deleted} CSX files.\n")
+    c_stats = verify_and_delete_csx(csx_files, args.dry_run)
+    re_files = find_re_files(base_dir, subdirs)
+    r_stats = verify_and_delete_re(re_files, args.dry_run)
+    mbh_stats = cleanup_mbh_artifacts(args.dry_run)
 
-    print("=== Step 2: Rename .htm/.txt to match TEI XML filenames ===")
-    renamed = rename_files(base_dir, tei_dir, subdirs, args.keep, args.dry_run)
-    print(f"\n{'Would rename' if args.dry_run else 'Renamed'} files for {renamed} TEI entries.")
-    print(f"Mode: --keep {args.keep}")
+    run_stats = rename_files(base_dir, tei_dir, subdirs, args.dry_run)
+    excluded_paths = []
+    if mbh_stats["sas_deleted"]:
+        excluded_paths.append(mbh_stats["sas_path"])
+    htm_remaining = count_htm_files(base_dir, excluded_paths=excluded_paths)
+
+    print(
+        "Summary:\n"
+        f".htm remaining: {htm_remaining}\n"
+        f"*c.txt total {c_stats['total']}, deleted {c_stats['deleted']} (found ‡=ā), not deleted {c_stats['kept']}\n"
+        f"*r.txt total {r_stats['total']}, deleted {r_stats['deleted']} (found √=ā), not deleted {r_stats['kept']}\n"
+        f"MBH cleanup: mbh1-18*.zip found {mbh_stats['zip_found']}, deleted {mbh_stats['zip_deleted']}; sas entries deleted {mbh_stats['sas_deleted']}, missing {mbh_stats['sas_missing']}\n"
+        f"XML processed {run_stats['xml_renamed']}, skipped {run_stats['xml_skipped']}"
+    )
+
+    if run_stats["xml_skipped_details"]:
+        print_grouped_xml_skips(run_stats["xml_skipped_details"])
 
 
 if __name__ == "__main__":
