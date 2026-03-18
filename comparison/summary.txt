@@ -1,0 +1,29 @@
+Here's the summary:                                                                                                       
+                                                                                                                            
+  Part 1: 1_sanskr subdirectories                                                                                           
+                                                                                                                            
+  1309 identical | 1 case rename | 13 moved | 14 added (.DS_Store only) | 11 removed                                        
+                                                                                                                            
+  Case rename: KLPDRAAU.HTM → klpdraau.htm                                                                                  
+                                                                           
+  Moved (reclassified):                                                                                                     
+  - bhgank_u.htm: samkhya → saiva                                          
+  - bowermsu.htm: 4_rellit/buddh → 6_sastra/7_ayur                                                                          
+  - dhebta_u.htm, durdhpru.htm: mimamsa → buddh                            
+  - rmc1-3au/pu/xu.htm, ruysahlu.htm: 3_drama → 2_kavya                                                                     
+  - utajp_au/iu/pu.htm: 4_rellit/vaisn → 6_sastra/3_phil/saiva                                                              
+  - vispancu.htm: 5_subhas → 4_narr                                                                                         
+  - vtrksopu.htm: 4_rellit/buddh → 6_sastra/3_phil/buddh                                                                    
+                                                                                                                            
+  Added: 14 .DS_Store files only (macOS artifacts)                                                                          
+                                                                                                                            
+  Removed (11): mbh1-18u.htm, bsa056_u.htm, sivmstau/pu/xu.htm, mrgt3miu.htm, saivjvbu.htm, bahcar5_au/pu.htm, pmbh_1su.htm,
+   rasadhpu.htm                                                                                                             
+                                                                                                                            
+  Part 2: TEI                                                                                                               
+                                         
+  1567 identical | 1 case rename | 3 truly added | 838 removed                                                              
+                                                                           
+  The 838 removed files are overwhelmingly partial/fragment versions of texts (with range suffixes like -1,84-122). Of      
+  these, 796 have a base-name match in corpustei (superseded by complete versions), and 42 are truly absent. The full
+  breakdown is in the report.  
