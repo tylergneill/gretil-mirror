@@ -1,48 +1,76 @@
 # Tyler's GRETIL mirror
 
-See: https://en.wikipedia.org/wiki/GRETIL
+This mirror is live [on GitHub Pages](https://tylergneill.github.io/gretil-mirror/gretil.html).
 
-I made this mirror because I believe people are going to continue using GRETIL by downloading files from the main website for as long as they can,
-and because I think some clarification is needed regarding this data that people are using. 
+For quick project context, see [GRETIL's Wikipedia page](https://en.wikipedia.org/wiki/GRETIL).
+
+In this entire README, I'm only talking about Sanskrit.
+
+# Official versions of GRETIL 
+
+There are no fewer than three:
+
+1. Cumulative Download — This `.zip` archive is a snapshot frozen in time, containing `.htm` (~1,325) and `.xml` files (~800)
+2. Main Site Server File Structure — With simple tools (e.g. Dominik's `wget` script), one can discover the underlying file structure on the server behind the public GRETIL website. This appears to represent a later development 
+3. Official Archive on TextGrid — The individual XML files 
+4. This file/folder  
+3. It's relatively easy to scrape a website to find its underlying structure.
+
+There are actually three distinct forms of the GRETIL collection available to the public 
+
+The final archiving of GRETIL was officially announced on 21 July 2025:
+[INDOLOGY list post](https://list.indology.info/pipermail/indology/2025-July/060853.html).
+As of today (March 2026), the [main website](http://gretil.sub.uni-goettingen.de/) is still up,
+and people still seem to be using the collection,
+often in the form of the cumulative download on their personal computers. 
+This cumulative download includes not only TEI-XML files
+(which the GRETIL team has been urging people to treat as authoritative for the last few years) 
+but also the HTML files which preceded them.
+The [official project archive on TextGrid](https://textgridrep.org/project/TGPR-2ba9cb1b-9602-202d-71ce-67e63a29de55) 
+also includes an exact copy of this cumulative download, plus an improved set of the TEI XML files. 
+
+To put a finer point on even the official situation, 
+
+I made this working mirror to maintain continuity of this valuable resource in case the main site goes down
+and people are not yet comfortable using the TextGrid archive,
+and because I think the collection warrants some clarification.  
 
 # Overview of other versions of GRETIL
 
-GRETIL officially announced that the collection was archived on 21 July 2025
-[INDOLOGY list post](https://list.indology.info/pipermail/indology/2025-July/060853.html).
-
-There are numerous versions of GRETIL on the public web at this point (March 2026):
-- the [main website](http://gretil.sub.uni-goettingen.de/) is still up
-- M. Mehner's official [TEI repo on GitHub](https://github.com/mmehner/gretil-corpus-tei) contains an important subset of the data (see below for details)
-- the official project archive is on [TextGrid](https://textgridrep.org/project/TGPR-2ba9cb1b-9602-202d-71ce-67e63a29de55)
-  - this includes XML improvements
-- D. Wujastyk has a [mirror repo on GitHub](https://github.com/INDOLOGY/GRETIL-mirror) with a `GRETIL-refresh` update script that scrapes key files directly from the above using `wget` 
+Besides the [main website](http://gretil.sub.uni-goettingen.de/) which is still up, there are numerous other versions of GRETIL on the public web, many through GitHub:
+- M. Mehner's official [TEI repo on GitHub](https://github.com/mmehner/gretil-corpus-tei) (+ [forks](https://github.com/mmehner/gretil-corpus-tei/forks?include=active%2Cinactive&page=1&period=)) contains an important subset of the data (see below for details), but I believe this is **out of date**
+- the official project archive is on [TextGrid](https://textgridrep.org/project/TGPR-2ba9cb1b-9602-202d-71ce-67e63a29de55), and it includes quasi-official **improvements** to the TEI XML
+- D. Wujastyk has a [mirror repo on GitHub](https://github.com/INDOLOGY/GRETIL-mirror) (+ [forks](https://github.com/INDOLOGY/GRETIL-mirror/forks?include=active%2Cinactive%2Cnetwork&page=1&period=&)) with a script that scrapes key files directly from the main site using `wget`
 - C. Teodorescu has a [searchable version](https://claudius-teodorescu.gitlab.io/gretil-corpus-site/) which runs via [two repos on GitLab](https://gitlab.com/search?search=claudius%20teodorescu%20gretil&nav_source=navbar)
   - this includes **independent** XML improvements 
-  - ostensibly related is [this additional mirror on GitHub](https://github.com/sanskrit-texts/gretil-corpus), but I'm not clear on details
-- A. Prasad (creator of Ambuda) has a [copy on GitHub with ad-hoc changes](https://github.com/ambuda-org/gretil)  
-- O. Hellwig (creator of DCS) also has a [copy on GitHub with systematic cleanup](https://github.com/OliverHellwig/sanskrit/tree/master/corpus/GRETIL) for NLP purposes 
+  - I'm not sure how this relates to [this additional mirror of his on GitHub](https://github.com/sanskrit-texts/gretil-corpus)
+- A. Prasad (creator of Ambuda) has a [copy on GitHub with ad-hoc changes](https://github.com/ambuda-org/gretil) (+ [forks](https://github.com/ambuda-org/gretil/forks?include=active&page=1&period=))
+- O. Hellwig (creator of DCS) added a copy with **systematic cleanup for NLP purposes** to [his larger sanskrit repo on GitHub](https://github.com/OliverHellwig/sanskrit/tree/master/corpus/GRETIL) (see [recent forks](https://github.com/OliverHellwig/sanskrit/forks?include=active%2Cinactive&page=1&period=1y)) 
 
 There is **no official, public Git repo for the entire GRETIL site**.
 
 # This repo
 
-Like D. Wujastyk's, this mirror repo was also scraped from the main site, but in a slightly more comprehensive fashion, also including .zip archives, a few .pdf files. It then makes the following changes:
-- some technical changes to get the site to work as expected (see commit history for details)
+Like D. Wujastyk's, this mirror repo was also scraped from the main site, 
+but in a slightly more comprehensive fashion, 
+e.g. also including .zip archives and a few .pdf files.
+
+It then makes the following further changes:
+- some technical changes to get the site to work as expected when deployed with GitHub Pages (see commit history for details)
   - links to the full original domain were modified to stay within the mirror
   - adjusted CSS filename
   - etc.
 - the large `1_sanskr.zip` file was removed and offloaded as a GitHub Release artifact to respect standard Git filesize limits (other .zip archives were small enough to retain without issue)
-- a working version of the mirror has been [deployed with GitHub Pages](https://tylergneill.github.io/gretil-mirror/gretil.html) 
 - this README has been added as a research document attempting to make sense of the various versions
 - a `cleanup.py` script has been added to allow users to create a more useful local version for searching (thanks to Alex Watson for the idea!)
 
+Last but not least, it's deployed [live on GitHub Pages](https://tylergneill.github.io/gretil-mirror/gretil.html). 
+
 # Historical layers of GRETIL's Sanskrit collection
 
-(NB: I haven't explored the non-Sanskrit parts of the collection.)
+GRETIL's Sanskrit collection has **four (4)** distinct layers, with sublayers.
 
-It's helpful to think in terms of **four (4)** distinct layers here:
-
-## 1. The legacy HTM structure (~1,390 files)
+## 1a. The source categorical structure, primary .htm only (~1,325 files)
 
 This layer, which can be unearthed during a direct scrape of the site,
 consists of `.htm` files organized into categorical subdirectories:
@@ -50,32 +78,76 @@ consists of `.htm` files organized into categorical subdirectories:
 ```
 1_sanskr/
   1_veda/
+    1_sam/
+      1_rv/
+    2_bra/
+      satapath/
+    3_ara/
+    ...
   2_epic/
+    mbh/
+    ramayana/
   3_purana/
+    ...
   4_rellit/
+    buddh/
+    jaina/
+    ...
   5_poetry/
+    1_alam/
+    1_chandas/
+    ...
   6_sastra/
+    1_gram/
+    2_lex/
+    3_phil/
+      advaita/
+      buddh/
+      ...
+    4_dharma/
+    ...
   7_fromindonesia/
 ```
 
-These files use a cryptic naming convention, 
+This structure should be familiar to anyone who has used either the navbar on the main site or the cumulative download.
+
+The `.htm` files in these folders use a cryptic naming convention, 
 most frequently 8 characters long before the file extension, e.g., `aitupsbu.htm`.
 
-In my reading, THIS is the most broadly valuable layer of the project, for reasons I'll detail below.
+In the filename `aitupsbu.htm` above, the final `u` indicates "Unicode", i.e., IAST transliteration.
+(There are also `.txt` files ending in `c` for "CSX" and `r` for "Ronald E. Emmerick", respectively,
+for more on which, see section 1c below.)
+
+There are other conventions, too, like `a` for "analytic", `i` for "index", `p` for "plaintext", etc.,
+but these are used less consistently.
+
+## 1b. The "SAS MBh" .htm (~2,060 files)
+
+SAS is the name of a programming language, which Hans Ruelius used to create "The Mahabharata Online".
+A prototype of this project is hosted by GRETIL, 
+which the scrape also discovers and locates at `1_sanskr/2_epic/mbh/sas`.
+This is not useful for most people.
+
+## 1c. The CSX and RE .txt legacy transliteration files .txt (~2,640 files)
+
+As alluded to above, GRETIL once relied more on legacy ASCII-based Romanizations instead of Unicode IAST.
+The scrape reveals `.txt` files with suffixes `c` and `r` (CSX, Ronald E. Emmerick, respectively).
+These are just clutter at this point.
 
 ## 2a. The TEI layer (~800 files)
 
 This is the more highly curated portion of the collection.
 
-Starting in 2017, M. Mehner converted select `.htm` files (about 800 out of 1,390) to TEI-conformant XML.
+Starting in 2017, M. Mehner converted select `.htm` files (about 785 out of ~1,325) to TEI-conformant XML.
 The curated set still includes some intentional duplications (e.g. a text with and without commentary),
-but it generally excludes fragments, indexes, and miscellaneous variants from the legacy layer.
+but it generally excludes the fragments, indexes, and miscellaneous other variants from the legacy layer.
 See his [TEI repo on GitHub](https://github.com/mmehner/gretil-corpus-tei).
-Further technical TEI improvements for this set happened for the official project archive on [TextGrid](https://textgridrep.org/project/TGPR-2ba9cb1b-9602-202d-71ce-67e63a29de55).
+Further technical TEI improvements for this set happened for the official project archive on [TextGrid](https://textgridrep.org/project/TGPR-2ba9cb1b-9602-202d-71ce-67e63a29de55),
+and C. Teodorescu also carried out his own,  (see Overview above).
 
-A notable difference about these files is that they have descriptive filenames,
+A notable difference about these `.xml` files is that they have descriptive filenames,
 e.g. `sa_aitareyopaniSad-comm.xml`.
-With few exceptions, each XML file's `<notesStmt>` records which legacy `.htm` file it was converted from.
+With few exceptions, each XML file's `<notesStmt>` element records which legacy `.htm` file it was converted from.
 
 In turn, these `.xml` files were then back-transformed into `.htm` renderings 
 (as well as plaintext `.txt` versions), which are stored in the `transformations/` subfolder.
@@ -93,7 +165,7 @@ There are also a few items which are displayed on the GRETIL website main page b
 
 This ostensibly has something to do with the size of these items and their being imported from other platforms. 
 
-## 3. The 1_sanskr.zip snapshot (~1,390 files + TEI)
+## 3. The 1_sanskr.zip snapshot (~1,325 files + TEI)
 
 On the GRETIL website main page, under "Cumulative Download", users can download .zip archives with a single click.
 Given the simplicity of this download method, this version is probably the one on most people's computers.
@@ -130,7 +202,7 @@ It contains:
 
 ## Layer overview and summation
 
-1. Legacy HTM structure (~1,390 files)
+1. Legacy HTM structure (~1,325 files)
 2. Main page TEI + non-TEI (~800 + 50 files)
 3. TEI transformations (~1,600 files)
 4. Cruft (~3,700 files)
